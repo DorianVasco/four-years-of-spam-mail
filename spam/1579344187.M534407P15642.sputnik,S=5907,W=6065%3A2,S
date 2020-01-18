@@ -1,0 +1,158 @@
+Return-Path: <bounces+1098871-7a2c-mail=dorianvasco.de@email.bandcamp.com>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 21677D5AB0
+	for <mail@dorianvasco.de>; Tue, 19 Dec 2017 13:48:56 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: 1.783
+X-Spam-Level: *
+X-Spam-Status: No, score=1.783 required=5.5 tests=[DKIM_SIGNED=0.1,
+	DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1, HTML_IMAGE_ONLY_24=1.282,
+	HTML_IMAGE_RATIO_04=0.61, HTML_MESSAGE=0.001, SPF_PASS=-0.001,
+	T_RP_MATCHES_RCVD=-0.01, URIBL_BLOCKED=0.001] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id DAEcCC0HUdWu for <mail@dorianvasco.de>;
+	Tue, 19 Dec 2017 13:48:54 +0100 (CET)
+Received: from o5.email.bandcamp.com (o5.email.bandcamp.com [167.89.101.242])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id 958D6C0270
+	for <mail@dorianvasco.de>; Tue, 19 Dec 2017 13:48:54 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; d=bandcamp.com; 
+	h=from:to:subject:reply-to:mime-version:content-type; s=smtpapi; 
+	bh=2I2eZ4xGRZJ/Qbi2jzt9I/F2oIA=; b=tdOfqzw9cWKExmdqxnFyty6sZH04Y
+	6Q5VKZvmp6x+cjuGXM7fulsPMjvDGSJfVXzK8K83xZc7SHEqIlFYI5yL0ZUdFutA
+	q1TzLi7rQ2FEueALtdRiTcsLyhj+jtngQGomSSeaZrnSUMVs9xIGO5mGfX6jfK2e
+	wF+XyxyfaaXuuk=
+Received: by filter0335p1iad2.sendgrid.net with SMTP id filter0335p1iad2-29317-5A390AB5-13
+        2017-12-19 12:48:53.581130372 +0000 UTC
+Received: from bandcamp.com (a4.d4.a86c.ip4.static.sl-reverse.com [108.168.212.164])
+	by ismtpd0003p1las1.sendgrid.net (SG) with ESMTP id N0XjZBUaR2OVZ-08LsDDHQ
+	for <mail@dorianvasco.de>; Tue, 19 Dec 2017 12:48:52.291 +0000 (UTC)
+From: Bandcamp <noreply@bandcamp.com>
+To: mail@dorianvasco.de
+Subject: Gift cards are here!
+Reply-To: Bandcamp <noreply@bandcamp.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="this_internet_stuff_is_wild"
+Message-ID: <N0XjZBUaR2OVZ-08LsDDHQ@ismtpd0003p1las1.sendgrid.net>
+Date: Tue, 19 Dec 2017 12:48:53 +0000 (UTC)
+X-SG-EID: 7giigzkRv5byIVQi8QoJMf6K/3KfEkjMb81l2x8+gr+URRtENHor/757qbHmQNufgqSxrOt50qXJrO
+ gZ1Y5x9H3bK23sEW4ZO0sl/WM7CumKQBvYmFAp1wWuxtlGMc/daeKbyOnbDtWhYiFBpcs1SI/rEV+N
+ N/vinR3LiPQmS4IQFmxrYPYBN9vPdTJtVPdCw7kZW1HrPT1twrN0weUBWQ==
+
+This is a multi-part message in MIME format.
+--this_internet_stuff_is_wild
+Content-Type: text/plain; charset=utf-8
+content-transfer-encoding: quoted-printable
+
+=0D
+=0D
+Good news Dorian Vasco!=0D
+=0D
+You can finally give friends, loved ones and strangers from the Internet a =
+Bandcamp gift card, thereby supporting independent music and cementing your=
+ reputation as a forward-thinker to boot.=0D
+=0D
+=0D
+Get yours here: https://bandcamp.com/gift_cards?design=3D10=0D
+=0D
+/ /bandcamp=0D
+=0D
+To unsubscribe from these mailings, use the following link: https://bandcam=
+p.com/unsubscribe?token=3D997b6afc8c96866c006734a0d918d42d&email=3Dmail%40d=
+orianvasco.de
+
+--this_internet_stuff_is_wild
+Content-Type: multipart/related;
+ boundary="greetings_from_sunny_sea_ranch"
+
+--greetings_from_sunny_sea_ranch
+Content-Type: text/html; charset=utf-8
+content-transfer-encoding: quoted-printable
+
+<html>=0D
+<body>=0D
+<style type=3D"text/css">=0D
+#msg {=0D
+    color:#000;=0D
+    font-family:"Helvetica Neue",arial,verdana,sans-serif;=0D
+    line-height:150%;=0D
+}=0D
+=0D
+a {=0D
+    color:#0687f5;=0D
+    text-decoration:none;=0D
+}=0D
+=0D
+a:hover {=0D
+    text-decoration:underline;=0D
+}=0D
+=0D
+img {=0D
+    border:0;=0D
+}=0D
+=0D
+/* MOBILE TARGETING */=0D
+/* using attribute selectors in place of class, id declarations for Yahoo m=
+ail */=0D
+@media only screen and (max-device-width: 480px) {=0D
+ img.mainimage {width:324px !important; height:226px !important;}=0D
+ img[class=3Dmainimage] {width:324px !important; height:226px !important;}=
+=0D
+}=0D
+=0D
+</style>=0D
+<div id=3D"msg">=0D
+=0D
+=0D
+=0D
+=0D
+=0D
+<p>Good news Dorian Vasco!</p>=0D
+=0D
+<p>You can finally give friends, loved ones and strangers from the Internet=
+ a <a href=3D"https://bandcamp.com/gift_cards?design=3D10">Bandcamp gift ca=
+rd</a>, thereby supporting independent music and cementing your reputation =
+as a forward-thinker to boot. <a href=3D"https://bandcamp.com/gift_cards?de=
+sign=3D10"><b>Get yours here!</b></a></p>=0D
+=0D
+=0D
+=0D
+<br>=0D
+=0D
+<p><a href=3D"https://bandcamp.com/gift_cards?design=3D10"><img src=3D"http=
+s://bandcamp.com/img/email/images/20171211-giftcards.gif" alt=3D"Bandcamp G=
+ift Cards" width=3D"324" height=3D"226" border=3D"0" class=3D"mainimage"></=
+a></p><br>=0D
+=0D
+<br>=0D
+<br>=0D
+=0D
+<span style=3D"font-size:11px;border-top:1px dotted #ccc;width:95%;display:=
+block;padding:1em 0;margin:1em 0 0;"><a href=3D"https://bandcamp.com/unsubs=
+cribe?token=3D997b6afc8c96866c006734a0d918d42d&amp;email=3Dmail%40dorianvas=
+co.de" style=3D"color:#999;text-decoration:none;font-size:11px;">Unsubscrib=
+e</a></span><br>&nbsp;=0D
+=0D
+</div>=0D
+
+<img src=3D"http://email.bandcamp.com/wf/open?upn=3DCeg-2F8bgdTVbo00UkuNkQp=
+HZorcfcTmVcX4mBQhYWDXFLWbpBTp2tW68kzRzqtH5xk-2FLl6hivcY7UceZ0zx738H7gBhzZZ2=
+6cZd0aooZFLgl13RRIwJCHM3vJgfKGOB7RCS-2FXXyWu12vDD5Cz8mIydOJGaz-2FlEAllGrvLL=
+VQOYVVPB-2FhAKdA39RUxKhrzIt96zAvLC7YNnS7cO6EqUCnZvhZCs-2F2sRuAUPuWbkkK8fuw-=
+3D" alt=3D"" width=3D"1" height=3D"1" border=3D"0" style=3D"height:1px !imp=
+ortant;width:1px !important;border-width:0 !important;margin-top:0 !importa=
+nt;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !impo=
+rtant;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 =
+!important;padding-left:0 !important;"/>
+</body>=0D
+</html>
+
+
+--greetings_from_sunny_sea_ranch--
+
+--this_internet_stuff_is_wild--

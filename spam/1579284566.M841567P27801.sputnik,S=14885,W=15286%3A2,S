@@ -1,0 +1,401 @@
+Return-Path: <alice@crazycybertech.info>
+Delivered-To: mail@elementk.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 98FB9C2F10
+	for <mail@elementk.de>; Mon, 19 Aug 2019 14:50:24 +0200 (CEST)
+Authentication-Results: v22014122474822114.stilfilm.com; dkim=pass
+	reason="2048-bit key; insecure key"
+	header.d=crazycybertech-info.20150623.gappssmtp.com header.i=@crazycybertech-info.20150623.gappssmtp.com
+	header.b=dX+aqKgw; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: 1.581
+X-Spam-Level: *
+X-Spam-Status: No, score=1.581 required=5.5 tests=[BAYES_50=0.8,
+	DKIM_SIGNED=0.1, DKIM_VALID=-0.1, HTML_MESSAGE=0.001,
+	RCVD_IN_DNSWL_NONE=-0.0001, SPF_HELO_NONE=0.001, SPF_NEUTRAL=0.779]
+	autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id FJviR7pUVDh7 for <mail@elementk.de>;
+	Mon, 19 Aug 2019 14:50:21 +0200 (CEST)
+Received: from mail-pf1-f193.google.com (mail-pf1-f193.google.com [209.85.210.193])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id 75FC4C2F08
+	for <mail@elementk.de>; Mon, 19 Aug 2019 14:50:16 +0200 (CEST)
+Received: by mail-pf1-f193.google.com with SMTP id 129so1127432pfa.4
+        for <mail@elementk.de>; Mon, 19 Aug 2019 05:50:16 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=crazycybertech-info.20150623.gappssmtp.com; s=20150623;
+        h=from:to:subject:date:message-id:mime-version:thread-index
+         :content-language;
+        bh=qvYQkqEhmx04vxVW1yWCz6gDNuPG/U65+rIT4GVm9XU=;
+        b=dX+aqKgwoI095NgJOtoxB1fgbEKUqELpvcQCgHw13wjIQAMU496Zyhl8n6Ntoz9IC1
+         c/FsYVES36wbmtIqZI8SQaltufbm66K+z62NZ+ILfo/qccB9x9A5zr0AGfjam7qCTi4t
+         7L5M0CddcVVVPd1eaua3bHYObVudGreJGANWR9nI9DB01Qv2Tc4oaaASrhBWt0E1QFne
+         oYK+GDJYvUSsma1wA8rOdxdEtVFCC2VnEzzRUfwa6Bmeu6Cwzmev2XKxW7HDM52RLIq0
+         D6T4u6w8jdt5gaKfq79WTWbSer2XwG4RM7OA7JH77gFKl0fDMXGkalnn6mWrl+qGpDeB
+         1z1A==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:from:to:subject:date:message-id:mime-version
+         :thread-index:content-language;
+        bh=qvYQkqEhmx04vxVW1yWCz6gDNuPG/U65+rIT4GVm9XU=;
+        b=L633EjF1Afkhya0TAtA9N+xCAzuYjcYP1TXFYSYsUwcaoNsqlGAwb6EAx6UHs+bW+m
+         NDMD5IGlEBl5CzIbjEW1Bdi7SKR0yTYQS5YLa6j60q8wEZaDe8t6M/ufssieggNEiOY4
+         x6cNPdAO3AmDLFzJEWFc93M5dSdIJSxtdcYfM/sUNNisxvtNN8tQydbVcWJViWsMN6fj
+         ywj43boLfBH4FEl7C4IZCG49nbbZGhUwq6XFQIXRZ5XWeWqfhgprjGa3ubyYU1Mi9Ow8
+         sTdFmP7XIWj6/OuchiT8teVKkhZZBHp02zohfPat1jTPeJFqKncP22GfSTyH3vMcSNKy
+         3DnA==
+X-Gm-Message-State: APjAAAVliRPmKstBRfIdxljLCZEapiP4yBZZbK5rsW3o6M2JoqHN+STv
+	RuPurnchkRUD7EcleiYYZIRjlyA6Y5E=
+X-Google-Smtp-Source: APXvYqy4bty4ZZWd28LLTanYmkjAXspazmTpgowaEeF1HBzlUg4B1CLxh9U7MhdzsfbqFB6MaDB8EQ==
+X-Received: by 2002:a65:60d3:: with SMTP id r19mr19909455pgv.91.1566219013928;
+        Mon, 19 Aug 2019 05:50:13 -0700 (PDT)
+Received: from pci31PC ([110.227.183.33])
+        by smtp.gmail.com with ESMTPSA id u69sm19346549pgu.77.2019.08.19.05.50.12
+        for <mail@elementk.de>
+        (version=TLS1 cipher=ECDHE-RSA-AES128-SHA bits=128/128);
+        Mon, 19 Aug 2019 05:50:13 -0700 (PDT)
+From: "Alice" <alice@crazycybertech.info>
+To: <mail@elementk.de>
+Subject: 1st Page on Google Proposal
+Date: Mon, 19 Aug 2019 17:59:27 +0530
+Message-ID: <437b01d5568c$a48d1fe0$eda75fa0$@info>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_437C_01D556BA.BE455BE0"
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-Index: AdVWYLMK0c+yAzCzQQ+ucaL1MqCPxg==
+Content-Language: en-us
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_437C_01D556BA.BE455BE0
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+Hi,  
+
+I found your web contact email mail@elementk.de. I would like to discuss a
+business opportunity with you.
+
+
+Would you like to be listed at the top of every major search engine such as
+Google, Yahoo! & Bing for multiple search phrases (keywords) relevant to
+your products / services?
+
+We are a team of professionals which includes 50 full time SEO experts
+(Google Certified). We are proud to inform you that our team handled 250+
+SEO projects. 
+
+We will be glad to assist you with offering our services. 
+
+Contact us for the best quote for your website & we'll place your website on
+1st page Google ranking for targeted keywords. 
+
+I'd be happy to send you our package, pricing and past work details, if
+you'd like to assess our work. 
+
+Note-:-Please Share your contact details (Skype ID or Phone Number) and let
+us know your convenient time for the call/call so our seniors can contact
+you directly for further discussion.
+
+
+Best Regards,
+Alice  : SEO-Consultant
+
+ 
+
+ 
+
+
+------=_NextPart_000_437C_01D556BA.BE455BE0
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40"><head><META =
+HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html; =
+charset=3Dus-ascii"><meta name=3DGenerator content=3D"Microsoft Word 12 =
+(filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Mangal;
+	panose-1:2 4 5 3 5 2 3 3 2 2;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Verdana;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin-top:0in;
+	margin-right:0in;
+	margin-bottom:10.0pt;
+	margin-left:0in;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+p
+	{mso-style-priority:99;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{mso-style-priority:34;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:10.0pt;
+	margin-left:.5in;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, =
+div.MsoListParagraphCxSpFirst
+	{mso-style-priority:34;
+	mso-style-type:export-only;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:.5in;
+	margin-bottom:.0001pt;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, =
+div.MsoListParagraphCxSpMiddle
+	{mso-style-priority:34;
+	mso-style-type:export-only;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:.5in;
+	margin-bottom:.0001pt;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, =
+div.MsoListParagraphCxSpLast
+	{mso-style-priority:34;
+	mso-style-type:export-only;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:10.0pt;
+	margin-left:.5in;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+p.yiv2490515894msonormal, li.yiv2490515894msonormal, =
+div.yiv2490515894msonormal
+	{mso-style-name:yiv2490515894msonormal;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+span.apple-converted-space
+	{mso-style-name:apple-converted-space;}
+span.yiv2490515894fromcontainer
+	{mso-style-name:yiv2490515894fromcontainer;}
+.MsoChpDefault
+	{mso-style-type:export-only;}
+.MsoPapDefault
+	{mso-style-type:export-only;
+	margin-bottom:10.0pt;
+	line-height:115%;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+/* List Definitions */
+@list l0
+	{mso-list-id:1111781044;
+	mso-list-template-ids:-1205847804;}
+@list l0:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l1
+	{mso-list-id:1182622944;
+	mso-list-type:hybrid;
+	mso-list-template-ids:1837802070 67698701 67698691 67698693 67698689 =
+67698691 67698693 67698689 67698691 67698693;}
+@list l1:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0FC;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.5in;
+	font-family:Wingdings;}
+@list l2
+	{mso-list-id:1257443569;
+	mso-list-type:hybrid;
+	mso-list-template-ids:1172468686 67698691 67698691 67698693 67698689 =
+67698691 67698693 67698689 67698691 67698693;}
+@list l2:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:.25in;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l3
+	{mso-list-id:1412656944;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-1233603966 67698705 67698713 67698715 67698703 =
+67698713 67698715 67698703 67698713 67698715;}
+@list l3:level1
+	{mso-level-text:"%1\)";
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:.25in;
+	text-indent:-.25in;}
+@list l4
+	{mso-list-id:1637370068;
+	mso-list-type:hybrid;
+	mso-list-template-ids:1345751158 67698703 67698713 67698715 67698703 =
+67698713 67698715 67698703 67698713 67698715;}
+@list l4:level1
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:.25in;
+	text-indent:-.25in;}
+@list l5
+	{mso-list-id:1660619046;
+	mso-list-type:hybrid;
+	mso-list-template-ids:852238522 67698693 67698691 67698693 67698689 =
+67698691 67698693 67698689 67698691 67698693;}
+@list l5:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l6
+	{mso-list-id:1742867705;
+	mso-list-type:hybrid;
+	mso-list-template-ids:1814611338 -452397432 67698713 67698715 67698703 =
+67698713 67698715 67698703 67698713 67698715;}
+@list l6:level1
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	color:black;}
+@list l7
+	{mso-list-id:1985817933;
+	mso-list-type:hybrid;
+	mso-list-template-ids:612024854 67698703 67698713 67698715 67698703 =
+67698713 67698715 67698703 67698713 67698715;}
+@list l7:level1
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l8
+	{mso-list-id:1993213685;
+	mso-list-type:hybrid;
+	mso-list-template-ids:283018166 67698689 67698691 67698693 67698689 =
+67698691 67698693 67698689 67698691 67698693;}
+@list l8:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;}
+ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DEN-US =
+link=3D"#0563C1" vlink=3Dpurple><div class=3DWordSection1><p =
+style=3D'background:white'><span lang=3DEN-IN =
+style=3D'font-size:10.0pt;font-family:"Verdana","sans-serif";color:#00206=
+0'>Hi,&nbsp;&nbsp;<br><br>I found your web contact =
+email&nbsp;mail@elementk.de. I would like to discuss a business =
+opportunity with you</span><span style=3D'color:#333399'>.</span><span =
+lang=3DEN-IN =
+style=3D'font-size:10.0pt;font-family:"Verdana","sans-serif";color:#00206=
+0'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></p><p =
+style=3D'background:white'><span lang=3DEN-IN =
+style=3D'font-size:10.0pt;font-family:"Verdana","sans-serif";color:#00206=
+0'>Would you like to be listed at the top of every major search engine =
+such as Google, Yahoo! &amp; Bing for multiple search phrases (keywords) =
+relevant to&nbsp;your products / services?<br><br>We are a team of =
+professionals which includes 50 full time SEO experts (Google =
+Certified). We are proud to inform you that our team handled 250+ SEO =
+projects.&nbsp;</span></p><p style=3D'background:white'><span =
+lang=3DEN-IN =
+style=3D'font-size:10.0pt;font-family:"Verdana","sans-serif";color:#00206=
+0'>We will be glad to assist you with offering our =
+services.&nbsp;</span></p><p style=3D'background:white'><span =
+lang=3DEN-IN =
+style=3D'font-size:10.0pt;font-family:"Verdana","sans-serif";color:#00206=
+0'>Contact us for the best quote for your website &amp; we'll place your =
+website on 1st page Google ranking for targeted =
+keywords.&nbsp;</span></p><p style=3D'background:white'><span =
+lang=3DEN-IN =
+style=3D'font-size:10.0pt;font-family:"Verdana","sans-serif";color:#00206=
+0'>I'd be happy to send you our package, pricing and past work details, =
+if you'd like to assess our work.&nbsp;</span></p><p =
+style=3D'background:white'><span lang=3DEN-IN =
+style=3D'font-size:10.0pt;font-family:"Verdana","sans-serif";color:#00206=
+0'>Note-:-Please Share your contact details (Skype ID or Phone Number) =
+and let us know your convenient time for the call/call so our seniors =
+can contact you directly for further discussion.<br><br><br>Best =
+Regards,</span><span style=3D'color:#002060'><br></span><span =
+lang=3DEN-IN =
+style=3D'font-size:10.0pt;font-family:"Verdana","sans-serif";color:#00206=
+0'>Alice&nbsp; : SEO-Consultant</span></p><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p></div></body></html>
+------=_NextPart_000_437C_01D556BA.BE455BE0--
+

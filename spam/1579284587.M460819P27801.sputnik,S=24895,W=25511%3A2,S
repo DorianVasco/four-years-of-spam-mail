@@ -1,0 +1,616 @@
+Return-Path: <bounce+59baef.7fa8f2-mail=elementk.de@accesscm.co.uk>
+Delivered-To: mail@elementk.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 5F138D292B
+	for <mail@elementk.de>; Fri,  4 Jan 2019 13:36:11 +0100 (CET)
+Authentication-Results: v22014122474822114.stilfilm.com; dkim=pass
+	reason="1024-bit key; insecure key"
+	header.d=accesscm.co.uk header.i=@accesscm.co.uk header.b=VaXB163L;
+	dkim-adsp=pass; dkim-atps=neutral
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: -0.099
+X-Spam-Level:
+X-Spam-Status: No, score=-0.099 required=5.5 tests=[DKIM_SIGNED=0.1,
+	DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1, HTML_MESSAGE=0.001,
+	RCVD_IN_DNSWL_NONE=-0.0001, SPF_PASS=-0.001, URIBL_BLOCKED=0.001]
+	autolearn=unavailable
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id x6he01ZDcJU6 for <mail@elementk.de>;
+	Fri,  4 Jan 2019 13:36:07 +0100 (CET)
+Received: from mail-luna39.mailgun.org (mail-luna39.mailgun.org [173.193.210.39])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 465FEC2CE1
+	for <mail@elementk.de>; Fri,  4 Jan 2019 13:36:06 +0100 (CET)
+DKIM-Signature: a=rsa-sha256; v=1; c=relaxed/relaxed; d=accesscm.co.uk; q=dns/txt;
+ s=mx; t=1546605365; h=Content-Type: MIME-Version: Message-ID: Date:
+ Subject: To: From: Sender;
+ bh=2QwlBndlJRFwS8oHPdsflYjudUYJ7UNZ+pEJAP07rK4=; b=VaXB163LggQAypaLRXHvihkQlVWMD5UPr7WEnGs1UgGhBf7gmZzqQAGyjw3FFhdCF6KZIqAa
+ ZZxRNMCjLCP2GuoXbT5hc4Foxq9+ZDOcUbOfNH7PEgj0S05Qm5aH1If3kcSi+9sfcQTEq47I
+ xXZaGZqvqQfgdRyUtvI30fkMH14=
+X-Mailgun-Sending-Ip: 173.193.210.39
+X-Mailgun-Sid: WyI3YTI5ZCIsICJtYWlsQGVsZW1lbnRrLmRlIiwgIjdmYThmMiJd
+Sender: collect@accesscm.co.uk
+Received: from DESKTOPMS07CA9 (ip-31-205-254-165.ask4internet.com [31.205.254.165])
+ by mxa.mailgun.org with ESMTP id 5c2f5334.7f48dac21ea0-smtp-out-n02;
+ Fri, 04 Jan 2019 12:36:04 -0000 (UTC)
+From: "Chloe Parker " <collect@accesscm.co.uk>
+To: <mail@elementk.de>
+Subject: Google AdWords Underpayment
+Date: Fri, 4 Jan 2019 12:36:05 -0000
+Message-ID: <19e701d4a42a$0fe589f0$2fb09dd0$@accesscm.co.uk>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_19E8_01D4A42A.0FE7FAF0"
+X-Mailer: Microsoft Outlook 16.0
+Thread-Index: AdSkKg+W/oDx5PPoR8+40+ALH4zfIw==
+Content-Language: en-gb
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_19E8_01D4A42A.0FE7FAF0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+For the attention of: Holger Michel
+
+element K GmbH
+
+Escherstra=DFe 22=20
+
+Hannover
+
+=20
+
+30159=20
+
+=20
+
+Deutschland
+
+=20
+
+=20
+
+Google AdWords Underpayment
+
+EUR 17.35
+
+Google AdWords Customer ID: 3835218092
+
+I am writing to advise that you have an outstanding balance of EUR 17.35
+showing on your Google AdWords account, as detailed above. Please log =
+into
+your account in order to view the current balance.
+
+=20
+
+This notice has been sent by Access Credit Management Ltd., a credit
+management partner of Google AdWords. If you have any doubts as to the
+authenticity of this notice please feel free to contact Google AdWords
+directly.
+
+=20
+
+As a valued client of Google it is important that you enter valid =
+payment
+details by logging into your Google AdWords account so that Google can
+collect the outstanding payment above and re-active your account. If the
+account remains unpaid then Google will instruct us to take action to
+collect the under payment. Please note that it is important to log in to
+your Google AdWords account to update your payment details even if they =
+have
+not changed so as to active the payment process.
+
+=20
+
+To initiate a payment you need to log into your Google AdWords account
+directly.
+
+1.      Sign in to your Google AdWords account at adwords.google.com =
+using
+your registered email address: mail@elementk.de
+
+2.      Click on the tool icon to access account settings.
+
+3.      Select Billing and Payments.
+
+4.      Select Payment Methods (located on the left hand side) and =
+update
+your payment details.
+
+=20
+
+Please ensure that your payment preferences are correct in order to
+reactivate your Google AdWords account and to secure further sales
+enquiries. Once you have updated your form of payment, your advertising
+campaigns will be reactivated.
+
+=20
+
+If you have any doubts as to the authenticity of this notice please =
+refer to
+the Google AdWords support service directly via the Google AdWords Help
+Centre.
+
+=20
+
+Note that we have not provided any links in this email. You should never
+respond to an email by clicking on a link and entering your account =
+details.
+
+=20
+
+If you have recently settled the above account, then I thank you and =
+wish
+you further success with your Google AdWords campaigns.
+
+=20
+
+Yours Faithfully,
+
+=20
+
+Chloe Parker
+
+=20
+
+Collections Manager | Access Credit Management Ltd
+
+UK Freephone 0800 694 0484 | T. +44 114 2499970 | F. +44 114 2499972
+
+collect@accesscm.co.uk | http://accesscm.co.uk
+
+=20
+
+Registered Office: Access Credit Management Ltd | G1 & G2, 18 Darnall =
+Road,
+Darnall Sheffield, S9 5AA, UK.
+
+This company is a member of the International Association of Credit and
+Collection Professionals.
+
+VAT No. GB 763 5605 19 | Company No. 3937357
+
+=20
+
+
+------=_NextPart_000_19E8_01D4A42A.0FE7FAF0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40"><head><meta =
+http-equiv=3DContent-Type content=3D"text/html; =
+charset=3Diso-8859-1"><meta name=3DGenerator content=3D"Microsoft Word =
+15 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:10.0pt;
+	margin-left:0cm;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{mso-style-priority:34;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:10.0pt;
+	margin-left:36.0pt;
+	mso-add-space:auto;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, =
+div.MsoListParagraphCxSpFirst
+	{mso-style-priority:34;
+	mso-style-type:export-only;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	mso-add-space:auto;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, =
+div.MsoListParagraphCxSpMiddle
+	{mso-style-priority:34;
+	mso-style-type:export-only;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	mso-add-space:auto;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, =
+div.MsoListParagraphCxSpLast
+	{mso-style-priority:34;
+	mso-style-type:export-only;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:10.0pt;
+	margin-left:36.0pt;
+	mso-add-space:auto;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+.MsoPapDefault
+	{mso-style-type:export-only;
+	margin-bottom:10.0pt;
+	line-height:115%;}
+@page WordSection1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 72.0pt 72.0pt 72.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+/* List Definitions */
+@list l0
+	{mso-list-id:53434048;
+	mso-list-type:hybrid;
+	mso-list-template-ids:1558446786 1458459418 134807577 134807579 =
+134807567 134807577 134807579 134807567 134807577 134807579;}
+@list l0:level1
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:54.0pt;
+	text-indent:-36.0pt;}
+@list l0:level2
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level3
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l0:level4
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level5
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level6
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l0:level7
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level8
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level9
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l1
+	{mso-list-id:1494298786;
+	mso-list-template-ids:-167081118;}
+@list l2
+	{mso-list-id:1977908995;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-1069877582 134807567 134807577 134807579 =
+134807567 134807577 134807579 134807567 134807577 134807579;}
+@list l2:level1
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l2:level2
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l2:level3
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l2:level4
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l2:level5
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l2:level6
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l2:level7
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l2:level8
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l2:level9
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DEN-GB link=3Dblue =
+vlink=3Dpurple><div class=3DWordSection1><p class=3DMsoNormal =
+style=3D'margin-bottom:0cm;margin-bottom:.0001pt'><span =
+style=3D'font-size:12.0pt;line-height:115%;font-family:"Arial",sans-serif=
+'>For the attention of: Holger Michel<o:p></o:p></span></p><p =
+class=3DMsoNormal =
+style=3D'margin-bottom:0cm;margin-bottom:.0001pt'><span =
+style=3D'font-size:12.0pt;line-height:115%;font-family:"Arial",sans-serif=
+'>element K GmbH</span><span =
+style=3D'font-size:12.0pt;line-height:115%;font-family:"Arial",sans-serif=
+'><o:p></o:p></span></p><p class=3DMsoNormal =
+style=3D'margin-bottom:0cm;margin-bottom:.0001pt'><span =
+style=3D'font-size:12.0pt;line-height:115%;font-family:"Arial",sans-serif=
+'>Escherstra=DFe 22</span><span =
+style=3D'font-size:12.0pt;line-height:115%;font-family:"Arial",sans-serif=
+'> <o:p></o:p></span></p><p class=3DMsoNormal =
+style=3D'margin-bottom:0cm;margin-bottom:.0001pt'><span =
+style=3D'font-size:12.0pt;line-height:115%;font-family:"Arial",sans-serif=
+'>Hannover</span><span =
+style=3D'font-size:12.0pt;line-height:115%;font-family:"Arial",sans-serif=
+'><o:p></o:p></span></p><p class=3DMsoNormal =
+style=3D'margin-bottom:0cm;margin-bottom:.0001pt'><span =
+style=3D'font-size:12.0pt;line-height:115%;font-family:"Arial",sans-serif=
+'><o:p>&nbsp;</o:p></span></p><p class=3DMsoNormal =
+style=3D'margin-bottom:0cm;margin-bottom:.0001pt'><span =
+style=3D'font-size:12.0pt;line-height:115%;font-family:"Arial",sans-serif=
+'>30159</span><span =
+style=3D'font-size:12.0pt;line-height:115%;font-family:"Arial",sans-serif=
+'> <o:p></o:p></span></p><p class=3DMsoNormal =
+style=3D'margin-bottom:0cm;margin-bottom:.0001pt'><span =
+style=3D'font-size:12.0pt;line-height:115%;font-family:"Arial",sans-serif=
+'><o:p>&nbsp;</o:p></span></p><p class=3DMsoNormal =
+style=3D'margin-bottom:0cm;margin-bottom:.0001pt'><span =
+style=3D'font-size:12.0pt;line-height:115%;font-family:"Arial",sans-serif=
+'>Deutschland</span><span =
+style=3D'font-size:12.0pt;line-height:115%;font-family:"Arial",sans-serif=
+'><o:p></o:p></span></p><p class=3DMsoNormal =
+style=3D'margin-bottom:0cm;margin-bottom:.0001pt'><span =
+style=3D'font-size:12.0pt;line-height:115%;font-family:"Arial",sans-serif=
+'><o:p>&nbsp;</o:p></span></p><p class=3DMsoNormal =
+style=3D'margin-bottom:0cm;margin-bottom:.0001pt'><span =
+style=3D'font-size:10.0pt;line-height:115%;font-family:"Arial",sans-serif=
+'><o:p>&nbsp;</o:p></span></p><p class=3DMsoNormal =
+style=3D'margin-bottom:0cm;margin-bottom:.0001pt'><b><span =
+style=3D'font-size:12.0pt;line-height:115%;font-family:"Arial",sans-serif=
+'>Google AdWords Underpayment<o:p></o:p></span></b></p><p =
+class=3DMsoNormal =
+style=3D'margin-bottom:0cm;margin-bottom:.0001pt'><b><span =
+style=3D'font-size:12.0pt;line-height:115%;font-family:"Arial",sans-serif=
+'>EUR</span></b><b><span =
+style=3D'font-size:12.0pt;line-height:115%;font-family:"Arial",sans-serif=
+'> 17.35<o:p></o:p></span></b></p><p class=3DMsoNormal =
+style=3D'margin-bottom:0cm;margin-bottom:.0001pt'><b><span =
+style=3D'font-size:12.0pt;line-height:115%;font-family:"Arial",sans-serif=
+'>Google AdWords Customer ID: 3835218092<o:p></o:p></span></b></p><p =
+class=3DMsoNormal =
+style=3D'margin-bottom:0cm;margin-bottom:.0001pt'><span =
+style=3D'font-size:10.0pt;line-height:115%;font-family:"Arial",sans-serif=
+'>I am writing to advise that you have an outstanding balance of EUR =
+17.35 showing on your Google AdWords account, as detailed above. Please =
+log into your account in order to view the current =
+balance.<o:p></o:p></span></p><p class=3DMsoNormal =
+style=3D'margin-bottom:0cm;margin-bottom:.0001pt'><span =
+style=3D'font-size:10.0pt;line-height:115%;font-family:"Arial",sans-serif=
+'><o:p>&nbsp;</o:p></span></p><p class=3DMsoNormal =
+style=3D'margin-bottom:0cm;margin-bottom:.0001pt'><span =
+style=3D'font-size:10.0pt;line-height:115%;font-family:"Arial",sans-serif=
+'>This notice has been sent by Access Credit Management Ltd., a credit =
+management partner of Google AdWords. If you have any doubts as to the =
+authenticity of this notice please feel free to contact Google AdWords =
+directly.<o:p></o:p></span></p><p class=3DMsoNormal =
+style=3D'margin-bottom:0cm;margin-bottom:.0001pt'><span =
+style=3D'font-size:10.0pt;line-height:115%;font-family:"Arial",sans-serif=
+'><o:p>&nbsp;</o:p></span></p><p class=3DMsoNormal =
+style=3D'margin-bottom:0cm;margin-bottom:.0001pt'><span =
+style=3D'font-size:10.0pt;line-height:115%;font-family:"Arial",sans-serif=
+'>As a valued client of Google it is important that you enter valid =
+payment details by logging into your Google AdWords account so that =
+Google can collect the outstanding payment above and re-active your =
+account. If the account remains unpaid then Google will instruct us to =
+take action to collect the under payment. Please note that it is =
+important to log in to your Google AdWords account to update your =
+payment details even if they have not changed so as to active the =
+payment process.<o:p></o:p></span></p><p class=3DMsoNormal =
+style=3D'margin-bottom:0cm;margin-bottom:.0001pt'><span =
+style=3D'font-size:10.0pt;line-height:115%;font-family:"Arial",sans-serif=
+'><o:p>&nbsp;</o:p></span></p><p class=3DMsoNormal =
+style=3D'margin-bottom:0cm;margin-bottom:.0001pt'><span =
+style=3D'font-size:10.0pt;line-height:115%;font-family:"Arial",sans-serif=
+;color:black'>To initiate a payment you need to log into your Google =
+AdWords account directly.</span><span =
+style=3D'font-size:10.0pt;line-height:115%;font-family:"Arial",sans-serif=
+'><o:p></o:p></span></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:0cm;margin-right:0cm;margin-bottom:0cm;margin=
+-left:23.8pt;margin-bottom:.0001pt;text-indent:-17.85pt;line-height:16.5p=
+t;mso-list:l1 level1 =
+lfo3;background:white;vertical-align:baseline'><![if =
+!supportLists]><span =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif;color:black'><sp=
+an style=3D'mso-list:Ignore'>1.<span style=3D'font:7.0pt "Times New =
+Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =
+</span></span></span><![endif]><span =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif;color:black'>Sig=
+n in to your Google AdWords account at adwords.google.com u</span><span =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif'>sing your =
+registered email address: mail@elementk.de<span =
+style=3D'color:black'><o:p></o:p></span></span></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:0cm;margin-right:0cm;margin-bottom:0cm;margin=
+-left:23.8pt;margin-bottom:.0001pt;text-indent:-17.85pt;line-height:16.5p=
+t;mso-list:l1 level1 =
+lfo3;background:white;vertical-align:baseline'><![if =
+!supportLists]><span =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif;color:black'><sp=
+an style=3D'mso-list:Ignore'>2.<span style=3D'font:7.0pt "Times New =
+Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =
+</span></span></span><![endif]><span =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif;color:black'>Cli=
+ck on the tool icon to access account settings.<o:p></o:p></span></p><p =
+class=3DMsoNormal =
+style=3D'mso-margin-top-alt:0cm;margin-right:0cm;margin-bottom:0cm;margin=
+-left:23.8pt;margin-bottom:.0001pt;text-indent:-17.85pt;line-height:16.5p=
+t;mso-list:l1 level1 =
+lfo3;background:white;vertical-align:baseline'><![if =
+!supportLists]><span =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif;color:black'><sp=
+an style=3D'mso-list:Ignore'>3.<span style=3D'font:7.0pt "Times New =
+Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =
+</span></span></span><![endif]><span =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif;color:black'>Sel=
+ect <b>Billing and Payments</b>.<o:p></o:p></span></p><p =
+class=3DMsoNormal =
+style=3D'mso-margin-top-alt:0cm;margin-right:0cm;margin-bottom:0cm;margin=
+-left:23.8pt;margin-bottom:.0001pt;text-indent:-17.85pt;line-height:16.5p=
+t;mso-list:l1 level1 =
+lfo3;background:white;vertical-align:baseline'><![if =
+!supportLists]><span =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif;color:black'><sp=
+an style=3D'mso-list:Ignore'>4.<span style=3D'font:7.0pt "Times New =
+Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =
+</span></span></span><![endif]><span =
+style=3D'font-size:10.0pt;font-family:"Arial",sans-serif;color:black'>Sel=
+ect&nbsp;<b><span style=3D'border:none windowtext =
+1.0pt;padding:0cm'>Payment Methods </span></b><span style=3D'border:none =
+windowtext 1.0pt;padding:0cm'>(located on the left hand side)<b> </b>and =
+update your payment details.</span><o:p></o:p></span></p><p =
+class=3DMsoNormal =
+style=3D'margin-bottom:0cm;margin-bottom:.0001pt'><span =
+style=3D'font-size:10.0pt;line-height:115%;font-family:"Arial",sans-serif=
+'><o:p>&nbsp;</o:p></span></p><p class=3DMsoNormal =
+style=3D'margin-bottom:0cm;margin-bottom:.0001pt'><span =
+style=3D'font-size:10.0pt;line-height:115%;font-family:"Arial",sans-serif=
+'>Please ensure that your payment preferences are correct in order to =
+reactivate your Google AdWords account and to secure further sales =
+enquiries. Once you have updated your form of payment, your advertising =
+campaigns will be reactivated.<o:p></o:p></span></p><p class=3DMsoNormal =
+style=3D'margin-bottom:0cm;margin-bottom:.0001pt'><span =
+style=3D'font-size:10.0pt;line-height:115%;font-family:"Arial",sans-serif=
+'><o:p>&nbsp;</o:p></span></p><p class=3DMsoNormal =
+style=3D'margin-bottom:0cm;margin-bottom:.0001pt'><span =
+style=3D'font-size:10.0pt;line-height:115%;font-family:"Arial",sans-serif=
+'>If you have any doubts as to the authenticity of this notice please =
+refer to the Google AdWords support service directly via the Google =
+AdWords Help Centre.<o:p></o:p></span></p><p class=3DMsoNormal =
+style=3D'margin-bottom:0cm;margin-bottom:.0001pt'><span =
+style=3D'font-size:10.0pt;line-height:115%;font-family:"Arial",sans-serif=
+'><o:p>&nbsp;</o:p></span></p><p class=3DMsoNormal =
+style=3D'margin-bottom:0cm;margin-bottom:.0001pt'><span =
+style=3D'font-size:10.0pt;line-height:115%;font-family:"Arial",sans-serif=
+;color:black'>Note that we have not provided any links in this email. =
+You should never respond to an email by clicking on a link and entering =
+your account details.<o:p></o:p></span></p><p class=3DMsoNormal =
+style=3D'margin-bottom:0cm;margin-bottom:.0001pt'><span =
+style=3D'font-size:10.0pt;line-height:115%;font-family:"Arial",sans-serif=
+'><o:p>&nbsp;</o:p></span></p><p class=3DMsoNormal =
+style=3D'margin-bottom:0cm;margin-bottom:.0001pt'><span =
+style=3D'font-size:10.0pt;line-height:115%;font-family:"Arial",sans-serif=
+'>If you have recently settled the above account, then I thank you and =
+wish you further success with your Google AdWords =
+campaigns.<o:p></o:p></span></p><p class=3DMsoNormal =
+style=3D'margin-bottom:0cm;margin-bottom:.0001pt'><span =
+style=3D'font-size:10.0pt;line-height:115%;font-family:"Arial",sans-serif=
+'><o:p>&nbsp;</o:p></span></p><p class=3DMsoNormal =
+style=3D'margin-bottom:0cm;margin-bottom:.0001pt'><span =
+style=3D'font-size:10.0pt;line-height:115%;font-family:"Arial",sans-serif=
+'>Yours Faithfully,<o:p></o:p></span></p><p class=3DMsoNormal =
+style=3D'margin-bottom:0cm;margin-bottom:.0001pt'><span =
+style=3D'font-size:10.0pt;line-height:115%;font-family:"Arial",sans-serif=
+'><o:p>&nbsp;</o:p></span></p><p class=3DMsoNormal =
+style=3D'margin-bottom:0cm;margin-bottom:.0001pt'><span =
+style=3D'font-size:10.0pt;line-height:115%;font-family:"Arial",sans-serif=
+'>Chloe Parker<o:p></o:p></span></p><p class=3DMsoNormal =
+style=3D'margin-bottom:0cm;margin-bottom:.0001pt'><span =
+style=3D'font-size:10.0pt;line-height:115%;font-family:"Arial",sans-serif=
+'><o:p>&nbsp;</o:p></span></p><p class=3DMsoNormal =
+style=3D'margin-bottom:0cm;margin-bottom:.0001pt'><span =
+style=3D'font-size:10.0pt;line-height:115%;font-family:"Arial",sans-serif=
+'>Collections Manager | Access Credit Management =
+Ltd<o:p></o:p></span></p><p class=3DMsoNormal =
+style=3D'margin-bottom:0cm;margin-bottom:.0001pt'><span =
+style=3D'font-size:10.0pt;line-height:115%;font-family:"Arial",sans-serif=
+'>UK Freephone 0800 694 0484 | T. +44 114 2499970 | F. +44 114 =
+2499972<o:p></o:p></span></p><p class=3DMsoNormal =
+style=3D'margin-bottom:0cm;margin-bottom:.0001pt'><span =
+style=3D'font-size:10.0pt;line-height:115%;font-family:"Arial",sans-serif=
+'>collect@accesscm.co.uk | <span class=3DMsoHyperlink><a =
+href=3D"http://accesscm.co.uk">http://accesscm.co.uk</a></span><o:p></o:p=
+></span></p><p class=3DMsoNormal =
+style=3D'margin-bottom:0cm;margin-bottom:.0001pt'><span =
+style=3D'font-size:10.0pt;line-height:115%;font-family:"Arial",sans-serif=
+'><o:p>&nbsp;</o:p></span></p><p class=3DMsoNormal =
+style=3D'margin-bottom:0cm;margin-bottom:.0001pt'><span =
+style=3D'font-size:10.0pt;line-height:115%;font-family:"Arial",sans-serif=
+'>Registered Office: Access Credit Management Ltd | G1 &amp; G2, 18 =
+Darnall Road, Darnall Sheffield, S9 5AA, UK.<o:p></o:p></span></p><p =
+class=3DMsoNormal =
+style=3D'margin-bottom:0cm;margin-bottom:.0001pt'><span =
+style=3D'font-size:10.0pt;line-height:115%;font-family:"Arial",sans-serif=
+'>This company is a member of the International Association of Credit =
+and Collection Professionals.<o:p></o:p></span></p><p class=3DMsoNormal =
+style=3D'margin-bottom:0cm;margin-bottom:.0001pt'><span =
+style=3D'font-size:10.0pt;line-height:115%;font-family:"Arial",sans-serif=
+'>VAT No. GB 763 5605 19 | Company No. 3937357<o:p></o:p></span></p><p =
+class=3DMsoNormal =
+style=3D'margin-bottom:0cm;margin-bottom:.0001pt'><span =
+style=3D'font-size:10.0pt;line-height:115%;font-family:"Arial",sans-serif=
+'><o:p>&nbsp;</o:p></span></p></div></body></html>
+------=_NextPart_000_19E8_01D4A42A.0FE7FAF0--

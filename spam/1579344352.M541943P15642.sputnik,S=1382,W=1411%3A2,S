@@ -1,0 +1,29 @@
+Return-Path: <infolike3487@acatbassopiave.com>
+Delivered-To: mail@stilfilm.com
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 150FED059D
+	for <mail@stilfilm.com>; Fri, 26 Oct 2018 10:49:24 +0200 (CEST)
+X-Quarantine-ID: <OE4MKEgoJcqh>
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Amavis-Alert: BAD HEADER SECTION, Missing required header field: "Date"
+X-Spam-Flag: YES
+X-Spam-Score: 5.758
+X-Spam-Level: *****
+X-Spam-Status: Yes, score=5.758 required=5.5 tests=[HTML_MESSAGE=0.001,
+	HTML_MIME_NO_HTML_TAG=0.635, MIME_HTML_ONLY=1.105, MISSING_DATE=1.396,
+	MISSING_HEADERS=1.207, MISSING_MID=0.14, RDNS_NONE=1.274] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id OE4MKEgoJcqh for <mail@stilfilm.com>;
+	Fri, 26 Oct 2018 10:49:22 +0200 (CEST)
+Received: from acatbassopiave.com (unknown [191.96.249.167])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id B18A3C150D
+	for <jere@stilfilm.com>; Fri, 26 Oct 2018 10:49:20 +0200 (CEST)
+From: "google" <infolike3487@acatbassopiave.com>
+Subject: hey hey
+MIME-Version: 1.0
+Content-Type: text/html
+Message-Id: <20181026084924.150FED059D@v22014122474822114.stilfilm.com>
+Date: Fri, 26 Oct 2018 10:49:24 +0200 (CEST)
+
+ 

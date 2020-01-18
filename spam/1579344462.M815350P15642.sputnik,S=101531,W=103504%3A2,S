@@ -1,0 +1,1973 @@
+Return-Path: <return-a400-60981-60982-8a47c625=200437775=8@performance-mediachannel.de>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 6D712D19FA
+	for <mail@dorianvasco.de>; Tue, 18 Jun 2019 05:17:01 +0200 (CEST)
+Authentication-Results: v22014122474822114.stilfilm.com; dkim=pass
+	reason="1024-bit key; insecure key"
+	header.d=performance-mediachannel.de header.i=@performance-mediachannel.de
+	header.b=DZQ/Eoeb; dkim-adsp=pass; dkim-atps=neutral
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: 3.511
+X-Spam-Level: ***
+X-Spam-Status: No, score=3.511 required=5.5 tests=[BAYES_50=0.8,
+	DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	HTML_IMAGE_RATIO_06=0.001, HTML_MESSAGE=0.001,
+	RAZOR2_CF_RANGE_51_100=1.886, RAZOR2_CHECK=0.922, SPF_HELO_NONE=0.001]
+	autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id v0HMV2ee7Nhj for <mail@dorianvasco.de>;
+	Tue, 18 Jun 2019 05:16:57 +0200 (CEST)
+Received: from smtp7-022.media-channelpro.de (smtp7-022.media-channelpro.de [149.202.141.128])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id 025D8C7A80
+	for <kontakt@dorianvasco.de>; Tue, 18 Jun 2019 05:16:54 +0200 (CEST)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; d=performance-mediachannel.de;
+ s=premmail; t=1560827813; bh=/+bujfO9YoEVid4w54RvqyZPOLs=;
+ h=Subject:From:To:Reply-To:Date:List-Unsubscribe:X-CampaignID:
+  Message-ID:X-Mailer-Info:MIME-Version:Content-Type;
+ b=DZQ/EoebvP9XTIgtBo5Ffkt4JJh1/PgXExDO/BpZsQnLTAJdeWdoix0u2ssWKPOzy
+  S9Ya0wdiiPZNnRGvUdV6hu/SFPHUn0OfUcuwUu5LuAYne6Gx7wA6F3GUDDGg7rM5MF
+  jS8SCTeb0zY1EIsyLiClw4gQTv9IyDLIItk/Moto=
+Subject: =?UTF-8?Q?=E2=80=9EJetzt=20vergleichen=20und=20sparen=21?=
+ =?UTF-8?Q?=E2=80=9C?=
+From: "Zahnzusatzversicherungsvergleich" <info@performance-mediachannel.de>
+To: kontakt@dorianvasco.de
+Reply-To: noreply@performance-mediachannel.de
+Date: 18 Jun 2019 03:16:53 -0000
+List-Unsubscribe: <http://performance-mediachannel.de/ga/unsubscribe/2-200437775-400-22191-60982-3dd7770685275ec-f0d3c88fef?confirmed=1>,
+ <mailto:return-a400-60981-60982-8a47c625=200437775=8u@performance-mediachannel.de>
+X-CampaignID: s4:60981-10a707755d202379
+Message-ID: <mid-fadcfbc77d8184c65fb0c936218e63ef-14@performance-mediachannel.de>
+X-Mailer-Info: 8.QY0ADM.YDM5gTM.wav5GdhtGdAR2bylWYuZXYzN2buQWZ.yADM0MzN3cTN.YDM5gjM
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="==2563c19db94f10f05f09efc2487eb0e2"
+
+This is a multi-part message in MIME format.
+
+--==2563c19db94f10f05f09efc2487eb0e2
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Webansicht =C3=B6ffnen (
+http://performance-mediachannel.de/ga/webviews/4-200437775-400-22191-24539-=
+60982-5552930fb4 )
+
+Auf Der Suche nach der
+richtigen Zahnzusatzversicherung?
+
+Jetzt angebote aus =C3=BCber
+100 top tarifen anfordern!
+
+jetzt
+kostenlos anfordern ( http://performance-mediachannel.de/ga/click/2-2004377=
+75-400-22191-60982-1900643-1b4c2b387c-f0d3c88fef )
+
+OHNE RISIKO 100%
+KOSTENFREI. UNVERBINDLICH.
+
+OHNE RISIKO 100%
+KOSTENFREI. UNVERBINDLICH.
+
+Warum eine Zahnzusatz
+versicherung?
+
+Ein sch=C3=B6nes L=C3=A4cheln ist viel
+wert! Wie viel genau, sehen Sie meist erst auf der Rechnung Ihres
+Zahnarztes. Die gesetzliche Krankenversicherung deckt oft nur
+einen Teil dieser Kosten. Mit der Zahnzusatzversicherung von
+einem Top Anbieter sichern Sie sich einen opt imalen Schutz vor
+hohen Selbstkosten beim Zahnarz.
+
+IHRE VORTEILE VON
+ZAHNVERSICHERUNVERGLEICH24
+AUF EINEN BLICK:
+
+Es ist
+zu 100% kostenfrei
+
+Pers=C3=B6nlicher Ansprechportner
+
+Sie
+hoben kein Risiko
+
+Keine
+versteckten Kosten
+
+G=C3=BCnstiges Angebot mit maximalem Service
+
+Unsere
+Experten beraten telefonisch
+
+mehr
+erfahren ( http://performance-mediachannel.de/ga/click/2-200437775-400-2219=
+1-60982-1900644-8a675df463-f0d3c88fef )
+
+Logos
+
+Logos
+
+Alles ganz einfach in nur 3
+Schritten!
+
+1. Formular
+ausf=C3=BCllen
+
+Sie schicken Ihre
+Anfrage =C3=BCber das Angebotsformular dieser Webseite ab.
+
+2. Angebotssuche
+
+Wir suchen f=C3=BCr Sie
+die besten und g=C3=BCnstigsten Angebote.
+
+3. Angebote
+erhalten
+
+Sie erhalten von
+uns Angebote und k=C3=B6nnen beginnen zu vergleichen.
+
+jetzt kostenlos anfordern
+( http://performance-mediachannel.de/ga/click/2-200437775-400-22191-60982-1=
+900643-1b4c2b387c-f0d3c88fef )
+
+Was unsere Kunden sagen
+
+=E2=80=9CMan erh=C3=A4lt hier wirklich tolle
+Angebote. Die Preise sind sehr g=C3=BCnstig im Vergleich zu anderen
+Anbieter.=E2=80=9D
+
+Merilela S.
+
+=E2=80=9CAnfangs war ich etwas
+skeptisch, doch dann wurde ich positiv =C3=BCberrascht. Nun habe ich
+den g=C3=BCnstigsten Tarif mit den besten Leistungen.=E2=80=9D
+
+Markus G.
+
+=E2=80=9CWenn ich wieder eine
+Zahnzusatzversicherung ben=C3=B6tigen sollte, werde ich wieder hier
+Angebote anfordern. Die Leute halten was sie versprechen.=E2=80=9D
+
+Marco O.
+
+jetzt kostenlos anfordern
+( http://performance-mediachannel.de/ga/click/2-200437775-400-22191-60982-1=
+900643-1b4c2b387c-f0d3c88fef )
+
+=C3=9Cber uns
+
+- Idee
+
+- Team
+
+- etc.
+
+Service
+
+- Fragen & Antworten
+
+- Anfahrt & Kontakt
+
+- Impressum & Datenschutz
+
+Kontakt
+
+Sie erhalten diese E-Mail, weil Sie unsere Dienste in Anspruch
+nehmen oder an Gewinnspielen
+der Premium Performance Mail AG oder unserer
+Kooperationspartner teilgenommen haben. Die Angebote sind
+kommerzielle Anzeigen der jeweiligen Werbekunden,
+die f=C3=BCr den jeweiligen Inhalt verantwortlich sind.
+Bei Fragen zu den Angeboten haben, wenden Sie sich bitte an den
+in der Anzeige genannten Anbieter.
+Die Premium Performance Mail AG ist ausschlie=C3=9Flich
+Versender dieser Nachricht. Bitte antworten Sie nicht auf diese
+Mail. Um in Zukunft keine Informationen mehr von
+dieser Adresse zu erhalten, dann klicken Sie bitte
+hier ( http://performance-mediachannel.de/ga/unsubscribe/2-200437775-400-22=
+191-60982-3dd7770685275ec-f0d3c88fef ), um sich abzumelden. Haben Sie
+Verst=C3=A4ndnis, dass die Abmeldung bis zu 48 Stunden dauern kann.
+
+Director Caroline Wange
+
+The Picasso Building, Caldervale Road, Wakefield, West
+Yorkshire, United Kingdom.=
+
+--==2563c19db94f10f05f09efc2487eb0e2
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xmlns:v=3D"urn:schemas-microso=
+ft-com:vml" xmlns:o=3D"urn:schemas-microsoft-com:office:office">
+<head>
+  <!--[if gte mso 9]>
+  <xml>
+    <o:OfficeDocumentSettings>
+    <o:AllowPNG/>
+    <o:PixelsPerInch>96</o:PixelsPerInch>
+    </o:OfficeDocumentSettings>
+  </xml>
+  <![endif]-->
+  <meta http-equiv=3D"Content-type" content=3D"text/html; charset=3Dutf-8" =
+/>
+  <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D=
+1, maximum-scale=3D1" />
+    <meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge" />
+  <meta name=3D"format-detection" content=3D"date=3Dno" />
+  <meta name=3D"format-detection" content=3D"address=3Dno" />
+  <meta name=3D"format-detection" content=3D"telephone=3Dno" />
+  <title>Auf Der Suche nach der richtigen Zahnzusatzversicherung?</title>
+
+
+  <style type=3D"text/css" media=3D"screen">
+    /* Linked Styles */
+    body { padding:0 !important; margin:0 !important; display:block !import=
+ant; min-width:100% !important; width:100% !important; background:#f8f8f8; =
+-webkit-text-size-adjust:none }
+    a { color:#737373; text-decoration:none }
+    p { padding:0 !important; margin:0 !important }
+    img { -ms-interpolation-mode: bicubic; /* Allow smoother rendering of r=
+esized image in Internet Explorer */ }
+    .intro-button a { color:#1caadd; text-decoration:none }
+    .button-1 a { color:#ffffff }
+
+    /* Mobile styles */
+    @media only screen and (max-device-width: 480px), only screen and (max-=
+width: 480px) {
+      div[class=3D'mobile-br-5'] { height: 5px !important; }
+      div[class=3D'mobile-br-10'] { height: 10px !important; }
+      div[class=3D'mobile-br-15'] { height: 15px !important; }
+      div[class=3D'mobile-br-30'] { height: 30px !important; }
+
+      th[class=3D'm-td'],
+      td[class=3D'm-td'],
+      div[class=3D'hide-for-mobile'],
+      span[class=3D'hide-for-mobile'] { display: none !important; width: 0 =
+!important; height: 0 !important; font-size: 0 !important; line-height: 0 !=
+important; min-height: 0 !important; }
+      span[class=3D'mobile-block'] { display: block !important; }
+      div[class=3D'wgmail'] img { min-width: 320px !important; width: 320px=
+ !important; }
+      div[class=3D'img-m-center'] { text-align: center !important; }
+      div[class=3D'fluid-img'] img,
+      td[class=3D'fluid-img'] img { width: 100% !important; max-width: 480p=
+x !important; height: auto !important; }
+      table[class=3D'mobile-shell'] { width: 100% !important; min-width: 10=
+0% !important; }
+      table[class=3D'center'] { margin: 0 auto; }
+      td[class=3D'column'],
+      th[class=3D'column'],
+      td[class=3D'column-t'],
+      th[class=3D'column-t'] { float: left !important; width: 100% !importa=
+nt; display: block !important; }
+      td[class=3D'td'] { width: 100% !important; min-width: 100% !important=
+; }
+      td[class=3D'content-spacing'] { width: 20px !important; }
+      a[href^=3D"tel"], a[href^=3D"sms"] { text-decoration: none; color: bl=
+ack; pointer-events: none; cursor: default; }
+      .mobile_link a[href^=3D"tel"], .mobile_link a[href^=3D"sms"] { text-d=
+ecoration: default; color: orange !important; pointer-events: auto; cursor:=
+ default; }
+
+      td[class=3D'text-head'] { font-size: 11px !important; line-height: 15=
+px !important; }
+      td[class=3D'w135'] { width: 135px !important; }
+      td[class=3D'w135'] img { width: 135px !important; height: auto !impor=
+tant; }
+      div[class=3D'intro-h2'] { font-size: 18px !important; line-height: 22=
+px !important; }
+      span[class=3D'intro-mobile'] { display: block !important; width: 100%=
+ !important; min-width: 320px !important; max-width: 480px !important; heig=
+ht: auto !important; min-height: 50px !important; max-height: 100% !importa=
+nt; margin: 0 auto !important; }
+      span[class=3D'intro-mobile'] img { display: block !important; width: =
+100% !important; height: auto !important; max-height: 100% !important; }
+      span[class=3D'logos-mobile'] { display: block !important; width: 100%=
+ !important; min-width: 320px !important; max-width: 480px !important; heig=
+ht: auto !important; min-height: 50px !important; max-height: 100% !importa=
+nt; margin: 0 auto !important; }
+      span[class=3D'logos-mobile'] img { display: block !important; width: =
+100% !important; height: auto !important; max-height: 100% !important; }
+      table[class=3D'w270'] { width: 270px !important; margin: 0 auto !impo=
+rtant; }
+      td[class=3D'w10'] { width: 10px !important; }
+      td[class=3D'w120'] { width: 30% !important; }
+      div[class=3D'text-box'] { text-align: center !important; }
+      div[class=3D'text-name'] { text-align: center !important; }
+      table[class=3D'w126'] { width: 126px !important; }
+      table[class=3D'mobile-left'] { float: left !important; }
+      table[class=3D'mobile-right'] { float: right !important; }
+      div[class=3D'h4-white-c'] { text-align: center !important; }
+
+    }
+  </style>
+</head>
+<body class=3D"body" style=3D"padding:0 !important; margin:0 !important; di=
+splay:block !important; min-width:100% !important; width:100% !important; b=
+ackground:#f8f8f8; -webkit-text-size-adjust:none">
+  <table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" bg=
+color=3D"#f8f8f8">
+    <tr>
+      <td align=3D"center" valign=3D"top">
+
+        <!-- Header -->
+        <table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D=
+"0" bgcolor=3D"#ffffff">
+          <tr>
+            <td align=3D"center">
+              <!-- Shell -->
+              <table width=3D"640" border=3D"0" cellspacing=3D"0" cellpaddi=
+ng=3D"0" class=3D"mobile-shell">
+                <tr>
+                  <td class=3D"td" style=3D"width:600px; min-width:600px; f=
+ont-size:0pt; line-height:0pt; padding:0; margin:0; font-weight:normal; Mar=
+gin:0">
+                    <table width=3D"100%" cellpadding=3D"0" cellspacing=3D"=
+0" border=3D"0">
+                      <tr>
+                        <td class=3D"img" style=3D"font-size:0pt; line-heig=
+ht:0pt; text-align:left" width=3D"20">&nbsp;</td>
+                        <td align=3D"center">
+                          <table width=3D"100%" border=3D"0" cellspacing=3D=
+"0" cellpadding=3D"0" class=3D"spacer" style=3D"font-size:0pt; line-height:=
+0pt; text-align:center; width:100%; min-width:100%"><tr><td height=3D"25" c=
+lass=3D"spacer" style=3D"font-size:0pt; line-height:0pt; text-align:center;=
+ width:100%; min-width:100%">&nbsp;</td></tr></table>
+
+                          <table width=3D"100%" cellpadding=3D"0" cellspaci=
+ng=3D"0" border=3D"0">
+                            <tr>
+                              <td align=3D"left" class=3D"w135" width=3D"21=
+2">
+                                <div class=3D"img" style=3D"font-size:0pt; =
+line-height:0pt; text-align:left">
+                                  <a href=3D"http://performance-mediachanne=
+l.de/ga/click/2-200437775-400-22191-60982-1900644-8a675df463-f0d3c88fef" ta=
+rget=3D"_blank"><img src=3D"http://studio.enimail.de/ga/campaign_images/221=
+48/logo_x2.png" width=3D"212" height=3D"60" alt=3D"" border=3D"0" /></a>
+                                </div>
+                              </td>
+                              <td align=3D"right">
+                                <table cellpadding=3D"0" cellspacing=3D"0" =
+border=3D"0" align=3D"right">
+                                  <tr>
+                                    <td class=3D"text-head" style=3D"color:=
+#498cff; font-family:'Trebuchet MS', Arial, sans-serif; font-size:12px; lin=
+e-height:16px; text-align:right">
+
+                                      <a class=3D"text-head" style=3D"color=
+:#498cff; font-family:'Trebuchet MS', Arial, sans-serif; font-size:12px; li=
+ne-height:16px; text-align:right"  href=3D"http://performance-mediachannel.=
+de/ga/webviews/4-200437775-400-22191-24539-60982-5552930fb4" target=3D"_bla=
+nk">Webansicht =C3=B6ffnen</a>
+                                                                        </t=
+d>
+                                  </tr>
+                                </table>
+                              </td>
+                            </tr>
+                          </table>
+                          <table width=3D"100%" border=3D"0" cellspacing=3D=
+"0" cellpadding=3D"0" class=3D"spacer" style=3D"font-size:0pt; line-height:=
+0pt; text-align:center; width:100%; min-width:100%"><tr><td height=3D"20" c=
+lass=3D"spacer" style=3D"font-size:0pt; line-height:0pt; text-align:center;=
+ width:100%; min-width:100%">&nbsp;</td></tr></table>
+
+                        </td>
+                        <td class=3D"img" style=3D"font-size:0pt; line-heig=
+ht:0pt; text-align:left" width=3D"20">&nbsp;</td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+              </table>
+              <!-- End Shell -->
+            </td>
+          </tr>
+        </table>
+        <!-- End Header -->
+
+        <!-- Main -->
+        <table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D=
+"0" bgcolor=3D"#ffffff">
+          <tr>
+            <td align=3D"center">
+              <!-- Shell -->
+              <table width=3D"600" border=3D"0" cellspacing=3D"0" cellpaddi=
+ng=3D"0" class=3D"mobile-shell">
+                <tr>
+                  <td class=3D"td" style=3D"width:600px; min-width:600px; f=
+ont-size:0pt; line-height:0pt; padding:0; margin:0; font-weight:normal; Mar=
+gin:0">
+                    <table width=3D"100%" cellpadding=3D"0" cellspacing=3D"=
+0" border=3D"0">
+                      <tr>
+                        <td align=3D"center">
+
+                          <!-- Intro -->
+                          <table width=3D"100%" cellpadding=3D"0" cellspaci=
+ng=3D"0" border=3D"0" bgcolor=3D"#1caadd">
+                            <tr>
+                              <td align=3D"center">
+                                <!-- Top -->
+                                <table width=3D"100%" cellpadding=3D"0" cel=
+lspacing=3D"0" border=3D"0">
+                                  <tr>
+                                    <td class=3D"img" style=3D"font-size:0p=
+t; line-height:0pt; text-align:left" width=3D"20">&nbsp;</td>
+                                    <td align=3D"center">
+                                      <table width=3D"100%" border=3D"0" ce=
+llspacing=3D"0" cellpadding=3D"0" class=3D"spacer" style=3D"font-size:0pt; =
+line-height:0pt; text-align:center; width:100%; min-width:100%"><tr><td hei=
+ght=3D"35" class=3D"spacer" style=3D"font-size:0pt; line-height:0pt; text-a=
+lign:center; width:100%; min-width:100%">&nbsp;</td></tr></table>
+
+                                      <div class=3D"intro-h2" style=3D"colo=
+r:#ffffff; font-family:'Trebuchet MS', Arial, sans-serif; font-size:25px; l=
+ine-height:29px; text-align:center; font-weight:bold">
+                                        Auf Der Suche nach der richtigen Za=
+hnzusatzversicherung?
+                                      </div>
+                                      <table width=3D"100%" border=3D"0" ce=
+llspacing=3D"0" cellpadding=3D"0" class=3D"spacer" style=3D"font-size:0pt; =
+line-height:0pt; text-align:center; width:100%; min-width:100%"><tr><td hei=
+ght=3D"10" class=3D"spacer" style=3D"font-size:0pt; line-height:0pt; text-a=
+lign:center; width:100%; min-width:100%">&nbsp;</td></tr></table>
+
+                                      <div class=3D"intro-h3" style=3D"colo=
+r:#ffffff; font-family:'Trebuchet MS', Arial, sans-serif; font-size:16px; l=
+ine-height:20px; text-align:center">
+                                        Jetzt angebote aus =C3=BCber 100 to=
+p tarifen anfordern!
+                                      </div>
+                                      <table width=3D"100%" border=3D"0" ce=
+llspacing=3D"0" cellpadding=3D"0" class=3D"spacer" style=3D"font-size:0pt; =
+line-height:0pt; text-align:center; width:100%; min-width:100%"><tr><td hei=
+ght=3D"10" class=3D"spacer" style=3D"font-size:0pt; line-height:0pt; text-a=
+lign:center; width:100%; min-width:100%">&nbsp;</td></tr></table>
+
+
+                                      <!-- Button -->
+                                      <table width=3D"100%" cellpadding=3D"=
+0" cellspacing=3D"0" border=3D"0">
+                                        <tr>
+                                          <td align=3D"center">
+                                            <table border=3D"0" cellspacing=
+=3D"0" cellpadding=3D"0" align=3D"center" style=3D"border-radius:20px;" bgc=
+olor=3D"#ffffff">
+                                              <tr>
+                                                <td class=3D"img" style=3D"=
+font-size:0pt; line-height:0pt; text-align:left" width=3D"20">&nbsp;</td>
+                                                <td valign=3D"middle" align=
+=3D"center">
+                                                  <table width=3D"100%" bor=
+der=3D"0" cellspacing=3D"0" cellpadding=3D"0" class=3D"spacer" style=3D"fon=
+t-size:0pt; line-height:0pt; text-align:center; width:100%; min-width:100%"=
+><tr><td height=3D"12" class=3D"spacer" style=3D"font-size:0pt; line-height=
+:0pt; text-align:center; width:100%; min-width:100%">&nbsp;</td></tr></tabl=
+e>
+
+                                                  <div class=3D"intro-butto=
+n" style=3D"color:#1caadd; font-family:'Trebuchet MS', Arial, sans-serif; f=
+ont-size:13px; line-height:17px; text-transform:uppercase; font-weight:bold=
+">
+                                                    <a href=3D"http://perfo=
+rmance-mediachannel.de/ga/click/2-200437775-400-22191-60982-1900643-1b4c2b3=
+87c-f0d3c88fef" target=3D"_blank" class=3D"link-intro-btn" style=3D"color:#=
+1caadd; text-decoration:none"><span class=3D"link-intro-btn" style=3D"color=
+:#1caadd; text-decoration:none">jetzt kostenlos anfordern</span></a>
+                                                  </div>
+                                                  <table width=3D"100%" bor=
+der=3D"0" cellspacing=3D"0" cellpadding=3D"0" class=3D"spacer" style=3D"fon=
+t-size:0pt; line-height:0pt; text-align:center; width:100%; min-width:100%"=
+><tr><td height=3D"12" class=3D"spacer" style=3D"font-size:0pt; line-height=
+:0pt; text-align:center; width:100%; min-width:100%">&nbsp;</td></tr></tabl=
+e>
+
+                                                </td>
+                                                <td class=3D"img" style=3D"=
+font-size:0pt; line-height:0pt; text-align:left" width=3D"20">&nbsp;</td>
+                                              </tr>
+                                            </table>
+                                          </td>
+                                        </tr>
+                                      </table>
+                                      <!-- End Button -->
+                                    </td>
+                                    <td class=3D"img" style=3D"font-size:0p=
+t; line-height:0pt; text-align:left" width=3D"20">&nbsp;</td>
+                                  </tr>
+                                </table>
+                                <!-- End Top -->
+
+                                <!-- Bottom -->
+                                <table width=3D"100%" cellpadding=3D"0" cel=
+lspacing=3D"0" border=3D"0">
+                                  <tr>
+                                    <td align=3D"center">
+                                      <div class=3D"fluid-img" style=3D"fon=
+t-size:0pt; line-height:0pt; text-align:left">
+                                        <div class=3D"img-center" style=3D"=
+font-size:0pt; line-height:0pt; text-align:center">
+                                          <span class=3D"hide-for-mobile">
+                                            <img src=3D"http://studio.enima=
+il.de/ga/campaign_images/22148/intro_image_desktop.png" width=3D"600" heigh=
+t=3D"365" alt=3D"OHNE RISIKO 100% KOSTENFREI. UNVERBINDLICH." border=3D"0" =
+class=3D"image" style=3D"display:block; color:#000000; font-family:Arial; f=
+ont-size:12px; line-height:16px; text-align:center" />
+                                          </span>
+                                          <!--[if !mso]><!-->
+                                          <span class=3D"intro-mobile" styl=
+e=3D"display:none; min-height:0; height:0; max-height:0">
+                                            <img src=3D"http://studio.enima=
+il.de/ga/campaign_images/22148/intro_image_mobile_x2.png" width=3D"0" heigh=
+t=3D"0" alt=3D"OHNE RISIKO 100% KOSTENFREI. UNVERBINDLICH." border=3D"0" st=
+yle=3D"display: none; min-height: 0; height: 0; max-height: 0;" />
+                                          </span>
+                                          <!--<![endif]-->
+                                        </div>
+                                      </div>
+                                    </td>
+                                  </tr>
+                                </table>
+                                <!-- End Bottom -->
+                              </td>
+                            </tr>
+                          </table>
+                          <!-- End Intro -->
+
+                          <table width=3D"100%" cellpadding=3D"0" cellspaci=
+ng=3D"0" border=3D"0">
+                            <tr>
+                              <td class=3D"content-spacing" style=3D"font-s=
+ize:0pt; line-height:0pt; text-align:left" width=3D"0">&nbsp;</td>
+                              <td align=3D"center">
+                                <table width=3D"100%" border=3D"0" cellspac=
+ing=3D"0" cellpadding=3D"0" class=3D"spacer" style=3D"font-size:0pt; line-h=
+eight:0pt; text-align:center; width:100%; min-width:100%"><tr><td height=3D=
+"40" class=3D"spacer" style=3D"font-size:0pt; line-height:0pt; text-align:c=
+enter; width:100%; min-width:100%">&nbsp;</td></tr></table>
+
+                                <div class=3D"h3" style=3D"color:#737373; f=
+ont-family:'Trebuchet MS', Arial, sans-serif; font-size:20px; line-height:2=
+4px; text-align:center; font-weight:bold">
+                                  Warum eine Zahnzusatz versicherung?
+                                </div>
+                                <table width=3D"100%" border=3D"0" cellspac=
+ing=3D"0" cellpadding=3D"0" class=3D"spacer" style=3D"font-size:0pt; line-h=
+eight:0pt; text-align:center; width:100%; min-width:100%"><tr><td height=3D=
+"15" class=3D"spacer" style=3D"font-size:0pt; line-height:0pt; text-align:c=
+enter; width:100%; min-width:100%">&nbsp;</td></tr></table>
+
+                                <div class=3D"text-c" style=3D"color:#73737=
+3; font-family:'Trebuchet MS', Arial, sans-serif; font-size:15px; line-heig=
+ht:22px; text-align:center">
+                                  Ein sch=C3=B6nes L=C3=A4cheln ist viel we=
+rt! Wie viel genau, sehen Sie meist erst auf der Rechnung Ihres Zahnarztes.=
+ Die gesetzliche Krankenversicherung deckt oft nur einen Teil dieser Kosten=
+. Mit der Zahnzusatzversicherung von einem Top Anbieter sichern Sie sich ei=
+nen opt imalen Schutz vor hohen Selbstkosten beim Zahnarz.
+                                </div>
+                                <table width=3D"100%" border=3D"0" cellspac=
+ing=3D"0" cellpadding=3D"0" class=3D"spacer" style=3D"font-size:0pt; line-h=
+eight:0pt; text-align:center; width:100%; min-width:100%"><tr><td height=3D=
+"50" class=3D"spacer" style=3D"font-size:0pt; line-height:0pt; text-align:c=
+enter; width:100%; min-width:100%">&nbsp;</td></tr></table>
+
+                                <div class=3D"h2" style=3D"color:#737373; f=
+ont-family:'Trebuchet MS', Arial, sans-serif; font-size:18px; line-height:2=
+2px; text-align:center; font-weight:bold">
+                                  IHRE VORTEILE VON ZAHNVERSICHERUNVERGLEIC=
+H24 <br />AUF EINEN BLICK:
+                                </div>
+                                <table width=3D"100%" border=3D"0" cellspac=
+ing=3D"0" cellpadding=3D"0" class=3D"spacer" style=3D"font-size:0pt; line-h=
+eight:0pt; text-align:center; width:100%; min-width:100%"><tr><td height=3D=
+"20" class=3D"spacer" style=3D"font-size:0pt; line-height:0pt; text-align:c=
+enter; width:100%; min-width:100%">&nbsp;</td></tr></table>
+
+
+                                <table width=3D"100%" cellpadding=3D"0" cel=
+lspacing=3D"0" border=3D"0">
+                                  <tr>
+                                    <th class=3D"column-t" style=3D"font-si=
+ze:0pt; line-height:0pt; padding:0; margin:0; font-weight:normal; Margin:0;=
+ vertical-align:top" width=3D"270">
+                                      <table width=3D"100%" cellpadding=3D"=
+0" cellspacing=3D"0" border=3D"0">
+                                        <tr>
+                                          <td class=3D"img-center" style=3D=
+"font-size:0pt; line-height:0pt; text-align:center">
+                                            <img src=3D"http://studio.enima=
+il.de/ga/campaign_images/22148/image_1_desktop.png" width=3D"270" height=3D=
+"264" alt=3D"" border=3D"0" />
+                                          </td>
+                                        </tr>
+                                      </table>
+                                    </th>
+                                    <th class=3D"column-t" style=3D"font-si=
+ze:0pt; line-height:0pt; padding:0; margin:0; font-weight:normal; Margin:0;=
+ vertical-align:top" width=3D"25">
+                                      <table width=3D"100%" border=3D"0" ce=
+llspacing=3D"0" cellpadding=3D"0" class=3D"spacer" style=3D"font-size:0pt; =
+line-height:0pt; text-align:center; width:100%; min-width:100%"><tr><td hei=
+ght=3D"15" class=3D"spacer" style=3D"font-size:0pt; line-height:0pt; text-a=
+lign:center; width:100%; min-width:100%">&nbsp;</td></tr></table>
+
+                                    </th>
+                                    <th class=3D"column-t" style=3D"font-si=
+ze:0pt; line-height:0pt; padding:0; margin:0; font-weight:normal; Margin:0;=
+ vertical-align:top" width=3D"305">
+                                      <table width=3D"100%" cellpadding=3D"=
+0" cellspacing=3D"0" border=3D"0">
+                                        <tr>
+                                          <td align=3D"center">
+
+                                            <!-- List -->
+                                            <table width=3D"100%" cellpaddi=
+ng=3D"0" cellspacing=3D"0" border=3D"0" class=3D"w270">
+                                              <tr>
+                                                <td align=3D"left">
+                                                  <table width=3D"100%" cel=
+lpadding=3D"0" cellspacing=3D"0" border=3D"0">
+                                                    <tr>
+                                                      <td class=3D"img" sty=
+le=3D"font-size:0pt; line-height:0pt; text-align:left" width=3D"20" valign=
+=3D"top">
+                                                        <table width=3D"100=
+%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" class=3D"spacer" style=
+=3D"font-size:0pt; line-height:0pt; text-align:center; width:100%; min-widt=
+h:100%"><tr><td height=3D"7" class=3D"spacer" style=3D"font-size:0pt; line-=
+height:0pt; text-align:center; width:100%; min-width:100%">&nbsp;</td></tr>=
+</table>
+
+                                                        <div class=3D"img" =
+style=3D"font-size:0pt; line-height:0pt; text-align:left">
+                                                          <img src=3D"http:=
+//studio.enimail.de/ga/campaign_images/22148/check_icon_x2.png" width=3D"13=
+" height=3D"10" alt=3D"" border=3D"0" />
+                                                        </div>
+                                                      </td>
+                                                      <td align=3D"left" ve=
+rtical-align=3D"middle">
+                                                        <div class=3D"text"=
+ style=3D"color:#737373; font-family:'Trebuchet MS', Arial, sans-serif; fon=
+t-size:15px; line-height:22px; text-align:left">
+                                                          Es ist zu 100% ko=
+stenfrei
+                                                        </div>
+                                                      </td>
+                                                    </tr>
+                                                  </table>
+                                                  <table width=3D"100%" bor=
+der=3D"0" cellspacing=3D"0" cellpadding=3D"0" class=3D"spacer" style=3D"fon=
+t-size:0pt; line-height:0pt; text-align:center; width:100%; min-width:100%"=
+><tr><td height=3D"12" class=3D"spacer" style=3D"font-size:0pt; line-height=
+:0pt; text-align:center; width:100%; min-width:100%">&nbsp;</td></tr></tabl=
+e>
+
+                                                  <table width=3D"100%" cel=
+lpadding=3D"0" cellspacing=3D"0" border=3D"0">
+                                                    <tr>
+                                                      <td class=3D"img" sty=
+le=3D"font-size:0pt; line-height:0pt; text-align:left" width=3D"20" valign=
+=3D"top">
+                                                        <table width=3D"100=
+%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" class=3D"spacer" style=
+=3D"font-size:0pt; line-height:0pt; text-align:center; width:100%; min-widt=
+h:100%"><tr><td height=3D"7" class=3D"spacer" style=3D"font-size:0pt; line-=
+height:0pt; text-align:center; width:100%; min-width:100%">&nbsp;</td></tr>=
+</table>
+
+                                                        <div class=3D"img" =
+style=3D"font-size:0pt; line-height:0pt; text-align:left">
+                                                          <img src=3D"http:=
+//studio.enimail.de/ga/campaign_images/22148/check_icon_x2.png" width=3D"13=
+" height=3D"10" alt=3D"" border=3D"0" />
+                                                        </div>
+                                                      </td>
+                                                      <td align=3D"left" ve=
+rtical-align=3D"middle">
+                                                        <div class=3D"text"=
+ style=3D"color:#737373; font-family:'Trebuchet MS', Arial, sans-serif; fon=
+t-size:15px; line-height:22px; text-align:left">
+                                                          Pers=C3=B6nlicher=
+ Ansprechportner
+                                                        </div>
+                                                      </td>
+                                                    </tr>
+                                                  </table>
+                                                  <table width=3D"100%" bor=
+der=3D"0" cellspacing=3D"0" cellpadding=3D"0" class=3D"spacer" style=3D"fon=
+t-size:0pt; line-height:0pt; text-align:center; width:100%; min-width:100%"=
+><tr><td height=3D"12" class=3D"spacer" style=3D"font-size:0pt; line-height=
+:0pt; text-align:center; width:100%; min-width:100%">&nbsp;</td></tr></tabl=
+e>
+
+                                                  <table width=3D"100%" cel=
+lpadding=3D"0" cellspacing=3D"0" border=3D"0">
+                                                    <tr>
+                                                      <td class=3D"img" sty=
+le=3D"font-size:0pt; line-height:0pt; text-align:left" width=3D"20" valign=
+=3D"top">
+                                                        <table width=3D"100=
+%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" class=3D"spacer" style=
+=3D"font-size:0pt; line-height:0pt; text-align:center; width:100%; min-widt=
+h:100%"><tr><td height=3D"7" class=3D"spacer" style=3D"font-size:0pt; line-=
+height:0pt; text-align:center; width:100%; min-width:100%">&nbsp;</td></tr>=
+</table>
+
+                                                        <div class=3D"img" =
+style=3D"font-size:0pt; line-height:0pt; text-align:left">
+                                                          <img src=3D"http:=
+//studio.enimail.de/ga/campaign_images/22148/check_icon_x2.png" width=3D"13=
+" height=3D"10" alt=3D"" border=3D"0" />
+                                                        </div>
+                                                      </td>
+                                                      <td align=3D"left" ve=
+rtical-align=3D"middle">
+                                                        <div class=3D"text"=
+ style=3D"color:#737373; font-family:'Trebuchet MS', Arial, sans-serif; fon=
+t-size:15px; line-height:22px; text-align:left">
+                                                          Sie hoben kein Ri=
+siko
+                                                        </div>
+                                                      </td>
+                                                    </tr>
+                                                  </table>
+                                                  <table width=3D"100%" bor=
+der=3D"0" cellspacing=3D"0" cellpadding=3D"0" class=3D"spacer" style=3D"fon=
+t-size:0pt; line-height:0pt; text-align:center; width:100%; min-width:100%"=
+><tr><td height=3D"12" class=3D"spacer" style=3D"font-size:0pt; line-height=
+:0pt; text-align:center; width:100%; min-width:100%">&nbsp;</td></tr></tabl=
+e>
+
+                                                  <table width=3D"100%" cel=
+lpadding=3D"0" cellspacing=3D"0" border=3D"0">
+                                                    <tr>
+                                                      <td class=3D"img" sty=
+le=3D"font-size:0pt; line-height:0pt; text-align:left" width=3D"20" valign=
+=3D"top">
+                                                        <table width=3D"100=
+%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" class=3D"spacer" style=
+=3D"font-size:0pt; line-height:0pt; text-align:center; width:100%; min-widt=
+h:100%"><tr><td height=3D"7" class=3D"spacer" style=3D"font-size:0pt; line-=
+height:0pt; text-align:center; width:100%; min-width:100%">&nbsp;</td></tr>=
+</table>
+
+                                                        <div class=3D"img" =
+style=3D"font-size:0pt; line-height:0pt; text-align:left">
+                                                          <img src=3D"http:=
+//studio.enimail.de/ga/campaign_images/22148/check_icon_x2.png" width=3D"13=
+" height=3D"10" alt=3D"" border=3D"0" />
+                                                        </div>
+                                                      </td>
+                                                      <td align=3D"left" ve=
+rtical-align=3D"middle">
+                                                        <div class=3D"text"=
+ style=3D"color:#737373; font-family:'Trebuchet MS', Arial, sans-serif; fon=
+t-size:15px; line-height:22px; text-align:left">
+                                                          Keine versteckten=
+ Kosten
+                                                        </div>
+                                                      </td>
+                                                    </tr>
+                                                  </table>
+                                                  <table width=3D"100%" bor=
+der=3D"0" cellspacing=3D"0" cellpadding=3D"0" class=3D"spacer" style=3D"fon=
+t-size:0pt; line-height:0pt; text-align:center; width:100%; min-width:100%"=
+><tr><td height=3D"12" class=3D"spacer" style=3D"font-size:0pt; line-height=
+:0pt; text-align:center; width:100%; min-width:100%">&nbsp;</td></tr></tabl=
+e>
+
+                                                  <table width=3D"100%" cel=
+lpadding=3D"0" cellspacing=3D"0" border=3D"0">
+                                                    <tr>
+                                                      <td class=3D"img" sty=
+le=3D"font-size:0pt; line-height:0pt; text-align:left" width=3D"20" valign=
+=3D"top">
+                                                        <table width=3D"100=
+%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" class=3D"spacer" style=
+=3D"font-size:0pt; line-height:0pt; text-align:center; width:100%; min-widt=
+h:100%"><tr><td height=3D"7" class=3D"spacer" style=3D"font-size:0pt; line-=
+height:0pt; text-align:center; width:100%; min-width:100%">&nbsp;</td></tr>=
+</table>
+
+                                                        <div class=3D"img" =
+style=3D"font-size:0pt; line-height:0pt; text-align:left">
+                                                          <img src=3D"http:=
+//studio.enimail.de/ga/campaign_images/22148/check_icon_x2.png" width=3D"13=
+" height=3D"10" alt=3D"" border=3D"0" />
+                                                        </div>
+                                                      </td>
+                                                      <td align=3D"left" ve=
+rtical-align=3D"middle">
+                                                        <div class=3D"text"=
+ style=3D"color:#737373; font-family:'Trebuchet MS', Arial, sans-serif; fon=
+t-size:15px; line-height:22px; text-align:left">
+                                                          G=C3=BCnstiges An=
+gebot mit maximalem Service
+                                                        </div>
+                                                      </td>
+                                                    </tr>
+                                                  </table>
+                                                  <table width=3D"100%" bor=
+der=3D"0" cellspacing=3D"0" cellpadding=3D"0" class=3D"spacer" style=3D"fon=
+t-size:0pt; line-height:0pt; text-align:center; width:100%; min-width:100%"=
+><tr><td height=3D"12" class=3D"spacer" style=3D"font-size:0pt; line-height=
+:0pt; text-align:center; width:100%; min-width:100%">&nbsp;</td></tr></tabl=
+e>
+
+                                                  <table width=3D"100%" cel=
+lpadding=3D"0" cellspacing=3D"0" border=3D"0">
+                                                    <tr>
+                                                      <td class=3D"img" sty=
+le=3D"font-size:0pt; line-height:0pt; text-align:left" width=3D"20" valign=
+=3D"top">
+                                                        <table width=3D"100=
+%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" class=3D"spacer" style=
+=3D"font-size:0pt; line-height:0pt; text-align:center; width:100%; min-widt=
+h:100%"><tr><td height=3D"7" class=3D"spacer" style=3D"font-size:0pt; line-=
+height:0pt; text-align:center; width:100%; min-width:100%">&nbsp;</td></tr>=
+</table>
+
+                                                        <div class=3D"img" =
+style=3D"font-size:0pt; line-height:0pt; text-align:left">
+                                                          <img src=3D"http:=
+//studio.enimail.de/ga/campaign_images/22148/check_icon_x2.png" width=3D"13=
+" height=3D"10" alt=3D"" border=3D"0" />
+                                                        </div>
+                                                      </td>
+                                                      <td align=3D"left" ve=
+rtical-align=3D"middle">
+                                                        <div class=3D"text"=
+ style=3D"color:#737373; font-family:'Trebuchet MS', Arial, sans-serif; fon=
+t-size:15px; line-height:22px; text-align:left">
+                                                          Unsere Experten b=
+eraten telefonisch
+                                                        </div>
+                                                      </td>
+                                                    </tr>
+                                                  </table>
+                                                </td>
+                                              </tr>
+                                            </table>
+                                            <!-- End List -->
+
+                                            <table width=3D"100%" border=3D=
+"0" cellspacing=3D"0" cellpadding=3D"0" class=3D"spacer" style=3D"font-size=
+:0pt; line-height:0pt; text-align:center; width:100%; min-width:100%"><tr><=
+td height=3D"20" class=3D"spacer" style=3D"font-size:0pt; line-height:0pt; =
+text-align:center; width:100%; min-width:100%">&nbsp;</td></tr></table>
+
+
+                                            <!-- Button -->
+                                            <table width=3D"100%" cellpaddi=
+ng=3D"0" cellspacing=3D"0" border=3D"0">
+                                              <tr>
+                                                <td align=3D"left">
+                                                  <table border=3D"0" cells=
+pacing=3D"0" cellpadding=3D"0" style=3D"border-radius:20px;" bgcolor=3D"#68=
+bdff" class=3D"center">
+                                                    <tr>
+                                                      <td class=3D"img" sty=
+le=3D"font-size:0pt; line-height:0pt; text-align:left" width=3D"30">&nbsp;<=
+/td>
+                                                      <td valign=3D"middle"=
+ align=3D"center">
+                                                        <table width=3D"100=
+%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" class=3D"spacer" style=
+=3D"font-size:0pt; line-height:0pt; text-align:center; width:100%; min-widt=
+h:100%"><tr><td height=3D"12" class=3D"spacer" style=3D"font-size:0pt; line=
+-height:0pt; text-align:center; width:100%; min-width:100%">&nbsp;</td></tr=
+></table>
+
+                                                        <div class=3D"butto=
+n-1" style=3D"color:#ffffff; font-family:'Trebuchet MS', Arial, sans-serif;=
+ font-size:13px; line-height:17px; text-transform:uppercase; font-weight:bo=
+ld">
+                                                          <a href=3D"http:/=
+/performance-mediachannel.de/ga/click/2-200437775-400-22191-60982-1900644-8=
+a675df463-f0d3c88fef" target=3D"_blank" class=3D"link-btn-1" style=3D"color=
+:#ffffff"><span class=3D"link-btn-1" style=3D"color:#ffffff">mehr erfahren<=
+/span></a>
+                                                        </div>
+                                                        <table width=3D"100=
+%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" class=3D"spacer" style=
+=3D"font-size:0pt; line-height:0pt; text-align:center; width:100%; min-widt=
+h:100%"><tr><td height=3D"12" class=3D"spacer" style=3D"font-size:0pt; line=
+-height:0pt; text-align:center; width:100%; min-width:100%">&nbsp;</td></tr=
+></table>
+
+                                                      </td>
+                                                      <td class=3D"img" sty=
+le=3D"font-size:0pt; line-height:0pt; text-align:left" width=3D"30">&nbsp;<=
+/td>
+                                                    </tr>
+                                                  </table>
+                                                </td>
+                                              </tr>
+                                            </table>
+                                            <!-- End Button -->
+
+                                          </td>
+                                        </tr>
+                                      </table>
+                                    </th>
+                                  </tr>
+                                </table>
+                              </td>
+                              <td class=3D"content-spacing" style=3D"font-s=
+ize:0pt; line-height:0pt; text-align:left" width=3D"0">&nbsp;</td>
+                            </tr>
+                          </table>
+
+                          <table width=3D"100%" border=3D"0" cellspacing=3D=
+"0" cellpadding=3D"0" class=3D"spacer" style=3D"font-size:0pt; line-height:=
+0pt; text-align:center; width:100%; min-width:100%"><tr><td height=3D"40" c=
+lass=3D"spacer" style=3D"font-size:0pt; line-height:0pt; text-align:center;=
+ width:100%; min-width:100%">&nbsp;</td></tr></table>
+
+                          <div class=3D"hide-for-mobile">
+                            <table width=3D"100%" border=3D"0" cellspacing=
+=3D"0" cellpadding=3D"0" class=3D"spacer" style=3D"font-size:0pt; line-heig=
+ht:0pt; text-align:center; width:100%; min-width:100%"><tr><td height=3D"10=
+" class=3D"spacer" style=3D"font-size:0pt; line-height:0pt; text-align:cent=
+er; width:100%; min-width:100%">&nbsp;</td></tr></table>
+
+                          </div>
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+              </table>
+              <!-- End Shell -->
+            </td>
+          </tr>
+        </table>
+        <!-- End Main -->
+
+        <!-- Logos -->
+        <table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D=
+"0" bgcolor=3D"#fdfdfd" style=3D"border-top: solid 1px #e5e5e5; border-bott=
+om: solid 1px #e5e5e5;">
+          <tr>
+            <td align=3D"center">
+              <!-- Shell -->
+              <table width=3D"640" border=3D"0" cellspacing=3D"0" cellpaddi=
+ng=3D"0" class=3D"mobile-shell">
+                <tr>
+                  <td class=3D"td" style=3D"width:600px; min-width:600px; f=
+ont-size:0pt; line-height:0pt; padding:0; margin:0; font-weight:normal; Mar=
+gin:0">
+                    <table width=3D"100%" cellpadding=3D"0" cellspacing=3D"=
+0" border=3D"0">
+                      <tr>
+                        <td align=3D"center">
+                          <table width=3D"100%" border=3D"0" cellspacing=3D=
+"0" cellpadding=3D"0" class=3D"spacer" style=3D"font-size:0pt; line-height:=
+0pt; text-align:center; width:100%; min-width:100%"><tr><td height=3D"20" c=
+lass=3D"spacer" style=3D"font-size:0pt; line-height:0pt; text-align:center;=
+ width:100%; min-width:100%">&nbsp;</td></tr></table>
+
+                          <div class=3D"hide-for-mobile">
+                            <table width=3D"100%" border=3D"0" cellspacing=
+=3D"0" cellpadding=3D"0" class=3D"spacer" style=3D"font-size:0pt; line-heig=
+ht:0pt; text-align:center; width:100%; min-width:100%"><tr><td height=3D"10=
+" class=3D"spacer" style=3D"font-size:0pt; line-height:0pt; text-align:cent=
+er; width:100%; min-width:100%">&nbsp;</td></tr></table>
+
+                          </div>
+                          <table width=3D"100%" cellpadding=3D"0" cellspaci=
+ng=3D"0" border=3D"0">
+                            <tr>
+                              <td align=3D"center">
+                                <table cellpadding=3D"0" cellspacing=3D"0" =
+border=3D"0">
+                                  <tr>
+                                    <td align=3D"center">
+                                      <div class=3D"fluid-img" style=3D"fon=
+t-size:0pt; line-height:0pt; text-align:left">
+                                        <div class=3D"img-center" style=3D"=
+font-size:0pt; line-height:0pt; text-align:center">
+                                          <span class=3D"hide-for-mobile">
+                                            <img src=3D"http://studio.enima=
+il.de/ga/campaign_images/22148/logos_desktop.png" width=3D"540" height=3D"1=
+50" alt=3D"Logos" border=3D"0" class=3D"image" style=3D"display:block; colo=
+r:#000000; font-family:Arial; font-size:12px; line-height:16px; text-align:=
+center" />
+                                          </span>
+                                          <!--[if !mso]><!-->
+                                          <span class=3D"logos-mobile" styl=
+e=3D"display:none; min-height:0; height:0; max-height:0">
+                                            <img src=3D"http://studio.enima=
+il.de/ga/campaign_images/22148/logos_mobile_2x.png" width=3D"0" height=3D"0=
+" alt=3D"Logos" border=3D"0" style=3D"display: none; min-height: 0; height:=
+ 0; max-height: 0;" />
+                                          </span>
+                                          <!--<![endif]-->
+                                        </div>
+                                      </div>
+                                    </td>
+                                  </tr>
+                                </table>
+                              </td>
+                            </tr>
+                          </table>
+                          <table width=3D"100%" border=3D"0" cellspacing=3D=
+"0" cellpadding=3D"0" class=3D"spacer" style=3D"font-size:0pt; line-height:=
+0pt; text-align:center; width:100%; min-width:100%"><tr><td height=3D"20" c=
+lass=3D"spacer" style=3D"font-size:0pt; line-height:0pt; text-align:center;=
+ width:100%; min-width:100%">&nbsp;</td></tr></table>
+
+                          <div class=3D"hide-for-mobile">
+                            <table width=3D"100%" border=3D"0" cellspacing=
+=3D"0" cellpadding=3D"0" class=3D"spacer" style=3D"font-size:0pt; line-heig=
+ht:0pt; text-align:center; width:100%; min-width:100%"><tr><td height=3D"10=
+" class=3D"spacer" style=3D"font-size:0pt; line-height:0pt; text-align:cent=
+er; width:100%; min-width:100%">&nbsp;</td></tr></table>
+
+                          </div>
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+              </table>
+              <!-- End Shell -->
+            </td>
+          </tr>
+        </table>
+        <!-- End Logos -->
+
+        <!-- Steps -->
+        <table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D=
+"0" bgcolor=3D"#ffffff">
+          <tr>
+            <td align=3D"center">
+              <!-- Shell -->
+              <table width=3D"640" border=3D"0" cellspacing=3D"0" cellpaddi=
+ng=3D"0" class=3D"mobile-shell">
+                <tr>
+                  <td class=3D"td" style=3D"width:600px; min-width:600px; f=
+ont-size:0pt; line-height:0pt; padding:0; margin:0; font-weight:normal; Mar=
+gin:0">
+                    <table width=3D"100%" cellpadding=3D"0" cellspacing=3D"=
+0" border=3D"0">
+                      <tr>
+                        <td class=3D"img" style=3D"font-size:0pt; line-heig=
+ht:0pt; text-align:left" width=3D"20">&nbsp;</td>
+                        <td align=3D"center">
+                          <table width=3D"100%" border=3D"0" cellspacing=3D=
+"0" cellpadding=3D"0" class=3D"spacer" style=3D"font-size:0pt; line-height:=
+0pt; text-align:center; width:100%; min-width:100%"><tr><td height=3D"35" c=
+lass=3D"spacer" style=3D"font-size:0pt; line-height:0pt; text-align:center;=
+ width:100%; min-width:100%">&nbsp;</td></tr></table>
+
+                          <div class=3D"h3" style=3D"color:#737373; font-fa=
+mily:'Trebuchet MS', Arial, sans-serif; font-size:20px; line-height:24px; t=
+ext-align:center; font-weight:bold">
+                            Alles ganz einfach in nur 3 Schritten!
+                          </div>
+                          <table width=3D"100%" border=3D"0" cellspacing=3D=
+"0" cellpadding=3D"0" class=3D"spacer" style=3D"font-size:0pt; line-height:=
+0pt; text-align:center; width:100%; min-width:100%"><tr><td height=3D"35" c=
+lass=3D"spacer" style=3D"font-size:0pt; line-height:0pt; text-align:center;=
+ width:100%; min-width:100%">&nbsp;</td></tr></table>
+
+
+                          <!-- Three Columns -->
+                          <table width=3D"100%" cellpadding=3D"0" cellspaci=
+ng=3D"0" border=3D"0">
+                            <tr>
+                              <th class=3D"column-t" style=3D"font-size:0pt=
+; line-height:0pt; padding:0; margin:0; font-weight:normal; Margin:0; verti=
+cal-align:top" width=3D"200">
+                                <table width=3D"100%" cellpadding=3D"0" cel=
+lspacing=3D"0" border=3D"0">
+                                  <tr>
+                                    <td align=3D"center">
+                                      <table width=3D"190" cellpadding=3D"0=
+" cellspacing=3D"0" border=3D"0">
+                                        <tr>
+                                          <td align=3D"center">
+                                            <div class=3D"img-center" style=
+=3D"font-size:0pt; line-height:0pt; text-align:center">
+                                              <img src=3D"http://studio.eni=
+mail.de/ga/campaign_images/22148/icon_1_2x.png" width=3D"76" height=3D"75" =
+alt=3D"" border=3D"0" />
+                                            </div>
+                                            <table width=3D"100%" border=3D=
+"0" cellspacing=3D"0" cellpadding=3D"0" class=3D"spacer" style=3D"font-size=
+:0pt; line-height:0pt; text-align:center; width:100%; min-width:100%"><tr><=
+td height=3D"12" class=3D"spacer" style=3D"font-size:0pt; line-height:0pt; =
+text-align:center; width:100%; min-width:100%">&nbsp;</td></tr></table>
+
+                                            <div class=3D"h4" style=3D"colo=
+r:#737373; font-family:'Trebuchet MS', Arial, sans-serif; font-size:16px; l=
+ine-height:20px; text-align:center; font-weight:bold">
+                                              1. Formular ausf=C3=BCllen
+                                            </div>
+                                            <table width=3D"100%" border=3D=
+"0" cellspacing=3D"0" cellpadding=3D"0" class=3D"spacer" style=3D"font-size=
+:0pt; line-height:0pt; text-align:center; width:100%; min-width:100%"><tr><=
+td height=3D"8" class=3D"spacer" style=3D"font-size:0pt; line-height:0pt; t=
+ext-align:center; width:100%; min-width:100%">&nbsp;</td></tr></table>
+
+                                            <div class=3D"text-s" style=3D"=
+color:#737373; font-family:'Trebuchet MS', Arial, sans-serif; font-size:13p=
+x; line-height:17px; text-align:center">
+                                              Sie schicken Ihre Anfrage =C3=
+=BCber das Angebotsformular dieser Webseite ab.
+                                            </div>
+                                          </td>
+                                        </tr>
+                                      </table>
+                                    </td>
+                                  </tr>
+                                </table>
+                              </th>
+                              <th class=3D"column-t" style=3D"font-size:0pt=
+; line-height:0pt; padding:0; margin:0; font-weight:normal; Margin:0; verti=
+cal-align:top" width=3D"200">
+                                <table width=3D"100%" cellpadding=3D"0" cel=
+lspacing=3D"0" border=3D"0">
+                                  <tr>
+                                    <td align=3D"center">
+                                      <div style=3D"font-size:0pt; line-hei=
+ght:0pt;" class=3D"mobile-br-30"></div>
+
+                                      <table width=3D"190" cellpadding=3D"0=
+" cellspacing=3D"0" border=3D"0">
+                                        <tr>
+                                          <td align=3D"center">
+                                            <div class=3D"img-center" style=
+=3D"font-size:0pt; line-height:0pt; text-align:center">
+                                              <img src=3D"http://studio.eni=
+mail.de/ga/campaign_images/22148/icon_2_2x.png" width=3D"76" height=3D"75" =
+alt=3D"" border=3D"0" />
+                                            </div>
+                                            <table width=3D"100%" border=3D=
+"0" cellspacing=3D"0" cellpadding=3D"0" class=3D"spacer" style=3D"font-size=
+:0pt; line-height:0pt; text-align:center; width:100%; min-width:100%"><tr><=
+td height=3D"12" class=3D"spacer" style=3D"font-size:0pt; line-height:0pt; =
+text-align:center; width:100%; min-width:100%">&nbsp;</td></tr></table>
+
+                                            <div class=3D"h4" style=3D"colo=
+r:#737373; font-family:'Trebuchet MS', Arial, sans-serif; font-size:16px; l=
+ine-height:20px; text-align:center; font-weight:bold">
+                                              2. Angebotssuche
+                                            </div>
+                                            <table width=3D"100%" border=3D=
+"0" cellspacing=3D"0" cellpadding=3D"0" class=3D"spacer" style=3D"font-size=
+:0pt; line-height:0pt; text-align:center; width:100%; min-width:100%"><tr><=
+td height=3D"8" class=3D"spacer" style=3D"font-size:0pt; line-height:0pt; t=
+ext-align:center; width:100%; min-width:100%">&nbsp;</td></tr></table>
+
+                                            <div class=3D"text-s" style=3D"=
+color:#737373; font-family:'Trebuchet MS', Arial, sans-serif; font-size:13p=
+x; line-height:17px; text-align:center">
+                                              Wir suchen f=C3=BCr Sie die b=
+esten und g=C3=BCnstigsten Angebote.
+                                            </div>
+                                          </td>
+                                        </tr>
+                                      </table>
+                                    </td>
+                                  </tr>
+                                </table>
+                              </th>
+                              <th class=3D"column-t" style=3D"font-size:0pt=
+; line-height:0pt; padding:0; margin:0; font-weight:normal; Margin:0; verti=
+cal-align:top" width=3D"200">
+                                <table width=3D"100%" cellpadding=3D"0" cel=
+lspacing=3D"0" border=3D"0">
+                                  <tr>
+                                    <td align=3D"center">
+                                      <div style=3D"font-size:0pt; line-hei=
+ght:0pt;" class=3D"mobile-br-30"></div>
+
+                                      <table width=3D"190" cellpadding=3D"0=
+" cellspacing=3D"0" border=3D"0">
+                                        <tr>
+                                          <td align=3D"center">
+                                            <div class=3D"img-center" style=
+=3D"font-size:0pt; line-height:0pt; text-align:center">
+                                              <img src=3D"http://studio.eni=
+mail.de/ga/campaign_images/22148/icon_3_2x.png" width=3D"82" height=3D"81" =
+alt=3D"" border=3D"0" />
+                                            </div>
+                                            <table width=3D"100%" border=3D=
+"0" cellspacing=3D"0" cellpadding=3D"0" class=3D"spacer" style=3D"font-size=
+:0pt; line-height:0pt; text-align:center; width:100%; min-width:100%"><tr><=
+td height=3D"6" class=3D"spacer" style=3D"font-size:0pt; line-height:0pt; t=
+ext-align:center; width:100%; min-width:100%">&nbsp;</td></tr></table>
+
+                                            <div class=3D"h4" style=3D"colo=
+r:#737373; font-family:'Trebuchet MS', Arial, sans-serif; font-size:16px; l=
+ine-height:20px; text-align:center; font-weight:bold">
+                                              3. Angebote erhalten
+                                            </div>
+                                            <table width=3D"100%" border=3D=
+"0" cellspacing=3D"0" cellpadding=3D"0" class=3D"spacer" style=3D"font-size=
+:0pt; line-height:0pt; text-align:center; width:100%; min-width:100%"><tr><=
+td height=3D"8" class=3D"spacer" style=3D"font-size:0pt; line-height:0pt; t=
+ext-align:center; width:100%; min-width:100%">&nbsp;</td></tr></table>
+
+                                            <div class=3D"text-s" style=3D"=
+color:#737373; font-family:'Trebuchet MS', Arial, sans-serif; font-size:13p=
+x; line-height:17px; text-align:center">
+                                              Sie erhalten von uns Angebote=
+ und k=C3=B6nnen beginnen zu vergleichen.
+                                            </div>
+                                          </td>
+                                        </tr>
+                                      </table>
+                                    </td>
+                                  </tr>
+                                </table>
+                              </th>
+                            </tr>
+                          </table>
+                          <!-- End Three Columns -->
+
+                          <table width=3D"100%" border=3D"0" cellspacing=3D=
+"0" cellpadding=3D"0" class=3D"spacer" style=3D"font-size:0pt; line-height:=
+0pt; text-align:center; width:100%; min-width:100%"><tr><td height=3D"30" c=
+lass=3D"spacer" style=3D"font-size:0pt; line-height:0pt; text-align:center;=
+ width:100%; min-width:100%">&nbsp;</td></tr></table>
+
+
+                          <!-- Button -->
+                          <table width=3D"100%" cellpadding=3D"0" cellspaci=
+ng=3D"0" border=3D"0">
+                            <tr>
+                              <td align=3D"center">
+                                <table border=3D"0" cellspacing=3D"0" cellp=
+adding=3D"0" style=3D"border-radius:20px;" bgcolor=3D"#498cff" class=3D"cen=
+ter">
+                                  <tr>
+                                    <td class=3D"img" style=3D"font-size:0p=
+t; line-height:0pt; text-align:left" width=3D"30">&nbsp;</td>
+                                    <td valign=3D"middle" align=3D"center">
+                                      <table width=3D"100%" border=3D"0" ce=
+llspacing=3D"0" cellpadding=3D"0" class=3D"spacer" style=3D"font-size:0pt; =
+line-height:0pt; text-align:center; width:100%; min-width:100%"><tr><td hei=
+ght=3D"12" class=3D"spacer" style=3D"font-size:0pt; line-height:0pt; text-a=
+lign:center; width:100%; min-width:100%">&nbsp;</td></tr></table>
+
+                                      <div class=3D"button-1" style=3D"colo=
+r:#ffffff; font-family:'Trebuchet MS', Arial, sans-serif; font-size:13px; l=
+ine-height:17px; text-transform:uppercase; font-weight:bold">
+                                        <a href=3D"http://performance-media=
+channel.de/ga/click/2-200437775-400-22191-60982-1900643-1b4c2b387c-f0d3c88f=
+ef" target=3D"_blank" class=3D"link-btn-1" style=3D"color:#ffffff"><span cl=
+ass=3D"link-btn-1" style=3D"color:#ffffff">jetzt kostenlos anfordern</span>=
+</a>
+                                      </div>
+                                      <table width=3D"100%" border=3D"0" ce=
+llspacing=3D"0" cellpadding=3D"0" class=3D"spacer" style=3D"font-size:0pt; =
+line-height:0pt; text-align:center; width:100%; min-width:100%"><tr><td hei=
+ght=3D"12" class=3D"spacer" style=3D"font-size:0pt; line-height:0pt; text-a=
+lign:center; width:100%; min-width:100%">&nbsp;</td></tr></table>
+
+                                    </td>
+                                    <td class=3D"img" style=3D"font-size:0p=
+t; line-height:0pt; text-align:left" width=3D"30">&nbsp;</td>
+                                  </tr>
+                                </table>
+                              </td>
+                            </tr>
+                          </table>
+                          <!-- End Button -->
+
+                          <table width=3D"100%" border=3D"0" cellspacing=3D=
+"0" cellpadding=3D"0" class=3D"spacer" style=3D"font-size:0pt; line-height:=
+0pt; text-align:center; width:100%; min-width:100%"><tr><td height=3D"35" c=
+lass=3D"spacer" style=3D"font-size:0pt; line-height:0pt; text-align:center;=
+ width:100%; min-width:100%">&nbsp;</td></tr></table>
+
+                        </td>
+                        <td class=3D"img" style=3D"font-size:0pt; line-heig=
+ht:0pt; text-align:left" width=3D"20">&nbsp;</td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+              </table>
+              <!-- End Shell -->
+            </td>
+          </tr>
+        </table>
+        <!-- End Steps -->
+
+        <!-- Comments -->
+        <table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D=
+"0" bgcolor=3D"#fdfdfd" style=3D"border-top: solid 1px #e5e5e5;">
+          <tr>
+            <td align=3D"center">
+              <!-- Shell -->
+              <table width=3D"640" border=3D"0" cellspacing=3D"0" cellpaddi=
+ng=3D"0" class=3D"mobile-shell">
+                <tr>
+                  <td class=3D"td" style=3D"width:600px; min-width:600px; f=
+ont-size:0pt; line-height:0pt; padding:0; margin:0; font-weight:normal; Mar=
+gin:0">
+                    <table width=3D"100%" cellpadding=3D"0" cellspacing=3D"=
+0" border=3D"0">
+                      <tr>
+                        <td class=3D"img" style=3D"font-size:0pt; line-heig=
+ht:0pt; text-align:left" width=3D"20">&nbsp;</td>
+                        <td align=3D"center">
+                          <table width=3D"100%" border=3D"0" cellspacing=3D=
+"0" cellpadding=3D"0" class=3D"spacer" style=3D"font-size:0pt; line-height:=
+0pt; text-align:center; width:100%; min-width:100%"><tr><td height=3D"35" c=
+lass=3D"spacer" style=3D"font-size:0pt; line-height:0pt; text-align:center;=
+ width:100%; min-width:100%">&nbsp;</td></tr></table>
+
+                          <div class=3D"h3" style=3D"color:#737373; font-fa=
+mily:'Trebuchet MS', Arial, sans-serif; font-size:20px; line-height:24px; t=
+ext-align:center; font-weight:bold">
+                            Was unsere Kunden sagen
+                          </div>
+                          <table width=3D"100%" border=3D"0" cellspacing=3D=
+"0" cellpadding=3D"0" class=3D"spacer" style=3D"font-size:0pt; line-height:=
+0pt; text-align:center; width:100%; min-width:100%"><tr><td height=3D"20" c=
+lass=3D"spacer" style=3D"font-size:0pt; line-height:0pt; text-align:center;=
+ width:100%; min-width:100%">&nbsp;</td></tr></table>
+
+                          <table width=3D"100%" cellpadding=3D"0" cellspaci=
+ng=3D"0" border=3D"0">
+                            <tr>
+                              <td align=3D"center">
+                                <table cellpadding=3D"0" cellspacing=3D"0" =
+border=3D"0">
+                                  <tr>
+                                    <td class=3D"img-center" style=3D"font-=
+size:0pt; line-height:0pt; text-align:center">
+                                      <img src=3D"http://studio.enimail.de/=
+ga/campaign_images/22148/rating.png" width=3D"200" height=3D"50" alt=3D"" b=
+order=3D"0" />
+                                    </td>
+                                  </tr>
+                                </table>
+                              </td>
+                            </tr>
+                          </table>
+                          <table width=3D"100%" border=3D"0" cellspacing=3D=
+"0" cellpadding=3D"0" class=3D"spacer" style=3D"font-size:0pt; line-height:=
+0pt; text-align:center; width:100%; min-width:100%"><tr><td height=3D"30" c=
+lass=3D"spacer" style=3D"font-size:0pt; line-height:0pt; text-align:center;=
+ width:100%; min-width:100%">&nbsp;</td></tr></table>
+
+
+                          <!-- Box -->
+                          <table width=3D"100%" cellpadding=3D"0" cellspaci=
+ng=3D"0" border=3D"0" bgcolor=3D"#ffffff" style=3D"border: solid 1px #d5efe=
+e; border-radius: 5px;">
+                            <tr>
+                              <td class=3D"w10" style=3D"font-size:0pt; lin=
+e-height:0pt; text-align:left" width=3D"30">&nbsp;</td>
+                              <td align=3D"center">
+                                <table width=3D"100%" border=3D"0" cellspac=
+ing=3D"0" cellpadding=3D"0" class=3D"spacer" style=3D"font-size:0pt; line-h=
+eight:0pt; text-align:center; width:100%; min-width:100%"><tr><td height=3D=
+"30" class=3D"spacer" style=3D"font-size:0pt; line-height:0pt; text-align:c=
+enter; width:100%; min-width:100%">&nbsp;</td></tr></table>
+
+                                <div class=3D"text-box" style=3D"color:#737=
+373; font-family:'Trebuchet MS', Arial, sans-serif; font-size:16px; line-he=
+ight:20px; text-align:left">
+                                  =E2=80=9CMan erh=C3=A4lt hier wirklich to=
+lle Angebote. Die Preise sind sehr g=C3=BCnstig im Vergleich zu anderen Anb=
+ieter.=E2=80=9D
+                                </div>
+                                <table width=3D"100%" border=3D"0" cellspac=
+ing=3D"0" cellpadding=3D"0" class=3D"spacer" style=3D"font-size:0pt; line-h=
+eight:0pt; text-align:center; width:100%; min-width:100%"><tr><td height=3D=
+"15" class=3D"spacer" style=3D"font-size:0pt; line-height:0pt; text-align:c=
+enter; width:100%; min-width:100%">&nbsp;</td></tr></table>
+
+                                <div class=3D"text-name" style=3D"color:#28=
+dfe5; font-family:'Trebuchet MS', Arial, sans-serif; font-size:14px; line-h=
+eight:18px; text-align:left; font-weight:bold">
+                                  Merilela S.
+                                </div>
+                                <table width=3D"100%" border=3D"0" cellspac=
+ing=3D"0" cellpadding=3D"0" class=3D"spacer" style=3D"font-size:0pt; line-h=
+eight:0pt; text-align:center; width:100%; min-width:100%"><tr><td height=3D=
+"10" class=3D"spacer" style=3D"font-size:0pt; line-height:0pt; text-align:c=
+enter; width:100%; min-width:100%">&nbsp;</td></tr></table>
+
+                                <table width=3D"100%" cellpadding=3D"0" cel=
+lspacing=3D"0" border=3D"0">
+                                  <tr>
+                                    <td align=3D"left">
+                                      <table class=3D"center" cellpadding=
+=3D"0" cellspacing=3D"0" border=3D"0">
+                                        <tr>
+                                          <td class=3D"img-center" style=3D=
+"font-size:0pt; line-height:0pt; text-align:center">
+                                            <img src=3D"http://studio.enima=
+il.de/ga/campaign_images/22148/rating_2x.png" width=3D"63" height=3D"11" al=
+t=3D"" border=3D"0" />
+                                          </td>
+                                        </tr>
+                                      </table>
+                                    </td>
+                                  </tr>
+                                </table>
+                                <table width=3D"100%" border=3D"0" cellspac=
+ing=3D"0" cellpadding=3D"0" class=3D"spacer" style=3D"font-size:0pt; line-h=
+eight:0pt; text-align:center; width:100%; min-width:100%"><tr><td height=3D=
+"30" class=3D"spacer" style=3D"font-size:0pt; line-height:0pt; text-align:c=
+enter; width:100%; min-width:100%">&nbsp;</td></tr></table>
+
+                              </td>
+                              <td class=3D"w10" style=3D"font-size:0pt; lin=
+e-height:0pt; text-align:left" width=3D"30">&nbsp;</td>
+                            </tr>
+                          </table>
+                          <!-- End Box -->
+
+                          <table width=3D"100%" border=3D"0" cellspacing=3D=
+"0" cellpadding=3D"0" class=3D"spacer" style=3D"font-size:0pt; line-height:=
+0pt; text-align:center; width:100%; min-width:100%"><tr><td height=3D"20" c=
+lass=3D"spacer" style=3D"font-size:0pt; line-height:0pt; text-align:center;=
+ width:100%; min-width:100%">&nbsp;</td></tr></table>
+
+
+                          <!-- Box -->
+                          <table width=3D"100%" cellpadding=3D"0" cellspaci=
+ng=3D"0" border=3D"0" bgcolor=3D"#ffffff" style=3D"border: solid 1px #d5efe=
+e; border-radius: 5px;">
+                            <tr>
+                              <td class=3D"w10" style=3D"font-size:0pt; lin=
+e-height:0pt; text-align:left" width=3D"30">&nbsp;</td>
+                              <td align=3D"center">
+                                <table width=3D"100%" border=3D"0" cellspac=
+ing=3D"0" cellpadding=3D"0" class=3D"spacer" style=3D"font-size:0pt; line-h=
+eight:0pt; text-align:center; width:100%; min-width:100%"><tr><td height=3D=
+"30" class=3D"spacer" style=3D"font-size:0pt; line-height:0pt; text-align:c=
+enter; width:100%; min-width:100%">&nbsp;</td></tr></table>
+
+                                <div class=3D"text-box" style=3D"color:#737=
+373; font-family:'Trebuchet MS', Arial, sans-serif; font-size:16px; line-he=
+ight:20px; text-align:left">
+                                  =E2=80=9CAnfangs war ich etwas skeptisch,=
+ doch dann wurde ich positiv =C3=BCberrascht. Nun habe ich den g=C3=BCnstig=
+sten Tarif mit den besten Leistungen.=E2=80=9D
+                                </div>
+                                <table width=3D"100%" border=3D"0" cellspac=
+ing=3D"0" cellpadding=3D"0" class=3D"spacer" style=3D"font-size:0pt; line-h=
+eight:0pt; text-align:center; width:100%; min-width:100%"><tr><td height=3D=
+"15" class=3D"spacer" style=3D"font-size:0pt; line-height:0pt; text-align:c=
+enter; width:100%; min-width:100%">&nbsp;</td></tr></table>
+
+                                <div class=3D"text-name" style=3D"color:#28=
+dfe5; font-family:'Trebuchet MS', Arial, sans-serif; font-size:14px; line-h=
+eight:18px; text-align:left; font-weight:bold">
+                                  Markus G.
+                                </div>
+                                <table width=3D"100%" border=3D"0" cellspac=
+ing=3D"0" cellpadding=3D"0" class=3D"spacer" style=3D"font-size:0pt; line-h=
+eight:0pt; text-align:center; width:100%; min-width:100%"><tr><td height=3D=
+"10" class=3D"spacer" style=3D"font-size:0pt; line-height:0pt; text-align:c=
+enter; width:100%; min-width:100%">&nbsp;</td></tr></table>
+
+                                <table width=3D"100%" cellpadding=3D"0" cel=
+lspacing=3D"0" border=3D"0">
+                                  <tr>
+                                    <td align=3D"left">
+                                      <table class=3D"center" cellpadding=
+=3D"0" cellspacing=3D"0" border=3D"0">
+                                        <tr>
+                                          <td class=3D"img-center" style=3D=
+"font-size:0pt; line-height:0pt; text-align:center">
+                                            <img src=3D"http://studio.enima=
+il.de/ga/campaign_images/22148/rating_2x.png" width=3D"63" height=3D"11" al=
+t=3D"" border=3D"0" />
+                                          </td>
+                                        </tr>
+                                      </table>
+                                    </td>
+                                  </tr>
+                                </table>
+                                <table width=3D"100%" border=3D"0" cellspac=
+ing=3D"0" cellpadding=3D"0" class=3D"spacer" style=3D"font-size:0pt; line-h=
+eight:0pt; text-align:center; width:100%; min-width:100%"><tr><td height=3D=
+"30" class=3D"spacer" style=3D"font-size:0pt; line-height:0pt; text-align:c=
+enter; width:100%; min-width:100%">&nbsp;</td></tr></table>
+
+                              </td>
+                              <td class=3D"w10" style=3D"font-size:0pt; lin=
+e-height:0pt; text-align:left" width=3D"30">&nbsp;</td>
+                            </tr>
+                          </table>
+                          <!-- End Box -->
+
+                          <table width=3D"100%" border=3D"0" cellspacing=3D=
+"0" cellpadding=3D"0" class=3D"spacer" style=3D"font-size:0pt; line-height:=
+0pt; text-align:center; width:100%; min-width:100%"><tr><td height=3D"20" c=
+lass=3D"spacer" style=3D"font-size:0pt; line-height:0pt; text-align:center;=
+ width:100%; min-width:100%">&nbsp;</td></tr></table>
+
+
+                          <!-- Box -->
+                          <table width=3D"100%" cellpadding=3D"0" cellspaci=
+ng=3D"0" border=3D"0" bgcolor=3D"#ffffff" style=3D"border: solid 1px #d5efe=
+e; border-radius: 5px;">
+                            <tr>
+                              <td class=3D"w10" style=3D"font-size:0pt; lin=
+e-height:0pt; text-align:left" width=3D"30">&nbsp;</td>
+                              <td align=3D"center">
+                                <table width=3D"100%" border=3D"0" cellspac=
+ing=3D"0" cellpadding=3D"0" class=3D"spacer" style=3D"font-size:0pt; line-h=
+eight:0pt; text-align:center; width:100%; min-width:100%"><tr><td height=3D=
+"30" class=3D"spacer" style=3D"font-size:0pt; line-height:0pt; text-align:c=
+enter; width:100%; min-width:100%">&nbsp;</td></tr></table>
+
+                                <div class=3D"text-box" style=3D"color:#737=
+373; font-family:'Trebuchet MS', Arial, sans-serif; font-size:16px; line-he=
+ight:20px; text-align:left">
+                                  =E2=80=9CWenn ich wieder eine Zahnzusatzv=
+ersicherung ben=C3=B6tigen sollte, werde ich wieder hier Angebote anfordern=
+. Die Leute halten was sie versprechen.=E2=80=9D
+                                </div>
+                                <table width=3D"100%" border=3D"0" cellspac=
+ing=3D"0" cellpadding=3D"0" class=3D"spacer" style=3D"font-size:0pt; line-h=
+eight:0pt; text-align:center; width:100%; min-width:100%"><tr><td height=3D=
+"15" class=3D"spacer" style=3D"font-size:0pt; line-height:0pt; text-align:c=
+enter; width:100%; min-width:100%">&nbsp;</td></tr></table>
+
+                                <div class=3D"text-name" style=3D"color:#28=
+dfe5; font-family:'Trebuchet MS', Arial, sans-serif; font-size:14px; line-h=
+eight:18px; text-align:left; font-weight:bold">
+                                  Marco O.
+                                </div>
+                                <table width=3D"100%" border=3D"0" cellspac=
+ing=3D"0" cellpadding=3D"0" class=3D"spacer" style=3D"font-size:0pt; line-h=
+eight:0pt; text-align:center; width:100%; min-width:100%"><tr><td height=3D=
+"10" class=3D"spacer" style=3D"font-size:0pt; line-height:0pt; text-align:c=
+enter; width:100%; min-width:100%">&nbsp;</td></tr></table>
+
+                                <table width=3D"100%" cellpadding=3D"0" cel=
+lspacing=3D"0" border=3D"0">
+                                  <tr>
+                                    <td align=3D"left">
+                                      <table class=3D"center" cellpadding=
+=3D"0" cellspacing=3D"0" border=3D"0">
+                                        <tr>
+                                          <td class=3D"img-center" style=3D=
+"font-size:0pt; line-height:0pt; text-align:center">
+                                            <img src=3D"http://studio.enima=
+il.de/ga/campaign_images/22148/rating_2x.png" width=3D"63" height=3D"11" al=
+t=3D"" border=3D"0" />
+                                          </td>
+                                        </tr>
+                                      </table>
+                                    </td>
+                                  </tr>
+                                </table>
+                                <table width=3D"100%" border=3D"0" cellspac=
+ing=3D"0" cellpadding=3D"0" class=3D"spacer" style=3D"font-size:0pt; line-h=
+eight:0pt; text-align:center; width:100%; min-width:100%"><tr><td height=3D=
+"30" class=3D"spacer" style=3D"font-size:0pt; line-height:0pt; text-align:c=
+enter; width:100%; min-width:100%">&nbsp;</td></tr></table>
+
+                              </td>
+                              <td class=3D"w10" style=3D"font-size:0pt; lin=
+e-height:0pt; text-align:left" width=3D"30">&nbsp;</td>
+                            </tr>
+                          </table>
+                          <!-- End Box -->
+
+                          <table width=3D"100%" border=3D"0" cellspacing=3D=
+"0" cellpadding=3D"0" class=3D"spacer" style=3D"font-size:0pt; line-height:=
+0pt; text-align:center; width:100%; min-width:100%"><tr><td height=3D"30" c=
+lass=3D"spacer" style=3D"font-size:0pt; line-height:0pt; text-align:center;=
+ width:100%; min-width:100%">&nbsp;</td></tr></table>
+
+
+                          <!-- Button -->
+                          <table width=3D"100%" cellpadding=3D"0" cellspaci=
+ng=3D"0" border=3D"0">
+                            <tr>
+                              <td align=3D"center">
+                                <table border=3D"0" cellspacing=3D"0" cellp=
+adding=3D"0" style=3D"border-radius:20px;" bgcolor=3D"#28dfe5" class=3D"cen=
+ter">
+                                  <tr>
+                                    <td class=3D"img" style=3D"font-size:0p=
+t; line-height:0pt; text-align:left" width=3D"30">&nbsp;</td>
+                                    <td valign=3D"middle" align=3D"center">
+                                      <table width=3D"100%" border=3D"0" ce=
+llspacing=3D"0" cellpadding=3D"0" class=3D"spacer" style=3D"font-size:0pt; =
+line-height:0pt; text-align:center; width:100%; min-width:100%"><tr><td hei=
+ght=3D"12" class=3D"spacer" style=3D"font-size:0pt; line-height:0pt; text-a=
+lign:center; width:100%; min-width:100%">&nbsp;</td></tr></table>
+
+                                      <div class=3D"button-1" style=3D"colo=
+r:#ffffff; font-family:'Trebuchet MS', Arial, sans-serif; font-size:13px; l=
+ine-height:17px; text-transform:uppercase; font-weight:bold">
+                                        <a href=3D"http://performance-media=
+channel.de/ga/click/2-200437775-400-22191-60982-1900643-1b4c2b387c-f0d3c88f=
+ef" target=3D"_blank" class=3D"link-btn-1" style=3D"color:#ffffff"><span cl=
+ass=3D"link-btn-1" style=3D"color:#ffffff">jetzt kostenlos anfordern</span>=
+</a>
+                                      </div>
+                                      <table width=3D"100%" border=3D"0" ce=
+llspacing=3D"0" cellpadding=3D"0" class=3D"spacer" style=3D"font-size:0pt; =
+line-height:0pt; text-align:center; width:100%; min-width:100%"><tr><td hei=
+ght=3D"12" class=3D"spacer" style=3D"font-size:0pt; line-height:0pt; text-a=
+lign:center; width:100%; min-width:100%">&nbsp;</td></tr></table>
+
+                                    </td>
+                                    <td class=3D"img" style=3D"font-size:0p=
+t; line-height:0pt; text-align:left" width=3D"30">&nbsp;</td>
+                                  </tr>
+                                </table>
+                              </td>
+                            </tr>
+                          </table>
+                          <!-- End Button -->
+
+                          <table width=3D"100%" border=3D"0" cellspacing=3D=
+"0" cellpadding=3D"0" class=3D"spacer" style=3D"font-size:0pt; line-height:=
+0pt; text-align:center; width:100%; min-width:100%"><tr><td height=3D"40" c=
+lass=3D"spacer" style=3D"font-size:0pt; line-height:0pt; text-align:center;=
+ width:100%; min-width:100%">&nbsp;</td></tr></table>
+
+
+                        </td>
+                        <td class=3D"img" style=3D"font-size:0pt; line-heig=
+ht:0pt; text-align:left" width=3D"20">&nbsp;</td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+              </table>
+              <!-- End Shell -->
+            </td>
+          </tr>
+        </table>
+        <!-- End Comments -->
+
+        <!-- Footer -->
+        <table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D=
+"0" bgcolor=3D"#498cff">
+          <tr>
+            <td align=3D"center">
+              <table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadd=
+ing=3D"0" class=3D"spacer" style=3D"font-size:0pt; line-height:0pt; text-al=
+ign:center; width:100%; min-width:100%"><tr><td height=3D"30" class=3D"spac=
+er" style=3D"font-size:0pt; line-height:0pt; text-align:center; width:100%;=
+ min-width:100%">&nbsp;</td></tr></table>
+
+              <!-- Shell -->
+              <table width=3D"640" border=3D"0" cellspacing=3D"0" cellpaddi=
+ng=3D"0" class=3D"mobile-shell">
+                <tr>
+                  <td class=3D"td" style=3D"width:600px; min-width:600px; f=
+ont-size:0pt; line-height:0pt; padding:0; margin:0; font-weight:normal; Mar=
+gin:0">
+                    <table width=3D"100%" cellpadding=3D"0" cellspacing=3D"=
+0" border=3D"0">
+                      <tr>
+                        <td class=3D"img" style=3D"font-size:0pt; line-heig=
+ht:0pt; text-align:left" width=3D"20">&nbsp;</td>
+                        <td align=3D"center">
+                          <table width=3D"100%" cellpadding=3D"0" cellspaci=
+ng=3D"0" border=3D"0">
+                            <tr>
+                              <th class=3D"column-t" style=3D"font-size:0pt=
+; line-height:0pt; padding:0; margin:0; font-weight:normal; Margin:0; verti=
+cal-align:top" width=3D"500">
+                                <table width=3D"100%" cellpadding=3D"0" cel=
+lspacing=3D"0" border=3D"0">
+                                  <tr>
+                                    <td class=3D"w120" width=3D"245" valign=
+=3D"top">
+                                      <div class=3D"h4-white" style=3D"colo=
+r:#ffffff; font-family:'Trebuchet MS', Arial, sans-serif; font-size:16px; l=
+ine-height:20px; text-align:left; font-weight:bold">
+                                        =C3=9Cber uns
+                                      </div>
+                                      <table width=3D"100%" border=3D"0" ce=
+llspacing=3D"0" cellpadding=3D"0" class=3D"spacer" style=3D"font-size:0pt; =
+line-height:0pt; text-align:center; width:100%; min-width:100%"><tr><td hei=
+ght=3D"10" class=3D"spacer" style=3D"font-size:0pt; line-height:0pt; text-a=
+lign:center; width:100%; min-width:100%">&nbsp;</td></tr></table>
+
+                                      <div class=3D"hide-for-mobile">
+                                        <table width=3D"100%" border=3D"0" =
+cellspacing=3D"0" cellpadding=3D"0" class=3D"spacer" style=3D"font-size:0pt=
+; line-height:0pt; text-align:center; width:100%; min-width:100%"><tr><td h=
+eight=3D"15" class=3D"spacer" style=3D"font-size:0pt; line-height:0pt; text=
+-align:center; width:100%; min-width:100%">&nbsp;</td></tr></table>
+
+                                      </div>
+                                      <div class=3D"text-footer" style=3D"c=
+olor:#ffffff; font-family:'Trebuchet MS', Arial, sans-serif; font-size:14px=
+; line-height:18px; text-align:left">
+                                        - Idee
+                                      </div>
+                                      <table width=3D"100%" border=3D"0" ce=
+llspacing=3D"0" cellpadding=3D"0" class=3D"spacer" style=3D"font-size:0pt; =
+line-height:0pt; text-align:center; width:100%; min-width:100%"><tr><td hei=
+ght=3D"5" class=3D"spacer" style=3D"font-size:0pt; line-height:0pt; text-al=
+ign:center; width:100%; min-width:100%">&nbsp;</td></tr></table>
+
+                                      <div class=3D"text-footer" style=3D"c=
+olor:#ffffff; font-family:'Trebuchet MS', Arial, sans-serif; font-size:14px=
+; line-height:18px; text-align:left">
+                                        - Team
+                                      </div>
+                                      <table width=3D"100%" border=3D"0" ce=
+llspacing=3D"0" cellpadding=3D"0" class=3D"spacer" style=3D"font-size:0pt; =
+line-height:0pt; text-align:center; width:100%; min-width:100%"><tr><td hei=
+ght=3D"5" class=3D"spacer" style=3D"font-size:0pt; line-height:0pt; text-al=
+ign:center; width:100%; min-width:100%">&nbsp;</td></tr></table>
+
+                                      <div class=3D"text-footer" style=3D"c=
+olor:#ffffff; font-family:'Trebuchet MS', Arial, sans-serif; font-size:14px=
+; line-height:18px; text-align:left">
+                                        - etc.
+                                      </div>
+                                    </td>
+                                    <td valign=3D"top">
+                                      <div class=3D"h4-white" style=3D"colo=
+r:#ffffff; font-family:'Trebuchet MS', Arial, sans-serif; font-size:16px; l=
+ine-height:20px; text-align:left; font-weight:bold">
+                                        Service
+                                      </div>
+                                      <table width=3D"100%" border=3D"0" ce=
+llspacing=3D"0" cellpadding=3D"0" class=3D"spacer" style=3D"font-size:0pt; =
+line-height:0pt; text-align:center; width:100%; min-width:100%"><tr><td hei=
+ght=3D"10" class=3D"spacer" style=3D"font-size:0pt; line-height:0pt; text-a=
+lign:center; width:100%; min-width:100%">&nbsp;</td></tr></table>
+
+                                      <div class=3D"hide-for-mobile">
+                                        <table width=3D"100%" border=3D"0" =
+cellspacing=3D"0" cellpadding=3D"0" class=3D"spacer" style=3D"font-size:0pt=
+; line-height:0pt; text-align:center; width:100%; min-width:100%"><tr><td h=
+eight=3D"15" class=3D"spacer" style=3D"font-size:0pt; line-height:0pt; text=
+-align:center; width:100%; min-width:100%">&nbsp;</td></tr></table>
+
+                                      </div>
+                                      <div class=3D"text-footer" style=3D"c=
+olor:#ffffff; font-family:'Trebuchet MS', Arial, sans-serif; font-size:14px=
+; line-height:18px; text-align:left">
+                                        - Fragen & Antworten
+                                      </div>
+                                      <table width=3D"100%" border=3D"0" ce=
+llspacing=3D"0" cellpadding=3D"0" class=3D"spacer" style=3D"font-size:0pt; =
+line-height:0pt; text-align:center; width:100%; min-width:100%"><tr><td hei=
+ght=3D"5" class=3D"spacer" style=3D"font-size:0pt; line-height:0pt; text-al=
+ign:center; width:100%; min-width:100%">&nbsp;</td></tr></table>
+
+                                      <div class=3D"text-footer" style=3D"c=
+olor:#ffffff; font-family:'Trebuchet MS', Arial, sans-serif; font-size:14px=
+; line-height:18px; text-align:left">
+                                        - Anfahrt & Kontakt
+                                      </div>
+                                      <table width=3D"100%" border=3D"0" ce=
+llspacing=3D"0" cellpadding=3D"0" class=3D"spacer" style=3D"font-size:0pt; =
+line-height:0pt; text-align:center; width:100%; min-width:100%"><tr><td hei=
+ght=3D"5" class=3D"spacer" style=3D"font-size:0pt; line-height:0pt; text-al=
+ign:center; width:100%; min-width:100%">&nbsp;</td></tr></table>
+
+                                      <div class=3D"text-footer" style=3D"c=
+olor:#ffffff; font-family:'Trebuchet MS', Arial, sans-serif; font-size:14px=
+; line-height:18px; text-align:left">
+                                        - Impressum & Datenschutz
+                                      </div>
+                                    </td>
+                                  </tr>
+                                </table>
+                              </th>
+                              <th class=3D"column-t" style=3D"font-size:0pt=
+; line-height:0pt; padding:0; margin:0; font-weight:normal; Margin:0; verti=
+cal-align:top" width=3D"40">
+                                <table width=3D"100%" border=3D"0" cellspac=
+ing=3D"0" cellpadding=3D"0" class=3D"spacer" style=3D"font-size:0pt; line-h=
+eight:0pt; text-align:center; width:100%; min-width:100%"><tr><td height=3D=
+"30" class=3D"spacer" style=3D"font-size:0pt; line-height:0pt; text-align:c=
+enter; width:100%; min-width:100%">&nbsp;</td></tr></table>
+
+                              </th>
+                              <th class=3D"column-t" style=3D"font-size:0pt=
+; line-height:0pt; padding:0; margin:0; font-weight:normal; Margin:0; verti=
+cal-align:top" width=3D"60">
+                                <table width=3D"100%" cellpadding=3D"0" cel=
+lspacing=3D"0" border=3D"0">
+                                  <tr>
+                                    <td align=3D"center">
+                                      <table cellpadding=3D"0" cellspacing=
+=3D"0" border=3D"0">
+                                        <tr>
+                                          <td align=3D"center">
+                                            <div class=3D"h4-white-c" style=
+=3D"color:#ffffff; font-family:'Trebuchet MS', Arial, sans-serif; font-size=
+:16px; line-height:20px; text-align:left; font-weight:bold">
+                                              Kontakt
+                                            </div>
+                                            <table width=3D"100%" border=3D=
+"0" cellspacing=3D"0" cellpadding=3D"0" class=3D"spacer" style=3D"font-size=
+:0pt; line-height:0pt; text-align:center; width:100%; min-width:100%"><tr><=
+td height=3D"15" class=3D"spacer" style=3D"font-size:0pt; line-height:0pt; =
+text-align:center; width:100%; min-width:100%">&nbsp;</td></tr></table>
+
+                                            <div class=3D"hide-for-mobile">
+                                              <table width=3D"100%" border=
+=3D"0" cellspacing=3D"0" cellpadding=3D"0" class=3D"spacer" style=3D"font-s=
+ize:0pt; line-height:0pt; text-align:center; width:100%; min-width:100%"><t=
+r><td height=3D"10" class=3D"spacer" style=3D"font-size:0pt; line-height:0p=
+t; text-align:center; width:100%; min-width:100%">&nbsp;</td></tr></table>
+
+                                            </div>
+
+                                            <!-- Social -->
+                                            <table width=3D"100%" cellpaddi=
+ng=3D"0" cellspacing=3D"0" border=3D"0">
+                                              <tr>
+                                                <td align=3D"center">
+                                                  <table cellpadding=3D"0" =
+cellspacing=3D"0" border=3D"0" class=3D"w126">
+                                                    <tr>
+                                                      <td align=3D"center">
+                                                        <table cellpadding=
+=3D"0" cellspacing=3D"0" border=3D"0" class=3D"mobile-left">
+                                                          <tr>
+                                                            <td class=3D"im=
+g" style=3D"font-size:0pt; line-height:0pt; text-align:left" width=3D"34">
+                                                              <a href=3D"ht=
+tp://performance-mediachannel.de/ga/click/2-200437775-400-22191-60982-19006=
+44-8a675df463-f0d3c88fef" target=3D"_blank"><img src=3D"http://studio.enima=
+il.de/ga/campaign_images/22148/icon_t_2x.png" width=3D"24" height=3D"24" al=
+t=3D"" border=3D"0" /></a>
+                                                            </td>
+                                                            <td class=3D"im=
+g" style=3D"font-size:0pt; line-height:0pt; text-align:left" width=3D"24">
+                                                              <a href=3D"ht=
+tp://performance-mediachannel.de/ga/click/2-200437775-400-22191-60982-19006=
+44-8a675df463-f0d3c88fef" target=3D"_blank"><img src=3D"http://studio.enima=
+il.de/ga/campaign_images/22148/icon_f_2x.png" width=3D"24" height=3D"24" al=
+t=3D"" border=3D"0" /></a>
+                                                            </td>
+                                                          </tr>
+                                                        </table>
+                                                        <div class=3D"hide-=
+for-mobile">
+                                                          <table width=3D"1=
+00%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" class=3D"spacer" styl=
+e=3D"font-size:0pt; line-height:0pt; text-align:center; width:100%; min-wid=
+th:100%"><tr><td height=3D"12" class=3D"spacer" style=3D"font-size:0pt; lin=
+e-height:0pt; text-align:center; width:100%; min-width:100%">&nbsp;</td></t=
+r></table>
+
+                                                        </div>
+                                                        <table cellpadding=
+=3D"0" cellspacing=3D"0" border=3D"0" class=3D"mobile-right">
+                                                          <tr>
+                                                            <td class=3D"im=
+g" style=3D"font-size:0pt; line-height:0pt; text-align:left" width=3D"34">
+                                                              <a href=3D"ht=
+tp://performance-mediachannel.de/ga/click/2-200437775-400-22191-60982-19006=
+44-8a675df463-f0d3c88fef" target=3D"_blank"><img src=3D"http://studio.enima=
+il.de/ga/campaign_images/22148/icon_v_2x.png" width=3D"24" height=3D"24" al=
+t=3D"" border=3D"0" /></a>
+                                                            </td>
+                                                            <td class=3D"im=
+g" style=3D"font-size:0pt; line-height:0pt; text-align:left" width=3D"24">
+                                                              <a href=3D"ht=
+tp://performance-mediachannel.de/ga/click/2-200437775-400-22191-60982-19006=
+44-8a675df463-f0d3c88fef" target=3D"_blank"><img src=3D"http://studio.enima=
+il.de/ga/campaign_images/22148/icon_i_2x.png" width=3D"24" height=3D"24" al=
+t=3D"" border=3D"0" /></a>
+                                                            </td>
+                                                          </tr>
+                                                        </table>
+                                                      </td>
+                                                    </tr>
+                                                  </table>
+                                                </td>
+                                              </tr>
+                                            </table>
+                                            <!-- End Social -->
+                                          </td>
+                                        </tr>
+                                      </table>
+                                    </td>
+                                  </tr>
+                                </table>
+                              </th>
+                            </tr>
+                          </table>
+                        </td>
+                        <td class=3D"img" style=3D"font-size:0pt; line-heig=
+ht:0pt; text-align:left" width=3D"20">&nbsp;</td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+              </table>
+              <!-- End Shell -->
+              <table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadd=
+ing=3D"0" class=3D"spacer" style=3D"font-size:0pt; line-height:0pt; text-al=
+ign:center; width:100%; min-width:100%"><tr><td height=3D"35" class=3D"spac=
+er" style=3D"font-size:0pt; line-height:0pt; text-align:center; width:100%;=
+ min-width:100%">&nbsp;</td></tr></table>
+
+            </td>
+          </tr>
+        </table>
+        <!-- End Footer -->
+
+        <div class=3D"wgmail" style=3D"font-size:0pt; line-height:0pt; text=
+-align:center"><img src=3D"http://studio.enimail.de/ga/campaign_images/2214=
+8/gmail_fix.gif" width=3D"640" height=3D"1" style=3D"min-width:640px" alt=
+=3D"" border=3D"0" /></div>
+      </td>
+    </tr>
+  </table>
+<center>
+<p style=3D"width: 590px;max-width: 100%; font-size: 9px;">
+<span style=3D"color: #999999; font-family: Arial,Helvetica,sans-serif; fon=
+t-size: xx-small;"> Sie erhalten diese E-Mail, weil Sie unsere Dienste in A=
+nspruch nehmen oder an Gewinnspielen=20
+            der Premium Performance Mail AG oder unserer Kooperationspartne=
+r teilgenommen haben. Die Angebote sind kommerzielle Anzeigen der jeweilige=
+n Werbekunden,=20
+            die f=C3=BCr den jeweiligen Inhalt verantwortlich sind. Bei Fra=
+gen zu den Angeboten haben, wenden Sie sich bitte an den in der Anzeige gen=
+annten Anbieter.=20
+            Die Premium Performance Mail AG ist ausschlie=C3=9Flich Versend=
+er dieser Nachricht. Bitte antworten Sie nicht auf diese Mail. Um in Zukunf=
+t keine Informationen mehr von=20
+            dieser Adresse zu erhalten, dann klicken Sie bitte <a style=3D"=
+text-decoration: none;" href=3D"http://performance-mediachannel.de/ga/unsub=
+scribe/2-200437775-400-22191-60982-3dd7770685275ec-f0d3c88fef" target=3D"_b=
+lank"><span style=3D"font-family: Arial,Helvetica,sans-serif; font-size: xx=
+-small;"><strong>hier</strong></span></a>, um sich abzumelden. Haben Sie Ve=
+rst=C3=A4ndnis, dass die Abmeldung bis zu 48 Stunden dauern kann.=20
+        <br />Director Caroline Wange<br />
+        The Picasso Building, Caldervale Road, Wakefield, West Yorkshire, U=
+nited Kingdom.</span>=20
+
+</p>
+</center>
+
+<img src=3D"http://performance-mediachannel.de/ga/open/2-200437775-400-2219=
+1-60982-f0d3c88fef" height=3D"2" width=3D"3" alt=3D""></body>
+</html>
+
+--==2563c19db94f10f05f09efc2487eb0e2--

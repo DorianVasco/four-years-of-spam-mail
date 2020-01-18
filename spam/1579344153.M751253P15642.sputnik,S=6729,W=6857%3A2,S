@@ -1,0 +1,128 @@
+Return-Path: <sa74@scopes.co.in>
+Delivered-To: mail@stilfilm.com
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 5CD01C82A6
+	for <mail@stilfilm.com>; Thu,  2 Mar 2017 13:09:27 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 2.859
+X-Spam-Level: **
+X-Spam-Status: Yes, score=2.859 required=2 tests=[BAYES_50=0.8,
+	DKIM_SIGNED=0.1, DKIM_VALID=-0.1, HTML_MESSAGE=0.001,
+	PYZOR_CHECK=1.392, RCVD_IN_DNSWL_NONE=-0.0001, SPF_SOFTFAIL=0.665,
+	URIBL_BLOCKED=0.001] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.yourvserver.net [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id WjvPggUqj9-f for <mail@stilfilm.com>;
+	Thu,  2 Mar 2017 13:09:25 +0100 (CET)
+Received: from mail-wr0-f173.google.com (mail-wr0-f173.google.com [209.85.128.173])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id DC662C0CBA
+	for <mail@stilfilm.com>; Thu,  2 Mar 2017 13:09:25 +0100 (CET)
+Received: by mail-wr0-f173.google.com with SMTP id u108so50529465wrb.3
+        for <mail@stilfilm.com>; Thu, 02 Mar 2017 04:09:26 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=scopes-co-in.20150623.gappssmtp.com; s=20150623;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=I/U6snUZ8Xv7EqIBrBrckrAfk5E7cEcxhoYk/J5RV0A=;
+        b=CO6Np2nTBmDEAF+F5R68kZbcAkwXSsgV1UZpOkScSDGBEIdRNmGVKqlALcUurw6maS
+         q4lDjzUb4lc3fN2nhjqpxzFN57+hHugev6ojnXOx+QpBVnGTcOO3lYM3iHCLehIvPN9f
+         HRn+ebmoxhp00+DnWcg9951AnHohpWfjFw2KLUXExCL3g/jLOzJSt65AnXA5wXrN5+bh
+         wUzv1SDwobA5Y+Sfqwal7SRRNXsdvJM+a2dwN5+gQ9bE+DcGsCEVPsUztJTndPOsyFBe
+         bmtSqaNXVAYZYsDhHtEONKJnHe+Yak/Ynkm6IIhLiVEKuWB22AoysjZBeLC3T0cwZFyw
+         0NLQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=I/U6snUZ8Xv7EqIBrBrckrAfk5E7cEcxhoYk/J5RV0A=;
+        b=mmkg6zEcVMoCAbgO2Ri/4WCAG3VWjK+EDYQ4O4s64Shg7Ht/i2kgvBUxOfdqbO5XXv
+         i8yHH6zi55uzP+zfvIplGHBmzWYKEuo9B01oku2AkoOK/UPr4rVqjTSFPEKFm2HvbkVQ
+         vHZocEneABQXwndgwFMVc4UMASnR3j5/J9Hh2xJmp79tkjkaXGWSTM5aJbZu5zBYg4Is
+         1r2OO+tyudY6hlJmgO+JFtvQH6vaQVkbLUrS9w8LVuFxd2vdpsBZYmPwdzuUbCyLzO0G
+         GVJCew749VWhqLzMAmpdCEtbq4Vx7tz9fw4kvDjPwtLKzDwcyCA3AOjgpJgoi8ya2DLM
+         Yajg==
+X-Gm-Message-State: AMke39kGR9Y12GwAAvdourdg1rK+rOEYKMSVqo0WWJYH3uqD0/BzOu6YBm59OwjmJ4pWizISKxHVX++CtkVqow==
+X-Received: by 10.223.147.164 with SMTP id 33mr12195048wrp.108.1488456565859;
+ Thu, 02 Mar 2017 04:09:25 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.28.165.146 with HTTP; Thu, 2 Mar 2017 04:09:25 -0800 (PST)
+From: Suresh Raj <sa74@scopes.co.in>
+Date: Thu, 2 Mar 2017 17:39:25 +0530
+Message-ID: <CAJqwOXyJHWkyoNQ-O1abVk_UFd9_Lg85GQKVWiQNqgT=EduufA@mail.gmail.com>
+Subject: ***SPAM*** 
+To: fcsptc@outlook.com
+Content-Type: multipart/alternative; boundary=94eb2c0def84df32830549be4ce8
+
+--94eb2c0def84df32830549be4ce8
+Content-Type: text/plain; charset=UTF-8
+
+*RESPECTED SCHOLERS:*
+
+We glad to inform you that   *Ramachandra College of Engineering*  is
+organizing
+an International conference with proceedings of AIP.
+
+CONFERENCE WILL BE PUBLISHED BY *AIP:  PROCEEDINGS (SCOPUS INDEXED)*
+
+*Last date of paper submission has been extended to 13th march 2017*
+
+View at: http://ow.ly/EzKh309vm6E
+
+--94eb2c0def84df32830549be4ce8
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><p class=3D"MsoNormal"><b><span style=3D"font-size:9.5pt;l=
+ine-height:115%;font-family:arial,sans-serif">RESPECTED SCHOLERS:<span></sp=
+an></span></b></p>
+
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;times new roman&quo=
+t;,serif">We glad to inform you that</span><b><span style=3D"font-size:9.5p=
+t;line-height:115%;font-family:&quot;times new roman&quot;,serif">=C2=A0 =
+=C2=A0</span></b><b><u><span style=3D"font-size:12pt;line-height:115%;font-=
+family:&quot;times new roman&quot;,serif;color:rgb(0,112,192)">Ramachandra
+College of Engineering</span></u></b><b><span style=3D"font-size:9.5pt;line=
+-height:115%;font-family:&quot;times new roman&quot;,serif"> =C2=A0</span><=
+/b><span style=3D"font-size:9.5pt;line-height:115%;font-family:&quot;times =
+new roman&quot;,serif">is<b> </b></span><span style=3D"font-size:12pt;line-=
+height:115%;font-family:&quot;times new roman&quot;,serif">organizing an In=
+ternational conference with
+proceedings of AIP.<span></span></span></p>
+
+<p class=3D"MsoNormal"><span style=3D"font-size:12pt;line-height:115%;font-=
+family:&quot;times new roman&quot;,serif;color:rgb(152,72,6)">CONFERENCE</s=
+pan><span style=3D"font-size:12pt;line-height:115%;font-family:&quot;times =
+new roman&quot;,serif;color:rgb(152,72,6)"> WILL BE PUBLISHED BY <b>AIP:=C2=
+=A0
+PROCEEDINGS (SCOPUS INDEXED)<span></span></b></span></p>
+
+<p class=3D"MsoNormal"><b><span style=3D"font-family:&quot;book antiqua&quo=
+t;,serif;color:red">Last date of paper submission has been extended to 13<s=
+up>th</sup>
+march 2017<span></span></span></b></p>
+
+<p class=3D"MsoNormal" style=3D"margin-bottom:0.0001pt;line-height:normal">=
+<span style=3D"font-size:12pt;font-family:&quot;times new roman&quot;,serif=
+">View at</span><span style=3D"font-size:9.5pt;font-family:&quot;times new =
+roman&quot;,serif">: </span><span style=3D"font-family:&quot;segoe print&qu=
+ot;"><a href=3D"http://ow.ly/EzKh309vm6E"><span style=3D"color:blue">http:/=
+/ow.ly/EzKh309vm6E</span></a><span></span></span></p>
+
+<p class=3D"MsoNormal"><span style=3D"font-size:9.5pt;line-height:115%;font=
+-family:&quot;times new roman&quot;,serif">=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=
+=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=
+=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=
+=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=
+=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=
+=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0 <span></span></sp=
+an></p>
+
+<p class=3D"MsoNormal"><b>=C2=A0</b></p></div>
+
+--94eb2c0def84df32830549be4ce8--

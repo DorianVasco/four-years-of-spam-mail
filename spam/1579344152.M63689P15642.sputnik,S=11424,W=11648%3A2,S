@@ -1,0 +1,224 @@
+Return-Path: <vidya@ijetee.org>
+Delivered-To: mail@stilfilm.com
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 5FB28CCC62
+	for <mail@stilfilm.com>; Sat,  7 Jan 2017 09:45:23 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 2.194
+X-Spam-Level: **
+X-Spam-Status: Yes, score=2.194 required=2 tests=[BAYES_50=0.8,
+	DKIM_SIGNED=0.1, DKIM_VALID=-0.1, HTML_MESSAGE=0.001,
+	PYZOR_CHECK=1.392, RCVD_IN_DNSWL_BLOCKED=0.001, SPF_PASS=-0.001,
+	URIBL_BLOCKED=0.001] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.yourvserver.net [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id CkhMk1ezqE_h for <mail@stilfilm.com>;
+	Sat,  7 Jan 2017 09:45:21 +0100 (CET)
+Received: from mail-wj0-f176.google.com (mail-wj0-f176.google.com [209.85.210.176])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id AE0B8CCC61
+	for <mail@stilfilm.com>; Sat,  7 Jan 2017 09:45:21 +0100 (CET)
+Received: by mail-wj0-f176.google.com with SMTP id ew7so32837750wjc.3
+        for <mail@stilfilm.com>; Sat, 07 Jan 2017 00:45:21 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=ijetee-org.20150623.gappssmtp.com; s=20150623;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=mAOZWHO4GnEl3i1ysgRlDDrSIS7xp6oABQCG7oYN0e8=;
+        b=HMBhNdCMvccZQvd//6Vm5RZWSHcIn+VnfE11WmqMkdzph5UGuxihJMwzH9KfxEDBI6
+         MznjJDHvs7AUowAzGJxViJr/TTwwP35TeRvNIsjx+I76V7sOdyzzXXRgracSxJxJaS/p
+         0Iws3b/mqk9s2qVnBhR9zR1GzPdGsRiLPn9z2b6ujdZjmC/ONblp3QETOueBZxeDnaQD
+         WQhl4il9pzpJOYpxOR02MqwUzWUBx5LdMuhSJMdCz1C78qfojxIM1QJQN6tzsi8akgwZ
+         k6B8VSR3EpIKT70HHwYDsXl/DsUDOm6YnnFWib+bijHag03tmd0Izypq8YWbAib33SyF
+         noIg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=mAOZWHO4GnEl3i1ysgRlDDrSIS7xp6oABQCG7oYN0e8=;
+        b=Gwk6MvKMq3epUBhCC1Tk+WeqMiB3C3i8nZJWEbj2aUzU9LUqKjw+/LqUm9JbfkeZlY
+         DQbnCwK0rwWgveWgOvQzjyZHGuKJjzErGNXklayY0rGWn6i8ThXGAecm84eYPjm40aWR
+         +rQ/eoM7k0CkyNTYrL2RgJn7PDECSEVJRwijuaKUO+pz3UUhXqwBjfhBbUoYZT8BlcDe
+         O7rQBWsh79m7rWdTYVCteUKtzjq6xAGzpqf/RhThJ32Cl2EUWN0Lcptc1hK4mU/5g8Xf
+         Z7RoF44tZlBHWk2l4N4TfuppoeYA3CiKI3JnQCxePGM/Ft9UxtlZljyR480EhXOksF6M
+         xI1Q==
+X-Gm-Message-State: AIkVDXKlCrpdAvZgluNq9c6Sc2QswtmyoVCkA8NLS0NTcDjxdtwRlOMI4gpAilXHANtb1mx3SKZGXY7SGxWtZmI2GKE+h4GQOT6I7xlHImbc6sP1BKLKgSl8w9N141OZGqGLCchOQ92B0g==
+X-Received: by 10.194.66.37 with SMTP id c5mr61138689wjt.138.1483778720605;
+ Sat, 07 Jan 2017 00:45:20 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.194.146.169 with HTTP; Sat, 7 Jan 2017 00:45:19 -0800 (PST)
+From: Vidya K <vidya@ijetee.org>
+Date: Sat, 7 Jan 2017 14:15:19 +0530
+Message-ID: <CANVnmtxQs52zWsD5VNFbBUGMn3U6qAyfYmMJinVJp4+afGLocg@mail.gmail.com>
+Subject: ***SPAM*** 
+To: contact@cspied.org
+Content-Type: multipart/alternative; boundary=089e01494a7c91524205457d275b
+
+--089e01494a7c91524205457d275b
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Dear Authors/Researchers,
+
+Greetings from committee members of =E2=80=9CCurrent Research on Physical a=
+nd Solid
+State (CRPSS-2017)=E2=80=9D. You are cordially invited to submit your resea=
+rch
+paper to the conference CRPSS-2017. The conference is calling papers from
+the following specializations:
+
+=C3=98 Heterogeneous Catalysis
+
+=C3=98 Ultrafast Spectroscopy
+
+=C3=98 Computational Chemistry
+
+=C3=98 Preparation and Synthesis
+
+=C3=98 Nanomaterials, Nanocomposites and Catalysis
+
+=C3=98 Theoretical Approaches to Solid-State Chemistry
+
+The accepted papers will be submitted to =E2=80=9C*Elsevier: Comptes Rendus=
+ Chimie=E2=80=9D
+*for possible publication.
+
+The last date of paper submission: 8th Jan. 2017.
+
+For more details, please go to: http://ow.ly/s4lZ307LYn0
+
+(or) contact: contact@cspied.org
+
+--=20
+
+------------------------------
+*Disclaimer: *This email and any file(s) transmitted with it are=20
+confidential and intended solely for the use of the individual or entity to=
+=20
+whom they are addressed. This message contains confidential information and=
+=20
+is intended only for the individual named. If you are not the named=20
+addressee you should not disseminate, distribute or copy this e-mail.=20
+Please notify the sender immediately by e-mail if you have received this=20
+e-mail by mistake and delete this e-mail from your system. If you are not=
+=20
+the intended recipient you are notified that disclosing, copying,=20
+distributing or taking any action in reliance on the contents of this=20
+information is strictly prohibited.
+
+--089e01494a7c91524205457d275b
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><p class=3D"MsoNormal" style=3D"margin-left:0.5in;text-ali=
+gn:justify"><span style=3D"font-size:14pt;line-height:115%;font-family:&quo=
+t;times new roman&quot;,serif">Dear Authors/Researchers, <span></span></spa=
+n></p>
+
+<p class=3D"MsoNormal" style=3D"margin-left:0.5in;text-align:justify"><span=
+ style=3D"font-size:14pt;line-height:115%;font-family:&quot;times new roman=
+&quot;,serif">Greetings from committee members of =E2=80=9CCurrent
+Research on Physical and Solid State (CRPSS-2017)=E2=80=9D. You are cordial=
+ly invited
+to submit your research paper to the conference CRPSS-2017. The conference =
+is
+calling papers from the following specializations:<span></span></span></p>
+
+<p class=3D"gmail-MsoListParagraphCxSpFirst" style=3D"margin-left:1in;text-=
+align:justify"><span style=3D"font-size:14pt;line-height:115%;font-family:w=
+ingdings">=C3=98<span style=3D"font-variant-numeric:normal;font-stretch:nor=
+mal;font-size:7pt;line-height:normal;font-family:&quot;times new roman&quot=
+;">
+</span></span><span style=3D"font-size:14pt;line-height:115%;font-family:&q=
+uot;times new roman&quot;,serif">Heterogeneous Catalysis<span></span></span=
+></p>
+
+<p class=3D"gmail-MsoListParagraphCxSpMiddle" style=3D"margin-left:1in;text=
+-align:justify"><span style=3D"font-size:14pt;line-height:115%;font-family:=
+wingdings">=C3=98<span style=3D"font-variant-numeric:normal;font-stretch:no=
+rmal;font-size:7pt;line-height:normal;font-family:&quot;times new roman&quo=
+t;"> </span></span><span style=3D"font-size:14pt;line-height:115%;font-fami=
+ly:&quot;times new roman&quot;,serif">Ultrafast
+Spectroscopy<span></span></span></p>
+
+<p class=3D"gmail-MsoListParagraphCxSpMiddle" style=3D"margin-left:1in;text=
+-align:justify"><span style=3D"font-size:14pt;line-height:115%;font-family:=
+wingdings">=C3=98<span style=3D"font-variant-numeric:normal;font-stretch:no=
+rmal;font-size:7pt;line-height:normal;font-family:&quot;times new roman&quo=
+t;"> </span></span><span style=3D"font-size:14pt;line-height:115%;font-fami=
+ly:&quot;times new roman&quot;,serif">Computational
+Chemistry<span></span></span></p>
+
+<p class=3D"gmail-MsoListParagraphCxSpMiddle" style=3D"margin-left:1in;text=
+-align:justify"><span style=3D"font-size:14pt;line-height:115%;font-family:=
+wingdings">=C3=98<span style=3D"font-variant-numeric:normal;font-stretch:no=
+rmal;font-size:7pt;line-height:normal;font-family:&quot;times new roman&quo=
+t;"> </span></span><span style=3D"font-size:14pt;line-height:115%;font-fami=
+ly:&quot;times new roman&quot;,serif">Preparation
+and Synthesis<span></span></span></p>
+
+<p class=3D"gmail-MsoListParagraphCxSpMiddle" style=3D"margin-left:1in;text=
+-align:justify"><span style=3D"font-size:14pt;line-height:115%;font-family:=
+wingdings">=C3=98<span style=3D"font-variant-numeric:normal;font-stretch:no=
+rmal;font-size:7pt;line-height:normal;font-family:&quot;times new roman&quo=
+t;"> </span></span><span style=3D"font-size:14pt;line-height:115%;font-fami=
+ly:&quot;times new roman&quot;,serif">Nanomaterials,
+Nanocomposites and Catalysis<span></span></span></p>
+
+<p class=3D"gmail-MsoListParagraphCxSpLast" style=3D"margin-left:1in;text-a=
+lign:justify"><span style=3D"font-size:14pt;line-height:115%;font-family:wi=
+ngdings">=C3=98<span style=3D"font-variant-numeric:normal;font-stretch:norm=
+al;font-size:7pt;line-height:normal;font-family:&quot;times new roman&quot;=
+">
+</span></span><span style=3D"font-size:14pt;line-height:115%;font-family:&q=
+uot;times new roman&quot;,serif">Theoretical Approaches to Solid-State
+Chemistry<span></span></span></p>
+
+<p class=3D"MsoNormal" style=3D"margin-left:0.5in;text-align:justify"><span=
+ style=3D"font-size:14pt;line-height:115%;font-family:&quot;times new roman=
+&quot;,serif">The accepted papers will be submitted to <span style=3D"color=
+:red">=E2=80=9C</span><b><span style=3D"color:rgb(0,112,192)">Elsevier: Com=
+ptes Rendus Chimie</span><span style=3D"color:red">=E2=80=9D </span></b>for=
+ possible publication.<span></span></span></p>
+
+<p class=3D"MsoNormal" style=3D"margin-left:0.5in;text-align:justify"><span=
+ style=3D"font-size:14pt;line-height:115%;font-family:&quot;times new roman=
+&quot;,serif">The last date of paper submission: 8<sup>th</sup>
+Jan. 2017.<span></span></span></p>
+
+<p class=3D"MsoNormal" style=3D"margin-left:0.5in;text-align:justify"><span=
+ style=3D"font-size:14pt;line-height:115%;font-family:&quot;times new roman=
+&quot;,serif">For more details, please go to:</span><span style=3D"font-fam=
+ily:&quot;segoe print&quot;;color:red">
+</span><span style=3D"font-family:&quot;segoe print&quot;;color:rgb(112,48,=
+160)"><a href=3D"http://ow.ly/s4lZ307LYn0"><span style=3D"color:rgb(112,48,=
+160)">http://ow.ly/s4lZ307LYn0</span></a></span><span style=3D"font-size:14=
+pt;line-height:115%;font-family:&quot;times new roman&quot;,serif;color:rgb=
+(112,48,160)"><span></span></span></p>
+
+<p class=3D"MsoNormal" style=3D"margin-left:0.5in;text-align:justify"><span=
+ style=3D"font-size:14pt;line-height:115%;font-family:&quot;times new roman=
+&quot;,serif">(or) contact: </span><a href=3D"mailto:contact@cspied.org"><s=
+pan style=3D"font-size:14pt;line-height:115%;font-family:&quot;times new ro=
+man&quot;,serif">contact@cspied.org</span></a><span style=3D"font-size:14pt=
+;line-height:115%;font-family:&quot;times new roman&quot;,serif">
+=C2=A0<span></span></span></p></div>
+
+<br>
+<hr><b><span style=3D"font-size:12.0pt;line-height:115%;font-family:&quot;T=
+imes New Roman&quot;,&quot;serif&quot;;color:#222222;background:white" lang=
+=3D"EN-IN">Disclaimer: </span></b><span style=3D"font-size:12.0pt;line-heig=
+ht:115%;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:#22=
+2222;background:white" lang=3D"EN-IN">This email and any file(s) transmitte=
+d with it are confidential and
+intended solely for the use of the individual or entity to whom they are
+addressed. This message contains confidential information and is intended o=
+nly
+for the individual named. If you are not the named addressee you should not
+disseminate, distribute or copy this e-mail. Please notify the sender
+immediately by e-mail if you have received this e-mail by mistake and delet=
+e
+this e-mail from your system. If you are not the intended recipient you are
+notified that disclosing, copying, distributing or taking any action in
+reliance on the contents of this information is strictly prohibited.</span>
+--089e01494a7c91524205457d275b--

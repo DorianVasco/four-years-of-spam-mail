@@ -1,0 +1,240 @@
+Received: from localhost by v22014122474822114.stilfilm.com
+	with SpamAssassin (version 3.3.2);
+	Wed, 22 Nov 2017 21:05:53 +0100
+From: "Bitcoin Group LLC" <software@thebitcoinsnetwork.com>
+To: kontakt@dorianvasco.de
+Subject: *****SPAM***** ***SPAM*** Congratulations to all Bitcoin Members on Winning Big!
+Date: Sat, 16 Sep 2017 12:23:18 +0000
+Message-Id: <0feee4163d6ca2bbb91d2334fabe3fd5@server.thebitcoinsnetwork.com>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	v22014122474822114.stilfilm.com
+X-Spam-Flag: YES
+X-Spam-Level: *************
+X-Spam-Status: Yes, score=13.6 required=5.0 tests=DIGEST_MULTIPLE,DKIM_SIGNED,
+	HTML_IMAGE_ONLY_32,HTML_MESSAGE,LOTS_OF_MONEY,PYZOR_CHECK,
+	RAZOR2_CF_RANGE_51_100,RAZOR2_CHECK,RCVD_IN_BRBL_LASTEXT,RDNS_NONE,
+	T_DKIM_INVALID,URIBL_ABUSE_SURBL,URIBL_BLOCKED,URIBL_DBL_SPAM
+	autolearn=unavailable version=3.3.2
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----------=_5A15D8A1.E18F2DC2"
+
+This is a multi-part message in MIME format.
+
+------------=_5A15D8A1.E18F2DC2
+Content-Type: text/plain; charset=iso-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+
+Software zur Erkennung von "Spam" auf dem Rechner
+
+    v22014122474822114.stilfilm.com
+
+hat die eingegangene E-mail als mögliche "Spam"-Nachricht identifiziert.
+Die ursprüngliche Nachricht wurde an diesen Bericht angehängt, so dass
+Sie sie anschauen können (falls es doch eine legitime E-Mail ist) oder
+ähnliche unerwünschte Nachrichten in Zukunft markieren können.
+Bei Fragen zu diesem Vorgang wenden Sie sich bitte an
+
+    the administrator of that system
+
+Vorschau: CONGRATULATIONS TO BITCOIN & ITS MEMBERS Congratulations to
+   every member of Bitcoin who has managed to earn their first $10,000. Bitcoin
+   just launched two months back and made you, me, and all of us who partnered
+   with their network, richer, wealthier, and more satisfied with what we make.
+   We all know that we are making thousands using Bitcoins whereas the others
+   are still having a hard 09-05 job. [...] 
+
+Inhaltsanalyse im Detail:   (13.6 Punkte, 5.0 benötigt)
+
+Pkte Regelname              Beschreibung
+---- ---------------------- --------------------------------------------------
+ 1.6 RCVD_IN_BRBL_LASTEXT   RBL: RCVD_IN_BRBL_LASTEXT
+                            [80.86.87.148 listed in bb.barracudacentral.org]
+ 1.9 URIBL_ABUSE_SURBL      Enthält URL in ABUSE-Liste (www.surbl.org) -
+                            changed from JP to ABUSE bug 7279
+                            [URIs: thebitcoinsnetwork.com]
+ 2.5 URIBL_DBL_SPAM         Contains a spam URL listed in the DBL blocklist
+                            [URIs: thebitcoinsnetwork.com]
+ 0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+                            See
+                            http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                             for more information.
+                            [URIs: thebitcoinsnetwork.com]
+ 0.0 HTML_IMAGE_ONLY_32     BODY: HTML: images with 2800-3200 bytes of words
+ 0.0 HTML_MESSAGE           BODY: Nachricht enthält HTML
+ 2.4 RAZOR2_CF_RANGE_51_100 Razor2 Spam-Bewertung liegt zwischen 51 und
+                            100
+                            [cf: 100]
+ 0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+ 1.7 RAZOR2_CHECK           Gelistet im "Razor2"-System (http://razor.sf.net/)
+ 2.0 PYZOR_CHECK            Gelistet im Pyzor-System (http://pyzor.sf.net/)
+ 0.0 DIGEST_MULTIPLE        Mehrere Internettests (Razor, DCC, Pyzor, etc.)
+                            treffen zu
+ 0.0 LOTS_OF_MONEY          Huge... sums of money
+ 1.3 RDNS_NONE              Delivered to internal network by a host with no rDNS
+ 0.0 T_DKIM_INVALID         DKIM-Signature header exists but is not valid
+
+Die ursprüngliche Nachricht enthielt nicht ausschließlich Klartext
+(plain text) und kann eventuell eine Gefahr für einige E-Mail-Programme
+darstellen (falls sie z.B. einen Computervirus enthält).
+Möchten Sie die Nachricht dennoch ansehen, ist es wahrscheinlich
+sicherer, sie zuerst in einer Datei zu speichern und diese Datei danach
+mit einem Texteditor zu öffnen.
+
+
+------------=_5A15D8A1.E18F2DC2
+Content-Type: message/rfc822; x-spam-type=original
+Content-Description: original message before SpamAssassin
+Content-Disposition: attachment
+Content-Transfer-Encoding: 8bit
+
+Return-Path: <bounce@thebitcoinsnetwork.com>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 7D19CD280B
+	for <mail@dorianvasco.de>; Sat, 16 Sep 2017 17:08:14 +0200 (CEST)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 10.602
+X-Spam-Level: **********
+X-Spam-Status: Yes, score=10.602 required=5.5 tests=[BAYES_60=1.5,
+	DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	HTML_IMAGE_ONLY_32=0.001, HTML_MESSAGE=0.001, LOTS_OF_MONEY=0.001,
+	RAZOR2_CF_RANGE_51_100=0.5, RAZOR2_CF_RANGE_E8_51_100=1.886,
+	RAZOR2_CHECK=0.922, RCVD_IN_BL_SPAMCOP_NET=1.347, RDNS_NONE=0.793,
+	URIBL_ABUSE_SURBL=1.25, URIBL_BLOCKED=0.001, URIBL_DBL_SPAM=2.5]
+	autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id mMjTAcRArSwg for <mail@dorianvasco.de>;
+	Sat, 16 Sep 2017 17:08:13 +0200 (CEST)
+Received: from server17.thebitcoinsnetwork.com (unknown [80.86.87.148])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 14D69C2625
+	for <kontakt@dorianvasco.de>; Sat, 16 Sep 2017 17:08:12 +0200 (CEST)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=thebitcoinsnetwork.com;
+ h=To:Subject:Message-ID:Date:From:Reply-To:MIME-Version:List-Unsubscribe:Content-Type:Content-Transfer-Encoding; i=@server.thebitcoinsnetwork.com;
+ bh=kbCbXWzUkMKzSY9JY7SLli8TWHE=;
+ b=Soha+M3Q3XD+VBnG9HX1EZ1eNKxg/43L0+Uj8VgBT/odrEljyHEvbBkRqEspM2vP0uTrgrbveKEw
+   6oTG+yRERTjdEJvv86/UpqF5tcDI7zz7pbdx3ItpcszNkZOqcCcglF8lnAbSJVWfUBnTL1S/4IsF
+   DcXGNY66TSzqPiBBPxs=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=thebitcoinsnetwork.com;
+ b=Ii0W0USvj+FYsaIW5HWQsArxSnH+5slCvdbZ/OcQJJ8q3Pf+AI9Rt7Ck0eY1C2LLd5iADBkzzISI
+   UU0Ey2y8xpIHlavJeih2VdkqOBEdZ9hAkLWAkhFMuxe9/vKZsMetXkRIsb1v2v33sx2hll8ATKCo
+   3TbDONA43xiIYybdcZI=;
+To: kontakt@dorianvasco.de
+Subject: ***SPAM*** Congratulations to all Bitcoin Members on Winning Big!
+Message-ID: <0feee4163d6ca2bbb91d2334fabe3fd5@server.thebitcoinsnetwork.com>
+Date: Sat, 16 Sep 2017 12:23:18 +0000
+From: "Bitcoin Group LLC" <software@thebitcoinsnetwork.com>
+Reply-To: admin@thebitcoinsnetwork.com
+MIME-Version: 1.0
+X-Mailer-LID: 38,39,40,41,42
+List-Unsubscribe: <http://server.thebitcoinsnetwork.com/unsubscribe.php?M=3038185&C=079d8445a75c35ea6b382846816214f3&L=40&N=12>
+X-Mailer-RecptId: 3038185
+X-Mailer-SID: 12
+X-Mailer-Sent-By: 1
+Content-Type: multipart/alternative; charset="UTF-8"; boundary="b1_0e0d8245baba3a1f6dfcb622a9a35942"
+Content-Transfer-Encoding: 8bit
+
+--b1_0e0d8245baba3a1f6dfcb622a9a35942
+Content-Type: text/plain; format=flowed; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+CONGRATULATIONS TO BITCOIN & ITS MEMBERS
+
+Congratulations to every member of Bitcoin who has managed to earn their
+first $10,000. Bitcoin just launched two months back and made you, me, and
+all of us who partnered with their network, richer, wealthier, and more
+satisfied with what we make. We all know that we are making thousands using
+Bitcoins whereas the others are still having a hard 09-05 job.
+
+But what made us different? Our belief in succeeding together and our
+vision is what made us great.
+
+Today we are happy to congratulate each and everyone of you who made their
+first $10K.
+
+Apologies to all those who could not make it due to limited seats. But the
+Good News is that Bitcoin has opened 100 spots per geographical domain. If
+you are from Europe, U.K or AU, positions are limited and if spots expire,
+you are out of the game.
+
+This launch is similar to what Amazon, Ebay and Google did a few years
+back. People who invested at the start are now making thousands from the
+comfort of their homes.
+
+*******************************************
+VIEW OFFER :
+http://server.thebitcoinsnetwork.com/link.php?M=3038185&N=12&L=2&F=T
+*******************************************
+
+Team Bitcoin
+The Internet Of Money
+
+DISCLAIMER: Bitcoin Code is part of the Bitcoin Group LLC. You must be over
+18 years of age in order invest into Bitcoin. Underage applicants will not
+be accepted for our Bitcoin Programme.
+
+
+--b1_0e0d8245baba3a1f6dfcb622a9a35942
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+</head>
+<body>
+<h1><span style="font-family: verdana, geneva; color: #ff9900; font-size:
+large;">CONGRATULATIONS TO BITCOIN &amp; ITS MEMBERS&nbsp;</span></h1>
+<div><span style="font-family: 'trebuchet ms', geneva; font-size:
+small;">Congratulations to every member of Bitcoin who has managed to earn
+their first $10,000. Bitcoin just launched two months back and made you,
+me, and all of us who partnered with their network, richer, wealthier, and
+more satisfied with what we make. We all know that we are making thousands
+using Bitcoins whereas the others are still having a hard 09-05 job.<br
+/>&nbsp;<br />But what made us different? Our belief in succeeding together
+and our vision is what made us great.<br /><br />Today we are happy to
+congratulate each and everyone of you who made their first $10K.&nbsp;<br
+/><br />Apologies to all those who could not make it due to limited seats.
+<strong>But the Good News is that Bitcoin has opened 100 spots per
+geographical domain. If you are from Europe, U.K or AU, positions are
+limited and if spots expire, you are out of the game.</strong><br /><span
+style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size:
+10px;">&nbsp;</span></span></div>
+<div><span style="font-family: 'trebuchet ms', geneva; font-size:
+small;">This launch is similar to what Amazon, Ebay and Google did a few
+years back. People who invested at the start are now making thousands from
+the comfort of their homes.&nbsp;<br /><br /></span></div>
+<div></div>
+<span style="font-family: verdana, geneva;"><span style="font-family:
+arial, helvetica, sans-serif;"><a
+href="http://server.thebitcoinsnetwork.com/link.php?M=3038185&N=12&L=2&F=H"><font
+color="#ffffff" face="lucida sans unicode, lucida grande, sans-serif"><span
+style="background-color: #ff8b00; border-width: 1px; border-style: solid;
+border-image: initial; border-radius: 6px; display: inline-block;
+font-size: 16px; letter-spacing: 0px; line-height: 16px; padding: 12px
+18px; text-align: center; text-decoration-style: initial;
+text-decoration-color: initial;"><strong>LIMITED OFFER:</strong> <strong>I
+WANT TO CHECK MY SPOT</strong></span></font></a></span><br /> </span><br
+/><br /><span style="font-family: 'trebuchet ms', geneva; font-size:
+small;">Team Bitcoin</span><br /><br /><span style="font-family: 'trebuchet
+ms', geneva; font-size: x-small;">DISCLAIMER: Bitcoin Code is part of the
+Bitcoin Group LLC. You must be over 18 years of age in order invest into
+Bitcoin. Underage applicants will not be accepted for our Bitcoin
+Programme. </span><br /><br /><span style="font-family: 'trebuchet ms',
+geneva; font-size: small;">To Unsubscribe Please<strong> <a
+href="http://server.thebitcoinsnetwork.com/unsubscribe.php?M=3038185&C=079d8445a75c35ea6b382846816214f3&L=40&N=12">CLICK
+HERE</a></strong></span>
+<img
+src="http://server.thebitcoinsnetwork.com/open.php?M=3038185&L=40&N=12&F=H&image=.jpg"
+height="1" width="10"></body>
+</html>
+
+--b1_0e0d8245baba3a1f6dfcb622a9a35942--
+
+
+
+------------=_5A15D8A1.E18F2DC2--
+

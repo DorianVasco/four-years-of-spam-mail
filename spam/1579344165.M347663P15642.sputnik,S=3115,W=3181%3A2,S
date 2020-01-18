@@ -1,0 +1,66 @@
+Return-Path: <Mie.chunwong@asia.com>
+Delivered-To: mail@stilfilm.com
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id B6949D4D68
+	for <mail@stilfilm.com>; Fri,  3 Nov 2017 06:05:31 +0100 (CET)
+X-Quarantine-ID: <WDTMj60JhKtT>
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Amavis-Alert: BAD HEADER SECTION, Non-encoded 8-bit data (char E4 hex):
+	Subject: Gesch\303\244ftsvorschlag
+X-Spam-Flag: YES
+X-Spam-Score: 11.69
+X-Spam-Level: ***********
+X-Spam-Status: Yes, score=11.69 required=5.5
+	tests=[AXB_XMAILER_MIMEOLE_OL_024C2=0.001, BAYES_80=2,
+	FORGED_MUA_OUTLOOK=1.927, FREEMAIL_FROM=0.001, FREEMAIL_REPLYTO=1,
+	FROM_MISSPACED=0.001, FROM_MISSP_FREEMAIL=0.001,
+	FROM_MISSP_MSFT=0.001, FROM_MISSP_REPLYTO=0.001,
+	FROM_MISSP_SPF_FAIL=1, FROM_MISSP_USER=0.001, FROM_MISSP_XPRIO=0.001,
+	FSL_CTYPE_WIN1251=0.001, FSL_NEW_HELO_USER=0.001,
+	MISSING_HEADERS=1.021, MISSING_MID=0.497, NSL_RCVD_FROM_USER=0.001,
+	RCVD_IN_RP_RNBL=1.31, REPLYTO_WITHOUT_TO_CC=1.552, SPF_FAIL=0.001,
+	SPOOFED_FREEM_REPTO=1.368, TO_NO_BRKTS_FROM_MSSP=0.001,
+	TO_NO_BRKTS_MSFT=0.001, URIBL_BLOCKED=0.001] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id WDTMj60JhKtT for <mail@stilfilm.com>;
+	Fri,  3 Nov 2017 06:05:30 +0100 (CET)
+Received: from mail.calderflower.com.au (mail.calderflower.com.au [203.213.11.230])
+	(using TLSv1 with cipher ADH-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id 2C90AD4D64
+	for <mail@stilfilm.com>; Fri,  3 Nov 2017 06:05:30 +0100 (CET)
+Received: from localhost (localhost [127.0.0.1])
+	by mail.calderflower.com.au (Postfix) with ESMTP id A1CA444C4508;
+	Fri,  3 Nov 2017 14:58:20 +1100 (AEDT)
+X-Virus-Scanned: amavisd-new at cfaserver.local
+X-Amavis-Alert: BAD HEADER SECTION, Non-encoded non-ASCII data (and not UTF-8)
+	(char E4 hex): Subject: Gesch\x{E4}ftsvorschlag
+Received: from mail.calderflower.com.au ([127.0.0.1])
+	by localhost (cfaserver.local [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id Tii5J01tAhxh; Fri,  3 Nov 2017 14:58:20 +1100 (AEDT)
+Received: from User (unknown [13.74.68.148])
+	by mail.calderflower.com.au (Postfix) with ESMTPA id B544044C44F0;
+	Fri,  3 Nov 2017 14:58:05 +1100 (AEDT)
+Reply-To: <Miechunwong@qq.com>
+From: "Ms, Mie Chun Wong"<Mie.chunwong@asia.com>
+Subject: ***SPAM*** =?UTF-8?Q?Gesch=C3=A4ftsvorschlag?=
+Date: Fri, 3 Nov 2017 03:58:19 -0000
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <20171103050531.B6949D4D68@v22014122474822114.stilfilm.com>
+
+Geschäftsvorschlag für Sie, wenn Sie interessiert sind, kontaktieren Sie mich bitte über meine E-Mail unten.
+
+Mit freundlichen Grüßen,
+
+Frau Mei Chun Wonga
+DAH SING BANK AG
+Hongkong. {Asien}
+Email; Miechunwong@qq.com

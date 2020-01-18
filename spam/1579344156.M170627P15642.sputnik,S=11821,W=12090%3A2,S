@@ -1,0 +1,269 @@
+Return-Path: <qn10@cspid.org>
+Delivered-To: mail@stilfilm.com
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id D8E31C3946
+	for <mail@stilfilm.com>; Mon, 19 Jun 2017 12:42:01 +0200 (CEST)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 6.858
+X-Spam-Level: ******
+X-Spam-Status: Yes, score=6.858 required=5.5 tests=[BAYES_50=0.8,
+	DEAR_SOMETHING=1.973, DKIM_SIGNED=0.1, HTML_MESSAGE=0.001,
+	RAZOR2_CF_RANGE_51_100=0.5, RAZOR2_CF_RANGE_E8_51_100=1.886,
+	RAZOR2_CHECK=0.922, RCVD_IN_DNSWL_NONE=-0.0001, SPF_SOFTFAIL=0.665,
+	T_DKIM_INVALID=0.01, URIBL_BLOCKED=0.001] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id faVDtBSfWjJD for <mail@stilfilm.com>;
+	Mon, 19 Jun 2017 12:42:00 +0200 (CEST)
+Received: from mail-yw0-f169.google.com (mail-yw0-f169.google.com [209.85.161.169])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id 3812EC3937
+	for <mail@stilfilm.com>; Mon, 19 Jun 2017 12:41:59 +0200 (CEST)
+Received: by mail-yw0-f169.google.com with SMTP id 63so38801935ywr.0
+        for <mail@stilfilm.com>; Mon, 19 Jun 2017 03:42:00 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=cspid.org; s=google;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=uCzj2XIXJ0QeywoCv8/dfTQxbb21obqCO7Ygv1HWLVs=;
+        b=fxT5rpDOC5NWy8ooP8CYDCI/kF9D6JpC4/3CRA6fNjZAR+ckO9EXi4TqMmCvOhmRPo
+         ZcSKgEmsBHJaQ4w8aCN/x2sDvnHjrZ21EmT1c5G0MhjcfPTw45UdNoCvrktVUJXuE6hg
+         RLxUCvrMjv6WFs1Q6psGHfyGDfQiKSUApCwzg=
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=uCzj2XIXJ0QeywoCv8/dfTQxbb21obqCO7Ygv1HWLVs=;
+        b=FklnZ53ilerhIC3ZtRyjc2fI409vw2zzrV10BQG1WITQFzb+sjAtUDDtBOJj5tiz40
+         a4Z9rmjdcnoziZuFWtpJ4a3l4APUa9WsHhLxHReA9jkMccgedbFEvDnQmBLB3BjkK9aU
+         RkQ6GyLauE4EMgGA5n2nw+KOHvqWffK8LzjDLBlyoSrY+NNjq0TtLEutDZtmGRdHBa7J
+         uK69UKQQJf4MEa53ZafHmHRUsI1RC5HJdeNZU+qoJo6mKlGDlTiIAiFB0Riu5VJTC6I3
+         tUBRm6bwdgDVezhxvGF+hSm7yBEctkNJW0x0mv3vjj1PjlFPlxdIrgIp49Hv2sIRIrED
+         uULw==
+X-Gm-Message-State: AKS2vOwT/Ho81ud+nimvOmjxc7VIqFNX0tU5L2u/1mYGVboFA4iJcyjP
+	kzluItBGQJZDQwSQZ4bRsstGx0zzM8FEZ9E3XjnPE68ZzBH/sdqDMDiFlkeQTicNjFTxBJ2UTC9
+	1KKB4Rl4rSA==
+X-Received: by 10.129.147.3 with SMTP id k3mr12571979ywg.45.1497868919003;
+ Mon, 19 Jun 2017 03:41:59 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 10.37.115.195 with HTTP; Mon, 19 Jun 2017 03:41:58 -0700 (PDT)
+From: S Janaki <qn10@cspid.org>
+Date: Mon, 19 Jun 2017 16:11:58 +0530
+Message-ID: <CACUr7HxjqbRfM+cBd-XWhXBu=P3W4MKsNo6yLvX0QaHUzh2UFw@mail.gmail.com>
+Subject: ***SPAM*** 
+To: mk1@ctceec.org
+Content-Type: multipart/alternative; boundary="94eb2c0801a4d6803005524dc8f1"
+
+--94eb2c0801a4d6803005524dc8f1
+Content-Type: text/plain; charset="UTF-8"
+
+*Dear Sir/Madam,*
+
+
+
+Conference name: International Conference on Current Trends in Computer,
+Electrical, Electronics and Communication(ICCTCEEC)
+
+Vidyavardhaka College of Engineering, Mysore, Karnataka, India.
+
+
+
+<<<<<Please circulate among your friends, peers and researchers>>>>>
+
+
+
+*Key Dates:*
+
+Conference Date
+
+8th  to 9th  Sep 2017
+
+Submission Deadline
+
+20th  June  2017
+
+
+
+CALL FOR PAPERS [CFP]
+
+
+
+High quality papers are welcomes from authors under following disciplines:
+Computer, Electrical, Electronics and Communication. Prospective authors
+are invited to submit unpublished and high quality research papers.
+
+
+
+**All accepted papers will be submitted for inclusion in *IEEE Xplore
+Digital Library.*
+
+------------------------------------------------------------------------------------------------
+
+<<<<<Apologies for cross-postings>>>>>
+
+
+
+Information at: http://shorl.com/gograstogiromo
+
+-- 
+
+
+*Desclaimer: *This email and any file(s) transmitted which are attached 
+confidential and intended solely for the use of the individual or entity to 
+whom they are addressed. 
+
+This message contains confidential information and is intended only for the 
+individual named. Please notify the sender immediately by e-mail if you 
+have received this e-mail by mistake and delete this e-mail from your 
+system. If you are not the intended recipient you are notified that 
+copying, distributing or taking any action in reliance on the contents of 
+this information is strictly prohibited.
+
+--94eb2c0801a4d6803005524dc8f1
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><p class=3D"MsoNormal" style=3D"line-height:normal"><b><sp=
+an style=3D"font-size:12pt;font-family:Candara,sans-serif;color:red">Dear
+Sir/Madam,</span></b><span style=3D"font-size:12pt;font-family:Candara,sans=
+-serif"><span></span></span></p>
+
+<p class=3D"MsoNormal" style=3D"line-height:normal"><b><span style=3D"font-=
+size:12pt;font-family:Candara,sans-serif;color:red">=C2=A0</span></b><span =
+style=3D"font-size:12pt;font-family:Candara,sans-serif"><span></span></span=
+></p>
+
+<p class=3D"MsoNormal" style=3D"line-height:normal"><span style=3D"font-siz=
+e:12pt;font-family:Candara,sans-serif">Conference
+name: International Conference on Current Trends in Computer, Electrical,
+Electronics and Communication(ICCTCEEC)<span></span></span></p>
+
+<p class=3D"MsoNormal" style=3D"line-height:normal"><span style=3D"font-siz=
+e:12pt;font-family:Candara,sans-serif">Vidyavardhaka
+College of Engineering, Mysore, Karnataka, India.<span></span></span></p>
+
+<p class=3D"MsoNormal" style=3D"line-height:normal"><span style=3D"font-siz=
+e:12pt;font-family:Candara,sans-serif"><span>=C2=A0</span></span></p>
+
+<p class=3D"MsoNormal" style=3D"line-height:normal"><span style=3D"font-siz=
+e:12pt;font-family:Candara,sans-serif">&lt;&lt;&lt;&lt;&lt;Please
+circulate among your friends, peers and researchers&gt;&gt;&gt;&gt;&gt;<spa=
+n></span></span></p>
+
+<p class=3D"MsoNormal" style=3D"line-height:normal"><span style=3D"font-siz=
+e:12pt;font-family:Candara,sans-serif"><span>=C2=A0</span></span></p>
+
+<p class=3D"MsoNormal" style=3D"line-height:normal"><b><span style=3D"font-=
+size:12pt;font-family:Candara,sans-serif;color:rgb(192,0,0)">Key
+Dates:</span></b><span style=3D"font-size:12pt;font-family:Candara,sans-ser=
+if"><span></span></span></p>
+
+<div align=3D"center">
+
+<table class=3D"gmail-MsoNormalTable" border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"0" style=3D"border-collapse:collapse">
+ <tbody><tr>
+  <td width=3D"258" valign=3D"top" style=3D"width:193.5pt;border:1pt solid =
+black;padding:0in 5.4pt">
+  <p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center;line-h=
+eight:normal"><span style=3D"font-size:12pt;font-family:Candara,sans-serif"=
+>Conference Date<span></span></span></p>
+  </td>
+  <td width=3D"198" valign=3D"top" style=3D"width:148.5pt;border-top:1pt so=
+lid black;border-right:1pt solid black;border-bottom:1pt solid black;border=
+-left:none;padding:0in 5.4pt">
+  <p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center;line-h=
+eight:normal"><span style=3D"font-size:12pt;font-family:Candara,sans-serif"=
+>8<sup>th</sup>=C2=A0 to 9<sup>th</sup>=C2=A0 Sep 2017<span></span></span><=
+/p>
+  </td>
+ </tr>
+ <tr>
+  <td width=3D"258" valign=3D"top" style=3D"width:193.5pt;border-right:1pt =
+solid black;border-bottom:1pt solid black;border-left:1pt solid black;borde=
+r-top:none;padding:0in 5.4pt">
+  <p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center;line-h=
+eight:normal"><span style=3D"font-size:12pt;font-family:Candara,sans-serif"=
+>Submission Deadline<span></span></span></p>
+  </td>
+  <td width=3D"198" valign=3D"top" style=3D"width:148.5pt;border-top:none;b=
+order-left:none;border-bottom:1pt solid black;border-right:1pt solid black;=
+padding:0in 5.4pt">
+  <p class=3D"MsoNormal" align=3D"center" style=3D"text-align:center;line-h=
+eight:normal"><span style=3D"font-size:12pt;font-family:Candara,sans-serif"=
+>20<sup>th</sup>=C2=A0 June=C2=A0 2017<span></span></span></p>
+  </td>
+ </tr>
+</tbody></table>
+
+</div>
+
+<p class=3D"MsoNormal" style=3D"line-height:normal"><span style=3D"font-siz=
+e:12pt;font-family:Candara,sans-serif">=C2=A0<span></span></span></p>
+
+<p class=3D"MsoNormal" style=3D"line-height:normal"><span style=3D"font-siz=
+e:12pt;font-family:Candara,sans-serif">CALL
+FOR PAPERS [CFP]<span></span></span></p>
+
+<p class=3D"MsoNormal" style=3D"line-height:normal"><span style=3D"font-siz=
+e:12pt;font-family:Candara,sans-serif"><span>=C2=A0</span></span></p>
+
+<p class=3D"MsoNormal" style=3D"line-height:normal"><span style=3D"font-siz=
+e:12pt;font-family:Candara,sans-serif">High
+quality papers are welcomes from authors under following disciplines: Compu=
+ter,
+Electrical, Electronics and Communication. Prospective authors are invited =
+to
+submit unpublished and high quality research papers.<span></span></span></p=
+>
+
+<p class=3D"MsoNormal" style=3D"line-height:normal"><span style=3D"font-siz=
+e:12pt;font-family:Candara,sans-serif"><span>=C2=A0</span></span></p>
+
+<p class=3D"MsoNormal" style=3D"line-height:normal"><span style=3D"font-siz=
+e:12pt;font-family:Candara,sans-serif">**All
+accepted papers will be submitted for inclusion in<span class=3D"gmail-appl=
+e-converted-space">=C2=A0</span></span><b><span style=3D"font-size:12pt;fon=
+t-family:Candara,sans-serif;color:rgb(112,48,160)">IEEE
+Xplore Digital Library.</span></b><span style=3D"font-size:12pt;font-family=
+:Candara,sans-serif"><span></span></span></p>
+
+<p class=3D"MsoNormal" style=3D"line-height:normal"><span style=3D"font-siz=
+e:12pt;font-family:Candara,sans-serif">------------------------------------=
+------------------------------------------------------------<span></span></=
+span></p>
+
+<p class=3D"MsoNormal" style=3D"line-height:normal"><span style=3D"font-siz=
+e:12pt;font-family:Candara,sans-serif">&lt;&lt;&lt;&lt;&lt;Apologies
+for cross-postings&gt;&gt;&gt;&gt;&gt;<span></span></span></p>
+
+<p class=3D"MsoNormal" style=3D"line-height:normal"><span style=3D"font-siz=
+e:12pt;font-family:Candara,sans-serif"><span>=C2=A0</span></span></p>
+
+<p class=3D"MsoNormal" style=3D"line-height:normal"><span style=3D"font-siz=
+e:12pt;font-family:Candara,sans-serif">Information
+at:=C2=A0<a href=3D"http://shorl.com/gograstogiromo">http://shorl.com/gogra=
+stogiromo</a>
+=C2=A0<span></span></span></p></div>
+
+<br>
+<p style=3D"font-family:Arial,Helvetica,sans-serif"><b><span style=3D"line-=
+height:115%;font-family:Arial,sans-serif;color:rgb(34,34,34);background:whi=
+te"><i><font size=3D"3">Desclaimer:</font></i><font size=3D"4">=C2=A0</font=
+></span></b><font size=3D"2"><span style=3D"line-height:115%;color:rgb(34,3=
+4,34);background:white">T</span><font color=3D"#808080"><span style=3D"line=
+-height:115%;background:white">his email and any file(s) transmitted which =
+are attached confidential and intended solely for the
+use of the individual or entity to whom they are addressed.=C2=A0</span></f=
+ont></font></p><p style=3D"font-family:Arial,Helvetica,sans-serif"><font si=
+ze=3D"2"><font color=3D"#808080"><span style=3D"line-height:115%;background=
+:white">This message contains
+confidential information and is intended only for the individual named.=C2=
+=A0</span>Please notify the sender immediately by e-mail if you have
+received this e-mail by mistake and delete this e-mail from your system.=C2=
+=A0</font><span style=3D"color:rgb(128,128,128)">If you are not the intende=
+d
+recipient you are notified that copying, distributing or taking any
+action in reliance on the contents of this information is strictly prohibit=
+ed.</span></font></p>
+--94eb2c0801a4d6803005524dc8f1--

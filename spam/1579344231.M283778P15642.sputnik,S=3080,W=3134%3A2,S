@@ -1,0 +1,54 @@
+Return-Path: <personal@arbeitsagentur.de>
+Delivered-To: mail@stilfilm.com
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 5C3DEC167F
+	for <mail@stilfilm.com>; Mon, 19 Feb 2018 18:52:01 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 8.331
+X-Spam-Level: ********
+X-Spam-Status: Yes, score=8.331 required=5.5
+	tests=[FREEMAIL_FORGED_REPLYTO=2.503, FREEMAIL_REPLYTO_END_DIGIT=0.25,
+	HTML_MESSAGE=0.001, HTML_MIME_NO_HTML_TAG=0.635, MIME_HTML_ONLY=1.105,
+	RCVD_IN_BRBL_LASTEXT=1.644, RDNS_NONE=1.274, SPF_FAIL=0.919]
+	autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 5B952xFuNFYW for <mail@stilfilm.com>;
+	Mon, 19 Feb 2018 18:52:00 +0100 (CET)
+Received: from MainHostDOubuntu-512mb-fra1-01.example.com (unknown [46.101.197.98])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 31ABAC167B
+	for <mail@stilfilm.com>; Mon, 19 Feb 2018 18:51:59 +0100 (CET)
+Received: by MainHostDOubuntu-512mb-fra1-01 (Postfix, from userid 1000)
+	id E1DBA134147; Mon, 19 Feb 2018 12:53:34 -0500 (EST)
+Date: Mon, 19 Feb 2018 17:53:34 +0000
+To: Dorian-vasco Nagel <mail@stilfilm.com>
+From: Schumacher Agentur <personal@arbeitsagentur.de>
+Reply-To: edd.brook2@aol.com
+Subject: Der Arbeitsvermittler bietet Stellen zum Februar an
+Message-ID: <23010b94ddd53770af61a03e60b40a8a@yuzuktabagi.com>
+X-Priority: 3
+X-Mailer: class SMTPMail
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: base64
+
+PHA+U2VociBnZWVocnRlKHIpIERvcmlhbi12YXNjbyBOYWdlbCw8YnI+PGJyPmluIGRpZXNlciBt
+YWlsIGJpZXRlbiB3aXIgSWhuZW4gZWluIGhvaGVzIEdlaGFsdCB1bmQgdmllbGUgYW5kZXJlIFZv
+cnRlaWxlLiBEZXIgU2Nod2VycHVua3QgIElocmVyIFTDpHRpZ2tlaXQgaXN0IGRlciBIYW5kZWwg
+bWl0IENvaW5zLiBKZWRlciBrYW5uIGJlaSB1bnMgb2huZSBWb3JrZW5udG5pc3NlIHNvZm9ydCBi
+ZWdpbm5lbiBHZWxkIHp1IHZlcmRpZW5lbi48YnI+PGJyPlVuc2VyIFVudGVybmVobWVuIGJpZXRl
+dCBJaG5lbiBlaW5lbiBsdWtyYXRpdmVuIE5lYmVudmVyZGllbnN0IGJpcyB6dSA0MzAwIEV1cm8g
+bW9uYXRsaWNoIGFuLCBiZWkgbnVyIGVpbmlnZW4gU3R1bmRlbi4gSWhyZSBBcmJlaXRzemVpdCBp
+c3QgZmxleGliZWwgdW5kIGthbm4gSWhyZW4gQW5mb3JkZXJ1bmdlbiBhbmdlcGFzc3Qgd2VyZGVu
+LiBEZXIgQXJiZWl0bmVobWVyIGhhdCBrZWluZSBlaWdlbmVuIEF1c2dhYmVuIHVuZCBtdXNzIGtl
+aW5lIHRlY2huaXNjaGVLZW5udG5pc3NlIGhhYmVuLjxicj48YnI+SWhyZSBBdWZnYWJlIGlzdCBl
+cyBkaWUgQ29pbnMgZsO8ciB1bnNlcmUgS3VuZGVuIHp1IGVyd2VyYmVuLCBkYXMgR2VsZCBkYWbD
+vHIgw7xiZXJ3ZWlzZW4gd2lyIElobmVuIHZvcmhlciB1bmQgZGllIFByb3Zpc2lvbiB2b24gMjAg
+UHJvemVudCBiZWhhbHRlbiBTaWUgZ2xlaWNoIGVpbi48YnI+PGJyPkZhbGxzIFNpZSBzaWNoIGFu
+Z2VzcHJvY2hlbiBmw7xobGVuLCBtw7ZjaHRlbiB3aXIgU2llIGtlbm5lbmxlcm5lbi48YnI+RGFm
+w7xyIHNjaGlja2VuIFNpZSB1bnMgZWluZSBFbWFpbCBhbjogZWRkLmJyb29rMkBhb2wuY29tPGJy
+Pjxicj5XaXIgZnJldWVuIHVucyBhdWYgSWhyZSBCZXdlcmJ1bmc8YnI+PGJyPlNjaHVtYWNoZXIg
+QWdlbnR1cjxicj48YnI+PHN0cm9uZz5adSBIw6RuZGVuIHZvbjo8L3N0cm9uZz48YnI+PGJyPkRv
+cmlhbi12YXNjbyBOYWdlbDxicj5Bcm5kdHN0cmHDn2UgOTxicj4zMDE2NyBIYW5ub3Zlcjxicj48
+YnI+VGVsLiAwMTUxMjY4NzkyNzE8L3A+

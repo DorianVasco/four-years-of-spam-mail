@@ -1,0 +1,30 @@
+Return-Path: <infolike0774@vsc-camera-aichi.com>
+Delivered-To: mail@stilfilm.com
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 83714D160D
+	for <mail@stilfilm.com>; Tue,  6 Nov 2018 16:25:54 +0100 (CET)
+X-Quarantine-ID: <3VBivL8fb4lE>
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Amavis-Alert: BAD HEADER SECTION, Missing required header field: "Date"
+X-Spam-Flag: YES
+X-Spam-Score: 5.759
+X-Spam-Level: *****
+X-Spam-Status: Yes, score=5.759 required=5.5 tests=[HTML_MESSAGE=0.001,
+	HTML_MIME_NO_HTML_TAG=0.635, MIME_HTML_ONLY=1.105, MISSING_DATE=1.396,
+	MISSING_HEADERS=1.207, MISSING_MID=0.14, RDNS_NONE=1.274,
+	TVD_SPACE_RATIO=0.001] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 3VBivL8fb4lE for <mail@stilfilm.com>;
+	Tue,  6 Nov 2018 16:25:52 +0100 (CET)
+Received: from vsc-camera-aichi.com (unknown [191.96.249.167])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 7096CD1607
+	for <alexandro@stilfilm.com>; Tue,  6 Nov 2018 16:25:48 +0100 (CET)
+From: "facebook" <infolike0774@vsc-camera-aichi.com>
+Subject: Verifi
+MIME-Version: 1.0
+Content-Type: text/html
+Message-Id: <20181106152554.83714D160D@v22014122474822114.stilfilm.com>
+Date: Tue,  6 Nov 2018 16:25:54 +0100 (CET)
+
+ 

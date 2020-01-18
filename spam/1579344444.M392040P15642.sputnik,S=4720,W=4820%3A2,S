@@ -1,0 +1,100 @@
+Return-Path: <siegfriedwpeskxkstraub@feedome.com>
+Delivered-To: mail@elementk.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id E572DC7946
+	for <mail@elementk.de>; Thu,  4 Apr 2019 11:19:48 +0200 (CEST)
+Authentication-Results: v22014122474822114.stilfilm.com; dkim=pass
+	reason="1024-bit key; insecure key"
+	header.d=feedome.com header.i=siegfriedwpeskxkstraub@feedome.com
+	header.b=YZAS+M+0; dkim-adsp=pass; dkim-atps=neutral
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 12.403
+X-Spam-Level: ************
+X-Spam-Status: Yes, score=12.403 required=5.5 tests=[BAYES_99=3.5,
+	BAYES_999=0.2, DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	FROM_LOCAL_NOVOWEL=0.5, HTML_IMAGE_ONLY_12=2.059, HTML_MESSAGE=0.001,
+	HTML_SHORT_LINK_IMG_2=0.001, RDNS_NONE=0.793, SPF_PASS=-0.001,
+	URIBL_ABUSE_SURBL=1.25, URIBL_BLACK=1.7, URIBL_DBL_SPAM=2.5]
+	autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id Yr3Vp1vWLjBE for <mail@elementk.de>;
+	Thu,  4 Apr 2019 11:19:44 +0200 (CEST)
+Received: from striped.feedome.com (unknown [193.39.187.99])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 036B7C170F
+	for <mail@elementk.de>; Thu,  4 Apr 2019 11:19:43 +0200 (CEST)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=feedome.com;
+ h=Date:List-Unsubscribe:Subject:Message-ID:From:MIME-Version:To:Content-Type:Content-Transfer-Encoding; i=siegfriedwpeskxkstraub@feedome.com;
+ bh=+Uu3O1J3MuEvnaWvb5RYSsUgndw=;
+ b=YZAS+M+0KZvIWyVLfaZJbGMW6xjcLKDUh2j1Zo0obOLP0pAY4Fw+K8RROCRRXXW2bo3srI/T7cxu
+   WTBSaUOv8bDE4zR0E85ypcUxOZ8TLPR6dlbClYv8LyAdvdZ59SZ6P5SEl2W3Z+UZMBzH9ZF/d8ye
+   zPHoIUy0rQtTScoqmms=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=feedome.com;
+ b=hgli7WNOh4K1VjcjAozTXuiOxG1hRovJEYsx5jR+lgSnUlozJRpoPf+Pk79RI0N6g7JxGHCUXiF/
+   Y+nv7tmJlFUZhzgQyWS6vh9o6pTHfKCaYYg0g0g9LZlVWyeNn3fUm8G8uU88yXDSrAOyBTbhX0wv
+   sZU6fKCikzvu7eLLHfI=;
+Date: Thu, 4 Apr 2019 11:18:57 +0200
+List-Unsubscribe:  <http://feedome.com/ub.php?b=1z216137080h82qr01b8q8dcrd13wjc63d>
+Subject: =?UTF-8?Q?NEUESTE_Gartenschlauch-Entwicklung:_60_m_lang,_mit_gratis_Druckd=C3=BCse?=
+X-Report-Abuse:  <http://feedome.com/aa.php?a=1z216137080h82qr01b8q8dcrd13wjc63d>
+Message-ID: <qwejgzakfak172870567927781146621@xmc.feedome.com>
+From: =?UTF-8?Q?Siegfried_Straub?= <siegfriedwpeskxkstraub@feedome.com>
+MIME-Version: 1.0
+To:  <mail@elementk.de>
+Precedence: bulk
+X-Mailer: PHPMailer 5.2.16
+Content-Type: multipart/alternative; boundary=b1_qcaw1xglrc495ildilgdu.8M0vwS; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+--b1_qcaw1xglrc495ildilgdu.8M0vwS
+Content-Type: text/plain; format=flowed; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+
+=0D
+Bew=C3=A4ssere, reinige, wasche Auto: 60m Schlauch, jetzt mit n=C3=BCtzlich=
+em Geschenk:=0D
+=0D
+http://cq.feedome.com=0D
+=0D
+=0D
+=0D
+Bitte um L=C3=B6schen der eingetragenen E-Mail-Adresse aus dem Verteiler:=0D
+http://feedome.com/ub.php?x4k=3D1z216137080h82qr01b8q8dcrd13wjc63d=0D
+=0D
+NAGELNEUE Gartenschlauch: kann sich in die L=C3=A4nge 60m ziehen, mit grati=
+s Druckd=C3=BCse=0D
+
+
+--b1_qcaw1xglrc495ildilgdu.8M0vwS
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+
+<!DOCTYPE html>=0D
+<html>=0D
+=0D
+<head>=0D
+</head><body>=0D
+60 m langer Gartenschlauch - unzerbrechlich, sehr stark + mit gratis Druckd=
+=C3=BCse<br /><a href=3D"http://cq.feedome.com/tet:1z216137080h82qr01b8q8dc=
+rd13wjc63d"><img style=3D"width:auto; font-weight:bolder; background-color:=
+#ffffff; " src=3D"http://n.feedome.com/00.jpg" alt=3D"Gie=C3=9Fe, putze, wa=
+sche Wagen einfach: 60 m lange Gartenschlauch, Preisvorteil" /></a>=0D
+<br /><a href=3D"http://cq.feedome.com/hqr:1z216137080h82qr01b8q8dcrd13wjc6=
+3d" style=3D"border-left-style:none; ">Ei: 60 m langer sich steckender Gart=
+enschlauch, super zur Wagenw=C3=A4sche</a>=0D
+<br /><br /><br /><br />Brutal: 60 m langer Gartenschlauch, zur Bew=C3=A4ss=
+erung, Wagenw=C3=A4sche ist perfekt<br /><br /><a style=3D"margin-bottom:0p=
+x; padding-left:0px; line-height:normal; border-left:inset 1px #ffffff;  ba=
+ckground-color:#ffffff; font-size:12px;" href=3D"http://feedome.com/ub.php?=
+d7e=3D1z216137080h82qr01b8q8dcrd13wjc63d">Abmelden hier</a>=0D
+<img src=3D"http://feedome.com/ob.php?x4k=3D1z216137080h82qr01b8q8dcrd13wjc=
+63d" alt=3D"Flexible Gartenschlauch, zur Wagenw=C3=A4sche =E2=80=93 verwirr=
+t sich nicht, knickt nicht, 60m" />=0D
+60 m Gartenschlauch, ultra stark, + gratis Spr=C3=BChpistole=0D
+</body>=0D
+</html>=
+
+--b1_qcaw1xglrc495ildilgdu.8M0vwS--

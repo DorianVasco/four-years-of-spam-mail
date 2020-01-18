@@ -1,0 +1,327 @@
+Return-Path: <bounce@mail.zweitenachricht.de>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 0E674C0937
+	for <mail@dorianvasco.de>; Thu, 18 Jul 2019 16:25:34 +0200 (CEST)
+Authentication-Results: v22014122474822114.stilfilm.com; dkim=pass
+	reason="1024-bit key; insecure key"
+	header.d=mail.zweitenachricht.de header.i=@mail.zweitenachricht.de
+	header.b=ux5fxY3j; dkim-adsp=pass; dkim-atps=neutral
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: -2.001
+X-Spam-Level:
+X-Spam-Status: No, score=-2.001 required=5.5 tests=[BAYES_00=-1.9,
+	DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	HTML_MESSAGE=0.001, SPF_HELO_PASS=-0.001, SPF_PASS=-0.001]
+	autolearn=ham
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id AfjfIPQKBXI3 for <mail@dorianvasco.de>;
+	Thu, 18 Jul 2019 16:25:29 +0200 (CEST)
+Received: from mail.s0025-49.drs.news-am-tag.de (mail.s0025-49.drs.news-am-tag.de [185.250.182.44])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 45EC5C0067
+	for <kontakt@dorianvasco.de>; Thu, 18 Jul 2019 16:25:24 +0200 (CEST)
+Received: from mail.s0025-49.drs.news-am-tag.de (mail.s0025-49.drs.news-am-tag.de [185.250.182.44])
+	by mail.s0025-49.drs.news-am-tag.de (Postfix) with ESMTP id 80835D04C83
+	for <kontakt@dorianvasco.de>; Thu, 18 Jul 2019 16:25:22 +0200 (CEST)
+DKIM-Filter: OpenDKIM Filter v2.10.3 mail.s0025-49.drs.news-am-tag.de 80835D04C83
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple;
+	d=mail.zweitenachricht.de; s=smtp; t=1563459922;
+	bh=LhYtSMb16IgtP4wXQE9W5c/S3mkauIwrKlYllEFHz9w=;
+	h=Message-ID:Date:Subject:From:Reply-To:To:List-Unsubscribe;
+	b=ux5fxY3jWR4nlwEf91QKd5XvhvzRTN3/EEXPjLQcPRlptD/ZIZ1BSt97JhGVQ4nRC
+	 sekYppr9Gp9Pcb3lW4fo5h8LPZSCwlt9yFU/1f/DMjuw+aVajh09wZ+fg2GzjvHgIT
+	 dupanLjwFZiY/fZ1vhSroXFJOSbyd+8gY49j7ENA=
+Message-ID: <20190718162504.734459076237335543@mail.zweitenachricht.de>
+Date: Thu, 18 Jul 2019 16:25:22 +0200
+Subject: =?UTF-8?B?U2llIHdlcmRlbiBkZW4gYmVzdGVuIFNleCBJaHJlcyBMZWJlbnMgaGFiZW4h?=
+From: Endurancer24 <info@mail.zweitenachricht.de>
+Reply-To: info@mail.zweitenachricht.de
+To: kontakt@dorianvasco.de
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_v4_1563459922_e5f4c6c38874654b51e2bd8631e5ca48_=_"
+X-compcomm: MTg1LjI1MC4xODIuNDQ7a29udGFrdEBkb3JpYW52YXNjby5kZQ==
+List-Unsubscribe: <mailto:info@mail.zweitenachricht.de>
+
+
+--_=_swift_v4_1563459922_e5f4c6c38874654b51e2bd8631e5ca48_=_
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Fordern Sie noch HEUTE Ihre Gratis-Packung an
+Fordern Sie noch HEUTE Ihre Gratis-Packung an:(http://drs.news-am-tag-jetzt=
+.de/c/eycJpZENsaSI6IjM0NDUiLCJpZENhbXAiOjc2MjczMzUsImNvZCI6MjY1NzE2NTIzLCJj=
+YXQiOiI2NCIsImNudCI6IkRFVSIsImxpc3QiOiJsaXN0X0RFX0xNX2Ric3RvcmUiLCJlbWFpbCI=
+6ImtvbnRha3RAZG9yaWFudmFzY28uZGUiLCJnZW4iOiIifQ)
+Falls dieser Newsletter nicht korrekt angezeigt wird, klicken Sie bitte hie=
+r(__LinkMirror__)
+Flaute im Bett? Nicht mit Endurancer24!(http://drs.news-am-tag-jetzt.de/m/e=
+yJpZcENsaSI6IjM0NDUiLCJpZENhbXAiOjc2MjczMzUsImNvZCI6MjY1NzE2NTI0LCJjYXQiOiI=
+2NCIsImNudCI6IkRFVSIsImxpc3QiOiJsaXN0X0RFX0xNX2Ric3RvcmUiLCJlbWFpbCI6Imtvbn=
+Rha3RAZG9yaWFudmFzY28uZGUiLCJnZW4iOiIifQ)
+
+Beruflicher Stress, Leistungsdruck, Beziehungsalltag=E2=80=A6 Kein Wunder, =
+dass Ihr =E2=80=9Ekleiner Freund=E2=80=9C manchmal klein bleibt und Sie im =
+Stich l=C3=A4sst, wenn er seinen Mann stehen soll. Stolze Manneskraft, mask=
+ulines Selbstvertrauen, Befriedigung f=C3=BCr Ihre Partnerin und Sie selbst=
+, mehr Potenz, mehr Sex, mehr Leidenschaft: All dies ist m=C3=B6glich. Mit =
+Endurancer24!
+- Endurancer24 ist rein pflanzlich. Sie k=C3=B6nnen es v=C3=B6llig bedenken=
+los einnehmen. Es gibt keine chemische Keule, die Ihren Organismus belastet=
+.
+-
+
+- Endurancer24 steigert im Gegensatz zu chemischen Pr=C3=A4paraten nicht nu=
+r die physische Potenz an sich, sondern wirkt auch aphrodisierend, steigert=
+ also Ihre Lust.
+-
+
+- Endurancer24 wirkt sich positiv auf Ihre Fruchtbarkeit aus. Falls Sie es =
+w=C3=BCnschen, kann es Ihnen also auch zu Vaterfreuden verhelfen.
+-
+
+- Endurancer24 wird Ihnen zollfrei und in einer neutralen Verpackung gelief=
+ert =E2=80=93 schlie=C3=9Flich muss der Postbote nichts von Ihrem kleinen G=
+eheimnis wissen.
+
+Ihr Sonderangebot:(http://drs.news-am-tag-jetzt.de/m/eyJpZcENsaSI6IjM0NDUiL=
+CJpZENhbXAiOjc2MjczMzUsImNvZCI6MjY1NzE2NTI1LCJjYXQiOiI2NCIsImNudCI6IkRFVSIs=
+Imxpc3QiOiJsaXN0X0RFX0xNX2Ric3RvcmUiLCJlbWFpbCI6ImtvbnRha3RAZG9yaWFudmFzY28=
+uZGUiLCJnZW4iOiIifQ)
+
+F=C3=BCr jede Bestellung eines INTENSIV-PAKETES (50 Kapseln) erhalten Sie:
+- ERSTES GESCHENK: 2 Gratis Kapseln
+- ZWEITES GESCHENK: Versandkostenfrei!
+Intensiv-Paket: 2 Kapseln gratis(http://drs.news-am-tag-jetzt.de/r/eyJpZEcN=
+saSI6IjM0NDUiLCJpZENhbXAiOjc2MjczMzUsImNvZCI6MjY1NzE2NTI2LCJjYXQiOiI2NCIsIm=
+NudCI6IkRFVSIsImxpc3QiOiJsaXN0X0RFX0xNX2Ric3RvcmUiLCJlbWFpbCI6ImtvbnRha3RAZ=
+G9yaWFudmFzY28uZGUiLCJnZW4iOiIifQ) <table align=3D"center" border=3D"0" cel=
+lpadding=3D"6"  cellspacing=3D"1" width=3D"100%" style=3D"max-width: 600px;=
+">   <tbody>     <tr>       <td>       <table border=3D"0" cellpadding=3D"5=
+" cellspacing=3D"0"  width=3D"98%" style=3D"max-width: 588px;">         <tb=
+ody>           <tr>             <td colspan=3D"2">             <div align=
+=3D"left"><br>             </div>             <div align=3D"left"><font col=
+or=3D"#808080"  face=3D"Verdana" size=3D"1"> <br>  <br> Sie erhalten diese =
+Nachricht, da Sie sich mit Ihrer E-Mail-Adresse kontakt@dorianvasco.de bei =
+einem Portal oder einem sonstigen Dienst von uns oder einem unserer Partner=
+unternehmen angemeldet haben.</font> </div>             </td>           </t=
+r>            <tr>             <td colspan=3D"2">             <div align=3D=
+"left"><font color=3D"#808080"  face=3D"Verdana"  size=3D"1">Impressum: FIN=
+DUS COMPACT LTD, 132-134 Great Ancoats Street, Manchester, England, M4 6DE<=
+br> Gesch=C3=A4ftsf=C3=BChrer: Reaksa Sary <br> Registrationsnummer: 105434=
+66<br> Tel:  44 20 3868 3907<br> E-Mail: reply@kfznachrichten.com<br/> </fo=
+nt></div>             </td>           </tr><br/>  <tr>             <td cols=
+pan=3D"2">             <div align=3D"left"><font color=3D"#808080"  face=3D=
+"Verdana"  size=3D"1"> Hinweis: Ihr Datensatz stammt von FINDUS COMPACT LTD=
+. Gem=C3=A4=C3=9F der gesetzlichen Anforderungen in =C2=A7 7 Abs. 2 Nr. 3 U=
+WG versendet FINDUS COMPACT LTD diese E-Mail ausschlie=C3=9Flich mit Ihrem =
+Einverst=C3=A4ndnis. Sie k=C3=B6nnen dieses Einverst=C3=A4ndnis jederzeit u=
+nd ohne Angabe von Gr=C3=BCnden widerrufen.  Die Rechtm=C3=A4=C3=9Figkeit d=
+er Werbung bis zu Ihrem Widerruf bleibt davon unber=C3=BChrt. Datenschutzhi=
+nweis: Verantwortlich ist die Firma FINDUS COMPACT LTD. Kontakt siehe oben.=
+  Wir verarbeiten Ihre Daten zum Zwecke der Werbung mit Ihrer Einwilligung =
+(Art. 6 Abs. 1 a, f) DSGVO) und speichern diese bis zum Widerruf und dem Ab=
+lauf von Verj=C3=A4hrungs- und Aufbewahrungsfristen.  Sie haben Rechte auf =
+Auskunft, Einschr=C3=A4nkung und Widerspruch gegen die Verarbeitung und Dat=
+en=C3=BCbertragbarkeit.  </font> </div>             </td>           </tr>  =
+                   <tr>             <td>                         <div align=
+=3D"left"><font color=3D"#808080"  face=3D"Verdana" size=3D"1">Wenn Sie kei=
+ne Newsletter mehr von uns erhalten wollen, klicken Sie <a href=3D" http://=
+drs.news-am-tag-jetzt.de/u/eyJpuZENsaSI6IjM0NDUiLCJpZENhbXAiOiI3NjI3MzM1Iiw=
+iZW1haWwiOiJrb250YWt0QGRvcmlhbnZhc2NvLmRlIiwic2VnIjoiYWZiMjViNmE1NTdlN2Q3MW=
+YwOWZkNGI1ZDgzYzVjY2U1NDI1MDJkYyIsImF0IjoxfQ">hier</a>.</div>             <=
+/td>           </tr>                </table>       </td>     </tr>   </tbod=
+y> </table> http://drs.news-am-tag-jetzt.de/u/eyJpuZENsaSI6IjM0NDUiLCJpZENh=
+bXAiOiI3NjI3MzM1IiwiZW1haWwiOiJrb250YWt0QGRvcmlhbnZhc2NvLmRlIiwic2VnIjoiYWZ=
+iMjViNmE1NTdlN2Q3MWYwOWZkNGI1ZDgzYzVjY2U1NDI1MDJkYyIsImF0IjoxfQ=20
+
+--_=_swift_v4_1563459922_e5f4c6c38874654b51e2bd8631e5ca48_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: base64
+
+PCFET0NUWVBFIGh0bWwgUFVCTElDICItLy9XM0MvL0RURCBYSFRNTCAxLjAgVHJhbnNpdGlvbmFs
+Ly9FTiIKICAgICJodHRwOi8vd3d3LnczLm9yZy9UUi94aHRtbDEvRFREL3hodG1sMS10cmFuc2l0
+aW9uYWwuZHRkIj4KPGh0bWwgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGh0bWwiPgo8
+aGVhZD4KPG1ldGEgaHR0cC1lcXVpdj0iQ29udGVudC1UeXBlIiBjb250ZW50PSJ0ZXh0L2h0bWw7
+IGNoYXJzZXQ9dXRmLTgiIC8+CjxtZXRhIGNvbnRlbnQ9IndpZHRoPWRldmljZS13aWR0aCwgaW5p
+dGlhbC1zY2FsZT0xIiBuYW1lPSJ2aWV3cG9ydCIgLz4KPHRpdGxlPkVuZHVyYW5jZXIyNDwvdGl0
+bGU+Cgo8c3R5bGUgdHlwZT0idGV4dC9jc3MiPgovKjwhW0NEQVRBWyovCmJvZHl7CiAgICAgICAg
+ICAgIHdpZHRoOiAxMDAlOyAKICAgICAgICAgICAgYmFja2dyb3VuZC1jb2xvcjogI0ZGRkZGRjsg
+CiAgICAgICAgICAgIG1hcmdpbjowOyAKICAgICAgICAgICAgcGFkZGluZzowOyAKICAgICAgICAg
+ICAgbXNvLW1hcmdpbi10b3AtYWx0OjBweDsgbXNvLW1hcmdpbi1ib3R0b20tYWx0OjBweDsgbXNv
+LXBhZGRpbmctYWx0OiAwcHggMHB4IDBweCAwcHg7CiAgICAgICAgfQogICAgICAgIAogICAgICAg
+IHAsaDEsaDIsaDMsaDR7CiAgICAgICAgICAgICAgICBtYXJnaW4tdG9wOjA7CiAgICAgICAgICAg
+ICAgICAgICAgICAgIG1hcmdpbi1ib3R0b206MDsKICAgICAgICAgICAgICAgICAgICAgICAgcGFk
+ZGluZy10b3A6MDsKICAgICAgICAgICAgICAgICAgICAgICAgcGFkZGluZy1ib3R0b206MDsKICAg
+ICAgICB9CiAgICAgICAgCiAgICAgICAgaHRtbHsKICAgICAgICAgICAgd2lkdGg6IDEwMCU7IAog
+ICAgICAgIH0KICAgICAgICAKICAgICAgIAogICAgICAgIC8qIC0tLS0tLS0tLS0tIHJlc3BvbnNp
+dml0eSAtLS0tLS0tLS0tLSAqLwogICAgICAgIEBtZWRpYSBvbmx5IHNjcmVlbiBhbmQgKG1heC13
+aWR0aDogNjUwcHgpewogICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAg
+ICAgICAgLyotLS0tLSBtYWluIGltYWdlIC0tLS0tLS0qLwogICAgICAgICAgICAgICAgICAgICAg
+ICAuaW1hZ2Uge3dpZHRoOiAxMDAlICFpbXBvcnRhbnQ7IGhlaWdodDogYXV0byAhaW1wb3J0YW50
+O30KCiAgICAgICAgICAgICAgICAgICAgICAgIC8qLS0tLS0tLS0gY29udGFpbmVyIC0tLS0tLS0t
+Ki8gICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICB0YWJsZXt3aWR0aDo5
+MCUgIWltcG9ydGFudH0KICAgICAgICAgICAKICAgICAgICAgICAgICAgIH0gICAgICAgICAgICAg
+ICAKLypdXT4qLwo8L3N0eWxlPgoKPHN0eWxlIHR5cGU9InRleHQvY3NzIj4KLyo8IVtDREFUQVsq
+LwpzcGFuLnByZWhlYWRlcntkaXNwbGF5Om5vbmUhaW1wb3J0YW50O21zby1oaWRlOmFsbDt9ICAg
+ICAgICAgICAgCi8qXV0+Ki8KPC9zdHlsZT4KPC9oZWFkPgo8Ym9keSBiZ2NvbG9yPSIjRkZGRkZG
+IiBzdHlsZT0iZm9udC1mYW1pbHk6IFZlcmRhbmEsIEdlbmV2YSwgc2Fucy1zZXJpZjsgZm9udC1z
+aXplOjEzcHg7IGNvbG9yOiMwMDA7Ij48aW1nIHNyYz0iaHR0cDovL2Rycy5uZXdzLWFtLXRhZy1q
+ZXR6dC5kZS9mL2V5SnZwWkVOc2FTSTZJak0wTkRVaUxDSnBaRU5oYlhBaU9qYzJNamN6TXpVc0lt
+TnZaQ0k2TnpZeU56TXpOU3dpWTJGMElqb2lOalFpTENKamJuUWlPaUpFUlZVaUxDSmxiV0ZwYkNJ
+NkltdHZiblJoYTNSQVpHOXlhV0Z1ZG1GelkyOHVaR1VpTENKc2FYTjBJam9pYkdsemRGOUVSVjlN
+VFY5a1luTjBiM0psSWl3aVoyVnVJam9pSW4wIiB3aWR0aD0iMSIgaGVpZ2h0PSIxIiBkYXRhLWFs
+dD0iNzYyMTUzNiIgLz4KPHNwYW4gY2xhc3M9InByZWhlYWRlciIgc3R5bGU9ImRpc3BsYXk6bm9u
+ZSFpbXBvcnRhbnQ7bXNvLWhpZGU6YWxsOyI+Rm9yZGVybiBTaWUgbm9jaCBIRVVURSBJaHJlIEdy
+YXRpcy1QYWNrdW5nIGFuPC9zcGFuPgo8dGFibGUgYWxpZ249ImNlbnRlciIgYm9yZGVyPSIwIiBj
+ZWxscGFkZGluZz0iMCIgY2VsbHNwYWNpbmc9IjAiIHdpZHRoPSI2NDAiPgoKPHRyPgo8dGQgYWxp
+Z249ImNlbnRlciIgY29sc3Bhbj0iMiIgc3R5bGU9InBhZGRpbmctdG9wOiAyMHB4Ij48YSBocmVm
+PSJodHRwOi8vZHJzLm5ld3MtYW0tdGFnLWpldHp0LmRlL3UvZXlKcGNaRU5zYVNJNklqTTBORFVp
+TENKcFpFTmhiWEFpT2pjMk1qY3pNelVzSW1OdlpDSTZNalkxTnpFMk5USTRMQ0pqWVhRaU9pSTJO
+Q0lzSW1OdWRDSTZJa1JGVlNJc0lteHBjM1FpT2lKc2FYTjBYMFJGWDB4TlgyUmljM1J2Y21VaUxD
+SmxiV0ZwYkNJNkltdHZiblJoYTNSQVpHOXlhV0Z1ZG1GelkyOHVaR1VpTENKblpXNGlPaUlpZlEi
+IHN0eWxlPSJ0ZXh0LWRlY29yYXRpb246bm9uZSI+PGZvbnQgc3R5bGU9ImNvbG9yOiMzMzM7IGZv
+bnQtZmFtaWx5OkFyaWFsOyBmb250LXNpemU6MTJweDsiPkZvcmRlcm4gU2llIG5vY2ggSEVVVEUg
+SWhyZSBHcmF0aXMtUGFja3VuZyBhbjo8L2ZvbnQ+PC9hPjwvdGQ+CjwvdHI+Cjx0cj4KPHRkIGFs
+aWduPSJjZW50ZXIiIGNvbHNwYW49IjIiIHN0eWxlPSJwYWRkaW5nLXRvcDogMTBweCI+PGEgaHJl
+Zj0iaHR0cDovL2Rycy5uZXdzLWFtLXRhZy1qZXR6dC5kZS92L2VteUpwWkVNaU9pSXpORFExSWl3
+aWFXUWlPaUkzTmpJM016TTFJaXdpWlNJNkltdHZiblJoYTNSQVpHOXlhV0Z1ZG1GelkyOHVaR1Vp
+TENKc0lqb2liR2x6ZEY5RVJWOU1UVjlrWW5OMGIzSmxJbjAiIHN0eWxlPSJ0ZXh0LWRlY29yYXRp
+b246dW5kZXJsaW5lOyI+PGZvbnQgc3R5bGU9ImNvbG9yOiMzMzM7IGZvbnQtZmFtaWx5OkFyaWFs
+OyBmb250LXNpemU6MTJweDsiPkZhbGxzIGRpZXNlciBOZXdzbGV0dGVyIG5pY2h0IGtvcnJla3Qg
+YW5nZXplaWd0IHdpcmQsIGtsaWNrZW4gU2llIGJpdHRlIGhpZXI8L2ZvbnQ+PC9hPjwvdGQ+Cjwv
+dHI+Cjx0cj4KPHRkIGFsaWduPSJjZW50ZXIiIGNvbHNwYW49IjIiIHN0eWxlPSJwYWRkaW5nLXRv
+cDogMzBweCI+PGEgaHJlZj0iaHR0cDovL2Rycy5uZXdzLWFtLXRhZy1qZXR6dC5kZS9jL2V5Y0pw
+WkVOc2FTSTZJak0wTkRVaUxDSnBaRU5oYlhBaU9qYzJNamN6TXpVc0ltTnZaQ0k2TWpZMU56RTJO
+VEk1TENKallYUWlPaUkyTkNJc0ltTnVkQ0k2SWtSRlZTSXNJbXhwYzNRaU9pSnNhWE4wWDBSRlgw
+eE5YMlJpYzNSdmNtVWlMQ0psYldGcGJDSTZJbXR2Ym5SaGEzUkFaRzl5YVdGdWRtRnpZMjh1WkdV
+aUxDSm5aVzRpT2lJaWZRIj48aW1nIGFsdD0iRmxhdXRlIGltIEJldHQ/IE5pY2h0IG1pdCBFbmR1
+cmFuY2VyMjQhIiBib3JkZXI9IjAiIGNsYXNzPSJpbWFnZSIgc3JjPSdodHRwOi8vZHJzLm5ld3Mt
+YW0tdGFnLWpldHp0LmRlL2ltZy8zYzdlMjFhYTlhYTM3OWI3YWM2YjU2YzM1NTY4ZDhhOTZmODhj
+NzA5ZDNhZjk0NjY2ODRjMDk5ODA0ZGU1YzQ5YTZlMTY5NzZlZDNhYmNhNTgyMmJhNzI4MzQzMWVi
+OTguanBnJyBzdHlsZT0id2lkdGg6IDY0MHB4OyBoZWlnaHQ6IDMzOHB4OyIgdGl0bGU9IkZsYXV0
+ZSBpbSBCZXR0PyBOaWNodCBtaXQgRW5kdXJhbmNlcjI0ISIgLz48L2E+PC90ZD4KPC90cj4KPHRy
+Pgo8dGQgY29sc3Bhbj0iMyI+PGJyIC8+CkJlcnVmbGljaGVyIFN0cmVzcywgTGVpc3R1bmdzZHJ1
+Y2ssIEJlemllaHVuZ3NhbGx0YWcmaGVsbGlwOyBLZWluIFd1bmRlciwgZGFzcyBJaHIgJmJkcXVv
+O2tsZWluZXIgRnJldW5kJmxkcXVvOyBtYW5jaG1hbCBrbGVpbiBibGVpYnQgdW5kIFNpZSBpbSBT
+dGljaCBsJmF1bWw7c3N0LCB3ZW5uIGVyIHNlaW5lbiBNYW5uIHN0ZWhlbiBzb2xsLiBTdG9semUg
+TWFubmVza3JhZnQsIG1hc2t1bGluZXMgU2VsYnN0dmVydHJhdWVuLCBCZWZyaWVkaWd1bmcgZiZ1
+dW1sO3IgSWhyZSBQYXJ0bmVyaW4gdW5kIFNpZSBzZWxic3QsIG1laHIgUG90ZW56LCBtZWhyIFNl
+eCwgbWVociBMZWlkZW5zY2hhZnQ6IEFsbCBkaWVzIGlzdCBtJm91bWw7Z2xpY2guIE1pdCBFbmR1
+cmFuY2VyMjQhCjx1bD4KPGxpPjxzdHJvbmc+RW5kdXJhbmNlcjI0PC9zdHJvbmc+IGlzdCByZWlu
+IHBmbGFuemxpY2guIFNpZSBrJm91bWw7bm5lbiBlcyB2Jm91bWw7bGxpZyBiZWRlbmtlbmxvcyBl
+aW5uZWhtZW4uIEVzIGdpYnQga2VpbmUgY2hlbWlzY2hlIEtldWxlLCBkaWUgSWhyZW4gT3JnYW5p
+c211cyBiZWxhc3RldC48L2xpPgo8bGkgc3R5bGU9Imxpc3Qtc3R5bGU6IG5vbmUiPjxiciAvPjwv
+bGk+CjxsaT48c3Ryb25nPkVuZHVyYW5jZXIyNDwvc3Ryb25nPiBzdGVpZ2VydCBpbSBHZWdlbnNh
+dHogenUgY2hlbWlzY2hlbiBQciZhdW1sO3BhcmF0ZW4gbmljaHQgbnVyIGRpZSBwaHlzaXNjaGUg
+UG90ZW56IGFuIHNpY2gsIHNvbmRlcm4gd2lya3QgYXVjaCBhcGhyb2Rpc2llcmVuZCwgc3RlaWdl
+cnQgYWxzbyBJaHJlIEx1c3QuPC9saT4KPGxpIHN0eWxlPSJsaXN0LXN0eWxlOiBub25lIj48YnIg
+Lz48L2xpPgo8bGk+PHN0cm9uZz5FbmR1cmFuY2VyMjQ8L3N0cm9uZz4gd2lya3Qgc2ljaCBwb3Np
+dGl2IGF1ZiBJaHJlIEZydWNodGJhcmtlaXQgYXVzLiBGYWxscyBTaWUgZXMgdyZ1dW1sO25zY2hl
+biwga2FubiBlcyBJaG5lbiBhbHNvIGF1Y2ggenUgVmF0ZXJmcmV1ZGVuIHZlcmhlbGZlbi48L2xp
+Pgo8bGkgc3R5bGU9Imxpc3Qtc3R5bGU6IG5vbmUiPjxiciAvPjwvbGk+CjxsaT48c3Ryb25nPkVu
+ZHVyYW5jZXIyNDwvc3Ryb25nPiB3aXJkIElobmVuIHpvbGxmcmVpIHVuZCBpbiBlaW5lciBuZXV0
+cmFsZW4gVmVycGFja3VuZyBnZWxpZWZlcnQgLSBzY2hsaWUmc3psaWc7bGljaCBtdXNzIGRlciBQ
+b3N0Ym90ZSBuaWNodHMgdm9uIElocmVtIGtsZWluZW4gR2VoZWltbmlzIHdpc3Nlbi48L2xpPgo8
+L3VsPgo8L3RkPgo8L3RyPgo8dHI+Cjx0ZCBhbGlnbj0ibGVmdCIgd2lkdGg9IjUwNSI+PGEgaHJl
+Zj0iaHR0cDovL2Rycy5uZXdzLWFtLXRhZy1qZXR6dC5kZS9qL2V5SnBaRU5jc2FTSTZJak0wTkRV
+aUxDSnBaRU5oYlhBaU9qYzJNamN6TXpVc0ltTnZaQ0k2TWpZMU56RTJOVE13TENKallYUWlPaUky
+TkNJc0ltTnVkQ0k2SWtSRlZTSXNJbXhwYzNRaU9pSnNhWE4wWDBSRlgweE5YMlJpYzNSdmNtVWlM
+Q0psYldGcGJDSTZJbXR2Ym5SaGEzUkFaRzl5YVdGdWRtRnpZMjh1WkdVaUxDSm5aVzRpT2lJaWZR
+IiBzdHlsZT0iY29sb3I6IHJnYigxMDIsIDE1MywgMCk7IGZvbnQtZmFtaWx5OiB2ZXJkYW5hOyBm
+b250LXNpemU6IDEycHg7IHRleHQtZGVjb3JhdGlvbjogbm9uZTsiPjxzcGFuIHN0eWxlPSJmb250
+LXNpemU6IDI1cHg7IGNvbG9yOiByZ2IoMjUyLCAxLCAxKTsgZm9udC1mYW1pbHk6IFRhaG9tYSxH
+ZW5ldmEsc2Fucy1zZXJpZjsgZm9udC13ZWlnaHQ6IGJvbGQ7Ij5JaHIgU29uZGVyYW5nZWJvdDo8
+L3NwYW4+PC9hPjxiciAvPgo8YnIgLz4KPHNwYW4gc3R5bGU9ImZvbnQtZmFtaWx5OiBUYWhvbWEs
+R2VuZXZhLHNhbnMtc2VyaWY7IGZvbnQtc2l6ZTogMTVweDsgY29sb3I6IHJnYigxMDIsIDEwMiwg
+MTAyKTsiPkYmdXVtbDtyIGplZGUgQmVzdGVsbHVuZyBlaW5lcyBJTlRFTlNJVi1QQUtFVEVTICg1
+MCBLYXBzZWxuKSBlcmhhbHRlbiBTaWU6PC9zcGFuPgo8b2w+CjxsaT48c3BhbiBzdHlsZT0iZm9u
+dC1mYW1pbHk6IFRhaG9tYSxHZW5ldmEsc2Fucy1zZXJpZjsgZm9udC1zaXplOiAxNXB4OyBjb2xv
+cjogcmdiKDEwMiwgMTAyLCAxMDIpOyI+RVJTVEVTIEdFU0NIRU5LOiAyIEdyYXRpcyBLYXBzZWxu
+PC9zcGFuPjwvbGk+CjxsaT48c3BhbiBzdHlsZT0iZm9udC1mYW1pbHk6IFRhaG9tYSxHZW5ldmEs
+c2Fucy1zZXJpZjsgZm9udC1zaXplOiAxNXB4OyBjb2xvcjogcmdiKDEwMiwgMTAyLCAxMDIpOyI+
+WldFSVRFUyBHRVNDSEVOSzogVmVyc2FuZGtvc3RlbmZyZWkhPC9zcGFuPjwvbGk+Cjwvb2w+Cjwv
+dGQ+Cjx0ZCBhbGlnbj0icmlnaHQiIHdpZHRoPSIzMDAiPjxhIGhyZWY9Imh0dHA6Ly9kcnMubmV3
+cy1hbS10YWctamV0enQuZGUvdi9lY3lKcFpFTnNhU0k2SWpNME5EVWlMQ0pwWkVOaGJYQWlPamMy
+TWpjek16VXNJbU52WkNJNk1qWTFOekUyTlRNeExDSmpZWFFpT2lJMk5DSXNJbU51ZENJNklrUkZW
+U0lzSW14cGMzUWlPaUpzYVhOMFgwUkZYMHhOWDJSaWMzUnZjbVVpTENKbGJXRnBiQ0k2SW10dmJu
+UmhhM1JBWkc5eWFXRnVkbUZ6WTI4dVpHVWlMQ0puWlc0aU9pSWlmUSI+PGltZyBhbHQ9IkludGVu
+c2l2LVBha2V0OiAyIEthcHNlbG4gZ3JhdGlzIiBib3JkZXI9IjAiIGNsYXNzPSJpbWFnZSIgc3Jj
+PSdodHRwOi8vZHJzLm5ld3MtYW0tdGFnLWpldHp0LmRlL2ltZy8zNDg0OWYzMWU1Y2NjZDgwM2Zk
+YTJhMWI4N2Y3ZDQ0NmQzNmRhYTc0ZmJiN2Y4Mzg4MDEzNDlmZjBiZTE2OWMxMWRkZDRlODMzZjgz
+ODNhYjVhMWY4YzllYzgwZGNiMWUuanBnJyBzdHlsZT0id2lkdGg6IDEwMCU7IG1heC13aWR0aDog
+MTgxcHg7IGhlaWdodDogYXV0bzsgbWF4LWhlaWdodDogMjQ5cHg7IiB0aXRsZT0iSW50ZW5zaXYt
+UGFrZXQ6IDIgS2Fwc2VsbiBncmF0aXMiIC8+PC9hPjwvdGQ+CjwvdHI+Cjx0cj4KPHRkIGFsaWdu
+PSJjZW50ZXIiIGJnY29sb3I9IiNGRkZGRkYiIGNvbHNwYW49IjIiIHN0eWxlPSJwYWRkaW5nLXRv
+cDogMjBweCI+PGJyIC8+CiZuYnNwOzwvdGQ+CjwvdHI+Cjx0cj4KPHRkIGFsaWduPSJjZW50ZXIi
+IGNvbHNwYW49IjQiIHN0eWxlPSJmb250LWZhbWlseTpBcmlhbCwgVGFob21hOyBGb250LXNpemU6
+MTJweDsgbGluZS1oZWlnaHQ6MTRweDsgZm9udC13ZWlnaHQ6bm9ybWFsOyBmb250LXN0eWxlOm5v
+cm1hbDsgY29sb3I6IzY2NjY2NjsgcGFkZGluZy10b3A6MTZweDsgcGFkZGluZy1ib3R0b206MjZw
+eCI+Jm5ic3A7PC90ZD4KPC90cj4KCjwvdGFibGU+CjxpbWcgaGVpZ2h0PSIxIiBzcmM9Imh0dHA6
+Ly9kcnMubmV3cy1hbS10YWctamV0enQuZGUvYS9mYUhSMGNEb3ZMM2QzZHk1cGJtSnZlRzFsWkds
+aE1pNWpiMjB2WVdabVgya19iMlptWlhKZmFXUTlNamN6Sm1acGJHVmZhV1E5T1RNeEptRm1abDlw
+WkQweE1qRXpKblZ5YkY5cFpEMHlOVGNtYzI5MWNtTmxQVlJRSm1GbVpsOXpkV0k5WTNCdCIgd2lk
+dGg9IjEiIC8+Cgo8IS0tLSBURU1QTEFURV9GT09URVJfSU5JIC0tLT4KPHRhYmxlIGFsaWduPSJj
+ZW50ZXIiIGJvcmRlcj0iMCIgY2VsbHBhZGRpbmc9IjYiDQogY2VsbHNwYWNpbmc9IjEiIHdpZHRo
+PSIxMDAlIiBzdHlsZT0ibWF4LXdpZHRoOiA2MDBweDsiPg0KICA8dGJvZHk+DQogICAgPHRyPg0K
+ICAgICAgPHRkPg0KICAgICAgPHRhYmxlIGJvcmRlcj0iMCIgY2VsbHBhZGRpbmc9IjUiIGNlbGxz
+cGFjaW5nPSIwIg0KIHdpZHRoPSI5OCUiIHN0eWxlPSJtYXgtd2lkdGg6IDU4OHB4OyI+DQogICAg
+ICAgIDx0Ym9keT4NCiAgICAgICAgICA8dHI+DQogICAgICAgICAgICA8dGQgY29sc3Bhbj0iMiI+
+DQogICAgICAgICAgICA8ZGl2IGFsaWduPSJsZWZ0Ij48YnI+DQogICAgICAgICAgICA8L2Rpdj4N
+CiAgICAgICAgICAgIDxkaXYgYWxpZ249ImxlZnQiPjxmb250IGNvbG9yPSIjODA4MDgwIg0KIGZh
+Y2U9IlZlcmRhbmEiIHNpemU9IjEiPiA8YnI+DQoNCjxicj4NClNpZSBlcmhhbHRlbiBkaWVzZSBO
+YWNocmljaHQsIGRhIFNpZSBzaWNoIG1pdCBJaHJlciBFLU1haWwtQWRyZXNzZSBrb250YWt0QGRv
+cmlhbnZhc2NvLmRlIGJlaSBlaW5lbSBQb3J0YWwgb2RlciBlaW5lbSBzb25zdGlnZW4gRGllbnN0
+IHZvbiB1bnMgb2RlciBlaW5lbSB1bnNlcmVyIFBhcnRuZXJ1bnRlcm5laG1lbiBhbmdlbWVsZGV0
+IGhhYmVuLjwvZm9udD4gPC9kaXY+DQogICAgICAgICAgICA8L3RkPg0KICAgICAgICAgIDwvdHI+
+DQoNCiAgICAgICAgICA8dHI+DQogICAgICAgICAgICA8dGQgY29sc3Bhbj0iMiI+DQogICAgICAg
+ICAgICA8ZGl2IGFsaWduPSJsZWZ0Ij48Zm9udCBjb2xvcj0iIzgwODA4MCINCiBmYWNlPSJWZXJk
+YW5hIg0KIHNpemU9IjEiPkltcHJlc3N1bTogRklORFVTIENPTVBBQ1QgTFRELCAxMzItMTM0IEdy
+ZWF0IEFuY29hdHMgU3RyZWV0LCBNYW5jaGVzdGVyLCBFbmdsYW5kLCBNNCA2REU8YnI+DQpHZXNj
+aMOkZnRzZsO8aHJlcjogUmVha3NhIFNhcnkgPGJyPg0KUmVnaXN0cmF0aW9uc251bW1lcjogMTA1
+NDM0NjY8YnI+DQpUZWw6ICA0NCAyMCAzODY4IDM5MDc8YnI+DQpFLU1haWw6IHJlcGx5QGtmem5h
+Y2hyaWNodGVuLmNvbTxici8+DQo8L2ZvbnQ+PC9kaXY+DQogICAgICAgICAgICA8L3RkPg0KICAg
+ICAgICAgIDwvdHI+PGJyLz4NCg0KPHRyPg0KICAgICAgICAgICAgPHRkIGNvbHNwYW49IjIiPg0K
+ICAgICAgICAgICAgPGRpdiBhbGlnbj0ibGVmdCI+PGZvbnQgY29sb3I9IiM4MDgwODAiDQogZmFj
+ZT0iVmVyZGFuYSINCiBzaXplPSIxIj4NCkhpbndlaXM6IElociBEYXRlbnNhdHogc3RhbW10IHZv
+biBGSU5EVVMgQ09NUEFDVCBMVEQuIEdlbcOkw58gZGVyIGdlc2V0emxpY2hlbiBBbmZvcmRlcnVu
+Z2VuIGluIMKnIDcgQWJzLiAyIE5yLiAzIFVXRyB2ZXJzZW5kZXQgRklORFVTIENPTVBBQ1QgTFRE
+IGRpZXNlIEUtTWFpbCBhdXNzY2hsaWXDn2xpY2ggbWl0IElocmVtIEVpbnZlcnN0w6RuZG5pcy4g
+U2llIGvDtm5uZW4gZGllc2VzIEVpbnZlcnN0w6RuZG5pcyBqZWRlcnplaXQgdW5kIG9obmUgQW5n
+YWJlIHZvbiBHcsO8bmRlbiB3aWRlcnJ1ZmVuLiANCkRpZSBSZWNodG3DpMOfaWdrZWl0IGRlciBX
+ZXJidW5nIGJpcyB6dSBJaHJlbSBXaWRlcnJ1ZiBibGVpYnQgZGF2b24gdW5iZXLDvGhydC4gRGF0
+ZW5zY2h1dHpoaW53ZWlzOiBWZXJhbnR3b3J0bGljaCBpc3QgZGllIEZpcm1hIEZJTkRVUyBDT01Q
+QUNUIExURC4gS29udGFrdCBzaWVoZSBvYmVuLiANCldpciB2ZXJhcmJlaXRlbiBJaHJlIERhdGVu
+IHp1bSBad2Vja2UgZGVyIFdlcmJ1bmcgbWl0IElocmVyIEVpbndpbGxpZ3VuZyAoQXJ0LiA2IEFi
+cy4gMSBhLCBmKSBEU0dWTykgdW5kIHNwZWljaGVybiBkaWVzZSBiaXMgenVtIFdpZGVycnVmIHVu
+ZCBkZW0gQWJsYXVmIHZvbiBWZXJqw6RocnVuZ3MtIHVuZCBBdWZiZXdhaHJ1bmdzZnJpc3Rlbi4g
+DQpTaWUgaGFiZW4gUmVjaHRlIGF1ZiBBdXNrdW5mdCwgRWluc2NocsOkbmt1bmcgdW5kIFdpZGVy
+c3BydWNoIGdlZ2VuIGRpZSBWZXJhcmJlaXR1bmcgdW5kIERhdGVuw7xiZXJ0cmFnYmFya2VpdC4N
+Cg0KPC9mb250PiA8L2Rpdj4NCiAgICAgICAgICAgIDwvdGQ+DQogICAgICAgICAgPC90cj4NCiAg
+ICAgICAgICAgICAgICAgICAgPHRyPg0KICAgICAgICAgICAgPHRkPg0KICAgICAgICAgICAgICAg
+ICAgICAgICAgPGRpdiBhbGlnbj0ibGVmdCI+PGZvbnQgY29sb3I9IiM4MDgwODAiDQogZmFjZT0i
+VmVyZGFuYSIgc2l6ZT0iMSI+V2VubiBTaWUga2VpbmUgTmV3c2xldHRlciBtZWhyIHZvbiB1bnMg
+ZXJoYWx0ZW4gd29sbGVuLCBrbGlja2VuIFNpZSA8YSBocmVmPSINCmh0dHA6Ly9kcnMubmV3cy1h
+bS10YWctamV0enQuZGUvZi9leUp1cFpFTnNhU0k2SWpNME5EVWlMQ0pwWkVOaGJYQWlPaUkzTmpJ
+M016TTFJaXdpWlcxaGFXd2lPaUpyYjI1MFlXdDBRR1J2Y21saGJuWmhjMk52TG1SbElpd2ljMlZu
+SWpvaVlXWmlNalZpTm1FMU5UZGxOMlEzTVdZd09XWmtOR0kxWkRnell6VmpZMlUxTkRJMU1ESmtZ
+eUlzSW1GMElqb3hmUSI+aGllcjwvYT4uPC9kaXY+DQogICAgICAgICAgICA8L3RkPg0KICAgICAg
+ICAgIDwvdHI+DQogICAgICAgIA0KICAgICAgPC90YWJsZT4NCiAgICAgIDwvdGQ+DQogICAgPC90
+cj4NCiAgPC90Ym9keT4NCjwvdGFibGU+DQoKCgo8dGFibGUgd2lkdGg9JzEwMCUnIGNlbGxwYWRk
+aW5nPScwJyBjZWxsc3BhY2luZz0nMic+CiAgPHRyIGFsaWduPSdjZW50ZXInIHdpZHRoPScxMDAl
+JyBzdHlsZT0nZm9udC1zaXplOjExcHg7IGNvbG9yOiNfXyB1bnN1YnNjcmliZV90ZXh0X2NvbG9y
+X18nPgogICAgPHRkICBzdHlsZT0idGV4dC1hbGlnbjpjZW50ZXI7IGNvbG9yOiMzMzMzMzMiIHdp
+ZHRoPScxMDAlJz48Yj48YSBocmVmPSdodHRwOi8vZHJzLm5ld3MtYW0tdGFnLWpldHp0LmRlL2Yv
+ZXlKdXBaRU5zYVNJNklqTTBORFVpTENKcFpFTmhiWEFpT2lJM05qSTNNek0xSWl3aVpXMWhhV3dp
+T2lKcmIyNTBZV3QwUUdSdmNtbGhiblpoYzJOdkxtUmxJaXdpYzJWbklqb2lZV1ppTWpWaU5tRTFO
+VGRsTjJRM01XWXdPV1prTkdJMVpEZ3pZelZqWTJVMU5ESTFNREprWXlJc0ltRjBJam94ZlEnIHN0
+eWxlPSd0ZXh0LWRlY29yYXRpb246bm9uZTsgY29sb3I6IzI1YTlkZjsnPjwvYT48L2I+PC90ZD4K
+ICA8L3RyPgo8L3RhYmxlPgoKCjx0YWJsZSB3aWR0aD0nMTAwJSc+CiAgPHRyIHdpZHRoPScxMDAl
+JyBzdHlsZT0nZm9udC1zaXplOjExcHgnPgogICAgPHRkIGFsaWduPSdjZW50ZXInPjwvdGQ+CiAg
+PC90cj4KPC90YWJsZT4KCjwhLS0tIFRFTVBMQVRFX0ZPT1RFUl9FTkQgLS0tPgo8L2JvZHk+Cjwv
+aHRtbD4=
+
+--_=_swift_v4_1563459922_e5f4c6c38874654b51e2bd8631e5ca48_=_--
+

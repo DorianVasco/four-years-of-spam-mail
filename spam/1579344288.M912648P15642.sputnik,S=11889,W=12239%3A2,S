@@ -1,0 +1,350 @@
+Return-Path: <mohamed@wntsolutions.biz>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 6E9A1C3D32
+	for <mail@dorianvasco.de>; Fri, 20 Jul 2018 13:59:18 +0200 (CEST)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: 0.002
+X-Spam-Level:
+X-Spam-Status: No, score=0.002 required=5.5 tests=[DKIM_SIGNED=0.1,
+	DKIM_VALID=-0.1, HTML_MESSAGE=0.001, RCVD_IN_DNSWL_BLOCKED=0.001,
+	SPF_PASS=-0.001, URIBL_BLOCKED=0.001] autolearn=unavailable
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id qBh-uxwWjeH0 for <mail@dorianvasco.de>;
+	Fri, 20 Jul 2018 13:59:16 +0200 (CEST)
+Received: from mail-pl0-f66.google.com (mail-pl0-f66.google.com [209.85.160.66])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id C492EC3D30
+	for <mail@dorianvasco.de>; Fri, 20 Jul 2018 13:59:12 +0200 (CEST)
+Received: by mail-pl0-f66.google.com with SMTP id b1-v6so5110282pls.5
+        for <mail@dorianvasco.de>; Fri, 20 Jul 2018 04:59:14 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=wntsolutions-biz.20150623.gappssmtp.com; s=20150623;
+        h=from:to:subject:date:message-id:mime-version:thread-index
+         :content-language;
+        bh=REZETuEhxe6PeFG9tJM1HKFDIWrvu0+SUC5P0jOCF7k=;
+        b=M+HqG4A2uGIahJfzNRSqrJ0OSZwoFU+vlbBpN7gvRogLsFkwXEEus/RRhs07H6KMY4
+         zYVXw2nWLq467AVKTsJhj+cn3XJKnmB6UaQXpByajzzLb++ehDX/Z6YRW83zdxplklif
+         WwJWZjTTiz1ufLRB2WJsaFt2Ze35Dn0rwmg2NVQ6pskHzqcHiGkqtCf/QATIS6TGkk5j
+         v4uyQ32dRodBPmtTgyq0wb4ZvKPaThItMgyTTtBQRf09bLQTEZdVysVclGQVOmitUQC0
+         eUOax0q785BEoRKr5ZX/+19Zn0gy/wZpbUCnUcP0+qpiB7RxlF9HXKud8J0e3Zw3GatM
+         46Zg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:from:to:subject:date:message-id:mime-version
+         :thread-index:content-language;
+        bh=REZETuEhxe6PeFG9tJM1HKFDIWrvu0+SUC5P0jOCF7k=;
+        b=ly1vv+WsEnKKZS30ALrzJK8hnmIVrUbak2h/NG8QNfjWMDEFgdc/lBfYbx3FTW8U3+
+         fKlx4aKxW7rkmXWh+GmqHVaOrLNutBnt3Lm+ommT8KnlP3Yf2y2UZWYE/ySQRtPSrMXz
+         i/OhFPwRY/mi5p7abNvpTzlJTGosxuKTqi/AFBkHqb6VuZdtIxs48Inq0dcXE7KjnnyO
+         pyfvFy6aFuWUBwO6PLcHziQJ184fXljt2c21dfwtmWVQKcWpJ8L9DBjKX5ls8PZsIGhq
+         9ojiGt+NxiSco+LiDWlbHaPxfXZNPgVR1Vyu6ScShAm2OTbaWp3ommVYMBb2m7B9EddW
+         clWQ==
+X-Gm-Message-State: AOUpUlHEicut9B6xlKJFLe1HM03m701nnwT5KxzwHIKOLjw9g8npEoXD
+	Q4dwYfaORDW4oZZ5KBQ32hQL0UFyphg=
+X-Google-Smtp-Source: AAOMgpegD7tqW9nLMYfYD2q78Qrk//gBUbKdQqoIVT+yzkn4k1DNyiMrojWe+MJmXGwKSPVoUN6owg==
+X-Received: by 2002:a17:902:2908:: with SMTP id g8-v6mr1844298plb.180.1532087952936;
+        Fri, 20 Jul 2018 04:59:12 -0700 (PDT)
+Received: from vkPC ([163.53.85.133])
+        by smtp.gmail.com with ESMTPSA id u42-v6sm3146029pgn.1.2018.07.20.04.59.11
+        for <mail@dorianvasco.de>
+        (version=TLS1 cipher=ECDHE-RSA-AES128-SHA bits=128/128);
+        Fri, 20 Jul 2018 04:59:12 -0700 (PDT)
+From: Mohamed <mohamed@wntsolutions.biz>
+X-Google-Original-From: "Mohamed" <Mohamed@wntsolutions.biz>
+To: <mail@dorianvasco.de>
+Subject: Mobile Apps Development Service Best Prices.....???
+Date: Fri, 20 Jul 2018 17:28:22 +0530
+Message-ID: <055f01d42021$17626140$462723c0$@biz>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0560_01D4204F.311A9D40"
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-Index: AdQgIMRalutHxdisTpSMNJPRAIm5Dw==
+Content-Language: en-us
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_0560_01D4204F.311A9D40
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+Hi DorianVasco Nagel,
+
+ 
+
+I hope you are doing well.
+
+ 
+
+We are an (India) based reputed company in offering highly reliable web
+development, iOS app development, Android app development, iPhone app
+development, Web app development and Fb app development.
+
+ 
+
+We offer a range of services that include:-
+
+            
+
+Mobile Application: - iPhone & Android Apps, iPad App Development,
+Enterprise Mobility, App design, IoT based Apps, ERP/CRM Mobile Apps, Custom
+Mobile App Development, App Development for Unique Ideas.
+
+ 
+
+If you are interested these services so give me your contact number or drop
+me a Phone number/email/Skype ID, so that we can discuss the possible
+synergies between us.
+
+ 
+
+ 
+
+Best Regards
+
+Mohamed,
+
+Business Development Manager (India)
+
+ 
+
+
+------=_NextPart_000_0560_01D4204F.311A9D40
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<META HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html; =
+charset=3Dus-ascii">
+<meta name=3DGenerator content=3D"Microsoft Word 12 (filtered medium)">
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Cambria;
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Aharoni;
+	panose-1:2 1 8 3 2 1 4 3 2 3;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin-top:0in;
+	margin-right:0in;
+	margin-bottom:10.0pt;
+	margin-left:0in;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+h1
+	{mso-style-priority:9;
+	mso-style-link:"Heading 1 Char";
+	margin-top:24.0pt;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:0in;
+	margin-bottom:.0001pt;
+	line-height:115%;
+	page-break-after:avoid;
+	font-size:14.0pt;
+	font-family:"Cambria","serif";
+	color:#365F91;}
+p.MsoSubtitle, li.MsoSubtitle, div.MsoSubtitle
+	{mso-style-priority:11;
+	mso-style-link:"Subtitle Char";
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:10.0pt;
+	margin-left:0in;
+	line-height:115%;
+	font-size:12.0pt;
+	font-family:"Cambria","serif";
+	color:#4F81BD;
+	letter-spacing:.75pt;
+	font-style:italic;}
+p.MsoNoSpacing, li.MsoNoSpacing, div.MsoNoSpacing
+	{mso-style-priority:1;
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+span.MsoSubtleEmphasis
+	{mso-style-priority:19;
+	color:gray;
+	font-style:italic;}
+span.Heading1Char
+	{mso-style-name:"Heading 1 Char";
+	mso-style-priority:9;
+	mso-style-link:"Heading 1";
+	font-family:"Cambria","serif";
+	color:#365F91;
+	font-weight:bold;}
+span.SubtitleChar
+	{mso-style-name:"Subtitle Char";
+	mso-style-priority:11;
+	mso-style-link:Subtitle;
+	font-family:"Cambria","serif";
+	color:#4F81BD;
+	letter-spacing:.75pt;
+	font-style:italic;}
+.MsoChpDefault
+	{mso-style-type:export-only;}
+.MsoPapDefault
+	{mso-style-type:export-only;
+	margin-bottom:10.0pt;
+	line-height:115%;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext=3D"edit">
+  <o:idmap v:ext=3D"edit" data=3D"1" />
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=3DEN-US>
+
+<div class=3DSection1>
+
+<p class=3DMsoNoSpacing><span =
+style=3D'font-size:14.0pt;font-family:"Cambria","serif"'>Hi
+DorianVasco Nagel,<o:p></o:p></span></p>
+
+<p class=3DMsoNoSpacing><span =
+style=3D'font-size:14.0pt;font-family:"Cambria","serif"'>&nbsp;<o:p></o:p=
+></span></p>
+
+<p class=3DMsoNoSpacing><span class=3DMsoSubtleEmphasis><span =
+style=3D'font-size:
+14.0pt;font-family:"Cambria","serif";color:windowtext;font-style:normal'>=
+I hope
+you are doing well.<o:p></o:p></span></span></p>
+
+<p class=3DMsoNoSpacing><span class=3DMsoSubtleEmphasis><span =
+style=3D'font-size:
+14.0pt;font-family:"Cambria","serif";color:windowtext;font-style:normal'>=
+&nbsp;</span></span><span
+class=3DMsoSubtleEmphasis><span =
+style=3D'font-size:14.0pt;font-family:"Cambria","serif";
+color:red;font-style:normal'><o:p></o:p></span></span></p>
+
+<p class=3DMsoNoSpacing><span class=3DMsoSubtleEmphasis><b><span =
+style=3D'font-size:
+14.0pt;font-family:"Cambria","serif";color:red;font-style:normal'>We are =
+an
+(India) based reputed company in offering highly reliable web =
+development, iOS
+app development, Android app development, iPhone app development, Web =
+app
+development and Fb app development.</span></b></span><span
+class=3DMsoSubtleEmphasis><span =
+style=3D'font-size:14.0pt;font-family:"Cambria","serif";
+color:red;font-style:normal'><o:p></o:p></span></span></p>
+
+<p class=3DMsoNoSpacing><span class=3DMsoSubtleEmphasis><span =
+style=3D'font-size:
+14.0pt;font-family:"Cambria","serif";color:windowtext;font-style:normal'>=
+&nbsp;<o:p></o:p></span></span></p>
+
+<p class=3DMsoNoSpacing><span class=3DMsoSubtleEmphasis><span =
+style=3D'font-size:
+14.0pt;font-family:"Cambria","serif";color:windowtext;font-style:normal'>=
+We
+offer a range of services that include:-<o:p></o:p></span></span></p>
+
+<p class=3DMsoNoSpacing><span class=3DMsoSubtleEmphasis><b><span =
+style=3D'font-size:
+14.0pt;font-family:"Cambria","serif";color:windowtext;font-style:normal'>=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =
+<o:p></o:p></span></b></span></p>
+
+<p class=3DMsoNoSpacing><span class=3DMsoSubtleEmphasis><b><span =
+style=3D'font-size:
+14.0pt;font-family:"Cambria","serif";color:#0070C0;font-style:normal'>Mob=
+ile
+Application: - iPhone &amp; Android Apps, iPad App Development, =
+Enterprise
+Mobility, App design, IoT based Apps, ERP/CRM Mobile Apps, Custom Mobile =
+App
+Development, App Development for Unique Ideas.</span></b></span><span
+class=3DMsoSubtleEmphasis><b><span =
+style=3D'font-size:14.0pt;font-family:"Cambria","serif";
+color:windowtext;font-style:normal'><o:p></o:p></span></b></span></p>
+
+<p class=3DMsoNoSpacing><span class=3DMsoSubtleEmphasis><span =
+style=3D'font-size:
+14.0pt;font-family:"Cambria","serif";color:windowtext;font-style:normal'>=
+&nbsp;<o:p></o:p></span></span></p>
+
+<p class=3DMsoNoSpacing><span class=3DMsoSubtleEmphasis><span =
+style=3D'font-size:
+14.0pt;font-family:"Cambria","serif";color:#002060;font-style:normal'>If =
+you
+are interested these services so give me your contact number or drop me =
+a Phone
+number/email/Skype ID, so that we can discuss the possible synergies =
+between
+us.<o:p></o:p></span></span></p>
+
+<p class=3DMsoNoSpacing><span class=3DMsoSubtleEmphasis><span =
+style=3D'font-size:
+14.0pt;font-family:"Cambria","serif";color:windowtext;font-style:normal'>=
+&nbsp;<o:p></o:p></span></span></p>
+
+<p class=3DMsoNoSpacing><span class=3DMsoSubtleEmphasis><span =
+style=3D'font-size:
+14.0pt;font-family:"Cambria","serif";color:windowtext;font-style:normal'>=
+<o:p>&nbsp;</o:p></span></span></p>
+
+<p class=3DMsoNoSpacing><span class=3DMsoSubtleEmphasis><b><span =
+style=3D'font-size:
+14.0pt;font-family:"Cambria","serif";color:windowtext;font-style:normal'>=
+Best
+Regards<o:p></o:p></span></b></span></p>
+
+<p class=3DMsoNoSpacing><span class=3DMsoSubtleEmphasis><b><span =
+style=3D'font-size:
+14.0pt;font-family:"Cambria","serif";color:windowtext;font-style:normal'>=
+Mohamed,<o:p></o:p></span></b></span></p>
+
+<p class=3DMsoNoSpacing><span class=3DMsoSubtleEmphasis><b><span =
+style=3D'font-size:
+14.0pt;font-family:"Cambria","serif";color:windowtext;font-style:normal'>=
+Business
+Development Manager (India)<o:p></o:p></span></b></span></p>
+
+<p class=3DMsoNoSpacing><b><span =
+style=3D'font-size:14.0pt;font-family:"Cambria","serif"'><o:p>&nbsp;</o:p=
+></span></b></p>
+
+</div>
+
+</body>
+
+</html>
+
+------=_NextPart_000_0560_01D4204F.311A9D40--
+

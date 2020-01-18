@@ -1,0 +1,79 @@
+Return-Path: <seymourkuwabararahdnl@aol.com>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 685C7D4B69
+	for <mail@dorianvasco.de>; Wed, 22 Nov 2017 04:43:20 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: 0.499
+X-Spam-Level:
+X-Spam-Status: No, score=0.499 required=5.5 tests=[BAYES_20=-0.001,
+	DKIM_SIGNED=0.1, DKIM_VALID=-0.1, FREEMAIL_FROM=0.001,
+	HTML_MESSAGE=0.001, RCVD_IN_DNSWL_NONE=-0.0001,
+	RCVD_IN_SORBS_SPAM=0.5, RP_MATCHES_RCVD=-0.001, SPF_PASS=-0.001]
+	autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id mvytc2k3pbNr for <mail@dorianvasco.de>;
+	Wed, 22 Nov 2017 04:43:19 +0100 (CET)
+Received: from omr-m001e.mx.aol.com (omr-m001e.mx.aol.com [204.29.186.1])
+	(using TLSv1 with cipher ADH-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id 24FBDC27F8
+	for <mail@dorianvasco.de>; Wed, 22 Nov 2017 04:43:19 +0100 (CET)
+Received: from mtaomg-aab01.mx.aol.com (mtaomg-aab01.mx.aol.com [172.26.126.207])
+	by omr-m001e.mx.aol.com (Outbound Mail Relay) with ESMTP id B438A38000D7
+	for <mail@dorianvasco.de>; Tue, 21 Nov 2017 22:43:18 -0500 (EST)
+Received: from core-mdx05b.mail.aol.com (core-mdx05.mail.aol.com [10.73.15.192])
+	by mtaomg-aab01.mx.aol.com (OMAG/Core Interface) with ESMTP id 45DD838000086
+	for <mail@dorianvasco.de>; Tue, 21 Nov 2017 22:43:18 -0500 (EST)
+Received: from 107.152.246.64 by webjas-vad015.srv.aolmail.net (10.96.35.18) with HTTP (WebMailUI); Tue, 21 Nov 2017 22:43:18 -0500
+Date: Tue, 21 Nov 2017 22:43:18 -0500
+From: Claudette Tchimbembe <seymourkuwabararahdnl@aol.com>
+To: mail@dorianvasco.de
+Message-Id: <15fe1d2a085-c07-20bea@webjas-vad015.srv.aolmail.net>
+Subject: tecsgroup(net)
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_174342_65639052.1511322198149"
+X-MB-Message-Source: WebUI
+X-MB-Message-Type: User
+X-Mailer: JAS STD
+X-Originating-IP: [107.152.246.64]
+x-aol-global-disposition: G
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mx.aol.com;
+	s=20150623; t=1511322198;
+	bh=OMykTnIkhl+GtkNo5Gu8Uip/EqvxIooLukHXMG6KiDA=;
+	h=From:To:Subject:Message-Id:Date:MIME-Version:Content-Type;
+	b=4/mDwqIVd9cCre8SSNBSsgunQNDw1f9NZrUoagFw+1vlWzBeh7oQAzcmMr35tAV9z
+	 NPe1e/rkFzEnPAh7YRXqJ2IDjA775yYeiZtNe+I2WPD2ZWPV8VGLccxO0NLKms+twi
+	 0WB70MySGbrKrU0/NzxH8klSvQhBWc323utntrkI=
+x-aol-sid: 3039ac1a7ecf5a14f2564909
+
+------=_Part_174342_65639052.1511322198149
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+Hello,
+
+I am trying to find interested parties for my tecsgroup(net) domain name.
+
+Please do let me know if you are interested.
+
+Thanks.
+Claudette
+
+------=_Part_174342_65639052.1511322198149
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<font color='black' size='2' face='arial'>Hello,<br>
+<br>
+I am trying to find interested parties for my tecsgroup(net) domain name.<br>
+<br>
+Please do let me know if you are interested.<br>
+<br>
+Thanks.<br>
+Claudette<br>
+</font>
+------=_Part_174342_65639052.1511322198149--

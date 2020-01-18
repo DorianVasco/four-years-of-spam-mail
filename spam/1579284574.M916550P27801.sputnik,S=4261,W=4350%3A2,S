@@ -1,0 +1,89 @@
+Return-Path: <paul@guestpostingagency.com>
+Delivered-To: mail@elementk.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 0F9F3C7B15
+	for <mail@elementk.de>; Mon, 21 Oct 2019 10:09:32 +0200 (CEST)
+Authentication-Results: v22014122474822114.stilfilm.com; dkim=pass
+	reason="2048-bit key; insecure key"
+	header.d=guestpostingagency-com.20150623.gappssmtp.com header.i=@guestpostingagency-com.20150623.gappssmtp.com
+	header.b=PyZvBnwI; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: 3.168
+X-Spam-Level: ***
+X-Spam-Status: No, score=3.168 required=5.5 tests=[BAYES_50=0.8,
+	DKIM_SIGNED=0.1, DKIM_VALID=-0.1, RCVD_HELO_IP_MISMATCH=2.368]
+	autolearn=no autolearn_force=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id B-Uw5Eeb-bto for <mail@elementk.de>;
+	Mon, 21 Oct 2019 10:09:25 +0200 (CEST)
+Received: from mail-lf1-f67.google.com (mail-lf1-f67.google.com [209.85.167.67])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id B99DDC7886
+	for <mail@elementk.de>; Mon, 21 Oct 2019 10:09:19 +0200 (CEST)
+Received: by mail-lf1-f67.google.com with SMTP id y127so9324095lfc.0
+        for <mail@elementk.de>; Mon, 21 Oct 2019 01:09:19 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=guestpostingagency-com.20150623.gappssmtp.com; s=20150623;
+        h=mime-version:from:reply-to:to:subject:content-transfer-encoding
+         :date:message-id;
+        bh=kj8humjEb4IoHgMh8mrtLeSQUJgI5tOrCcisn9Dd2Uw=;
+        b=PyZvBnwIvGeeWYUQdWmSesMZD/YvKWH7BsWdwf7HX2ORfYZeeR6igJJf31f+wgJLGu
+         Y5tYWsUOZ2Nkz/jL/g+efWLMgjPk5iO9mwHMCPI/CydQ3WcVtmRzB1iwyDKO14gPDOFZ
+         I/CXk9KcbxwApg9XjbYwn65QdV8EOXv9PNrvtXIwNU6aCpYk6vK20Cojl1ppNMYMcQ0O
+         1joklpT1++ufkYFs1u69hIPYbdn3wNXkvfpTgOahovZ1QexQ/ChMUzUZhjTDZm0BYOcL
+         BAzJ0znPiFRqxxP2Nq2mD5YwXII8masjPCmzydgrKaQiU5acUtAiyGe4697dOUN2BHlU
+         TxVw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:reply-to:to:subject
+         :content-transfer-encoding:date:message-id;
+        bh=kj8humjEb4IoHgMh8mrtLeSQUJgI5tOrCcisn9Dd2Uw=;
+        b=qJQqXshpAquiymutE5avr6LuLmjfA1Ho8ACeM8CKU48XRswfHsh6WYbj1cOW//ikjm
+         QILU7Hmq1ttQyfALqIikhCY11RINtJjxMrS0xmIn5zMX7nmaSTeb2AgQrzGG+PlAtbcp
+         vv7YkZ3bG08gGtYNgJknu8PVNNd5qlQjCwgN6cyEYjVwjBT6JwVMbw3FuCVJVc5G8Mr4
+         zFi5YP4tNzVsb0Q8bYmxTp0YTkpSvhDqgUVeFSgZqXKG3fPlSo6kFKxNXXaEug+jidVY
+         HOiT/sJB7o1JTGZRa0eFCegjBagsnWBxD5eW0Ik0hIAaDjnYDvcLvScZsDqA7FeiVBF6
+         nKTQ==
+X-Gm-Message-State: APjAAAXA3jslUYAMtMif7qKM1WBwPZuigP7tAvw9vaN82enfzF5OqYot
+	+JqFXqJ0HQdXAXDOPUVQtWoNLosiOLM=
+X-Google-Smtp-Source: APXvYqzmJQJoLMeV9XUvOc0/K/JilvFbEIMNtrboRW3MV8fONudI/Ck17o+Au1APIbnTpI08W6Do7A==
+X-Received: by 2002:ac2:5396:: with SMTP id g22mr3801123lfh.3.1571645357987;
+        Mon, 21 Oct 2019 01:09:17 -0700 (PDT)
+Received: from 103.12.196.6 ([72.255.54.232])
+        by smtp.gmail.com with ESMTPSA id u21sm10139856lje.92.2019.10.21.01.09.16
+        for <mail@elementk.de>
+        (version=TLS1 cipher=AES128-SHA bits=128/128);
+        Mon, 21 Oct 2019 01:09:17 -0700 (PDT)
+MIME-Version: 1.0
+From: "Paul Taylor" <paul@guestpostingagency.com>
+Reply-To: paul@guestpostingagency.com
+To: mail@elementk.de
+Subject:  Guest Post Partnership
+Content-Type: text/plain
+Content-Transfer-Encoding: quoted-printable
+X-Mailer: Smart_Send_3_1_6
+Date: Mon, 21 Oct 2019 13:39:15 +0530
+Message-ID: <53523880260801970414930@DESKTOP-OM6H6T2>
+
+Hello,
+
+I have an OFFER for you!
+
+I want a Guest post on your website with unique and engaging content.
+
+The content should have do follow links with no porn or casino sites.
+
+PAYMENT method will be PayPal or Payoneer (Totally your choice!)
+
+Let me know about your rates per post. If the deal gets done I will definit=
+ely consider you in coming future as well.
+
+Regards,
+
+Paul Taylor.
+
+Blogger Outreach Expert.

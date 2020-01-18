@@ -1,0 +1,90 @@
+Return-Path: <mail@dorianvasco.de>
+Delivered-To: test@neu.elementk.de
+Received: from v22014122474822114.stilfilm.com (v22014122474822114.stilfilm.com [37.120.171.113])
+	(using TLSv1.2 with cipher AECDH-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by sputnik.dododata.de (Postfix) with ESMTPS id C2C4B7E4F4D
+	for <test@neu.elementk.de>; Sun, 12 Jan 2020 02:35:07 +0100 (CET)
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id D963FC14E5
+	for <test@neu.elementk.de>; Sun, 12 Jan 2020 02:29:28 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id SxSL1cI1y1-i for <test@neu.elementk.de>;
+	Sun, 12 Jan 2020 02:29:20 +0100 (CET)
+Received: from [192.168.0.120] (mue-88-130-57-232.dsl.tropolys.de [88.130.57.232])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPSA id 80FA9C1B9B
+	for <test@neu.elementk.de>; Sun, 12 Jan 2020 02:29:03 +0100 (CET)
+Resent-From: Dorian-Vasco
+ <mail@dorianvasco.de>
+Resent-To: test@neu.elementk.de
+Resent-Date: Sun, 12 Jan 2020 02:29:02 +0100
+Resent-Message-ID: <d0c76d38-4560-ea0d-5639-9596a656a907@dorianvasco.de>
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 88004C3DA5
+	for <mail@dorianvasco.de>; Mon,  6 Jan 2020 15:33:51 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id uKUXMOKL4eXI for <mail@dorianvasco.de>;
+	Mon,  6 Jan 2020 15:33:50 +0100 (CET)
+Received: from mail.edu.tw (unknown [163.28.10.61])
+	by v22014122474822114.stilfilm.com (Postfix) with SMTP id 9B77FC3D71
+	for <mail@dorianvasco.de>; Mon,  6 Jan 2020 15:33:41 +0100 (CET)
+Received: from 202.138.239.235
+	by mail61.edu.tw with Mail2000 ESMTP Server V6.00(8163:0:AUTH_LOGIN)
+	(envelope-from <tkes105001@mail.edu.tw>); Mon, 06 Jan 2020 22:33:30 +0800 (CST)
+To: "mail" <mail@dorianvasco.de>
+From: alena_030 <tkes105001@mail.edu.tw>
+Subject: =?UTF-8?Q?Fw=3AServus._lange_nichts_von_dir_?= =?UTF-8?Q?geh=C3=B6rt?=
+Message-ID: <7e5cfd92-6ee4-48b5-b519-ef0158e1627a@mail.edu.tw>
+Date: Mon, 6 Jan 2020 10:27:33 -0400
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64; rv:60.0) Gecko/20100101
+ Thunderbird/60.8.0
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8; format=flowed
+Content-Transfer-Encoding: 7bit
+Content-Language: en-US
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=elementk.de;
+	s=2020; t=1578792908;
+	h=from:from:reply-to:subject:subject:date:date:message-id:message-id:
+	 to:to:cc:mime-version:mime-version:content-type:content-type:
+	 content-transfer-encoding:content-transfer-encoding:resent-to:
+	 resent-from:resent-message-id;
+	bh=RQyquBfbXnUlN8bpJ/p3ntOlCyzy4B19qFFNZ9ludSY=;
+	b=Igj9Rh51D6Q39+4VTbKUakR1cqjcuxch4P8R4ipNLs09YsaF6qGob41s+5H+bJFUJRX048
+	YMKcDc9mHQMCKI9GEHKSWUmcTFmM8MGBo9CzcSsJlvYFHCVD+5FK7OFaoy7Enz3sDIgVRl
+	Jzp0nWcqUym1dpetR40v5A/tOaYDG3XcLyKKdqBVFZz9qw4OpRypPNAAXj3vRWlQMweWQU
+	Q4xe88KX25eVaw4SLixRgAZSCb7hYLlgxUTPmmVA2tNkFhgKwzN/DoxRvUybTb/24Yw+Se
+	I0teiBs7oc+oMnPbrG8RWXF4DuTAUwPWK4jAh7rtSQ6pupB6cIir0V46WYiM0w==
+ARC-Seal: i=1; s=2020; d=elementk.de; t=1578792908; a=rsa-sha256; cv=none;
+	b=BcPw+Lalf0FN1t5knPQlj30q4zT407/raPFOKddqSnlhkxHvFTmFU4kOUOwKvmzRI78cH1
+	RCY4O3r24d1sorJqQ2BQ0ByQQ31Gx8dM1bZ8+dTZfjXrKoYq5De5X03CiNxEfzKtC5oq10
+	TdBdyXYibNoHnucJHGugERrIv2IhKR7x+j1hAUIVtguNh1yzBZo2PiJd+xOoKnZpxTqSUU
+	Cm+kpkQqeep7bIpIkc+M/vHSAYpxkqwI9I5d/T4/yJEi2K9yozWGw2w9FQqpVp96MFCPHs
+	EMoCnp3AOzzO0kEtUCPAJcGx9BLrYXW9U+4z0YXnAnYheoRmxKR1C5TfPIX2tg==
+ARC-Authentication-Results: i=1;
+	sputnik.dododata.de;
+	dkim=none;
+	spf=pass (sputnik.dododata.de: domain of mail@dorianvasco.de designates 37.120.171.113 as permitted sender) smtp.mailfrom=mail@dorianvasco.de
+X-Spamd-Bar: +++++++++++
+X-Spam-Level: ***********
+Authentication-Results: sputnik.dododata.de;
+	dkim=none;
+	dmarc=none;
+	spf=pass (sputnik.dododata.de: domain of mail@dorianvasco.de designates 37.120.171.113 as permitted sender) smtp.mailfrom=mail@dorianvasco.de
+X-Spam: Yes
+
+Ich hätte das nicht für möglich gehalten! https://darchicksucap1987.blogspot.ro/
+Schöne Lieder, warme Worte- Weihnachtliche Wünsche und ruhige Orte.
+
+
+___
+Adieu
+
+alena_030@yahoo.com
+--
+1/6/2020 6:27:33 AM

@@ -1,0 +1,174 @@
+Received: from localhost by v22014122474822114.stilfilm.com
+	with SpamAssassin (version 3.3.2);
+	Wed, 22 Nov 2017 21:13:10 +0100
+From: "Carolyn Lewis" <carolynlewisa@gmail.com>
+To: <mail@dorianvasco.de>
+Subject: *****SPAM***** ***SPAM*** Hire dedicated apps developers
+Date: Thu, 26 Oct 2017 20:02:55 GMT
+Message-Id: <20171026125335-1.1.5.14h2.0.a1mp4e4wk4@openemm.net>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	v22014122474822114.stilfilm.com
+X-Spam-Flag: YES
+X-Spam-Level: *******
+X-Spam-Status: Yes, score=7.4 required=5.0 tests=DKIM_ADSP_CUSTOM_MED,
+	FREEMAIL_FROM,HTML_IMAGE_ONLY_12,HTML_MESSAGE,NML_ADSP_CUSTOM_MED,
+	RCVD_IN_BRBL_LASTEXT,RCVD_IN_SBL,RDNS_DYNAMIC,T_REMOTE_IMAGE autolearn=no
+	version=3.3.2
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----------=_5A15DA56.EB7C9335"
+
+This is a multi-part message in MIME format.
+
+------------=_5A15DA56.EB7C9335
+Content-Type: text/plain; charset=iso-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+
+Software zur Erkennung von "Spam" auf dem Rechner
+
+    v22014122474822114.stilfilm.com
+
+hat die eingegangene E-mail als mögliche "Spam"-Nachricht identifiziert.
+Die ursprüngliche Nachricht wurde an diesen Bericht angehängt, so dass
+Sie sie anschauen können (falls es doch eine legitime E-Mail ist) oder
+ähnliche unerwünschte Nachrichten in Zukunft markieren können.
+Bei Fragen zu diesem Vorgang wenden Sie sich bitte an
+
+    the administrator of that system
+
+Vorschau: Hello Sir/MaÃ¢Â€Â™am We are an interactive and highly professional
+   agency that focuses on truly collaborative Mobile Apps Development along
+  with brand making. We are offering: Ã¢Â€Â¢ Android Apps Development Ã¢Â€Â¢
+   iPhone Apps Development Technologies we are mastering over: [...] 
+
+Inhaltsanalyse im Detail:   (7.4 Punkte, 5.0 benötigt)
+
+Pkte Regelname              Beschreibung
+---- ---------------------- --------------------------------------------------
+ 2.6 RCVD_IN_SBL            RBL: Transportiert via Rechner in SBL-Liste
+                            (http://www.spamhaus.org/sbl/)
+                            [94.237.64.187 listed in zen.spamhaus.org]
+ 1.6 RCVD_IN_BRBL_LASTEXT   RBL: RCVD_IN_BRBL_LASTEXT
+                            [94.237.64.187 listed in bb.barracudacentral.org]
+ 0.0 FREEMAIL_FROM          Sender email is commonly abused enduser mail provider
+                            (carolynlewisa[at]gmail.com)
+ 0.0 DKIM_ADSP_CUSTOM_MED   No valid author signature, adsp_override is
+                            CUSTOM_MED
+ 1.6 HTML_IMAGE_ONLY_12     BODY: Außer Bildern nur 800-1200 Zeichen Text
+ 0.0 HTML_MESSAGE           BODY: Nachricht enthält HTML
+ 0.4 RDNS_DYNAMIC           Delivered to internal network by host with
+                            dynamic-looking rDNS
+ 1.2 NML_ADSP_CUSTOM_MED    ADSP custom_med hit, and not from a mailing list
+ 0.0 T_REMOTE_IMAGE         Message contains an external image
+
+Die ursprüngliche Nachricht enthielt nicht ausschließlich Klartext
+(plain text) und kann eventuell eine Gefahr für einige E-Mail-Programme
+darstellen (falls sie z.B. einen Computervirus enthält).
+Möchten Sie die Nachricht dennoch ansehen, ist es wahrscheinlich
+sicherer, sie zuerst in einer Datei zu speichern und diese Datei danach
+mit einem Texteditor zu öffnen.
+
+
+------------=_5A15DA56.EB7C9335
+Content-Type: message/rfc822; x-spam-type=original
+Content-Description: original message before SpamAssassin
+Content-Disposition: attachment
+Content-Transfer-Encoding: 8bit
+
+Return-Path: <carolynlewisa@gmail.com>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 1C19AD4D2F
+	for <mail@dorianvasco.de>; Thu, 26 Oct 2017 22:51:19 +0200 (CEST)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 6.867
+X-Spam-Level: ******
+X-Spam-Status: Yes, score=6.867 required=5.5 tests=[BAYES_50=0.8,
+	DKIM_ADSP_CUSTOM_MED=0.001, FREEMAIL_FROM=0.001,
+	HTML_IMAGE_ONLY_12=2.059, HTML_MESSAGE=0.001, NML_ADSP_CUSTOM_MED=0.9,
+	RCVD_IN_BRBL_LASTEXT=1.449, RDNS_DYNAMIC=0.982, SPF_HELO_PASS=-0.001,
+	SPF_SOFTFAIL=0.665, T_REMOTE_IMAGE=0.01] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 3GCOEOt05dbM for <mail@dorianvasco.de>;
+	Thu, 26 Oct 2017 22:51:14 +0200 (CEST)
+Received: from mail.creativewebliquids.com (94-237-64-187.sg-sin1.host.upcloud.com [94.237.64.187])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id 9E552D1FA4
+	for <mail@dorianvasco.de>; Thu, 26 Oct 2017 22:51:13 +0200 (CEST)
+Received: by openemm.net for <mail@dorianvasco.de>; Thu, 26 Oct 2017 20:02:55 GMT
+Message-ID: <20171026125335-1.1.5.14h2.0.a1mp4e4wk4@openemm.net>
+Date: Thu, 26 Oct 2017 20:02:55 GMT
+From: "Carolyn Lewis" <carolynlewisa@gmail.com>
+To: <mail@dorianvasco.de>
+Subject: ***SPAM*** Hire dedicated apps developers
+X-Mailer: OpenEMM V2015
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="-==AGNITASOUTER164240059B29000005=="
+
+This is a multi-part message in MIME format.
+
+---==AGNITASOUTER164240059B29000005==
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello Sir/Ma=E2=80=99am
+
+We are an interactive and highly professional agency that focuses on
+truly collaborative Mobile Apps Development along with brand making.
+
+We are offering:
+=E2=80=A2	Android Apps Development
+=E2=80=A2	iPhone Apps Development
+Technologies we are mastering over:
+
+Swift,Objective c,Java,Android sdk, IOS sdk, Quickblox,Xmpp server,Core
+data, Restful web services, Third party api,different payment gateway
+etc..
+
+Hope to hear from you soon.
+
+Kinds Regards,
+Carolyn Lewis
+Business Development Services
+Hand Phone: +1 818 824 6002
+Our Offices: USA | India | Australia
+---==AGNITASOUTER164240059B29000005==
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<img src=3D"http://localhost:8080/g.html?uid=3D1.5.14h2.0.o5lpb79emu" alt=
+=3D"" border=3D"0" height=3D"1" width=3D"1"/>Hello Sir/Ma&rsquo;am<br />
+&nbsp;<br />
+We are an interactive and highly professional agency that focuses on trul=
+y collaborative <strong>Mobile Apps Development</strong> along with brand=
+ making.<br />
+&nbsp;<br />
+We are offering:<br />
+<br />
+&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Android =
+Apps Development</strong><br />
+&middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>iPhone A=
+pps Development</strong><br />
+<br />
+Technologies we are mastering over:<br />
+<br />
+<strong>Swift,Objective c,Java,Android sdk, IOS sdk, Quickblox,Xmpp serve=
+r,Core data, Restful web services, Third party api,different payment gate=
+way etc..</strong><br />
+&nbsp;<br />
+Hope to hear from you soon.&nbsp;&nbsp;&nbsp;<br />
+&nbsp;<br />
+<strong>Kinds Regards,<br />
+Carolyn Lewis</strong><br />
+<strong>Business Development Services</strong><br />
+<strong>Hand Phone: +1 818 824 6002<br />
+Our Offices: USA | India | Australia</strong><br />
+---==AGNITASOUTER164240059B29000005==--
+
+
+------------=_5A15DA56.EB7C9335--
+

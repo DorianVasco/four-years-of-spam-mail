@@ -1,0 +1,689 @@
+Return-Path: <return-a400-61494-61495-8a47c625=200437775=8@media-channelpro.de>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 869C5D2453
+	for <mail@dorianvasco.de>; Mon,  8 Jul 2019 11:43:45 +0200 (CEST)
+Authentication-Results: v22014122474822114.stilfilm.com; dkim=pass
+	reason="1024-bit key; insecure key"
+	header.d=media-channelpro.de header.i=@media-channelpro.de
+	header.b=CqcyKSXD; dkim-adsp=pass; dkim-atps=neutral
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 6.153
+X-Spam-Level: ******
+X-Spam-Status: Yes, score=6.153 required=5.5 tests=[BAYES_50=0.8,
+	DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	HTML_IMAGE_RATIO_02=0.001, HTML_MESSAGE=0.001, SPF_HELO_NONE=0.001,
+	URIBL_ABUSE_SURBL=1.25, URIBL_BLACK=1.7, URIBL_DBL_SPAM=2.5]
+	autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id A1SbsqJcb4ui for <mail@dorianvasco.de>;
+	Mon,  8 Jul 2019 11:43:38 +0200 (CEST)
+Received: from smtp7-025.mediachannel-deals.de (smtp7-025.mediachannel-deals.de [149.202.141.131])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id D3F00D2432
+	for <kontakt@dorianvasco.de>; Mon,  8 Jul 2019 11:43:34 +0200 (CEST)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; d=media-channelpro.de; s=premmail;
+ t=1562579013; bh=1F/ev542TdEtsk3SWKL2JmR/XwY=;
+ h=Subject:From:To:Reply-To:Date:List-Unsubscribe:X-CampaignID:
+  Message-ID:X-Mailer-Info:MIME-Version:Content-Type;
+ b=CqcyKSXDAIaQCIdDxqz8fNckfJC5+y6H+6ZR9G/4fz1+/jsR4W9fadGPXIKUkopLU
+  ylQtpoD0dZgOTNMhh4Qohs1xnrrg9XSPCn3oqco/ZlBg2SvBw6AsMw4LaIlnLCa9CX
+  BGWLKiBtQeXzOaehzZpUmwWn+CfUJUwXYoKVJTEw=
+Subject: =?UTF-8?Q?Die=20Kreuzfahrtseite=20mit=20gro=C3=9Fem=20Gewinnsp?=
+ =?UTF-8?Q?iel?=
+From: "Jetzt informieren" <info@media-channelpro.de>
+To: kontakt@dorianvasco.de
+Reply-To: noreply@media-channelpro.de
+Date: 08 Jul 2019 09:43:33 -0000
+List-Unsubscribe: <http://media-channelpro.de/ga/unsubscribe/2-200437775-400-22455-61495-3dd7770685275ec-ca4d27dfa8?confirmed=1>,
+ <mailto:return-a400-61494-61495-8a47c625=200437775=8u@media-channelpro.de>
+X-CampaignID: s4:61494-b90ee911915f925f
+Message-ID: <mid-dc8ca02b53c9a868d68cfb5cc94ceef9-14@media-channelpro.de>
+X-Mailer-Info: 8.QY0ADM.YTM0kDN.wav5GdhtGdAR2bylWYuZXYzN2buQWZ.yADM0MzN3cTN.YTM0kTN
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="==6e61655e54e9204bbbd2807aa35b6a84"
+
+This is a multi-part message in MIME format.
+
+--==6e61655e54e9204bbbd2807aa35b6a84
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Gewinnspiel
+
+Die Kreuzfahrtseite mit gro=C3=9Fem
+Gewinnspiel.
+
+Online Version ( http://media-channelpro.de/ga/webviews/4-200437775-400-224=
+55-24824-61495-ac8127424e )
+
+Kreuzfahrten Kompass - Ihr
+Portal f=C3=BCr alles rund um Kreuzfahrten. Erfahren Sie alles zum
+Thema! ( http://media-channelpro.de/ga/click/2-200437775-400-22455-61495-19=
+02891-4f82861c18-ca4d27dfa8 )
+
+Kreuzfahrten Kompass - Ihr
+Portal f=C3=BCr alles rund um Kreuzfahrten. Erfahren Sie alles zum
+Thema! ( http://media-channelpro.de/ga/click/2-200437775-400-22455-61495-19=
+02892-fd6082cae4-ca4d27dfa8 )
+
+Sehr geehrte Damen und Herren,
+
+gro=C3=9Fer Luxus, unvergessliches Abenteuer oder
+einfach nur entspanntes Reisen: zum Thema Kreuzfahrt hat jeder
+eine andere Meinung. Mit =E2=80=9EKreuzfahrten Kompass=E2=80=9C gibt es end=
+lich
+eine Homepage, die jedem ganz einfach und verst=C3=A4ndlich zeigt, was
+es mit dem gr=C3=B6=C3=9Ften Trend der Tourismusbranche wirklich auf sich
+hat. Bei uns k=C3=B6nnen sogar erfahrene Kreuzfahrer noch etwas
+dazulernen!
+
+Maritime Themen f=C3=BCr Sie
+
+=E2=80=A2 ( http://media-channelpro.de/ga/click/2-200437775-400-22455-61495=
+-1902893-cf51ba0fb1-ca4d27dfa8 )
+Spannende Routen ( http://media-channelpro.de/ga/click/2-200437775-400-2245=
+5-61495-1902893-cf51ba0fb1-ca4d27dfa8 )
+
+=E2=80=A2 ( http://media-channelpro.de/ga/click/2-200437775-400-22455-61495=
+-1902894-4f8797588f-ca4d27dfa8 )
+Alle Schiffstypen ( http://media-channelpro.de/ga/click/2-200437775-400-224=
+55-61495-1902894-4f8797588f-ca4d27dfa8 )
+
+=E2=80=A2 ( http://media-channelpro.de/ga/click/2-200437775-400-22455-61495=
+-1902895-9da0df52be-ca4d27dfa8 )
+Die wichtigsten Reiseanbieter ( http://media-channelpro.de/ga/click/2-20043=
+7775-400-22455-61495-1902895-9da0df52be-ca4d27dfa8 )
+
+=E2=80=A2 ( http://media-channelpro.de/ga/click/2-200437775-400-22455-61495=
+-1902896-4fb3d97f81-ca4d27dfa8 )
+Unz=C3=A4hlige Reisehighlights ( http://media-channelpro.de/ga/click/2-2004=
+37775-400-22455-61495-1902896-4fb3d97f81-ca4d27dfa8 )
+
+=E2=80=A2 ( http://media-channelpro.de/ga/click/2-200437775-400-22455-61495=
+-1902897-55ef4b286b-ca4d27dfa8 )
+Clevere Spartipps ( http://media-channelpro.de/ga/click/2-200437775-400-224=
+55-61495-1902897-55ef4b286b-ca4d27dfa8 )
+
+=E2=80=A2 ( http://media-channelpro.de/ga/click/2-200437775-400-22455-61495=
+-1902898-54b2ba97b9-ca4d27dfa8 )
+Und viel mehr! ( http://media-channelpro.de/ga/click/2-200437775-400-22455-=
+61495-1902898-54b2ba97b9-ca4d27dfa8 )
+
+Das gro=C3=9Fe Kreuzfahrt-Gewinnspiel - Zwei Tickets f=C3=BCr die
+AIDAnowa! - Jetzt mitmachen ( http://media-channelpro.de/ga/click/2-2004377=
+75-400-22455-61495-1902891-4f82861c18-ca4d27dfa8 )
+
+Jetzt mit machen ( http://media-channelpro.de/ga/click/2-200437775-400-2245=
+5-61495-1902891-4f82861c18-ca4d27dfa8 )
+
+Das gro=C3=9Fe Kreuzfahrt-Gewinnspiel
+
+Zwei Tickets f=C3=BCr die AIDAnowa!
+
+Jetzt mitmachen ( http://media-channelpro.de/ga/click/2-200437775-400-22455=
+-61495-1902891-4f82861c18-ca4d27dfa8 )
+
+Jetzt mit machen ( http://media-channelpro.de/ga/click/2-200437775-400-2245=
+5-61495-1902899-2fefb3f708-ca4d27dfa8 )
+
+Jetzt mitmachen ( http://media-channelpro.de/ga/click/2-200437775-400-22455=
+-61495-1902899-2fefb3f708-ca4d27dfa8 )
+
+Der Test f=C3=BCr alle! Welcher Kreuzfahrt-Typ sind Sie?
+Hier geht's zum Test ( http://media-channelpro.de/ga/click/2-200437775-400-=
+22455-61495-1902899-2fefb3f708-ca4d27dfa8 )
+
+Kreuzfahrten Kompass ( http://media-channelpro.de/ga/click/2-200437775-400-=
+22455-61495-1902891-4f82861c18-ca4d27dfa8 )
+
+Datenschutz ( http://media-channelpro.de/ga/click/2-200437775-400-22455-614=
+95-1902900-3e8b54f767-ca4d27dfa8 )
+
+Impresseum ( http://media-channelpro.de/ga/click/2-200437775-400-22455-6149=
+5-1902900-3e8b54f767-ca4d27dfa8 )
+
+Sie erhalten diese E-Mail, weil Sie unsere Dienste in Anspruch
+nehmen oder an Gewinnspielen
+der Premium Performance Mail AG oder unserer
+Kooperationspartner teilgenommen haben. Die Angebote sind
+kommerzielle Anzeigen der jeweiligen Werbekunden,
+die f=C3=BCr den jeweiligen Inhalt verantwortlich sind.
+Bei Fragen zu den Angeboten haben, wenden Sie sich bitte an den
+in der Anzeige genannten Anbieter.
+Die Premium Performance Mail AG ist ausschlie=C3=9Flich
+Versender dieser Nachricht. Bitte antworten Sie nicht auf diese
+Mail. Um in Zukunft keine Informationen mehr von
+dieser Adresse zu erhalten, dann klicken Sie bitte
+hier ( http://media-channelpro.de/ga/unsubscribe/2-200437775-400-22455-6149=
+5-3dd7770685275ec-ca4d27dfa8 ), um sich abzumelden. Haben Sie
+Verst=C3=A4ndnis, dass die Abmeldung bis zu 48 Stunden dauern kann.
+
+Director Caroline Wange
+
+The Picasso Building, Caldervale Road, Wakefield, West
+Yorkshire, United Kingdom.=
+
+--==6e61655e54e9204bbbd2807aa35b6a84
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<!--[if gte mso 9]><xml>
+  <o:OfficeDocumentSettings>
+    <o:AllowPNG/>
+    <o:PixelsPerInch>96</o:PixelsPerInch>
+  </o:OfficeDocumentSettings>
+</xml><![endif]-->
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8">
+<meta name=3D"format-detection" content=3D"telephone=3Dno">
+<title>Gewinnspiel</title>
+<style type=3D"text/css">
+.ReadMsgBody { width:100%;}
+.ExternalClass {width:100%;}
+table {border-collapse:collapse; margin:0 auto;}
+.appleLinks a {color:#666666; text-decoration:none;}
+.appleLinksFooter a {color:#a1a1a1; text-decoration:none;}
+.txt-color:hover { color: #ffcc00 !important; }
+.mobile {border-spacing:0;display:none!important;height:0;max-height:0;mso-=
+hide:all;overflow:hidden;visibility:hidden;width:0;}
+@media only screen and (max-width:480px){
+  td[class=3D"web"], table[class=3D"web"], div[class=3D"web"], br[class=3D"=
+web"], span[class=3D"web"] {display:none !important;}
+  .mobile, td[class=3D"mobile"], table[class=3D"mobile"], img[class=3D"mobi=
+le"], div[class=3D"mobile"], tr[class=3D"mobile"] {
+    display:block !important; width:auto !important; overflow:visible !impo=
+rtant; height:auto !important; max-height:inherit !important; font-size:15p=
+x !important;=20
+    line-height:21px !important; visibility:visible !important;}
+  td[class=3D"full-width"], table[class=3D"full-width"] {width:100% !import=
+ant;}
+  table[class=3D"content-width"], td[class=3D"content-width"] {display:bloc=
+k !important; width:100% !important;}
+  table[class=3D"footer-content"], td[class=3D"footer-content"] {clear:both=
+ !important; display:block !important; width:auto !important;}
+  td[class=3D"mobile-spacer"], table[class=3D"mobile-spacer"] {width:20px !=
+important;}
+  img[class=3D"mobile-image"] {display:block !important; height:auto !impor=
+tant; max-height:inherit !important; overflow:visible !important; visibilit=
+y:visible !important; width:100% !important;}
+  a[class=3D"button"] {font-size:14px !important; line-height:38px !importa=
+nt; width:272px !important;}
+  td[class=3D"mobile-text"], table[class=3D"mobile-text"] {font-size:16px !=
+important; line-height:21px !important;}
+   td[class=3D"mobile-text1"], {font-size:20px !important; line-height:26px=
+ !important;}
+  td[class=3D"txt-lg"] {font-size:30px !important; line-height:32px !import=
+ant;}
+  td[class=3D"txt-md"] {font-size:18px !important; line-height:20px !import=
+ant;}
+  .txt-ctr, td[class=3D"txt-ctr"] {text-align:center !important;}
+  img[class=3D"social"] {height:35px !important; width:35px !important;}
+  td[class=3D"social-spacer"] {width:25px !important;}
+  td[class=3D"social-text"] {padding-left:5px !important;}
+  span[class=3D"social-head-mobile"] {font-size:20px !important; line-heigh=
+t:26px !important; font-family:Verdana, Arial, Helvetica, sans-serif !impor=
+tant; color:#6d7f8f !important; padding-left:50px !important;}
+}
+</style><style type=3D"text/css">
+@media only screen and (max-width: 600px) {
+.pas_center {
+  text-align: center !important;
+}
+.dynamische_breite {
+  width: 100% !important;
+  height: auto !important;
+}
+}
+</style>
+</head>
+<body bgcolor=3D"#022b50" style=3D"background:linear-gradient(180deg, #022b=
+50 10%, #2fb3c7 100%); margin:0; padding:0;-webkit-font-smoothing:antialias=
+ed;width:100% !important;-webkit-text-size-adjust:none;" topmargin=3D"0">
+<div style=3D"font-size:1px; color:#f0f0f0; display:none; overflow:hidden; =
+visibility:hidden;">
+Gewinnspiel
+</div>
+<table width=3D"100%" bgcolor=3D"#022b50" style=3D"background:linear-gradie=
+nt(180deg, #022b50 10%, #2fb3c7 100%);" border=3D"0" cellpadding=3D"0" cell=
+spacing=3D"0">
+  <tr>
+    <td valign=3D"top">
+      <table class=3D"full-width" align=3D"center" width=3D"600" border=3D"=
+0" cellpadding=3D"0" cellspacing=3D"0" bgcolor=3D"#022b50" style=3D"backgro=
+und-color:#022b50;">
+        <tr>
+          <td align=3D"left" style=3D"color:#ffffff; font-family:Verdana, A=
+rial, Helvetica, sans-serif; font-size:10px; line-height:13px; padding-top:=
+12px; padding-bottom:8px; padding-left:10px;">=20=20=20=20=20=20=20=20=20=
+=20=20=20
+                          Die Kreuzfahrtseite mit gro&szlig;em Gewinnspiel.
+        </td>
+          <td class=3D"web" align=3D"right" style=3D"color:#ffffff; font-fa=
+mily:Verdana, Arial, Helvetica, sans-serif; font-size:10px; line-height:13p=
+x; padding-top:12px; padding-bottom:8px;">
+            <a href=3D"http://media-channelpro.de/ga/webviews/4-200437775-4=
+00-22455-24824-61495-ac8127424e" _label=3D"Mirror Page" _type=3D"mirrorPage=
+" alias=3D"Read Online" target=3D"_blank" style=3D"color:#ffffff;">Online V=
+ersion</a>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td valign=3D"top">
+      <table class=3D"full-width" align=3D"center" width=3D"600" border=3D"=
+0" cellpadding=3D"0" cellspacing=3D"0">
+        <tr>
+          <td valign=3D"top">
+            <!-- BEGIN email content -->
+            <!-- header -->
+                                    <!--logo mobile-->
+                                    <div class=3D"mobile" bgcolor=3D"#fffff=
+f" style=3D"background-color:#ffffff; display:none;float:none;height:0;max-=
+height:0;overflow:hidden;width:0;">
+                    <table class=3D"mobile full-width" align=3D"center" wid=
+th=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"displ=
+ay:none;height:0;max-height:0;overflow:hidden;visibility:hidden;width:0;">
+                                            <tr>
+                                                <td class=3D"mobile" style=
+=3D"color:#666666; font-family:Verdana, Arial, Helvetica, sans-serif; font-=
+size:16px; line-height:20px; overflow:hidden;display:none;visibility:hidden=
+;width:0;">
+                                                    <div class=3D"mobile" s=
+tyle=3D"display:none;float:none;height:0;max-height:0;overflow:hidden;width=
+:0; padding-bottom:10px !important;"><br>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20
+                                                    </div>
+                                                  </td>
+                                            </tr>
+                                        </table>
+                                    </div><!--end logo mobile-->
+            <!-- END Header -->=20=20=20=20=20=20=20=20=20=20=20
+            <!-- Main Header Desktop -->
+            <table class=3D"web" align=3D"center" width=3D"600" border=3D"0=
+" cellpadding=3D"0" cellspacing=3D"0" bgcolor=3D"#ffffff" style=3D"backgrou=
+nd-color:#ffffff;">
+              <tr>
+                <td class=3D"web" valign=3D"top" style=3D"color:#666666; fo=
+nt-family:Verdana, Arial, Helvetica, sans-serif; font-size:16px; line-heigh=
+t:20px;">
+                                  <a href=3D"http://media-channelpro.de/ga/=
+click/2-200437775-400-22455-61495-1902891-4f82861c18-ca4d27dfa8" target=3D"=
+_blank"><img src=3D"https://zanl.s3.amazonaws.com/enigami/190509/images/Kre=
+uzfahrtKompass_Newsletter_header.jpg" alt=3D"Kreuzfahrten Kompass - Ihr Por=
+tal f&uuml;r alles rund um Kreuzfahrten. Erfahren Sie alles zum Thema!" wid=
+th=3D"600" height=3D"380" border=3D"0" hspace=3D"0" vspace=3D"0" style=3D"d=
+isplay:block; vertical-align:top;"></a>
+                                </td>
+              </tr>
+            </table>
+            <!-- Main Header Desktop -->
+            <!-- Main Header mobile -->
+            <div class=3D"mobile" bgcolor=3D"#ffffff" style=3D"background-c=
+olor:#ffffff; display:none;float:none;height:0;max-height:0;overflow:hidden=
+;width:0;">
+              <table class=3D"mobile full-width" align=3D"center" width=3D"=
+100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"display:non=
+e;height:0;max-height:0;overflow:hidden;visibility:hidden;width:0;">
+                <tr>
+                  <td class=3D"mobile" style=3D"color:#666666; font-family:=
+Verdana, Arial, Helvetica, sans-serif; font-size:16px; line-height:20px; ov=
+erflow:hidden;display:none;visibility:hidden;width:0;">
+                              <div class=3D"mobile" style=3D"display:none;f=
+loat:none;height:0;max-height:0;overflow:hidden;width:0;">
+                                 <a href=3D"http://media-channelpro.de/ga/c=
+lick/2-200437775-400-22455-61495-1902892-fd6082cae4-ca4d27dfa8" target=3D"_=
+blank"><img class=3D"mobile-image" src=3D"https://zanl.s3.amazonaws.com/eni=
+gami/190509/images/KreuzfahrtKompass_Newsletter_header.jpg" alt=3D"Kreuzfah=
+rten Kompass - Ihr Portal f&uuml;r alles rund um Kreuzfahrten. Erfahren Sie=
+ alles zum Thema!" width=3D"100%" height=3D"auto" border=3D"0" hspace=3D"0"=
+ vspace=3D"0" style=3D"display:none;max-height:0;overflow:hidden;vertical-a=
+lign:top;visibility:hidden;width:0;"></a>
+                                        </div>
+                                      </td>
+                </tr>
+              </table>
+            </div>
+            <!-- END mobile -->
+            <!-- main text -->
+            <table class=3D"full-width" align=3D"center" width=3D"600" bord=
+er=3D"0" cellpadding=3D"0" cellspacing=3D"0" bgcolor=3D"#ffffff" style=3D"b=
+ackground-color:#ffffff;">
+              <tr>
+                <td class=3D"mobile-spacer" width=3D"20">&nbsp;</td>
+                <td width=3D"580" class=3D"mobile-text" style=3D"color:#007=
+bc4; font-family:Verdana, Arial, Helvetica, sans-serif; font-size:15px; lin=
+e-height:22px; padding-top:24px;">
+                            <span style=3D"font-size:22px;">Sehr geehrte Da=
+men und Herren,</span><br><br>
+                  gro&szlig;er <b>Luxus</b>, unvergessliches <b>Abenteuer</=
+b> oder einfach nur entspanntes <b>Reisen:</b> zum <b>Thema Kreuzfahrt</b> =
+hat jeder eine andere Meinung. Mit <b>&#8222;Kreuzfahrten Kompass&ldquo;</b=
+> gibt es endlich <b>eine Homepage,</b> die jedem ganz einfach und verst&au=
+ml;ndlich zeigt, was es mit dem <b>gr&ouml;&szlig;ten Trend der Tourismusbr=
+anche</b> wirklich auf sich hat. Bei uns k&ouml;nnen sogar erfahrene Kreuzf=
+ahrer noch etwas dazulernen!
+                                    <br /><br />
+                        </td>
+                <td class=3D"mobile-spacer" width=3D"20">&nbsp;</td>
+              </tr>
+              <tr>
+                <td class=3D"mobile-spacer" width=3D"30">&nbsp;</td>
+                <td class=3D"mobile-spacer" width=3D"30">&nbsp;</td>
+                <td class=3D"mobile-spacer" width=3D"30">&nbsp;</td>
+              </tr>
+            </table>
+            <!-- END maintext -->
+            <!-- END email content -->
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+    <tr>
+      <td valign=3D"top">
+  <table class=3D"full-width" align=3D"center" width=3D"600" border=3D"0" c=
+ellpadding=3D"0" cellspacing=3D"0" bgcolor=3D"#ffffff" style=3D"background-=
+color:#ffffff;">
+    <tr>
+      <td valign=3D"top" class=3D"mobile-spacer" width=3D"10">&nbsp;</td>
+            <td valign=3D"top" style=3D"color:#6d7f8f; font-family:Verdana,=
+ Arial, Helvetica, sans-serif; font-size:12px; line-height:18px;">
+               <img src=3D"https://zanl.s3.amazonaws.com/enigami/190509/ima=
+ges/maritime_themen_fuer_sie.jpg" alt=3D"Maritime Themen f=C3=BCr Sie"><br>
+          <br>
+        <table align=3D"left" width=3D"280" border=3D"0">
+          <tr>
+            <td valign=3D"top" style=3D"font-family:Verdana, Arial, Helveti=
+ca, sans-serif; font-size:15px !important; line-height:20px; color:#007bc4;=
+"><a href=3D"http://media-channelpro.de/ga/click/2-200437775-400-22455-6149=
+5-1902893-cf51ba0fb1-ca4d27dfa8" style=3D"color:#007bc4;text-decoration:non=
+e;"><span class=3D"text-color">&bull;</span></a></td>
+            <td valign=3D"top" style=3D"font-family:Verdana, Arial, Helveti=
+ca, sans-serif; font-size:15px !important; line-height:20px; color:#007bc4;=
+"><a href=3D"http://media-channelpro.de/ga/click/2-200437775-400-22455-6149=
+5-1902893-cf51ba0fb1-ca4d27dfa8" style=3D"color:#007bc4;text-decoration:non=
+e;"><span class=3D"text-color">Spannende <b>Routen</b></span></a></td>
+          </tr>
+          <tr>
+            <td valign=3D"top" style=3D"font-family:Verdana, Arial, Helveti=
+ca, sans-serif; font-size:15px !important; line-height:20px; color:#007bc4;=
+"><a href=3D"http://media-channelpro.de/ga/click/2-200437775-400-22455-6149=
+5-1902894-4f8797588f-ca4d27dfa8" style=3D"color:#007bc4;text-decoration:non=
+e;"><span class=3D"text-color">&bull;</span></a></td>
+            <td valign=3D"top" style=3D"font-family:Verdana, Arial, Helveti=
+ca, sans-serif; font-size:15px !important; line-height:20px; color:#007bc4;=
+"><a href=3D"http://media-channelpro.de/ga/click/2-200437775-400-22455-6149=
+5-1902894-4f8797588f-ca4d27dfa8" style=3D"color:#007bc4;text-decoration:non=
+e;"><span class=3D"text-color">Alle <b>Schiffstypen</b></span></a></td>
+          </tr>
+          <tr>
+            <td valign=3D"top" style=3D"font-family:Verdana, Arial, Helveti=
+ca, sans-serif; font-size:15px !important; line-height:20px; color:#007bc4;=
+"><a href=3D"http://media-channelpro.de/ga/click/2-200437775-400-22455-6149=
+5-1902895-9da0df52be-ca4d27dfa8" style=3D"color:#007bc4;text-decoration:non=
+e;"><span class=3D"text-color">&bull;</span></a></td>
+            <td valign=3D"top" style=3D"font-family:Verdana, Arial, Helveti=
+ca, sans-serif; font-size:15px !important; line-height:20px; color:#007bc4;=
+"><a href=3D"http://media-channelpro.de/ga/click/2-200437775-400-22455-6149=
+5-1902895-9da0df52be-ca4d27dfa8" style=3D"color:#007bc4;text-decoration:non=
+e;"><span class=3D"text-color">Die wichtigsten <b>Reiseanbieter</b></span><=
+/a></td>
+          </tr>
+          <tr>
+            <td valign=3D"top" style=3D"font-family:Verdana, Arial, Helveti=
+ca, sans-serif; font-size:15px !important; line-height:20px; color:#007bc4;=
+"><a href=3D"http://media-channelpro.de/ga/click/2-200437775-400-22455-6149=
+5-1902896-4fb3d97f81-ca4d27dfa8" style=3D"color:#007bc4;text-decoration:non=
+e;"><span class=3D"text-color">&bull;</span></a></td>
+            <td valign=3D"top" style=3D"font-family:Verdana, Arial, Helveti=
+ca, sans-serif; font-size:15px !important; line-height:20px; color:#007bc4;=
+"><a href=3D"http://media-channelpro.de/ga/click/2-200437775-400-22455-6149=
+5-1902896-4fb3d97f81-ca4d27dfa8" style=3D"color:#007bc4;text-decoration:non=
+e;"><span class=3D"text-color">Unz&auml;hlige <b>Reisehighlights</b></span>=
+</a></td>
+          </tr>
+          <tr>
+            <td valign=3D"top" style=3D"font-family:Verdana, Arial, Helveti=
+ca, sans-serif; font-size:15px !important; line-height:20px; color:#007bc4;=
+"><a href=3D"http://media-channelpro.de/ga/click/2-200437775-400-22455-6149=
+5-1902897-55ef4b286b-ca4d27dfa8" style=3D"color:#007bc4;text-decoration:non=
+e;"><span class=3D"text-color">&bull;</span></a></td>
+            <td valign=3D"top" style=3D"font-family:Verdana, Arial, Helveti=
+ca, sans-serif; font-size:15px !important; line-height:20px; color:#007bc4;=
+"><a href=3D"http://media-channelpro.de/ga/click/2-200437775-400-22455-6149=
+5-1902897-55ef4b286b-ca4d27dfa8" style=3D"color:#007bc4;text-decoration:non=
+e;"><span class=3D"text-color">Clevere <b>Spartipps</b></span></a></td>
+          </tr>
+          <tr>
+            <td valign=3D"top" style=3D"font-family:Verdana, Arial, Helveti=
+ca, sans-serif; font-size:15px !important; line-height:20px; color:#007bc4;=
+"><a href=3D"http://media-channelpro.de/ga/click/2-200437775-400-22455-6149=
+5-1902898-54b2ba97b9-ca4d27dfa8" style=3D"color:#007bc4;text-decoration:non=
+e;"><span class=3D"text-color">&bull;</span></a></td>
+            <td valign=3D"top" style=3D"font-family:Verdana, Arial, Helveti=
+ca, sans-serif; font-size:15px !important; line-height:20px; color:#007bc4;=
+"><a href=3D"http://media-channelpro.de/ga/click/2-200437775-400-22455-6149=
+5-1902898-54b2ba97b9-ca4d27dfa8" style=3D"color:#007bc4;text-decoration:non=
+e;"><span class=3D"text-color">Und <b>viel mehr!</b></span></a></td>
+          </tr>
+          <tr>
+            <td valign=3D"top" style=3D"font-family:Verdana, Arial, Helveti=
+ca, sans-serif; font-size:15px !important; line-height:20px; color:#007bc4;=
+">&nbsp;</td>
+            <td valign=3D"top" style=3D"font-family:Verdana, Arial, Helveti=
+ca, sans-serif; font-size:15px !important; line-height:20px; color:#007bc4;=
+">&nbsp;</td>
+          </tr>
+        </table>
+      </td>
+      <td class=3D"web" valign=3D"top"><a href=3D"http://media-channelpro.d=
+e/ga/click/2-200437775-400-22455-61495-1902891-4f82861c18-ca4d27dfa8" targe=
+t=3D"_blank"><img src=3D"https://zanl.s3.amazonaws.com/enigami/190509/image=
+s/das_grosse_kruezfahrt_gewinnspiel.jpg" alt=3D"Das gro&szlig;e Kreuzfahrt-=
+Gewinnspiel - Zwei Tickets f&uuml;r die AIDAnowa! - Jetzt mitmachen"  borde=
+r=3D"0"></a></td>=20
+      <td class=3D"mobile-spacer" width=3D"10">&nbsp;</td>
+    </tr>=20=20=20=20=20=20=20=20
+  </table>
+     <div class=3D"mobile" style=3D"display:none; width:0; overflow:hidden;=
+ height:0; max-height:none; font-size:0px; line-height:0px; visibility:hidd=
+en;background-color:#ffffff;">=20=20=20=20
+    <a href=3D"http://media-channelpro.de/ga/click/2-200437775-400-22455-61=
+495-1902891-4f82861c18-ca4d27dfa8" target=3D"_blank" class=3D"mobile">
+    <img src=3D"https://zanl.s3.amazonaws.com/enigami/190509/images/das_gro=
+sse_kruezfahrt_gewinnspiel_mobile.jpg" width=3D"100%" height=3D"auto" alt=
+=3D"Jetzt mit machen"></a>
+    </div>
+    <div class=3D"mobile" style=3D"display:none; width:0; overflow:hidden; =
+height:0; max-height:none; font-size:0px; line-height:0px; visibility:hidde=
+n; color:#007bc4; font-family:Verdana, Arial, Helvetica, sans-serif; font-s=
+ize:16px; line-height:24px; padding-top:24px; padding-left:15px; background=
+-color:#ffffff;">=20=20=20=20
+    <span style=3D"color:#007bc4 !important; font-size:16px;"><b>Das gro&sz=
+lig;e Kreuzfahrt-Gewinnspiel</b><br></span><br>
+    Zwei Tickets f&uuml;r die AIDAnowa!<br>
+    </div>=20=20
+     <div class=3D"mobile" style=3D"display:none; width:0; overflow:hidden;=
+ height:0; max-height:none; font-size:0px; line-height:0px; visibility:hidd=
+en; padding-top:10px;padding-left:15px;background-color:#ffffff;">=20=20=20=
+=20
+    <a href=3D"http://media-channelpro.de/ga/click/2-200437775-400-22455-61=
+495-1902891-4f82861c18-ca4d27dfa8" target=3D"_blank"><img src=3D"https://za=
+nl.s3.amazonaws.com/enigami/190509/images/jetzt_mitmachen.jpg" alt=3D"Jetzt=
+ mitmachen" width=3D"139" height=3D"30"></a>
+    </div>
+  <div class=3D"mobile">
+      <table class=3D"mobile" style=3D"background-color:#ffffff;"><tr><td>&=
+nbsp;</td></tr></table>
+    </div>
+  <table class=3D"full-width" align=3D"center" width=3D"600" border=3D"0" c=
+ellpadding=3D"0" cellspacing=3D"0" bgcolor=3D"#ffffff" style=3D"background-=
+color:#ffffff;">
+        <tr>
+          <td valign=3D"top" width=3D"300">&nbsp;</td>=20=20=20=20=20=20
+        </tr>
+        <tr>
+          <td valign=3D"top" width=3D"300">
+            <div class=3D"mobile" style=3D"display:none; width:0; overflow:=
+hidden; height:0; max-height:none; font-size:0px; line-height:0px; visibili=
+ty:hidden;">=20
+<a href=3D"http://media-channelpro.de/ga/click/2-200437775-400-22455-61495-=
+1902899-2fefb3f708-ca4d27dfa8" target=3D"_blank"><img src=3D"https://zanl.s=
+3.amazonaws.com/enigami/190509/images/der_test_fueralle_welcher_kruezfahrt_=
+typ_sind_sie_mob.jpg" width=3D"100%" height=3D"auto" alt=3D"Jetzt mit mache=
+n"></a>
+      </div>
+      <div class=3D"mobile" style=3D"display:none; width:0; overflow:hidden=
+; height:0; max-height:none; font-size:0px; line-height:0px; visibility:hid=
+den; padding-top:10px;padding-left:15px;background-color:#ffffff;">=20=20=
+=20=20
+        <a href=3D"http://media-channelpro.de/ga/click/2-200437775-400-2245=
+5-61495-1902899-2fefb3f708-ca4d27dfa8" target=3D"_blank"><img src=3D"https:=
+//zanl.s3.amazonaws.com/enigami/190509/images/button_hier_gehts_zum_test_mo=
+b.jpg" alt=3D"Jetzt mitmachen" width=3D"167" height=3D"30"></a><br><br>
+      </div></td>=20=20=20=20=20=20
+        </tr>
+        <tr>
+          <td valign=3D"top" class=3D"web"><a href=3D"http://media-channelp=
+ro.de/ga/click/2-200437775-400-22455-61495-1902899-2fefb3f708-ca4d27dfa8" t=
+arget=3D"_blank"><img src=3D"https://zanl.s3.amazonaws.com/enigami/190509/i=
+mages/der_test_fueralle_welcher_kruezfahrt_typ_sind_sie.jpg" alt=3D"Der Tes=
+t f&uuml;r alle! Welcher Kreuzfahrt-Typ sind Sie? Hier geht's zum Test" wid=
+th=3D"600" height=3D"350" class=3D"mobile-image"  border=3D"0"></a></td>=20=
+=20=20=20=20=20
+        </tr>=20=20=20=20=20=20=20=20
+  </table>=20
+  </td>
+  </tr>
+  <tr>
+    <td valign=3D"top">=20
+      <table class=3D"full-width" bgcolor=3D"#022b50" style=3D"background-c=
+olor:#022b50;" align=3D"center" width=3D"600" border=3D"0" cellpadding=3D"0=
+" cellspacing=3D"0">
+        <tr>
+          <td align=3D"left" style=3D"color:#a1a1a1; font-family:Verdana, A=
+rial, Helvetica, sans-serif; font-size:11px; line-height:14px; text-align:l=
+eft;">
+                <table align=3D"center">=20
+            <tr>=20=20=20=20=20=20=20=20
+              <td width=3D"22">&nbsp;</td>
+              <td width=3D"22">&nbsp;</td>
+              <td width=3D"22">&nbsp;</td>
+            </tr>
+            </table>
+            <table class=3D"full-width" bgcolor=3D"#022b50" style=3D"backgr=
+ound-color:#022b50;" align=3D"center" width=3D"600" border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0">
+               <tr>
+                <td>&nbsp;</td>=20=20=20=20=20=20=20=20=20
+              </tr>
+              <tr>
+                <td valign=3D"top"><a href=3D"http://media-channelpro.de/ga=
+/click/2-200437775-400-22455-61495-1902891-4f82861c18-ca4d27dfa8" target=3D=
+"_blank"><img src=3D"https://zanl.s3.amazonaws.com/enigami/190509/images/lo=
+go_kreuzfahrt_kompass.jpg" alt=3D"Kreuzfahrten Kompass" class=3D"mobile-ima=
+ge"  border=3D"0"></a></td>
+              </tr>
+                  </table>
+           <table align=3D"center">=20
+          <tr>=20=20=20=20=20=20=20=20
+            <td width=3D"22">&nbsp;</td>
+            <td width=3D"22">&nbsp;</td>
+            <td width=3D"22">&nbsp;</td>
+          </tr>
+          </table>
+           <table class=3D"full-width" bgcolor=3D"#022b50" style=3D"backgro=
+und-color:#022b50;" align=3D"center" width=3D"400" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0">
+             <tr>
+              <td width=3D"50">&nbsp;</td>
+              <td width=3D"22"> <a href=3D"http://media-channelpro.de/ga/cl=
+ick/2-200437775-400-22455-61495-1902900-3e8b54f767-ca4d27dfa8" target=3D"_b=
+lank" style=3D"font-family:Verdana, Arial, Helvetica, sans-serif; font-size=
+:12px; line-height:22px; color:#ffffff; text-decoration:underline">Datensch=
+utz</a></td>
+              <td width=3D"22">&nbsp;</td>
+              <td width=3D"22"><a href=3D"http://media-channelpro.de/ga/cli=
+ck/2-200437775-400-22455-61495-1902900-3e8b54f767-ca4d27dfa8" target=3D"_bl=
+ank" style=3D"font-family:Verdana, Arial, Helvetica, sans-serif; font-size:=
+12px; line-height:22px; color:#ffffff; text-decoration:underline">Impresseu=
+m</a></td>
+            </tr>=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+           </table>
+        <table>=20
+        <tr>=20=20=20=20=20=20=20=20
+          <td width=3D"22">&nbsp;</td>
+          <td width=3D"22">&nbsp;</td>
+          <td width=3D"22">&nbsp;</td>
+        </tr>
+        </table>
+        <table class=3D"full-width" bgcolor=3D"#022b50" style=3D"background=
+-color:#022b50;" align=3D"center" width=3D"600" border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0">
+          <tr>
+            <td width=3D"22">&nbsp;</td>
+            <td align=3D"center" style=3D"font-family:Verdana, Arial, Helve=
+tica, sans-serif; font-size:10px !important; line-height:16px; color:#fffff=
+f;">&nbsp;</td>
+             <td width=3D"22">&nbsp;</td>
+          </tr>
+          <tr>
+            <td width=3D"22">&nbsp;</td>
+            <td align=3D"left" style=3D"font-family:Verdana, Arial, Helveti=
+ca, sans-serif; font-size:10px !important; line-height:16px; color:#ffffff;=
+">&nbsp;</td>
+             <td width=3D"22">&nbsp;</td>
+          </tr>
+         </table>=20
+            <!-- Ende Footer text -->
+          </td>
+        </tr>
+</table>
+      <br />
+          <table class=3D"dynamische_breite" width=3D"600" border=3D"0" cel=
+lspacing=3D"0" cellpadding=3D"0" align=3D"center">
+              <tr>
+                <td align=3D"center" bgcolor=3D"#FFFFFF" style=3D"font-fami=
+ly:Arial, Helvetica, sans-serif; font-size:10px; line-height: 16px; color:#=
+000000; padding: 0px; -webkit-text-size-adjust:100%; -ms-text-size-adjust:1=
+00%;"><span style=3D"color: #999999; font-family: Arial,Helvetica,sans-seri=
+f; font-size: xx-small;"> Sie erhalten diese E-Mail, weil Sie unsere Dienst=
+e in Anspruch nehmen oder an Gewinnspielen=20
+            der Premium Performance Mail AG oder unserer Kooperationspartne=
+r teilgenommen haben. Die Angebote sind kommerzielle Anzeigen der jeweilige=
+n Werbekunden,=20
+            die f=C3=BCr den jeweiligen Inhalt verantwortlich sind. Bei Fra=
+gen zu den Angeboten haben, wenden Sie sich bitte an den in der Anzeige gen=
+annten Anbieter.=20
+            Die Premium Performance Mail AG ist ausschlie=C3=9Flich Versend=
+er dieser Nachricht. Bitte antworten Sie nicht auf diese Mail. Um in Zukunf=
+t keine Informationen mehr von=20
+            dieser Adresse zu erhalten, dann klicken Sie bitte <a style=3D"=
+text-decoration: none;" href=3D"http://media-channelpro.de/ga/unsubscribe/2=
+-200437775-400-22455-61495-3dd7770685275ec-ca4d27dfa8" target=3D"_blank"><s=
+pan style=3D"font-family: Arial,Helvetica,sans-serif; font-size: xx-small;"=
+><strong>hier</strong></span></a>, um sich abzumelden. Haben Sie Verst=C3=
+=A4ndnis, dass die Abmeldung bis zu 48 Stunden dauern kann.=20
+        <br />Director Caroline Wange<br />
+        The Picasso Building, Caldervale Road, Wakefield, West Yorkshire, U=
+nited Kingdom.</span> </td>
+            </tr>
+            </table></td><br /><br />
+  </tr>=20=20=20
+</table>
+<img src=3D"http://media-channelpro.de/ga/open/2-200437775-400-22455-61495-=
+ca4d27dfa8" height=3D"2" width=3D"3" alt=3D""></body>
+</html>=
+
+--==6e61655e54e9204bbbd2807aa35b6a84--

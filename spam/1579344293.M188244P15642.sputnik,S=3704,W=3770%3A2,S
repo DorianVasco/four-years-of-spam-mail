@@ -1,0 +1,66 @@
+Return-Path: <rjuarezc@contraloriadf.gob.mx>
+Delivered-To: mail@elementk.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 7D447C3BCF
+	for <mail@elementk.de>; Tue, 10 Jul 2018 06:54:44 +0200 (CEST)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 10.027
+X-Spam-Level: **********
+X-Spam-Status: Yes, score=10.027 required=5.5
+	tests=[ADVANCE_FEE_2_NEW_MONEY=1.999, DKIM_SIGNED=0.1,
+	DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1, FREEMAIL_REPLYTO=1,
+	LOTS_OF_MONEY=0.001, MISSING_HEADERS=1.207,
+	RCVD_IN_DNSWL_BLOCKED=0.001, RCVD_IN_PSBL=2.7, RDNS_NONE=1.274,
+	REPLYTO_WITHOUT_TO_CC=1.946, SPF_HELO_PASS=-0.001, SPF_PASS=-0.001,
+	URIBL_BLOCKED=0.001] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id BZQ9Ne-gHHZY for <mail@elementk.de>;
+	Tue, 10 Jul 2018 06:54:40 +0200 (CEST)
+Received: from contraloriadf.gob.mx (unknown [187.141.35.44])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 7634BC3BC5
+	for <mail@elementk.de>; Tue, 10 Jul 2018 06:54:36 +0200 (CEST)
+Received: from localhost (localhost [127.0.0.1])
+	by contraloriadf.gob.mx (Postfix) with ESMTP id EF1C02446BE;
+	Mon,  9 Jul 2018 23:40:49 -0500 (CDT)
+Received: from contraloriadf.gob.mx ([127.0.0.1])
+	by localhost (contraloriadf.gob.mx [127.0.0.1]) (amavisd-new, port 10032)
+	with ESMTP id 4ZGdVdiVR6F8; Mon,  9 Jul 2018 23:40:49 -0500 (CDT)
+Received: from localhost (localhost [127.0.0.1])
+	by contraloriadf.gob.mx (Postfix) with ESMTP id 63BE12446A6;
+	Mon,  9 Jul 2018 23:40:46 -0500 (CDT)
+DKIM-Filter: OpenDKIM Filter v2.8.4 contraloriadf.gob.mx 63BE12446A6
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+	d=contraloriadf.gob.mx; s=D26545A4-B627-11E5-8BF2-997FD958E9DA;
+	t=1531197646; bh=ThkNEb9dUK7ewj5pdZbRRkohA+JHyZd396zzsNXJRlw=;
+	h=Date:From:Reply-To:Message-ID:Subject:MIME-Version:Content-Type:
+	 Content-Transfer-Encoding;
+	b=myuIH5+PTbmgfkqKGxodBfT3FsqnwMSs7TJuOyoCjLmIPcV6Nuenpw11BFvn6WMyb
+	 84CDvaSMu8+ECOy9zxgotJFbb9M44calHJrVvU0uV3hboBVLAU319L+ixu79BvpkdT
+	 erTlPayeZIDB5tOqyA+GeUm9tlamRqcb3+3Hgp+8=
+X-Virus-Scanned: amavisd-new at contraloriadf.gob.mx
+Received: from contraloriadf.gob.mx ([127.0.0.1])
+	by localhost (contraloriadf.gob.mx [127.0.0.1]) (amavisd-new, port 10026)
+	with ESMTP id Al30gWFa23Mr; Mon,  9 Jul 2018 23:40:46 -0500 (CDT)
+Received: from contraloriadf.gob.mx (contraloriadf [10.250.102.152])
+	by contraloriadf.gob.mx (Postfix) with ESMTP id 7E6F924468B;
+	Mon,  9 Jul 2018 23:40:44 -0500 (CDT)
+Date: Mon, 9 Jul 2018 23:40:43 -0500 (CDT)
+From: Susan Patrick <rjuarezc@contraloriadf.gob.mx>
+Reply-To: Susan Patrick <susanpatrick1980@gmail.com>
+Message-ID: <827949483.47417.1531197643689.JavaMail.zimbra@contraloriadf.gob.mx>
+Subject: Re
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+X-Originating-IP: [154.123.71.235]
+X-Mailer: Zimbra 8.0.5_GA_5839 (zclient/8.0.5_GA_5839)
+Thread-Topic: Re
+Thread-Index: HO7Rrur7Dm4wn4jh3uFcKN+lu6eU/w==
+
+I am Mrs. Susan Patrick, suffering from cancerous ailment.I want you to establish my husband money (35,000,000.00 GBP) to charity home for the upkeep of widows, widowers, orphans,destitute, the down-trodden, physically challenged children. My Doctor told me recently, that I have limited days to live due to the cancerous problems that I have been suffering from. You can contact me through my personal emailAddress:susanpatrick@consultant.com Please assure me that you will act just as I have stated Herein.
+
+Hope to hear from you soon.
+Remain Blessed,
+Mrs. Susan Patrick

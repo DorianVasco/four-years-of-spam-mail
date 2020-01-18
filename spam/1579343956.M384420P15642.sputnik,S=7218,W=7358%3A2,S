@@ -1,0 +1,140 @@
+Return-Path: <admin@bestcss.in>
+Delivered-To: mail@elementk.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 6AF7BC435E;
+	Thu,  2 Feb 2017 12:50:35 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 2.819
+X-Spam-Level: **
+X-Spam-Status: Yes, score=2.819 required=2 tests=[BAYES_50=0.8,
+	DKIM_SIGNED=0.1, DKIM_VALID=-0.1, HTML_IMAGE_ONLY_32=0.001,
+	HTML_MESSAGE=0.001, RCVD_IN_DNSWL_NONE=-0.0001,
+	RCVD_IN_SORBS_SPAM=0.5, SUBJ_ALL_CAPS=1.506, T_REMOTE_IMAGE=0.01,
+	URIBL_BLOCKED=0.001] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.yourvserver.net [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id p-YX6jl6p_if; Thu,  2 Feb 2017 12:50:34 +0100 (CET)
+Received: from mail-ua0-f170.google.com (mail-ua0-f170.google.com [209.85.217.170])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id 1909AC4354
+	for <mail@elementk.de>; Thu,  2 Feb 2017 12:50:34 +0100 (CET)
+Received: by mail-ua0-f170.google.com with SMTP id y9so9339268uae.2
+        for <mail@elementk.de>; Thu, 02 Feb 2017 03:50:33 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=bestcss-in.20150623.gappssmtp.com; s=20150623;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=5n6YJDq9YwKP0f0ApfkWqduKfo7xeh5yRbqL0qYQdMg=;
+        b=xYUuSMDI/7GqTS9fPtwCmMASMHPcOicBzHS5eRq9yWAxoR3jzrbS7zCkbd65jS+Vhi
+         TNJevfRvcO5BStQ4gHNlXtyiSpen7NzqkIQWhNjhzjcCWwNQ+UGZdt4DfrW/vl61suXW
+         f1TFBU0LZP7PSSRLlu/FSsO0KA5wWTDdHn4YFMFP/DrN/pC0u+x+5hmjk7zlI2A3MFnA
+         0cVg8WeLeATfjyP1zjSRQr7EjKz09Uwx1nLoJ8X6TsFyecVJzxPqdmoUAIhVh8HMSIVR
+         3bWTlLSjRdS+G/Y+56iRM9Tc4d7G4LdS30P/Y5ffBbioTcuCmfGOcbbnn60QGZdtOMPW
+         Qg9A==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=5n6YJDq9YwKP0f0ApfkWqduKfo7xeh5yRbqL0qYQdMg=;
+        b=JpPSV9IKMJhlIxvRLn3sL4TaYzqCODXaSyN75HQDTPNUZdqyGHQLX/1YWox/DXEWLo
+         4kcbFbT+oO+3mL/pVp0fSoKgbaAOhZHHggU/84SbK6/wlDvzKnD8H0Zbzv5CjybMeztb
+         vYU+5wB6qQ1bsd6rEPdRPc+9ghxVkhGz/OiBZ5aXwWZefPrCLosYTobZ0099ITQoow6l
+         2OdU6nIHnhSVsdTAeVx+JgNTKe6IPgEnWns0D1EvibH3HGrIa8fC1GDZUzoD9e4LJzCx
+         YSvLMnszZqHFG8maY2E5XoiuVFYoZQNAQSFkAXrs8SSsczHnN9AF/ieUxZ8atDhZ4wB9
+         jZFw==
+X-Gm-Message-State: AIkVDXIsOGxmSEMMVpE6IAqrHB5kWmhDYxJj2RH/M9ffqbHoiOox7NGvAJ2mheZrjBkQ+JMq+DgBSRvfp3/beA==
+X-Received: by 10.176.82.130 with SMTP id v2mr3829990uav.62.1486036232597;
+ Thu, 02 Feb 2017 03:50:32 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.103.121.14 with HTTP; Thu, 2 Feb 2017 03:50:32 -0800 (PST)
+X-Originating-IP: [124.125.152.113]
+From: BESTCSS Awards <admin@bestcss.in>
+Date: Thu, 2 Feb 2017 17:20:32 +0530
+Message-ID: <CAAjavUNRAiRJZp-WPmC6H3XPEJPX8CeZv5wCcaGh2PsDFgcB4w@mail.gmail.com>
+Subject: ***SPAM*** CSS AWARDS
+To: mail@elementk.de
+Content-Type: multipart/alternative; boundary=94eb2c18fe0cc4864505478ac502
+
+--94eb2c18fe0cc4864505478ac502
+Content-Type: text/plain; charset=UTF-8
+
+[image: BESTCSS Gallery] <http://www.bestcss.in>
+Every month more than 1M+ visitors. List your website in the BEST CSS
+Gallery
+Submit Your Site <http://www.bestcss.in/submitsite>
+[image: BESTCSS Gallery] <http://www.bestcss.in>
+[image: BESTCSS Gallery] <http://www.bestcss.in>
+Website will be included in the BEST CSS Gallery and increase website
+traffic and backlink. Publish your website in Twitter
+<https://twitter.com/bestcss_in>, Facebook <http://facebook.com/bestcss.in>,
+Pinterest <http://pinterest.com/bestcss> and G+
+<https://plus.google.com/+BestcssIn> pages with 50K active user. If you own
+a ravishing and trendy website and wish to be listed in BEST CSS Gallery
+[image: Submit Your Site] <http://www.bestcss.in/submitsite>
+
+--94eb2c18fe0cc4864505478ac502
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><span></span><div><div style=3D"overflow:hidden"><table wi=
+dth=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0">
+  <tbody><tr>
+    <td bgcolor=3D"#00aee5" align=3D"center">
+    <table width=3D"600" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" a=
+lign=3D"center">
+        <tbody><tr>
+          <td style=3D"padding:30px 10px 20px" align=3D"center"><a href=3D"=
+http://www.bestcss.in" target=3D"_blank"><img src=3D"http://www.bestcss.in/=
+webmail/bestcss.png" alt=3D"BESTCSS Gallery" title=3D"BESTCSS Gallery" styl=
+e=3D"border-width:0px;border-style:none;border-color:-moz-use-text-color"><=
+/a></td>
+        </tr>
+        <tr>
+          <td align=3D"center"><h1 style=3D"color:rgb(255,255,255);font-siz=
+e:28px;font-family:arial,helvetica,sans-serif;font-weight:normal">Every mon=
+th more than 1M+ visitors.
+List your website in the  BEST CSS Gallery</h1></td>
+        </tr>
+        <tr>
+          <td style=3D"padding:30px 0px 50px" align=3D"center"><a href=3D"h=
+ttp://www.bestcss.in/submitsite" style=3D"background:rgb(255,138,0) none re=
+peat scroll 0% 0%;color:rgb(255,255,255);font-family:arial,helvetica,sans-s=
+erif;font-size:22px;font-weight:bold;text-align:center;text-decoration:none=
+;border-radius:5px;width:260px;min-height:60px;line-height:60px;margin:0px =
+auto;display:inline-block" target=3D"_blank">Submit Your Site</a></td>
+        </tr>
+        <tr><td style=3D"line-height:0px" align=3D"center"><a href=3D"http:=
+//www.bestcss.in" target=3D"_blank"><img src=3D"http://www.bestcss.in/webma=
+il/bestcss-screenshot-01.png" alt=3D"BESTCSS Gallery" title=3D"BESTCSS Gall=
+ery"></a></td></tr>
+      </tbody></table></td>
+  </tr>
+  <tr>
+    <td align=3D"center"><table width=3D"600" cellspacing=3D"0" cellpadding=
+=3D"0" border=3D"0" align=3D"center"><tbody><tr><td align=3D"center"><a hre=
+f=3D"http://www.bestcss.in" target=3D"_blank"><img src=3D"http://www.bestcs=
+s.in/webmail/bestcss-screenshot-02.png" alt=3D"BESTCSS Gallery" title=3D"BE=
+STCSS Gallery"></a></td>
+  </tr>
+  <tr>
+    <td style=3D"font-size:14px;line-height:22px;font-family:arial,helvetic=
+a,sans-serif;padding:40px 0px" align=3D"center">Website
+ will be included in the BEST CSS Gallery and increase website  traffic=20
+and backlink. Publish your website in <a href=3D"https://twitter.com/bestcs=
+s_in" target=3D"_blank">Twitter</a>, <a href=3D"http://facebook.com/bestcss=
+.in" target=3D"_blank">Facebook</a>, <a href=3D"http://pinterest.com/bestcs=
+s" target=3D"_blank">Pinterest</a> and=20
+<a href=3D"https://plus.google.com/+BestcssIn" target=3D"_blank">G+</a> pag=
+es with 50K active user. If you own a ravishing and trendy website
+ and wish to be listed in BEST CSS Gallery</td>
+  </tr>
+  <tr>
+    <td align=3D"center"><a href=3D"http://www.bestcss.in/submitsite" targe=
+t=3D"_blank"><img src=3D"http://www.bestcss.in/webmail/submityoursite.png" =
+alt=3D"Submit Your Site" title=3D"Submit Your Site"></a></td>
+  </tr>
+  <tr>
+    <td align=3D"center"><br></td></tr></tbody></table></td></tr></tbody></=
+table></div></div></div>
+
+--94eb2c18fe0cc4864505478ac502--

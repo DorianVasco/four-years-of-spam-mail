@@ -1,0 +1,63 @@
+Return-Path: <kareygangelhoff5292@yahoo.com>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 891FCD4939
+	for <mail@dorianvasco.de>; Tue,  1 Aug 2017 15:10:46 +0200 (CEST)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 6.644
+X-Spam-Level: ******
+X-Spam-Status: Yes, score=6.644 required=5.5 tests=[BAYES_60=1.5,
+	DIGEST_MULTIPLE=0.293, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, FREEMAIL_ENVFROM_END_DIGIT=0.25,
+	FREEMAIL_FROM=0.001, MIME_BASE64_BLANKS=0.001, PYZOR_CHECK=1.392,
+	RAZOR2_CF_RANGE_51_100=0.5, RAZOR2_CF_RANGE_E8_51_100=1.886,
+	RAZOR2_CHECK=0.922, RCVD_IN_DNSWL_NONE=-0.0001,
+	RP_MATCHES_RCVD=-0.001, SPF_PASS=-0.001, URIBL_BLOCKED=0.001]
+	autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id P1dvFU1nd7Qn for <mail@dorianvasco.de>;
+	Tue,  1 Aug 2017 15:10:44 +0200 (CEST)
+Received: from nm6.bullet.mail.ne1.yahoo.com (nm6.bullet.mail.ne1.yahoo.com [98.138.90.69])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id E4496C0D1C
+	for <mail@dorianvasco.de>; Tue,  1 Aug 2017 15:10:43 +0200 (CEST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1501593043; bh=Sixzv612kW3IoaVqXKSAi19usGzN/S5Fadh9UjXbgp4=; h=Subject:From:Date:To:List-Unsubscribe:From:Subject; b=Qx/OH+3E2QiWtOvlqvNmgaYPUqUAD7C3yRH5kXOM6HQDy7dSCJFNdLxVn0OeMXKhEX4XrTqg+z+CKYocGq4tKlCQlx8lXK+VPjvnEQw+cnWMZ3mkks91w6dVurxpKKdKtpJtAy6Abpb15hunf2y7GKvcTDbch7hE8EKi8NN3DtxitWju6SJyescrQpsYXsinFJrsMs43ZBEHcPuRHiDRyHxYTRfD5oQbCtIsdGJiAUrgTNNK5HECIn6VYuMBZKRfzcLgxQQVw8rZctLIDE33MoXeph4AxpLCfOCYbnmT3qgDEG59S5xFSNLRpeG2yoBXUp3HWgdFTma2OiqKMh4lgw==
+Received: from [98.138.100.116] by nm6.bullet.mail.ne1.yahoo.com with NNFMP; 01 Aug 2017 13:10:43 -0000
+Received: from [98.138.84.37] by tm107.bullet.mail.ne1.yahoo.com with NNFMP; 01 Aug 2017 13:10:43 -0000
+Received: from [127.0.0.1] by smtp105.mail.ne1.yahoo.com with NNFMP; 01 Aug 2017 13:10:43 -0000
+X-Yahoo-Newman-Id: 188092.75036.bm@smtp105.mail.ne1.yahoo.com
+Message-ID: <188092.75036.bm@smtp105.mail.ne1.yahoo.com>
+X-Yahoo-Newman-Property: ymail-3
+X-YMail-OSG: 0UmYyKoVM1kwzjKeBZJzlAQFj.naz6CGP.D6__6smP6Y8lx
+ VKQo4YPkU_adSqphO1zwQa4ZpKz9dFhYi8X_5PtG63rnPt3P1_b8SUeXgs8F
+ Og.v4JQRJ2uWQ4LINRTv0XWHq2Ld.S_Ffq3TQdNetwno1YfW_nkEDcBnC_BK
+ Te8glAeJDX28H5ZjHoS3BPy1Wpig9Y3LCckFSGn9jMHu_stsD_feFvQy2h.q
+ WHlubOVqeieiWxTgxuNlH58Dn4b46ZToM2HK_joJLcuaifEjGubhKSPGiR86
+ mu6CG5O2T4j3BO4e2wvzBu6iNsBUBr9Gmpm0tXI7utBTDqo8bZNzKDZb8R5E
+ cu8TVnmNvSJO.yvHG4XnXYSi_8tGo7AjPxtxeisF5Sps8WA0UZQ_NpHrpuTH
+ ZURDJsKi4mN5nhoa1La4C7duUehQG7VZtA_66FdXPU27il6UIZVPXyePFnDe
+ 4UofhL6r4jAueqA3C_pmckmWL5LzvMpyKeeUiMelM1MpSCUtXYBm1EPOogzW
+ LsMMjke7L9ylZjT6xAFvQJA9HKydd.35LQShf553EncRLXSsslgnKYyayDKo
+ gyZl6VpvplQcG
+X-Yahoo-SMTP: tvZg6dKswBDXabo7e5NqmkLtzitkwSJfib8jKUxA8Zo-
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+Subject: ***SPAM*** =?utf-8?q?tecongroup=2Ecom?=
+From: "Karey" <kareygangelhoff5292@yahoo.com>
+Date: Tue, 01 Aug 2017 13:10:40 -0000
+To: mail <mail@dorianvasco.de>
+List-Unsubscribe: http://bridesk.com/_Z3JwYmF0ZWJoYy5wYno6cWJhYW46MTg3MA==
+
+
+SGVsbG8sCgpDb3VsZCBJIHNwYXJrIHlvdXIgaW50ZXJlc3QgcmVnYXJkaW5nCnRoZSB0ZWNvbmdy
+b3VwLmNvbSBzaW5jZSB5b3Ugc2VlbSB0byBob2xkIGEgc2ltaWxhciBuYW1lPwoKSWYgSSBnb3Qg
+eW91ciBpbnRlcmVzdCBwbGVhc2UgY29uZmlybSBoZXJlOgpodHRwOi8vYnJpZGVzay5jb20vWjNK
+d1ltRjBaV0pvWXk1d1lubzZjV0poWVc0Nk1UZzNNQT09CgpUaGFuayB5b3UgZm9yIHlvdXIgdGlt
+ZS4KClJlZ2FyZHMsCkthcmV5CgpUbyByZW1vdmUgeW91ciBlbWFpbCBmcm9tIG91ciBkYXRhYmFz
+ZTogaHR0cDovL2JyaWRlc2suY29tL19aM0p3WW1GMFpXSm9ZeTV3WW5vNmNXSmhZVzQ2TVRnM01B
+PT0=
+

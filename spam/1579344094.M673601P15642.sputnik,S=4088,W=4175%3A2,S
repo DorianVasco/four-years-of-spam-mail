@@ -1,0 +1,87 @@
+Return-Path: <meinrad_korbinian@sureexcavation.com>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 09D94D269A
+	for <mail@dorianvasco.de>; Sun, 12 Feb 2017 12:22:38 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 3.154
+X-Spam-Level: ***
+X-Spam-Status: Yes, score=3.154 required=2 tests=[BAYES_50=0.8,
+	DKIM_SIGNED=0.1, HTML_MESSAGE=0.001, RCVD_IN_BRBL_LASTEXT=1.449,
+	RDNS_NONE=0.793, T_DKIM_INVALID=0.01, URIBL_BLOCKED=0.001]
+	autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.yourvserver.net [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id fr9rKjuz3sXF for <mail@dorianvasco.de>;
+	Sun, 12 Feb 2017 12:22:36 +0100 (CET)
+Received: from host.upwardgraphicdesign.com (unknown [67.225.191.59])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id C2BC4D2687
+	for <kontakt@dorianvasco.de>; Sun, 12 Feb 2017 12:22:35 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed;
+	d=sureexcavation.com; s=default; h=Content-Transfer-Encoding:Content-Type:
+	MIME-Version:Message-ID:From:Date:Subject:To:Sender:Reply-To:Cc:Content-ID:
+	Content-Description:Resent-Date:Resent-From:Resent-Sender:Resent-To:Resent-Cc
+	:Resent-Message-ID:In-Reply-To:References:List-Id:List-Help:List-Unsubscribe:
+	List-Subscribe:List-Post:List-Owner:List-Archive;
+	bh=RSqkp+Hj4bMVRnll7KB0l+wrXxzRkdtyOQkZZ5QvRzs=; b=qh3PRqEGO936viOrXas5bU2dsq
+	OCIN6oKFU3PwM7OfBKBZyggaP9ViPfJvibHfIyFnfNxiTQHJYDq6Q//K1POAnnVxNCFrr7NXTLkLX
+	p3DQVIldy0E3WtaM/c1D5LJXW1rhh3OMxtHq12o0AmjYnhlv5OB/g9tFbp/lwnaik38dD1jUGWO23
+	Vpv+Uo0OT/cKgcDVT1GzPmkoYZ8FVMbY98iMM4XkFI+q/ks+jrEJH4cEcLbqYOpVo5OFUpms5joil
+	87XHbaxhQqx/gWgd0BhMOfKIUrvMpArjrdMxsDnNYz+iKFCv/L44MeVrjCmbDt6y49bS7w4v9x7FL
+	0cTOAL4Q==;
+Received: from sureexcavation by host.upwardgraphicdesign.com with local (Exim 4.88)
+	(envelope-from <meinrad_korbinian@sureexcavation.com>)
+	id 1ccsEg-000PQC-BF
+	for kontakt@dorianvasco.de; Sun, 12 Feb 2017 06:22:30 -0500
+To: kontakt@dorianvasco.de
+Subject: ***SPAM*** Lade mich zu dir am Valentinstag ein. Du hast mir
+	gefallen.
+X-PHP-Script: sureexcavation.com/ for 127.0.0.1
+X-PHP-Originating-Script: 1015:page.php(1963) : eval()'d code
+Date: Sun, 12 Feb 2017 11:22:29 +0000
+From: Meinrad Korbinian <meinrad_korbinian@sureexcavation.com>
+Message-ID: <9e915188d2cf7dad3f8df1d13ee73262@sureexcavation.com>
+X-Priority: 3
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_9e915188d2cf7dad3f8df1d13ee73262"
+Content-Transfer-Encoding: 8bit
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - host.upwardgraphicdesign.com
+X-AntiAbuse: Original Domain - dorianvasco.de
+X-AntiAbuse: Originator/Caller UID/GID - [1015 994] / [47 12]
+X-AntiAbuse: Sender Address Domain - sureexcavation.com
+X-Get-Message-Sender-Via: host.upwardgraphicdesign.com: authenticated_id: sureexcavation/from_h
+X-Authenticated-Sender: host.upwardgraphicdesign.com: meinrad_korbinian@sureexcavation.com
+X-Source: /usr/bin/php
+X-Source-Args: /usr/bin/php /home/sureexcavation/public_html/ytyy/rap/page.php 
+X-Source-Dir: sureexcavation.com:/public_html/ytyy/rap
+
+--b1_9e915188d2cf7dad3f8df1d13ee73262
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+Willst du Sex am Valentinstag haben?
+
+[ http://usa-caravans.com/parent.php?m=136&6ovt=5MQfBAXXuEYUzL5NcJx1k&3AJ=8kS&2p6t4=8 ] Hier werde ich eine Partnerin für dich finden!
+
+
+--b1_9e915188d2cf7dad3f8df1d13ee73262
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+<html>
+<body>
+Willst du Sex am Valentinstag haben?<br>
+<br>
+<a href="http://usa-caravans.com/parent.php?m=136&6ovt=5MQfBAXXuEYUzL5NcJx1k&3AJ=8kS&2p6t4=8">Hier werde ich eine Partnerin für dich finden!</a><br>
+</body>
+</html>
+
+
+
+--b1_9e915188d2cf7dad3f8df1d13ee73262--
+

@@ -1,0 +1,249 @@
+Return-Path: <kmr9@cspid.org>
+Delivered-To: mail@stilfilm.com
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 68AFFC3286
+	for <mail@stilfilm.com>; Wed, 29 Aug 2018 07:59:44 +0200 (CEST)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: 0.112
+X-Spam-Level:
+X-Spam-Status: No, score=0.112 required=5.5 tests=[DKIM_SIGNED=0.1,
+	HTML_MESSAGE=0.001, T_DKIM_INVALID=0.01, URIBL_BLOCKED=0.001]
+	autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.yourvserver.net [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id lM29CM3WM-Yw for <mail@stilfilm.com>;
+	Wed, 29 Aug 2018 07:59:39 +0200 (CEST)
+Received: from mail-yw1-f68.google.com (mail-yw1-f68.google.com [209.85.161.68])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id 6C04CC007F
+	for <mail@stilfilm.com>; Wed, 29 Aug 2018 07:59:37 +0200 (CEST)
+Received: by mail-yw1-f68.google.com with SMTP id x67-v6so1577582ywg.0
+        for <mail@stilfilm.com>; Tue, 28 Aug 2018 23:01:41 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=cspid.org; s=google;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=u30uYmRNfUdF/JRDmB4tqDbvn5valzQo9OxsMUJNfxg=;
+        b=ehgf0ASFlZDIk7bVgJmQdE1TQ70Y/rP/ZPcagrWuOmMYUTPo7cLjbB/w+HOQ24BYx7
+         UHo5++00jfTRt2ew35J/YVNwonELKC1JdtFdAweOPc2O5ETGUXlxvps/tFOdZfWfupgi
+         9uA0uSNDPmMxaJVEyj5CN8iuKEtLnSSlPEkJU=
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=u30uYmRNfUdF/JRDmB4tqDbvn5valzQo9OxsMUJNfxg=;
+        b=HW3DFubQ9ajQaLesf68Mz/fKN+yC5fDTgfEoOQCKDmRuvaJTh2CLgp4TKrco7pBD0Z
+         YMDxICvg/VnsuTJySneWIbCbIEHvh7x6tiZ8dZNhcsFs8g2b8ZXZN+f0f3XPHgzxsls3
+         PT97XOVa3TPjg+UQmLDb6adPkvL+5NuZc7IswrCNCqDsGporW50HmwDf5C+1G4jypDyF
+         GsWkhiCjjEjqupKh9PKE/6kKqUggNy4O71vIV61pA9JV162GVJJN/MH32v1PlXle+e7P
+         5nFSzilshvpocxkFnj0l83Vo0qc6M8eE9CNy00liTKH5XNFp69gFoimdoXc2Xl7zTlAb
+         gp9g==
+X-Gm-Message-State: APzg51DnfXUBQAz8ojmdq0WWofl5+ahTpn8dZYpP4oufxLm1Uaw0r/O4
+	hJVjUiOcAD5QUDXD0wNf/lcCzltV8N/DM+D+K5FXkBcWfHeScRCQc0D2zeRUnrIiLYOwWCTBl2e
+	99tU68vULlWNUOq5rrG4=
+X-Google-Smtp-Source: ANB0VdY8dyuEyB5a4r88sILMHryfuNpwASeOqXyO0o6gq7UM10yZzrgtBcHalb7uPXP9Kx7+ehPNCjWhAlyaIS4Mxxc=
+X-Received: by 2002:a0d:c643:: with SMTP id i64-v6mr2579130ywd.467.1535522499440;
+ Tue, 28 Aug 2018 23:01:39 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 2002:a81:6006:0:0:0:0:0 with HTTP; Tue, 28 Aug 2018 23:01:38
+ -0700 (PDT)
+From: Hari K <kmr9@cspid.org>
+Date: Wed, 29 Aug 2018 11:31:38 +0530
+Message-ID: <CAKCXYYLSDNtJ62Ohe4TrESo1V-7z1AiYD9TV8vftb9RfouTSuA@mail.gmail.com>
+Subject: 
+To: jaya@iets.org.in
+Content-Type: multipart/alternative; boundary="0000000000001fdaf805748cb105"
+
+--0000000000001fdaf805748cb105
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+*Respected Author (IEEE-Approved Conference),*
+
+
+
+NIE Institute of Technology Cordially welcomes you to participate in
+=E2=80=9CInternational
+conference on Innovations in Engineering, Technology and Sciences=E2=80=9D =
+(ICIETS)
+during 20th-21st Septembe
+
+r 2018 in Mysore-570018, Karnataka, India.
+
+
+
+All Accepted Papers will be submitted for Inclusion in IEEE Xplore Digital
+Library and submitted to SCOPUS for indexing.
+
+
+
+*Authors can utilize online Presentation facility.*
+
+
+
+*Last Date of Paper Submission is extended to(30th August 2018).*
+
+
+
+*More Info at:* *https://tinyurl.com/ydfqgr9p
+<https://tinyurl.com/ydfqgr9p> *
+
+--=20
+
+
+**Desclaimer:*=C2=A0*This email and any file(s) transmitted which are attac=
+hed=20
+confidential and intended solely for the
+use of the individual or entity to=20
+whom they are addressed.=C2=A0
+
+This message contains
+confidential information=20
+and is intended only for the individual named.=C2=A0Please notify the sende=
+r=20
+immediately by e-mail if you have
+received this e-mail by mistake and=20
+delete this e-mail from your system.=C2=A0If you are not the intended
+recipient=20
+you are notified that copying, distributing or taking any
+action in=20
+reliance on the contents of this information is strictly prohibited.
+
+--0000000000001fdaf805748cb105
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt;text-align:justify;=
+line-height:14.1pt;background:white;font-size:11pt;font-family:Calibri,sans=
+-serif"><b><span style=3D"font-size:12pt;font-family:Cambria,serif;color:re=
+d;background:yellow">Respected Author
+(IEEE-Approved Conference),</span></b><span style=3D"font-size:12pt;font-fa=
+mily:Cambria,serif;color:red"><span></span></span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt;text-align:justify;=
+line-height:14.1pt;background:white;font-size:11pt;font-family:Calibri,sans=
+-serif"><span style=3D"font-size:12pt;font-family:Cambria,serif;color:rgb(3=
+4,34,34)">=C2=A0<span></span></span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt;text-align:justify;=
+line-height:14.1pt;background:white;font-size:11pt;font-family:Calibri,sans=
+-serif"><span style=3D"font-size:12pt;font-family:Cambria,serif;color:black=
+;background:white">NIE Institute of Technology=C2=A0Cordially </span><span =
+style=3D"font-size:12pt;font-family:Cambria,serif;color:black">welcomes you=
+ to participate
+in =E2=80=9C<span style=3D"background:white">International conference on In=
+novations in
+Engineering, Technology and Sciences</span></span><span style=3D"font-size:=
+12pt;font-family:Cambria,serif;color:rgb(112,48,160);background:white">=E2=
+=80=9D (ICIETS)</span><span style=3D"font-size:12pt;font-family:Cambria,ser=
+if;color:rgb(112,48,160)"> during=C2=A0<span style=3D"background:white">20<=
+sup>th</sup>-21<sup>st=C2=A0</sup>Septembe</span></span><b><span style=3D"f=
+ont-size:12pt;font-family:Cambria,serif;color:rgb(34,34,34)"> <span></span>=
+</span></b></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt;text-align:justify;=
+line-height:14.1pt;background:white;font-size:11pt;font-family:Calibri,sans=
+-serif"><span style=3D"font-size:12pt;font-family:Cambria,serif;color:rgb(1=
+12,48,160);background:white">r 2018</span><span style=3D"font-size:12pt;fon=
+t-family:Cambria,serif;color:rgb(112,48,160)">=C2=A0in=C2=A0<span style=3D"=
+background:white">Mysore-570018,
+Karnataka, India</span>.<span></span></span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt;text-align:justify;=
+line-height:14.1pt;background:white;font-size:11pt;font-family:Calibri,sans=
+-serif"><span style=3D"font-size:12pt;font-family:Cambria,serif;color:rgb(3=
+4,34,34)">=C2=A0<span></span></span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 6pt;text-align:justify;line-=
+height:normal;font-size:11pt;font-family:Calibri,sans-serif"><span style=3D=
+"font-size:12pt;font-family:Cambria,serif;color:red">All Accepted Papers wi=
+ll be submitted for
+Inclusion in IEEE Xplore Digital Library and submitted to SCOPUS for indexi=
+ng.<span></span></span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 6pt;text-align:justify;line-=
+height:normal;font-size:11pt;font-family:Calibri,sans-serif"><b><span style=
+=3D"font-size:12pt;font-family:Cambria,serif;color:rgb(0,32,96)"><span>=C2=
+=A0</span></span></b></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 6pt;text-align:justify;line-=
+height:normal;font-size:11pt;font-family:Calibri,sans-serif"><b><span style=
+=3D"font-size:12pt;font-family:Cambria,serif;color:rgb(0,32,96)">Authors ca=
+n utilize online Presentation facility.<span></span></span></b></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 6pt;text-align:justify;line-=
+height:normal;font-size:11pt;font-family:Calibri,sans-serif"><b><span style=
+=3D"font-size:12pt;font-family:Cambria,serif;color:rgb(0,32,96)"><span>=C2=
+=A0</span></span></b></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt;text-align:justify;=
+line-height:14.1pt;background:white;font-size:11pt;font-family:Calibri,sans=
+-serif"><b><span style=3D"font-size:12pt;font-family:Cambria,serif;color:re=
+d">Last Date of Paper Submission is extended to(30<sup>th</sup> August
+2018).</span></b><span style=3D"font-size:12pt;font-family:Cambria,serif;co=
+lor:red"><span></span></span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt;text-align:justify;=
+line-height:14.1pt;background:white;font-size:11pt;font-family:Calibri,sans=
+-serif"><span style=3D"font-size:12pt;font-family:Cambria,serif;color:rgb(3=
+4,34,34)">=C2=A0<span></span></span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt;text-align:justify;=
+line-height:14.1pt;background:white;font-size:11pt;font-family:Calibri,sans=
+-serif"><b><span style=3D"font-size:12pt;font-family:Cambria,serif;color:rg=
+b(34,34,34)">More Info at<a name=3D"_GoBack"></a>:</span></b><span> </span>=
+<b><span style=3D"font-size:12pt;font-family:Cambria,serif;color:rgb(34,34,=
+34)"><a href=3D"https://tinyurl.com/ydfqgr9p" style=3D"color:blue;text-deco=
+ration:underline">https://tinyurl.com/ydfqgr9p</a>
+<span></span></span></b></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt;text-align:justify;=
+line-height:14.1pt;background:white;font-size:11pt;font-family:Calibri,sans=
+-serif"><span style=3D"font-size:12pt;font-family:&quot;Bell MT&quot;,serif=
+;color:rgb(34,34,34)"><span>=C2=A0</span></span></p>
+
+
+
+
+
+<br></div>
+
+<br>
+<p style=3D"font-family:Arial,Helvetica,sans-serif"><b><span style=3D"line-=
+height:115%;font-family:Arial,sans-serif;color:rgb(34,34,34);background:whi=
+te"><i><font size=3D"3">Desclaimer:</font></i><font size=3D"4">=C2=A0</font=
+></span></b><font size=3D"2"><span style=3D"line-height:115%;color:rgb(34,3=
+4,34);background:white">T</span><font color=3D"#808080"><span style=3D"line=
+-height:115%;background:white">his email and any file(s) transmitted which =
+are attached confidential and intended solely for the
+use of the individual or entity to whom they are addressed.=C2=A0</span></f=
+ont></font></p><p style=3D"font-family:Arial,Helvetica,sans-serif"><font si=
+ze=3D"2"><font color=3D"#808080"><span style=3D"line-height:115%;background=
+:white">This message contains
+confidential information and is intended only for the individual named.=C2=
+=A0</span>Please notify the sender immediately by e-mail if you have
+received this e-mail by mistake and delete this e-mail from your system.=C2=
+=A0</font><span style=3D"color:rgb(128,128,128)">If you are not the intende=
+d
+recipient you are notified that copying, distributing or taking any
+action in reliance on the contents of this information is strictly prohibit=
+ed.</span></font></p>
+--0000000000001fdaf805748cb105--

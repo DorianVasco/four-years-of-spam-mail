@@ -1,0 +1,29 @@
+Return-Path: <infolike0910@colibrimty.com>
+Delivered-To: mail@stilfilm.com
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id DF093CFD4A
+	for <mail@stilfilm.com>; Sat, 27 Oct 2018 09:18:52 +0200 (CEST)
+X-Quarantine-ID: <bRt0mXTobido>
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Amavis-Alert: BAD HEADER SECTION, Missing required header field: "Date"
+X-Spam-Flag: YES
+X-Spam-Score: 5.758
+X-Spam-Level: *****
+X-Spam-Status: Yes, score=5.758 required=5.5 tests=[HTML_MESSAGE=0.001,
+	HTML_MIME_NO_HTML_TAG=0.635, MIME_HTML_ONLY=1.105, MISSING_DATE=1.396,
+	MISSING_HEADERS=1.207, MISSING_MID=0.14, RDNS_NONE=1.274] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id bRt0mXTobido for <mail@stilfilm.com>;
+	Sat, 27 Oct 2018 09:18:51 +0200 (CEST)
+Received: from colibrimty.com (unknown [191.96.249.167])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 10BA8C15B3
+	for <hamnet@stilfilm.com>; Sat, 27 Oct 2018 09:18:50 +0200 (CEST)
+From: "greymore" <infolike0910@colibrimty.com>
+Subject: hey hey
+MIME-Version: 1.0
+Content-Type: text/html
+Message-Id: <20181027071852.DF093CFD4A@v22014122474822114.stilfilm.com>
+Date: Sat, 27 Oct 2018 09:18:52 +0200 (CEST)
+
+ 

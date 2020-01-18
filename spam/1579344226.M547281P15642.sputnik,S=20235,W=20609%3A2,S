@@ -1,0 +1,374 @@
+Return-Path: <Nidhi.websolution@outlook.com>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 58860C301F
+	for <mail@dorianvasco.de>; Thu,  8 Feb 2018 11:50:14 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: 1.098
+X-Spam-Level: *
+X-Spam-Status: No, score=1.098 required=5.5 tests=[DKIM_SIGNED=0.1,
+	DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1, FREEMAIL_FROM=0.001,
+	HTML_MESSAGE=0.001, MISSING_HEADERS=1.207, RCVD_IN_DNSWL_NONE=-0.0001,
+	SPF_HELO_PASS=-0.001, SPF_PASS=-0.001, T_RP_MATCHES_RCVD=-0.01,
+	URIBL_BLOCKED=0.001] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id RtBEoPtYTPEL for <mail@dorianvasco.de>;
+	Thu,  8 Feb 2018 11:50:13 +0100 (CET)
+Received: from APC01-PU1-obe.outbound.protection.outlook.com (mail-oln040092254105.outbound.protection.outlook.com [40.92.254.105])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id D2B6AC0D44
+	for <mail@dorianvasco.de>; Thu,  8 Feb 2018 11:50:11 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=outlook.com;
+ s=selector1; h=From:Date:Subject:Message-ID:Content-Type:MIME-Version;
+ bh=lrunvMRvHjzCw38/bx2buYap929QBrdWtaptCeUPa1o=;
+ b=u1Or4Zs5u3Wp3u4b/aiEfsZ7/Nae0ct9wD6iMuuayJy/NR8SiFtvnuwGQWUdhg52bpt8c0VqUR0QFqXIJq/QumJbZWGjcxovdvxsF8iXoGHnrFarT6NN8gkzSU7l+u60zck7cMp+jEfpy4W9UjRwxn1Z0OYtxJCzrs+ZPlwPfJH/xtecM0pvz588+rfteH2yTj2uhqrciw0PKz1z34VybzxEFuhnmCGtpV4AfaCwhBUBDQ92FLeDZqR7WhlsRQfFjDWgwEWJuev6vbfieYekQBs+rL2Elo2y0nzH189jQdf9TaOq1d5Z2ZOF6LwazmMHATIvEaWP/Bh1eVBcg/LCDw==
+Received: from SG2APC01FT040.eop-APC01.prod.protection.outlook.com
+ (10.152.250.59) by SG2APC01HT243.eop-APC01.prod.protection.outlook.com
+ (10.152.251.3) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id 15.20.464.13; Thu, 8
+ Feb 2018 10:50:31 +0000
+Received: from MAXPR0101MB1161.INDPRD01.PROD.OUTLOOK.COM (10.152.250.60) by
+ SG2APC01FT040.mail.protection.outlook.com (10.152.250.243) with Microsoft
+ SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256_P256) id 15.20.464.13 via
+ Frontend Transport; Thu, 8 Feb 2018 10:50:31 +0000
+Received: from MAXPR0101MB1161.INDPRD01.PROD.OUTLOOK.COM
+ ([fe80::28b1:d802:5475:2e9c]) by MAXPR0101MB1161.INDPRD01.PROD.OUTLOOK.COM
+ ([fe80::28b1:d802:5475:2e9c%15]) with mapi id 15.20.0464.016; Thu, 8 Feb 2018
+ 10:50:30 +0000
+From: Nidhi Sharma <Nidhi.websolution@outlook.com>
+Subject: Offshore Custom Website Design Services ...
+Thread-Topic: Offshore Custom Website Design Services ...
+Thread-Index: AQHToMpnHCsgJZ25GkGEemrNJiORUA==
+Date: Thu, 8 Feb 2018 10:50:30 +0000
+Message-ID: <MAXPR0101MB11612B0D4A99A24CFF3FC888F9F30@MAXPR0101MB1161.INDPRD01.PROD.OUTLOOK.COM>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-incomingtopheadermarker: OriginalChecksum:93481B0E0A1BA25C8B96B79A52886536A5DADFE4DAEE4BFC5DAE9F243DE287A9;UpperCasedChecksum:9772DB2459DE35F96C38B445D14D45183A1E44F1866EF8DE021C1D38D12790E5;SizeAsReceived:16507;Count:42
+x-tmn: [bZ1b2MBM8hwTBAHXQxlUvwj0BS0RcfxN]
+x-ms-publictraffictype: Email
+x-microsoft-exchange-diagnostics: 1;SG2APC01HT243;6:U6y3psnRE2AI0ybkVgqra4jh75oRjL6CUUFgtXT3O3gE8GEi9xhOaWSsXvrSmZFdLXMn602DeXw0z591gGAAM7o/IKVwJbTbtwie877D0VZfC5ymTkEWttyVaqiAg4OVOBfBLd7UinYSbK8v0JDnHZ6q9o1i06ZXqgn4ksO+3yV+Ykzhc8zZboqfBRBX9NMFB1CX6jViI83jG+zWTLF+g2vgfzC75Ejsmx/bF8+v0l1lb8pgdnVWt9aCeDm/8FzeVpG+TUvYr6M3gXSRzMhA30yHMSKYlVdZ1w15R2rSLVMTx0TC3HHvN1Pd3isPtyTigLg17v0zR2b5Bq4rVXWDzmAv6oC1BO8ooAKYNJqofzU=;5:xGSyY7GEEgHuQDYKMeGYcSN8aUG6+lDntkWN/oW3GT0jpRXBX0jLqPzYZlWc7IByCrJtqWu/O+VWUi8AUVnxxBgJPsxkElSMKcI+Tx9JoXmR7HnoemWLqoGaQzG2LsbWvzIV1ahW3gwlab7wyfFaauuWhoHUGpykfRr7MtTDw8s=;24:bP4UxsdWc6YTTy7ccejdBVHRRSzMqW9ARDNgONDBqkJHCGT/LqB8SKnUpFNr3Kl6jw3q4+AxRIQB71Wnrnlr/E4joLJFQOGJQAQI6oC/vQI=;7:E+FcBh6vd6biDXjDe4Fv36dT0laoAD/vodjESWgr3UTsXytmiqkcizqOSWY8rIKwp+NcwZT44zIment+OAQoOvJWIs7bhpsuN4z5iM8eiX/RF3MswqmYSnMobulUhLCk67YH22kuXfiBYSj34lhA/WQigl/DbXo5yyo5dnq3T6wlAYY6hM4yRhwC1I1f2KNnNt0mjOpXPRse2rvJ5bSB0ihG6l9VxqFC1W3mVxVgNZSXkeO2GNyNmdxZnqXnDZ2v
+x-incomingheadercount: 42
+x-eopattributedmessage: 0
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(7020095)(201702061074)(5061506573)(5061507331)(1603103135)(2017031320274)(2017031324274)(2017031323274)(201702181274)(2017031322404)(1601125374)(1603101448)(1701031045);SRVR:SG2APC01HT243;
+x-ms-exchange-slblob-mailprops: wFHlV0EOAy0AbPT5uTwf96YAdj3ZssOoIGaXlKWQ7RsmmIMcmwmS+0YOaDHn93QPfglMcpZyGvffT+cU8cYbMJEZHEY4a3HLngicNXgnVgeLOYK4AQLr/EtaQ4ZQe+CniV8MOCXE/+xBsyYLaFJ77j7L4TcIn/Wo2gKaxE40E14W9Pf09ToAhyVnUULf9EkXGcXXg7syAoLQvXkDU0Z5DFvRyAznwuSRVkigNUEIPO4KGWs5XuYfuPaAjJrO6EXxi1rDTN9ZVncvJe57+jnYsiK0qQ9Keyp5RdMUCFFrCtNfCdZymFGjjSQCm3yrGfZ5o3iAxRICC5NTHTMkQAeRo4XxD/plwn6kDwk7r2doXpFzxuQt1I9zTSe0wbPWKUuFmAHXvl1IJsAXavcJ9ZyMzTV7ZlunxiDk2beoz39UyAXu8EspqSNWBK0VjT16UmK/T/Jl0X7dwfXVQs7YYeIXBapg4WXtAybcTL9+Gdd1wPAq5r5Ko6GTfLUJzpqeEl/K9vN57rx/9z/rmlFW2rRA1jvgrl9K5eajMM6xxaC8hCo/18aF8gPc/sLrSOk5UgXnnjb11M8bLR4kwL1TGNaT7g==
+x-ms-traffictypediagnostic: SG2APC01HT243:
+x-ms-office365-filtering-correlation-id: bc1a237d-bdb3-4f98-205f-08d56ee1c5d8
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(444000031);SRVR:SG2APC01HT243;BCL:0;PCL:0;RULEID:;SRVR:SG2APC01HT243;
+x-forefront-prvs: 0577AD41D6
+x-forefront-antispam-report: SFV:NSPM;SFS:(7070007)(98901004);DIR:OUT;SFP:1901;SCL:1;SRVR:SG2APC01HT243;H:MAXPR0101MB1161.INDPRD01.PROD.OUTLOOK.COM;FPR:;SPF:None;LANG:;
+spamdiagnosticoutput: 1:99
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/alternative;
+	boundary="_000_MAXPR0101MB11612B0D4A99A24CFF3FC888F9F30MAXPR0101MB1161_"
+MIME-Version: 1.0
+X-OriginatorOrg: outlook.com
+X-MS-Exchange-CrossTenant-Network-Message-Id: bc1a237d-bdb3-4f98-205f-08d56ee1c5d8
+X-MS-Exchange-CrossTenant-originalarrivaltime: 08 Feb 2018 10:50:30.7359
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Internet
+X-MS-Exchange-CrossTenant-id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: SG2APC01HT243
+
+--_000_MAXPR0101MB11612B0D4A99A24CFF3FC888F9F30MAXPR0101MB1161_
+Content-Type: text/plain; charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+Hi,
+
+I am Nidhi, business development manager.
+
+To introduce, we are an Indian Web Design, PHP web Development firm and SEO
+
+consultant. We have over 5 years of experience in professional web designin=
+g, PHP mysql
+
+development and seo services.
+
+We can offer Web Design, PHP development and SEO projects on a white label =
+basis for
+
+you at a much lower cost than what it might be in house =96 No compromise o=
+n quality!
+
+Our Services includes:-
+
+1) Web Design
+
+2) PHP and mysql web Development
+
+3) Joomla
+
+4) Drupal
+
+5) WordPress
+
+6) All type of SEO services
+
+7) E-commerce
+
+8) Flash Designs
+
+Do let me know if you are interested and I would be happy to share our
+
+Methodologies, past work details and client Testimonials.
+
+If you are interested please reply me.
+
+Warm Regards
+
+Nidhi
+
+
+--_000_MAXPR0101MB11612B0D4A99A24CFF3FC888F9F30MAXPR0101MB1161_
+Content-Type: text/html; charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DWindows-1=
+252">
+<style type=3D"text/css" style=3D"display:none;"><!-- P {margin-top:0;margi=
+n-bottom:0;} --></style>
+</head>
+<body dir=3D"ltr">
+<div id=3D"divtagdefaultwrapper" style=3D"font-size:12pt;color:#000000;font=
+-family:Calibri,Helvetica,sans-serif;" dir=3D"ltr">
+<p style=3D"margin-top:0;margin-bottom:0"></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-IN" style=3D"font-size:11.0pt;font-=
+family:&quot;Century&quot;,&quot;serif&quot;;=0A=
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-bidi-theme-font:minor-=
+bidi;=0A=
+color:#002060;mso-ansi-language:EN-IN">Hi,<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-IN" style=3D"font-size:11.0pt;font-=
+family:&quot;Century&quot;,&quot;serif&quot;;=0A=
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-bidi-theme-font:minor-=
+bidi;=0A=
+color:#002060;mso-ansi-language:EN-IN"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-IN" style=3D"font-size:11.0pt;font-=
+family:&quot;Century&quot;,&quot;serif&quot;;=0A=
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-bidi-theme-font:minor-=
+bidi;=0A=
+color:#002060;mso-ansi-language:EN-IN">I am
+<span style=3D"color: rgb(0, 32, 96); font-family: Century, serif; font-siz=
+e: 14.6667px;">
+Nidhi</span>, business development manager.<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-IN" style=3D"font-size:11.0pt;font-=
+family:&quot;Century&quot;,&quot;serif&quot;;=0A=
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-bidi-theme-font:minor-=
+bidi;=0A=
+color:#002060;mso-ansi-language:EN-IN"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-IN" style=3D"font-size:11.0pt;font-=
+family:&quot;Century&quot;,&quot;serif&quot;;=0A=
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-bidi-theme-font:minor-=
+bidi;=0A=
+color:#002060;mso-ansi-language:EN-IN">To introduce, we are an Indian Web D=
+esign, PHP web Development
+ firm and SEO&nbsp;<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-IN" style=3D"font-size:11.0pt;font-=
+family:&quot;Century&quot;,&quot;serif&quot;;=0A=
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-bidi-theme-font:minor-=
+bidi;=0A=
+color:#002060;mso-ansi-language:EN-IN"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-IN" style=3D"font-size:11.0pt;font-=
+family:&quot;Century&quot;,&quot;serif&quot;;=0A=
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-bidi-theme-font:minor-=
+bidi;=0A=
+color:#002060;mso-ansi-language:EN-IN">consultant. We have over 5 years of =
+experience in professional
+ web designing, PHP mysql&nbsp;<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-IN" style=3D"font-size:11.0pt;font-=
+family:&quot;Century&quot;,&quot;serif&quot;;=0A=
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-bidi-theme-font:minor-=
+bidi;=0A=
+color:#002060;mso-ansi-language:EN-IN"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-IN" style=3D"font-size:11.0pt;font-=
+family:&quot;Century&quot;,&quot;serif&quot;;=0A=
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-bidi-theme-font:minor-=
+bidi;=0A=
+color:#002060;mso-ansi-language:EN-IN">development and seo services.<o:p></=
+o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-IN" style=3D"font-size:11.0pt;font-=
+family:&quot;Century&quot;,&quot;serif&quot;;=0A=
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-bidi-theme-font:minor-=
+bidi;=0A=
+color:#002060;mso-ansi-language:EN-IN"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-IN" style=3D"font-size:11.0pt;font-=
+family:&quot;Century&quot;,&quot;serif&quot;;=0A=
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-bidi-theme-font:minor-=
+bidi;=0A=
+color:#002060;mso-ansi-language:EN-IN">We can offer Web Design, PHP develop=
+ment and SEO projects
+ on a white label basis for&nbsp;<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-IN" style=3D"font-size:11.0pt;font-=
+family:&quot;Century&quot;,&quot;serif&quot;;=0A=
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-bidi-theme-font:minor-=
+bidi;=0A=
+color:#002060;mso-ansi-language:EN-IN"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-IN" style=3D"font-size:11.0pt;font-=
+family:&quot;Century&quot;,&quot;serif&quot;;=0A=
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-bidi-theme-font:minor-=
+bidi;=0A=
+color:#002060;mso-ansi-language:EN-IN">you at a much lower cost than what i=
+t might be in house
+ =96 No compromise on quality!<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-IN" style=3D"font-size:11.0pt;font-=
+family:&quot;Century&quot;,&quot;serif&quot;;=0A=
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-bidi-theme-font:minor-=
+bidi;=0A=
+color:#002060;mso-ansi-language:EN-IN"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-IN" style=3D"font-size:11.0pt;font-=
+family:&quot;Century&quot;,&quot;serif&quot;;=0A=
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-bidi-theme-font:minor-=
+bidi;=0A=
+color:#002060;mso-ansi-language:EN-IN">Our Services includes:-<o:p></o:p></=
+span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-IN" style=3D"font-size:11.0pt;font-=
+family:&quot;Century&quot;,&quot;serif&quot;;=0A=
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-bidi-theme-font:minor-=
+bidi;=0A=
+color:#002060;mso-ansi-language:EN-IN"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-IN" style=3D"font-size:11.0pt;font-=
+family:&quot;Century&quot;,&quot;serif&quot;;=0A=
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-bidi-theme-font:minor-=
+bidi;=0A=
+color:#002060;mso-ansi-language:EN-IN">1) Web Design<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-IN" style=3D"font-size:11.0pt;font-=
+family:&quot;Century&quot;,&quot;serif&quot;;=0A=
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-bidi-theme-font:minor-=
+bidi;=0A=
+color:#002060;mso-ansi-language:EN-IN"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-IN" style=3D"font-size:11.0pt;font-=
+family:&quot;Century&quot;,&quot;serif&quot;;=0A=
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-bidi-theme-font:minor-=
+bidi;=0A=
+color:#002060;mso-ansi-language:EN-IN">2) PHP and mysql web Development<o:p=
+></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-IN" style=3D"font-size:11.0pt;font-=
+family:&quot;Century&quot;,&quot;serif&quot;;=0A=
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-bidi-theme-font:minor-=
+bidi;=0A=
+color:#002060;mso-ansi-language:EN-IN"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-IN" style=3D"font-size:11.0pt;font-=
+family:&quot;Century&quot;,&quot;serif&quot;;=0A=
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-bidi-theme-font:minor-=
+bidi;=0A=
+color:#002060;mso-ansi-language:EN-IN">3) Joomla<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-IN" style=3D"font-size:11.0pt;font-=
+family:&quot;Century&quot;,&quot;serif&quot;;=0A=
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-bidi-theme-font:minor-=
+bidi;=0A=
+color:#002060;mso-ansi-language:EN-IN"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-IN" style=3D"font-size:11.0pt;font-=
+family:&quot;Century&quot;,&quot;serif&quot;;=0A=
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-bidi-theme-font:minor-=
+bidi;=0A=
+color:#002060;mso-ansi-language:EN-IN">4) Drupal<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-IN" style=3D"font-size:11.0pt;font-=
+family:&quot;Century&quot;,&quot;serif&quot;;=0A=
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-bidi-theme-font:minor-=
+bidi;=0A=
+color:#002060;mso-ansi-language:EN-IN"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-IN" style=3D"font-size:11.0pt;font-=
+family:&quot;Century&quot;,&quot;serif&quot;;=0A=
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-bidi-theme-font:minor-=
+bidi;=0A=
+color:#002060;mso-ansi-language:EN-IN">5) WordPress<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-IN" style=3D"font-size:11.0pt;font-=
+family:&quot;Century&quot;,&quot;serif&quot;;=0A=
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-bidi-theme-font:minor-=
+bidi;=0A=
+color:#002060;mso-ansi-language:EN-IN"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-IN" style=3D"font-size:11.0pt;font-=
+family:&quot;Century&quot;,&quot;serif&quot;;=0A=
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-bidi-theme-font:minor-=
+bidi;=0A=
+color:#002060;mso-ansi-language:EN-IN">6) All type of SEO services<o:p></o:=
+p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-IN" style=3D"font-size:11.0pt;font-=
+family:&quot;Century&quot;,&quot;serif&quot;;=0A=
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-bidi-theme-font:minor-=
+bidi;=0A=
+color:#002060;mso-ansi-language:EN-IN"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-IN" style=3D"font-size:11.0pt;font-=
+family:&quot;Century&quot;,&quot;serif&quot;;=0A=
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-bidi-theme-font:minor-=
+bidi;=0A=
+color:#002060;mso-ansi-language:EN-IN">7) E-commerce<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-IN" style=3D"font-size:11.0pt;font-=
+family:&quot;Century&quot;,&quot;serif&quot;;=0A=
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-bidi-theme-font:minor-=
+bidi;=0A=
+color:#002060;mso-ansi-language:EN-IN"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-IN" style=3D"font-size:11.0pt;font-=
+family:&quot;Century&quot;,&quot;serif&quot;;=0A=
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-bidi-theme-font:minor-=
+bidi;=0A=
+color:#002060;mso-ansi-language:EN-IN">8) Flash Designs<o:p></o:p></span></=
+p>
+<p class=3D"MsoNormal"><span lang=3D"EN-IN" style=3D"font-size:11.0pt;font-=
+family:&quot;Century&quot;,&quot;serif&quot;;=0A=
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-bidi-theme-font:minor-=
+bidi;=0A=
+color:#002060;mso-ansi-language:EN-IN"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-IN" style=3D"font-size:11.0pt;font-=
+family:&quot;Century&quot;,&quot;serif&quot;;=0A=
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-bidi-theme-font:minor-=
+bidi;=0A=
+color:#002060;mso-ansi-language:EN-IN">Do let me know if you are interested=
+ and I would be
+ happy to share our&nbsp;<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-IN" style=3D"font-size:11.0pt;font-=
+family:&quot;Century&quot;,&quot;serif&quot;;=0A=
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-bidi-theme-font:minor-=
+bidi;=0A=
+color:#002060;mso-ansi-language:EN-IN"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-IN" style=3D"font-size:11.0pt;font-=
+family:&quot;Century&quot;,&quot;serif&quot;;=0A=
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-bidi-theme-font:minor-=
+bidi;=0A=
+color:#002060;mso-ansi-language:EN-IN">Methodologies, past work details and=
+ client Testimonials.<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-IN" style=3D"font-size:11.0pt;font-=
+family:&quot;Century&quot;,&quot;serif&quot;;=0A=
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-bidi-theme-font:minor-=
+bidi;=0A=
+color:#002060;mso-ansi-language:EN-IN"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-IN" style=3D"font-size:11.0pt;font-=
+family:&quot;Century&quot;,&quot;serif&quot;;=0A=
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-bidi-theme-font:minor-=
+bidi;=0A=
+color:#002060;mso-ansi-language:EN-IN">If you are interested please reply m=
+e.<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-IN" style=3D"font-size:11.0pt;font-=
+family:&quot;Century&quot;,&quot;serif&quot;;=0A=
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-bidi-theme-font:minor-=
+bidi;=0A=
+color:#002060;mso-ansi-language:EN-IN"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-IN" style=3D"font-size:11.0pt;font-=
+family:&quot;Century&quot;,&quot;serif&quot;;=0A=
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-bidi-theme-font:minor-=
+bidi;=0A=
+color:#002060;mso-ansi-language:EN-IN">Warm Regards<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-IN" style=3D"font-size:11.0pt;font-=
+family:&quot;Century&quot;,&quot;serif&quot;;=0A=
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-bidi-theme-font:minor-=
+bidi;=0A=
+color:#002060;mso-ansi-language:EN-IN"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"EN-IN" style=3D"font-size:11.0pt;font-=
+family:&quot;Century&quot;,&quot;serif&quot;;=0A=
+mso-bidi-font-family:&quot;Times New Roman&quot;;mso-bidi-theme-font:minor-=
+bidi;=0A=
+color:#002060;mso-ansi-language:EN-IN">Nidhi<o:p></o:p></span></p>
+<br>
+<p></p>
+</div>
+</body>
+</html>
+
+--_000_MAXPR0101MB11612B0D4A99A24CFF3FC888F9F30MAXPR0101MB1161_--

@@ -1,0 +1,558 @@
+Return-Path: <bounce@playgr.net>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 0A5CDC16D2
+	for <mail@dorianvasco.de>; Tue, 23 Jan 2018 06:32:16 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: 3.391
+X-Spam-Level: ***
+X-Spam-Status: No, score=3.391 required=5.5 tests=[DKIM_SIGNED=0.1,
+	DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1, HTML_IMAGE_RATIO_04=0.61,
+	HTML_MESSAGE=0.001, NO_DNS_FOR_FROM=0.379, URIBL_BLOCKED=0.001,
+	URIBL_DBL_SPAM=2.5] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id uHwZVleNS2eR for <mail@dorianvasco.de>;
+	Tue, 23 Jan 2018 06:32:03 +0100 (CET)
+Received: from mta2.sessiot.com (mta2.sessiot.com [145.239.24.66])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id ADE8EC051F
+	for <kontakt@dorianvasco.de>; Tue, 23 Jan 2018 06:32:03 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=default; d=sessiot.com;
+ h=Message-ID:Date:Subject:From:Reply-To:To:MIME-Version:Content-Type:List-Unsubscribe:List-Id; i=info@sessiot.com;
+ bh=wHDm9TGogQtTWn2CYWHZCpUPGK0=;
+ b=NU6EnHscr3UodqjDHcaicRDntbSg6nOXoZkHOSCiY8TcI0okJPUhqmCTT7VmzLEvOZYniq0rR9oZ
+   JbvF34cSBQM6UWU0Bls3ik4SqRsmpP3PXsxa/k5rpLwDUbBWVQ6d7PlwFeHEpvVn5rzeMP+OMwC+
+   MQlXqknQv78sHHiTViivIXQBnKmkKhBG3Kwky9kPpEPZ47/e4q2CeQyttufJL2zJvMEbcLAzDyF3
+   pn7oulQJ0Ts2a9MMKoI2qqy52//y43JbGjDvv8HANxbsERWWkkrTvko1p1ishAF3WfkeSTwtBBSo
+   OiqZqwd6sv4GNAumsrKBfIe1cvSMwl2B2cyosQ==
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=default; d=sessiot.com;
+ b=Yaje7ZTsJhRjHsPoJK8xDoxqmVgA27A2u40UtVbm3P3x+/PbTTcbgm0lFVsLAOqNg16DqsvePLmh
+   rdLmYM53kYoOB9wLe+KO4sXcIESN7AqWVnZqkjuK2joaAxz0SFzLKjVLmB0LatDuyntpK5EOYXxs
+   01qtpmt84RiPC/1WM4sCHU9Tdc2wfIUUudApn32MjnbHW2hT5RYQlV1RgOWTRfcjSS0VbTWvlcWF
+   xQ+pHN8J85F9zXsh4azbT69ytAn8+ehvswu3uOnGsTKQyhKXdZ6J85WTit4zw9EqIN1mMAyzahXa
+   A9v4E2qnOYFM2+kBcJ4Xb4UHA+QJ29swxuU79w==;
+Message-ID: <d75c7d07b1b225ab8479832d8ae169a0@playgr.net>
+Date: Tue, 23 Jan 2018 03:12:09 +0000
+Subject: kontakt@dorianvasco.de, Wunder von Schweden
+From: IKEA Gutschein =?utf-8?Q?f=C3=BCr=2E=2E=2E?= <info@sessiot.com>
+Reply-To: IKEA Gutschein =?utf-8?Q?f=C3=BCr=2E=2E=2E?= <news@blueor.online>
+To: "kontakt@dorianvasco.de" <kontakt@dorianvasco.de>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_v4_1516677129_3ce5012a05404ba702062d9e19a8b3ce_=_"
+X-Sender: bounce@playgr.net
+X-Report-Abuse: Please report abuse for this campaign here:
+ http://warnerb.net/index.php/campaigns/cs585zznoc812/report-abuse/qn107kmo4v57c/am59398rbec58
+X-Receiver: kontakt@dorianvasco.de
+X-Dbdo-Tracking-Did: 0
+X-Dbdo-Subscriber-Uid: am59398rbec58
+X-Dbdo-Mailer: SwiftMailer - 5.4.x
+X-Dbdo-EBS: http://warnerb.net/index.php/lists/block-address
+X-Dbdo-Delivery-Sid: 19
+X-Dbdo-Customer-Uid: yp105wbflq389
+X-Dbdo-Customer-Gid: 0
+X-Dbdo-Campaign-Uid: cs585zznoc812
+Precedence: bulk
+List-Unsubscribe: <http://warnerb.net/index.php/lists/qn107kmo4v57c/unsubscribe/am59398rbec58/cs585zznoc812/unsubscribe-direct?source=email-client-unsubscribe-button>,
+ <mailto:news@blueor.online?subject=Campaign-Uid:cs585zznoc812 /
+ Subscriber-Uid:am59398rbec58 - Unsubscribe request&body=Please unsubscribe
+ me!>
+List-Id: qn107kmo4v57c <Germany>
+Feedback-ID: cs585zznoc812:am59398rbec58:qn107kmo4v57c:yp105wbflq389
+
+
+--_=_swift_v4_1516677129_3ce5012a05404ba702062d9e19a8b3ce_=_
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+=20
+
+ web version
+http://warnerb.net/index.php/campaigns/cs585zznoc812/=
+track-url/am59398rbec58/468c9c4a6c8cfe07af8274e3998d0a1e8b58cf3e
+
+
+ =
+=09=09Willst Du diesen 500 Euro Gutschein gewinne?
+
+ Bj=C3=B6rn Schmidt=
+
+ Promotion Manager=20
+
+ =09=09
+http://warnerb.net/index.php/campaign=
+s/cs585zznoc812/track-url/am59398rbec58/52040ba3f8caffb5fcd0c9e6eefb28fefd7=
+aab16
+
+ Liebe kontakt@dorianvasco.de
+http://warnerb.net/index.php/cam=
+paigns/cs585zznoc812/track-url/am59398rbec58/52040ba3f8caffb5fcd0c9e6eefb28=
+fefd7aab16,
+ Ich darf 10 Gutscheine im Wert von 500 Euro vergeben! Willst=
+ Du auch
+einen gratis Gutschein in H=C3=B6he von 500 Euro empfangen? Dies=
+e kannst
+Du nun gewinnen! Selbstverst=C3=A4ndlich, kannst Du den Gutschei=
+n nach
+eigenem Wunsch einsetzen.=20
+
+Ja, nat=C3=BCrlich will ich den Gu=
+tschein
+http://warnerb.net/index.php/campaigns/cs585zznoc812/track-url/am=
+59398rbec58/52040ba3f8caffb5fcd0c9e6eefb28fefd7aab16
+
+
+Nein, danke
+=
+http://warnerb.net/index.php/campaigns/cs585zznoc812/track-url/am59398rbec5=
+8/52040ba3f8caffb5fcd0c9e6eefb28fefd7aab16
+
+
+ Mit freundlichen Gr=
+=C3=BC=C3=9Fen,
+ Bj=C3=B6rn Schmidt=20
+
+ Click here
+http://warnerb.ne=
+t/index.php/campaigns/cs585zznoc812/track-url/am59398rbec58/276f108d8663e53=
+e18d05ce4b7375045e7ebe21b
+to report this message as unsolicited or contac=
+t
+elastic.ads@bulletmail.org
+
+ Click here
+http://warnerb.net/index.=
+php/campaigns/cs585zznoc812/track-url/am59398rbec58/7f219380f473c87badbb54a=
+5002d81f999519aea
+to unsubscribe from this list
+
+ =C2=A0
+
+--_=_swift_v4_1516677129_3ce5012a05404ba702062d9e19a8b3ce_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+<html>
+<head>
+=09<title></title>
+</head>
+<body bgcolor=3D"#eeeeee" style=3D"margin: 0 !important; padding: 0 !import=
+ant;">
+<div style=3D"text-align: center;"><br />
+<a href=3D"http://warnerb.net/index.php/campaigns/cs585zznoc812/track-url/a=
+m59398rbec58/468c9c4a6c8cfe07af8274e3998d0a1e8b58cf3e"><span style=3D"font-=
+size:8px;"><span style=3D"font-family: Arial, Helvetica, sans-serif;">web v=
+ersion</span></span></a></div>
+<img width=3D"1" height=3D"1" src=3D"http://warnerb.net/index.php/campaigns=
+/cs585zznoc812/track-opening/am59398rbec58" alt=3D"" />
+</body>
+</html>
+<title></title>
+<meta charset=3D"UTF-8" /><meta name=3D"viewport" content=3D"width=3Ddevice=
+-width, initial-scale=3D1"  /><meta http-equiv=3D"X-UA-Compatible" content=
+=3D"IE=3Dedge" />
+<style type=3D"text/css">/* CLIENT-SPECIFIC STYLES */
+
+/* Prevent WebKit and Windows mobile changing default text sizes */
+body, table, td, a {
+=09-webkit-text-size-adjust: 100%;
+=09-ms-text-size-adjust: 100%;
+}
+=09
+/* Remove spacing between tables in Outlook 2007 and up */
+table, td {
+=09mso-table-lspace: 0pt;
+=09mso-table-rspace: 0pt;
+}
+=09
+/* Allow smoother rendering of resized image in Internet Explorer */
+img {
+=09-ms-interpolation-mode: bicubic;
+}
+
+/* RESET STYLES */
+body {
+=09height: 100% !important;
+=09margin: 0 !important;
+=09padding: 0 !important;
+=09width: 100% !important;
+}
+
+img {
+=09border: 0;
+=09height: auto;
+=09line-height: 100%;
+=09outline: none;
+=09text-decoration: none;
+}
+
+table {
+=09border-collapse: collapse !important;
+}
+
+/* iOS BLUE LINKS */
+a[x-apple-data-detectors] {
+=09color: inherit !important;
+=09text-decoration: none !important;
+=09font-size: inherit !important;
+=09font-family: inherit !important;
+=09font-weight: inherit !important;
+=09line-height: inherit !important;
+}
+
+/* MOBILE STYLES */
+@media screen and (max-width : 625px ) {
+
+/* ALLOWS FOR FLUID TABLES */=09
+.wrapper {
+=09width: 100% !important;
+=09max-width: 100% !important;
+}
+=09
+/* ADJUSTS LAYOUT OF LOGO IMAGE */
+.logo img {
+=09margin: 0 auto !important;
+}
+=09
+/* USE THESE CLASSES TO HIDE CONTENT ON MOBILE */
+.mobile-hide {
+=09display: none !important;
+}
+
+.img-max {
+=09max-width: 100% !important;
+=09width: 100% !important;
+=09height: auto !important;
+}
+
+.gf {
+=09max-width: 260px !important;
+=09width: 100% !important;
+=09height: auto !important;
+}=09
+=09
+.logo-max {
+=09max-width: 75px !important;
+=09width: 100% !important;
+=09height: auto !important;
+}=09
+=09
+.sign-max {
+=09max-width: 161px !important;
+=09width: 100% !important;
+=09height: auto !important;
+}=09
+=09
+/* FULL-WIDTH TABLES */
+.responsive-table {
+=09width: 100% !important;
+}
+
+/* UTILITY CLASSES FOR ADJUSTING PADDING ON MOBILE */
+.padding {
+=09padding: 0 5% 0 5% !important;
+}
+
+.padding-copy {
+=09padding-top: 20px !important;
+=09padding-left: 5% !important;
+=09padding-right: 5% !important;
+=09font-size: 16px !important;
+=09line-height: 30px !important;
+}=09
+=09
+.padding-header {
+=09padding: 14px 10px 10px 10px !important;
+=09font-size: 20px !important;
+}
+=09
+.padding-header2 {
+=09padding: 0 0 0 0 !important;
+=09font-size: 20px !important;
+}=09
+=09
+.padding-hero {
+=09padding: 0 0 0 0 !important;
+=09text-align: center !important;
+}
+=09
+.padding-footer {
+=09font-size: 16px !important;
+ =09text-align: left !important;
+}=09
+=09
+.padding-footer2 {
+=09padding: 0 30px 20px 30px !important;
+ =09text-align: left !important;
+}=09
+=09=09
+.section-padding {
+=09padding: 0 15px 0 15px !important;
+}
+
+/* ADJUST BUTTONS ON MOBILE */
+.mobile-button-container {
+=09margin: 0 auto;
+=09width: 100% !important;
+}
+
+.mobile-button {
+=09width: 100% !important;
+=09font-size: 14px !important;
+=09line-height: 65px !important;
+=09display: inline-block !important;
+}
+}
+</style>
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+=09<tbody>
+=09=09<tr>
+=09=09=09<td align=3D"center" bgcolor=3D"#eeeeee" class=3D"section-padding"=
+ style=3D"padding:20px 15px 20px 15px;"><!--[if (gte mso 9)|(IE)]>
+            <table align=3D"center" border=3D"0" cellspacing=3D"0" cellpadd=
+ing=3D"0" width=3D"600">
+            <tr>
+            <td align=3D"center" valign=3D"top" width=3D"600">
+            <![endif]-->
+=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"w=
+rapper" style=3D"max-width: 600px;" width=3D"100%">
+=09=09=09=09<tbody>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td bgcolor=3D"#ffffff">
+=09=09=09=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" w=
+idth=3D"100%">
+=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09<td bgcolor=3D"#eeeeee">
+=09=09=09=09=09=09=09=09=09<table align=3D"center" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" width=3D"100%">
+=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<td align=3D"center" class=3D"padding-c=
+opy" style=3D"padding: 20px 25px 10px 25px; font-size: 24px; line-height: 3=
+0px; font-family: Arial, sans-serif; color: #666666;"><strong>Willst Du die=
+sen 500 Euro Gutschein gewinne?</strong></td>
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09<td bgcolor=3D"#1e49a8">
+=09=09=09=09=09=09=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacin=
+g=3D"0" width=3D"100%">
+=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<td align=3D"left" class=3D"padding-hea=
+der" style=3D"padding: 20px 0px 20px 20px;" width=3D"80"><img alt=3D"" bord=
+er=3D"0" class=3D"logo-max" height=3D"60" src=3D"http://image-gflamingo1.co=
+m/nl/ikea/2017/v2/head.png" style=3D"display:inline-block; padding: 0; colo=
+r: #ffffff; text-decoration: none; font-family: Arial, sans-serif; font-siz=
+e: 16px;" width=3D"60" /></td>
+=09=09=09=09=09=09=09=09=09=09=09=09<td align=3D"left" class=3D"padding-hea=
+der2" style=3D"padding: 0 0 0 0; font-size: 28px; font-family: Arial, sans-=
+serif; color: #f7d500; line-height: 24px"><strong>Bj=C3=B6rn Schmidt</stron=
+g><br />
+=09=09=09=09=09=09=09=09=09=09=09=09<span style=3D"font-size: 18px;">Promot=
+ion Manager</span></td>
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09<td align=3D"center" class=3D"padding-hero"><a h=
+ref=3D"http://warnerb.net/index.php/campaigns/cs585zznoc812/track-url/am593=
+98rbec58/52040ba3f8caffb5fcd0c9e6eefb28fefd7aab16"><img alt=3D"" border=3D"=
+0" class=3D"img-max" height=3D"350" src=3D"http://image-gflamingo1.com/de/i=
+kea/2018/v2/hero.jpg" style=3D"display: block; padding: 0; color: #ffffff; =
+text-decoration: none; font-family: Arial, sans-serif; font-size: 16px;" wi=
+dth=3D"600" /></a></td>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09<td>
+=09=09=09=09=09=09=09=09=09<table align=3D"center" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" width=3D"100%">
+=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<td align=3D"left" class=3D"padding-cop=
+y" style=3D"padding: 20px 25px 0 25px; font-size: 16px; line-height: 30px; =
+font-family: Arial, sans-serif; color: #666666;"><strong>Liebe<a href=3D"ht=
+tp://warnerb.net/index.php/campaigns/cs585zznoc812/track-url/am59398rbec58/=
+52040ba3f8caffb5fcd0c9e6eefb28fefd7aab16"> kontakt@dorianvasco.de</a>,</str=
+ong><br />
+=09=09=09=09=09=09=09=09=09=09=09=09Ich darf 10 Gutscheine im Wert von 500 =
+Euro vergeben! Willst Du auch einen gratis Gutschein in H=C3=B6he von 500 E=
+uro empfangen? Diese kannst Du nun gewinnen! Selbstverst=C3=A4ndlich, kanns=
+t Du den Gutschein nach eigenem Wunsch einsetzen.</td>
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09<td align=3D"center">
+=09=09=09=09=09=09=09=09=09<table align=3D"center" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" width=3D"100%">
+=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<td align=3D"center" class=3D"padding" =
+style=3D"padding:0 25px 0 25px">
+=09=09=09=09=09=09=09=09=09=09=09=09<table align=3D"center" border=3D"0" ce=
+llpadding=3D"0" cellspacing=3D"0" class=3D"mobile-button-container" width=
+=3D"100%">
+=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td align=3D"center" style=3D"=
+border-radius: 5px; padding: 20px 0 0 0">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<div><!--[if mso]><v:rect xmln=
+s:v=3D"urn:schemas-microsoft-com:vml" xmlns:w=3D"urn:schemas-microsoft-com:=
+office:word" href=3D"[LINK]&utm_source=3D455&utm_medium=3Demail&utm_campaig=
+n=3D455-email-C1&utm_content=3DBUTTON" style=3D"height:55px;v-text-anchor:m=
+iddle;width:400px;" stroke=3D"f" fillcolor=3D"#1e49a8"><w:anchorlock/><cent=
+er><![endif]--><a class=3D"mobile-button" href=3D"http://warnerb.net/index.=
+php/campaigns/cs585zznoc812/track-url/am59398rbec58/52040ba3f8caffb5fcd0c9e=
+6eefb28fefd7aab16" style=3D"background-color:#1e49a8; color:#f3d101; displa=
+y:inline-block; font-family:sans-serif; font-size:20px; line-height:65px; t=
+ext-align:center; text-decoration:none; width:100%; -webkit-text-size-adjus=
+t:none;"><strong>Ja, nat=C3=BCrlich will ich den Gutschein</strong></a><!--=
+[if mso]></center></v:rect><![endif]--></div>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09<td align=3D"center">
+=09=09=09=09=09=09=09=09=09<table align=3D"center" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" width=3D"100%">
+=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<td align=3D"center" class=3D"padding" =
+style=3D"padding:0 25px 25px 25px">
+=09=09=09=09=09=09=09=09=09=09=09=09<table align=3D"center" border=3D"0" ce=
+llpadding=3D"0" cellspacing=3D"0" class=3D"mobile-button-container" width=
+=3D"100%">
+=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td align=3D"center" style=3D"=
+border-radius: 0px; padding: 20px 0 0 0">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<div><!--[if mso]><v:rect xmln=
+s:v=3D"urn:schemas-microsoft-com:vml" xmlns:w=3D"urn:schemas-microsoft-com:=
+office:word" href=3D"[LINK]&utm_source=3D455&utm_medium=3Demail&utm_campaig=
+n=3D455-email-C1&utm_content=3DBUTTON2" style=3D"height:55px;v-text-anchor:=
+middle;width:400px;" strokecolor=3D"#666666" fillcolor=3D"#ffffff"><w:ancho=
+rlock/><center style=3D"color:#666666;font-family:sans-serif;font-size:20px=
+;font-weight:bold;">Nein, danke</center>  </v:rect><![endif]--><a class=3D"=
+mobile-button" href=3D"http://warnerb.net/index.php/campaigns/cs585zznoc812=
+/track-url/am59398rbec58/52040ba3f8caffb5fcd0c9e6eefb28fefd7aab16" style=3D=
+"background-color:#ffffff;border:1px solid #666666;color:#666666;display:in=
+line-block;font-family:sans-serif;font-size:20px;line-height:55px;text-alig=
+n:center;text-decoration:none;width:100%;-webkit-text-size-adjust:none;mso-=
+hide:all;">Nein, danke</a></div>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09<td>
+=09=09=09=09=09=09=09=09=09<table align=3D"center" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" width=3D"100%">
+=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<td>
+=09=09=09=09=09=09=09=09=09=09=09=09<table align=3D"left" border=3D"0" cell=
+padding=3D"0" cellspacing=3D"0" class=3D"responsive-table" width=3D"50%">
+=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td align=3D"left" class=3D"pa=
+dding-footer" style=3D"padding: 10px 30px 20px 30px; font-size: 16px; line-=
+height: 28px; font-family: Arial, sans-serif; color: #666666;">Mit freundli=
+chen Gr=C3=BC=C3=9Fen,<br />
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09Bj=C3=B6rn Schmidt</td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09</table>
+
+=09=09=09=09=09=09=09=09=09=09=09=09<table align=3D"right" border=3D"0" cel=
+lpadding=3D"0" cellspacing=3D"0" class=3D"responsive-table" width=3D"49%">
+=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td align=3D"right" class=3D"p=
+adding-footer2" style=3D"padding: 10px 20px 10px 10px;"><img alt=3D"" borde=
+r=3D"0" class=3D"sign-max" height=3D"68" src=3D"http://image-gflamingo1.com=
+/de/ikea/2018/v1/sign.png" style=3D"display:inline-block; padding: 0; color=
+: #ffffff; text-decoration: none; font-family: Arial, sans-serif; font-size=
+: 16px;" width=3D"202" /></td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09</table>
+=09=09=09=09=09=09</td>
+=09=09=09=09=09</tr>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td align=3D"center" bgcolor=3D"#eeeeee" style=3D"padding=
+: 20px 0 0 0;"><img alt=3D"" border=3D"0" class=3D"gf" height=3D"48" src=3D=
+"http://image-gflamingo1.com/gf/logo-de.png" style=3D"display: block; paddi=
+ng: 0px; color: rgb(255, 255, 255); text-decoration: none; font-family: Ari=
+al, sans-serif; font-size: 16px;" width=3D"197" /></td>
+=09=09=09=09=09</tr>
+=09=09=09=09</tbody>
+=09=09=09</table>
+=09=09=09<!--[if (gte mso 9)|(IE)]>
+            </td>
+            </tr>
+            </table>
+            <![endif]--></td>
+=09=09</tr>
+=09</tbody>
+</table>
+<img alt=3D"" border=3D"0" height=3D"1" src=3D"https://www.google-analytics=
+.com/collect?v=3D1&amp;tid=3DUA-106010354-1&amp;cid=3D8&amp;t=3Devent&amp;e=
+c=3D455-email-C1&amp;ea=3Dopen" style=3D"display: block; text-decoration: n=
+one;" width=3D"1" /> <img height=3D"1" src=3D"http://performance.affiliaxe.=
+com/aff_i?offer_id=3D29021&amp;file_id=3D1415377&amp;aff_id=3D56746" width=
+=3D"1" />
+<div align=3D"center"><br />
+<br />
+<br />
+<font color=3D"#666666"><small><small><small><font face=3D"Helvetica, Arial=
+, sans-serif"><small><a href=3D"http://warnerb.net/index.php/campaigns/cs58=
+5zznoc812/track-url/am59398rbec58/276f108d8663e53e18d05ce4b7375045e7ebe21b"=
+><big>Click here</big></a><big> to report this message as unsolicited or co=
+ntact elastic.ads@bulletmail.org</big></small></font></small></small><br />
+<br />
+<small><small><font face=3D"Helvetica, Arial, sans-serif"><a data-unsubtag=
+=3D"_DIRECT_UNSUBSCRIBE_URL_" href=3D"http://warnerb.net/index.php/campaign=
+s/cs585zznoc812/track-url/am59398rbec58/7f219380f473c87badbb54a5002d81f9995=
+19aea">Click here</a> to unsubscribe from this list</font></small></small><=
+/small></font><br />
+<br />
+<br />
+<br />
+<br />
+=C2=A0</div>
+
+
+--_=_swift_v4_1516677129_3ce5012a05404ba702062d9e19a8b3ce_=_--
+

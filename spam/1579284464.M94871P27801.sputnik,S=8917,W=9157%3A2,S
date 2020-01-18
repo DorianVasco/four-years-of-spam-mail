@@ -1,0 +1,240 @@
+Return-Path: <markkonemann@startupprofit.live>
+Delivered-To: mail@stilfilm.com
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 56CD7D1F49
+	for <mail@stilfilm.com>; Thu, 17 Oct 2019 11:29:13 +0200 (CEST)
+Authentication-Results: v22014122474822114.stilfilm.com; dkim=pass
+	reason="2048-bit key; insecure key"
+	header.d=startupprofit-live.20150623.gappssmtp.com header.i=@startupprofit-live.20150623.gappssmtp.com
+	header.b=liNeMyXN; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: 3.842
+X-Spam-Level: ***
+X-Spam-Status: No, score=3.842 required=5.5 tests=[BAYES_99=3.5,
+	BAYES_999=0.2, DKIM_SIGNED=0.1, DKIM_VALID=-0.1, HTML_MESSAGE=0.001,
+	RCVD_IN_DNSWL_NONE=-0.0001, RCVD_IN_SBL=0.141, SPF_HELO_NONE=0.001,
+	SPF_PASS=-0.001] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 8q_M0vIbT9VA for <mail@stilfilm.com>;
+	Thu, 17 Oct 2019 11:29:06 +0200 (CEST)
+Received: from mail-pg1-f196.google.com (mail-pg1-f196.google.com [209.85.215.196])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id 65CA7D1F28
+	for <mail@stilfilm.com>; Thu, 17 Oct 2019 11:28:59 +0200 (CEST)
+Received: by mail-pg1-f196.google.com with SMTP id p12so1003200pgn.6
+        for <mail@stilfilm.com>; Thu, 17 Oct 2019 02:28:59 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=startupprofit-live.20150623.gappssmtp.com; s=20150623;
+        h=from:to:subject:date:message-id:mime-version:thread-index
+         :content-language;
+        bh=P7hopV5b2p4SQ+6CRwtJcFoMlguxZ8oL7GTASzOtqds=;
+        b=liNeMyXNLCvRxZXAQXW82UoAsvtMIBfw6F6cnKu6jlcFM7ZuAuRi4tlNVvzBf8hgMK
+         0wRzvNKzY7dglUgOGZSbmzMgb3l44l87cttalb6L9jiM5mQ/UWNmaKV1IxmVqHqHUVk0
+         hT/vt0v87F9Zj8M08qetFL/KNNL8vO0kJnAILNQa49t7bZf9QRpwatZLpamMjTOQnwa1
+         eqezVi5TUHSts/aBdsT5oXpbp0bSPfctLV9I7yHfRGw1QUKOEY2ed2ddc5bqaUJjit1I
+         EkUwtCTOhmoguoQsqgpzyA6ycQ8hct6vIuBaFbdc1lMuhRz5BYNHWSBYdsqdHdzS25S5
+         RUHQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:from:to:subject:date:message-id:mime-version
+         :thread-index:content-language;
+        bh=P7hopV5b2p4SQ+6CRwtJcFoMlguxZ8oL7GTASzOtqds=;
+        b=Jk8c4EKVOYdOA1XYc1LRjiGo/S+zCQgA/5V2e1/xKcqYXmkuA9JjfU1tbBt7ZeD2Wh
+         x5zbLnKN2fBtLx1mFYBsl1X7Q+ZgMhRAC2avbecoCU/4efxSLVf5ATpRGASRO+Tpwsbc
+         Pw1qsNficnrRpoGJ2icGjccuvZSoG53NOERNDjh6qoZfO4jBuNC+GiuAX8QKU2UrFDa3
+         +Sri7uZiqunESTZsjmdfsQoCBy9H8bsHJIT+DOayN3FBytj8oapiC5GIG1hCDNc7be2D
+         SvUivoxMQ+F168ot0iaSjO4K+fQqo4qjruyS2BgXUmmHDt36Ewg97lOiwEL0e1Uhbnsn
+         2Nqg==
+X-Gm-Message-State: APjAAAUy0uis4qR2g+OUOoxmc7IAmaZ2DhurxzLEt5Au2tzl24+ttYPF
+	CtJs4/YiTrEsWgxwDkTOPT61/Rwy1go=
+X-Google-Smtp-Source: APXvYqy/sKpU2WUFT3pIaG4OUGM+Ft9jJ7QNo+qZX+6FLpxeN/8PVf8XkHzBaL4yBDQSIO///aCARQ==
+X-Received: by 2002:a63:d754:: with SMTP id w20mr3022567pgi.156.1571304537134;
+        Thu, 17 Oct 2019 02:28:57 -0700 (PDT)
+Received: from adminPC ([196.207.101.181])
+        by smtp.gmail.com with ESMTPSA id d76sm2163633pfd.185.2019.10.17.02.28.55
+        for <mail@stilfilm.com>
+        (version=TLS1 cipher=ECDHE-RSA-AES128-SHA bits=128/128);
+        Thu, 17 Oct 2019 02:28:56 -0700 (PDT)
+From: "Mark" <markkonemann@startupprofit.live>
+To: <mail@stilfilm.com>
+Subject: Google 1st Page
+Date: Thu, 17 Oct 2019 14:57:31 +0530
+Message-ID: <27f601d584cd$491df5c0$db59e140$@live>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_27F7_01D584FB.62D631C0"
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-Index: AdWEy/eOBg8E9efDQd2qzPbKeRtRsw==
+Content-Language: en-us
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_27F7_01D584FB.62D631C0
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+I hope you're well.
+
+            
+
+I am Mark, and I was doing some research on some of your competitors when I
+came across your site;
+
+ 
+
+Looks like you have a solid brand and a well-established company. I ran an
+analysis on your site using one of our software and I have found some areas
+and simple coding issues that are harming your search rankings.
+
+ 
+
+Would you be interested in free initial analysis report and keywords
+suggestion list with Google page 1 projection? I am more than happy to send
+it to you all I want is the opportunity to discuss how I could help improve
+the profitability and search traffic to your site?
+
+ 
+
+Do let us know. If you are interested to know more about our client's
+testimonials, service methodology and pricing details.
+
+ 
+
+Kind Regards, 
+
+Mark,
+
+Business Development Manager
+
+ 
+
+
+------=_NextPart_000_27F7_01D584FB.62D631C0
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<META HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html; =
+charset=3Dus-ascii">
+<meta name=3DGenerator content=3D"Microsoft Word 12 (filtered medium)">
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Cambria;
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+span.apple-converted-space
+	{mso-style-name:apple-converted-space;}
+.MsoChpDefault
+	{mso-style-type:export-only;}
+.MsoPapDefault
+	{mso-style-type:export-only;
+	margin-bottom:10.0pt;
+	line-height:115%;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+
+</head>
+
+<body lang=3DEN-US>
+
+<div class=3DSection1>
+
+<p class=3DMsoNormal style=3D'line-height:12.65pt'><i><span lang=3DEN-PH
+style=3D'font-family:"Cambria","serif";color:#222222'>I hope you're =
+well.</span></i><o:p></o:p></p>
+
+<p class=3DMsoNormal style=3D'line-height:12.65pt'><i><span lang=3DEN-PH
+style=3D'font-family:"Cambria","serif";color:#222222'>&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></i><o:p></o:=
+p></p>
+
+<p class=3DMsoNormal><i><span lang=3DEN-PH =
+style=3D'font-family:"Cambria","serif";
+color:#222222'>I am Mark, and I was doing some research on some of your
+competitors when I came across your site;</span></i><o:p></o:p></p>
+
+<p class=3DMsoNormal style=3D'line-height:12.65pt'>&nbsp;</p>
+
+<p class=3DMsoNormal style=3D'line-height:12.65pt'><i><span lang=3DEN-PH
+style=3D'font-family:"Cambria","serif";color:#222222'>Looks like you =
+have a solid
+brand and a well-established company. I ran an analysis on your site =
+using one
+of our software and I have found some areas and simple coding issues =
+that are
+harming your search rankings.</span></i><o:p></o:p></p>
+
+<p class=3DMsoNormal style=3D'line-height:12.65pt'>&nbsp;</p>
+
+<p class=3DMsoNormal style=3D'line-height:12.65pt'><i><span lang=3DEN-PH
+style=3D'font-family:"Cambria","serif";color:#222222'>Would you be =
+interested in
+free initial analysis report and keywords suggestion list with Google =
+page 1
+projection? I am more than happy to send it to you all I want is the
+opportunity to discuss how I could help improve the profitability and =
+search
+traffic to your site?</span></i><o:p></o:p></p>
+
+<p class=3DMsoNormal style=3D'line-height:12.65pt'>&nbsp;</p>
+
+<p class=3DMsoNormal style=3D'line-height:12.65pt'><i><span lang=3DEN-PH
+style=3D'font-family:"Cambria","serif";color:#222222'>Do let us know. If =
+you are
+interested to know more about our client&#8217;s testimonials, service
+methodology and pricing details.</span></i><o:p></o:p></p>
+
+<p class=3DMsoNormal style=3D'line-height:12.65pt'>&nbsp;</p>
+
+<p class=3DMsoNormal style=3D'line-height:12.65pt'><i><span lang=3DEN-PH
+style=3D'font-family:"Cambria","serif";color:#222222'>Kind Regards,<span
+class=3Dapple-converted-space>&nbsp;</span></span></i><o:p></o:p></p>
+
+<p class=3DMsoNormal style=3D'line-height:12.65pt'><i><span lang=3DEN-PH
+style=3D'font-family:"Cambria","serif";color:#222222'>Mark,</span></i><o:=
+p></o:p></p>
+
+<p class=3DMsoNormal style=3D'line-height:12.65pt'><i><span lang=3DEN-PH
+style=3D'font-family:"Cambria","serif";color:#222222'>Business =
+Development
+Manager</span></i><o:p></o:p></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+</div>
+
+</body>
+
+</html>
+
+------=_NextPart_000_27F7_01D584FB.62D631C0--
+

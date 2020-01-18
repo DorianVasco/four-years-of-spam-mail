@@ -1,0 +1,31 @@
+Return-Path: <infolike0352@bassa1903.com>
+Delivered-To: mail@stilfilm.com
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id BEB88D0FE1
+	for <mail@stilfilm.com>; Sat, 27 Oct 2018 19:25:52 +0200 (CEST)
+X-Quarantine-ID: <Cim_a_0TDT8W>
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Amavis-Alert: BAD HEADER SECTION, Missing required header field: "Date"
+X-Spam-Flag: YES
+X-Spam-Score: 7.627
+X-Spam-Level: *******
+X-Spam-Status: Yes, score=7.627 required=5.5 tests=[HTML_MESSAGE=0.001,
+	HTML_MIME_NO_HTML_TAG=0.635, MIME_HTML_ONLY=1.105, MISSING_DATE=1.396,
+	MISSING_HEADERS=1.207, MISSING_MID=0.14, RDNS_NONE=1.274,
+	SPF_HELO_SOFTFAIL=0.896, SPF_SOFTFAIL=0.972, TVD_SPACE_RATIO=0.001]
+	autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id Cim_a_0TDT8W for <mail@stilfilm.com>;
+	Sat, 27 Oct 2018 19:25:51 +0200 (CEST)
+Received: from bassa1903.com (unknown [191.96.249.167])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 9957EC13CA
+	for <antons@stilfilm.com>; Sat, 27 Oct 2018 19:25:47 +0200 (CEST)
+From: "facebook" <infolike0352@bassa1903.com>
+Subject: Verifi
+MIME-Version: 1.0
+Content-Type: text/html
+Message-Id: <20181027172552.BEB88D0FE1@v22014122474822114.stilfilm.com>
+Date: Sat, 27 Oct 2018 19:25:52 +0200 (CEST)
+
+ 

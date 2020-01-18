@@ -1,0 +1,204 @@
+Return-Path: <bounces+97825-4cc2-mail=dorianvasco.de@em.chatra.io>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id C546DC280E
+	for <mail@dorianvasco.de>; Wed, 17 Jan 2018 12:19:46 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: 0.115
+X-Spam-Level:
+X-Spam-Status: No, score=0.115 required=5.5 tests=[DKIM_SIGNED=0.1,
+	DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1, HTML_MESSAGE=0.001,
+	LONG_HEX_URI=0.224, SPF_PASS=-0.001, T_RP_MATCHES_RCVD=-0.01,
+	URIBL_BLOCKED=0.001] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id IteTqnPcFJth for <mail@dorianvasco.de>;
+	Wed, 17 Jan 2018 12:19:45 +0100 (CET)
+Received: from o1.em.chatra.io (o1.em.chatra.io [167.89.40.48])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id 3507EC05FE
+	for <mail@dorianvasco.de>; Wed, 17 Jan 2018 12:19:45 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; d=chatra.io; 
+	h=content-type:from:mime-version:reply-to:subject:to:list-unsubscribe; 
+	s=s1; bh=ExuQzeNgzg23fxhlFZgSjENmZ9M=; b=Hj6JV8rXHdkDjINYGBdoF60
+	1HvERxozr4QMkf/XnUyMLz2K6jFjtdEC0b+XCbKnct6DU+vjLPFvCYd7K5Z3U7eA
+	vr94YqfVW7HJsbhWLaBmmKmxAbToJrAcnXTokGprdMzI1uhgEAREiVMoJsCzwcaJ
+	6zDGWbjqeT1z0jrnamlU=
+Content-Type: multipart/alternative; boundary=402a1c5a465a1615a84a081c4dd2f80d65f13fed3d3f333e0f5688a92dd4
+Date: Wed, 17 Jan 2018 11:20:03 +0000 (UTC)
+From: "Yaakov from Chatra" <yakov@chatra.io>
+Mime-Version: 1.0
+Reply-To: support@chatra.io
+Subject: release announcement 
+To: mail@dorianvasco.de
+Message-ID: <JSCMxH4FSaC_7xUT55zq8w@ismtpd0023p1iad2.sendgrid.net>
+List-Unsubscribe: <mailto:unsubscribe@em.chatra.io?subject=http://eml.chatra.io/asm/unsubscribe/*q*user_id=97825*a*data=FGrctq7gL2doWP0ZWuN-Xsc1p4gDbB1EzSCxQGCjv_QJzyfISMnwQu2d6lBK1NCbKDEBN-8giR_ivtqcPvBryx_ypJtKPNh_UU5wro1GusCZc1URikwHHsXJBwsnGYRec11fCN4g8YldBHnx9yI8VdV-pet9RzSDxJiKHrIWfEdjtxGeyxqQyl2MkLWtAfMO0JjHbsDzK2dVulwzxlIz_mCPrUBNy7dz-g0cQ7wSC-T77ClD_koTjUVUrzzo6ARC_0KYcSw2zvij7n5gDAoPranQJz44dyIHzM7pSe-wEuEpyDgKEARwZOI287zMvX7Tjr1xRSSKv3piM5TVnkeATZf_RERl2Z8UjPATKctq9U-PdMqp0-G8Lqt1i0LsM8NmOlj7ydv3M3itO0WRyGRpNToZULsu2HzxOr0wbh5XuVxRPGMGdHVKkzA9QUGQVN5lci5WceWHY40t_F_GHXezRouoqTcWFqkFOibulA9AtdocB5mIpAgec1_Mdc_wpsntQW44BYrP5jw6EsnukzyoSsgtrLJddiSWtcLXGLOFCWM=>
+X-SG-EID: 7giigzkRv5byIVQi8QoJMf6K/3KfEkjMb81l2x8+gr+iW5Ht36V+MK5Fj1hlmoDTTeAxm4gBkPHHOW
+ WZE+W2flqrHgLFDfqnO3Ou/mTbeW0/TxsSiwUny9fQCkol8xSkv/T26YSm8QuxOx5UODyLrBwqSEB6
+ nJ9+P2G+dy6cdhy4YCD3OYIllh8OuC9A073HlqqM4UQswqHKUEKZJla3U8dYq+UnQhK78mC/zVzeiS
+ s=
+X-SG-ID: Z2FxZazunBjVeNuNdzHDqrF8mxuCpi0krmont6YQrP3fe52ntfdZn8swrchxDHFPr6bbtwm97KoR4Z
+ N3ZsTjnhVRIAampcH1XENBU2oJmUePDXbWwiKlymu4XiP79cAWG7R3uzFVo+8SgNnqgpqd5runnWLI
+ 2mrhRKsblAmKYicIPZt/aNXrSxI5ecSXGwBA
+
+--402a1c5a465a1615a84a081c4dd2f80d65f13fed3d3f333e0f5688a92dd4
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=UTF-8
+Mime-Version: 1.0
+
+Hi there!
+
+First of all, I want to thank you for being a customer of Chatra!
+
+We were not sitting idly this holiday season and have just released another=
+ app to help you sell more =E2=80=94 a simple, beautiful bar you can use to=
+ promote offers, inform your visitors that you ship to their location, and =
+many more. No coding required!
+
+It=E2=80=99s called =E2=80=9CYeps!=E2=80=9D =E2=80=94 check it out now at y=
+eps.io https://yeps.io.=C2=A0
+
+https://yeps.io
+
+Enter your email in the form, click the green =E2=80=9CGrab it=E2=80=9D but=
+ton and you'll be forwarded to the dashboard. The bars are super easy to cu=
+stomize, but we are there to help if you have any difficulties!
+
+Thanks again!
+
+Yaakov Karda
+
+Co-founder & CEO, Chatra
+
+PS Questions? Feedback? Hit =E2=80=9Creply=E2=80=9D and let us know!
+
+unsubscribe http://eml.chatra.io/asm/unsubscribe/?user_id=3D97825&data=3DFG=
+rctq7gL2doWP0ZWuN-Xsc1p4gDbB1EzSCxQGCjv_QJzyfISMnwQu2d6lBK1NCbKDEBN-8giR_iv=
+tqcPvBryx_ypJtKPNh_UU5wro1GusCZc1URikwHHsXJBwsnGYRec11fCN4g8YldBHnx9yI8VdV-=
+pet9RzSDxJiKHrIWfEdjtxGeyxqQyl2MkLWtAfMO0JjHbsDzK2dVulwzxlIz_mCPrUBNy7dz-g0=
+cQ7wSC-T77ClD_koTjUVUrzzo6ARC_0KYcSw2zvij7n5gDAoPranQJz44dyIHzM7pSe-wEuEpyD=
+gKEARwZOI287zMvX7Tjr1xRSSKv3piM5TVnkeATZf_RERl2Z8UjPATKctq9U-PdMqp0-G8Lqt1i=
+0LsM8NmOlj7ydv3M3itO0WRyGRpNToZULsu2HzxOr0wbh5XuVxRPGMGdHVKkzA9QUGQVN5lci5W=
+ceWHY40t_F_GHXezRouoqTcWFqkFOibulA9AtdocB5mIpAgec1_Mdc_wpsntQW44BYrP5jw6Esn=
+ukzyoSsgtrLJddiSWtcLXGLOFCWM=3D=
+
+--402a1c5a465a1615a84a081c4dd2f80d65f13fed3d3f333e0f5688a92dd4
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=UTF-8
+Mime-Version: 1.0
+
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+<div>&nbsp;</div>
+
+<div>Hi there!</div>
+
+<div>&nbsp;</div>
+
+<div>First of all, I want to thank you for being a customer of Chatra!</div>
+
+<div>&nbsp;</div>
+
+<div>We were not sitting idly this holiday season and have just released an=
+other app to help you sell more &mdash; a simple, beautiful bar you can use=
+ to promote offers, inform your visitors that you ship to their location, a=
+nd many more. No coding required!</div>
+
+<div>&nbsp;</div>
+
+<div>It&rsquo;s called &ldquo;Yeps!&rdquo; &mdash; <a href=3D"http://eml.ch=
+atra.io/wf/click?upn=3DM8aHJshBfOCyYhMbOeExXT7n5pyA21EaPPg4YULRyk8-3D_Ceg-2=
+F8bgdTVbo00UkuNkQpHZorcfcTmVcX4mBQhYWDXGlfOM0lohy-2FSK4J9YO0ArbNbKClMrUFxg-=
+2FQzF3RG1qGxbyk0XxzE8ZsQrsANz6IT7ZucW-2BsYmlY-2F6OFfVj4TBYCWuhH9i1rNtGWqOnW=
+cvyDNFVsICF-2B7kVEKyAPFmlianTSOx6DqXlmSZvhWINSzZmJ4979n-2FZ3CwxthrYT8V8w-2F=
+RikqAGIlThiu0rf850DgYztLZ3VzQsbWszDy-2Bj8kEJmriMB0B7mRwSswsb9f32gHQQ9EMmQP8=
+-2F-2BoPvqD9i41LteUc3BA5-2Bp6vWZLNi55ODhLmEteOb27Xw8bwO0CSn0RxTrLSZKaP3X-2B=
+iSTUnQwCh2aNZVHgtekuK0yEvu1r6rtdglbvu3j9jQOi97ZrhRnkqxhrCNaLjjr8Bsie7WzdEEi=
+teo-2F59Lp8nYhh-2FETONt">check it out now at yeps.io</a>.&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>
+<div><span class=3D"sg-image" data-imagelibrary=3D"%7B%22width%22%3A%22883%=
+22%2C%22height%22%3A%22150%22%2C%22alignment%22%3A%22%22%2C%22src%22%3A%22h=
+ttps%3A//marketing-image-production.s3.amazonaws.com/uploads/2b0292df25b86e=
+c35828d7f343053ef4f5b7d4f4e59e883294813c5b2f96d3ee12cf4cb87aedcffd24fef7895=
+e0fa5d7ba627f8938bcebbe5f47fe057dc15f7b.gif%22%2C%22classes%22%3A%7B%22sg-i=
+mage%22%3A1%7D%2C%22alt_text%22%3A%22%22%2C%22link%22%3A%22https%3A//yeps.i=
+o%22%7D"><a href=3D"http://eml.chatra.io/wf/click?upn=3DM8aHJshBfOCyYhMbOeE=
+xXT7n5pyA21EaPPg4YULRyk8-3D_Ceg-2F8bgdTVbo00UkuNkQpHZorcfcTmVcX4mBQhYWDXGlf=
+OM0lohy-2FSK4J9YO0ArbNbKClMrUFxg-2FQzF3RG1qGxbyk0XxzE8ZsQrsANz6IT7ZucW-2BsY=
+mlY-2F6OFfVj4TBYCWuhH9i1rNtGWqOnWcvyDNFVsICF-2B7kVEKyAPFmlianTSOx6DqXlmSZvh=
+WINSzZmJ4979n-2FZ3CwxthrYT8V8w4GbTfCFQK6Y-2BiyZ77-2B9CBBkbC9vkcEQkjwbTNPnQf=
+JPPtT0NwSdstUs3HinHsb9JIPvSsOHqEdVROFV63wWplV4LMz6CVVtWTQ92CN4nMb7HZeeFfE-2=
+BshXw-2BK09EEQuIjSX-2FCa7sKypzngqlD-2BzxYlrVOQOERGFGH7nlYP0IYSa22X6xeWR-2Fa=
+ms2fHH-2BOLbJF7n7-2BcF6tgrzfHHslIQvyk38WacfHeOwi16XtuDgnUq"><img src=3D"htt=
+ps://marketing-image-production.s3.amazonaws.com/uploads/2b0292df25b86ec358=
+28d7f343053ef4f5b7d4f4e59e883294813c5b2f96d3ee12cf4cb87aedcffd24fef7895e0fa=
+5d7ba627f8938bcebbe5f47fe057dc15f7b.gif" style=3D"width:883px;max-width:100=
+%;height:auto;" /></a></span></div>
+
+<div>&nbsp;</div>
+
+<div>
+<div>Enter your email in the form, click the green &ldquo;Grab it&rdquo; bu=
+tton and you&#39;ll be forwarded to the dashboard. The bars are super easy =
+to customize, but we are there to help if you have any difficulties!</div>
+
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+
+<div>Thanks again!</div>
+</div>
+</div>
+
+<div>Yaakov Karda<br />
+Co-founder &amp; CEO, Chatra</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>PS Questions? Feedback? Hit &ldquo;reply&rdquo; and let us know!</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<p style=3D"font-size: 0.8em; color: #666;"><a href=3D"http://eml.chatra.io=
+/asm/unsubscribe/?user_id=3D97825&data=3DFGrctq7gL2doWP0ZWuN-Xsc1p4gDbB1EzS=
+CxQGCjv_QJzyfISMnwQu2d6lBK1NCbKDEBN-8giR_ivtqcPvBryx_ypJtKPNh_UU5wro1GusCZc=
+1URikwHHsXJBwsnGYRec11fCN4g8YldBHnx9yI8VdV-pet9RzSDxJiKHrIWfEdjtxGeyxqQyl2M=
+kLWtAfMO0JjHbsDzK2dVulwzxlIz_mCPrUBNy7dz-g0cQ7wSC-T77ClD_koTjUVUrzzo6ARC_0K=
+YcSw2zvij7n5gDAoPranQJz44dyIHzM7pSe-wEuEpyDgKEARwZOI287zMvX7Tjr1xRSSKv3piM5=
+TVnkeATZf_RERl2Z8UjPATKctq9U-PdMqp0-G8Lqt1i0LsM8NmOlj7ydv3M3itO0WRyGRpNToZU=
+Lsu2HzxOr0wbh5XuVxRPGMGdHVKkzA9QUGQVN5lci5WceWHY40t_F_GHXezRouoqTcWFqkFOibu=
+lA9AtdocB5mIpAgec1_Mdc_wpsntQW44BYrP5jw6EsnukzyoSsgtrLJddiSWtcLXGLOFCWM=3D"=
+ style=3D"color: #666; text-decoration: underline;">unsubscribe</a></p>
+
+<img src=3D"http://eml.chatra.io/wf/open?upn=3DCeg-2F8bgdTVbo00UkuNkQpHZorc=
+fcTmVcX4mBQhYWDXGlfOM0lohy-2FSK4J9YO0ArbNbKClMrUFxg-2FQzF3RG1qGxbyk0XxzE8Zs=
+QrsANz6IT7ZucW-2BsYmlY-2F6OFfVj4TBYCWuhH9i1rNtGWqOnWcvyDNFVsICF-2B7kVEKyAPF=
+mlianTSOx6DqXlmSZvhWINSzZmJ4979n-2FZ3CwxthrYT8V8w4KAFSJHWqmABYrkNEA1HIf3qcI=
+hniHfyY1-2FJRe99ttw2GTKGamO9ndvOxnkT1WVINXfGmslK8-2FIk7mzetPP3fHbSdSGEDEXHC=
+Z7sEjBco5QQA5sWHeS4X5wCRENizHca3pymAHRVz03IY0ggYzWd6MvsqnAvA9F6t-2Bktrrb-2B=
+3X6-2F3tZqP6eAe1hno1eMIBgD08CWWLtE39eA2Irfx1UP9cB91xEUHTc4Omj0tn72ex7" alt=
+=3D"" width=3D"1" height=3D"1" border=3D"0" style=3D"height:1px !important;=
+width:1px !important;border-width:0 !important;margin-top:0 !important;marg=
+in-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;p=
+adding-top:0 !important;padding-bottom:0 !important;padding-right:0 !import=
+ant;padding-left:0 !important;"/>
+</body>
+</html>
+
+
+--402a1c5a465a1615a84a081c4dd2f80d65f13fed3d3f333e0f5688a92dd4--

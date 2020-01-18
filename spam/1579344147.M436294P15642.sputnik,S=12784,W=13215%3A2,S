@@ -1,0 +1,431 @@
+Return-Path: <6971-526-625753748-1527-mail=dorianvasco.de@mail.magitens.review>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id F0D2ED2D6B
+	for <mail@dorianvasco.de>; Thu, 30 Nov 2017 20:04:02 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 6.805
+X-Spam-Level: ******
+X-Spam-Status: Yes, score=6.805 required=5.5 tests=[DKIM_SIGNED=0.1,
+	HTML_MESSAGE=0.001, MIME_HTML_MOSTLY=0.001, MPART_ALT_DIFF=0.724,
+	PYZOR_CHECK=1.985, RCVD_IN_PSBL=2.7, RDNS_NONE=1.274, SPF_PASS=-0.001,
+	T_DKIM_INVALID=0.01, T_REMOTE_IMAGE=0.01, URIBL_BLOCKED=0.001]
+	autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id m8Jbgbo3h7cF for <mail@dorianvasco.de>;
+	Thu, 30 Nov 2017 20:04:00 +0100 (CET)
+Received: from tera.magitens.review (unknown [216.105.170.178])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id B9942C079A
+	for <mail@dorianvasco.de>; Thu, 30 Nov 2017 20:04:00 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=magitens.review;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=healthcare@magitens.review;
+ bh=IMowNpvWOwC2eYuZO6qutFJhMm4=;
+ b=e/N/Dbz5rBxKakS5eHmEax3T5hq3la7PGO74xquXDx6RZutDBpxyyHkOU8ACFsXPeziNoVShGqmD
+   3LRAOO6Nb6oDPwG8bwb7SZznDmRD/WLPGTNDUgn4utAXZNA6qBgBUUIz07LBKHGCZNNr6KLfTnsT
+   q8iD/WkWIp9n/E/Jtbw=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=magitens.review;
+ b=j2Tm2alJ5PK5uDeAYhq/Um4wHArUpLzxa2Rqafd68o6/1W7IzzMoQLjDLx0YPA4SwVH3fVFtJrRt
+   Z+loCman63jPZlzF9ADVOx5Sk04uJ7mtouqKPuupz6H+B/9KYebFSjzfCi2yLa6OV7aoq8cYyFGS
+   h0UIshpFV/19DbYeMvY=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="40a87121610766bc1479f59abadd93fc"
+Date: Thu, 30 Nov 2017 13:00:45 -0600
+From: "Health Alert Tips" <healthcare@magitens.review>
+Reply-To: "Holistic Health-News" <healthcare@magitens.review>
+Subject: Never be afraid to eat again
+To: <mail@dorianvasco.de>
+Message-ID: <m71w28tr6gda1ely-hvypj170vhds8xzn-254c3e94@magitens.review>
+
+--40a87121610766bc1479f59abadd93fc
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+This email must be viewed in HTML mode.
+
+--40a87121610766bc1479f59abadd93fc
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title></title>
+	<meta http-equiv="Content-Type" content="text/html; charset=windows-1252" />
+	<style type="text/css">#rgba(0, 0, 0, 0.8);
+  border-left: 8px solid transparent;
+  content: '';
+}
+
+#fh5co-primary-menu .fh5co-sub-menu .fh5co-sub-menu:before {
+  top: 6px;
+  right: 100%;
+}
+
+#fh5co-primary-menu .fh5co-sub-menu .fh5co-sub-menu:after {
+  top: 7px;
+  right: 100%;
+  border: none !important;
+}
+
+site-header.has-image #primary-menu .sub-menu {
+  border-color: #ebebeb;
+  box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.19);
+}
+site-header.has-image #primary-menu .sub-menu:before {
+  display: none;
+}
+
+#fh5co-primary-menu .fh5co-sub-menu a {
+  letter-spacing: 0;
+  padding: 0 15px;
+  font-size: 14px;
+  line-height: 26px;
+  color: #ffffff !important;
+  text-transform: none;
+  background: none;
+}
+#fh5co-primary-menu .fh5co-sub-menu a:hover {
+  color: #57cecd !important;
+}
+
+fh5co-nav-toggle {
+  width: 25px;
+  height: 25px;
+  cursor: pointer;
+  text-decoration: none;
+}
+fh5co-nav-toggle.active i::before, .fh5co-nav-toggle.active i::after {
+  background: #2e2e2e;
+}
+fh5co-nav-toggle:hover, .fh5co-nav-toggle:focus, .fh5co-nav-toggle:active {
+  outline: none;
+  border-bottom: none !important;
+}
+fh5co-nav-toggle i {
+  position: relative;
+  display: inline-block;
+  width: 25px;
+  height: 3px;
+  color: #252525;
+  font: bold 14px/.4 Helvetica;
+  text-transform: uppercase;
+  text-indent: -55px;
+  background: #252525;
+  transition: all .2s ease-out;
+}
+fh5co-nav-toggle i::before, .fh5co-nav-toggle i::after {
+  content: '';
+  width: 25px;
+  height: 3px;
+  background: #252525;
+  position: absolute;
+  left: 0;
+  transition: all .2s ease-out;
+}
+fh5co-nav-toggle.fh5co-nav-white > i {
+  color: #ffffff;
+  background: #ffffff;
+}
+fh5co-nav-toggle.fh5co-nav-white > i::before, .fh5co-nav-toggle.fh5co-nav-white > i::after {
+  background: #ffffff;
+}
+
+fh5co-nav-toggle i::before {
+  top: -7px;
+}
+
+fh5co-nav-toggle i::after {
+  bottom: -7px;
+}
+
+fh5co-nav-toggle:hover i::before {
+  top: -10px;
+}
+
+fh5co-nav-toggle:hover i::after {
+  bottom: -10px;
+}
+
+fh5co-nav-toggle.active i {
+  background: transparent;
+}
+
+fh5co-nav-toggle.active i::before {
+  top: 0;
+  -webkit-transform: rotateZ(45deg);
+  -moz-transform: rotateZ(45deg);
+  -ms-transform: rotateZ(45deg);
+  -o-transform: rotateZ(45deg);
+  transform: rotateZ(45deg);
+}
+
+fh5co-nav-toggle.active i::after {
+  bottom: 0;
+  -webkit-transform: rotateZ(-45deg);
+  -moz-transform: rotateZ(-45deg);
+  -ms-transform: rotateZ(-45deg);
+  -o-transform: rotateZ(-45deg);
+  transform: rotateZ(-45deg);
+}
+
+fh5co-nav-toggle {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 21;
+  padding: 6px 0 0 0;
+  display: block;
+  margin: 0 auto;
+  display: none;
+  background: #f86942;
+  height: 44px;
+  width: 44px;
+  border-bottom: none !important;
+}
+@media screen and (max-width: 768px) {
+  .fh5co-nav-toggle {
+    display: block;
+  }
+}
+
+/* Mobile Menu */
+#fh5co-mobile-menu {
+  -moz-transform: translateX(-275px);
+  -webkit-transform: translateX(-275px);
+  -ms-transform: translateX(-275px);
+  transform: translateX(-275px);
+  display: block;
+  height: 100%;
+  left: 0;
+  overflow-y: auto;
+  position: fixed;
+  top: 0;
+  width: 275px;
+  z-index: 10002;
+  background: #181920;
+  padding: 0.75em 1.25em;
+}
+#fh5co-mobile-menu #fh5co-mobile-menu-ul {
+  padding: 0;
+  margin: 0;
+}
+#fh5co-mobile-menu #fh5co-mobile-menu-ul li {
+  list-style: none;
+}
+#fh5co-mobile-menu #fh5co-mobile-menu-ul li.active > a {
+  color: #ffffff;
+}
+#fh5co-mobile-menu #fh5co-mobile-menu-ul a {
+  border-bottom: none !important;
+  padding: 7px 0;
+  display: block;
+  color: #ccc;
+  color: rgba(255, 255, 255, 0.5);
+}
+#fh5co-mobile-menu #fh5co-mobile-menu-ul a:hover {
+  color: #ffffff;
+  color: white;
+}
+#fh5co-mobile-menu #fh5co-mobile-menu-ul .fh5co-sub-ddown {
+  position: relative;
+}
+#fh5co-mobile-menu #fh5co-mobile-menu-ul .fh5co-sub-ddown::after {
+  font-family: 'themify';
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  position: absolute;
+  right: 0;
+  margin-top: 2px;
+  content: "\e64b";
+}
+#fh5co-mobile-menu #fh5co-mobile-menu-ul .fh5co-sub-menu {
+  display: none;
+  padding-left: 20px;
+}
+#fh5co-mobile-menu #fh5co-mobile-menu-ul .fh5co-sub-menu li {
+  list-style: none;
+}
+
+#fh5co-logo-mobile-wrap {
+  -webkit-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -ms-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+  display: block;
+  height: 44px;
+  left: 0;
+  position: fixed;
+  text-align: center;
+  top: 0;
+  width: 100%;
+  z-index: 10001;
+  background: #2b303b;
+  color: #ccc;
+  -webkit-box-shadow: 0 0.125em 0.125em 0 rgba(0, 0, 0, 0.125);
+  -moz-box-shadow: 0 0.125em 0.125em 0 rgba(0, 0, 0, 0.125);
+  -ms-box-shadow: 0 0.125em 0.125em 0 rgba(0, 0, 0, 0.125);
+  -o-box-shadow: 0 0.125em 0.125em 0 rgba(0, 0, 0, 0.125);
+  box-shadow: 0 0.125em 0.125em 0 rgba(0, 0, 0, 0.125);
+}
+#fh5co-logo-mobile-wrap h1 {
+  padding: 0;
+  margin: 0;
+  font-size: 20px;
+  font-weight: bold;
+}
+#fh5co-logo-mobile-wrap h1 a {
+  border-bottom: none !important;
+  color: #ccc;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+}
+
+#fh5co-content {
+  padding: 7em 0;
+}
+@media screen and (max-width: 768px) {
+  #fh5co-content {
+    margin-bottom: 4em;
+  }
+}
+
+#fh5co-sidebar {
+  padding: 7em 0;
+  font-size: 16px;
+}
+#fh5co-sidebar.left-sidebar {
+  padding-right: 50px;
+}
+@media screen and (max-width: 768px) {
+  #fh5co-sidebar.left-sidebar {
+    padding-right: 0px;
+  }
+}
+#fh5co-sidebar.right-sidebar
+	</style>
+</head>
+<body><a href="http://magitens.review/-D2uAnN70-2FVKGnnTr7LeW3gMD6zEdoBataoLYQFWVPkA"><img border="0" src="http://magitens.review/rWkDdkwA0YcS5ZgGEQK-jnDoHaqp-iFBZhSEy5jOCwFSUw" /> </a>
+<center>
+<table align="center">
+	<tbody>
+		<tr>
+			<td style="padding: 12px;">
+			<center><a href="http://magitens.review/a273IvScVeMFPhNnphRUgVVKfD3W2tSUTerXNuXR5rYNRA" style=" font-family: Comic Sans MS; font-size: 30px; font-weight: bold; color: #F00; margin: 10px auto; color:#CD0001;" target="_blank">Never be afraid to eat again </a></center>
+			</td>
+		</tr>
+		<tr>
+			<td style=" padding:14px;">
+			<table align="center" width="485px">
+				<tbody>
+					<tr>
+						<td style=" font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size:15px;">
+						<p align="left"><strong>Heartburn...Acid Reflux</strong> - whatever...it&#39;s painful and it&#39;s something you can do without. YES - I understand that.</p>
+
+						<p align="left">So you take drugs every day to get some relief don&#39;t you?</p>
+
+						<p align="left">Come on...admit it - whether it&#39;s Tums...or Zantec...or Prevacid - or any of those other <strong>&quot;Acid Reducers&quot;</strong> you need them to get through a meal - or to get back to sleep after waking with <strong>&quot;the burn&quot;</strong> right?<br />
+						<br />
+						Of course.</p>
+
+						<p align="left"><a href="http://magitens.review/a273IvScVeMFPhNnphRUgVVKfD3W2tSUTerXNuXR5rYNRA" style="font-family: ; font-size:14px; color: #CD0001;"><b>-&gt; But if you click here now, you can discover how a slice of apple can bring you the relief you need without being a &quot;drug addict.&quot;</b></a></p>
+
+						<p align="center"><a href="http://magitens.review/a273IvScVeMFPhNnphRUgVVKfD3W2tSUTerXNuXR5rYNRA"><img src="http://magitens.review/04f12062db1f4a1d08.jpg" style=" font-size:24px; width: 295px; height:225px;" /></a></p>
+
+						<p align="left"><strong><a href="http://magitens.review/a273IvScVeMFPhNnphRUgVVKfD3W2tSUTerXNuXR5rYNRA" style="font-family: ; font-size:14px; color: #CD0001;">Killing your ability to digest a meal</a></strong>...not only are you missing all the nutrients you need to live, the food is sitting in your gut and rotting...exposing you to a host of sickening bacteria and parasites that grow in it.</p>
+						&nbsp;
+
+						<hr /></td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<center><br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<a href="http://magitens.review/u4v3MfF4OpEA23uvXdukTtCe9bdHFiYCVTO8YyOmhpW96w"><img alt="To stop ads visit it" src="http://magitens.review/985340fb65f47fa550.jpg" /></a></center>
+			</td>
+		</tr>
+		<tr>
+			<td align="center">
+			<table style="width:550px; font-size:10px; background-color: #FFFFFF; border: 14px solid white;">
+				<tbody>
+					<tr>
+						<td align="center">
+						<div id="random" name="random" style="color: #FFFFFF; font: sans-serif 4pt; border: 1px;" title="random"><br />
+						<br />
+						<br />
+						&nbsp;
+						<p align="center" style="font: 13px;">&nbsp;</p>
+
+						<p align="center">&nbsp;</p>
+						</div>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</center>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+&nbsp;
+<center><a href="http://magitens.review/fxzicUmv-AHO4hkXGxmnqEDGHxcwdKoKiBPhzXUS5MzHIw"><img src="http://magitens.review/174408f46e37f532cf.jpg" /></a></center>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+&nbsp;
+<p><span style="font-size:10px; font-family:Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, sans-serif; list-style-type:none;margin: none;transition-duration: 0.218s;margin-right: inherit;text-align:normal;border-image-repeat: stretch;padding-bottom: none;border-image-outset:0px;color:#ffffff">s until 1993. In 1992, the Pennsylvania Department of Transportation began a heavy equipment training school at Piper, which is still in operation. In 1992 the Pennsylvania Department of Corrections opened the Quehanna Motivational Boot Camp at Piper as the state&#39;s &quot;first military-style motivational boot camp&quot;. The minimum security program for non-violent, first-time offenders has accepted both male and female inmates from the start. Originally designed to house 200, the Department of Corrections expanded the facility in the late 1990s to a capacity of 500 on about 50 acres (20 ha). The inmates spend six months in a military-style program that s opportunities for educat
+ ion and builds positive life </span></p>
+</body>
+</html>
+
+--40a87121610766bc1479f59abadd93fc--
+

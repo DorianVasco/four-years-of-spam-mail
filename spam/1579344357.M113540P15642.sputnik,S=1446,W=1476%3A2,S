@@ -1,0 +1,30 @@
+Return-Path: <infolike8610@jeffreycoyrealestate.com>
+Delivered-To: mail@stilfilm.com
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 01BE1C15CE
+	for <mail@stilfilm.com>; Fri,  2 Nov 2018 23:03:01 +0100 (CET)
+X-Quarantine-ID: <C4c_dZvi21_d>
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Amavis-Alert: BAD HEADER SECTION, Missing required header field: "Date"
+X-Spam-Flag: YES
+X-Spam-Score: 5.76
+X-Spam-Level: *****
+X-Spam-Status: Yes, score=5.76 required=5.5 tests=[HTML_MESSAGE=0.001,
+	HTML_MIME_NO_HTML_TAG=0.635, MIME_HTML_ONLY=1.105, MISSING_DATE=1.396,
+	MISSING_HEADERS=1.207, MISSING_MID=0.14, RCVD_IN_DNSWL_BLOCKED=0.001,
+	RDNS_NONE=1.274, TVD_SPACE_RATIO=0.001] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id C4c_dZvi21_d for <mail@stilfilm.com>;
+	Fri,  2 Nov 2018 23:02:59 +0100 (CET)
+Received: from jeffreycoyrealestate.com (unknown [191.96.249.167])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id BCF71C04DB
+	for <bing@stilfilm.com>; Fri,  2 Nov 2018 23:02:57 +0100 (CET)
+From: "google" <infolike8610@jeffreycoyrealestate.com>
+Subject: Verifi
+MIME-Version: 1.0
+Content-Type: text/html
+Message-Id: <20181102220301.01BE1C15CE@v22014122474822114.stilfilm.com>
+Date: Fri,  2 Nov 2018 23:03:01 +0100 (CET)
+
+ 

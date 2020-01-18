@@ -1,0 +1,126 @@
+Received: from localhost by v22014122474822114.stilfilm.com
+	with SpamAssassin (version 3.3.2);
+	Wed, 22 Nov 2017 21:01:58 +0100
+From: "Anastasia" <Anastasiajp@collegeroots.com>
+To: <kontakt@dorianvasco.de>
+Subject: *****SPAM***** ***SPAM*** How are you?
+Date: Tue, 01 Aug 2017 17:57:28 -0000
+Message-Id: <4468239384.182841022835866047.JavaMail.root@collegeroots.com>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	v22014122474822114.stilfilm.com
+X-Spam-Flag: YES
+X-Spam-Level: ********
+X-Spam-Status: Yes, score=8.7 required=5.0 tests=HELO_MISC_IP,PYZOR_CHECK,
+	RCVD_IN_BRBL_LASTEXT,RCVD_IN_PBL,RDNS_NONE,URIBL_BLOCKED autolearn=no
+	version=3.3.2
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----------=_5A15D7B6.A2F60AC9"
+
+This is a multi-part message in MIME format.
+
+------------=_5A15D7B6.A2F60AC9
+Content-Type: text/plain; charset=iso-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+
+Software zur Erkennung von "Spam" auf dem Rechner
+
+    v22014122474822114.stilfilm.com
+
+hat die eingegangene E-mail als mögliche "Spam"-Nachricht identifiziert.
+Die ursprüngliche Nachricht wurde an diesen Bericht angehängt, so dass
+Sie sie anschauen können (falls es doch eine legitime E-Mail ist) oder
+ähnliche unerwünschte Nachrichten in Zukunft markieren können.
+Bei Fragen zu diesem Vorgang wenden Sie sich bitte an
+
+    the administrator of that system
+
+Vorschau: Hi! How are you? My name is Anastasia (or shortly Nastya),
+   and I’d love to know your name. Do you visit this site oftentimes? I was
+  hoping to talk to you in chat once but you left all of a sudden. Could you
+   write me your address or send me a letter some day? I believe we have a lot
+   in common and talking to you will be much pleasure for me. [...] 
+
+Inhaltsanalyse im Detail:   (8.7 Punkte, 5.0 benötigt)
+
+Pkte Regelname              Beschreibung
+---- ---------------------- --------------------------------------------------
+ 3.6 RCVD_IN_PBL            RBL: Received via a relay in Spamhaus PBL
+                            [197.239.80.56 listed in zen.spamhaus.org]
+ 1.6 RCVD_IN_BRBL_LASTEXT   RBL: RCVD_IN_BRBL_LASTEXT
+                            [197.239.80.56 listed in bb.barracudacentral.org]
+ 0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+                            See
+                            http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                             for more information.
+                            [URIs: gmx.com]
+ 2.0 PYZOR_CHECK            Gelistet im Pyzor-System (http://pyzor.sf.net/)
+ 1.3 RDNS_NONE              Delivered to internal network by a host with no rDNS
+ 0.2 HELO_MISC_IP           Looking for more Dynamic IP Relays
+
+Die ursprüngliche Nachricht enthielt nicht ausschließlich Klartext
+(plain text) und kann eventuell eine Gefahr für einige E-Mail-Programme
+darstellen (falls sie z.B. einen Computervirus enthält).
+Möchten Sie die Nachricht dennoch ansehen, ist es wahrscheinlich
+sicherer, sie zuerst in einer Datei zu speichern und diese Datei danach
+mit einem Texteditor zu öffnen.
+
+
+------------=_5A15D7B6.A2F60AC9
+Content-Type: message/rfc822; x-spam-type=original
+Content-Description: original message before SpamAssassin
+Content-Disposition: attachment
+Content-Transfer-Encoding: 8bit
+
+Return-Path: <Anastasiajp@collegeroots.com>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id B0107D4938
+	for <mail@dorianvasco.de>; Tue,  1 Aug 2017 19:57:30 +0200 (CEST)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 6.136
+X-Spam-Level: ******
+X-Spam-Status: Yes, score=6.136 required=5.5 tests=[BAYES_99=3.5,
+	BAYES_999=0.2, HELO_MISC_IP=0.25, PYZOR_CHECK=1.392, RDNS_NONE=0.793,
+	URIBL_BLOCKED=0.001] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 2Oa06_th3U5p for <mail@dorianvasco.de>;
+	Tue,  1 Aug 2017 19:57:29 +0200 (CEST)
+Received: from [197.239.80.56] (unknown [197.239.80.56])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id AF843C2C9D
+	for <kontakt@dorianvasco.de>; Tue,  1 Aug 2017 19:57:28 +0200 (CEST)
+Received: from smtpd (localhost.localdomain [127.0.0.1])	by collegeroots.com
+ (Postfix) with ESMTP id 03FC3C61386A
+ for <kontakt@dorianvasco.de>; Tue, 01 Aug 2017 17:57:28 -0000
+Date: Tue, 01 Aug 2017 17:57:28 -0000
+From: "Anastasia" <Anastasiajp@collegeroots.com>
+To: <kontakt@dorianvasco.de>
+Message-ID: <4468239384.182841022835866047.JavaMail.root@collegeroots.com>
+Subject: ***SPAM*** How are you?
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_Part_64373_63717631.2558661795286"
+
+------=_Part_64373_63717631.2558661795286
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi! How are you?
+My name is Anastasia (or shortly Nastya), and I=92d love to know your =
+name.
+Do you visit this site oftentimes? I was hoping to talk to you in chat =
+once but you left all of a sudden. Could you write me your address or =
+send me a letter some day?
+I believe we have a lot in common and talking to you will be much =
+pleasure for me.
+
+My email downtlasdistrol@gmx.com
+
+Looking forward to getting your letter,
+Anastasia
+------=_Part_64373_63717631.2558661795286--
+
+------------=_5A15D7B6.A2F60AC9--
+

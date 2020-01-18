@@ -1,0 +1,233 @@
+Return-Path: <yogeshonlinemarketin@hotmail.com>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 42DF6C2C5B
+	for <mail@dorianvasco.de>; Wed, 10 Jan 2018 14:02:03 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: 1.087
+X-Spam-Level: *
+X-Spam-Status: No, score=1.087 required=5.5 tests=[DKIM_SIGNED=0.1,
+	DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1, FORGED_HOTMAIL_RCVD2=1.187,
+	FREEMAIL_FROM=0.001, HTML_MESSAGE=0.001, RCVD_IN_DNSWL_NONE=-0.0001,
+	SPF_HELO_PASS=-0.001, SPF_PASS=-0.001] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 7ikyqpu0pEIK for <mail@dorianvasco.de>;
+	Wed, 10 Jan 2018 14:01:40 +0100 (CET)
+Received: from NAM01-BY2-obe.outbound.protection.outlook.com (mail-oln040092001047.outbound.protection.outlook.com [40.92.1.47])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id 16313C2C50
+	for <mail@dorianvasco.de>; Wed, 10 Jan 2018 14:01:36 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=hotmail.com;
+ s=selector1; h=From:Date:Subject:Message-ID:Content-Type:MIME-Version;
+ bh=+fwcEw5WU3XFik4RHudFVk8yy84xfX9sst9e7iFtyKo=;
+ b=uwHkgHNg4igYjbk1P5zZWMMyNZ26/XbstyB4efLvCiXZwQw4zigVk4y7IT+XVXVJ8Hy9IxcCJolm0wqtP0ItcLjlwstr4Ua1zFyzsfvqrEh0dTXcGHxwLry/RjnshU/YR/Le9v+ixNjqFzAbcsnJFyos57f+uFFWJV0l/QKfskR0yXPXCHb5/hVINDrUWXgnnipODsC+I6tFrccwGjXUsa0qp6h1JQGLERV6BB9uJHOS8A6yJVuLL8Ajp8bX6y6f4eXJuik3qKsvTxW6h8wImaVQuF/d589zhsw95nWwt3GXc0ThZsQl3MQltVIZ8x1ktOMiQ+t50CMsBed9n9mGqw==
+Received: from SN1NAM01FT018.eop-nam01.prod.protection.outlook.com
+ (10.152.64.60) by SN1NAM01HT217.eop-nam01.prod.protection.outlook.com
+ (10.152.64.169) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id 15.20.345.12; Wed, 10
+ Jan 2018 13:01:19 +0000
+Received: from MWHPR13MB1872.namprd13.prod.outlook.com (10.152.64.60) by
+ SN1NAM01FT018.mail.protection.outlook.com (10.152.64.244) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256_P256) id
+ 15.20.345.12 via Frontend Transport; Wed, 10 Jan 2018 13:01:19 +0000
+Received: from MWHPR13MB1872.namprd13.prod.outlook.com ([10.171.146.18]) by
+ MWHPR13MB1872.namprd13.prod.outlook.com ([10.171.146.18]) with mapi id
+ 15.20.0407.000; Wed, 10 Jan 2018 13:01:19 +0000
+From: Yogesh Gaur <yogeshonlinemarketin@hotmail.com>
+To: "mail@dorianvasco.de" <mail@dorianvasco.de>
+Subject: Google keyword position
+Thread-Topic: Google keyword position
+Thread-Index: AdOKD25RP45sC9CwTQK0x7oW92j11Q==
+Date: Wed, 10 Jan 2018 13:01:19 +0000
+Message-ID: <MWHPR13MB18722B8E680F2D1BDE126932CC110@MWHPR13MB1872.namprd13.prod.outlook.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-incomingtopheadermarker: OriginalChecksum:72F377CCA10F315A7C0D815191530627321F78263DC58B4DDAEC102A1DCEF464;UpperCasedChecksum:6633FB0AA0A854DE8F2402DF174E7EEA0AFF1F17DB8CFC3C84431F5EA1000AD5;SizeAsReceived:6988;Count:46
+x-ms-exchange-messagesentrepresentingtype: 1
+x-tmn: [YHVKzBcET+2xYGTkCD5ZvQ5PpotjwD33]
+x-ms-publictraffictype: Email
+x-microsoft-exchange-diagnostics: 1;SN1NAM01HT217;6:RSfqVFjo88zraoGIZUaGIM+kYfHHWKnktzYbw42Jc5U/uUWlS1xDu6Rc7hJahl9kBmNYEKhLBziAUV4YEkK4wXoyVRNFpLnvcLu9AkktahKlemNXyYOTzb5FQl4EvoKszNrsUOc/XPBAHWTwFiSiI98sRj1cTOxREVrA2nJzr6MyM7trsOr43/7Fin08E6ZPZMQ0zV8kW5OEZ6VeG5DZGeQjbE95NYEldgDedJGRfpaRFJKPRopJHdBsLl+43jF8SAVTIvv6rmtaDOTXkZkJr/KzTsVv2BHjtmzXUp8TQXJM82IrU3sQWxZjjT6fz9IIAb4c+SRTMJLFJAsOlVwFy/hNjODdtGzE2lokjUO97tk=;5:v/HkEb2uEo0vR98N3a3xMhp6jubsc5e7iljiEte83IJoREdHsKUPtHOyGk+/Pk4kmoY/UrEq87x5Jxbg8IKjs9ULeogroYQoFHxRlHR+a8rbNjazej3XDBVZE/6N34RtkIX8vXKVxI4DzXyZq2jAPg9IQbwA2PVmgItaHvPn444=;24:P1FBlcaKKmgC3TwpCA8Iri5c0qSkalBXXP0uOvOO2v8Ku4fOURUpGbYXnhdSbmR9AbwEXnVrKS6lMNEpCVmDXuqW7YHwCTP2mbXi/TUMrDk=;7:PUjSik6CBLJgws3D9SQnilfTs9+duuxkybjjsL8o8nLgYime9sq6ez2OfZMzfyTiWBInvcnATaiVYOp3FGR8a8BpxppcOBp1S+h8xktjm3wwSjTZPTUCNUro8R1uN4u8awJgggzi9wvfzTSZ+QMdc/fEVTahg/bZCzCKeXmYV5yjg4nvQG0GKLaY4WlDiqpgYVsrxMzCVNxxIvpVXRxgJb06qd5sVAbcFgnEFp4KyDLzteEy9N8Q9G4mwUFDQhH5
+x-incomingheadercount: 46
+x-eopattributedmessage: 0
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(7020051)(201702061074)(5061506573)(5061507331)(1603103135)(2017031320274)(2017031324274)(2017031323274)(2017031322404)(1603101448)(1601125374)(1701031045);SRVR:SN1NAM01HT217;
+x-ms-traffictypediagnostic: SN1NAM01HT217:
+x-ms-office365-filtering-correlation-id: 51a3bd6b-c258-41cf-a868-08d5582a3da8
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(444000031);SRVR:SN1NAM01HT217;BCL:0;PCL:0;RULEID:(100000803101)(100110400095);SRVR:SN1NAM01HT217;
+x-forefront-prvs: 0548586081
+x-forefront-antispam-report: SFV:NSPM;SFS:(7070007)(98901004);DIR:OUT;SFP:1901;SCL:1;SRVR:SN1NAM01HT217;H:MWHPR13MB1872.namprd13.prod.outlook.com;FPR:;SPF:None;LANG:;
+spamdiagnosticoutput: 1:99
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/alternative;
+	boundary="_000_MWHPR13MB18722B8E680F2D1BDE126932CC110MWHPR13MB1872namp_"
+MIME-Version: 1.0
+X-OriginatorOrg: hotmail.com
+X-MS-Exchange-CrossTenant-Network-Message-Id: 51a3bd6b-c258-41cf-a868-08d5582a3da8
+X-MS-Exchange-CrossTenant-originalarrivaltime: 10 Jan 2018 13:01:19.6471
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Internet
+X-MS-Exchange-CrossTenant-id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: SN1NAM01HT217
+
+--_000_MWHPR13MB18722B8E680F2D1BDE126932CC110MWHPR13MB1872namp_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Hi,
+
+Hope you are doing well.
+
+My name is "Shivana" and working with a reputed leading Search Engine Optim=
+ization .
+
+Company a proposal  in India having the experience of getting our customer'=
+s websites top in Google and producing high revenue with top page rank.
+
+I was recently visiting your website and saw your Website is not on First P=
+age On Google for most of the relevant and user oriented Keywords pertainin=
+g to Your Domain so I was wondering
+
+ If you would be interested in getting very Affordable Search Engine Optimi=
+zation done for your website.
+
+Let me know if you are interested and I would happy to send you more detail=
+s on this.
+
+I look forward to your positive response.
+
+Regards,
+Shivana
+
+
+
+
+--_000_MWHPR13MB18722B8E680F2D1BDE126932CC110MWHPR13MB1872namp_
+Content-Type: text/html; charset="us-ascii"
+Content-ID: <0B01FE1935E1E447BC6971C7ECF7DDA5@namprd13.prod.outlook.com>
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Generator" content=3D"Microsoft Word 12 (filtered medium)">
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+p
+	{mso-style-priority:99;
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+span.hoenzb
+	{mso-style-name:hoenzb;}
+span.apple-converted-space
+	{mso-style-name:apple-converted-space;}
+span.yiv1958804686apple-converted-space
+	{mso-style-name:yiv1958804686apple-converted-space;}
+.MsoChpDefault
+	{mso-style-type:export-only;}
+.MsoPapDefault
+	{mso-style-type:export-only;
+	margin-bottom:10.0pt;
+	line-height:115%;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.Section1
+	{page:Section1;}
+-->
+</style><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext=3D"edit">
+  <o:idmap v:ext=3D"edit" data=3D"1" />
+ </o:shapelayout></xml><![endif]-->
+</head>
+<body lang=3D"EN-US" link=3D"blue" vlink=3D"purple">
+<div class=3D"Section1">
+<p class=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto"><b><i><span style=3D"font-family:&quot;Arial&quot;,&quot;sans-seri=
+f&quot;;color:#8C0095">Hi,</span><span style=3D"color:#8C0095"><br>
+<br>
+</span></i></b><b><i><span style=3D"font-family:&quot;Arial&quot;,&quot;san=
+s-serif&quot;;color:#8C0095">Hope you are doing well.</span><span style=3D"=
+color:#8C0095"><br>
+</span></i></b><b><i><span style=3D"font-family:&quot;Arial&quot;,&quot;san=
+s-serif&quot;;color:#8C0095">&nbsp;</span><span style=3D"color:#8C0095"><br=
+>
+</span></i></b><b><i><span style=3D"font-family:&quot;Arial&quot;,&quot;san=
+s-serif&quot;;color:#8C0095">My name is &quot;Shivana&quot; and working wit=
+h a reputed leading Search Engine Optimization .</span><span style=3D"color=
+:#8C0095"><br>
+<br>
+</span></i></b><b><i><span style=3D"font-family:&quot;Arial&quot;,&quot;san=
+s-serif&quot;;color:#8C0095">Company a proposal &nbsp;in India having the e=
+xperience of getting our customer's websites top in Google and producing hi=
+gh revenue with top page rank.</span><span style=3D"color:#8C0095"><br>
+<br>
+</span></i></b><b><i><span style=3D"font-family:&quot;Arial&quot;,&quot;san=
+s-serif&quot;;color:#8C0095">I was recently visiting your website and saw y=
+our Website is not on First Page On Google for most of the relevant and use=
+r oriented Keywords pertaining to Your Domain so I was
+ wondering</span><span style=3D"color:#8C0095"><br>
+</span></i></b><b><i><span style=3D"font-family:&quot;Arial&quot;,&quot;san=
+s-serif&quot;;color:#8C0095">&nbsp;</span><span style=3D"color:#8C0095"><br=
+>
+</span></i></b><b><i><span style=3D"font-family:&quot;Arial&quot;,&quot;san=
+s-serif&quot;;color:#8C0095">&nbsp;If you would be interested in getting ve=
+ry Affordable Search Engine Optimization done for your website.</span><span=
+ style=3D"color:#8C0095"><br>
+<br>
+</span></i></b><b><i><span style=3D"font-family:&quot;Arial&quot;,&quot;san=
+s-serif&quot;;color:#8C0095">Let me know if you are interested and I would =
+happy to send you more details on this.</span><span style=3D"color:#8C0095"=
+><br>
+<br>
+</span></i></b><b><i><span style=3D"font-family:&quot;Arial&quot;,&quot;san=
+s-serif&quot;;color:#8C0095">I look forward to your positive response.</spa=
+n><span style=3D"color:#8C0095"><br>
+<br>
+</span></i></b><b><i><span style=3D"font-family:&quot;Arial&quot;,&quot;san=
+s-serif&quot;;color:#8C0095">Regards,</span><span style=3D"color:#8C0095"><=
+br>
+</span>Shivana</i></b><span style=3D"color:black"><o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Calibri&quot;,&quot=
+;sans-serif&quot;;color:black"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span class=3D"MsoHyperlink"><o:p><span style=3D"tex=
+t-decoration:
+ none">&nbsp;</span></o:p></span></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+</div>
+</body>
+</html>
+
+--_000_MWHPR13MB18722B8E680F2D1BDE126932CC110MWHPR13MB1872namp_--

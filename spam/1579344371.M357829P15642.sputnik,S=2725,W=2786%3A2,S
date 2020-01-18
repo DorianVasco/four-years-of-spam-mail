@@ -1,0 +1,61 @@
+Return-Path: <admin@geoprofy.ru>
+Delivered-To: mail@elementk.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 93FE5D1B6C
+	for <mail@elementk.de>; Sat, 15 Dec 2018 18:39:28 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 7.078
+X-Spam-Level: *******
+X-Spam-Status: Yes, score=7.078 required=5.5 tests=[DKIM_SIGNED=0.1,
+	DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1, HTML_MESSAGE=0.001,
+	RCVD_IN_BL_SPAMCOP_NET=1.246, RCVD_IN_PSBL=2.7, RCVD_IN_RP_RNBL=1.284,
+	SPF_HELO_PASS=-0.001, SPF_PASS=-0.001, URIBL_ABUSE_SURBL=1.948,
+	URIBL_BLOCKED=0.001] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 8HAJAQKybvMG for <mail@elementk.de>;
+	Sat, 15 Dec 2018 18:39:26 +0100 (CET)
+Received: from geoprofy.ru (geoprofy.ru [92.53.91.236])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 72368D1B6B
+	for <mail@elementk.de>; Sat, 15 Dec 2018 18:39:22 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=key1; d=geoprofy.ru;
+ h=Message-ID:Reply-To:From:To:Subject:Date:MIME-Version:Content-Type; i=admin@geoprofy.ru;
+ bh=BTY8WmNv0TasJiaPrvx6QkEhz4w=;
+ b=ZD4M86d5hjTwBNqgaw7jSJRBugf0PQFqeum7Rear7Di0Ac+rK/oep8VyHCoO1O4Enm6GgsIq/VPU
+   WUKu9+vSuv8hlytyshTrx0YsFrVzWpxdAf3T0LGTTnxGC6QTJs9QsE6PEO8SyvECPsuTweZc2k5g
+   p+f1IKTyyEW2a++pz0A=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=key1; d=geoprofy.ru;
+ b=c6S8RvyXQQYaof3VLKz0JQxPUTXHb6FfRlmBHc6hyYFZjTnxaOFgeeGDcefXAHHBG7SaolpIRDuq
+   Ucucfm/kEoFeth20kWYVtebJlGySuwtAeL99RsilTrFZXRz8A8YJirA0AZZD8UlWEiWD2Ay+4yyi
+   ldmE8LgGhiFYJ3YRIRg=;
+Message-ID: <0e6f302dd910aa4e6d9254070cd8e03c1feeb6418d@geoprofy.ru>
+Reply-To: "Jedi" <admin@geoprofy.ru>
+From: "Jedi" <admin@geoprofy.ru>
+To: <mail@elementk.de>
+Subject: Here is  nice offers
+Date: Sat, 15 Dec 2018 20:42:44 +0300
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="82bef746221e343d9194228e686c4641e35aef"
+X-Priority: 1
+
+--82bef746221e343d9194228e686c4641e35aef
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+=C2=A0Hey Good news ! a good offering Are you in?
+
+--82bef746221e343d9194228e686c4641e35aef
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<HTML><HEAD>
+<META http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+</HEAD>
+<BODY bgColor=3D#ffffff>
+<DIV align=3Dleft><A=20
+href=3D"http://red.studygood.com/WWDHXJSOHCVWTF">&nbsp;Hey=20
+Good news !  a good offering=20
+Are you in?  </A></DIV></BODY></HTML>
+
+--82bef746221e343d9194228e686c4641e35aef--

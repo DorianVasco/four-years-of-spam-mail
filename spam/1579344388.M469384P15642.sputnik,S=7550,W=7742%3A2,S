@@ -1,0 +1,192 @@
+Return-Path: <danielle@moltenfraystaffing.com>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 9B603D1337
+	for <mail@dorianvasco.de>; Mon,  4 Feb 2019 09:34:21 +0100 (CET)
+Authentication-Results: v22014122474822114.stilfilm.com; dkim=pass
+	reason="1024-bit key; insecure key"
+	header.d=moltenfraystaffing.com header.i=danielle@moltenfraystaffing.com
+	header.b=CHNN9YwF; dkim-adsp=pass; dkim-atps=neutral
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: 1.35
+X-Spam-Level: *
+X-Spam-Status: No, score=1.35 required=5.5 tests=[DKIM_SIGNED=0.1,
+	DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1, DOS_OUTLOOK_TO_MX=1.449,
+	HTML_MESSAGE=0.001, SPF_PASS=-0.001, URIBL_BLOCKED=0.001] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id SpcimM_oYgTz for <mail@dorianvasco.de>;
+	Mon,  4 Feb 2019 09:34:17 +0100 (CET)
+Received: from mt10.moltenfraystaffing.com (mt10.moltenfraystaffing.com [144.217.128.187])
+	(using TLSv1 with cipher ECDHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id 1D85FC4F72
+	for <mail@dorianvasco.de>; Mon,  4 Feb 2019 09:34:11 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=m2018120401; d=moltenfraystaffing.com;
+ h=Reply-To:From:To:Subject:Date:Message-ID:MIME-Version:Content-Type; i=danielle@moltenfraystaffing.com;
+ bh=ynM52fM6RrWw+UaLdIYRDqzk6ms=;
+ b=CHNN9YwFsALgcZiTpXHOJHPjPM3IVKBXGOKW+nkRi5573A6fTVEAsEZbnx7lMCPzsbPvEOFyJtWy
+   ueqYQgfwco6Yxs/2/LwYUhAFx15Hkk9eytCshivyzJpqcIVwMw5bGGC051bJL6WQ+oylMagCU6Cm
+   yLpHfB6hmr4mHiUZBV0=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=m2018120401; d=moltenfraystaffing.com;
+ b=zGPlLQCDcc/jk7L63E1Z92LYPJ6QKsup3hsBl7GmAt/Tx7mbqds1uulXzYU1atIUxAZWYp+bTgzz
+   mbtd4OGirJ/oJbMp1PvI9ugdJh1T8eHS0nDGz4XnSVrMBnoVMsfjTgSenwxuJMMpzYaLdgekvXti
+   s0dy6oYf/lO3PIF2ZNc=;
+Reply-To: <katejohan470@gmail.com>
+From: "Danielle" <danielle@moltenfraystaffing.com>
+To: <mail@dorianvasco.de>
+Subject: Web Designer & SEO Expert!!
+Date: Mon, 4 Feb 2019 14:16:26 +0545
+Message-ID: <2b7f01d4bc64$61e5f940$25b1ebc0$@moltenfraystaffing.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_2B80_01D4BC94.940F4F40"
+X-Mailer: Microsoft Outlook 14.0
+Thread-Index: AdS8Y95g2SAfjZ0KSmSltkmZ6iIInQ==
+Content-Language: en-us
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_2B80_01D4BC94.940F4F40
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+Hi,
+
+Web Design & SEO Expert!!
+
+I'll build the website of your dreams, and rank it #1 on Google! 
+
+Hi, my name is Danielle Over the last 10 plus years, I have worked with many
+entrepreneurs and businesses helping them establish their Online Digital
+Media presence. 
+
+I have a passion for everything digital and stay on top of the latest trends
+and strategies. I'm knowledgeable in web design, web development, SEO,
+digital marketing and WordPress, Magento, Shopify, etc.
+
+SKILLSL:
+. Creative Web Designer 
+. Skilled Web Developer (coder - HTML, CSS, PHP, Javascript,)
+. Building Mobile Friendly, Lead Generating, Websites
+. SEO & Digital Marketing Expert ( Get Found #1 on Google! )
+. Website Maintenance
+
+ 
+
+Thanks & Regards,
+
+Danielle
+
+
+------=_NextPart_000_2B80_01D4BC94.940F4F40
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40"><head><META =
+HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html; =
+charset=3Dus-ascii"><meta name=3DGenerator content=3D"Microsoft Word 14 =
+(filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin-top:0in;
+	margin-right:0in;
+	margin-bottom:10.0pt;
+	margin-left:0in;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{mso-style-priority:99;
+	mso-style-link:"Header Char";
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{mso-style-priority:99;
+	mso-style-link:"Footer Char";
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+p.MsoNoSpacing, li.MsoNoSpacing, div.MsoNoSpacing
+	{mso-style-priority:1;
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+span.HeaderChar
+	{mso-style-name:"Header Char";
+	mso-style-priority:99;
+	mso-style-link:Header;}
+span.FooterChar
+	{mso-style-name:"Footer Char";
+	mso-style-priority:99;
+	mso-style-link:Footer;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri","sans-serif";}
+.MsoPapDefault
+	{mso-style-type:export-only;
+	margin-bottom:10.0pt;
+	line-height:115%;}
+/* Page Definitions */
+@page
+	{mso-endnote-separator:url("cid:header.htm\@01D4BC94.10894400") es;
+	=
+mso-endnote-continuation-separator:url("cid:header.htm\@01D4BC94.10894400=
+") ecs;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DEN-US><div =
+class=3DWordSection1><p class=3DMsoNoSpacing>Hi,</p><p =
+class=3DMsoNoSpacing>Web Design &amp; SEO Expert!!</p><p =
+class=3DMsoNoSpacing><span style=3D'background:white'>I'll build the =
+website of your dreams, and rank it<b> #1 on =
+Google!&nbsp;</b></span><br><br><span style=3D'background:white'>Hi, my =
+name is <b>Danielle </b></span>Over<span style=3D'background:white'> the =
+last 10 plus years, I have worked with many entrepreneurs and businesses =
+helping them establish their Online Digital Media =
+presence.&nbsp;</span><br><br><span style=3D'background:white'>I have a =
+passion for everything digital and stay on top of the latest trends and =
+strategies. I'm knowledgeable in web design, web development, SEO, =
+digital marketing and WordPress, Magento, Shopify, =
+etc.</span><br><br><b><span =
+style=3D'background:white'>SKILLS</span></b>L:<br><span =
+style=3D'background:white'>&#8226; Creative Web =
+Designer&nbsp;</span><br><span style=3D'background:white'>&#8226; =
+Skilled Web Developer (coder - HTML, CSS, PHP, =
+Javascript,)</span><br><span style=3D'background:white'>&#8226; Building =
+Mobile Friendly, Lead Generating, Websites</span><br><span =
+style=3D'background:white'>&#8226; SEO &amp; Digital Marketing Expert ( =
+Get Found #1 on Google! )</span><br><span =
+style=3D'background:white'>&#8226; Website =
+Maintenance<o:p></o:p></span></p><p =
+class=3DMsoNoSpacing><o:p>&nbsp;</o:p></p><p =
+class=3DMsoNoSpacing><b>Thanks &amp; Regards,</b><b><span =
+style=3D'font-size:12.0pt;font-family:"Arial","sans-serif"'><o:p></o:p></=
+span></b></p><p class=3DMsoNoSpacing><b><span =
+style=3D'background:white'>Danielle</span><o:p></o:p></b></p></div></body=
+></html>
+------=_NextPart_000_2B80_01D4BC94.940F4F40--
+

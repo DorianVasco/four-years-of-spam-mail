@@ -1,0 +1,230 @@
+Return-Path: <mail@gmail.com>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 9723FC786C
+	for <mail@dorianvasco.de>; Tue, 14 May 2019 14:02:13 +0200 (CEST)
+Authentication-Results: v22014122474822114.stilfilm.com; dkim=pass
+	reason="1024-bit key; insecure key"
+	header.d=sendgrid.me header.i=@sendgrid.me header.b=hCvSjyEh;
+	dkim-adsp=none (insecure policy); dkim-atps=neutral
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 13.257
+X-Spam-Level: *************
+X-Spam-Status: Yes, score=13.257 required=5.5 tests=[BAYES_99=3.5,
+	BAYES_999=0.2, DKIM_ADSP_CUSTOM_MED=0.001, DKIM_SIGNED=0.1,
+	DKIM_VALID=-0.1, FREEMAIL_FROM=0.001, HTML_MESSAGE=0.001,
+	MIME_HTML_ONLY=0.723, NML_ADSP_CUSTOM_MED=0.9, PYZOR_CHECK=1.392,
+	RCVD_IN_DNSWL_NONE=-0.0001, SPF_SOFTFAIL=0.665,
+	URIBL_ABUSE_SURBL=1.25, URIBL_BLACK=1.7, URIBL_DBL_SPAM=2.5,
+	URIBL_GREY=0.424] autolearn=spam
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id wI3C_sqxHRgn for <mail@dorianvasco.de>;
+	Tue, 14 May 2019 14:02:08 +0200 (CEST)
+Received: from o3.3n.shared.sendgrid.net (o3.3n.shared.sendgrid.net [50.31.60.236])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id 81E7CC7869
+	for <mail@dorianvasco.de>; Tue, 14 May 2019 14:02:02 +0200 (CEST)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; d=sendgrid.me; 
+	h=from:to:subject:mime-version:content-type:content-transfer-encoding; 
+	s=smtpapi; bh=MZ1q6RwIysY6e2csXRQJHAX4D74=; b=hCvSjyEh02/iOwgM0z
+	whf91LUV1MnBvBNNnCHN3CZGSRukL+l3BrV7JykAy2v3dzOwEF9lXpdrhhkD0CBk
+	D3Bz64rirWkKEaifUCsUIwlUo01KOmT9XnIX71pZ3hLfQt5Rlhzs3VA/g1nhW8Ek
+	IojXK2QBAzAjfk8yVGlM3oUd0=
+Received: by filter1806p1mdw1.sendgrid.net with SMTP id filter1806p1mdw1-8857-5CDAACA5-14
+        2019-05-14 11:55:17.333591229 +0000 UTC m=+20113.494641453
+Received: from gmail.com (unknown [102.165.39.47])
+	by ismtpd0047p1mdw1.sendgrid.net (SG) with ESMTP id FvW-SzjfTd-GDgqwgo8sLQ
+	for <mail@dorianvasco.de>; Tue, 14 May 2019 11:55:17.288 +0000 (UTC)
+From: Build&Own Electricity <mail@gmail.com>
+To: mail@dorianvasco.de
+Subject: 56 y. o. Geography Teacher Humiliates Power Companies
+Date: Tue, 14 May 2019 11:55:17 +0000 (UTC)
+Message-ID: <20190514045534.4446269A2D3DD90D@gmail.com>
+MIME-Version: 1.0
+Content-Type: text/html
+Content-Transfer-Encoding: quoted-printable
+X-SG-EID: 7giigzkRv5byIVQi8QoJMf6K/3KfEkjMb81l2x8+gr9E7qtU5VUJMttWkHO56rlVTQtYfyCgqHdVWF
+ MntCvN8U9EqWdfBF/uEOgBRsF5zprJqLdF08FPqZLrg9IlIoI2HX0mwuGQ1ftN3LFaLW/Q6lg22YZz
+ UbaZmwo9+qyFkYNE3YjcjVS1b9gVnih7grXySMi791nP5tmTuQZn9VflNlYVRL98lezlnQP98AQN4V
+ I=
+
+<HTML><HEAD><TITLE></TITLE>
+</HEAD>
+<BODY bgcolor=3D#FFFFFF leftmargin=3D5 topmargin=3D5 rightmargin=3D5 bottom=
+margin=3D5>
+<FONT size=3D2 color=3D#000000 face=3D"Arial">
+<DIV>
+<FONT face=3D"Verdana">Hey,</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">You won&#8217;t believe what just happened:</FONT></=
+DIV>
+<DIV>
+<FONT face=3D"Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">A shocking global decision was taken at Bruxelles an=
+d there is no way back &#8230;</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">Rumors say Green Energy will become the only real cu=
+rrency by 2025.</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">This &#8222;average Joe&#8221; from Memphis Tennesse=
+e figured out how to harvest this currency from nothing and become truly in=
+dependent.</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">&gt;&gt;&gt; </FONT><A href=3D"http://32wy.devinezip=
+.trade/pwreff"><FONT color=3D#0000FF face=3D"Verdana"><U>Video Proof Here</=
+U></FONT></A><FONT face=3D"Verdana"> &lt;&lt;&lt;</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">Just make sure you watch it with the door locked and=
+ with the sound turned down...</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">I must admit, as a true Christian and Patriot this v=
+ideo really sent shivers down my spine...</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">Plus, more than 37,230 people have already taken adv=
+antage of it&#8230;</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">So grab yours now while it's still out there... and =
+prepare to learn something amazing!</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">&gt;&gt; </FONT><A href=3D"http://32wy.devinezip.tra=
+de/pwreff"><FONT color=3D#0000FF face=3D"Verdana"><U>WATCH THIS IMMEDIATELY=
+</U></FONT></A><FONT face=3D"Verdana"> &lt;&lt;</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">-&gt;&gt;&gt; http://32wy.devinezip.trade/pwreff</FO=
+NT></DIV>
+<DIV>
+<FONT face=3D"Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">Best Regards,</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">James Albert Canuy</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">&nbsp;</FONT></DIV>
+<DIV>
+&nbsp;</DIV>
+</FONT>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br=
+><br><br><br><br><br><br><br><br>
+&nbsp;<br /><br /><style>
+.footer {padding: 20px 30px 15px 30px; border-radius: 5px;}
+.footercopy {font-family: sans-serif; font-size: 10px; color: #bdc3c7;}
+.footercopy a {color: #bdc3c7; text-decoration: underline;}
+.footerunsub {font-family: sans-serif; font-size: 10px; color: #7f8c8d;}
+.footerunsub a {color: #7f8c8d; text-decoration: underline;}
+</style>
+
+<table class=3D"footer" bgcolor=3D"#ecf0f1" width=3D"100%">
+            <tr>
+                <td align=3D"center" class=3D"footercopy">
+                 Global Millionaires Trader LLC,3788 Oakwood Avenue, NY, 10=
+011
+                </td>
+            </tr>
+            <tr>
+                <td align=3D"center" style=3D"padding: 20px 0 0 0;">
+                    <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+                        <tr>
+                            <td style=3D"text-align: center; padding: 0 10p=
+x 0 10px;" class=3D"footerunsub">
+                                <a href=3D"http://www.lettermelater.com/uns=
+ubscribe.php?mid=3D2722297&email=3Dmail@dorianvasco.de"><font color=3D"#7f8=
+c8d">Unsubscribe</font></a> from this newsletter instantly.
+                                <a href=3D"http://www.lettermelater.com/uns=
+ubscribe.php?mid=3D2722297&email=3Dmail@dorianvasco.de"><font color=3D"#7f8=
+c8d">Report Abuse</font></a>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+</table>
+</body></html>

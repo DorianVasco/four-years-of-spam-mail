@@ -1,0 +1,60 @@
+Return-Path: <admin@giorgioferretti.ru>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 4B1B9C775A
+	for <mail@dorianvasco.de>; Tue, 18 Dec 2018 14:11:27 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: 2.705
+X-Spam-Level: **
+X-Spam-Status: No, score=2.705 required=5.5 tests=[DKIM_SIGNED=0.1,
+	DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1, FROM_EXCESS_BASE64=0.105,
+	HTML_MESSAGE=0.001, RCVD_IN_PSBL=2.7, SPF_HELO_PASS=-0.001,
+	SPF_PASS=-0.001, URIBL_BLOCKED=0.001] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id YhLovDm0sHno for <mail@dorianvasco.de>;
+	Tue, 18 Dec 2018 14:11:23 +0100 (CET)
+Received: from giorgioferretti.ru (giorgioferretti.ru [5.189.227.102])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id B4BF9C7759
+	for <mail@dorianvasco.de>; Tue, 18 Dec 2018 14:11:23 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=key1; d=giorgioferretti.ru;
+ h=Message-ID:Reply-To:From:To:Subject:Date:MIME-Version:Content-Type; i=admin@giorgioferretti.ru;
+ bh=Mx/tPO+Q7+f2+suxBR2P2Tj89m0=;
+ b=XcqnPDVn/Yd0MQQzMBlDNYm2bbDynQ6EIZe/YO0Fr+ULzGyHO5Z3Y1XSTgpzWVgdyiv3crz+n+wd
+   zmHB9sI3cxUPn1G7rTVp2Q3TRsYSiNwBqauMYLTT/DgEcxkkNJe5dZLJCq0Jy/qoe5E/90E82GDl
+   HGxFXsFJwQWhbNetT4M=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=key1; d=giorgioferretti.ru;
+ b=NN5Ev046IxNB7qdo6NJjhlo7Q/pPR20HrojefnXIRNljyWXnxpsDT+Aaf5ZO0/WWUXJbQD+NOwwl
+   vBbJrax0WsaVlDuoB5CM2K4W3Uo8qMJGw6Hg7TVOrdwkXaVtW63rZgEhzWzUV6U+Bs+gwWUagWbS
+   dDf2DlctnfNW03ytZII=;
+Message-ID: <8659fc7c88742c7b58a7613239edd5694abb61f8da@giorgioferretti.ru>
+Reply-To: =?utf-8?B?0JjQu9GP0L3QsA==?= <admin@giorgioferretti.ru>
+From: =?utf-8?B?0JjQu9GP0L3QsA==?= <admin@giorgioferretti.ru>
+To: <mail@dorianvasco.de>
+Subject: Behold is  a good offer
+Date: Tue, 18 Dec 2018 16:14:56 +0300
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="a15b3ae44b9fb033efeaa31d598dac348652"
+X-Priority: 1
+
+--a15b3ae44b9fb033efeaa31d598dac348652
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+=C2=A0Hy there What we have here is a good offers To qualify click on the=
+ link below
+
+--a15b3ae44b9fb033efeaa31d598dac348652
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<HTML><HEAD>
+<META http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+</HEAD>
+<BODY bgColor=3D#ffffff>
+<DIV align=3Dleft><A href=3D"http://bit.ly/2UV0c5w">&nbsp;Hy there=20
+What we have here is a good offers=20
+To qualify click on the link below  </A></DIV></BODY></HTML>
+
+--a15b3ae44b9fb033efeaa31d598dac348652--

@@ -1,0 +1,161 @@
+Return-Path: <roger@tender247.net>
+Delivered-To: mail@stilfilm.com
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id EB679C2F7C
+	for <mail@stilfilm.com>; Fri, 13 Sep 2019 10:39:53 +0200 (CEST)
+Authentication-Results: v22014122474822114.stilfilm.com; dkim=pass
+	reason="1024-bit key; insecure key/testing"
+	header.d=rediffmailpro.com header.i=@rediffmailpro.com
+	header.b=pIzv1Z4F; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: 3.303
+X-Spam-Level: ***
+X-Spam-Status: No, score=3.303 required=5.5 tests=[BAYES_50=0.8,
+	DKIM_SIGNED=0.1, DKIM_VALID=-0.1, HTML_MESSAGE=0.001,
+	SPF_HELO_NONE=0.001, SPF_NONE=0.001, URIBL_DBL_SPAM=2.5] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id zpWLUYhoXknA for <mail@stilfilm.com>;
+	Fri, 13 Sep 2019 10:39:50 +0200 (CEST)
+Received: from pro.mxout.rediffmailpro.com (pro152-37.mxout.rediffmailpro.com [119.252.152.37])
+	(using TLSv1.2 with cipher AECDH-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id 3F07CC43C9
+	for <mail@stilfilm.com>; Fri, 13 Sep 2019 10:39:39 +0200 (CEST)
+Received: from rediffmailpro.com (unknown [10.50.252.5])
+	by pro.mxout.rediffmailpro.com (Postfix) with ESMTP id D71BE1E8DD6
+	for <mail@stilfilm.com>; Fri, 13 Sep 2019 14:09:31 +0530 (IST)
+X-REDIFF-Delivered-Remotely-To: mail@stilfilm.com
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=rediffmailpro.com;
+	s=epro; t=1568363946;
+	bh=9B4b9bKPPVZk3Kb0iSkrlieGdWhEODzGcWiayAONiZI=;
+	h=MIME-Version:From:Date:Message-ID:Subject:To;
+	b=pIzv1Z4FbtbPyBXvKxUJwweKCJAZX1okt+mv/AC/lplvJGZD5lWGO2AazdqJWAI4e
+	 kj7ZPLGozDnlK0QBK8ILEb4K7U6NGxSuIHTyzQtJhhhyVLhWPfpZ4JC+xQ6SEtY41C
+	 cBzyqYlui0Fino91smuXG4cx2i0/egzApnPucXPw=
+Received: (qmail 16279 invoked from network); 13 Sep 2019 08:39:06 -0000
+x-m-msg: 906ec55cf9f9ce03202932ab0f4d0c80; a6da7d6asas6dasd77; 5dad65ad5sd;
+X-OUT-VDRT-SpamState: 1\SPAM
+X-OUT-VDRT-SpamScore: 540
+X-OUT-VDRT-SpamCause: gggruggvucftvghtrhhoucdtuddrgedufedrtdejgddthecutefuodetggdotefrodftvfcurfhrohhfihhlvgemucggtfgfnhhsuhgsshgtrhhisggvnecuuegrihhlohhuthemuceftddtnecuoghunhguihhstghlohhsvgguucdlgedtmdenogfhohhrsghiugguvghnrfhhohhnvgculdehtddtmdenucfjughrpefhuffkpffffgggtgesrgdtreertdefjeenucfhrhhomheptfhoghgvrhcuufhmihhthhcuoehrohhgvghrsehtvghnuggvrhdvgeejrdhnvghtqeenucffohhmrghinhepthgvnhguvghrvdegjedrtghomhenucfkphepgeelrddvgeekrdduuddurddutdenucfrrghrrghmpehmohguvgepshhmthhpohhuthenucevlhhushhtvghrufhiiigvpedt
+X-Dedup-Identifier: 1568363946_16274_13292_pro-236-100
+Received: from unknown (HELO ?192.168.0.107?) (49.248.111.10)
+  by mailserver with SMTP; 13 Sep 2019 08:39:06 -0000
+From: Roger Smith <roger@tender247.net>
+Subject: International Tender Alerts
+Message-ID: <8882f346-0fd1-4efa-9003-d3f971bda4fd@tender247.net>
+Disposition-Notification-To: Roger Smith <roger@tender247.net>
+Date: Fri, 13 Sep 2019 14:08:22 +0530
+User-Agent: Mozilla/5.0 (Windows NT 6.3; rv:52.0) Gecko/20100101
+ Thunderbird/52.4.0
+MIME-Version: 1.0
+To: undisclosed-recipients: ;
+Content-Type: multipart/alternative;
+ boundary="------------20117C1340D9B5298B5B8F55"
+Content-Language: en-US
+
+This is a multi-part message in MIME format.
+--------------20117C1340D9B5298B5B8F55
+Content-Type: text/plain; charset=utf-8; format=flowed
+Content-Transfer-Encoding: 7bit
+
+Hello,
+
+Greetings from Tender247.
+
+I hope you are receiving daily tender summary alerts from our side.
+
+In case you are not receiving the alerts or receiving junk tenders or 
+require more documents and offer for tenders do let us know below details :
+
+Region from where you require the tenders
+	
+All the keywords of your product and services
+	
+Email on which you require tender alerts
+	
+
+Feel free to reply us in case of any query.
+
+-- 
+Thanks & Regards,
+Roger Smith
+Marketing Executive(International Business Division)
+i-Sourcing Technologies Pvt. Ltd.
+Contact : +91 9699483500
+
+EUROPEAN HEADQUARTER:
+
+Geerdinkhof 331
+1103 RB Amsterdam,
+Netherlands.
+
+UNSUBSCRIBE <http://tender247.com/UNSUBSCRIBE>
+
+
+
+--------------20117C1340D9B5298B5B8F55
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+<html>
+  <head>
+
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  </head>
+  <body text="#000000" bgcolor="#FFFFFF">
+    <div class="moz-text-html" lang="x-unicode">
+      <p>Hello, </p>
+      <p>Greetings from Tender247.</p>
+      <p>I hope you are receiving daily tender summary alerts from our
+        side.</p>
+      <p>In case you are not receiving the alerts or receiving junk
+        tenders or require more documents and offer for tenders do let
+        us know below details :</p>
+      <table cellspacing="2" cellpadding="2" width="50%" border="1">
+        <tbody>
+          <tr>
+            <td valign="top">Region from where you require the tenders<br>
+            </td>
+            <td valign="top">                                                                             
+              <br>
+            </td>
+          </tr>
+          <tr>
+            <td valign="top">All the keywords of your product and
+              services<br>
+            </td>
+            <td valign="top"><br>
+            </td>
+          </tr>
+          <tr>
+            <td valign="top">Email on which you require tender alerts<br>
+            </td>
+            <td valign="top"><br>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      <p>Feel free to reply us in case of any query.</p>
+      <pre class="moz-signature" cols="72">-- 
+Thanks &amp; Regards,
+Roger Smith
+Marketing Executive(International Business Division)
+i-Sourcing Technologies Pvt. Ltd.
+Contact : +91 9699483500
+
+EUROPEAN HEADQUARTER:
+
+Geerdinkhof 331
+1103 RB Amsterdam,
+Netherlands.
+
+<pre><font color="#000066"><font color="#000099"><font color="#000066"><a href="http://tender247.com/UNSUBSCRIBE">UNSUBSCRIBE</a></font></font></font></pre>
+</pre>
+    </div>
+  </body>
+</html>
+
+--------------20117C1340D9B5298B5B8F55--

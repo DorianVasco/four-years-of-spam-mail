@@ -1,0 +1,96 @@
+Return-Path: <sender-mail=dorianvasco.de@andersoneducationmail.com>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 6E41FD1641
+	for <mail@dorianvasco.de>; Thu, 13 Dec 2018 12:49:03 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 7.261
+X-Spam-Level: *******
+X-Spam-Status: Yes, score=7.261 required=5.5 tests=[DKIM_SIGNED=0.1,
+	DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1, HTML_IMAGE_ONLY_20=0.7,
+	HTML_MESSAGE=0.001, RAZOR2_CF_RANGE_51_100=2.43, RAZOR2_CHECK=1.729,
+	RCVD_IN_DNSWL_BLOCKED=0.001, SPF_PASS=-0.001, URIBL_BLOCKED=0.001,
+	URIBL_DBL_SPAM=2.5] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id tjugf-c0I9i8 for <mail@dorianvasco.de>;
+	Thu, 13 Dec 2018 12:49:02 +0100 (CET)
+Received: from f3.andersoneducationmail.com (f3.andersoneducationmail.com [51.68.75.23])
+	(using TLSv1 with cipher ECDHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id 15F08D1630
+	for <mail@dorianvasco.de>; Thu, 13 Dec 2018 12:48:57 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=hasman; d=andersoneducationmail.com;
+ h=Date:To:From:Reply-To:Subject:Message-ID:Sender:MIME-Version:Content-Type; i=sender@andersoneducationmail.com;
+ bh=85xuUmKGbU7Yzv+XsV5HYriMaPQ=;
+ b=GdCKEzW4BLZRG5rhQHrvadlogq8ca9MAizMMy8WXlN9CXe8nmgZBGdFLj7h5g6GWs9Z21Nhej6ad
+   8qqv3Sl2LX6Jh7SxXaVWhjIkIw4WrKahKPFvwmJJYe+jUBLQtcRWShjckwLvLyx7T7JIqT1PoDjr
+   0C5dbtW/PtI9KHIrXV0=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=hasman; d=andersoneducationmail.com;
+ b=mqk/9XzmECiwa3Ap6wV8Gh5M5WBgQxeF5VrjfdD+uyZ4SOZd1IxYRmeAAeD3dXc9hmKv+tS1T0jE
+   /F7M/Aw379CfkUVXGYbe8IkcM/2Y36MHafxzUSc2Y7UcvG+JqM7eulD6M/6ND/0lHaX61wCeRcN+
+   21oFja15Kv9ZidZvwqQ=;
+Date: Thu, 13 Dec 2018 12:51:54 +0100
+To: "mail@dorianvasco.de" <mail@dorianvasco.de>
+From: Hannah <hannah@andersoneducationmail.com>
+Reply-To: Hannah <hannah@andersoneducationmail.com>
+Subject: =?UTF-8?Q?Endlich_best=C3=A4tigt:_Schlanksein_ist_reine_Kopfsache?=
+Message-ID: <3b7493e2108ac1478a74f43deb29d2f8@andersoneducationmail.com>
+X-ALB-Tracking: 956-75597-1-58-broadcast
+X-AntiAbuse: Originator 1.956.58.75597.broadcast
+Sender: sender@andersoneducationmail.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_3b7493e2108ac1478a74f43deb29d2f8"
+
+--b1_3b7493e2108ac1478a74f43deb29d2f8
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Hallo,
+
+Ganz ohne Tricks und Zauberei zur Wunschfigur
+
+Die meisten von uns sind unglücklich mit ihrem Gewicht. Ich war es auch. Die Auswirkungen auf unsere gesamte Lebenszufriedenheit sind enorm. Vor allem in der Partnerschaft oder bei der Partnersuche wird dies offensichtlich. Ich war unsicher und schüchtern, oft war es mir lieber niemand hat mich angesehen.
+
+Wenn ich damals schon gewusst hätte, dass der erste Schritt so einfach ist. Hätte ich bloß früher daran geglaubt, dass ich mein Gehirn zu einer automatischen Fettverbrennungsmaschine konditionieren kann.
+
+>> http://alb.andersoneducationmail.com/track/5c10b952bb8cd/75597/58/1
+
+Viele, die in einer festen Beziehung leben, ruhen sich darauf aus, ohnehin nicht mehr gefallen zu müssen. Die stetige Zunahme des Gewichts ist magisch direkt mit einer stetigen Abnahme von gemeinsamen Aktivitäten verbunden. Ja, ich meine damit nicht nur romantische Ausflüge und Kinobesuche. Ich meine damit auch den Spaß hinter der Schlafzimmertüre. Bei mir war es jedenfalls so. Aber das ist Vergangenheit.
+
+Manchmal wache ich morgens auf, und fühle ob mein Hüftgold noch da ist. Es ist weg. Aber mein Partner ist noch da und lächelt mich erwartungsvoll an...
+
+>> http://alb.andersoneducationmail.com/track/5c10b952bb8cd/75597/58/1
+
+Grüße,
+
+Hannah
+
+
+
+To change your subscription options:
+http://alb.andersoneducationmail.com/s/NTgqMSo3NTU5Nyo5NTYqYnJvYWRjYXN0
+
+
+--b1_3b7493e2108ac1478a74f43deb29d2f8
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+<p>Hallo,</p>
+<p>Ganz ohne Tricks und Zauberei zur Wunschfigur</p>
+<p>Die meisten von uns sind ungl&uuml;cklich mit ihrem Gewicht. Ich war es auch. Die Auswirkungen auf unsere gesamte Lebenszufriedenheit sind enorm. Vor allem in der Partnerschaft oder bei der Partnersuche wird dies offensichtlich. Ich war unsicher und sch&uuml;chtern, oft war es mir lieber niemand hat mich angesehen.</p>
+<p>Wenn ich damals schon gewusst h&auml;tte, dass der erste Schritt so einfach ist. H&auml;tte ich blo&szlig; fr&uuml;her daran geglaubt, dass ich mein Gehirn zu einer automatischen Fettverbrennungsmaschine konditionieren kann.</p>
+<p><strong><a href="http://alb.andersoneducationmail.com/track/5c10b952bb8cd/75597/58/1">Sehen Sie hier eine Video demonstration</a></strong></p>
+<p>Viele, die in einer festen Beziehung leben, ruhen sich darauf aus, ohnehin nicht mehr gefallen zu m&uuml;ssen. Die stetige Zunahme des Gewichts ist magisch direkt mit einer stetigen Abnahme von gemeinsamen Aktivit&auml;ten verbunden. Ja, ich meine damit nicht nur romantische Ausfl&uuml;ge und Kinobesuche. Ich meine damit auch den Spa&szlig; hinter der Schlafzimmert&uuml;re. Bei mir war es jedenfalls so. Aber das ist Vergangenheit.</p>
+<p>Manchmal wache ich morgens auf, und f&uuml;hle ob mein H&uuml;ftgold noch da ist. Es ist weg. Aber mein Partner ist noch da und l&auml;chelt mich erwartungsvoll an...</p>
+<p><strong><a href="http://alb.andersoneducationmail.com/track/5c10b952bb8cd/75597/58/1">Sehen Sie hier eine Video demonstration</a></strong></p>
+<p>Gr&uuml;&szlig;e,</p>
+<p>Hannah</p><br /><br /><br /><br />To change your subscription options:<br /><a href="http://alb.andersoneducationmail.com/s/NTgqMSo3NTU5Nyo5NTYqYnJvYWRjYXN0">http://alb.andersoneducationmail.com/s/NTgqMSo3NTU5Nyo5NTYqYnJvYWRjYXN0</a><img border="0" width="1" height="1" src="http://alb.andersoneducationmail.com/tracking.php?user=1&type=broadcast&id=956&sid=75597"  />
+
+
+
+--b1_3b7493e2108ac1478a74f43deb29d2f8--
+
+

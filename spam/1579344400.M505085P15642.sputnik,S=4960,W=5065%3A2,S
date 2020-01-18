@@ -1,0 +1,105 @@
+Return-Path: <waldognmdertfalk@convelventures.icu>
+Delivered-To: mail@elementk.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id E18DAC16ED
+	for <mail@elementk.de>; Thu,  7 Mar 2019 11:40:52 +0100 (CET)
+Authentication-Results: v22014122474822114.stilfilm.com; dkim=pass
+	reason="1024-bit key; insecure key"
+	header.d=convelventures.icu header.i=waldognmdertfalk@convelventures.icu
+	header.b=XWjafk7e; dkim-adsp=pass; dkim-atps=neutral
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 14.17
+X-Spam-Level: **************
+X-Spam-Status: Yes, score=14.17 required=5.5 tests=[BAYES_60=1.5,
+	DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1, HS_BODY_2054=2,
+	HS_HEADER_1228=4, HS_HEADER_1230=1, HS_HEADER_1231=4,
+	HTML_IMAGE_ONLY_16=1.092, HTML_MESSAGE=0.001,
+	HTML_SHORT_LINK_IMG_2=0.001, SPF_SOFTFAIL=0.665, T_REMOTE_IMAGE=0.01,
+	URIBL_BLOCKED=0.001] autolearn=spam
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 1x8ykjkeCvag for <mail@elementk.de>;
+	Thu,  7 Mar 2019 11:40:50 +0100 (CET)
+Received: from nose.convelventures.icu (nose.deloitteab.com [193.39.187.129])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 8CF36C16C7
+	for <mail@elementk.de>; Thu,  7 Mar 2019 11:40:46 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=convelventures.icu;
+ h=Date:List-Unsubscribe:MIME-Version:Subject:To:Message-ID:From:Content-Type:Content-Transfer-Encoding; i=waldognmdertfalk@convelventures.icu;
+ bh=KkJfAr3qj0B/T25srRckp3vvb7U=;
+ b=XWjafk7eD7gcL+yGXMzcMbgxfNBn0YGvqKtg5dxV16YrLPs8TJ9+1yBIh+OFREvPBS0eosjOJz5E
+   9WxHrneKz2IuMQiWiBIgF3TaYa0OgMaryrzj6D4e01WdBMAjvKrI/stg23kzF59JktDlznFxyUxg
+   9VZ5fpyX9JPgZqRpPKM=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=convelventures.icu;
+ b=irI85QUVeHb+JU03I/MRIc4JjNH1zSTqegarlIDYCvrk8ipGWQigGwHhSAsdLwiVqQ0iNumwWXvb
+   It2Ra5mE9lNy7fMP9p2BhVP4KhTKVtlbdUfD9SK9T+nMf2Y4x9YmcGTi0ew+I4poNkvTDYjhDdI2
+   aRLtra/UqBz8nbVU+84=;
+Date: Thu, 7 Mar 2019 11:40:45 +0100
+List-Unsubscribe:  <http://convelventures.icu/ub.php?b=2i9vj198333080h82qr01b8q8dcrd13wjc6jrd81>
+MIME-Version: 1.0
+Subject: =?UTF-8?Q?Es_hat_begonnen:_Verkauf_von_LED-Lampen_mit_besonderer_Helligkeit,_drau=C3=9Fen,_drinnen?=
+To:  <mail@elementk.de>
+Message-ID: <qqtoxxqskgkhcrzznnrqecip@n.convelventures.icu>
+X-Report-Abuse:  <http://convelventures.icu/aa.php?a=2i9vj198333080h82qr01b8q8dcrd13wjc6jrd81>
+From: =?UTF-8?Q?Waldo_Falk?= <waldognmdertfalk@convelventures.icu>
+X-Mailer: Rmail
+Content-Type: multipart/alternative; boundary=b1_w8ct76sy5zkq04iv196nn.YhO2B; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+--b1_w8ct76sy5zkq04iv196nn.YhO2B
+Content-Type: text/plain; format=flowed; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+
+=0D
+F=C3=BCr den privaten und gesch=C3=A4ftlichen Gebrauch: so spare 80% deiner=
+ Beleuchtung!:=0D
+=0D
+http://g2.convelventures.icu=0D
+=0D
+=0D
+=0D
+Hier a bmelden:=0D
+http://convelventures.icu/ub.php?tys=3D2i9vj198333080h82qr01b8q8dcrd13wjc6j=
+rd81=0D
+=0D
+HERBST-LED-LAMPEMESSE: =C3=B6konomische Reflektor, Innen- und Au=C3=9Fenleu=
+chten=0D
+
+
+--b1_w8ct76sy5zkq04iv196nn.YhO2B
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+
+<!DOCTYPE html>=0D
+<html>=0D
+=0D
+<head>=0D
+</head><body>=0D
+<div style=3D"text-align:center;">=0D
+Die gro=C3=9Fe Herbstlampemesse ist angefangen: moderne verbilligte Beleuch=
+tung <br /><a style=3D"color:maroon; " href=3D"http://g2.convelventures.icu=
+/pnf:2i9vj198333080h82qr01b8q8dcrd13wjc6jrd81"><img alt=3D"Bist du der Dunk=
+elheit m=C3=BCde? 9 Arten von LED-Beleuchtung, jetzt mit Preisvorteil" styl=
+e=3D"padding-right:2px; margin-bottom:auto; font-variant:inherit; border-bo=
+ttom-style:groove; border-top-width:0px; " src=3D"http://kj.convelventures.=
+icu/00.jpg" /></a>=0D
+<br /><a style=3D"border-color:#007700; " href=3D"http://g2.convelventures.=
+icu/jfh:2i9vj198333080h82qr01b8q8dcrd13wjc6jrd81">LED-Leuchten um einen Spo=
+ttpreis: Reflektor, Einbau- und Solarleuchten</a>=0D
+<br /><br /><br /><br />Billige Led-Lampen: verbilligte Scheinwerfer, Decke=
+n- und Solarlampe<br /><br /><a style=3D"font-size:12px; background-color:#=
+ffffff; margin:1px; border-right-style:ridge; padding-left:1px; " href=3D"h=
+ttp://convelventures.icu/ub.php?ba=3D2i9vj198333080h82qr01b8q8dcrd13wjc6jrd=
+81">Abmelden</a></div><br />Starkes Licht um einen Spottpreis? Wirtschaftli=
+che Beleuchtung f=C3=BCr Zuhause und Gesch=C3=A4fte=0D
+<img alt=3D"LED-Lampen mit Preisvorteil: w=C3=A4hle zwischen Innen- und Au=
+=C3=9Fenlichtquellen" src=3D"http://convelventures.icu/ob.php?tys=3D2i9vj19=
+8333080h82qr01b8q8dcrd13wjc6jrd81" />=0D
+LED-LAMPENMESSE: wirtschaftliche Lichtquellen f=C3=BCr Innen- und Au=C3=9Fe=
+nbereich=0D
+</body>=0D
+</html>=
+
+--b1_w8ct76sy5zkq04iv196nn.YhO2B--

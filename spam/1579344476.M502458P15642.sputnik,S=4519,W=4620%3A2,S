@@ -1,0 +1,101 @@
+Return-Path: <info@happy-universitet.ru>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id CF905C1556
+	for <mail@dorianvasco.de>; Tue, 27 Aug 2019 06:08:35 +0200 (CEST)
+Authentication-Results: v22014122474822114.stilfilm.com; dkim=pass
+	reason="1024-bit key; insecure key"
+	header.d=happy-universitet.ru header.i=@happy-universitet.ru
+	header.b=k5f81opj; dkim-adsp=pass; dkim-atps=neutral
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 6.245
+X-Spam-Level: ******
+X-Spam-Status: Yes, score=6.245 required=5.5 tests=[BAYES_80=2,
+	BITCOIN_DEADLINE=3, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, RCVD_IN_BL_SPAMCOP_NET=1.347,
+	SPF_HELO_PASS=-0.001, SPF_PASS=-0.001] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id RFf1jkpy-uee for <mail@dorianvasco.de>;
+	Tue, 27 Aug 2019 06:08:33 +0200 (CEST)
+Received: from happy-universitet.ru (happy-universitet.ru [185.212.128.189])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id 8E064C4384
+	for <kontakt@dorianvasco.de>; Tue, 27 Aug 2019 06:08:27 +0200 (CEST)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed;
+	d=happy-universitet.ru; s=mail; h=To:From:Subject:Message-ID:Content-Type:
+	Content-Transfer-Encoding:Date:Sender:Reply-To:Cc:MIME-Version:Content-ID:
+	Content-Description:Resent-Date:Resent-From:Resent-Sender:Resent-To:Resent-Cc
+	:Resent-Message-ID:In-Reply-To:References:List-Id:List-Help:List-Unsubscribe:
+	List-Subscribe:List-Post:List-Owner:List-Archive;
+	bh=UX+Y+TKkDdMuvDsPVSmOLLV1oEmXjZ4mj6f2mLbo5d0=; b=k5f81opjvCLQ7DjUBCE6zoeVAN
+	yiZl+dRr5CFxxtvEkOPuXLpL7yWxKtpJRknlpPOeCd5bg67TP67xxXnuus3tzAI0Qps24n/BJ1pSx
+	43U9B69B1T8/Z3FwGO1V96q37U8V15D8nncKIJvvKFC5YbSD63czdfG/OPw+id8wgS1g=;
+Received: from [143.255.192.128] (helo=[127.0.0.1])
+	by happy-universitet.ru with esmtpsa (TLSv1:ECDHE-RSA-AES256-SHA:256)
+	(Exim 4.92)
+	(envelope-from <info@happy-universitet.ru>)
+	id 1i2NJY-0004DP-F2
+	for kontakt@dorianvasco.de; Mon, 26 Aug 2019 22:18:17 +0000
+Date: Tue, 27 Aug 2019 01:17:26 +0300
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=UTF-8
+Message-ID: <61074230861000.8082Q45HNN@happy-universitet.ru>
+Subject: Security Notice. Someone has access to your system.
+From: Gabrielle Moon <info@happy-universitet.ru>
+To: kontakt@dorianvasco.de
+X-Report-Abuse: abuse@happy-universitet.ru
+X-SG-ID: 8141
+Errors-To: abuse@yhikmlxds.happy-universitet.ru
+
+Hello!
+
+I am a hacker who has access to your operating system.
+I also have full access to your account.
+
+I've been watching you for a few months now.
+The fact is that you were infected with malware through an adult site =
+that you visited.
+
+If you are not familiar with this, I will explain.
+Trojan Virus gives me full access and control over a computer or other=
+ device.
+This means that I can see everything on your screen, turn on the camer=
+a and microphone, but you do not know about it.
+
+I also have access to all your contacts and all your correspondence.
+
+Why your antivirus did not detect malware?
+Answer: My malware uses the driver, I update its signatures every 4 ho=
+urs so that your antivirus is silent.
+
+I made a video showing how you satisfy yourself in the left half of th=
+e screen, and in the right half you see the video that you watched.
+With one click of the mouse, I can send this video to all your emails =
+and contacts on social networks.
+I can also post access to all your e-mail correspondence and messenger=
+s that you use.
+
+If you want to prevent this,
+transfer the amount of $500 to my bitcoin address (if you do not know =
+how to do this, write to Google: "Buy Bitcoin").
+
+My bitcoin address (BTC Wallet) is:  361TXJ6oCcUARqGVjsGULD3UntfEFSqJY=
+8
+
+After receiving the payment, I will delete the video and you will neve=
+r hear me again.
+I give you 50 hours (more than 2 days) to pay.
+I have a notice reading this letter, and the timer will work when you =
+see this letter.
+
+Filing a complaint somewhere does not make sense because this email ca=
+nnot be tracked like my bitcoin address.
+I do not make any mistakes.
+
+If I find that you have shared this message with someone else, the vid=
+eo will be immediately distributed.
+
+Best regards!

@@ -1,0 +1,570 @@
+Return-Path: <bounces+4713571-ba3d-mail=elementk.de@sendgrid.net>
+Delivered-To: mail@elementk.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 59807C43C8
+	for <mail@elementk.de>; Thu, 22 Nov 2018 14:18:40 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: 0.002
+X-Spam-Level:
+X-Spam-Status: No, score=0.002 required=5.5 tests=[DKIM_SIGNED=0.1,
+	DKIM_VALID=-0.1, HTML_MESSAGE=0.001, RCVD_IN_DNSWL_BLOCKED=0.001,
+	SPF_PASS=-0.001, URIBL_BLOCKED=0.001] autolearn=unavailable
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 8TdMFCDVdx0Q for <mail@elementk.de>;
+	Thu, 22 Nov 2018 14:18:38 +0100 (CET)
+Received: from o1.hv1n.shared.sendgrid.net (o1.hv1n.shared.sendgrid.net [167.89.100.167])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id 740F6C43C7
+	for <mail@elementk.de>; Thu, 22 Nov 2018 14:18:35 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; d=sendgrid.net; 
+	h=content-type:from:mime-version:reply-to:subject:to:list-unsubscribe; 
+	s=smtpapi; bh=HI9Q86W+J6bNwx+mbkpGtGOS9Kw=; b=cLolyCfqNp1w6mp+aA
+	1QDmQE0gLLriVwRaITagInGXvtOxAnBsow9NAzjiGRoTeMydL8TxqF9kmedLc2ef
+	26k57bWsnBf9AR2VFp4CEZF4Nyyii0pHHAhNXC97p1j7XGt4XuAkkbXMBb3j8YTG
+	BGjwq4Won8Q+Fzdxgli8YfyPQ=
+Content-Type: multipart/alternative; boundary=bc33d618dc46cc85439897a89ce25bd026f0813be765d1e6da1edc995b2f
+Date: Thu, 22 Nov 2018 13:20:47 +0000 (UTC)
+From: "Neto D'Castro" <neto@gerenciagram.com.br>
+Mime-Version: 1.0
+Reply-To: neto@gerenciagram.com.br
+Subject: =?UTF-8?Q?D=C3=BAvida_-_Redes_Sociais?=
+To: mail@elementk.de
+Message-ID: <hH_lx3_mRIG8nmdLW98z6A@ismtpd0043p1mdw1.sendgrid.net>
+List-Unsubscribe: <mailto:unsubscribe@sendgrid.net?subject=https://u4713571.ct.sendgrid.net/asm/unsubscribe/*q*user_id=4713571*a*data=4qwaiviBLjjgJmTG8ySh8Z4M37Ak8gLJGt5Ehs8K85jcNDrsXr42JLxUxEKED4_zMFvlW5ZvaNalWXfPXE72JvzaWkUNekYLe5JKyDcySdCGDfj6YK5XLDlzEQDcrwQYVs71AcBYRI0pfnqEEhDEmvJ73LY4VpJBcgi2AcF9Az0STVcTRwyZ21RfnNOK_86_nd6jrTLiJOvBXRIM-g-cBEPGlQMGkW5g8a_1alzkIygV6a2GscwKiGC0QhjZAAkOv8SP0W5SE69azZOFG8Vg2PRxoUgwIHS9GmTXj2QvyVBf70b2wHR5kssHUfje9sg9cn9_85jhgAdAWn69HyEpsgeaVbfrACZs0bV-M_OWQQLGnR-fy8N4KzH1Mm5XPpBg4aHvcYfCO7KDENEZph4ugvrWi01Yzp1JVP7SkAgcXprIKq9nSWfNizBFEFtMAdljdykYbwbcvu_BX1CmkZWFuVinyAuL8dnjsvQ6MhWmGMCj08s-YovHDkbjE6pJ_98y65GNaPddCwREanqMyLmPNrTtnVN0U9dZGIYmuR09Y-9ooGBScATrgX5dx-OSLrpP>
+X-SG-EID: Z6ODF7wrCC+9O6AQw2rqczf0sp0RGeye5rsM6Dhqg+0oohCElt7nOyw0RqZnRw/Y2wLOOrao3uWfyO
+ 8fM3Nv2cWCVnicmgeOJdqTFti00++nXdhqaUvyyIBi9Uac9v+qTuihZaOHii+otWOcnjqf17LAEYsR
+ dmCnkgG62Nq3R8anKpg5Ckr2peNCQmuU0Jn+6kzSn7IYXXadxadVh1WQ+HdlZfb0/VeRnouv5v2+Xy
+ M=
+X-SG-ID: Z2FxZazunBjVeNuNdzHDqrF8mxuCpi0krmont6YQrP21nffbBJOlkvFHq4k701zEBfQjlBrHENCHUq
+ X4Uvk8jWddXjl2/4TXja2KBx9CIJAqEK25omlJlEr0w/EB0oQeo1PhGkO5tXmZsxMfOP5/S3OjTLAf
+ 0EMYAP8zHFYqvBQYyo89PDLt/V4x/zdFY+J9+BNM5e4vPK8gtVirNQJVKQ==
+
+--bc33d618dc46cc85439897a89ce25bd026f0813be765d1e6da1edc995b2f
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=UTF-8
+Mime-Version: 1.0
+
+=E2=80=8BOl=C3=A1,=C2=A0bom dia=C2=A0=C2=A0!
+
+Voc=C3=AAs fazem gerenciamento de Instagram?
+
+Caso fa=C3=A7am, h=C3=A1 algum n=C3=BAmero de telefone que eu possa entrar =
+em contato?
+
+Att.
+
+Antonio Neto
+
+Se n=C3=A3o deseja receber emails, clique:=C2=A0aqui https://sendgrid.com/t=
+emplates/7b09c93f-4003-48b1-b46c-0a5232315917/versions/10b99e65-90bf-4b02-9=
+724-c4956f730d77/https://u4713571.ct.sendgrid.net/asm/unsubscribe/?user_id=
+=3D4713571&data=3D4qwaiviBLjjgJmTG8ySh8Z4M37Ak8gLJGt5Ehs8K85jcNDrsXr42JLxUx=
+EKED4_zMFvlW5ZvaNalWXfPXE72JvzaWkUNekYLe5JKyDcySdCGDfj6YK5XLDlzEQDcrwQYVs71=
+AcBYRI0pfnqEEhDEmvJ73LY4VpJBcgi2AcF9Az0STVcTRwyZ21RfnNOK_86_nd6jrTLiJOvBXRI=
+M-g-cBEPGlQMGkW5g8a_1alzkIygV6a2GscwKiGC0QhjZAAkOv8SP0W5SE69azZOFG8Vg2PRxoU=
+gwIHS9GmTXj2QvyVBf70b2wHR5kssHUfje9sg9cn9_85jhgAdAWn69HyEpsgeaVbfrACZs0bV-M=
+_OWQQLGnR-fy8N4KzH1Mm5XPpBg4aHvcYfCO7KDENEZph4ugvrWi01Yzp1JVP7SkAgcXprIKq9n=
+SWfNizBFEFtMAdljdykYbwbcvu_BX1CmkZWFuVinyAuL8dnjsvQ6MhWmGMCj08s-YovHDkbjE6p=
+J_98y65GNaPddCwREanqMyLmPNrTtnVN0U9dZGIYmuR09Y-9ooGBScATrgX5dx-OSLrpP=
+
+--bc33d618dc46cc85439897a89ce25bd026f0813be765d1e6da1edc995b2f
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=UTF-8
+Mime-Version: 1.0
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html data-editor-version=3D"2" class=3D"sg-campaigns" xmlns=3D"http://www.=
+w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+" />
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1, minimum-scale=3D1, maximum-scale=3D1" /><!--[if !mso]><!-->
+    <meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3DEdge" /><!--<![end=
+if]-->
+    <!--[if (gte mso 9)|(IE)]>
+    <xml>
+    <o:OfficeDocumentSettings>
+    <o:AllowPNG/>
+    <o:PixelsPerInch>96</o:PixelsPerInch>
+    </o:OfficeDocumentSettings>
+    </xml>
+    <![endif]-->
+    <!--[if (gte mso 9)|(IE)]>
+    <style type=3D"text/css">
+      body {width: 600px;margin: 0 auto;}
+      table {border-collapse: collapse;}
+      table, td {mso-table-lspace: 0pt;mso-table-rspace: 0pt;}
+      img {-ms-interpolation-mode: bicubic;}
+    </style>
+    <![endif]-->
+
+    <style type=3D"text/css">
+      body, p, div {
+        font-family: arial;
+        font-size: 14px;
+      }
+      body {
+        color: #000000;
+      }
+      body a {
+        color: #6b5097;
+        text-decoration: none;
+      }
+      p { margin: 0; padding: 0; }
+      table.wrapper {
+        width:100% !important;
+        table-layout: fixed;
+        -webkit-font-smoothing: antialiased;
+        -webkit-text-size-adjust: 100%;
+        -moz-text-size-adjust: 100%;
+        -ms-text-size-adjust: 100%;
+      }
+      img.max-width {
+        max-width: 100% !important;
+      }
+      .column.of-2 {
+        width: 50%;
+      }
+      .column.of-3 {
+        width: 33.333%;
+      }
+      .column.of-4 {
+        width: 25%;
+      }
+      @media screen and (max-width:480px) {
+        .preheader .rightColumnContent,
+        .footer .rightColumnContent {
+            text-align: left !important;
+        }
+        .preheader .rightColumnContent div,
+        .preheader .rightColumnContent span,
+        .footer .rightColumnContent div,
+        .footer .rightColumnContent span {
+          text-align: left !important;
+        }
+        .preheader .rightColumnContent,
+        .preheader .leftColumnContent {
+          font-size: 80% !important;
+          padding: 5px 0;
+        }
+        table.wrapper-mobile {
+          width: 100% !important;
+          table-layout: fixed;
+        }
+        img.max-width {
+          height: auto !important;
+          max-width: 480px !important;
+        }
+        a.bulletproof-button {
+          display: block !important;
+          width: auto !important;
+          font-size: 80%;
+          padding-left: 0 !important;
+          padding-right: 0 !important;
+        }
+        .columns {
+          width: 100% !important;
+        }
+        .column {
+          display: block !important;
+          width: 100% !important;
+          padding-left: 0 !important;
+          padding-right: 0 !important;
+          margin-left: 0 !important;
+          margin-right: 0 !important;
+        }
+      }
+    </style>
+    <!--user entered Head Start-->
+=20=20=20=20
+     <!--End Head user entered-->
+  </head>
+  <body>
+    <center class=3D"wrapper" data-link-color=3D"#6b5097" data-body-style=
+=3D"font-size: 14px; font-family: arial; color: #000000; background-color: =
+#ffffff;">
+      <div class=3D"webkit">
+        <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"10=
+0%" class=3D"wrapper" bgcolor=3D"#ffffff">
+          <tr>
+            <td valign=3D"top" bgcolor=3D"#ffffff" width=3D"100%">
+              <table width=3D"100%" role=3D"content-container" class=3D"out=
+er" align=3D"center" cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+                <tr>
+                  <td width=3D"100%">
+                    <table width=3D"100%" cellpadding=3D"0" cellspacing=3D"=
+0" border=3D"0">
+                      <tr>
+                        <td>
+                          <!--[if mso]>
+                          <center>
+                          <table><tr><td width=3D"600">
+                          <![endif]-->
+                          <table width=3D"100%" cellpadding=3D"0" cellspaci=
+ng=3D"0" border=3D"0" style=3D"width: 100%; max-width:600px;" align=3D"cent=
+er">
+                            <tr>
+                              <td role=3D"modules-container" style=3D"paddi=
+ng: 0px 0px 0px 0px; color: #000000; text-align: left;" bgcolor=3D"#FFFFFF"=
+ width=3D"100%" align=3D"left">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20
+    <table class=3D"module preheader preheader-hide" role=3D"module" data-t=
+ype=3D"preheader" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D=
+"100%"
+           style=3D"display: none !important; mso-hide: all; visibility: hi=
+dden; opacity: 0; color: transparent; height: 0; width: 0;">
+      <tr>
+        <td role=3D"module-content">
+          <p></p>
+        </td>
+      </tr>
+    </table>
+=20=20
+    <table class=3D"module" role=3D"module" data-type=3D"text" border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-layout: =
+fixed;">
+      <tr>
+        <td style=3D"padding:0px 0px 0px 0px;"
+            height=3D"100%"
+            valign=3D"top"
+            bgcolor=3D"">
+            <table role=3D"module" data-type=3D"wysiwyg" border=3D"0" cellp=
+adding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-layout: fixed;=
+">
+<tbody><tr><td role=3D"module-content" style=3D"padding: 0px 0px 0px 0px;" =
+bgcolor=3D"#ffffff"><div>
+
+</div></td></tr></tbody></table>
+        </td>
+      </tr>
+    </table>
+=20=20
+    <table class=3D"module" role=3D"module" data-type=3D"text" border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-layout: =
+fixed;">
+      <tr>
+        <td style=3D"padding:10px 10px 10px 10px;background-color:#ffffff;"
+            height=3D"100%"
+            valign=3D"top"
+            bgcolor=3D"#ffffff">
+            <div><span style=3D"color: rgb(51, 51, 51); font-family: helvet=
+ica, arial, sans-serif; font-size: 18px; font-style: normal; font-variant-l=
+igatures: normal; font-variant-caps: normal; font-weight: 300; background-c=
+olor: rgb(255, 255, 255);">=E2=80=8B</span><span style=3D"font-style: norma=
+l; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: =
+300; font-family: arial, helvetica, sans-serif; font-size: 12px; color: rgb=
+(51, 51, 51); background-color: rgb(255, 255, 255);">Ol=C3=A1,</span><span =
+style=3D"font-style: normal; font-variant-ligatures: normal; font-variant-c=
+aps: normal; font-weight: 300; font-family: arial, helvetica, sans-serif; f=
+ont-size: 12px; color: rgb(51, 51, 51); background-color: rgb(247, 247, 247=
+);">&nbsp;bom dia&nbsp;&nbsp;</span><span style=3D"font-style: normal; font=
+-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; fo=
+nt-family: arial, helvetica, sans-serif; font-size: 12px; color: rgb(51, 51=
+, 51); background-color: rgb(255, 255, 255);">!<br>
+<br>
+Voc=C3=AAs fazem gerenciamento de Instagram?<br>
+<br>
+Caso fa=C3=A7am, h=C3=A1 algum n=C3=BAmero de telefone que eu possa entrar =
+em contato?</span></div>
+
+<div><br>
+<br>
+&nbsp;</div>
+
+<div><span style=3D"font-style: normal; font-variant-ligatures: normal; fon=
+t-variant-caps: normal; font-weight: 300; font-family: arial, helvetica, sa=
+ns-serif; font-size: 12px; color: rgb(51, 51, 51); background-color: rgb(25=
+5, 255, 255);">Att.<br>
+Antonio Neto</span></div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+        </td>
+      </tr>
+    </table>
+=20=20
+    <table class=3D"module" role=3D"module" data-type=3D"text" border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-layout: =
+fixed;">
+      <tr>
+        <td style=3D"padding:18px 0px 18px 0px;line-height:22px;text-align:=
+inherit;"
+            height=3D"100%"
+            valign=3D"top"
+            bgcolor=3D"">
+            <div><span style=3D"color:#FFFFFF;"><span data-end-index=3D"223=
+97" data-start-index=3D"22356" style=3D"font-family: helvetica, arial, sans=
+-serif; font-size: 12px; font-style: normal; font-variant-ligatures: normal=
+; font-variant-caps: normal; font-weight: normal; text-align: center; backg=
+round-color: rgb(255, 255, 255);">Se n=C3=A3o deseja receber emails, clique=
+:</span><span style=3D"font-family: helvetica, arial, sans-serif; font-size=
+: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-ca=
+ps: normal; font-weight: normal; text-align: center; background-color: rgb(=
+255, 255, 255);">&nbsp;</span></span><a data-end-index=3D"22466" data-start=
+-index=3D"22442" href=3D"https://u4713571.ct.sendgrid.net/wf/click?upn=3DgD=
+gAftOgW32jU5iwj5UQ6QxPIXc8nt9VaxHQ98xVoA8Mv6EZmHoTFn0Ft1M8AAp4PZs8vCxGUtxHu=
+qzjV6AqcUyU5kgao8jFvGx6d6IoMkGUcLLMZzoeWm60kDNtNooIwW8q4B7Vpw9oxtmEbNnlqBnI=
+nsu6VvcMmsxsARP7czXl3ipGzJf-2BXgvI-2FdoVSDvHtBETLo4UXqLwxaF24fidUg-3D-3D_Oa=
+LlT2qeeZKUdbZjdkfUFPvcManjqpnWtUvEeUaFYX8Nn59esF6A56pGz5TYdEYPI-2FIaDd7Arjl=
+Za0AWoaigmJ4UWU9htxE6Qg3jDiRrqeIXwaVh078-2B7wXob8qDoCQqG2wbLvxVaImnocsLSrd2=
+2GcgnfXz3vyBJbO7y5OLxwLY0nqT-2FMWJAg72et9tBanV12zej8Dt8gDm2-2BJ2GKbZ1ua-2FO=
+YF7OHgb0MlqW5UzUpCF6Y9hm96GJvd7w6Iikh1KiItWiul4tD0sfsXETgp9EIONmFf47IxfCHcU=
+CgCf-2F-2BNccnelvILsc2BehN1OscHXbrRhwR8rtTf-2BYLZ25PqonrsMNxTlHI9I4o9UlbaCm=
+AlYRzDKmm8nujXG0ccqdoNDsgyAWykGyUzHauL4pK2dKUGAiDpP4q63x6uEE-2B7E3G1vYGZjol=
+dyp1YewH2KJ8UQ>" style=3D"font-family: helvetica, arial, sans-serif; font-s=
+ize: 12px; font-style: normal; font-variant-ligatures: normal; font-variant=
+-caps: normal; font-weight: normal; text-align: center; background-color: r=
+gb(255, 255, 255);" target=3D"_blank"><span style=3D"color:#FFFFFF;">aqui</=
+span></a></div>
+        </td>
+      </tr>
+    </table>
+=20=20
+                              </td>
+                            </tr>
+                          </table>
+                          <!--[if mso]>
+                          </td></tr></table>
+                          </center>
+                          <![endif]-->
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+        </table>
+      </div>
+    </center>
+=20=20
+<a href=3D"https://u4713571.ct.sendgrid.net/asm/unsubscribe/?user_id=3D4713=
+571&data=3D4qwaiviBLjjgJmTG8ySh8Z4M37Ak8gLJGt5Ehs8K85jcNDrsXr42JLxUxEKED4_z=
+MFvlW5ZvaNalWXfPXE72JvzaWkUNekYLe5JKyDcySdCGDfj6YK5XLDlzEQDcrwQYVs71AcBYRI0=
+pfnqEEhDEmvJ73LY4VpJBcgi2AcF9Az0STVcTRwyZ21RfnNOK_86_nd6jrTLiJOvBXRIM-g-cBE=
+PGlQMGkW5g8a_1alzkIygV6a2GscwKiGC0QhjZAAkOv8SP0W5SE69azZOFG8Vg2PRxoUgwIHS9G=
+mTXj2QvyVBf70b2wHR5kssHUfje9sg9cn9_85jhgAdAWn69HyEpsgeaVbfrACZs0bV-M_OWQQLG=
+nR-fy8N4KzH1Mm5XPpBg4aHvcYfCO7KDENEZph4ugvrWi01Yzp1JVP7SkAgcXprIKq9nSWfNizB=
+FEFtMAdljdykYbwbcvu_BX1CmkZWFuVinyAuL8dnjsvQ6MhWmGMCj08s-YovHDkbjE6pJ_98y65=
+GNaPddCwREanqMyLmPNrTtnVN0U9dZGIYmuR09Y-9ooGBScATrgX5dx-OSLrpP">Unsubscribe=
+ From This List</a> | <a href=3D"https://u4713571.ct.sendgrid.net/asm/?user=
+_id=3D4713571&data=3DJ8S0gMh63Xk2gOooQB9JEnxk8RmHT-ki9mhA6ZXfKM3gb0oapya2QI=
+I6FDje2fur-8QrkbljFAS9FSe1VqHZYci92q4EmwcRbyPiF-e3W9UrNpD5zIo5ZibzfhgJ3vSUc=
+7okYxtUezZt0vp6rWtIw-fHsjLyyuk1TXUBaTMNI6ArTp_ARU5l4TRKK97e6-ypaEKHwuoR6Csi=
+4wmhBYHgxSim3zxq_O83gchK3O33malPekwTz__vF19IMTPmwAo0eKvWYimoNKvBxTLnM8Xa_I1=
+gwlFKesYrqgtN2Octp1X38PLIjqYLb6elcRkrBwAJUnS9jCQOQsnkbTHEe04zrJEVc9Be1ULe1F=
+kiLKVp7M_Rdp1TYTi7qXUTKpS8_DpEbHPQ3JAleZZPi--He7z9oChttQijsVCGe8C-Y1mT4_kxP=
+nUTZ9p9WZhyLopFBG2IcujZ5A4ugdJ6W3NlVc95tlpmRKIPFfhnH_XujzNudj9O-ZhIpBGZYbMy=
+ByhIW4GQaXT7UjbdP6c4g2pvdwmVJPObdrQ3lW4sGN9b5XzsE4k=3D">Manage Email Prefer=
+ences</a><img src=3D"https://u4713571.ct.sendgrid.net/wf/open?upn=3DOaLlT2q=
+eeZKUdbZjdkfUFPvcManjqpnWtUvEeUaFYX8Nn59esF6A56pGz5TYdEYPI-2FIaDd7ArjlZa0AW=
+oaigmJ4UWU9htxE6Qg3jDiRrqeIXwaVh078-2B7wXob8qDoCQqG2wbLvxVaImnocsLSrd22Gcgn=
+fXz3vyBJbO7y5OLxwLY0nqT-2FMWJAg72et9tBanV12zej8Dt8gDm2-2BJ2GKbZ1jpLt1MsXD02=
+0BSUeKi4PPguY-2Bgc0C893Pv3UxKM5VbBejO8T-2BLzaSRYHrlz-2B2mxis7eLFevd1-2BiIyM=
+-2Fkcm3zw3RDH-2BfZSe4LU6rVQ85V5mmLr2Wg15aFgwMr6wB0cS4wxzO8dNCd3-2FqkXzP-2FB=
+tAiVt0ix-2F0H0XN11Hz8Og4pRl3vIvVPlIy78y4ZjTsNPZMHvDaABnKyyVEk-2Bi3SoPy3P4eU=
+2bR2AN3t9FYobDLP2Ww" alt=3D"" width=3D"1" height=3D"1" border=3D"0" style=
+=3D"height:1px !important;width:1px !important;border-width:0 !important;ma=
+rgin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;=
+margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !importa=
+nt;padding-right:0 !important;padding-left:0 !important;"/>
+</body>
+</html>
+
+--bc33d618dc46cc85439897a89ce25bd026f0813be765d1e6da1edc995b2f--

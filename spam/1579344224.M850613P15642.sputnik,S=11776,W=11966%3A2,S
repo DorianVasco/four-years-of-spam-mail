@@ -1,0 +1,190 @@
+Return-Path: <journal@sportssciencejournal.org>
+Delivered-To: mail@stilfilm.com
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id B03F0C2F76
+	for <mail@stilfilm.com>; Thu,  1 Feb 2018 08:15:55 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: 4.172
+X-Spam-Level: ****
+X-Spam-Status: No, score=4.172 required=5.5 tests=[DKIM_SIGNED=0.1,
+	DKIM_VALID=-0.1, FSL_BULK_SIG=0.001, HTML_MESSAGE=0.001,
+	RAZOR2_CF_RANGE_51_100=2.43, RAZOR2_CHECK=1.729,
+	RCVD_IN_DNSWL_NONE=-0.0001, T_REMOTE_IMAGE=0.01, URIBL_BLOCKED=0.001]
+	autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id cW4-2LtdrO16 for <mail@stilfilm.com>;
+	Thu,  1 Feb 2018 08:15:54 +0100 (CET)
+Received: from mail-ot0-f195.google.com (mail-ot0-f195.google.com [74.125.82.195])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id 040BEC0834
+	for <mail@stilfilm.com>; Thu,  1 Feb 2018 08:15:53 +0100 (CET)
+Received: by mail-ot0-f195.google.com with SMTP id p36so15942488otd.10
+        for <mail@stilfilm.com>; Wed, 31 Jan 2018 23:16:34 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=sportssciencejournal-org.20150623.gappssmtp.com; s=20150623;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=hritMcAILlXzpYeAuISEi38PDKqgEg9eKLxjtNATQw4=;
+        b=e1GrDLaWR90AMLhYGUXma+9UHd5++0Ti+QS8Vhuypf1wRdx5WknxAvm6fwH9MlKki8
+         i8Bo+YLUn7iMnWwFeb/oXD949gID4Q5MrBEYkPwbI4wIq1vdgiakw28Kd1qColsyS/He
+         2bEiK2CkLrJE0BR1reKmhIcPz9lGxmrT6ToU9SB7fBLVK7gDsc0IGszRLfkbu1Tn0Wf7
+         2cN2yIBjiVCj9wkYcbqsZecZnyv/oUv8k7jgerqxrEp6KGm+I1vTQgCbAclhqyZ6PEMK
+         7k62kW1N0llGJOx+Np6Gbu5Yk0VwCzarHGxyZfKE7BoxcdBSuoP71nOgFgCnCq/zUlgg
+         GnHg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=hritMcAILlXzpYeAuISEi38PDKqgEg9eKLxjtNATQw4=;
+        b=XsnHSNcAY0OJMQ9Pd86BE0XmFj5dDRqOEdHVE0+ibkWg2YdGEVrIoRVjIzoYWyeHpN
+         U5GtB0K7PYlHk4n5QeSqge1FDxyImQwDQYh/uJoBuwf3IvZEheDAAQzChtb692dYbfMg
+         Ny4VmAiDxmUK5HvS5WRMgvgkrsZaMTaJ+o+47MFgCwI6+MvapOg9eeOADlTqUdQ3U1p9
+         IvN5umvfs7a7fXretpXFV6mhFAxTZEJOi/13jiHaBf/OPPxrA8OqnAXpNuMzxPqPceg3
+         wpoK2hbrd4rTppWElFRW0PEwiPjtUkJgNrGr04d/VqnH/V9B4ZD2Aiy+bCOl1wV9bEZ9
+         OrPg==
+X-Gm-Message-State: AKwxytcc8QyOa7j/ieHesIhcJ1QW9eKy2SYI8oJWSS68ET+VdydmpHHx
+	jTETynmiba11gIgbWqwi+gjhJ2sSMoJVm1l4OcVvS64BqVE=
+X-Google-Smtp-Source: AH8x227xfoqGClgic0v1Oi1TsjbwnbgNQoF6DIhEu5UvnhF1Rv0wCV3fPfpKskCcINfKgh2gYbDrr1k5Ti0Tgw/2HKg=
+X-Received: by 10.157.35.116 with SMTP id k49mr11566104otd.342.1517469392717;
+ Wed, 31 Jan 2018 23:16:32 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.157.9.97 with HTTP; Wed, 31 Jan 2018 23:16:32 -0800 (PST)
+From: Journal AJSS <journal@sportssciencejournal.org>
+Date: Thu, 1 Feb 2018 15:16:32 +0800
+Message-ID: <CALQ46D6=ESZhA2gV1vMgDmqFbXX_J_+dJ-x=O+NB-LpaNow=hQ@mail.gmail.com>
+Subject: Call for Paper Submissions and Editorial Board Members/Reviewers
+To: mail@stilfilm.com
+Content-Type: multipart/alternative; boundary="001a113d103a1c4c0305642160b7"
+
+--001a113d103a1c4c0305642160b7
+Content-Type: text/plain; charset="UTF-8"
+
+<http://www.ijtet.org/home>
+Dear Professor,
+We publish peer-reviewed scientific journals dedicated to the advancement
+of innovative science and technology. Now we sincerely invite scholars and
+researchers to submit papers to the journals or to join in the editorial
+board/reviewer team.
+Calling for Editorial Members and Reviewers
+For purpose of making editorial board and reviewer group expanded, we would
+like to invite you to be the editorial member or reviewer of our journals
+with great sincerity. If you want to know more details of the Benefits and
+Responsibilities of the editorial member or reviewer, please visit the
+following link: http://www.ijtet.org/journals
+Submit Your Article
+We have published 200+ online, peer-reviewed journals. If you have some new
+works in your specialized or interested field, welcome to submit your
+papers to the corresponding Journals or Special Issues so as to share your
+ideas with people around the world.
+Advantages of the Journals
+Open Access (OA)
+Each journal uses the Open Access policy. All papers are resources shared
+by scientific community and general public for free.
+Journal Reviewing Work
+Papers submitted to the journals are peer-reviewed, while the comments are
+visible to readers, generally with the identities of the peer reviewers
+disclosed as well.
+30-60 Days Paper Publication
+Fast publication promotes scientific research and saves author's time,
+which will make your paper to be known by people as fast as possible. The
+normal time is 40-60 days after you submit your paper to our journals.
+Journal Indexing
+The majority of our journals can be indexed by WorldCat, CrossRef,
+JournalSeek, Electronic Journals Library (EJL), Zeitschriftendatenbank,
+EZB, Academickeys, ResearchBib, CNKI, Polish Scholarly Bibliography,
+Wissenschaftszentrum Berlin, etc.
+A List of Recommended Journals:
+
+   1. Modern Chemistry
+   2. Science Journal of Education
+   3. American Journal of Applied Scientific Research
+   4. Journal of Plant Sciences
+   5. American Journal of Psychiatry and Neuroscience
+   6. American Journal of Environmental Protection
+   7. International Journal of Mechanical Engineering and Applications
+   8. International Journal of Economy, Energy and Environment
+
+--001a113d103a1c4c0305642160b7
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><br><br><div style=3D"background:rgb(182,182,182) none rep=
+eat scroll 0% 0%;padding:80px 0px 200px 20px;width:100%;color:rgb(33,33,33)=
+;line-height:22px;font-family:&quot;Arial&quot;;font-size:13px">   <div sty=
+le=3D"background:rgb(255,255,255) none repeat scroll 0% 0%;width:750px"><di=
+v style=3D"background:rgb(36,109,219) none repeat scroll 0% 0%;padding:10px=
+ 20px"><a href=3D"http://www.ijtet.org/home" target=3D"_blank" border=3D"0"=
+><img src=3D"http://img.ijtet.org/logo/f516243866564.png" border=3D"0"></a>=
+ </div><div style=3D"padding:20px"><div style=3D"border-bottom:1px solid rg=
+b(204,204,204)"><div style=3D"padding-top:0px">Dear Professor,</div><div st=
+yle=3D"padding:5px 0px 10px;line-height:22px">We publish peer-reviewed scie=
+ntific journals dedicated to the advancement of innovative science and tech=
+nology. Now we sincerely invite scholars and researchers to submit papers t=
+o the journals or to join in the editorial board/reviewer team.</div></div>=
+<div style=3D"padding:15px 0px 0px"><div style=3D"background:rgb(36,109,219=
+) none repeat scroll 0% 0%;padding:5px;color:rgb(255,255,255);line-height:2=
+4px;font-family:&quot;Verdana&quot;;font-size:16px;font-weight:bold;margin-=
+bottom:5px;display:inline-block">Calling for Editorial Members and Reviewer=
+s</div> 			<div style=3D"line-height:20px"> 			For purpose of making editor=
+ial board and reviewer group expanded, we would like to invite you to be th=
+e editorial member or reviewer of our journals with great sincerity. If you=
+ want to know more details of the Benefits and Responsibilities of the edit=
+orial member or reviewer, please visit the following link:  <a style=3D"col=
+or:rgb(0,0,255);text-decoration:none;white-space:nowrap" href=3D"http://www=
+.ijtet.org/journals" target=3D"_blank">http://www.ijtet.org/journals</a> 		=
+	</div></div><div style=3D"padding-top:20px"><div style=3D"background:rgb(3=
+6,109,219) none repeat scroll 0% 0%;padding:5px;color:rgb(255,255,255);line=
+-height:24px;font-family:&quot;Verdana&quot;;font-size:16px;font-weight:bol=
+d;margin-bottom:5px;display:inline-block">Submit Your Article</div> 			<div=
+ style=3D"line-height:22px">We have published 200+ online, peer-reviewed jo=
+urnals. If you have some new works in your specialized or interested field,=
+ welcome to submit your papers to the corresponding Journals or Special Iss=
+ues so as to share your ideas with people around the world.</div></div><div=
+ style=3D"padding-top:15px"><div style=3D"background:rgb(36,109,219) none r=
+epeat scroll 0% 0%;padding:5px;color:rgb(255,255,255);line-height:24px;font=
+-family:&quot;Verdana&quot;;font-size:16px;font-weight:bold;display:inline-=
+block">Advantages of the Journals</div> 			<div style=3D"padding:15px 5px">=
+<div style=3D"width:345px;padding-right:20px;display:table-cell"><div style=
+=3D"color:rgb(32,32,32);font-family:&quot;Times New Roman&quot;;font-size:1=
+8px;font-weight:bold">Open Access (OA)</div><div style=3D"line-height:22px;=
+padding-top:5px">Each journal uses the Open Access policy. All papers are r=
+esources shared by scientific community and general public for free. 					<=
+/div></div><div style=3D"width:345px;display:table-cell"><div style=3D"colo=
+r:rgb(32,32,32);font-family:&quot;Times New Roman&quot;;font-size:18px;font=
+-weight:bold">Journal Reviewing Work</div><div style=3D"line-height:22px;pa=
+dding-top:5px"> 					Papers submitted to the journals are peer-reviewed, wh=
+ile the comments are visible to readers, generally with the identities of t=
+he peer reviewers disclosed as well. 				</div></div></div><div style=3D"pa=
+dding:0px 4px 20px"><div style=3D"width:345px;padding-right:20px;display:ta=
+ble-cell"><div style=3D"color:rgb(32,32,32);font-family:&quot;Times New Rom=
+an&quot;;font-size:18px;font-weight:bold">30-60 Days Paper Publication</div=
+><div style=3D"line-height:22px;padding-top:5px"> 					Fast publication pro=
+motes scientific research and saves author&#39;s time, which will make your=
+ paper to be known by people as fast as possible. The normal time is 40-60 =
+days after you submit your paper to our journals.  					</div></div><div st=
+yle=3D"width:345px;display:table-cell"><div style=3D"color:rgb(32,32,32);fo=
+nt-family:&quot;Times New Roman&quot;;font-size:18px;font-weight:bold">Jour=
+nal Indexing</div><div style=3D"line-height:22px;padding-top:5px"> 					The=
+ majority of our journals can be indexed by WorldCat, CrossRef, JournalSeek=
+, Electronic Journals Library (EJL), Zeitschriftendatenbank, EZB, Academick=
+eys, ResearchBib, CNKI, Polish Scholarly Bibliography, Wissenschaftszentrum=
+ Berlin, etc. 					</div></div></div></div><div style=3D"color:rgb(36,109,2=
+19);line-height:100%;padding-bottom:5px;font-family:&quot;Times New Roman&q=
+uot;;font-size:15px;font-weight:bold">A List of Recommended Journals: </div=
+><div style=3D"line-height:24px"><ol style=3D"margin:0px 0px 0px 10px;paddi=
+ng:0px;color:rgb(36,109,219);list-style-type:square"><li><span style=3D"col=
+or:rgb(33,33,33)">Modern Chemistry</span></li><li><span style=3D"color:rgb(=
+33,33,33)">Science Journal of Education</span></li><li><span style=3D"color=
+:rgb(33,33,33)">American Journal of Applied Scientific Research</span></li>=
+<li><span style=3D"color:rgb(33,33,33)">Journal of Plant Sciences</span></l=
+i><li><span style=3D"color:rgb(33,33,33)">American Journal of Psychiatry an=
+d Neuroscience</span></li><li><span style=3D"color:rgb(33,33,33)">American =
+Journal of Environmental Protection</span></li><li><span style=3D"color:rgb=
+(33,33,33)">International Journal of Mechanical Engineering and Application=
+s</span></li><li><span style=3D"color:rgb(33,33,33)">International Journal =
+of Economy, Energy and Environment</span></li></ol></div></div><div style=
+=3D"background:rgb(36,109,219) none repeat scroll 0% 0%;width:100%;height:2=
+0px">=C2=A0</div></div></div></div>
+
+--001a113d103a1c4c0305642160b7--

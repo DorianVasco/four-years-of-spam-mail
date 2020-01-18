@@ -1,0 +1,240 @@
+Return-Path: <rosely-tappe.sachgebietsleitung-@mein.fruehjahrstest.faith>
+Delivered-To: mail@stilfilm.com
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id E2D4EC180B
+	for <mail@stilfilm.com>; Tue, 24 Apr 2018 18:24:02 +0200 (CEST)
+X-Quarantine-ID: <f1n75DlNGp3e>
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Amavis-Alert: BAD HEADER SECTION, Missing required header field: "Date"
+X-Spam-Flag: YES
+X-Spam-Score: 8.734
+X-Spam-Level: ********
+X-Spam-Status: Yes, score=8.734 required=5.5 tests=[DKIM_SIGNED=0.1,
+	DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1, HTML_IMAGE_RATIO_06=0.001,
+	HTML_MESSAGE=0.001, HTTP_ESCAPED_HOST=1.621,
+	HTTP_EXCESSIVE_ESCAPES=1.516, MISSING_DATE=1.396, MISSING_MID=0.14,
+	RAZOR2_CF_RANGE_51_100=2.43, RAZOR2_CHECK=1.729, SPF_HELO_PASS=-0.001,
+	SPF_PASS=-0.001, UNPARSEABLE_RELAY=0.001, URIBL_BLOCKED=0.001]
+	autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id f1n75DlNGp3e for <mail@stilfilm.com>;
+	Tue, 24 Apr 2018 18:23:57 +0200 (CEST)
+Received: from mein.fruehjahrstest.faith (mein.fruehjahrstest.faith [94.177.217.240])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id 98589C17FB
+	for <mail@stilfilm.com>; Tue, 24 Apr 2018 18:23:56 +0200 (CEST)
+From: Rosely Tappe <buero@mein.fruehjahrstest.faith>
+To: mail@stilfilm.com
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+	d=mein.fruehjahrstest.faith; s=key1; t=1524587322;
+	bh=e1525OcbHRTljb8tytavrgYqi0y+mNREs1NhjJGL45A=; h=From:To:Subject;
+	b=Z2GyyOXSJrLFvIFVaDIFj+SWJ1TavNHMcA0o04glf9eAm6MLIixU7s3w+v3iiEjsW
+	 JRbZZbSoFcac1IlPn0cM5ErARcBtQPeBodkzyheeFECMUAutIQ5gfgCgM6ihlszxwS
+	 Mtcby0LL0JcGfuZf2kJAVpT59YwgW6/xexgdmOTw=
+Subject: =?UTF-8?B?SGV1dGUgaXN0IElocmUgbGV0enRlIENoYW5jZSDigJMgbnV0emVuIFNpZSBzaWUg?=
+MIME-Version: 1.0
+Received: from mein.fruehjahrstest.faith( version=TLSv1.2 cipher=ECDHE-RSA-AES256-GCM-SHA384 bits=256 verify=NOT) for <mail@stilfilm.com>; Tue, 24 Apr 2018 18:28:23 +0200 
+X-Bdmtjizx: FgKeBrP2g1ylE6kf5ia5wiKwJ8YamfAp6AqBB
+Received: (from Rosely Tappe@localhost) by mein.fruehjahrstest.faith (/19.15.3/Submit) id 16211454.jtcz
+Content-Type: multipart/alternative; boundary=rr9acIomAK60tpG0j8B; charset=utf-8
+Message-Id: <20180424162402.E2D4EC180B@v22014122474822114.stilfilm.com>
+Date: Tue, 24 Apr 2018 18:24:02 +0200 (CEST)
+
+--rr9acIomAK60tpG0j8B
+Content-Type: text/plain; charset=utf-8
+
+Einen angenehmen guten Tag,
+
+sofern ein Elternteil eines neugeborenen Kindes privat versichert ist, wird
+das Baby zu vereinfachten Konditionen in der privaten Krankenversicherung
+aufgenommen. Die Versicherung ist verpflichtet, den neuen Erdenbürger ohne
+Gesundheitsprüfung zum gleichen Versicherungsschutz aufzunehmen. Sie darf
+auch keine Risikozuschläge oder Leistungskürzungen vornehmen, selbst wenn
+das Kind krank oder behindert ist. Selbst die übliche Wartezeit, in der
+keine Leistungen verlangt werden können, entfällt.
+
+Vergleichen Sie hier die verschiedenen Versicherungen dazu:
+
+http://de%6do.t%75r%6ekeyc%65nt%72al.com/9NO9Ik
+
+
+Zwei Bedingungen gibt es aber:
+
+1. Der entsprechende Elternteil muss mindestens drei Monate bei der
+Gesellschaft versichert sein.
+2. Der Aufnahmeantrag ist innerhalb von zwei Monaten nach der Geburt
+zu stellen.
+
+Stellvertretend für das gesamte Team grüßt Sie
+
+Marita Hahn
+Versicherungsmanagement
+Kirchstraße 3
+64283 * Darmstadt
+
+
+Wirklich keine News mehr erhalten?
+unsubscribe
+
+
+
+
+
+--rr9acIomAK60tpG0j8B
+Content-Type: text/html; charset=utf-8
+
+<!DOCTYPE html><html><head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title></title>
+<style type="text/css">
+.8rqsx1 {
+padding: 0;
+margin: 0;
+background-color: #f9f9f9;
+letter-spacing:0;
+line-height:10px;
+}
+.mf4pP {
+background-color: #f9f9f9;
+}
+a {
+text-decoration: none;
+color: #ffae00
+}
+.oWjpCX {
+line-height: 0;
+height: 40px;
+text-align:center;
+}
+.r9raxy {
+font-family: Arial, Helvetica, sans-serif;
+font-size: 16px;
+color: #555555;
+font-weight: bold;
+text-transform: none;
+border: none;
+letter-spacing: 0;
+}
+.yOTUl {
+font-family: Arial, Helvetica, sans-serif;
+font-size: 14px;
+line-height: 1.8;
+color: #555555
+}
+.fNWRAHv5j {
+border-bottom: 1px solid #dddddd;
+border-top: 1px solid #dddddd;
+}
+.nfp9u09e {
+font-family: Arial, Helvetica, sans-serif;
+font-size: 12px;
+line-height: 1.5;
+color: #555555;
+letter-spacing:0;
+}
+.g17sea2 {
+-webkit-border-radius: 0;
+-moz-border-radius: 0;
+border-radius: 0;
+}
+.g17sea2 a{
+background-color:#ffae00;
+-webkit-border-radius: 0;
+-moz-border-radius: 0;
+border-radius: 0;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 15px;
+font-weight: bold;
+color: #ffffff;
+text-decoration: none;
+text-transform: none;
+padding: 15px 30px;
+
+display: inline-block;
+letter-spacing: 0;
+line-height: 1;
+}
+.zwsiR {
+font-family: Arial, Helvetica, sans-serif;
+font-size: 12px;
+line-height: 14px;
+color: #555555;
+text-transform: none;
+}
+
+@media only screen and (max-width: 600px) {
+.oWjpCX, .fNWRAHv5j, .BG5gO { width: 100% }
+.r9raxy, th {
+font-size:14px;
+}
+.oWjpCX img {
+width: 100%!important;
+height: auto!important
+}
+.g17sea2 a{
+font-size: 14px ;
+padding: 20px 30px;
+}
+.yOTUl {
+line-height: 1.75
+}
+}
+</style>
+</head>
+<body class="8rqsx1" style="background-color: #f9f9f9; letter-spacing: 0; line-height: 10px; margin: 0; padding: 0;">
+<!-- Vorschau Text des Email Programm Pop Ups -->
+<div style="line-height:1px;font-size:1px;overflow:hidden;color:#666666;max-height:0px;opacity:0;max-width:0px;display:none">
+
+</div>
+<table border="0" cellspacing="0" cellpadding="0" class="mf4pP" width="100%" style="background-color: #f9f9f9;"><tbody><tr>
+<td valign="top" align="center">
+<table border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffff" class="BG5gO" width="600"><tbody><tr>
+<td valign="middle" height="40" class="oWjpCX" align="center" style="height: 40px; line-height: 0; text-align: center;"><strong><a target="_blank" href="http://de%6do.t%75r%6ekeyc%65nt%72al.com/9NO9Ik" style="color: #ffae00; text-decoration: none;"><font color="#ffae00" face="Arial, Helvetica, sans-serif"> <img src="pkv.jpg" width="600" height="333" alt="Neugeboren und schon Privatpatient" style="max-width:600px; padding-bottom: 0; display: inline !important; vertical-align: middle; text-align:center; line-height:1.2"></font></a></strong></td>
+</tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="32" bgcolor="#ffffff" class="fNWRAHv5j" width="600" style="border-bottom: 1px solid #dddddd; border-top: 1px solid #dddddd;"><tbody><tr>
+<td valign="middle" align="left">
+<p class="r9raxy" style="border: none; color: #555555; font-family: Arial, Helvetica, sans-serif; font-size: 16px; font-weight: bold; letter-spacing: 0; text-transform: none;"> Einen angenehmen guten Tag, </p>
+
+<p class="yOTUl" style="color: #555555; font-family: Arial, Helvetica, sans-serif; font-size: 14px; line-height: 1.8;"> <br>
+sofern ein Elternteil eines neugeborenen Kindes privat versichert ist, wird das Baby zu vereinfachten Konditionen in der privaten Krankenversicherung aufgenommen. Die Versicherung ist verpflichtet, den neuen Erdenb&#xFC;rger ohne Gesundheitspr&#xFC;fung zum gleichen Versicherungsschutz aufzunehmen. Sie darf auch keine Risikozuschl&#xE4;ge oder Leistungsk&#xFC;rzungen vornehmen, selbst wenn das Kind krank oder behindert ist. Selbst die &#xFC;bliche Wartezeit, in der keine Leistungen verlangt werden k&#xF6;nnen, entf&#xE4;llt. </p>
+<br><p class="yOTUl" style="color: #555555; font-family: Arial, Helvetica, sans-serif; font-size: 14px; line-height: 1.8;"> <strong>Vergleichen Sie hier die verschiedenen Versicherungen dazu:</strong></p>
+
+<table cellspacing="0" cellpadding="0" width="100%" border="0"><tbody><tr>
+<td align="center">
+<table cellspacing="0" cellpadding="0" border="0"><tbody><tr>
+<td class="g17sea2" align="center" style="-moz-border-radius: 0; -webkit-border-radius: 0; border-radius: 0;"> <a target="_blank" href="http://de%6do.t%75r%6ekeyc%65nt%72al.com/9NO9Ik" style="-moz-border-radius: 0; -webkit-border-radius: 0; background-color: #ffae00; border-radius: 0; color: #ffffff; display: inline-block; font-family: Arial, Helvetica, sans-serif; font-size: 15px; font-weight: bold; letter-spacing: 0; line-height: 1; padding: 15px 30px; text-decoration: none; text-transform: none;"><font color="#ffffff">Zum Vergleich</font></a> </td>
+</tr></tbody></table>
+</td>
+</tr></tbody></table>
+<p class="yOTUl" style="color: #555555; font-family: Arial, Helvetica, sans-serif; font-size: 14px; line-height: 1.8;"> </p>
+<p class="yOTUl" style="color: #555555; font-family: Arial, Helvetica, sans-serif; font-size: 14px; line-height: 1.8;"><strong>Zwei Bedingungen gibt es aber: </strong></p>
+<ol class="yOTUl" style="color: #555555; font-family: Arial, Helvetica, sans-serif; font-size: 14px; line-height: 1.8;">
+<li>Der entsprechende Elternteil muss mindestens drei Monate bei der Gesellschaft versichert sein.</li>
+<li>Der Aufnahmeantrag ist innerhalb von zwei Monaten nach der Geburt zu stellen.</li>
+</ol>
+</td>
+</tr></tbody></table>
+</td>
+</tr></tbody></table>
+<br><center>
+<p class="yOTUl" style="color: #555555; font-family: Arial, Helvetica, sans-serif; font-size: 14px; line-height: 1.8;"> Stellvertretend f&#xFC;r das gesamte Team gr&#xFC;&#xDF;t Sie <br>
+Ihre Marita Hahn </p>
+<p class="zwsiR" style="color: #555555; font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 14px; text-transform: none;">Versicherungsmanagement
+Kirchstra&#xDF;e 3
+64283 * Darmstadt</p>
+<p class="zwsiR" style="color: #555555; font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 14px; text-transform: none;">Wirklich keine News mehr erhalten? <a href="unsubscribe" style="color: #ffae00; text-decoration: none;"><font color="#ffae00"><strong>Abmeldelink</strong></font></a></p>
+</center>
+
+
+
+</body></html>
+
+
+
+
+
+--rr9acIomAK60tpG0j8B--

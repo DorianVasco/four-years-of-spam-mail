@@ -1,0 +1,236 @@
+Return-Path: <mail@gmail.com>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 2D389C3D5C
+	for <mail@dorianvasco.de>; Wed,  3 Jul 2019 11:07:04 +0200 (CEST)
+Authentication-Results: v22014122474822114.stilfilm.com; dkim=permerror
+	reason="key not found" header.d=gmail.com header.i=mail@gmail.com
+	header.b=HsNcs40e; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 12.912
+X-Spam-Level: ************
+X-Spam-Status: Yes, score=12.912 required=5.5 tests=[BAYES_99=3.5,
+	BAYES_999=0.2, DKIM_ADSP_CUSTOM_MED=0.001, DKIM_INVALID=0.1,
+	DKIM_SIGNED=0.1, FREEMAIL_FROM=0.001, HTML_MESSAGE=0.001,
+	LOTS_OF_MONEY=0.001, MIME_HTML_ONLY=0.1, NML_ADSP_CUSTOM_MED=0.9,
+	PYZOR_CHECK=1.392, SPF_HELO_NONE=0.001, SPF_SOFTFAIL=0.665,
+	SUBJ_ALL_CAPS=0.5, URIBL_ABUSE_SURBL=1.25, URIBL_BLACK=1.7,
+	URIBL_DBL_SPAM=2.5] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id yN6rIgQhouQC for <mail@dorianvasco.de>;
+	Wed,  3 Jul 2019 11:07:00 +0200 (CEST)
+Received: from painel2.rwhostmarketing.com.br (painel2.rwhostmarketing.com.br [185.91.118.19])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 11FE4C3BEF
+	for <mail@dorianvasco.de>; Wed,  3 Jul 2019 11:06:56 +0200 (CEST)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=default; d=gmail.com;
+ h=From:To:Subject:Date:Message-ID:MIME-Version:Content-Type:Content-Transfer-Encoding; i=mail@gmail.com;
+ bh=01Ta2QMbn73GEeCIzUZwZWXxFXQ=;
+ b=HsNcs40edMmwRCnqmL/ETgXG6qJqiuBqf+C3hQPGXkadz/CnhBZT90IAhUZ+BKNwPhsSUQynn9zB
+   kdYPXsT9j23am8eEnqoV5u7ywEz+lRMQ63f54674osjTV96NQYU+T/833F/D0QyWzQr7H91Yc0vO
+   gzSQvN3BL8spwcd1bac=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=default; d=gmail.com;
+ b=SHTLLAgniEOGiA8GcHyIQi5b6HXUvXlMtwWgTyHXCea4GTE4EVaAZU4YUsBu4z4NA+IfYPOirD9V
+   75KNIzXHK8scPK++LAp5kn2JA5HAIllOE0eCVDumSnq3196rLuueRtVf2ciOiHaGsXsiRTRjr/Vy
+   iNQ3hLFRzrcZg5Kd8g8=;
+From: BTC Revolution <mail@gmail.com>
+To: mail@dorianvasco.de
+Subject: [WARNING] SESSION WILL BE DEACTIVATED IN 10 HOURS
+Date: 3 Jul 2019 00:41:13 -0700
+Message-ID: <20190703004113.06C28C844B9D06C4@gmail.com>
+MIME-Version: 1.0
+Content-Type: text/html
+Content-Transfer-Encoding: quoted-printable
+
+<HTML><HEAD><TITLE></TITLE>
+</HEAD>
+<BODY bgcolor=3D#FFFFFF leftmargin=3D5 topmargin=3D5 rightmargin=3D5 bottom=
+margin=3D5>
+<FONT size=3D2 color=3D#000000 face=3D"Arial">
+<DIV>
+<FONT face=3D"Verdana">Hey There!</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">This is a message notifying you that</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">$41,361.35 sitting in our payment queue.</FONT></DIV=
+>
+<DIV>
+<FONT face=3D"Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">Please Collect Within 24 days (</FONT><A href=3D"htt=
+p://pt5.abellacarl.trade/btrevc"><FONT color=3D#0000FF face=3D"Verdana"><U>=
+Push Here</U></FONT></A><FONT face=3D"Verdana">)</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">If this is still</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">unclaimed after</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">24 days,</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">we will be</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">forced to hold</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">funds for another</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">30 days.</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">&gt;&gt; </FONT><A href=3D"http://pt5.abellacarl.tra=
+de/btrevc"><FONT color=3D#0000FF face=3D"Verdana"><U>Get Your Earning Pool =
+Cash Right Away</U></FONT></A></DIV>
+<DIV>
+<FONT face=3D"Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">-&gt; http://pt5.abellacarl.trade/btrevc</FONT></DIV=
+>
+<DIV>
+<FONT face=3D"Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">To your continued success,</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">Roberta D. Vanetten</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">140 Saint Marys Avenue</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">East Syracuse, NY 13057</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">&nbsp;</FONT></DIV>
+<DIV>
+<FONT face=3D"Verdana">&nbsp;</FONT></DIV>
+</FONT>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br=
+><br><br><br><br><br><br><br><br>
+&nbsp;<br /><br /><style>
+=2Efooter {padding: 20px 30px 15px 30px; border-radius: 5px;}
+=2Efootercopy {font-family: sans-serif; font-size: 10px; color: #bdc3c7;}
+=2Efootercopy a {color: #bdc3c7; text-decoration: underline;}
+=2Efooterunsub {font-family: sans-serif; font-size: 10px; color: #7f8c8d;}
+=2Efooterunsub a {color: #7f8c8d; text-decoration: underline;}
+</style>
+
+<table class=3D"footer" bgcolor=3D"#ecf0f1" width=3D"100%">
+            <tr>
+                <td align=3D"center" class=3D"footercopy">
+                 Global Millionaires Trader LLC,3788 Oakwood Avenue, NY, 10=
+011
+                </td>
+            </tr>
+            <tr>
+                <td align=3D"center" style=3D"padding: 20px 0 0 0;">
+                    <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0"=
+>
+                        <tr>
+                            <td style=3D"text-align: center; padding: 0 10p=
+x 0 10px;" class=3D"footerunsub">
+                                <a href=3D"http://www.lettermelater.com/uns=
+ubscribe.php?mid=3D2722297&email=3Dmail@dorianvasco.de"><font color=3D"#7f8=
+c8d">Unsubscribe</font></a> from this newsletter instantly.
+                                <a href=3D"http://www.lettermelater.com/uns=
+ubscribe.php?mid=3D2722297&email=3Dmail@dorianvasco.de"><font color=3D"#7f8=
+c8d">Report Abuse</font></a>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+</table>
+</body></html>

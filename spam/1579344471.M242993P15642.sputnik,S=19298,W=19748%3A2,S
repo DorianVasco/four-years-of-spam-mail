@@ -1,0 +1,450 @@
+Return-Path: <bounce-860-61432196-248-248@wiiwatm.top>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 8FDF4C06F7
+	for <mail@dorianvasco.de>; Thu, 18 Jul 2019 15:20:43 +0200 (CEST)
+Authentication-Results: v22014122474822114.stilfilm.com; dkim=pass
+	reason="1024-bit key; insecure key"
+	header.d=wiiwatm.top header.i=newsletter@wiiwatm.top
+	header.b=U+grclqN; dkim-adsp=pass; dkim-atps=neutral
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: 3.844
+X-Spam-Level: ***
+X-Spam-Status: No, score=3.844 required=5.5 tests=[BAYES_60=1.5,
+	DATE_IN_PAST_12_24=1.049, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, HTML_IMAGE_RATIO_04=0.001, HTML_MESSAGE=0.001,
+	PYZOR_CHECK=1.392, SPF_HELO_NONE=0.001] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 4-rs_lHC0_VG for <mail@dorianvasco.de>;
+	Thu, 18 Jul 2019 15:20:38 +0200 (CEST)
+Received: from kck.wiiwatm.top (kck.wiiwatm.top [172.104.151.91])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id EB298C04F8
+	for <mail@dorianvasco.de>; Thu, 18 Jul 2019 15:20:36 +0200 (CEST)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=wiiwatmtop; d=wiiwatm.top;
+ h=Date:To:From:Reply-to:Subject:Message-ID:List-Unsubscribe:MIME-Version:Content-Type; i=newsletter@wiiwatm.top;
+ bh=cw7l+VtOooUBoUidC5k3paz86gQ=;
+ b=U+grclqNZdPCv124jZFsEzqlEjqhpdB53wEo/Z5gnFEWPV/um9m4H0hLh/biwHhVaSBRcv3ZlTs3
+   9dw0N25omS6h1F0uRnKi+/geecGScbt+Zpc4o6aTcPVux3nwivvE594KghJ5wl1dWBtuu/Y/mu8M
+   d9gs+5ItZ1COHcJZCXM=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=wiiwatmtop; d=wiiwatm.top;
+ b=CtISXBaBnUG6LHCH6ingW0lKGebj0bkQiOOtZ+cCTarc+YvRozpCI5RwjDNw4reb+ywINN4ZYMX2
+   nZ9z8xJvbZWSYBu5GFeojq+u3QyEz+DD6LbCWU0IMzhLyXPetbACT5Iiifz/yqUn2BEo+CZT/IxU
+   MAQ9U8rPYRABZS9cl1k=;
+Received: by kck.wiiwatm.top id h61p280e97c9 for <mail@dorianvasco.de>; Thu, 18 Jul 2019 13:20:31 +0000 (envelope-from <bounce-860-61432196-248-248@wiiwatm.top>)
+Date: Thu, 18 Jul 2019 00:12:52 +0200
+To: "mail@dorianvasco.de" <mail@dorianvasco.de>
+From: Sunglasses Outlet <newsletter@wiiwatm.top>
+Reply-to: Sunglasses Outlet <newsletter@wiiwatm.top>
+Subject: Summer Sunglasses Special Deals Up To 80% OFF!
+Message-ID: <507a5ffa884a3397bd721794eda61650@localhost>
+X-Priority: 3
+X-Mailer: Email Sending System
+X-Complaints-To: kwcsas@sina.com
+List-Unsubscribe: <http://kck.wiiwatm.top/edmn/u.php?p=rw/rs/6h4q/rt/rw/rs>
+X-MessageID: NHx8fHwzMDExMzh8fHx8bWFpbEBkb3JpYW52YXNjby5kZXx8fHwxfHx8fDF8fHx8MA%3D%3D
+X-Report-Abuse: <http://kck.wiiwatm.top/edmn/report_abuse.php?mid=NHx8fHwzMDExMzh8fHx8bWFpbEBkb3JpYW52YXNjby5kZXx8fHwxfHx8fDF8fHx8MA%3D%3D>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_507a5ffa884a3397bd721794eda61650"
+
+
+--b1_507a5ffa884a3397bd721794eda61650
+Content-Type: text/plain; charset = "utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Summer Sunglasses Special Deals Up To 80% OFF!=20
+Your email client cannot read this email.
+To view it online, please go here: http://kck.wiiwatm.top/edmn/wb.php?p=3Dr=
+w/rw/rs/6h4q/rt/rs
+
+To stop receiving these emails:http://kck.wiiwatm.top/edmn/u.php?p=3Drw/rs/=
+6h4q/rt/rw/rs
+
+--b1_507a5ffa884a3397bd721794eda61650
+Content-Type: text/html; charset = "utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html><head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1.=
+0">
+<style type=3D"text/css">
+#outlook a{padding:0}body{width:100%!important;-webkit-text-size-adjust:100=
+%;-ms-text-size-adjust:100%;margin:0;padding:0;background:#efefe9}.External=
+Class{width:100%}.ExternalClass,.ExternalClass p,.ExternalClass span,.Exter=
+nalClass font,.ExternalClass td,.ExternalClass div{line-height:100%}img{out=
+line:0;text-decoration:none;-ms-interpolation-mode:bicubic}a img{border:0}.=
+image_fix{display:block}p{margin:1em 0}table td{border-collapse:collapse;fo=
+nt-family:'Helvetica Neue',Arial,sans-serif;line-height:1.2}table{border-co=
+llapse:collapse;mso-table-lspace:0;mso-table-rspace:0;table-layout:fixed;ma=
+rgin:0 auto}a,a:link,a:visited,a:hover{color:#259fc4}.appleLinksExp a{color=
+:#a3a195;text-decoration:none}.appleLinksExpRed a{color:#db514f;text-decora=
+tion:none}@media only
+ screen and (max-device-width:480px){*[class].super{padding:0 10px 10px 10p=
+x!important}*[class].mainFeature .center{text-align:center!important}*[clas=
+s].mainFeature .offerbutton-c{width:60%!important}*[class].mainFeature .tit=
+le a{font-size:22px!important;line-height:1.2!important}*[class].heartImg-c=
+{padding-top:10px!important}*[class].c-header{font-size:30px!important}*[cl=
+ass].o-l{padding-right:5px!important;min-width:50%!important;width:50%!impo=
+rtant}*[class].o-r{padding-left:5px!important;min-width:50%!important;width=
+:50%!important}*[class].offerbutton-c{margin:0
+ auto!important;width:100%!important}*[class].offerbutton-c,*[class].exp-c{=
+display:block!important}*[class].exp-c,*[class].ptag,*[class].exclu,*[class=
+].noexclu{font-size:12px!important;width:100%!important;line-height:1.4!imp=
+ortant}*[class].offerbutton-c div{text-align:left!important}*[class].offerb=
+utton-c div a{width:100%!important}*[class].offerLogo-c{height:100px!import=
+ant}*[class].offerLogo-c img{width:100px!important}*[class].featuredTitle{p=
+adding:10px 0!important;line-height:1.1!important}*[class].featuredTitle a{=
+font-weight:500!important;line-height:1.1!important;font-size:16px!importan=
+t}*[class].title,*[class].storeName,*[class].title a,*[class].storeName a{l=
+ine-height:1!important}*[class].title
+ a{font-size:15px!important;font-weight:500!important}*[class].title{paddin=
+g-top:5px!important;height:68px!important}*[class].hh a{font-size:18px!impo=
+rtant;font-weight:500!important}*[class].featuredImg-c,*[class].featuredInf=
+o-c{width:50%!important}*[class].featuredInfo-c{vertical-align:middle!impor=
+tant}*[class].exp-c{padding-bottom:10px!important}*[class].price{font-size:=
+14px!important}*[class].heartImg-c{padding-top:10px!important}span[id=3Dc-s=
+witcher]{display:block;background-image:url(https://mediaservice.rmn.com/im=
+age/REVRJYFEEJFQTIS7Q53KNZFXC4)!important;background-repeat:no-repeat!impor=
+tant;background-position:top!important;width:100%!important;height:230px!im=
+portant;background-size:auto
+ 230px}img[id=3Dc-img],*[class].featuredOfferLogo-c,img[id=3Dd-img]{display=
+:none!important}span[id=3Dd-switcher]{display:block;background-image:url()!=
+important;background-repeat:no-repeat!important;background-position:top!imp=
+ortant;width:100%!important;height:230px!important;background-size:auto }}.=
+STYLE2 {
+=09color: #259fc4;
+=09font-size: 18px;
+}
+a:link {
+=09color: #000000;
+=09text-decoration: none;
+}
+a:visited {
+=09text-decoration: none;
+=09color: #000000;
+}
+a:hover {
+=09text-decoration: none;
+=09color: #000000;
+}
+a:active {
+=09text-decoration: none;
+}
+</style>
+<!--[if IEMobile 7]>
+<style type=3D"text/css"></style>
+<![endif]-->
+</head>
+<body class=3D"" style=3D"">
+<table style=3D"margin: 0; padding: 0; width: 100%!important; line-height: =
+100%!important; background: #efefe9;" align=3D"center" border=3D"0" cellpad=
+ding=3D"0" cellspacing=3D"0">
+<tr>
+<td style=3D"background: #663379; line-height: 0;" align=3D"center" valign=
+=3D"top" width=3D"100%"><span class=3D"preHeader" style=3D"color: #663379; =
+font-size: 1px;">Check out today's best deals!</span></td>
+</tr>
+<tr>
+<td style=3D"background: #663379; padding: 10px 0;" align=3D"center" valign=
+=3D"top" width=3D"100%"><img src=3D"http://o.rmncdn.com/thumbs/ops/RetailMe=
+NotLogoNL.png" alt=3D"RetailMeNot" title=3D"RetailMeNot" width=3D"180" /></=
+td>
+</tr>
+<tr>
+<td>
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+<tr>
+<td class=3D"super" style=3D"padding: 20px 10px; box-sizing: border-box;" a=
+lign=3D"center" valign=3D"top" width=3D"600">
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+<tr>
+<td class=3D"c-header" style=3D"font-size: 36px; font-weight: 500; color: #=
+222; padding: 0 10px 30px; line-height: 1.2;" align=3D"center">Just for You=
+: Today's Top Deals</td>
+</tr>
+<tr>
+<td style=3D"padding-bottom: 20px;" width=3D"100%">
+<table style=3D"width: 100%; background: #FFFFFF;" align=3D"center" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+<tr>
+<td class=3D"featuredImg-c" style=3D"width: 56%; background: #fff; border-b=
+ottom: 1px solid #d1d0c9;" valign=3D"top" width=3D"56%"><a href=3D"http://k=
+ck.wiiwatm.top/edmn/tl.php?p=3Drw/rw/rs/6h4q/rt/rs//http%3A%2F%2Fkck.wiiwat=
+m.top%2Fspecial%2Fsunglasses.html"> <span id=3D"c-switcher"><img src=3D"htt=
+p://i.imgur.com/bHEPZZe.jpg" alt=3D"slider" id=3D"c-img" style=3D"-ms-inter=
+polation-mode: bicubic; border: none; clear: both; display: block; float: l=
+eft; height: 248px; outline: 0; text-decoration: none;" align=3D"middle" he=
+ight=3D"248" width=3D"331" /></span></a></td>
+<td class=3D"featuredInfo-c" style=3D"width: 42%; border-bottom: 1px solid =
+#d1d0c9;" valign=3D"top" width=3D"42%">
+<table style=3D"width: 100%;" align=3D"center" border=3D"0" cellpadding=3D"=
+0" cellspacing=3D"0">
+<tr>
+<td class=3D"featuredOfferLogo-c" style=3D"padding: 10px 10px 0 10px; backg=
+round: #ffffff;" width=3D"100%">
+<table style=3D"width: 100%;" align=3D"center" border=3D"0" cellpadding=3D"=
+0" cellspacing=3D"0">
+<tr>
+<td align=3D"center"></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style=3D"background: #fff; padding: 10px 10px 0;" width=3D"100%">
+<table style=3D"width: 100%;" align=3D"center" border=3D"0" cellpadding=3D"=
+0" cellspacing=3D"0">
+<tr>
+<td style=3D"background: #fff; width: 100%; font-size: 14px; padding: 0 0 1=
+0px;" align=3D"center"><span class=3D"STYLE2">HOT SUNGLASSES</span></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style=3D"background: #fff; padding: 0 10px;" width=3D"100%">
+<table style=3D"width: 100%;" align=3D"center" border=3D"0" cellpadding=3D"=
+0" cellspacing=3D"0">
+<tr>
+<td class=3D"featuredTitle" style=3D"width: 100%; background: #FFFFFF; heig=
+ht: 56px; vertical-align: top;" align=3D"center">
+<p style=3D"color: #222; text-decoration: none; font-size: 18px; line-heigh=
+t: 1.3;"><a href=3D"http://kck.wiiwatm.top/edmn/tl.php?p=3Drw/rw/rs/6h4q/rt=
+/rs//http%3A%2F%2Fkck.wiiwatm.top%2Fspecial%2Fsunglasses.html">Today Only! =
+USD $19<br />80% OFF</a></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style=3D"background: #fff; padding: 5px 10px 10px 10px;" width=3D"100%"=
+>
+<table style=3D"width: 100%;" align=3D"center" border=3D"0" cellpadding=3D"=
+0" cellspacing=3D"0">
+<tr>
+<td class=3D"exp-c" style=3D"width: 50%; font-size: 13px; color: #a3a195; p=
+adding: 0 0 10px 0;" align=3D"center"><span class=3D"appleLinksExpRed">Expi=
+res today</span></td>
+</tr>
+<tr>
+<td class=3D"offerbutton-c" style=3D"width: 50%;" align=3D"center">
+<div style=3D"background-color: #259fc4; border-radius: 4px; width: 150px;"=
+><span style=3D"color: #ffffff; display: inline-block; font-family: sans-se=
+rif; font-size: 16px; line-height: 35px; text-align: center; text-decoratio=
+n: none; width: 120px; -webkit-text-size-adjust: none;"><a href=3D"http://k=
+ck.wiiwatm.top/edmn/tl.php?p=3Drw/rw/rs/6h4q/rt/rs//http%3A%2F%2Fkck.wiiwat=
+m.top%2Fspecial%2Fsunglasses.html">Get Deal</a></span></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style=3D"padding-bottom: 20px;" width=3D"100%">
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+<tr>
+<td class=3D"o-l" style=3D"min-width: 290px; width: 290px; padding-right: 1=
+0px;" valign=3D"top" width=3D"290">
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+<tr>
+<td style=3D"background: #FFFFFF; padding: 10px;" width=3D"290">
+<table style=3D"width: 100%;" align=3D"center" border=3D"0" cellpadding=3D"=
+0" cellspacing=3D"0">
+<tr>
+<td class=3D"offerLogo-c" style=3D"width: 100%; height: 200px;" align=3D"ce=
+nter" height=3D"200"><a href=3D"http://kck.wiiwatm.top/edmn/tl.php?p=3Drw/r=
+w/rs/6h4q/rt/rs//http%3A%2F%2Fkck.wiiwatm.top%2Fspecial%2Fsunglasses.html">=
+<img src=3D"http://i.imgur.com/svZRK5x.jpg" alt=3D"sunglasses-1" style=3D"d=
+isplay: block;" height=3D"186" width=3D"270" /></a></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class=3D"ptag" style=3D"border-collapse: collapse!important; font-size:=
+ 16px; padding: 0; text-align: center; background: #FFFFFF; line-height: 1.=
+6; width: 100%;" align=3D"center"></td>
+</tr>
+<tr>
+<td style=3D"background: #fff; padding: 0 10px;" width=3D"290">
+<table style=3D"width: 100%;" align=3D"center" border=3D"0" cellpadding=3D"=
+0" cellspacing=3D"0">
+<tr>
+<td class=3D"title" style=3D"width: 100%; background: #FFFFFF; height: 58px=
+; vertical-align: top; padding-top: 5px; color: #222; text-decoration: none=
+; font-size: 18px; line-height: 1.3;" align=3D"left" valign=3D"top">RB2132 =
+New Wayfarer Sunglasses Only $19.9</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style=3D"background: #fff; padding: 10px; border-bottom: 1px solid #d1d=
+0c9;" width=3D"290">
+<table style=3D"width: 100%;" align=3D"center" border=3D"0" cellpadding=3D"=
+0" cellspacing=3D"0">
+<tr>
+<td class=3D"exp-c" style=3D"width: 50%; font-size: 13px; color: #a3a195;" =
+align=3D"left"><span class=3D"price" style=3D"font-size: 16px;">Hot Deal!</=
+span></td>
+<td class=3D"offerbutton-c" style=3D"width: 50%;" align=3D"right">
+<div style=3D"background-color: #259fc4; border-radius: 4px; color: #ffffff=
+; display: inline-block; font-family: sans-serif; font-size: 16px; line-hei=
+ght: 35px; text-align: center; text-decoration: none; width: 110px; -webkit=
+-text-size-adjust: none;"><!--[if mso]> <![endif]-->Get Deal<!--[if mso]> <=
+![endif]--></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+<td class=3D"o-r" style=3D"min-width: 290px; width: 290px; padding-left: 10=
+px;" valign=3D"top" width=3D"290">
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+<tr>
+<td style=3D"background: #FFFFFF; padding: 10px;" width=3D"290">
+<table style=3D"width: 100%;" align=3D"center" border=3D"0" cellpadding=3D"=
+0" cellspacing=3D"0">
+<tr>
+<td class=3D"offerLogo-c" style=3D"width: 100%; height: 200px;" align=3D"ce=
+nter" height=3D"200"><a href=3D"http://kck.wiiwatm.top/edmn/tl.php?p=3Drw/r=
+w/rs/6h4q/rt/rs//http%3A%2F%2Fkck.wiiwatm.top%2Fspecial%2Fsunglasses.html" =
+style=3D"color: #259fc4; text-decoration: none;"> <img src=3D"http://i.imgu=
+r.com/v7K8wLA.jpg" alt=3D"sunglasses-2" style=3D"display: block;" height=3D=
+"186" width=3D"270" /></a></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class=3D"ptag" style=3D"border-collapse: collapse!important; font-size:=
+ 16px; padding: 0; text-align: center; background: #FFFFFF; line-height: 1.=
+6; width: 100%;" align=3D"center"></td>
+</tr>
+<tr>
+<td style=3D"background: #fff; padding: 0 10px;" width=3D"290">
+<table style=3D"width: 100%;" align=3D"center" border=3D"0" cellpadding=3D"=
+0" cellspacing=3D"0">
+<tr>
+<td class=3D"title" style=3D"width: 100%; background: #FFFFFF; height: 58px=
+; vertical-align: top; padding-top: 5px; color: #222; text-decoration: none=
+; font-size: 18px; line-height: 1.3;" align=3D"left" valign=3D"top">Fuel Ce=
+ll Rectangular Sunglasses Only $19.9</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style=3D"background: #fff; padding: 10px; border-bottom: 1px solid #d1d=
+0c9;" width=3D"290">
+<table style=3D"width: 100%;" align=3D"center" border=3D"0" cellpadding=3D"=
+0" cellspacing=3D"0">
+<tr>
+<td class=3D"exp-c" style=3D"width: 50%; font-size: 13px; color: #a3a195;" =
+align=3D"left"><span class=3D"price" style=3D"font-size: 16px;">Hot Deal!</=
+span></td>
+<td class=3D"offerbutton-c" style=3D"width: 50%;" align=3D"right">
+<div style=3D"background-color: #259fc4; border-radius: 4px; color: #ffffff=
+; display: inline-block; font-family: sans-serif; font-size: 16px; line-hei=
+ght: 35px; text-align: center; text-decoration: none; width: 110px; -webkit=
+-text-size-adjust: none;"><!--[if mso]> <![endif]--> Get Deal<!--[if mso]> =
+<![endif]--></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class=3D"hb" style=3D"border-collapse: collapse!important; display: tab=
+le-cell!important; padding: 20px 10px 10px;">
+<hr style=3D"background: #c9c9c9; border: 0; color: #c9c9c9; height: 2px;" =
+/>
+</td>
+</tr>
+<tr>
+<td style=3D"border-collapse: collapse!important; padding-top: 20px;" align=
+=3D"center"><img src=3D"http://o.rmncdn.com/thumbs/ops/grey-logo-email-foot=
+er.png" alt=3D"retailmenot" style=3D"display: block;" width=3D"186" /></td>
+</tr>
+<tr>
+<td style=3D"border-collapse: collapse!important; padding: 20px 0;" align=
+=3D"center"><span><img src=3D"http://o.rmncdn.com/thumbs/ops/facebook-print=
+ablel2013.png" alt=3D"facebook" width=3D"36" /></span><span><img src=3D"htt=
+p://o.rmncdn.com/thumbs/ops/twitter-printablel2013.png" alt=3D"twitter" wid=
+th=3D"36" /></span><span><img src=3D"http://o.rmncdn.com/thumbs/ops/gplus-p=
+rintablel2013.png" alt=3D"g+" width=3D"36" /></span><span> <img src=3D"http=
+://o.rmncdn.com/thumbs/ops/pinterest-printablel2013.png" alt=3D"pinterest" =
+width=3D"36" /></span></td>
+</tr>
+<tr>
+<td style=3D"border-collapse: collapse!important; font-size: 10px; color: #=
+a3a195; padding: 10px 20px 2px 20px; line-height: 1.3;" align=3D"center">To=
+ stop receiving these emails <a href=3D"http://kck.wiiwatm.top/edmn/u.php?p=
+=3Drw/rs/6h4q/rt/rw/rs"><span style=3D"color: #259fc4; text-decoration: non=
+e;">unsubscribe</span></a></td>
+</tr>
+<tr>
+<td style=3D"border-collapse: collapse!important; font-size: 10px; color: #=
+a3a195; line-height: 1.6; padding: 0 20px 2px 20px;" align=3D"center">To en=
+sure delivery, We recommend you add us to your address book.</td>
+</tr>
+<tr>
+<td style=3D"border-collapse: collapse!important; font-size: 10px; color: #=
+a3a195; line-height: 1.6; padding: 0 20px 2px 20px;" align=3D"center">Get t=
+he latest on savings, finance, couponing... The Real Deal by RetailMeNot</t=
+d>
+</tr>
+<tr>
+<td style=3D"border-collapse: collapse!important; font-size: 10px; color: #=
+a3a195; line-height: 1.6; padding: 0 20px 2px 20px;" align=3D"center"></td>
+</tr>
+<tr>
+<td style=3D"border-collapse: collapse!important; font-size: 10px; color: #=
+a3a195; line-height: 1.6; padding: 0 20px 2px 20px;" align=3D"center">Some =
+of these deals feature products with limited quantities. Prices and quantit=
+ies may be subject to change by retailers at their discretion.</td>
+</tr>
+<tr>
+<td style=3D"border-collapse: collapse!important; font-size: 10px; color: #=
+a3a195; line-height: 1.6; padding: 0 20px 20px 20px;" align=3D"center">Copy=
+right 2019 <span class=3D"appleLinksExp">TopDiscount, Inc., 301 Congress Av=
+enue Suite 700, Austin, TX, 78701 USA</span></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<div style=3D"display: none; white-space: nowrap; font: 15px courier; color=
+: #fff;">- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -<=
+/div>
+
+<img src=3D"http://kck.wiiwatm.top/edmn/to.php?p=3Drw/rw/rs/6h4q/rt/rs" wid=
+th=3D"5" height=3D"2" alt=3D".">
+
+</body></html>
+
+
+--b1_507a5ffa884a3397bd721794eda61650--

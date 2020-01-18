@@ -1,0 +1,147 @@
+Received: from localhost by v22014122474822114.stilfilm.com
+	with SpamAssassin (version 3.3.2);
+	Wed, 22 Nov 2017 21:01:51 +0100
+From: "Anastasia" <Anastasiaaual@tpgi.com.au>
+To: <eula_garcia@gs-gronau.de>
+Subject: *****SPAM***** ***SPAM*** How are you?
+Date: Tue, 01 Aug 2017 22:55:16 +0800
+Message-Id: <4311423944.620657311189763866.JavaMail.root@tpgi.com.au>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	v22014122474822114.stilfilm.com
+X-Spam-Flag: YES
+X-Spam-Level: ******************
+X-Spam-Status: Yes, score=19.0 required=5.0 tests=CK_HELO_DYNAMIC_SPLIT_IP,
+	HELO_DYNAMIC_IPADDR2,HK_RANDOM_ENVFROM,HK_RANDOM_FROM,PYZOR_CHECK,
+	RCVD_IN_BL_SPAMCOP_NET,RCVD_IN_BRBL_LASTEXT,RCVD_IN_PSBL,RCVD_IN_SBL_CSS,
+	RCVD_IN_SORBS_WEB,RCVD_IN_XBL,T_RP_MATCHES_RCVD,URIBL_BLOCKED
+	autolearn=unavailable version=3.3.2
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----------=_5A15D7AF.1AE0460F"
+
+This is a multi-part message in MIME format.
+
+------------=_5A15D7AF.1AE0460F
+Content-Type: text/plain; charset=iso-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+
+Software zur Erkennung von "Spam" auf dem Rechner
+
+    v22014122474822114.stilfilm.com
+
+hat die eingegangene E-mail als mögliche "Spam"-Nachricht identifiziert.
+Die ursprüngliche Nachricht wurde an diesen Bericht angehängt, so dass
+Sie sie anschauen können (falls es doch eine legitime E-Mail ist) oder
+ähnliche unerwünschte Nachrichten in Zukunft markieren können.
+Bei Fragen zu diesem Vorgang wenden Sie sich bitte an
+
+    the administrator of that system
+
+Vorschau: Hi! How are you? My name is Anastasia (or shortly Nastya),
+   and I’d love to know your name. Do you visit this site oftentimes? I was
+  hoping to talk to you in chat once but you left all of a sudden. Could you
+   write me your address or send me a letter some day? I believe we have a lot
+   in common and talking to you will be much pleasure for me. [...] 
+
+Inhaltsanalyse im Detail:   (19.0 Punkte, 5.0 benötigt)
+
+Pkte Regelname              Beschreibung
+---- ---------------------- --------------------------------------------------
+ 2.7 RCVD_IN_PSBL           RBL: Received via a relay in PSBL
+                            [14.203.153.137 listed in psbl.surriel.com]
+ 3.6 RCVD_IN_SBL_CSS        RBL: Received via a relay in Spamhaus SBL-CSS
+                            [14.203.153.137 listed in zen.spamhaus.org]
+ 0.7 RCVD_IN_XBL            RBL: Transportiert via Rechner in XBL-Liste
+                            (http://www.spamhaus.org/xbl/)
+ 1.6 RCVD_IN_BRBL_LASTEXT   RBL: RCVD_IN_BRBL_LASTEXT
+                            [14.203.153.137 listed in bb.barracudacentral.org]
+ 1.2 RCVD_IN_BL_SPAMCOP_NET RBL: Transportiert via Rechner in Liste von
+                            www.spamcop.net
+              [Blocked - see <http://www.spamcop.net/bl.shtml?14.203.153.137>]
+ 1.5 RCVD_IN_SORBS_WEB      RBL: SORBS: Senderechner ist ein ungesicherter
+                            WWW-Server
+                            [14.203.153.137 listed in dnsbl.sorbs.net]
+ 0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+                            See
+                            http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                             for more information.
+                            [URIs: gmx.com]
+ 0.1 CK_HELO_DYNAMIC_SPLIT_IP Relay HELO'd using suspicious hostname
+                            (Split IP)
+ 1.0 HK_RANDOM_FROM         From username looks random
+ 0.6 HK_RANDOM_ENVFROM      Envelope sender username looks random
+-0.0 T_RP_MATCHES_RCVD      Envelope sender domain matches handover relay
+                            domain
+ 2.0 PYZOR_CHECK            Gelistet im Pyzor-System (http://pyzor.sf.net/)
+ 3.9 HELO_DYNAMIC_IPADDR2   HELO-Rechnername verdächtig (IP-Adresse 2)
+
+Die ursprüngliche Nachricht enthielt nicht ausschließlich Klartext
+(plain text) und kann eventuell eine Gefahr für einige E-Mail-Programme
+darstellen (falls sie z.B. einen Computervirus enthält).
+Möchten Sie die Nachricht dennoch ansehen, ist es wahrscheinlich
+sicherer, sie zuerst in einer Datei zu speichern und diese Datei danach
+mit einem Texteditor zu öffnen.
+
+
+------------=_5A15D7AF.1AE0460F
+Content-Type: message/rfc822; x-spam-type=original
+Content-Description: original message before SpamAssassin
+Content-Disposition: attachment
+Content-Transfer-Encoding: 8bit
+
+Return-Path: <Anastasiaaual@tpgi.com.au>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id E802ED493D
+	for <mail@dorianvasco.de>; Tue,  1 Aug 2017 16:55:21 +0200 (CEST)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 11.513
+X-Spam-Level: ***********
+X-Spam-Status: Yes, score=11.513 required=5.5 tests=[BAYES_50=0.8,
+	CK_HELO_DYNAMIC_SPLIT_IP=0.001, CK_HELO_GENERIC=0.249,
+	HELO_DYNAMIC_IPADDR2=3.607, HK_RANDOM_ENVFROM=0.001,
+	HK_RANDOM_FROM=0.001, PYZOR_CHECK=1.392, RCVD_IN_BL_SPAMCOP_NET=1.347,
+	RCVD_IN_BRBL_LASTEXT=1.449, RCVD_IN_SORBS_SPAM=0.5,
+	RCVD_IN_SORBS_WEB=1.5, RP_MATCHES_RCVD=-0.001, SPF_SOFTFAIL=0.665,
+	TVD_RCVD_IP=0.001, URIBL_BLOCKED=0.001] autolearn=spam
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id dBk-r3plOkS2 for <mail@dorianvasco.de>;
+	Tue,  1 Aug 2017 16:55:20 +0200 (CEST)
+Received: from 14-203-153-137.static.tpgi.com.au (14-203-153-137.static.tpgi.com.au [14.203.153.137])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 1EB9ED4936
+	for <eula_garcia@gs-gronau.de>; Tue,  1 Aug 2017 16:55:19 +0200 (CEST)
+Received: from smtpd (localhost.localdomain [127.0.0.1])	by tpgi.com.au
+ (Postfix) with ESMTP id 452DAC3B6673
+ for <eula_garcia@gs-gronau.de>; Tue, 01 Aug 2017 22:55:16 +0800
+Date: Tue, 01 Aug 2017 22:55:16 +0800
+From: "Anastasia" <Anastasiaaual@tpgi.com.au>
+To: <eula_garcia@gs-gronau.de>
+Message-ID: <4311423944.620657311189763866.JavaMail.root@tpgi.com.au>
+Subject: ***SPAM*** How are you?
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_Part_89794_52921543.5993992189948"
+
+------=_Part_89794_52921543.5993992189948
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi! How are you?
+My name is Anastasia (or shortly Nastya), and I=92d love to know your =
+name.
+Do you visit this site oftentimes? I was hoping to talk to you in chat =
+once but you left all of a sudden. Could you write me your address or =
+send me a letter some day?
+I believe we have a lot in common and talking to you will be much =
+pleasure for me.
+
+My email hagradisvia@gmx.com
+
+Looking forward to getting your letter,
+Anastasia
+------=_Part_89794_52921543.5993992189948--
+
+------------=_5A15D7AF.1AE0460F--
+

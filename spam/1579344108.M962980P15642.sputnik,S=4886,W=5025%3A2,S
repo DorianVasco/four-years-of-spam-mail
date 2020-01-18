@@ -1,0 +1,139 @@
+Return-Path: <MAILER-DAEMON>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id BEB4FD2972
+	for <mail@dorianvasco.de>; Tue, 21 Feb 2017 23:44:29 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 5.7
+X-Spam-Level: *****
+X-Spam-Status: Yes, score=5.7 required=2 tests=[BAYES_50=0.8,
+	HTML_MESSAGE=0.001, RAZOR2_CF_RANGE_51_100=0.5,
+	RAZOR2_CF_RANGE_E8_51_100=1.886, RAZOR2_CHECK=0.922,
+	RCVD_IN_BRBL_LASTEXT=1.449, RCVD_IN_SBL=0.141, URIBL_BLOCKED=0.001]
+	autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.yourvserver.net [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id IxWf5yyEyOjM for <mail@dorianvasco.de>;
+	Tue, 21 Feb 2017 23:44:27 +0100 (CET)
+Received: from smtp.lepida.it (smtp.lepida.it [195.62.186.207])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 76013D2969
+	for <kontakt@dorianvasco.de>; Tue, 21 Feb 2017 23:44:27 +0100 (CET)
+Received: by smtp.lepida.it (Postfix)
+	id CED354971BE28; Wed, 22 Feb 2017 00:09:04 +0100 (CET)
+Date: Wed, 22 Feb 2017 00:09:04 +0100 (CET)
+From: MAILER-DAEMON@smtp.lepida.it (Mail Delivery System)
+Subject: ***SPAM*** Undelivered Mail Returned to Sender
+To: kontakt@dorianvasco.de
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="EEAE14971BDCB.1487718544/smtp.lepida.it"
+Message-Id: <20170221230904.CED354971BE28@smtp.lepida.it>
+
+This is a MIME-encapsulated message.
+
+--EEAE14971BDCB.1487718544/smtp.lepida.it
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host smtp.lepida.it.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<anselmo@comune.re.it>: host 193.43.187.233[193.43.187.233] said: 550 5.1.1
+    Recipient address rejected: User unknown (in reply to RCPT TO command)
+
+--EEAE14971BDCB.1487718544/smtp.lepida.it
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; smtp.lepida.it
+X-Postfix-Queue-ID: EEAE14971BDCB
+X-Postfix-Sender: rfc822; kontakt@dorianvasco.de
+Arrival-Date: Wed, 22 Feb 2017 00:09:03 +0100 (CET)
+
+Final-Recipient: rfc822; anselmo@comune.re.it
+Original-Recipient: rfc822;anselmo@comune.re.it
+Action: failed
+Status: 5.1.1
+Remote-MTA: dns; 193.43.187.233
+Diagnostic-Code: smtp; 550 5.1.1 Recipient address rejected: User unknown
+
+--EEAE14971BDCB.1487718544/smtp.lepida.it
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+
+Return-Path: <kontakt@dorianvasco.de>
+Received: from static-148-244-195-230.alestra.net.mx (unknown [148.244.195.230])
+	by smtp.lepida.it (Postfix) with ESMTP id EEAE14971BDCB
+	for <anselmo@comune.re.it>; Wed, 22 Feb 2017 00:09:03 +0100 (CET)
+Message-ID: <58AC6E93.2050008@dorianvasco.de>
+Date: Tue, 21 Feb 2017 09:45:07 -0700
+From: <kontakt@dorianvasco.de>
+User-Agent: Mozilla/5.0 (Windows NT 6.0; rv:14.0) Gecko/20120713 Thunderbird/14.0
+MIME-Version: 1.0
+To: <anselmo@comune.re.it>
+Subject: Restano a disposizione rimasti solo 58 posti liberi: e la vostra chance!
+Content-Type: multipart/alternative;
+ boundary="------------070408030002070902030909"
+
+This is a multi-part message in MIME format.
+--------------070408030002070902030909
+Content-Type: text/plain; charset=CP-850; format=flowed
+Content-Transfer-Encoding: quoted-printable
+
+Caro anselmo,
+
+Io sono HR manager di una grande compagnia internazionale.
+La nostra azienda &#232; alla ricerca di collaboratori intraprendenti.
+
+Il stipendio possibile da 2500 a 5000 euro al mese.
+
+Se Le interessa nostra offerta - si prega di visitare il=20
+Nostro Sito
+
+Con i migliori saluti,
+HR Manager
+Ufficio Internazionale
+--------------070408030002070902030909
+Content-Type: text/html; charset="CP-850"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+  <head>
+
+    <meta http-equiv=3D"content-type" content=3D"text/html; =
+charset=3DCP-850">
+  </head>
+  <body bgcolor=3D"#FFFFFF" text=3D"#000000">
+    Caro anselmo,<br>
+<br>
+Io sono HR manager di una grande compagnia internazionale.<br>
+La nostra azienda &#232; alla ricerca di collaboratori =
+intraprendenti.<br>
+<b>Il stipendio possibile da 2500 a 5000 euro al mese.</b><br>
+<br>
+
+Se Le interessa nostra offerta - si prega di visitare il <a =
+href=3D"http://roesplace.nl/images/"><b>Nostro Sito</b></a><br>
+
+<br>
+Con i migliori saluti,<br>
+HR Manager<br>
+Ufficio Internazionale<br>
+  </body>
+</html>
+--------------070408030002070902030909--
+
+
+
+--EEAE14971BDCB.1487718544/smtp.lepida.it--

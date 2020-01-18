@@ -1,0 +1,181 @@
+Return-Path: <bn10@iceeot.org>
+Delivered-To: mail@stilfilm.com
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 6457AC21FA
+	for <mail@stilfilm.com>; Thu,  6 Jul 2017 15:17:58 +0200 (CEST)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 6.482
+X-Spam-Level: ******
+X-Spam-Status: Yes, score=6.482 required=5.5 tests=[BAYES_50=0.8,
+	DEAR_SOMETHING=1.973, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, HTML_MESSAGE=0.001, RAZOR2_CF_RANGE_51_100=0.5,
+	RAZOR2_CF_RANGE_E8_51_100=1.886, RAZOR2_CHECK=0.922,
+	RCVD_IN_DNSWL_NONE=-0.0001, RCVD_IN_SORBS_SPAM=0.5, SPF_PASS=-0.001,
+	URIBL_BLOCKED=0.001] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id W7rrQh0E29sE for <mail@stilfilm.com>;
+	Thu,  6 Jul 2017 15:17:56 +0200 (CEST)
+Received: from mail-qt0-f173.google.com (mail-qt0-f173.google.com [209.85.216.173])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id 09A67C07C7
+	for <mail@stilfilm.com>; Thu,  6 Jul 2017 15:17:55 +0200 (CEST)
+Received: by mail-qt0-f173.google.com with SMTP id i2so1659617qta.3
+        for <mail@stilfilm.com>; Thu, 06 Jul 2017 06:17:56 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=iceeot.org; s=google;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=U8T6zi0cH7nXUlBgCsv+nmgP55Z8gd51pAbQpk81NuE=;
+        b=qa2bcpOFb/hm1sGUND7Gur/jPt0KJJUXfrsJNcJo/mBXqmlQCgqXeDB5yqwFYYqzw5
+         IRpUg2H8AQY5/KHUPBbB5FVVDQLd3Maw0DGSg1m+Otzds7AijN7LwCxmOhEN4u1R1P3D
+         3UGwJ4LRqE1XyInFsatw8cdoYiqPyYto+gPJc=
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=U8T6zi0cH7nXUlBgCsv+nmgP55Z8gd51pAbQpk81NuE=;
+        b=cqVU/ueUxP5CevoDRT/rpJ1ktzTzGAJgxWR2zxJFcoJLyg9UMigH0P/49LmIktGfu3
+         RGk1I6i6WnESDqewGVCDE83vHHUGSFZsR7ZQfA3r5ol2GmCPhnUU6w9jYAxX4mRuzsb4
+         UnLradoIPoVn0i7M2cyv3pVDZOKJ8KsGrlcF6Qhxz8CdCCkOjPKnYjF65hvfQ5+KsKHd
+         j8WoVuIbw5xQf3ZrH/fxLnwnutLtz52eVZBBgfxLHnlWWs5yTO2oAX4MWbee2dn6x7Bn
+         QIH2QeWCm0BBv3fYSDcUEEo0/lgYq8Pgnv/LarI/V64xfEuKmlFf8G7BzIi+TW6dNO1M
+         OCUw==
+X-Gm-Message-State: AIVw110/M9cqFmZ4hEtHT8wA7251b3bdGpc9VjAtRt2nCoA54TjwvOBT
+	cFzRlBDhEyAn9sJy6eL5gY0EJNdDrHvvqxZYSl4ZC2Ah+aovdDKjgvZtnLx8bVlRX9mWBP+rcrB
+	XF5dOTJFI2w==
+X-Received: by 10.237.51.3 with SMTP id u3mr8235320qtd.155.1499347074200; Thu,
+ 06 Jul 2017 06:17:54 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 10.200.3.15 with HTTP; Thu, 6 Jul 2017 06:17:53 -0700 (PDT)
+From: Kranthi A <bn10@iceeot.org>
+Date: Thu, 6 Jul 2017 18:47:53 +0530
+Message-ID: <CANt-YNKSYpfQUpVoWyr5J8=TDbB=C6asmKTH=Avn27O1b9+Ycw@mail.gmail.com>
+Subject: ***SPAM*** 
+To: ulagammai@icpcsi.org
+Content-Type: multipart/alternative; boundary="94eb2c1257b2c0e5490553a5f1d6"
+
+--94eb2c1257b2c0e5490553a5f1d6
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+*Dear Sir/Madam: (**IEEE International Conference-PCSI)*
+
+Saveetha Engineering College organizing conference in Chennai, India during
+21st and 22nd September 2017 titled "*IEEE International Conference on
+Power, Control, Signals and Instrumentation Engineering (ICPCSI-2017)*".
+
+*   Last Date for Paper Submission Extended to: 14th July 2017*
+
+*All accepted papers will be submitted for inclusion in** IEEE Xplore
+Digital library**.*
+
+IEEE-CATALOG NUMBER: 978-1-5386-0814-2
+
+We hope for your submission and we request forwarding of this email to your
+friends/students.
+
+
+
+More information go to-at:  http://soo.gd/XKs3
+
+--=20
+
+
+*Disclaimer:*This email along with or without any file(s) are subjected to=
+=20
+be confidential and meant only for the use individual or entity as=20
+addressed. Addressee mentioned is not related then please don=E2=80=99t=20
+disseminate, copy or distribute this mail. Notify immediately to sender if=
+=20
+you are wrong recipient and/or not related. Taking any action in this=20
+regard is strictly prohibited
+
+
+--94eb2c1257b2c0e5490553a5f1d6
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><p class=3D"gmail-xmsonormal" style=3D"line-height:115%"><=
+b><span style=3D"color:rgb(112,48,160)">Dear
+Sir/Madam:</span><span style=3D"color:red"> </span><span style=3D"color:rgb=
+(227,108,10)">(</span></b><b><span style=3D"color:rgb(227,108,10)">IEEE
+International Conference-PCSI)</span></b></p>
+
+<p class=3D"MsoNormal" style=3D"text-align:justify;text-indent:0.5in"><span=
+ style=3D"font-size:12pt;line-height:115%;font-family:&quot;Times New Roman=
+&quot;,serif">Saveetha Engineering College </span><span style=3D"font-size:=
+12pt;line-height:115%;font-family:&quot;Times New Roman&quot;,serif;color:r=
+gb(0,32,96)">organizing conference in Chennai, India during 21<sup>st</sup>
+and 22<sup>nd</sup> </span><span style=3D"font-size:12pt;line-height:115%;f=
+ont-family:&quot;Times New Roman&quot;,serif">September
+</span><span style=3D"font-size:12pt;line-height:115%;font-family:&quot;Tim=
+es New Roman&quot;,serif;color:rgb(0,32,96)">2017 </span><span style=3D"fon=
+t-size:12pt;line-height:115%;font-family:&quot;Times New Roman&quot;,serif"=
+>titled
+&quot;<b>IEEE International Conference on Power, Control, Signals and
+Instrumentation Engineering (ICPCSI-2017)</b>&quot;.<span></span></span></p=
+>
+
+<p class=3D"MsoNormal"><b><span style=3D"font-size:14pt;line-height:115%;fo=
+nt-family:&quot;Times New Roman&quot;,serif;color:red">=C2=A0=C2=A0 Last Da=
+te
+for Paper Submission Extended to: 14<sup>th</sup> July 2017<span></span></s=
+pan></b></p>
+
+<p class=3D"MsoNormal" style=3D"text-align:justify"><b><i><span style=3D"fo=
+nt-size:12pt;line-height:115%;font-family:&quot;Times New Roman&quot;,serif=
+;color:rgb(112,48,160)">All accepted papers will be submitted for inclusion=
+ in</span></i></b><i><span style=3D"font-size:12pt;line-height:115%;font-fa=
+mily:&quot;Times New Roman&quot;,serif"> <b><span style=3D"color:red">IEEE =
+Xplore Digital library**</span></b>.<span></span></span></i></p>
+
+<p class=3D"MsoNormal" style=3D"text-align:justify"><span style=3D"font-siz=
+e:12pt;line-height:115%;font-family:&quot;Times New Roman&quot;,serif">IEEE=
+-CATALOG
+NUMBER: 978-1-5386-0814-2=C2=A0=C2=A0=C2=A0=C2=A0 </span><i><span style=3D"=
+line-height:115%;font-family:&quot;Times New Roman&quot;,serif"><span></spa=
+n></span></i></p>
+
+<p class=3D"MsoNormal" style=3D"margin-bottom:0.0001pt;background-image:ini=
+tial;background-position:initial;background-size:initial;background-repeat:=
+initial;background-origin:initial;background-clip:initial"><span style=3D"f=
+ont-size:12pt;line-height:115%;font-family:&quot;Times New Roman&quot;,seri=
+f">We hope for your submission and we request
+forwarding of this email to your friends/students.<span></span></span></p>
+
+<p class=3D"MsoNormal" style=3D"text-align:justify;text-indent:0.5in"><span=
+ style=3D"font-size:12pt;line-height:115%;font-family:&quot;Californian FB&=
+quot;,serif"><span>=C2=A0</span></span></p>
+
+<p class=3D"MsoNormal" style=3D"margin-bottom:0.0001pt;text-align:justify;b=
+ackground-image:initial;background-position:initial;background-size:initial=
+;background-repeat:initial;background-origin:initial;background-clip:initia=
+l"><span style=3D"font-size:12pt;line-height:115%;font-family:&quot;Califor=
+nian FB&quot;,serif">More information
+go to-at</span><span style=3D"font-size:12pt;line-height:115%;font-family:&=
+quot;Californian FB&quot;,serif">:=C2=A0</span><span style=3D"font-size:7.5=
+pt;line-height:115%;font-family:&quot;Californian FB&quot;,serif"> </span><=
+span style=3D"font-size:12pt;line-height:115%;font-family:&quot;Bell MT&quo=
+t;,serif"><a href=3D"http://soo.gd/XKs3">http://soo.gd/XKs3</a></span><span=
+ style=3D"font-size:12pt;line-height:115%;font-family:&quot;Californian FB&=
+quot;,serif"> </span><span style=3D"font-size:8pt;line-height:115%;font-fam=
+ily:&quot;Californian FB&quot;,serif"><span></span></span></p></div>
+
+<br>
+<p style=3D"margin-bottom:0.0001pt;text-align:justify;line-height:150%;back=
+ground:white"><b style=3D"font-size:1.3em"><font size=3D"3"><i>Disclaimer:<=
+/i></font></b><font size=3D"2">This email along with
+or without any file(s) are subjected to be confidential and meant only for =
+the
+use individual or entity as addressed. Addressee mentioned is not related t=
+hen
+please don=E2=80=99t disseminate, copy or distribute this mail. Notify imme=
+diately to
+sender if you are wrong recipient and/or not related. Taking any action in =
+this
+regard is strictly prohibited</font></p><p style=3D"font-size:1.3em;margin-=
+bottom:0.0001pt;text-align:justify;line-height:150%;background:white"></p><=
+p style=3D"font-size:1.3em;margin-bottom:0.0001pt;text-align:justify;line-h=
+eight:150%;background:white"></p>
+--94eb2c1257b2c0e5490553a5f1d6--

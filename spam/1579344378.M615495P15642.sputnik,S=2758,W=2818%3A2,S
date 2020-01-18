@@ -1,0 +1,60 @@
+Return-Path: <info@interceni.ru>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 88BA6CAF2C
+	for <mail@dorianvasco.de>; Wed, 30 Jan 2019 17:34:22 +0100 (CET)
+Authentication-Results: v22014122474822114.stilfilm.com; dkim=pass
+	reason="2048-bit key; insecure key"
+	header.d=interceni.ru header.i=@interceni.ru header.b=TGC8Fb80;
+	dkim-adsp=pass; dkim-atps=neutral
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 9.792
+X-Spam-Level: *********
+X-Spam-Status: Yes, score=9.792 required=5.5 tests=[DKIM_SIGNED=0.1,
+	DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1, HTML_MESSAGE=0.001,
+	RAZOR2_CF_RANGE_51_100=2.43, RAZOR2_CHECK=1.729,
+	RCVD_IN_DNSWL_BLOCKED=0.001, RCVD_IN_RP_RNBL=1.284,
+	SPF_HELO_PASS=-0.001, SPF_PASS=-0.001, URIBL_ABUSE_SURBL=1.948,
+	URIBL_BLOCKED=0.001, URIBL_DBL_SPAM=2.5] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id kILfPNWWA7uM for <mail@dorianvasco.de>;
+	Wed, 30 Jan 2019 17:34:21 +0100 (CET)
+Received: from interceni.ru (interceni.ru [185.143.172.156])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 278C3C9ECC
+	for <mail@dorianvasco.de>; Wed, 30 Jan 2019 17:34:21 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=mail; d=interceni.ru;
+ h=Message-ID:From:To:Subject:Date:MIME-Version:Content-Type;
+ bh=HV0635c6p+UZ3leySDA38FwerpQ=;
+ b=TGC8Fb80iMc0W39sqmCH7z/8SRWRt5xlAmwmxtZ+aoHG15Au4EOfcPIiEoIi4ghHtnxqGMtLqVLr
+   OHf9Df76BkLH1D0PFKUpYRkvWMlbW9sfHxdmzG8wh7Ay+EjUhrs/EIbprLY/qmY9kXY+m7dfLl4v
+   7YBq8E4csPnAql1mcFsK1bXC9zqK/mQQSE/pYbQXuByB0b2kDnEljUg14uBGUFQoH8ZFj96psuUx
+   ZcO3X2VTRC5/ALTr89kbzb7VvtloXuo1lfSQsRLZcfgQq3uzLThtWORyq8F/xOt6gqHBa2vhFsED
+   qng05K6p1HbnNjxR5ORSYwe0ZHD7xAYTqGAAkg==
+Message-ID: <2e919bf206cd3986a55afcafa4704894b7559638c1@interceni.ru>
+From: "Luis Sinti" <info@interceni.ru>
+To: <mail@dorianvasco.de>
+Subject: Philip Wyom
+Date: Wed, 30 Jan 2019 19:34:16 +0300
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="a3590f7d3aeec122fefbb20c28fccecab56e"
+
+--a3590f7d3aeec122fefbb20c28fccecab56e
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Mohammad Sofyan An'Nur http://fhgovflkg6.ru
+
+--a3590f7d3aeec122fefbb20c28fccecab56e
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<HTML><HEAD>
+<META http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+</HEAD>
+<BODY bgColor=3D#ffffff>
+<DIV align=3Dleft>Mohammad Sofyan An'Nur=20
+http://fhgovflkg6.ru</DIV></BODY></HTML>
+
+--a3590f7d3aeec122fefbb20c28fccecab56e--

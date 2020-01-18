@@ -1,0 +1,204 @@
+Return-Path: <ec11@icrtet.org>
+Delivered-To: mail@stilfilm.com
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 1141AC2C32
+	for <mail@stilfilm.com>; Mon, 29 May 2017 10:52:42 +0200 (CEST)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 6.194
+X-Spam-Level: ******
+X-Spam-Status: Yes, score=6.194 required=5.5 tests=[BAYES_50=0.8,
+	DIGEST_MULTIPLE=0.293, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, HTML_MESSAGE=0.001, PYZOR_CHECK=1.392,
+	RAZOR2_CF_RANGE_51_100=0.5, RAZOR2_CF_RANGE_E8_51_100=1.886,
+	RAZOR2_CHECK=0.922, RCVD_IN_DNSWL_NONE=-0.0001,
+	RCVD_IN_SORBS_SPAM=0.5, SPF_PASS=-0.001, URIBL_BLOCKED=0.001]
+	autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 32BtxC1NS4_H for <mail@stilfilm.com>;
+	Mon, 29 May 2017 10:52:40 +0200 (CEST)
+Received: from mail-qk0-f177.google.com (mail-qk0-f177.google.com [209.85.220.177])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id F3513C1F66
+	for <mail@stilfilm.com>; Mon, 29 May 2017 10:52:39 +0200 (CEST)
+Received: by mail-qk0-f177.google.com with SMTP id u75so43581577qka.3
+        for <mail@stilfilm.com>; Mon, 29 May 2017 01:52:40 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=icrtet.org; s=google;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=sDpkSsBNjCvpGy7rrr5jvaFtVs89IZ2e3WyJm5wnt+w=;
+        b=ctwDq4kjPMwYFNvyayqWGkfBPZdtasgKjCrgwIoPpTqZkLE6eFnShNFoo1aCTFVHEY
+         VX7lK196Jbr66lr6prooA3rZSxDB389OCvBY+1tDg7FpQkX7Kgi6J4JuqneBLoflkoDq
+         LXOeZOXSNtZXkM3bWhUHEJLECZsfiR5TT/eX8=
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=sDpkSsBNjCvpGy7rrr5jvaFtVs89IZ2e3WyJm5wnt+w=;
+        b=fWtFLDjumT75WahecON/PVjbFxmD5MyDu+i6j1f5GGREL7PIAV2gwuBNOfuriIH1UV
+         4gC6IbpcmmbEDBpBeA8E1L9U7tnV30grhJEpivcWxJPEDRPvheatbfEPjhn5QIkwqeIo
+         CwkIVOmdZRWdXc5MEpUCj7S3Qi4qO/HKo2nYeOXAhQ7sA5O1dC0sqWkrGMKcfntpAO3f
+         wQDvZtQQgvULRhqxTXD4XvcD7sH44vh6hOeggK6OzJGEnbM6UQFvfCf+VYjNeD6p98X+
+         DcxJJ6/I/rXABDQgyVrIWG4y3EbHzk7uL2XIw6MjMml8ZZbfAt3YdR9KpdyRJrvSqkQW
+         1nng==
+X-Gm-Message-State: AODbwcCW4wn3Nq6Qwc2GUUCH0pVgNxdv6mbxsmMetCrO8C9Sap4xqUOM
+	p5OIKU7lpdcqYpEFnA68BoKCz4CE2elI0D7TFg5tXFEmqBeqfC/4Z8yJyIUhP/LNs/uyUl/InB2
+	yrZA5prAf2A==
+X-Received: by 10.55.204.195 with SMTP id n64mr10975844qkl.213.1496047959399;
+ Mon, 29 May 2017 01:52:39 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 10.200.39.214 with HTTP; Mon, 29 May 2017 01:52:38 -0700 (PDT)
+From: J Kalyani <ec11@icrtet.org>
+Date: Mon, 29 May 2017 14:22:38 +0530
+Message-ID: <CAKWCizXpGoVo8tf6WA91BXZawsKJoJeHGJe+jcEoQvK6GNLGXw@mail.gmail.com>
+Subject: ***SPAM*** 
+To: submit@icmaem.com
+Content-Type: multipart/alternative; boundary="001a1149af402ffc0e0550a5cf29"
+
+--001a1149af402ffc0e0550a5cf29
+Content-Type: text/plain; charset="UTF-8"
+
+*Dear Scholars/Faculty,*
+
+
+
+Greetings from ICMAEM, NRCM conducting "*International Conference on
+Materials, Alloys and Experimental Mechanics*" during 3rd and 4th July 2017
+in Hyderabad, India. All the accepted papers will be appeared in the
+IOP*: **Materials
+Science and Engineering Conference Proceedings (OPEN ACCESS*).
+
+
+
+*Online presentation is also available for those who are not able to attend
+the conference *
+
+
+
+Indexed in *Scopus*,* Thomson Reuters, and Web of Science*
+
+
+
+Paper submission will be extended to: *2nd June 2017*
+
+
+
+For Further details please go to:  http://shorl.com/gupigilukijo
+
+-- 
+*Disclaimer:*  The information in this email is confidential and may be 
+legally privileged. This message contains confidential information and is 
+intended only for the individual named. . If you are not the intended 
+recipient you are notified that disclosing, copying, distributing or taking 
+any action in reliance on the contents of this information is strictly 
+prohibited.
+
+--001a1149af402ffc0e0550a5cf29
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><p class=3D"MsoNormal" style=3D"margin-bottom:0.0001pt;lin=
+e-height:normal"><b><span style=3D"font-size:12pt;font-family:Shruti,sans-s=
+erif;color:red">Dear
+Scholars/Faculty,<span></span></span></b></p>
+
+<p class=3D"MsoNormal" style=3D"margin-bottom:0.0001pt;line-height:normal">=
+<span style=3D"font-size:12pt;font-family:Shruti,sans-serif;background-imag=
+e:initial;background-position:initial;background-size:initial;background-re=
+peat:initial;background-origin:initial;background-clip:initial"><span>=C2=
+=A0</span></span></p>
+
+<p class=3D"MsoNormal" style=3D"margin-bottom:0.0001pt;line-height:normal">=
+<span style=3D"font-size:12pt;font-family:Shruti,sans-serif;background-imag=
+e:initial;background-position:initial;background-size:initial;background-re=
+peat:initial;background-origin:initial;background-clip:initial">Greetings f=
+rom ICMAEM, NRCM conducting
+&quot;<b><span style=3D"color:rgb(192,0,0)">International
+Conference on Materials, Alloys and Experimental Mechanics</span></b>&quot;
+during 3<sup>rd</sup> and 4<sup>th</sup> July 2017 in Hyderabad, India. All=
+ the
+accepted papers will be appeared in the IOP</span><b><span style=3D"font-si=
+ze:12pt;font-family:Shruti,sans-serif;color:red">: </span></b><b><span styl=
+e=3D"font-size:12pt;font-family:Shruti,sans-serif;color:rgb(112,48,160)">Ma=
+terials Science and Engineering
+Conference Proceedings<span style=3D"background-image:initial;background-po=
+sition:initial;background-size:initial;background-repeat:initial;background=
+-origin:initial;background-clip:initial"> (OPEN ACCESS</span></span></b><sp=
+an style=3D"font-size:12pt;font-family:Shruti,sans-serif;color:rgb(112,48,1=
+60);background-image:initial;background-position:initial;background-size:in=
+itial;background-repeat:initial;background-origin:initial;background-clip:i=
+nitial">). <span></span></span></p>
+
+<p class=3D"MsoNormal" style=3D"margin-bottom:0.0001pt;line-height:normal">=
+<span style=3D"font-size:12pt;font-family:Shruti,sans-serif;background-imag=
+e:initial;background-position:initial;background-size:initial;background-re=
+peat:initial;background-origin:initial;background-clip:initial"><span>=C2=
+=A0</span></span></p>
+
+<p class=3D"MsoNormal" style=3D"margin-bottom:0.0001pt;line-height:normal">=
+<b><span style=3D"font-size:12pt;font-family:Shruti,sans-serif;color:rgb(0,=
+176,80);background-image:initial;background-position:initial;background-siz=
+e:initial;background-repeat:initial;background-origin:initial;background-cl=
+ip:initial">Online presentation is also available for those who are not
+able to attend the conference <span></span></span></b></p>
+
+<p class=3D"MsoNormal" style=3D"margin-bottom:0.0001pt;line-height:normal">=
+<span style=3D"font-size:12pt;font-family:Shruti,sans-serif;background-imag=
+e:initial;background-position:initial;background-size:initial;background-re=
+peat:initial;background-origin:initial;background-clip:initial"><span>=C2=
+=A0</span></span></p>
+
+<p class=3D"MsoNormal" style=3D"margin-bottom:0.0001pt;line-height:normal">=
+<span style=3D"font-size:12pt;font-family:Shruti,sans-serif;background-imag=
+e:initial;background-position:initial;background-size:initial;background-re=
+peat:initial;background-origin:initial;background-clip:initial">Indexed in =
+<b><span style=3D"color:red">Scopus</span></b><span style=3D"color:red">,</=
+span></span><b><span style=3D"font-size:12pt;font-family:Shruti,sans-serif;=
+color:red"> Thomson Reuters, and Web
+of Science</span></b><span style=3D"font-size:12pt;font-family:Shruti,sans-=
+serif;color:red;background-image:initial;background-position:initial;backgr=
+ound-size:initial;background-repeat:initial;background-origin:initial;backg=
+round-clip:initial"><span></span></span></p>
+
+<p class=3D"MsoNormal" style=3D"margin-bottom:0.0001pt;line-height:normal">=
+<span style=3D"font-size:12pt;font-family:Shruti,sans-serif;background-imag=
+e:initial;background-position:initial;background-size:initial;background-re=
+peat:initial;background-origin:initial;background-clip:initial"><span>=C2=
+=A0</span></span></p>
+
+<p class=3D"MsoNormal" style=3D"margin-bottom:0.0001pt;line-height:normal">=
+<span style=3D"font-size:12pt;font-family:Shruti,sans-serif;background-imag=
+e:initial;background-position:initial;background-size:initial;background-re=
+peat:initial;background-origin:initial;background-clip:initial">Paper submi=
+ssion will be extended to: <b>2<sup>nd</sup> June 2017<span></span></b></sp=
+an></p>
+
+<p class=3D"MsoNormal" style=3D"margin-bottom:0.0001pt;line-height:normal">=
+<span style=3D"font-size:12pt;font-family:Shruti,sans-serif;background-imag=
+e:initial;background-position:initial;background-size:initial;background-re=
+peat:initial;background-origin:initial;background-clip:initial"><span>=C2=
+=A0</span></span></p>
+
+<p class=3D"MsoNormal" style=3D"margin-bottom:0.0001pt;line-height:normal">=
+<span style=3D"font-size:12pt;font-family:Shruti,sans-serif;background-imag=
+e:initial;background-position:initial;background-size:initial;background-re=
+peat:initial;background-origin:initial;background-clip:initial">For Further=
+ details please go to: =C2=A0<a href=3D"http://shorl.com/gupigilukijo">http=
+://shorl.com/gupigilukijo</a>
+<span></span></span></p>
+
+<p class=3D"MsoNormal" style=3D"line-height:normal"><span style=3D"font-siz=
+e:12pt;font-family:Shruti,sans-serif"><span>=C2=A0</span></span></p></div>
+
+<br>
+<div style=3D"font-size:1.3em"><font face=3D"Arial, Helvetica, sans-serif" =
+style=3D"font-family:Arial,Helvetica,sans-serif"><span style=3D"font-size:1=
+3px"><b><i>Disclaimer:</i></b>=C2=A0=C2=A0</span></font><span style=3D"font=
+-size:12.8px;letter-spacing:-0.4px">The information in this email is confid=
+ential and may be legally privileged. This message contains confidential in=
+formation and is intended only for the individual named. . If you are not t=
+he intended recipient you are notified that disclosing, copying, distributi=
+ng or taking any action in reliance on the contents of this information is =
+strictly prohibited.</span></div>
+--001a1149af402ffc0e0550a5cf29--

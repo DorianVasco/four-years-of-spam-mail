@@ -1,0 +1,111 @@
+Return-Path: <cba1978tg@gmail.com>
+Delivered-To: nagel@elementk.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id CD825CBF8B
+	for <nagel@elementk.de>; Thu, 24 Oct 2019 16:30:18 +0200 (CEST)
+Authentication-Results: v22014122474822114.stilfilm.com; dkim=pass
+	reason="2048-bit key; insecure key"
+	header.d=gmail.com header.i=@gmail.com header.b=m6X7yssw;
+	dkim-adsp=pass; dkim-atps=neutral
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 5.842
+X-Spam-Level: *****
+X-Spam-Status: Yes, score=5.842 required=5.5
+	tests=[ADVANCE_FEE_3_NEW_MONEY=2.141, BAYES_50=0.8, DKIM_SIGNED=0.1,
+	DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1, FREEMAIL_FROM=0.001,
+	FREEMAIL_REPLYTO=1, HK_SCAM=1.999, LOTS_OF_MONEY=0.001]
+	autolearn=no autolearn_force=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id EdN1Djuk2Wmd for <nagel@elementk.de>;
+	Thu, 24 Oct 2019 16:30:16 +0200 (CEST)
+Received: from mail-qk1-f196.google.com (mail-qk1-f196.google.com [209.85.222.196])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id AACF9C9BA4
+	for <nagel@elementk.de>; Thu, 24 Oct 2019 16:30:15 +0200 (CEST)
+Received: by mail-qk1-f196.google.com with SMTP id y189so23603397qkc.3
+        for <nagel@elementk.de>; Thu, 24 Oct 2019 07:30:15 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:reply-to:from:date:message-id:subject:to
+         :content-transfer-encoding;
+        bh=AO3Ib7/Fkk/grj8Q7oNwGyZTDT1Ne2uKgP4zYv109fQ=;
+        b=m6X7yssw0LU65Ri0W5tw2V/ZZTPijQVoA8HGqYbx8wBfhlMxDPbLxtlzpEeTovub2J
+         /AcY6C/YWOkB3oX/lILfKlFkyBWXg/dQdVxHJyPeh3FjLJpzcMucUg5xS7NeQOChuPkA
+         SRzNDsvV7Erkg8VIyT3IBauF4+WShHk0YqWZgbTdVyZY77KEihSfZm/+CXm7COiOzdNG
+         H7R9mAm0K8nTVC9LFjGjKHExQ+zQruit1zGXLNbkUPGYv601LK1MK2mI+ucP2lWUocms
+         1xJRQK0K8Rs1h1IwUAox0S4+OlD9Y/FHiCfuOMbGxQadPJ9yzj+Y+dkzvI1LUAmgwTxT
+         xcMg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:reply-to:from:date:message-id
+         :subject:to:content-transfer-encoding;
+        bh=AO3Ib7/Fkk/grj8Q7oNwGyZTDT1Ne2uKgP4zYv109fQ=;
+        b=QjWO2xL0vI5KrNpVOZLJuDip2A/ERDVrsHrMpsQBw8qAHPtiForciq/ZgL0g+Yct2L
+         JoD3vCFVYaNTBNLogd1Bdz7eE3ts8NsKuEBOocY6Aa7kR9p2r+0qwHFg82rczdNdf9px
+         +n+Djc2GoCyiPxprWDx0xLyL4nJxhh2MIvcwYdzRf8fqQTGZQbKFf54hyeqKx2Wf0C2x
+         M3Ax+h8+upT3FPXrv9GTjBRftPwMSGR7X1UTReTZaD1+jy/V9ASC6vlnoBEL/ejEWbH0
+         xdBN/uen+54b44yJNcd6Pj55Bhbv3/rkP551w6RlrG1gfs88rxfvOzrfHFfUHF+33y2v
+         51IA==
+X-Gm-Message-State: APjAAAX/c/ZGpnsfEP8xtOKck06ggLURza+vTx/y84aVa7gmaCrJP7vt
+	/R+8dvU9VFx01FzUNKMRXHUz4YUVJ5aemEJIdDk=
+X-Google-Smtp-Source: APXvYqyroeJ+xP82OoBFBU+RZLcaSDD4NQ9HxlqQ6hOK+H9sfXKae6YmCWwQAoXMAZgRZUjMbC8mvqRnv/x+OVMCZi8=
+X-Received: by 2002:a37:c44b:: with SMTP id h11mr13832879qkm.150.1571927414723;
+ Thu, 24 Oct 2019 07:30:14 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 2002:ac8:54b:0:0:0:0:0 with HTTP; Thu, 24 Oct 2019 07:30:13 -0700 (PDT)
+Reply-To: tudorfsarltg@gmail.com
+From: Douglas Ongdon <cba1978tg@gmail.com>
+Date: Thu, 24 Oct 2019 16:30:13 +0200
+Message-ID: <CAJoV5MTKiQfXO8NGMTD5QN76yn_Y2ccWDh3Rf2aHRckRs7N0Ag@mail.gmail.com>
+Subject: =?UTF-8?Q?Lieber_Freund_Antworte_mir_f=C3=BCr_mehr_Details?=
+To: undisclosed-recipients:;
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Lieber Freund,
+
+Mein Name ist Herr Douglas Ongdon und ich arbeite als Hauptbuchhalter
+bei der Bank CBA (Citizen Bank of Africa). Ich habe Ihren
+E-Mail-Kontakt bei der Suche nach einem vertrauensw=C3=BCrdigen
+ausl=C3=A4ndischen Partner, der mir bei diesem vertraulichen
+Gesch=C3=A4ftsvorschlag behilflich ist. Ich bin ein pers=C3=B6nlicher Freun=
+d
+eines Ausl=C3=A4nders, Herrn Abel Andreas Aspery aus Australien, ein
+Goldh=C3=A4ndler, der bei einer Bombenexplosion in Tripolis, Libyen, starb
+
+VORSCHLAG: Der sp=C3=A4t Verstorbene hat im November 2017 f=C3=BCr zw=C3=B6=
+lf (12)
+Kalendermonate eine zeitlich festgelegte Hinterlegung im Wert von
+1.700.000,00 USD (eine Million siebenhunderttausend US-Dollar) in
+meiner Filiale vorgenommen. Bei weiteren Untersuchungen habe ich dies
+herausgefunden Er hinterlie=C3=9F kein Testament und alle Versuche, sein
+Next of Kin aufzusp=C3=BCren, blieben erfolglos. Ich habe daher weitere
+Nachforschungen angestellt und festgestellt, dass der Verstorbene in
+all seinen offiziellen Dokumenten, einschlie=C3=9Flich seiner
+Bankeinzahlungspapiere, kein Next of Kin deklariert hat. Wenn Sie
+bereit sind, dieses Gesch=C3=A4ft mit mir abzuschlie=C3=9Fen, geben Sie mir=
+ Ihre
+pers=C3=B6nlichen Daten, wie Ihren vollst=C3=A4ndigen Namen und Ihre pers=
+=C3=B6nliche
+Telefonnummer, und seien Sie versichert, dass diese Transaktion
+risikofrei ist, da ich =C3=BCber alle Details verf=C3=BCge, die diese Bank
+erm=C3=B6glichen Ihnen zu glauben, wenn Sie die Kommunikation mit der Bank
+er=C3=B6ffnen
+Der verstorbene Sp=C3=A4ter war mein sehr guter Freund, bevor er starb,
+also habe ich alle seine lebenswichtigen und geheimen Formationen, die
+eine M=C3=B6glichkeit f=C3=BCr diese Bank schaffen, uns die Genehmigung zu
+erteilen
+Wir =C3=BCberweisen den Betrag zun=C3=A4chst zweimal in H=C3=B6he von 850.0=
+00 USD, um
+zu vermeiden, dass ich meine Eier in einen Korb lege und ihm vertraue.
+Wenn ich nach der ersten =C3=9Cberweisung Vertrauen finde, wird der
+Restbetrag vervollst=C3=A4ndigt. Ich hoffe, Sie haben es verstanden.
+Ich werde Details nach Ihrer positiven Antwort senden
+Danke und R=C3=BCcksicht
+Herr Douglas Ongdon
+Telefon: +228 98846305
+Bitte senden Sie Ihre Antwort an meine private E-Mail-Adresse:
+tudorfsarltg@gmail.com

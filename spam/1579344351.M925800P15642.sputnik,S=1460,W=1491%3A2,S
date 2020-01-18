@@ -1,0 +1,31 @@
+Return-Path: <infolike8211@ttnstatus.com>
+Delivered-To: mail@stilfilm.com
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 787AFC7043
+	for <mail@stilfilm.com>; Thu, 25 Oct 2018 06:45:13 +0200 (CEST)
+X-Quarantine-ID: <EoeRilgdS_34>
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Amavis-Alert: BAD HEADER SECTION, Missing required header field: "Date"
+X-Spam-Flag: YES
+X-Spam-Score: 6.68
+X-Spam-Level: ******
+X-Spam-Status: Yes, score=6.68 required=5.5 tests=[HTML_MESSAGE=0.001,
+	HTML_MIME_NO_HTML_TAG=0.635, MIME_HTML_ONLY=1.105, MISSING_DATE=1.396,
+	MISSING_HEADERS=1.207, MISSING_MID=0.14, RCVD_IN_DNSWL_BLOCKED=0.001,
+	RDNS_NONE=1.274, SPF_FAIL=0.919, SPF_HELO_FAIL=0.001,
+	TVD_SPACE_RATIO=0.001] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id EoeRilgdS_34 for <mail@stilfilm.com>;
+	Thu, 25 Oct 2018 06:45:12 +0200 (CEST)
+Received: from ttnstatus.com (unknown [191.96.249.167])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 80423C1F28
+	for <thatch@stilfilm.com>; Thu, 25 Oct 2018 06:45:10 +0200 (CEST)
+From: "greymore" <infolike8211@ttnstatus.com>
+Subject: Verifi
+MIME-Version: 1.0
+Content-Type: text/html
+Message-Id: <20181025044513.787AFC7043@v22014122474822114.stilfilm.com>
+Date: Thu, 25 Oct 2018 06:45:13 +0200 (CEST)
+
+ 

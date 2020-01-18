@@ -1,0 +1,30 @@
+Return-Path: <infolike1487@toddkaplanphotographics.com>
+Delivered-To: mail@stilfilm.com
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id D49BDC3F74
+	for <mail@stilfilm.com>; Thu, 15 Nov 2018 12:30:48 +0100 (CET)
+X-Quarantine-ID: <aOPtYKfk7Szj>
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Amavis-Alert: BAD HEADER SECTION, Missing required header field: "Date"
+X-Spam-Flag: YES
+X-Spam-Score: 7.626
+X-Spam-Level: *******
+X-Spam-Status: Yes, score=7.626 required=5.5 tests=[HTML_MESSAGE=0.001,
+	HTML_MIME_NO_HTML_TAG=0.635, MIME_HTML_ONLY=1.105, MISSING_DATE=1.396,
+	MISSING_HEADERS=1.207, MISSING_MID=0.14, RDNS_NONE=1.274,
+	SPF_HELO_SOFTFAIL=0.896, SPF_SOFTFAIL=0.972] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id aOPtYKfk7Szj for <mail@stilfilm.com>;
+	Thu, 15 Nov 2018 12:30:47 +0100 (CET)
+Received: from toddkaplanphotographics.com (unknown [191.96.249.167])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 94186C3F72
+	for <joshia@stilfilm.com>; Thu, 15 Nov 2018 12:30:47 +0100 (CET)
+From: "google" <infolike1487@toddkaplanphotographics.com>
+Subject: sup sup
+MIME-Version: 1.0
+Content-Type: text/html
+Message-Id: <20181115113048.D49BDC3F74@v22014122474822114.stilfilm.com>
+Date: Thu, 15 Nov 2018 12:30:48 +0100 (CET)
+
+ 

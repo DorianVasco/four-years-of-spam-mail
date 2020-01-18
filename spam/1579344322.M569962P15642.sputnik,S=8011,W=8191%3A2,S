@@ -1,0 +1,180 @@
+Return-Path: <kumar4@icnmpcm.org.in>
+Delivered-To: mail@stilfilm.com
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id E176CC2FB2
+	for <mail@stilfilm.com>; Sat, 14 Jul 2018 13:03:46 +0200 (CEST)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: -0.098
+X-Spam-Level:
+X-Spam-Status: No, score=-0.098 required=5.5 tests=[DKIM_SIGNED=0.1,
+	DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1, HTML_MESSAGE=0.001,
+	RCVD_IN_DNSWL_BLOCKED=0.001, SPF_PASS=-0.001, URIBL_BLOCKED=0.001]
+	autolearn=unavailable
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id NXtF1HzLQf1p for <mail@stilfilm.com>;
+	Sat, 14 Jul 2018 13:03:45 +0200 (CEST)
+Received: from mail-ua0-f196.google.com (mail-ua0-f196.google.com [209.85.217.196])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id BD418C0566
+	for <mail@stilfilm.com>; Sat, 14 Jul 2018 13:03:42 +0200 (CEST)
+Received: by mail-ua0-f196.google.com with SMTP id k25-v6so13208011uao.11
+        for <mail@stilfilm.com>; Sat, 14 Jul 2018 04:12:33 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=icnmpcm.org.in; s=google;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=zRh/QXThFwXWfTJtljsnDDCh1jjfOHdrEvV5jQq4WYo=;
+        b=axfO5zT7Pl/cGZ2Rks10Uvea9jCLpfsAwU8BXftC7Oh9Ed78DPyykAW8gvriD6NKPC
+         03yDtxkAWn7787X++0GAH59rVASVAEfTnfjVQLUZQOYY3WCV+zsxEgW4k13yiD3jZpgb
+         6fTK2PHMZHZUnw9+AkOqFIwRnjhVG111jfdWq7hH1ppg3KmgbihNkqeMEI1BBh7x+a6B
+         RORIqo5v0t4xnQHU9s0sSLaJjQP5w8Ls0lmvOFKS1zFkmmu+QsgaX1dmHTe4X/Qx53f0
+         Pm8YzIhbrUIQVHYG2JOnp8wNRhkn6YA/h5Ft3Cx9bYSFWA2fdIYrAehy1a3Ap8JkTB1B
+         Bx8g==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=zRh/QXThFwXWfTJtljsnDDCh1jjfOHdrEvV5jQq4WYo=;
+        b=LtHPUg0eUYvrqpHY1pUA4C2OtgzHNoZFuZvigmBzUeyvg3/QZe+pxzU4z4GzyWL52+
+         rWsr1W+QCNrjbvbPSOl9FVAq9phVOfen52sMEbu17NlnwRWTvniAyeY0xVUPJn2Goce8
+         iq5zmSJ0Azp9FuxLwYAVCy7EXZCJnToEQWd5RHwrWRb4G5hR+m7Gbus3itLDrdTxwk3m
+         fR4pu/QzydTHrDawcwIQaI+JaUlj/+e+KdHpk/rLXTD66H/tVP28z7ZssKe6crUWqcdj
+         fy72ZBrfUDA1xCL2ak6w6ZiVK2uq0+pfchmZCwO8Rb/atpMSIpQR2UANkILdwNTG6PJP
+         NZlw==
+X-Gm-Message-State: AOUpUlFxb7Z97P3+aVwobaehPc9TuI/SCYD378O8mjDVbQiu9KtXTL4C
+	Kf1tr87h2eadkNMIf4MCQqzFUufY9T5UbSyYnyrzLg==
+X-Google-Smtp-Source: AAOMgpcqowxqCs72gUJBeCyulC44RcJxnqZe/qMI5+RY5cUsziQEKERzi6x1cTD4ILBYS55g50bWcVaEqEuj7fWPSwM=
+X-Received: by 2002:ab0:5161:: with SMTP id f30-v6mr6535218uaa.90.1531566751775;
+ Sat, 14 Jul 2018 04:12:31 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 2002:a67:f78e:0:0:0:0:0 with HTTP; Sat, 14 Jul 2018 04:12:31
+ -0700 (PDT)
+From: Jagan K <kumar4@icnmpcm.org.in>
+Date: Sat, 14 Jul 2018 16:42:31 +0530
+Message-ID: <CAEue5caENuT0mwZv8Zbwf5O8TMN0ZM=qYGbdaXb4m3Q+wxE8uQ@mail.gmail.com>
+Subject: 
+To: prof.srajendra@gmail.com
+Content-Type: multipart/alternative; boundary="000000000000309feb0570f3ac81"
+
+--000000000000309feb0570f3ac81
+Content-Type: text/plain; charset="UTF-8"
+
+*Respected* *Sir/Madam,*
+
+International Conference on Newfangled Methods of Physics, Chemistry and
+Mathematics *(ICNMPCM) *is a online conference*. *Date of conference is 6th
+& 7th August 2018.
+
+All accepted and registered papers will be submitted to the suitable
+publications of your choice listed in our website.
+
+*Today also you can Submit the Paper*
+
+For More Details :  https://bit.ly/2JU1N62
+
+--000000000000309feb0570f3ac81
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 10pt 0.5in;background:white;=
+line-height:115%;font-size:11pt;font-family:Calibri,sans-serif"><b><span st=
+yle=3D"font-size:16pt;line-height:115%;font-family:Andalus,serif;color:rgb(=
+64,49,82)">Respected</span></b><b><span style=3D"font-size:16pt;line-height=
+:115%;font-family:Andalus,serif;color:rgb(227,108,10)"> </span></b><b><span=
+ style=3D"font-size:16pt;line-height:115%;font-family:Andalus,serif;color:r=
+gb(64,49,82)">Sir/Madam,</span></b><b><span style=3D"font-size:16pt;line-he=
+ight:115%;font-family:Andalus,serif;color:rgb(227,108,10)"><span></span></s=
+pan></b></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 10pt 0.5in;text-align:justif=
+y;line-height:115%;font-size:11pt;font-family:Calibri,sans-serif"><span sty=
+le=3D"font-size:16pt;line-height:115%;font-family:Andalus,serif;color:rgb(3=
+4,34,34)">International
+Conference on Newfangled Methods of Physics, Chemistry and Mathematics </sp=
+an><b><span style=3D"font-size:16pt;line-height:115%;font-family:Andalus,se=
+rif">(ICNMPCM)
+</span></b><span style=3D"font-size:16pt;line-height:115%;font-family:Andal=
+us,serif">is a online conference<b>. </b>Date<span style=3D"color:rgb(34,34=
+,34)"> of
+conference is 6<sup>th</sup> &amp; 7<sup>th</sup> August 2018. <span></span=
+></span></span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 10pt 0.5in;text-align:justif=
+y;line-height:115%;font-size:11pt;font-family:Calibri,sans-serif"><span sty=
+le=3D"font-size:16pt;line-height:115%;font-family:Andalus,serif;color:rgb(3=
+4,34,34)">All
+accepted and registered papers will be submitted to the suitable publicatio=
+ns
+of your choice listed in our website.</span><span style=3D"font-size:16pt;l=
+ine-height:115%;font-family:Andalus,serif;color:red"><span></span></span></=
+p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 10pt 0.5in;text-align:justif=
+y;line-height:115%;font-size:11pt;font-family:Calibri,sans-serif"><b><span =
+style=3D"font-size:16pt;line-height:115%;font-family:Andalus,serif;color:rg=
+b(0,112,192)">Today also you can Submit the Paper<span></span></span></b></=
+p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 10pt 0.5in;text-align:justif=
+y;line-height:115%;font-size:11pt;font-family:Calibri,sans-serif"><span sty=
+le=3D"font-size:16pt;line-height:115%;font-family:Andalus,serif;color:rgb(3=
+4,34,34)">For
+More Details : <span>=C2=A0</span><a href=3D"https://bit.ly/2JU1N62" style=
+=3D"color:blue;text-decoration:underline">https://bit.ly/2JU1N62</a> <span>=
+</span></span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 10pt 0.5in;background:white;=
+line-height:115%;font-size:11pt;font-family:Calibri,sans-serif"><span style=
+=3D"font-size:16pt;line-height:115%;font-family:Andalus,serif;color:rgb(34,=
+34,34)"><span>=C2=A0</span></span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 10pt 0.5in;background:white;=
+line-height:115%;font-size:11pt;font-family:Calibri,sans-serif"><span style=
+=3D"font-size:16pt;font-family:Andalus,serif;color:rgb(34,34,34)"><span>=C2=
+=A0</span></span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 10pt 0.5in;background:white;=
+line-height:115%;font-size:11pt;font-family:Calibri,sans-serif"><span style=
+=3D"font-size:16pt;font-family:Andalus,serif;color:rgb(34,34,34)"><span>=C2=
+=A0</span></span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 10pt 0.5in;line-height:115%;=
+font-size:11pt;font-family:Calibri,sans-serif"><span style=3D"font-size:16p=
+t;line-height:115%;font-family:Andalus,serif;color:rgb(34,34,34)"><span>=C2=
+=A0</span><span></span></span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 10pt;line-height:115%;font-s=
+ize:11pt;font-family:Calibri,sans-serif"><span style=3D"font-size:16pt;line=
+-height:115%;font-family:Andalus,serif;color:rgb(34,34,34)"><span>=C2=A0</s=
+pan></span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 10pt;line-height:115%;font-s=
+ize:11pt;font-family:Calibri,sans-serif"><span style=3D"font-size:16pt;line=
+-height:115%;font-family:Andalus,serif"><span>=C2=A0</span></span></p>
+
+
+
+
+
+<br></div>
+
+--000000000000309feb0570f3ac81--

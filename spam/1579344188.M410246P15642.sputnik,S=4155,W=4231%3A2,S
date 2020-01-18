@@ -1,0 +1,76 @@
+Return-Path: <klausp0x62cr@irobay.com>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 2875AC0A94
+	for <mail@dorianvasco.de>; Thu, 21 Dec 2017 22:03:33 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 13.542
+X-Spam-Level: *************
+X-Spam-Status: Yes, score=13.542 required=5.5 tests=[DKIM_SIGNED=0.1,
+	DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1, FSL_BULK_SIG=0.001,
+	HTML_IMAGE_ONLY_20=0.7, HTML_MESSAGE=0.001,
+	HTML_SHORT_LINK_IMG_3=0.328, MIME_HTML_ONLY=1.105,
+	RAZOR2_CF_RANGE_51_100=2.43, RAZOR2_CHECK=1.729,
+	RCVD_IN_BL_SPAMCOP_NET=1.246, RCVD_IN_BRBL_LASTEXT=1.644,
+	SPF_PASS=-0.001, T_REMOTE_IMAGE=0.01, URIBL_ABUSE_SURBL=1.948,
+	URIBL_BLOCKED=0.001, URIBL_DBL_SPAM=2.5] autolearn=unavailable
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id nZVruKjA-HCN for <mail@dorianvasco.de>;
+	Thu, 21 Dec 2017 22:03:32 +0100 (CET)
+Received: from marvelous.irobay.com (marvelous.akperfumes.com [69.162.66.212])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id DC85EC0043
+	for <mail@dorianvasco.de>; Thu, 21 Dec 2017 22:03:31 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=irobay.com;
+ h=Date:From:To:Subject:Message-ID:MIME-Version:Content-Type:Content-Transfer-Encoding; i=klausp0x62cr@irobay.com;
+ bh=rdRfBnFDz7Ymv6mkXrWXqobyo4Q=;
+ b=FAVNA6BOZX1yh5QQejE1BvFoNWOJ6RfEeifuiXfvLADCSzF3L9e6jgdH16iQ49feFOszjMzlOgfs
+   N8e/WC0iX7uMoNwNkz57oao+D2R7UaXMlejh3m7qFXYqrfzWlMqctFUwqI2wnpLjMI/0dC7KZGnT
+   d2VlKm29rXChaj7N5zo=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=irobay.com;
+ b=a10SYjnnLj/q3rOdZzzZavUGSsPdkOvtFPt/I44ZLpEPFESiVsIhqCO14BZvgiNxeAgEqjFhNwnR
+   DSOfOLa6Gksf/ROc/jv1aqsEXcBAp4/ky5QPzCkvlkVtZe+cJ6Hhb1p9Hq9OBtR4LFcZJl1MDjQZ
+   3nvZ3QmVc6rvxNeff7s=;
+Date: Thu, 21 Dec 2017 15:03:32 -0600
+From: =?UTF-8?Q?Klaus?= <klausp0x62cr@irobay.com>
+To:  <mail@dorianvasco.de>
+Subject: =?UTF-8?Q?Rissige,_schmerzende_Haut=3F_Neues_Mittel_gegen_Nagelpilz,_wirksam?=
+Message-ID: <ZAWSVIWEBVLS-274408226871880783130171@hfzsg.irobay.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html>=0D
+<head>=0D
+</head><body>=0D
+<center>=0D
+Versch=C3=B6nert H=C3=84NDE, F=C3=9CSSE: neuer Spray gegen Nagelpilz, schne=
+lle Wirkung<br /><a href=3D"http://p.irobay.com/" style=3D"border-right-col=
+or:#000000; border-bottom:solid 2px #007700; border-left-color:#0000cc; "><=
+img src=3D"http://irobay.com/af601.jpg" style=3D"margin:0px; vertical-align=
+:baseline; " /></a>=0D
+<br /><a href=3D"http://p.irobay.com/">Rissige, schmerzende Haut? Neues Mit=
+tel gegen Nagelpilz, wirksam</a>=0D
+<br /><br /><a style=3D"border:ridge 0px #000000; " href=3D"http://d0.iroba=
+y.com/"><img style=3D"white-space:normal; border-left:solid 0px #000000; bo=
+rder-top-color:#007700; " src=3D"http://irobay.com/af601.jpg" /></a>=0D
+<br /><a style=3D"clear:right; " href=3D"http://d0.irobay.com/">Details</a>=
+=0D
+<br /><br /><a href=3D"http://nm-r.irobay.com/" style=3D"font-size:15px; fo=
+nt-weight:inherit; border-left:dotted 0px #007700; text-align:justify; "><i=
+mg src=3D"http://irobay.com/af601.jpg" /></a>=0D
+<br /><a style=3D"font-variant:inherit; " href=3D"http://nm-r.irobay.com/">=
+Details</a>=0D
+<br /><br /><div style=3D"height:371; width:100%; border-right-color:#fffff=
+f; white-space:normal; border-left-width:1px; font:12px Courier New, Courie=
+r, monospace italic inheritbolder; ">Nagelpilz kann beseitigt werden: blitz=
+schnell<br /><br /></div><a style=3D"border-width:thin; border-top:groove 2=
+px #000000; text-decoration:none; height:auto; border-left-style:inset;  fo=
+nt-size:12px; background-color:#ffffff;" href=3D"http://irobay.com/ub.php?f=
+h6=3Ducf1943208rnxgnz8sp67d8j4cad81w8zip">Abmelden hier</a></center><br />K=
+ILLT Nagelpilz - schonend, innerhalb von 9 Tagen weg=0D
+<img src=3D"http://irobay.com/ob.php?tys=3Ducf1943208rnxgnz8sp67d8j4cad81w8=
+zip" />=0D
+</body>=0D
+</html>=

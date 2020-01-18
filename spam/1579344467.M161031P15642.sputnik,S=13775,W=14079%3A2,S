@@ -1,0 +1,304 @@
+Return-Path: <bounce-12080-51736280-4328-248@kuanghuai.men>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 6B284C05D5
+	for <mail@dorianvasco.de>; Thu,  4 Jul 2019 14:32:02 +0200 (CEST)
+Authentication-Results: v22014122474822114.stilfilm.com; dkim=pass
+	reason="1024-bit key; insecure key"
+	header.d=kuanghuai.men header.i=newsletter@kuanghuai.men
+	header.b=DomyuCt4; dkim-adsp=pass; dkim-atps=neutral
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 9.087
+X-Spam-Level: *********
+X-Spam-Status: Yes, score=9.087 required=5.5 tests=[BAYES_80=2,
+	DATE_IN_PAST_03_06=1.592, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, HTML_IMAGE_RATIO_08=0.001, HTML_MESSAGE=0.001,
+	PYZOR_CHECK=1.392, SPF_HELO_NONE=0.001, URIBL_BLACK=1.7,
+	URIBL_DBL_SPAM=2.5] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id sTrytGAmgV2E for <mail@dorianvasco.de>;
+	Thu,  4 Jul 2019 14:31:58 +0200 (CEST)
+Received: from xeg.kuanghuai.men (xeg.kuanghuai.men [206.189.66.222])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 5EBC9C7754
+	for <mail@dorianvasco.de>; Thu,  4 Jul 2019 14:31:53 +0200 (CEST)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=kuanghuaimen; d=kuanghuai.men;
+ h=Date:To:From:Reply-to:Subject:Message-ID:List-Unsubscribe:MIME-Version:Content-Type; i=newsletter@kuanghuai.men;
+ bh=j4RxqSytfwT6qNfebXV3p9S3s+o=;
+ b=DomyuCt4tkFs2LwfNQx1B70RTOHlmaGavzQXVjrnTZfScf7bsq3JO951DG7SspFza+fANiyyEsvw
+   CvOeRtNN8p5++1tVdcWXGZEcZLWKcJgK8GYIT8BSPYtmP5cG6VKmcX9s3B+1T6U3FPCvtcu0MxzG
+   z+14SDWNBjNqoH+NhHc=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=kuanghuaimen; d=kuanghuai.men;
+ b=aJDcFl3z63f4UP+xnhR3vB+NzGyFk9upDbuPl3tfa7iIuHAOQgm8y9LkynWTD+teYigHW7AYCRYm
+   g0ZpJAz9Qm7A1CJekqYZQElFRZ2IzyUQznC1smOx7VSJhXGlng0G1d/e36tbGiep5qodziS9UIdT
+   CpL6qQW3R2F0juCtKhk=;
+Received: by xeg.kuanghuai.men id h3nori0e97co for <mail@dorianvasco.de>; Thu, 4 Jul 2019 12:31:17 +0000 (envelope-from <bounce-12080-51736280-4328-248@kuanghuai.men>)
+Date: Thu, 4 Jul 2019 10:53:53 +0200
+To: "mail@dorianvasco.de" <mail@dorianvasco.de>
+From: Sunglasses Outlet <newsletter@kuanghuai.men>
+Reply-to: Sunglasses Outlet <newsletter@kuanghuai.men>
+Subject: Expire Soon: Sunglasses Special Deal 80% OFF!
+Message-ID: <2c8b805830fd72ada0a99402bcaf1ef3@localhost>
+X-Priority: 3
+X-Mailer: Email Sending System
+X-Complaints-To: anzhelanebjtc@go2.pl
+List-Unsubscribe: <http://xeg.kuanghuai.men/edmt/u.php?p=tf/rs/5ggh/sd/tc/rs>
+X-MessageID: NTl8fHx8MjUzNjA5fHx8fG1haWxAZG9yaWFudmFzY28uZGV8fHx8MjF8fHx8MXx8fHww
+X-Report-Abuse: <http://xeg.kuanghuai.men/edmt/report_abuse.php?mid=NTl8fHx8MjUzNjA5fHx8fG1haWxAZG9yaWFudmFzY28uZGV8fHx8MjF8fHx8MXx8fHww>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_2c8b805830fd72ada0a99402bcaf1ef3"
+
+
+--b1_2c8b805830fd72ada0a99402bcaf1ef3
+Content-Type: text/plain; charset = "utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Expire Soon: Sunglasses Special Deal 80% OFF!
+Your email client cannot read this email.
+To view it online, please go here: http://xeg.kuanghuai.men/edmt/wb.php?p=
+=3Dtf/tc/rs/5ggh/sd/rs
+
+To stop receiving these emails:http://xeg.kuanghuai.men/edmt/u.php?p=3Dtf/r=
+s/5ggh/sd/tc/rs
+
+--b1_2c8b805830fd72ada0a99402bcaf1ef3
+Content-Type: text/html; charset = "utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html><head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1.=
+0">
+<style type=3D"text/css">
+#outlook a{padding:0}body{width:100%!important;-webkit-text-size-adjust:100=
+%;-ms-text-size-adjust:100%;margin:0;padding:0;background:#efefe9}.External=
+Class{width:100%}.ExternalClass,.ExternalClass p,.ExternalClass span,.Exter=
+nalClass font,.ExternalClass td,.ExternalClass div{line-height:100%}img{out=
+line:0;text-decoration:none;-ms-interpolation-mode:bicubic}a img{border:0}.=
+image_fix{display:block}p{margin:1em 0}table td{border-collapse:collapse;fo=
+nt-family:'Helvetica Neue',Arial,sans-serif;line-height:1.2}table{border-co=
+llapse:collapse;mso-table-lspace:0;mso-table-rspace:0;table-layout:fixed;ma=
+rgin:0 auto}a,a:link,a:visited,a:hover{color:#259fc4}.appleLinksExp a{color=
+:#a3a195;text-decoration:none}.appleLinksExpRed a{color:#db514f;text-decora=
+tion:none}@media only
+ screen and (max-device-width:480px){*[class].super{padding:0 10px 10px 10p=
+x!important}*[class].mainFeature .center{text-align:center!important}*[clas=
+s].mainFeature .offerbutton-c{width:60%!important}*[class].mainFeature .tit=
+le a{font-size:22px!important;line-height:1.2!important}*[class].c-header{f=
+ont-size:30px!important}*[class].offerbutton-c{margin:0 auto!important;widt=
+h:100%!important}*[class].offerbutton-c{display:block!important}*[class].ex=
+p-c{font-size:12px!important;width:100%!important;line-height:1.4!important=
+;padding-bottom:10px!important}*[class].offerbutton-c div{text-align:left!i=
+mportant}*[class].offerbutton-c div a{width:100%!important}*[class].offerLo=
+go-c{height:100px!important}*[class].offerLogo-c img{width:100px!important}=
+*[class].title,*[class].storeName,*[class].title
+ a,*[class].storeName a{line-height:1!important}*[class].title a{font-size:=
+15px!important;font-weight:500!important}*[class].title{padding-top:5px!imp=
+ortant}}
+=2ESTYLE4 {color: #999999}
+=2ESTYLE5 {color: #0000CC; text-decoration:underline}
+</style>
+<!--[if IEMobile 7]>
+<style type=3D"text/css"></style>
+<![endif]-->
+</head>
+<body class=3D"" style=3D"">
+<table style=3D"margin: 0; padding: 0; width: 100%!important; line-height: =
+100%!important; background: #efefe9;" align=3D"center" border=3D"0" cellpad=
+ding=3D"0" cellspacing=3D"0">
+<tr>
+<td style=3D"background:#663379;line-height:0" align=3D"center" valign=3D"t=
+op" width=3D"100%"><span class=3D"preHeader" style=3D"color:#663379;font-si=
+ze:1px">Check out the best deals from your favorite stores!</span></td>
+</tr>
+<tr>
+<td style=3D"background:#663379;padding:10px 0" align=3D"center" valign=3D"=
+top" width=3D"100%"><a href=3D"http://xeg.kuanghuai.men/edmt/tl.php?p=3Dtf/=
+tc/rs/5ggh/sd/rs//http%3A%2F%2Fxeg.kuanghuai.men%2Fspecial%2Fsunglasses.htm=
+l"> <img src=3D"http://o.rmncdn.com/thumbs/ops/RetailMeNotLogoNL.png" alt=
+=3D"RetailMeNot" title=3D"RetailMeNot" width=3D"140" /> </a></td>
+</tr>
+<tr>
+<td>
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+<tr>
+<td class=3D"super" style=3D"padding:20px 10px;box-sizing:border-box" align=
+=3D"center" valign=3D"top" width=3D"600">
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+<tr>
+<td class=3D"c-header" style=3D"font-size:32px;font-weight:500;color:#222;p=
+adding:0 10px 30px 10px;line-height:1.2" align=3D"center">Today's Best Sung=
+lasses Deals!</td>
+</tr>
+<tr>
+<td class=3D"mainFeature" style=3D"padding-bottom:20px" width=3D"100%">
+<table style=3D"width: 100%;" align=3D"center" border=3D"0" cellpadding=3D"=
+0" cellspacing=3D"0">
+<tr>
+<td style=3D"width: 100%;" valign=3D"top" width=3D"100%">
+<table style=3D"width: 100%;" align=3D"center" border=3D"0" cellpadding=3D"=
+0" cellspacing=3D"0">
+<tr>
+<td style=3D"background:#fff;padding:20px 10px" width=3D"100%">
+<table style=3D"width: 100%;" align=3D"center" border=3D"0" cellpadding=3D"=
+0" cellspacing=3D"0">
+<tr>
+<td class=3D"offerLogo-c" style=3D"width: 100%;" align=3D"center"><a href=
+=3D"http://xeg.kuanghuai.men/edmt/tl.php?p=3Dtf/tc/rs/5ggh/sd/rs//http%3A%2=
+F%2Fxeg.kuanghuai.men%2Fspecial%2Fsunglasses.html" style=3D"color:#259fc4;t=
+ext-decoration:none"> <img src=3D"http://i.imgur.com/aFSiKZF.jpg" alt=3D"su=
+nglasses" style=3D"display:block" title=3D"sunglasses" height=3D"248" width=
+=3D"500" /></a></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style=3D"background:#fff;padding:15px 20px 0" width=3D"100%">
+<table style=3D"width: 100%;" align=3D"center" border=3D"0" cellpadding=3D"=
+0" cellspacing=3D"0">
+<tr>
+<td class=3D"center" style=3D"background: #FFFFFF; width: 100%; font-size: =
+18px;" align=3D"left"><a href=3D"http://xeg.kuanghuai.men/edmt/tl.php?p=3Dt=
+f/tc/rs/5ggh/sd/rs/sunglasses/http%3A%2F%2Fxeg.kuanghuai.men%2Fspecial%2Fsu=
+nglasses.html" target=3D"_blank" title=3D"sunglasses" style=3D"color:#64646=
+4;text-decoration:none">Summer Sunglasses Special Deals</a></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style=3D"background:#fff;padding:15px 20px" width=3D"100%">
+<table style=3D"width: 100%;" align=3D"center" border=3D"0" cellpadding=3D"=
+0" cellspacing=3D"0">
+<tr>
+<td class=3D"title center" style=3D"width: 100%; background: #FFFFFF;" alig=
+n=3D"left"><a href=3D"http://xeg.kuanghuai.men/edmt/tl.php?p=3Dtf/tc/rs/5gg=
+h/sd/rs//http%3A%2F%2Fxeg.kuanghuai.men%2Fspecial%2Fsunglasses.html" target=
+=3D"_blank" style=3D"color:#259fc4;text-decoration:none;font-weight:500;fon=
+t-size:28px;line-height:1.3">All 80% Off Summer Sunglasses  Styles</a>&gt;<=
+/td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class=3D"exp-c center" style=3D"width: 50%; font-size: 14px; background=
+: #fff; padding: 0 20px;" align=3D"left"><span class=3D"appleLinksExp"><b>E=
+xpires Soon!</b></span></td>
+</tr>
+<tr>
+<td style=3D"background:#fff;padding:20px;border-bottom:1px solid #d1d0c9" =
+width=3D"100%">
+<table style=3D"width: 100%;" align=3D"center" border=3D"0" cellpadding=3D"=
+0" cellspacing=3D"0">
+<tr>
+<td class=3D"offerbutton-c" style=3D"width: 100%;" align=3D"right">
+<div><a href=3D"http://xeg.kuanghuai.men/edmt/tl.php?p=3Dtf/tc/rs/5ggh/sd/r=
+s//http%3A%2F%2Fxeg.kuanghuai.men%2Fspecial%2Fsunglasses.html" style=3D"bac=
+kground-color: #259fc4; border-radius: 4px; color: #ffffff; display: inline=
+-block; font-size: 18px; line-height: 40px; text-align: center; text-decora=
+tion: none; width: 180px; -webkit-text-size-adjust: none; letter-spacing: 1=
+px; font-family: sans-serif;">Get Deal</a></div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style=3D"width: 100%; padding: 20px 0;" align=3D"center" valign=3D"top"=
+ width=3D"100%">
+<div><a href=3D"http://xeg.kuanghuai.men/edmt/tl.php?p=3Dtf/tc/rs/5ggh/sd/r=
+s//http%3A%2F%2Fxeg.kuanghuai.men%2Fspecial%2Fsunglasses.html" style=3D"bac=
+kground-color: #efefe9; border: 2px solid #259fc4; border-radius: 4px; colo=
+r: #259fc4; display: inline-block; font-family: sans-serif; font-size: 24px=
+; line-height: 52px; text-align: center; text-decoration: none; width: 240p=
+x; -webkit-text-size-adjust: none; mso-hide: all; letter-spacing: 1px;">See=
+ More Deals</a></div>
+</td>
+</tr>
+<tr>
+<td class=3D"hb" style=3D"border-collapse:collapse!important;display:table-=
+cell!important;padding:20px 0 10px">
+<hr style=3D"background: #c9c9c9; border: 0; color: #c9c9c9; height: 2px;" =
+/>
+</td>
+</tr>
+<tr>
+<td style=3D"border-collapse:collapse!important;padding-top:20px" align=3D"=
+center"><img style=3D"display:block" src=3D"http://o.rmncdn.com/thumbs/ops/=
+footer-rmn.png" /></td>
+</tr>
+<tr>
+<td style=3D"border-collapse:collapse!important;padding:20px 0" align=3D"ce=
+nter"><span><img src=3D"http://o.rmncdn.com/thumbs/ops/facebook-printablel2=
+013.png" alt=3D"facebook" width=3D"36" /></span><span><img src=3D"http://o.=
+rmncdn.com/thumbs/ops/twitter-printablel2013.png" alt=3D"twitter" width=3D"=
+36" /></span><span><img src=3D"http://o.rmncdn.com/thumbs/ops/gplus-printab=
+lel2013.png" alt=3D"g+" width=3D"36" /></span><span> <img src=3D"http://o.r=
+mncdn.com/thumbs/ops/pinterest-printablel2013.png" alt=3D"pinterest" width=
+=3D"36" /></span></td>
+</tr>
+<tr>
+<td style=3D"border-collapse: collapse!important; font-size: 10px; color: #=
+a3a195; padding: 10px 20px 2px 20px; line-height: 1.3;" align=3D"center">To=
+ stop receiving these emails <a href=3D"http://xeg.kuanghuai.men/edmt/u.php=
+?p=3Dtf/rs/5ggh/sd/tc/rs"><span style=3D"color: #259fc4; text-decoration: n=
+one;">unsubscribe</span></a></td>
+</tr>
+<tr>
+</tr>
+<tr>
+<td style=3D"border-collapse:collapse!important;font-size:10px;color:#0000F=
+F;line-height:1.6;padding:0 20px 2px 20px" align=3D"center"><span class=3D"=
+STYLE4">Some of these deals feature products with limited quantities. Price=
+s and quantities may be subject to change by retailers at their discretion.=
+ </span></td>
+</tr>
+<tr>
+</tr>
+<tr>
+<td style=3D"border-collapse:collapse!important;font-size:10px;color:#0000F=
+F;line-height:1.6;padding:0 20px 2px 20px" align=3D"center"><span class=3D"=
+STYLE4">Disclaimer: The CAN-SPAM Act of 2003 establishes requirements for t=
+hose who send commercial email, spells out penalties for spammers and compa=
+nies whose products are advertised in spam if they violate the law, and giv=
+es consumers the right to ask mailers to stop spamming them. The above mail=
+ is in accordance to the Can Spam act of 2003: There are no deceptive subje=
+ct lines and is a manual process through our efforts on World Wide Web. </s=
+pan></td>
+</tr>
+<tr>
+<td style=3D"border-collapse:collapse!important;font-size:10px;color:#0000F=
+F;line-height:1.6;padding:0 20px 20px 20px" align=3D"center"><span class=3D=
+"STYLE4">Copyright 2017 <span class=3D"appleLinksExp">RetailMeNot, Inc., 30=
+1 Congress Avenue Suite 700, Austin, TX, 78701 USA</span> </span></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<div style=3D"display:none; white-space:nowrap; font:15px courier; color:#f=
+fffff;">- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -</=
+div>
+
+<img src=3D"http://xeg.kuanghuai.men/edmt/to.php?p=3Dtf/tc/rs/5ggh/sd/rs" w=
+idth=3D"5" height=3D"2" alt=3D".">
+
+</body></html>
+
+
+--b1_2c8b805830fd72ada0a99402bcaf1ef3--

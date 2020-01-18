@@ -1,0 +1,79 @@
+Return-Path: <benjamin_hughes-mail=dorianvasco.de@icann-monitor.org>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id D7F0BC7912
+	for <mail@dorianvasco.de>; Thu, 29 Dec 2016 15:27:58 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 10.862
+X-Spam-Level: **********
+X-Spam-Status: Yes, score=10.862 required=2 tests=[BAYES_99=3.5,
+	DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	HTML_MESSAGE=0.001, MIME_HTML_ONLY=0.723, MIME_HTML_ONLY_MULTI=0.001,
+	MPART_ALT_DIFF=0.79, RAZOR2_CF_RANGE_51_100=0.5,
+	RAZOR2_CF_RANGE_E8_51_100=1.886, RAZOR2_CHECK=0.922,
+	RCVD_IN_SBL_CSS=3.335, RP_MATCHES_RCVD=-3.196, SPF_PASS=-0.001,
+	URIBL_BLOCKED=0.001, URIBL_DBL_SPAM=2.5] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.yourvserver.net [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 2ypbLKTtnnR7 for <mail@dorianvasco.de>;
+	Thu, 29 Dec 2016 15:27:57 +0100 (CET)
+Received: from mail.icann-monitor.org (icann-monitor.org [185.169.229.97])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 721C3C7911
+	for <mail@dorianvasco.de>; Thu, 29 Dec 2016 15:27:57 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=icann-monitor.org;
+ h=Date:From:To:Subject:MIME-Version:Content-Type:List-Unsubscribe:Message-ID; i=benjamin_hughes@icann-monitor.org;
+ bh=/7nf1AJnn4ByjrFnJrF2J9A6V+Q=;
+ b=XE+uvR+4EPCeMFe1XnUziLhnGrhGbi2MClMJMR0ST5bYXB2dtjPdFQ6mNEbN1YkVUNVLadJlj1oe
+   ak6kU18+ntlyMeRQIpZ9mCb6las46/KjgW4BCwzusg2rq4geqQzuvpdCz4+TyEg7H4cypFHsiA1D
+   +7uDm/YmavZ9x+8tYfw=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=icann-monitor.org;
+ b=NQ4sN/M1chcA7HzXLwV7orXgTMzz3mWWLBQdA6D5/sW9Pl9wJMbDYC04OGIcgA6CLU1KOByQgcAk
+   3hS0mzLrabVxQEqlvN33EWqRXmDBS1LoORMZS4A966trUKw0fzIDHvS5Am1/qSb03sIpA4TldfLw
+   7dNG8vCNDpT5i7Pnu+4=;
+Received: by mail.icann-monitor.org id hckemq0001gq for <mail@dorianvasco.de>; Thu, 29 Dec 2016 09:17:30 -0500 (envelope-from <benjamin_hughes-mail=dorianvasco.de@icann-monitor.org>)
+Date: Thu, 29 Dec 2016 09:17:30 -0500
+From: "Benjamin Hughes" <benjamin_hughes@icann-monitor.org>
+To: Anneundben.com  <mail@dorianvasco.de>
+Subject: ***SPAM*** Domain Abuse Notice: Anneundben.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_1060_978533620.1483020959356"
+X-SMTPAPI: {"category": "20161229-091358-023-98"}
+List-Unsubscribe: <http://www.icann-monitor.org/cb9N89u.11nU4cCgKuxFNiluKhXKmMizNOc6e/Keynesian-contacting>
+Feedback-ID: 2016122909135802398
+Message-ID: <0.0.0.76.1D261DE4A15992A.A736B@mail.icann-monitor.org>
+
+------=_Part_1060_978533620.1483020959356
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<html>
+ <head> 
+  <title></title> 
+ </head> 
+ <body>
+  Dear Domain Owner,
+  <br /> 
+  <br /> 
+  <br /> Our system has detected that your domain: Anneundben.com is being used for spamming and spreading malware recently.   <br /> You can download the detailed abuse report of your domain along with date/time of incidents. 
+  <a href="http://report.icann-monitor.org/view/Domain_Abuse_Report.doc">Click Here</a>
+  <br /> 
+  <br /> We have also provided detailed instruction on how to delist your domain from our blacklisting.   <br /> 
+  <br /> Please download the report immediately and take proper action within 24 hours otherwise your domain will be suspended permanently.   <br /> 
+  <br /> There is also possibility of legal action depend on severity and persistence of your abuse case.   <br /> 
+  <br /> 
+  <strong>Three Simple Steps:</strong>
+  <br /> 1. Download your abuse report.   <br /> 2. Check your domain abuse incidents along with date and time.   <br /> 3. Take few simple steps for prevention and to avoid domain suspension.   <br /> 
+  <br /> 
+  <a href="http://report.icann-monitor.org/view/Domain_Abuse_Report.doc">Click Here to Download your Report</a>
+  <br /> 
+  <br /> Please look into it and contact us.   <br /> 
+  <br /> 
+  <br /> Best Regards,
+  <br /> Domain Abuse Dept.   <br /> ICANN Inc.   <br /> Tel.: (139) 711-96-01  
+ </body>
+</html>
+
+------=_Part_1060_978533620.1483020959356--
+

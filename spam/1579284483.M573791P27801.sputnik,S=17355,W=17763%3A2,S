@@ -1,0 +1,408 @@
+Return-Path: <jaxson@nitroinfotech.info>
+Delivered-To: mail@elementk.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id A76F6C200E
+	for <mail@elementk.de>; Thu,  2 Jan 2020 14:12:18 +0100 (CET)
+Authentication-Results: v22014122474822114.stilfilm.com; dkim=pass
+	reason="2048-bit key; insecure key"
+	header.d=nitroinfotech.info header.i=@nitroinfotech.info
+	header.b=ASmMKedp; dkim-adsp=pass; dkim-atps=neutral
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: 2.23
+X-Spam-Level: **
+X-Spam-Status: No, score=2.23 required=4.5 tests=[BAYES_20=-0.001,
+	DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	FSL_BULK_SIG=0.938, HTML_MESSAGE=0.001, PYZOR_CHECK=1.392]
+	autolearn=no autolearn_force=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id MIDSCxOITCOT for <mail@elementk.de>;
+	Thu,  2 Jan 2020 14:12:14 +0100 (CET)
+Received: from mail-pf1-f196.google.com (mail-pf1-f196.google.com [209.85.210.196])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id 12C31C06DD
+	for <mail@elementk.de>; Thu,  2 Jan 2020 14:12:05 +0100 (CET)
+Received: by mail-pf1-f196.google.com with SMTP id 4so22026124pfz.9
+        for <mail@elementk.de>; Thu, 02 Jan 2020 05:12:05 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=nitroinfotech.info; s=google;
+        h=from:to:subject:date:message-id:mime-version:thread-index
+         :content-language;
+        bh=2LPwf25B/L50I9eswCWWiEYvBCNUF2L9se+SCi7tD8E=;
+        b=ASmMKedpwYJtXiJ2Gu68V8Ej64ztwL4ijWFw06lNoFrCtMyUi0IZQ62N2V+ozIxN6U
+         zT3cn06hmo4rmP50C6SE2IgK/uF3MEk9yXupM+PYonRrmPYTqybRdgaJtMcNMvEClEQg
+         r4EwH4ORJ4Cza4Mlt8sw7LTi2DNLWl5Zr3fUn9So2wfmqR0WEm7rhC/sR3e36hbWgC1B
+         a7h58fScpjI8WK1fwjWGMKr9dge4SkzprUUqFLE8oCJLfV+2sddt2+v+5/5WA/lTbToP
+         9XtQE/0Y+uK+J5Azdr1uxKFrCOirWt5b6qCHNt4266fDViXw13z5iUKgNJfFk/Wh6Wei
+         I4jg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:from:to:subject:date:message-id:mime-version
+         :thread-index:content-language;
+        bh=2LPwf25B/L50I9eswCWWiEYvBCNUF2L9se+SCi7tD8E=;
+        b=GcKnTXRDIsjCPXXD7Q6Z76H+WovKteEHQtYfU466fvdDHVv0KfJibkURXOmuNEU4hc
+         3YkQfLnXLlukylHqJBPY6MWS/xN45LorhyEeAE8FtlKDOQD7XysSPjPfyY8x6ryzcpJJ
+         dUhl88wpo0a6Fwt7okWDLxgM7X9i80/QJj/IUF4jTZp+YHnnGhaM8ka1zKF1BYoSmvmM
+         ep/YGZ6Vj35/TTRS/DFBL05nKl5VoT7Lw2QJIwsYBbZ85MdZIMb6EYFb/zXxl7Cyp2VV
+         G5HsI8cF2Q65EIDHv/qushS10E1zLLcVriEUQ4qL5Rd/ZMwD+9xBW+5HPq7GcpK7+Axd
+         wAQQ==
+X-Gm-Message-State: APjAAAWfg2xaClGuhsv0AtRn5/Mm03ry8jBUWnQ5Q8KPqQAw5jIM7Min
+	QctfEdjaWpL8tAcB3f+NYjdNgSQzDKY=
+X-Google-Smtp-Source: APXvYqzNqi8iIGUMnGpWDb1iCvRF9FpgrYbEyUHi/697ozGmdVsqQ856Ru3ZJiqriBOvtOUkJ5hDpw==
+X-Received: by 2002:a63:5442:: with SMTP id e2mr86751249pgm.18.1577970721156;
+        Thu, 02 Jan 2020 05:12:01 -0800 (PST)
+Received: from pci31PC ([122.177.238.186])
+        by smtp.gmail.com with ESMTPSA id 3sm60475810pfi.13.2020.01.02.05.11.58
+        for <mail@elementk.de>
+        (version=TLS1 cipher=ECDHE-RSA-AES128-SHA bits=128/128);
+        Thu, 02 Jan 2020 05:11:59 -0800 (PST)
+From: "Jaxson  " <jaxson@nitroinfotech.info>
+To: <mail@elementk.de>
+Subject: 1st Page On Google
+Date: Thu, 2 Jan 2020 18:27:40 +0530
+Message-ID: <2b25001d5c16e$35db8580$a1929080$@info>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_2B251_01D5C19C.4F93C180"
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-Index: AdXBNztYT0qVQmVxQu+v8dikF+aU2w==
+Content-Language: en-us
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_2B251_01D5C19C.4F93C180
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+Hi,  
+
+I found your web contact email mail@elementk.de. I would like to discuss a
+business opportunity with you.
+
+I am Business Development Manager at an India based IT firm. We are the
+group of 100+experienced IT professionals who are into: Website
+Designing/Redesigning, Web Development, responsive websites, PHP
+development, e-commerce services, SEO Services, Content Writing Services and
+Mobile Applications development. I was surfing through your website and
+analyzed that despite having a great design; it was not ranking on any of
+the search engines (Google Yahoo and Bing) for most of the keywords relating
+to your business.
+
+Our main services are listed here:
+
+.         Full SEO package (with plan and activities)
+
+.         SMO (Facebook, Twitter, LinkedIn, YouTube and Instagram marketing,
+etc).
+
+.         Website Designing Services.
+
+.         Website Development Services    
+
+.         Website Re-Designing Services
+
+.         CMS website
+
+.         iPhone and Android App Development
+
+.         PPC (Pay per Click) 
+
+If you are interested in any of our services, please let us know your
+requirement. I would be happy to provide you our company information and a
+competitive quote. I look forward to your reply. 
+
+Note-:-Please Share your contact details (Skype ID or Phone Number) and let
+us know your convenient time for the call/call so our seniors can contact
+you directly for further discussion.
+
+Kinds Regards,
+Jaxson                                                             
+Services: - SEO | SMO | PPC |
+Website Design, Development
+
+ 
+
+ 
+
+
+------=_NextPart_000_2B251_01D5C19C.4F93C180
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40"><head><META =
+HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html; =
+charset=3Dus-ascii"><meta name=3DGenerator content=3D"Microsoft Word 12 =
+(filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Mangal;
+	panose-1:2 4 5 3 5 2 3 3 2 2;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin-top:0in;
+	margin-right:0in;
+	margin-bottom:10.0pt;
+	margin-left:0in;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+p
+	{mso-style-priority:99;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{mso-style-priority:34;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:10.0pt;
+	margin-left:.5in;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, =
+div.MsoListParagraphCxSpFirst
+	{mso-style-priority:34;
+	mso-style-type:export-only;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:.5in;
+	margin-bottom:.0001pt;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, =
+div.MsoListParagraphCxSpMiddle
+	{mso-style-priority:34;
+	mso-style-type:export-only;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:.5in;
+	margin-bottom:.0001pt;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, =
+div.MsoListParagraphCxSpLast
+	{mso-style-priority:34;
+	mso-style-type:export-only;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:10.0pt;
+	margin-left:.5in;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+.MsoChpDefault
+	{mso-style-type:export-only;}
+.MsoPapDefault
+	{mso-style-type:export-only;
+	margin-bottom:10.0pt;
+	line-height:115%;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+/* List Definitions */
+@list l0
+	{mso-list-id:1111781044;
+	mso-list-template-ids:-1205847804;}
+@list l0:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l0:level2
+	{mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level3
+	{mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level4
+	{mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level5
+	{mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level6
+	{mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level7
+	{mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level8
+	{mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level9
+	{mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DEN-US><div =
+class=3DWordSection1><p class=3DMsoNormal><strong><span =
+style=3D'font-family:"Calibri","sans-serif";color:#002060;font-weight:nor=
+mal'>Hi,&nbsp;</span></strong><b><span style=3D'color:#002060'> =
+<br><br></span></b><strong><span =
+style=3D'font-size:12.0pt;line-height:115%;font-family:"Calibri","sans-se=
+rif";color:#002060;font-weight:normal'>I found your web contact =
+email&nbsp;</span></strong>mail@elementk.de<strong><span =
+style=3D'font-size:12.0pt;line-height:115%;font-family:"Calibri","sans-se=
+rif";color:#002060;font-weight:normal'>. I would like to discuss a =
+business opportunity with you.</span></strong><strong><span =
+style=3D'font-size:12.0pt;line-height:115%;font-family:"Calibri","sans-se=
+rif";font-weight:normal'><o:p></o:p></span></strong></p><p><strong><span =
+style=3D'font-family:"Calibri","sans-serif";color:#002060;font-weight:nor=
+mal'>I am Business Development Manager at an India based IT firm. We are =
+the group of 100+experienced IT professionals who are into: Website =
+Designing/Redesigning, Web Development, responsive websites, PHP =
+development, e-commerce services, SEO Services, Content Writing Services =
+and Mobile Applications development.&nbsp;I was surfing through your =
+website and analyzed that despite having a great design; it was not =
+ranking on any of the search engines (Google Yahoo and Bing) for most of =
+the keywords relating to your business.</span></strong><span =
+style=3D'font-family:"Calibri","sans-serif";color:#002060'><br><b><br><st=
+rong><span style=3D'font-family:"Calibri","sans-serif"'>Our main =
+services are listed here:<o:p></o:p></span></strong></b></span></p><p =
+class=3DMsoListParagraphCxSpFirst =
+style=3D'text-indent:-.25in;mso-list:l0 level1 lfo1'><![if =
+!supportLists]><span =
+style=3D'font-size:10.0pt;line-height:115%;font-family:Symbol'><span =
+style=3D'mso-list:Ignore'>&middot;<span style=3D'font:7.0pt "Times New =
+Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =
+</span></span></span><![endif]><span style=3D'color:#002060'>Full SEO =
+package (with plan and activities)</span></p><p =
+class=3DMsoListParagraphCxSpMiddle =
+style=3D'text-indent:-.25in;mso-list:l0 level1 lfo1'><![if =
+!supportLists]><span =
+style=3D'font-size:10.0pt;line-height:115%;font-family:Symbol;color:#0020=
+60'><span style=3D'mso-list:Ignore'>&middot;<span style=3D'font:7.0pt =
+"Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =
+</span></span></span><![endif]><span style=3D'color:#002060'>SMO =
+(Facebook, Twitter, LinkedIn, YouTube and Instagram marketing, =
+etc).</span><span style=3D'color:#002060'><o:p></o:p></span></p><p =
+class=3DMsoListParagraphCxSpMiddle =
+style=3D'text-indent:-.25in;mso-list:l0 level1 lfo1'><![if =
+!supportLists]><span =
+style=3D'font-size:10.0pt;line-height:115%;font-family:Symbol;color:#0020=
+60'><span style=3D'mso-list:Ignore'>&middot;<span style=3D'font:7.0pt =
+"Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =
+</span></span></span><![endif]><span style=3D'color:#002060'>Website =
+Designing Services.</span><span =
+style=3D'color:#002060'><o:p></o:p></span></p><p =
+class=3DMsoListParagraphCxSpMiddle =
+style=3D'text-indent:-.25in;mso-list:l0 level1 lfo1'><![if =
+!supportLists]><span =
+style=3D'font-size:10.0pt;line-height:115%;font-family:Symbol;color:#0020=
+60'><span style=3D'mso-list:Ignore'>&middot;<span style=3D'font:7.0pt =
+"Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =
+</span></span></span><![endif]><span style=3D'color:#002060'>Website =
+Development Services&nbsp;&nbsp;&nbsp; </span><span =
+style=3D'color:#002060'><o:p></o:p></span></p><p =
+class=3DMsoListParagraphCxSpMiddle =
+style=3D'text-indent:-.25in;mso-list:l0 level1 lfo1'><![if =
+!supportLists]><span =
+style=3D'font-size:10.0pt;line-height:115%;font-family:Symbol;color:#0020=
+60'><span style=3D'mso-list:Ignore'>&middot;<span style=3D'font:7.0pt =
+"Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =
+</span></span></span><![endif]><span style=3D'color:#002060'>Website =
+Re-Designing Services</span><span =
+style=3D'color:#002060'><o:p></o:p></span></p><p =
+class=3DMsoListParagraphCxSpMiddle =
+style=3D'text-indent:-.25in;mso-list:l0 level1 lfo1'><![if =
+!supportLists]><span =
+style=3D'font-size:10.0pt;line-height:115%;font-family:Symbol;color:#0020=
+60'><span style=3D'mso-list:Ignore'>&middot;<span style=3D'font:7.0pt =
+"Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =
+</span></span></span><![endif]><span style=3D'color:#002060'>CMS =
+website</span><span style=3D'color:#002060'><o:p></o:p></span></p><p =
+class=3DMsoListParagraphCxSpMiddle =
+style=3D'text-indent:-.25in;mso-list:l0 level1 lfo1'><![if =
+!supportLists]><span =
+style=3D'font-size:10.0pt;line-height:115%;font-family:Symbol;color:#0020=
+60'><span style=3D'mso-list:Ignore'>&middot;<span style=3D'font:7.0pt =
+"Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =
+</span></span></span><![endif]><span style=3D'color:#002060'>iPhone and =
+Android App Development<o:p></o:p></span></p><p =
+class=3DMsoListParagraphCxSpLast style=3D'text-indent:-.25in;mso-list:l0 =
+level1 lfo1'><![if !supportLists]><span =
+style=3D'font-size:10.0pt;line-height:115%;font-family:Symbol;color:#0020=
+60'><span style=3D'mso-list:Ignore'>&middot;<span style=3D'font:7.0pt =
+"Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =
+</span></span></span><![endif]><span style=3D'color:#002060'>PPC (Pay =
+per Click)<strong><span =
+style=3D'font-family:"Calibri","sans-serif"'>&nbsp;</span></strong></span=
+><span style=3D'color:#002060'><o:p></o:p></span></p><p =
+class=3DMsoNormal><strong><span =
+style=3D'font-family:"Calibri","sans-serif";color:#002060;font-weight:nor=
+mal'>If you are interested in any of our services, please let us know =
+your requirement. I would be happy to provide you our company =
+information and a competitive quote. I look forward to your =
+reply.&nbsp;</span></strong><strong><span =
+style=3D'font-family:"Calibri","sans-serif";font-weight:normal'><o:p></o:=
+p></span></strong></p><p class=3DMsoNormal><strong><span =
+style=3D'font-family:"Calibri","sans-serif";color:#002060;font-weight:nor=
+mal'>Note-:-Please Share your contact details (Skype ID or Phone Number) =
+and let us know your convenient time for the call/call so our seniors =
+can contact you directly for further =
+discussion.<o:p></o:p></span></strong></p><p =
+class=3DMsoNormal><strong><span =
+style=3D'font-family:"Calibri","sans-serif";color:#002060;font-weight:nor=
+mal'>Kinds Regards,</span></strong><span =
+style=3D'color:#002060'><br></span><b><span =
+style=3D'font-size:10.0pt;line-height:115%;font-family:"Arial","sans-seri=
+f";color:black;background:white'>Jaxson&nbsp; =
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =
+</span></b><strong><span =
+style=3D'font-family:"Calibri","sans-serif";color:#002060;font-weight:nor=
+mal'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =
+</span></strong><span style=3D'color:#002060'><br><strong><span =
+style=3D'font-family:"Calibri","sans-serif";font-weight:normal'>Services:=
+ - SEO | SMO | PPC |</span></strong><br><strong><span =
+style=3D'font-family:"Calibri","sans-serif";font-weight:normal'>Website =
+Design, Development</span></strong></span><b><o:p></o:p></b></p><p =
+class=3DMsoNormal><span =
+style=3D'color:#002060'><o:p>&nbsp;</o:p></span></p><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p></div></body></html>
+------=_NextPart_000_2B251_01D5C19C.4F93C180--
+

@@ -1,0 +1,84 @@
+Return-Path: <no-reply@beyondsecurity.com>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 89DBBD1F79
+	for <mail@dorianvasco.de>; Fri, 10 Feb 2017 20:29:01 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 2.563
+X-Spam-Level: **
+X-Spam-Status: Yes, score=2.563 required=2 tests=[BAYES_50=0.8,
+	RP_MATCHES_RCVD=-0.001, SPF_PASS=-0.001, TVD_PH_SEC=1.764,
+	URIBL_BLOCKED=0.001] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.yourvserver.net [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id atSkmR9zhNTc for <mail@dorianvasco.de>;
+	Fri, 10 Feb 2017 20:28:59 +0100 (CET)
+Received: from secure.beyondsecurity.com (www.beyondsecurity.com [162.213.1.242])
+	by v22014122474822114.stilfilm.com (Postfix) with SMTP id 2D3A7D1F6F
+	for <mail@dorianvasco.de>; Fri, 10 Feb 2017 20:28:59 +0100 (CET)
+Received: (qmail 15999 invoked from network); 10 Feb 2017 11:28:58 -0800
+Received: from unknown (HELO scanmyserver.beyondsecurity.com) (162.213.1.246)
+  by www.beyondsecurity.com with SMTP; 10 Feb 2017 11:28:58 -0800
+Received: from localhost ([127.0.0.1] helo=wssa.beyondsecurity.com)
+	by scanmyserver.beyondsecurity.com with esmtp (Exim 4.72)
+	(envelope-from <no-reply@beyondsecurity.com>)
+	id 1ccGew-0002GF-LL
+	for mail@dorianvasco.de; Fri, 10 Feb 2017 14:15:06 -0500
+Message-Id: <E1ccGew-0002GF-LL@scanmyserver.beyondsecurity.com>
+From: Beyond Security Support <no-reply@beyondsecurity.com>
+Reply-To: support@beyondsecurity.com
+Subject: ***SPAM*** No New Vulnerabilities for Server scanalog.de
+To: mail@dorianvasco.de
+Sender: Beyond Security Support <no-reply@beyondsecurity.com>
+List-Unsubscribe: <https://wssa.beyondsecurity.com/my_account/?h=9269651a7aac&unsubscribe=1>
+Precedence: bulk
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+    boundary="----=_marker"
+Date: 10 Feb 2017 14:15:06 -0500
+
+This is a multi-part message in MIME format.
+
+------=_marker
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+WSSA has been continuously monitoring your server(s) security for important changes.
+
+No new vulnerabilities were detected since the last scan. WSSA will continue monitoring and send an alert if an important change is detected.
+
+Please log into WSSA to see your previous vulnerability report or account settings: https://wssa.beyondsecurity.com/my_account/
+
+Thank you for monitoring your server's security with WSSA.
+
+-- 
+Thanks
+Beyond Security Support
+Beyond Security
+http://www.beyondsecurity.com
+
+What is WSSA?
+Web Site Security Audit allows you to check for all the latest Vulnerabilities. All the time.
+
+Securing your web site is like an arms race. WSSA will give you the necessary edge:
+
+ * Accurate Testing
+Concentrate on the vulnerabilities that are really there. We have the lowest 'false positive' rate in the industry, and we will tell you which vulnerabilities are serious ("High Risk") and which are ok to ignore for now ("Low Risk").
+
+ * Easy access
+Easy interface and intuitive results make WSSA easy to use.
+
+ * Extensive Test Range
+Our scanning engine is based on the knowledge base gathered on SecuriTeam.com - over 10,000 remote vulnerabilities (and counting!). It is the same vulnerability database used by our corporate service AVDS, updated daily for new security vulnerabilities.
+
+This has been sent to you as a part of your WSSA membership. To stop receiving emails regarding your account and to cancel the scanning of 'scanalog.de' please log in using this link: https://wssa.beyondsecurity.com/my_account/?h=9269651a7aac , click on the "My Account" tab and choose the "Close Account" option.
+
+Or email to support@beyondsecurity.com or write to Beyond Security at 19925 Stevens Creek Blvd. Cupertino, California 95014. Please use or include the email address which was used to sign up for the account or the web site being scanned.
+
+
+
+
+------=_marker--
+

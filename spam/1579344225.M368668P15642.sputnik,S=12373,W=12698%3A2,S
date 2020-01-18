@@ -1,0 +1,325 @@
+Return-Path: <prbensinghseo@outlook.com>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 2CE1EC053A
+	for <mail@dorianvasco.de>; Wed, 31 Jan 2018 19:08:05 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: 1.098
+X-Spam-Level: *
+X-Spam-Status: No, score=1.098 required=5.5 tests=[DKIM_SIGNED=0.1,
+	DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1, FREEMAIL_FROM=0.001,
+	HTML_MESSAGE=0.001, MISSING_HEADERS=1.207, RCVD_IN_DNSWL_NONE=-0.0001,
+	SPF_HELO_PASS=-0.001, SPF_PASS=-0.001, T_RP_MATCHES_RCVD=-0.01,
+	URIBL_BLOCKED=0.001] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id zdwqZPtUTKu9 for <mail@dorianvasco.de>;
+	Wed, 31 Jan 2018 19:07:59 +0100 (CET)
+Received: from APC01-PU1-obe.outbound.protection.outlook.com (mail-oln040092254018.outbound.protection.outlook.com [40.92.254.18])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id EA956C052F
+	for <mail@dorianvasco.de>; Wed, 31 Jan 2018 19:07:57 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=outlook.com;
+ s=selector1; h=From:Date:Subject:Message-ID:Content-Type:MIME-Version;
+ bh=CKucaFiWcpoddkXxyDNOxgDcOYmZcXC7ijoiQC0pq5g=;
+ b=BbPfybgoJ95/roJvdvIEqjlyAZpn18cLhMR+zut0F6tQ8KBirMcXjrvN/eeulwA0b6RTmMzdLGp5p0HyOYP2ymAFqW4xUUSHPPo9OzRd6xpjjsVEaH/pAdN991yBmxkJsxkEU+hd9LVruBHF7CXYwplJly7vlqW6NRvPzVcz4lIBXatAJjaFz7q+9FLZL7+ShuPjtVsTc1A56rQofKvBV9Z7mOeikqZbP1+uoPhdT9g/38py3HbjxvzK/zc6QprpDDCmsgPTbnckYl4GiVcgeqhye9yjrBpgHUv33Lpc7ZWKlyHlQ9zhnfwFoHwiao7fCEOv4a30Zdi6TNtD1nM5TA==
+Received: from SG2APC01FT116.eop-APC01.prod.protection.outlook.com
+ (10.152.250.54) by SG2APC01HT123.eop-APC01.prod.protection.outlook.com
+ (10.152.251.163) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id 15.20.444.13; Wed, 31
+ Jan 2018 18:08:01 +0000
+Received: from BM1PR01MB0995.INDPRD01.PROD.OUTLOOK.COM (10.152.250.52) by
+ SG2APC01FT116.mail.protection.outlook.com (10.152.250.216) with Microsoft
+ SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256_P256) id 15.20.444.13 via
+ Frontend Transport; Wed, 31 Jan 2018 18:08:00 +0000
+Received: from BM1PR01MB0995.INDPRD01.PROD.OUTLOOK.COM ([10.174.211.150]) by
+ BM1PR01MB0995.INDPRD01.PROD.OUTLOOK.COM ([10.174.211.150]) with mapi id
+ 15.20.0464.012; Wed, 31 Jan 2018 18:08:00 +0000
+From: Prben Singh <prbensinghseo@outlook.com>
+Subject: Proposal.....!!
+Thread-Topic: Proposal.....!!
+Thread-Index: AQHTmr5tJ9kY1ZYEqESwBakw2mUUGw==
+Date: Wed, 31 Jan 2018 18:08:00 +0000
+Message-ID: <BM1PR01MB09951F8E3E62A6E2690520F3B5FB0@BM1PR01MB0995.INDPRD01.PROD.OUTLOOK.COM>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-incomingtopheadermarker: OriginalChecksum:4583E30AC2946D5F220B426693018ADB85323C95D8C295129FA8C70246747E23;UpperCasedChecksum:D54717CE64F40877C1F20382A8920EDAE39DD4A49736DE64DD61BF1D1171144B;SizeAsReceived:13646;Count:42
+x-tmn: [yaYgdsMwRLmJXpYXUOTpRitMvcPeXjSg]
+x-ms-publictraffictype: Email
+x-microsoft-exchange-diagnostics: 1;SG2APC01HT123;6:vydTaGefUyunLAis843LwQHtU2A7rjPgK55gKNL8NgYwo6MOXO40UdtKwCgDgjFe6yY8LjEjBvU8PRrwhKG8HbarFDVg1qHRKJsmAAyznMe2BzTss/dFmMDXiW195xjitIsQcrzogGvz2VCn6W1qhmoDnzi+P9wO06Ht2EuMvkiQFwsMol82dysBB8WNr3romQQqBBu4cWc6Z5n2hdjxBl2barBltzOhEY+nzSYTspg90v9Z6tcX1sYsHWTW1NWZTWesLFGOFCtmbHJ0WnuKBW64qE66iPOnToryX741FpMMJir10rabURgcFF/GGY5OEVlI1qMDpeusI+a85OtJYcxUxg92SZMLjD7El3ybpok=;5:c7tD4B/QfOy7dqTha//9QC7Y5KnEzCW87Lftj2FPgwYZ0ySSY34RPGrPsUFk+jEHJ2G6i7wnNGNdBqq5aHTk2nlILHU6W+Jl8uC6iqIDzv6KT8d23i3gUqBFTu4NpBC/KxojEkCDeP9qYHsJixEny6md5jCdMgW/vZf+N611958=;24:OeEHYBnyrO9uJAJtsG/iACrAka7Ea5B5FeIOE9X0RuteK/eK2O2DIthpZBVCNItd1LWrjDP5cGTXVr/PxJo74xQS8B+Otln7b1gTJQqxlfs=;7:Xsq7BaR76O9lDYoTHiUl6b30xJ6Srs/zHhvgZUoPsJSZ/yIhoAQ9Lslti/TvfGsQmZs5dds2pu+vKbgKQfa0VyuqyVnzJlv92xMW3UoXbwinY3NxHzUcXaEdkliH/lnPVwLCWWGpJKhYPqmHXXKTN4qBhrKWf2GCa80TgCjvaqeoti8sFWBYtWlsO983/2uRraVfEuNteaoTt8yfjT4I4z/Vu0AxgdNGlAIGwF+IGJsKCBmdOd1YnC5mipeaB5bF
+x-incomingheadercount: 42
+x-eopattributedmessage: 0
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(7020095)(201702061074)(5061506573)(5061507331)(1603103135)(2017031320274)(2017031324274)(2017031323274)(2017031322404)(1603101448)(1601125374)(1701031045);SRVR:SG2APC01HT123;
+x-ms-traffictypediagnostic: SG2APC01HT123:
+x-ms-office365-filtering-correlation-id: 84496b73-98ff-404f-dd2e-08d568d5908a
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(444000031);SRVR:SG2APC01HT123;BCL:0;PCL:0;RULEID:;SRVR:SG2APC01HT123;
+x-forefront-prvs: 056929CBB8
+x-forefront-antispam-report: SFV:NSPM;SFS:(7070007)(98901004);DIR:OUT;SFP:1901;SCL:1;SRVR:SG2APC01HT123;H:BM1PR01MB0995.INDPRD01.PROD.OUTLOOK.COM;FPR:;SPF:None;LANG:;
+spamdiagnosticoutput: 1:99
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/alternative;
+	boundary="_000_BM1PR01MB09951F8E3E62A6E2690520F3B5FB0BM1PR01MB0995INDP_"
+MIME-Version: 1.0
+X-OriginatorOrg: outlook.com
+X-MS-Exchange-CrossTenant-Network-Message-Id: 84496b73-98ff-404f-dd2e-08d568d5908a
+X-MS-Exchange-CrossTenant-originalarrivaltime: 31 Jan 2018 18:08:00.4041
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Internet
+X-MS-Exchange-CrossTenant-id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: SG2APC01HT123
+
+--_000_BM1PR01MB09951F8E3E62A6E2690520F3B5FB0BM1PR01MB0995INDP_
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Hello,
+
+Hope you are well.
+
+We have a SEO Discount Offer going for the following package: -
+
+
+Monthly Task and responsibilities: -
+
+1.    10 Directory submissions
+
+2.    10 Social Book marking Submissions on High PR bookmarking sites
+
+3.    1 Article Submission on High PR Article Site (1 article of 450 words)
+
+4.    Article Promotion on 10 High PR Sites
+
+5.    1 Press Release Submission (1 press release of 500 words)
+
+6.    10 Search Engine Submissions per month
+
+7.    1 Blog creation of High PR blogging site
+
+8.    1 Blog Submission (1 blog of 300 words)
+
+9.    Blog Promotion on 10 high PR sites
+
+10.  10 Classified Submissions on high PR Classified sites (From 2nd month =
+onwards)
+
+11.   5 Video Submissions and Video Promotion (if provided by client)
+
+12. 1 PDF Creation and Submission to high PR PDF site.
+
+13. PDF Promotion on 10 High PR Sites
+
+14. 1 Business PPT Creation
+
+15.  PPT Submission on high PR PPT Sharing Sites
+
+16.  PPT Promotion on 10 High PR Sites
+
+17.  Image Sharing on high PR Image Sharing Sites (From 2nd month onwards)
+
+18.  Google Local Listing
+
+19.  Business Listing
+
+20. Website Analysis Report
+
+21. Keywords Analysis Report
+
+22. Competitor Analysis Report
+
+23. Heading Tag Optimization (H1 and H2 etc)
+
+24. Remove Canonical Issue
+
+25. Keyword Density Check
+
+26.  Title Tag Optimization
+
+27.  Meta Tag Optimization
+
+28. Keywords Tag Optimization
+
+29.  Image Alt Tag Optimization
+
+30.  Anchor Tag Optimization
+
+31.  Content Optimization
+
+32.  Robots.txt Optimization
+
+33.  XML site map and Submission in webmaster tool
+
+34.  HTML Site Map
+
+35.  Urllist.txt for Yahoo and Bing also
+
+36.  Set up Google Webmaster Tool
+
+37.  Set up Google Analytics Tool
+
+38.  Yahoo Webmaster Tool and Bing webmaster.
+
+39.  Facebook Profile Creation
+
+40.  Facebook Profile Promotion
+
+41.  Twitter Profile Creation
+
+42.  Twitter Profile Promotion
+
+43. PInterest Profile Creation
+
+44. PInterest Profile Promotion
+
+45. Google Plus Profile Creation
+
+46. Google Plus Profile Promotion
+
+47. SEO Recommendations Report
+
+Thanks
+Prben Singh
+Please let us know in case you are really interested. If possible please sh=
+are your website and keywords
+
+
+--_000_BM1PR01MB09951F8E3E62A6E2690520F3B5FB0BM1PR01MB0995INDP_
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+<style type=3D"text/css" style=3D"display:none;"><!-- P {margin-top:0;margi=
+n-bottom:0;} --></style>
+</head>
+<body dir=3D"ltr">
+<div id=3D"divtagdefaultwrapper" style=3D"font-size:12pt;color:#000000;font=
+-family:Calibri,Helvetica,sans-serif;" dir=3D"ltr">
+<p style=3D"margin-top:0;margin-bottom:0"></p>
+<div>Hello,</div>
+<div>&nbsp;</div>
+<div>Hope you are well.</div>
+<div>&nbsp;</div>
+<div>We have a SEO Discount Offer going for the following package: -</div>
+<div>&nbsp;</div>
+<div>&nbsp;</div>
+<div>Monthly Task and responsibilities: -</div>
+<div>&nbsp;</div>
+<div>1.&nbsp; &nbsp; 10 Directory submissions</div>
+<div>&nbsp;</div>
+<div>2.&nbsp; &nbsp; 10 Social Book marking Submissions on High PR bookmark=
+ing sites</div>
+<div>&nbsp;</div>
+<div>3.&nbsp; &nbsp; 1 Article Submission on High PR Article Site (1 articl=
+e of 450 words)</div>
+<div>&nbsp;</div>
+<div>4.&nbsp; &nbsp; Article Promotion on 10 High PR Sites</div>
+<div>&nbsp;</div>
+<div>5.&nbsp; &nbsp; 1 Press Release Submission (1 press release of 500 wor=
+ds)</div>
+<div>&nbsp;</div>
+<div>6.&nbsp; &nbsp; 10 Search Engine Submissions per month</div>
+<div>&nbsp;</div>
+<div>7.&nbsp; &nbsp; 1 Blog creation of High PR blogging site</div>
+<div>&nbsp;</div>
+<div>8.&nbsp; &nbsp; 1 Blog Submission (1 blog of 300 words)</div>
+<div>&nbsp;</div>
+<div>9.&nbsp; &nbsp; Blog Promotion on 10 high PR sites</div>
+<div>&nbsp;</div>
+<div>10.&nbsp; 10 Classified Submissions on high PR Classified sites (From =
+2nd month onwards)</div>
+<div>&nbsp;</div>
+<div>11.&nbsp; &nbsp;5 Video Submissions and Video Promotion (if provided b=
+y client)</div>
+<div>&nbsp;</div>
+<div>12. 1 PDF Creation and Submission to high PR PDF site.</div>
+<div>&nbsp;</div>
+<div>13. PDF Promotion on 10 High PR Sites</div>
+<div>&nbsp;</div>
+<div>14. 1 Business PPT Creation</div>
+<div>&nbsp;</div>
+<div>15.&nbsp; PPT Submission on high PR PPT Sharing Sites</div>
+<div>&nbsp;</div>
+<div>16.&nbsp; PPT Promotion on 10 High PR Sites</div>
+<div>&nbsp;</div>
+<div>17.&nbsp; Image Sharing on high PR Image Sharing Sites (From 2nd month=
+ onwards)</div>
+<div>&nbsp;</div>
+<div>18.&nbsp; Google Local Listing</div>
+<div>&nbsp;</div>
+<div>19.&nbsp; Business Listing</div>
+<div>&nbsp;</div>
+<div>20. Website Analysis Report</div>
+<div>&nbsp;</div>
+<div>21. Keywords Analysis Report</div>
+<div>&nbsp;</div>
+<div>22. Competitor Analysis Report</div>
+<div>&nbsp;</div>
+<div>23. Heading Tag Optimization (H1 and H2 etc)</div>
+<div>&nbsp;</div>
+<div>24. Remove Canonical Issue</div>
+<div>&nbsp;</div>
+<div>25. Keyword Density Check</div>
+<div>&nbsp;</div>
+<div>26.&nbsp; Title Tag Optimization</div>
+<div>&nbsp;</div>
+<div>27.&nbsp; Meta Tag Optimization</div>
+<div>&nbsp;</div>
+<div>28. Keywords Tag Optimization</div>
+<div>&nbsp;</div>
+<div>29.&nbsp; Image Alt Tag Optimization</div>
+<div>&nbsp;</div>
+<div>30.&nbsp; Anchor Tag Optimization</div>
+<div>&nbsp;</div>
+<div>31.&nbsp; Content Optimization</div>
+<div>&nbsp;</div>
+<div>32.&nbsp; Robots.txt Optimization</div>
+<div>&nbsp;</div>
+<div>33.&nbsp; XML site map and Submission in webmaster tool</div>
+<div>&nbsp;</div>
+<div>34.&nbsp; HTML Site Map</div>
+<div>&nbsp;</div>
+<div>35.&nbsp; Urllist.txt for Yahoo and Bing also</div>
+<div>&nbsp;</div>
+<div>36.&nbsp; Set up Google Webmaster Tool</div>
+<div>&nbsp;</div>
+<div>37.&nbsp; Set up Google Analytics Tool</div>
+<div>&nbsp;</div>
+<div>38.&nbsp; Yahoo Webmaster Tool and Bing webmaster.</div>
+<div>&nbsp;</div>
+<div>39.&nbsp; Facebook Profile Creation</div>
+<div>&nbsp;</div>
+<div>40.&nbsp; Facebook Profile Promotion</div>
+<div>&nbsp;</div>
+<div>41.&nbsp; Twitter Profile Creation</div>
+<div>&nbsp;</div>
+<div>42.&nbsp; Twitter Profile Promotion</div>
+<div>&nbsp;</div>
+<div>43. PInterest Profile Creation</div>
+<div>&nbsp;</div>
+<div>44. PInterest Profile Promotion</div>
+<div>&nbsp;</div>
+<div>45. Google Plus Profile Creation</div>
+<div>&nbsp;</div>
+<div>46. Google Plus Profile Promotion</div>
+<div>&nbsp;</div>
+<div>47. SEO Recommendations Report</div>
+<div><br>
+</div>
+<div>Thanks</div>
+<div>Prben Singh</div>
+<div>Please let us know in case you are really interested. If possible plea=
+se share your website and keywords</div>
+<br>
+<p></p>
+</div>
+</body>
+</html>
+
+--_000_BM1PR01MB09951F8E3E62A6E2690520F3B5FB0BM1PR01MB0995INDP_--

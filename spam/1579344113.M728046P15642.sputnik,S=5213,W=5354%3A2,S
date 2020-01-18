@@ -1,0 +1,141 @@
+Return-Path: <MAILER-DAEMON>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 975A1D285E
+	for <mail@dorianvasco.de>; Sat, 25 Feb 2017 13:15:16 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 5.309
+X-Spam-Level: *****
+X-Spam-Status: Yes, score=5.309 required=2 tests=[BAYES_50=0.8,
+	HTML_MESSAGE=0.001, PYZOR_CHECK=1.392, RCVD_IN_DNSWL_BLOCKED=0.001,
+	SPF_HELO_SOFTFAIL=0.732, T_TVD_MIME_NO_HEADERS=0.01,
+	URIBL_ABUSE_SURBL=1.25, URIBL_BLOCKED=0.001, URI_HEX=1.122]
+	autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.yourvserver.net [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 3vncpyIQLmox for <mail@dorianvasco.de>;
+	Sat, 25 Feb 2017 13:15:14 +0100 (CET)
+Received: from mig.tsb.2iij.net (mig1500.tsb.2iij.net [210.138.145.144])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id 443BED2AAB
+	for <kontakt@dorianvasco.de>; Sat, 25 Feb 2017 13:15:14 +0100 (CET)
+Received: by mig.tsb.2iij.net (tsb-mig1500) id v1PCFChH012235; Sat, 25 Feb 2017 21:15:12 +0900
+Received: TSB TSB-MI1402 from localhost (localhost)
+	id v1PCFCF2010272; Sat, 25 Feb 2017 21:15:12 +0900
+Date: Sat, 25 Feb 2017 21:15:12 +0900
+From: Mail Delivery Subsystem <MAILER-DAEMON@bounce.msg.2iij.net>
+Message-Id: <201702251215.v1PCFCF2010272@mi1402.tsb.2iij.net>
+To: <kontakt@dorianvasco.de>
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="v1PCFCF2010272.1488024912/mi1402.tsb.2iij.net"
+Subject: ***SPAM*** Returned mail: see transcript for details
+Auto-Submitted: auto-generated (failure)
+
+This is a MIME-encapsulated message
+
+--v1PCFCF2010272.1488024912/mi1402.tsb.2iij.net
+
+The original message was received at Sat, 25 Feb 2017 21:15:10 +0900
+from [200.8.46.14]
+
+   ----- The following addresses had permanent fatal errors -----
+<osada@toshiba-toac.co.jp>
+    (reason: 554 Denied [05571b85.0.20330.00-693.37421.mas1503.tsb.2iij.net] (Mode: normal))
+
+   ----- Transcript of session follows -----
+... while talking to tsb-mas-nrm.hop.2iij.net.:
+>>> DATA
+<<< 554 Denied [05571b85.0.20330.00-693.37421.mas1503.tsb.2iij.net] (Mode: normal)
+554 5.0.0 Service unavailable
+
+--v1PCFCF2010272.1488024912/mi1402.tsb.2iij.net
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; mi1402.tsb.2iij.net
+Received-From-MTA: DNS; [200.8.46.14]
+Arrival-Date: Sat, 25 Feb 2017 21:15:10 +0900
+
+Final-Recipient: RFC822; osada@toshiba-toac.co.jp
+Action: failed
+Status: 5.0.0
+Remote-MTA: DNS; tsb-mas-nrm.hop.2iij.net
+Diagnostic-Code: SMTP; 554 Denied [05571b85.0.20330.00-693.37421.mas1503.tsb.2iij.net] (Mode: normal)
+Last-Attempt-Date: Sat, 25 Feb 2017 21:15:12 +0900
+
+--v1PCFCF2010272.1488024912/mi1402.tsb.2iij.net
+Content-Type: message/rfc822
+
+Return-Path: <kontakt@dorianvasco.de>
+Authentication-Results: spf.tis.toshiba.co.jp; spf=none smtp.mailfrom=kontakt@dorianvasco.de;
+	 dkim=none; dkim-adsp=none header.From=kontakt@dorianvasco.de
+Received: TSB TSB-MI1402 from [200.8.46.14] ([200.8.46.14])
+	 for <osada@toshiba-toac.co.jp> id v1PCF3F2010233; Sat, 25 Feb 2017 21:15:10 +0900
+Message-ID: <4435B456F3C5D71160E103A690824435@WWU121RHR0>
+From: <kontakt@dorianvasco.de>
+To: <osada@toshiba-toac.co.jp>
+Subject: From International Company
+Date: 25 Feb 2017 02:57:03 -0500
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0026_01D28F3F.03F4A591"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.5931
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.5931
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0026_01D28F3F.03F4A591
+Content-Type: text/plain;
+	charset="cp-850"
+Content-Transfer-Encoding: quoted-printable
+
+Dear osada,
+
+We are looking for employees working remotely.
+
+My name is Christine, I am the personnel manager of a large =
+International company.
+Most of the work you can do from home, that is, at a distance.
+
+Salary is $2100-$5700.
+
+If you are interested in this offer, please visit=20
+Our Site
+
+Best regards!
+------=_NextPart_000_0026_01D28F3F.03F4A591
+Content-Type: text/html;
+	charset="cp-850"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META http-equiv=3DContent-Type content=3D"text/html; charset=3Dcp-850">
+<META content=3D"MSHTML 6.00.2900.6058" name=3DGENERATOR>
+<STYLE></STYLE>
+</HEAD>
+<BODY bgColor=3D#ffffff>
+Dear osada,<br>
+<br>
+We are looking for employees working remotely.<br>
+<br>
+My name is Christine, I am the personnel manager of a large =
+International company.<br>
+Most of the work you can do from home, that is, at a distance.<br>
+<b>Salary is $2100-$5700.</b><br>
+<br>
+If you are interested in this offer, please visit <a =
+href=3D"http://www.e-line.su/phpmyadmin/js/openlayers/theme/default/img/"=
+><b>Our Site</b></a><br>
+<br>
+Best regards!<br></BODY></HTML>
+------=_NextPart_000_0026_01D28F3F.03F4A591--
+
+
+
+--v1PCFCF2010272.1488024912/mi1402.tsb.2iij.net--
+

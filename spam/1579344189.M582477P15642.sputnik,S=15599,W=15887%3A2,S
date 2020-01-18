@@ -1,0 +1,288 @@
+Return-Path: <gaurav.websitesolution@outlook.com>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id A8F2FC16D2
+	for <mail@dorianvasco.de>; Wed, 27 Dec 2017 10:37:42 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: 1.098
+X-Spam-Level: *
+X-Spam-Status: No, score=1.098 required=5.5 tests=[DKIM_SIGNED=0.1,
+	DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1, FREEMAIL_FROM=0.001,
+	HTML_MESSAGE=0.001, MISSING_HEADERS=1.207, RCVD_IN_DNSWL_NONE=-0.0001,
+	SPF_HELO_PASS=-0.001, SPF_PASS=-0.001, T_RP_MATCHES_RCVD=-0.01,
+	URIBL_BLOCKED=0.001] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id uNnXYqOyCvaO for <mail@dorianvasco.de>;
+	Wed, 27 Dec 2017 10:37:41 +0100 (CET)
+Received: from IND01-MA1-obe.outbound.protection.outlook.com (mail-ma1ind01olkn0165.outbound.protection.outlook.com [104.47.100.165])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id E91D2C008C
+	for <mail@dorianvasco.de>; Wed, 27 Dec 2017 10:37:40 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=outlook.com;
+ s=selector1; h=From:Date:Subject:Message-ID:Content-Type:MIME-Version;
+ bh=IrcMkOLMs+7pWMRdmqFMPg0EcznV901JPdl7Tq2w6Ww=;
+ b=KKKzQwD4PAfVY5ETe+PAg/S9MPNm2Yl7+EEdOt64ZxkXd3JxwKohVFI7WHTldQmrnyUWkeTGJbAq6TZwtyiEEHiqHj6pWs7bsPIeDFNNsp13KgdiZVtahpHHdIsSe14eNGm+i3RGXmKocL2xM/Xu4FFMVBEvkebloZ5Evn5sH2GzcO1NszjtZ3YkErsmJVsintH2beAONXu8Kk4Rf7lNJWwGN0WgmpyIkPji7N1pYYTRRf+DZ9YIOs2WG1XdwjEpVMdAf0PS+UzBOzX0VlZ082gejS7IJjtJryvvJrDnO4zqVqtRwMoER5wbtUL6A4y1vE21aNS2DwftlCA0/KEA8w==
+Received: from MA1IND01FT005.eop-IND01.prod.protection.outlook.com
+ (10.152.200.60) by MA1IND01HT004.eop-IND01.prod.protection.outlook.com
+ (10.152.200.108) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id 15.20.302.6; Wed, 27
+ Dec 2017 09:36:50 +0000
+Received: from BM1PR0101MB1554.INDPRD01.PROD.OUTLOOK.COM (10.152.200.51) by
+ MA1IND01FT005.mail.protection.outlook.com (10.152.200.143) with Microsoft
+ SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256_P256) id 15.20.302.6 via
+ Frontend Transport; Wed, 27 Dec 2017 09:36:50 +0000
+Received: from BM1PR0101MB1554.INDPRD01.PROD.OUTLOOK.COM
+ ([fe80::51d:5ad2:23a6:4602]) by BM1PR0101MB1554.INDPRD01.PROD.OUTLOOK.COM
+ ([fe80::51d:5ad2:23a6:4602%13]) with mapi id 15.20.0345.017; Wed, 27 Dec 2017
+ 09:36:50 +0000
+From: Gaurav Sharma <gaurav.websitesolution@outlook.com>
+Subject: RE: SEO Proposal
+Thread-Topic: SEO Proposal
+Thread-Index: AQHTfvV6zqKVMhMVzk61KH3OtWPlZg==
+Date: Wed, 27 Dec 2017 09:36:49 +0000
+Message-ID: <BM1PR0101MB15542314177582D6DEB3FA8986070@BM1PR0101MB1554.INDPRD01.PROD.OUTLOOK.COM>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-incomingtopheadermarker: OriginalChecksum:27EBCE7A7DD267EF54CA5A0E944ED04B2AB49A59DDF71B65372D79375FC2A1A8;UpperCasedChecksum:DCC517AEDF33AD1D54234E527FAE3E2430811C0ADC04BBF76677489EAF7962B0;SizeAsReceived:17732;Count:42
+x-tmn: [pcQHikzSZGNd5aayNJFDSs8vnzBi4KAx]
+x-ms-publictraffictype: Email
+x-microsoft-exchange-diagnostics: 1;MA1IND01HT004;6:gmeZTKS2+P2c1ivfpAPP1WnSkpjOixoYQTJJ6+p9zbpMcrs1hqG3Q2Uj3N14MAml2n98Nf5pVpiRnyGGUFgbX3GpnP8piNhOzDghbe+6z4WE1zSFy/CAeTohh010s9oEoCkgeWbVMp4YRcGJr0/GuT9HHQ9aHo0xb/D1kSN1ltRbgIiM5pwDj7qbW+PjuflSTDhXqd5NWfpUgwPDksiLa4Km0Edb8YQnFP5rIypSVUZ0UpEKQT27z1v0JwyOXjKLwLZnMrLh3U8LhIysAYQqQ4edJ0nEiPgYtru6W3qAWQoKzbbfm5Fsicy6eXEx+OqqoNW9sQ4jJNVPj11ub6n07oE/IQbXK037pS2G1yWtq0Q=;5:xibVar8E4uQ+b3CmLXm6h3kOrFQkum5c5SKXb81jYnIo+JMH/0ELIEKNPPqXF7/qiW96y6JzE511ebt97puMkM2t+GwUZ9+F+Vku0KrlD32d5GVdhvVp7Cbe2aLpuhhnUM2PouYP7OFyABGTs6Add0v6kKqzayaipkM3Vv1X6oE=;24:rC1W9ySdsYeSkBKI+idCtRGV0BbkmtVTWvvfqWkvTvGDC9Na2G2T2uSWIISnulVKFVH11SYiYIvWxl5akgruvgvtSgaFAFINHj9ImnrrCeY=;7:ZrRwyaXJPVV/HACt1SmNuhC3U4gaVsW8cdz/6kf0oB1Fr4bIhClkpanaXOApZQ/eAO/VwmqExf1M0EqrGyRjdqVcDiGg+t3Z3WTEfTGq2Lxm0nvrJ1Mkfn8DbXm0mtTOwPtrub9DdG49MoH7cS9jGbSDuLeZJPA0uwMfQpeT+tngNBK2mfakL31zrVHePz4NR3MgTNmDeyUPQITod0x9SZTQHocYLIXSFUtC69YnbjY9MFDrpDRt7O9tFh28L8es
+x-incomingheadercount: 42
+x-eopattributedmessage: 0
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(201702061074)(5061506573)(5061507331)(1603103135)(2017031320274)(2017031324274)(2017031323274)(2017031322404)(1601125374)(1603101448)(1701031045);SRVR:MA1IND01HT004;
+x-ms-traffictypediagnostic: MA1IND01HT004:
+x-ms-office365-filtering-correlation-id: 10fcaab3-d9e3-4875-557b-08d54d0d5b16
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(444000031);SRVR:MA1IND01HT004;BCL:0;PCL:0;RULEID:(100000803101)(100110400095);SRVR:MA1IND01HT004;
+x-forefront-prvs: 0534947130
+x-forefront-antispam-report: SFV:NSPM;SFS:(7070007)(98901004);DIR:OUT;SFP:1901;SCL:1;SRVR:MA1IND01HT004;H:BM1PR0101MB1554.INDPRD01.PROD.OUTLOOK.COM;FPR:;SPF:None;LANG:;
+spamdiagnosticoutput: 1:99
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/alternative;
+	boundary="_000_BM1PR0101MB15542314177582D6DEB3FA8986070BM1PR0101MB1554_"
+MIME-Version: 1.0
+X-OriginatorOrg: outlook.com
+X-MS-Exchange-CrossTenant-Network-Message-Id: 10fcaab3-d9e3-4875-557b-08d54d0d5b16
+X-MS-Exchange-CrossTenant-originalarrivaltime: 27 Dec 2017 09:36:50.0115
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Internet
+X-MS-Exchange-CrossTenant-id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: MA1IND01HT004
+
+--_000_BM1PR0101MB15542314177582D6DEB3FA8986070BM1PR0101MB1554_
+Content-Type: text/plain; charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+Hello,
+
+I haven=92t heard back from you, just wondering if you are interested in ou=
+r services, because we didn=92t get any response from your end,
+
+Please let me know your view on the same,
+
+Kinds Regards,
+Gaurav
+
+Sent: Friday, Dec 22, 2017 3:51 AM
+Subject: SEO Proposal
+Hello,
+We can give you more enquiries and calls from their existing website.
+We operate an Indian based Web Promotion Agency. Our primary focus is to he=
+lp our customers achieve their internet marketing and web development goals=
+ by delivering cost effective web solutions at competitive prices.
+
+Our Key Areas:
+=B7 Search Engine Optimization.
+=B7 Social Media Marketing
+=B7 Video Marketing
+=B7 Web Design & Development
+=B7 Brand Development
+=B7 Competition Analysis & Project Planning
+
+Note: If you want response from us, you must reply this mail with your deta=
+iled requirements (1. Your website URL, 2. Keywords if, 3. Targeted locatio=
+n, 4. Nature of business=85etc.)
+Respectfully,
+Gaurav
+Business Development Manager
+ --------------------------------------------------------------------------=
+------------------------
+If you do not want further emails, Please reply with email address, we will=
+ de-list you.
+
+
+
+
+
+--_000_BM1PR0101MB15542314177582D6DEB3FA8986070BM1PR0101MB1554_
+Content-Type: text/html; charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DWindows-1=
+252">
+<style type=3D"text/css" style=3D"display:none;"><!-- P {margin-top:0;margi=
+n-bottom:0;} --></style>
+</head>
+<body dir=3D"ltr">
+<div id=3D"divtagdefaultwrapper" style=3D"font-size:12pt;color:#000000;font=
+-family:Calibri,Helvetica,sans-serif;" dir=3D"ltr">
+<p style=3D"margin-top:0;margin-bottom:0"></p>
+<p class=3D"MsoNormal" style=3D"margin-bottom:0in;margin-bottom:.0001pt"><s=
+pan style=3D"font-size:12.0pt;line-height:107%;font-family:&quot;Times New =
+Roman&quot;,serif">Hello,<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-bottom:0in;margin-bottom:.0001pt"><s=
+pan style=3D"font-size:12.0pt;line-height:107%;font-family:&quot;Times New =
+Roman&quot;,serif">&nbsp;<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-bottom:0in;margin-bottom:.0001pt"><s=
+pan style=3D"font-size:12.0pt;line-height:107%;font-family:&quot;Times New =
+Roman&quot;,serif">I haven=92t heard back from you, just wondering if you a=
+re interested in our services, because we didn=92t get
+ any response from your end,<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-bottom:0in;margin-bottom:.0001pt"><s=
+pan style=3D"font-size:12.0pt;line-height:107%;font-family:&quot;Times New =
+Roman&quot;,serif">&nbsp;<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-bottom:0in;margin-bottom:.0001pt"><s=
+pan style=3D"font-size:12.0pt;line-height:107%;font-family:&quot;Times New =
+Roman&quot;,serif">Please let me know your view on the same,<o:p></o:p></sp=
+an></p>
+<p class=3D"MsoNormal" style=3D"margin-bottom:0in;margin-bottom:.0001pt"><s=
+pan style=3D"font-size:12.0pt;line-height:107%;font-family:&quot;Times New =
+Roman&quot;,serif">&nbsp;<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-bottom:0in;margin-bottom:.0001pt"><s=
+pan style=3D"font-size:12.0pt;line-height:107%;font-family:&quot;Times New =
+Roman&quot;,serif">Kinds Regards,<o:p></o:p></span></p>
+<div style=3D"mso-element:para-border-div;border:none;border-bottom:solid w=
+indowtext 1.5pt;=0A=
+padding:0in 0in 1.0pt 0in">
+<p class=3D"MsoNormal" style=3D"margin-bottom:0in;margin-bottom:.0001pt;bor=
+der:none;=0A=
+mso-border-bottom-alt:solid windowtext 1.5pt;padding:0in;mso-padding-alt:0i=
+n 0in 1.0pt 0in">
+<span style=3D"font-size:12.0pt;line-height:107%;font-family:&quot;Times Ne=
+w Roman&quot;,serif"><b style=3D"font-family: Calibri, Helvetica, sans-seri=
+f, EmojiFont, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, No=
+toColorEmoji, &quot;Segoe UI Symbol&quot;, &quot;Android Emoji&quot;, Emoji=
+Symbols; font-size: 16px;"><span style=3D"font-size: 12pt; line-height: 17.=
+12px; font-family: Candara, sans-serif;">Gaurav</span></b><o:p></o:p></span=
+></p>
+<p class=3D"MsoNormal" style=3D"margin-bottom:0in;margin-bottom:.0001pt;bor=
+der:none;=0A=
+mso-border-bottom-alt:solid windowtext 1.5pt;padding:0in;mso-padding-alt:0i=
+n 0in 1.0pt 0in">
+<span style=3D"font-size:12.0pt;line-height:107%;font-family:&quot;Times Ne=
+w Roman&quot;,serif"><o:p>&nbsp;</o:p></span></p>
+</div>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;line-height:107%;fon=
+t-family:=0A=
+&quot;Times New Roman&quot;,serif">Sent: Friday, Dec 22, 2017 3:51 AM<o:p><=
+/o:p></span></p>
+<div style=3D"mso-element:para-border-div;border:none;border-bottom:solid w=
+indowtext 1.5pt;=0A=
+padding:0in 0in 1.0pt 0in">
+<p class=3D"MsoNormal" style=3D"border:none;mso-border-bottom-alt:solid win=
+dowtext 1.5pt;=0A=
+padding:0in;mso-padding-alt:0in 0in 1.0pt 0in">
+<span style=3D"font-size:12.0pt;=0A=
+line-height:107%;font-family:&quot;Times New Roman&quot;,serif">Subject: SE=
+O Proposal<b><o:p></o:p></b></span></p>
+</div>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;line-height:107%;fon=
+t-family:=0A=
+&quot;Candara&quot;,sans-serif">Hello,
+<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;line-height:107%;fon=
+t-family:=0A=
+&quot;Candara&quot;,sans-serif;color:#4472C4;mso-themecolor:accent5">We can=
+ give you more enquiries and calls from their existing website.
+<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;line-height:107%;fon=
+t-family:=0A=
+&quot;Candara&quot;,sans-serif">We operate an Indian based Web Promotion Ag=
+ency. Our primary focus is to help our customers achieve their internet mar=
+keting and web development goals by
+ delivering cost effective web solutions at competitive prices.<o:p></o:p><=
+/span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;line-height:107%;fon=
+t-family:=0A=
+&quot;Candara&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-size:12.0pt;line-height:107%;=
+font-family:&quot;Candara&quot;,sans-serif">Our Key Areas:<o:p></o:p></span=
+></b></p>
+<p class=3D"MsoNormal" style=3D"margin-bottom:0in;margin-bottom:.0001pt"><b=
+><span style=3D"font-size:12.0pt;line-height:=0A=
+107%;font-family:&quot;Candara&quot;,sans-serif">=B7 Search Engine Optimiza=
+tion.<o:p></o:p></span></b></p>
+<p class=3D"MsoNormal" style=3D"margin-bottom:0in;margin-bottom:.0001pt"><b=
+><span style=3D"font-size:12.0pt;line-height:=0A=
+107%;font-family:&quot;Candara&quot;,sans-serif">=B7 Social Media Marketing=
+<o:p></o:p></span></b></p>
+<p class=3D"MsoNormal" style=3D"margin-bottom:0in;margin-bottom:.0001pt"><b=
+><span style=3D"font-size:12.0pt;line-height:=0A=
+107%;font-family:&quot;Candara&quot;,sans-serif">=B7 Video Marketing<o:p></=
+o:p></span></b></p>
+<p class=3D"MsoNormal" style=3D"margin-bottom:0in;margin-bottom:.0001pt"><b=
+><span style=3D"font-size:12.0pt;line-height:=0A=
+107%;font-family:&quot;Candara&quot;,sans-serif">=B7 Web Design &amp; Devel=
+opment<o:p></o:p></span></b></p>
+<p class=3D"MsoNormal" style=3D"margin-bottom:0in;margin-bottom:.0001pt"><b=
+><span style=3D"font-size:12.0pt;line-height:=0A=
+107%;font-family:&quot;Candara&quot;,sans-serif">=B7 Brand Development<o:p>=
+</o:p></span></b></p>
+<p class=3D"MsoNormal" style=3D"margin-bottom:0in;margin-bottom:.0001pt"><b=
+><span style=3D"font-size:12.0pt;line-height:=0A=
+107%;font-family:&quot;Candara&quot;,sans-serif">=B7 Competition Analysis &=
+amp; Project Planning<o:p></o:p></span></b></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;line-height:107%;fon=
+t-family:=0A=
+&quot;Candara&quot;,sans-serif">&nbsp;<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;line-height:107%;fon=
+t-family:=0A=
+&quot;Candara&quot;,sans-serif">Note: If you want response from us, you mus=
+t reply this mail with
+<b><span style=3D"color:#4472C4;=0A=
+mso-themecolor:accent5">your detailed requirements (1. Your website URL, 2.=
+ Keywords if, 3. Targeted location, 4. Nature of business=85etc</span></b>.=
+)<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;line-height:107%;fon=
+t-family:=0A=
+&quot;Candara&quot;,sans-serif">Respectfully,<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-size:12.0pt;line-height:107%;=
+font-family:&quot;Candara&quot;,sans-serif">Gaurav<o:p></o:p></span></b></p=
+>
+<p class=3D"MsoNormal"><b><span style=3D"font-size:12.0pt;line-height:107%;=
+font-family:&quot;Candara&quot;,sans-serif">Business Development Manager<o:=
+p></o:p></span></b></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;line-height:107%;fon=
+t-family:=0A=
+&quot;Candara&quot;,sans-serif">&nbsp;-------------------------------------=
+-------------------------------------------------------------
+<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;line-height:107%;fon=
+t-family:=0A=
+&quot;Candara&quot;,sans-serif">If you do not want further emails, Please r=
+eply with email address, we will de-list you.<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"line-height: 115%; background-image: initia=
+l; background-">
+<span style=3D"font-size: 12pt; line-height: 115%; font-family: &quot;Times=
+ New Roman&quot;, serif;"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"line-height: 115%; background-image: initia=
+l; background-">
+<span style=3D"font-size: 12pt; line-height: 115%; font-family: &quot;Times=
+ New Roman&quot;, serif;"><o:p>&nbsp;</o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;line-height:107%;fon=
+t-family:=0A=
+&quot;Times New Roman&quot;,serif"><o:p>&nbsp;</o:p></span></p>
+<br>
+<p></p>
+</div>
+</body>
+</html>
+
+--_000_BM1PR0101MB15542314177582D6DEB3FA8986070BM1PR0101MB1554_--

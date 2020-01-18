@@ -1,0 +1,118 @@
+Return-Path: <jessicarosenberg@epineural.basileus.xyz>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id F3A22C4947
+	for <mail@dorianvasco.de>; Sun, 25 Aug 2019 04:24:07 +0200 (CEST)
+Authentication-Results: v22014122474822114.stilfilm.com; dkim=pass
+	reason="1024-bit key; insecure key"
+	header.d=epineural.basileus.xyz header.i=@epineural.basileus.xyz
+	header.b=XA1i2vqw; dkim-adsp=pass; dkim-atps=neutral
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: 4.341
+X-Spam-Level: ****
+X-Spam-Status: No, score=4.341 required=5.5 tests=[BAYES_20=-0.001,
+	DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	PYZOR_CHECK=1.392, SPF_HELO_NONE=0.001, SPF_PASS=-0.001,
+	TRACKER_ID=0.1, URIBL_ABUSE_SURBL=1.25, URIBL_BLACK=1.7] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id nKcqUiRfXDmM for <mail@dorianvasco.de>;
+	Sun, 25 Aug 2019 04:24:06 +0200 (CEST)
+Received: from mx.epineural.basileus.xyz (mx.epineural.basileus.xyz [134.209.80.210])
+	(using TLSv1.2 with cipher ADH-AES256-GCM-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id 47C28C4392
+	for <mail@dorianvasco.de>; Sun, 25 Aug 2019 04:24:04 +0200 (CEST)
+Received: from mx.epineural.basileus.xyz (mx.epineural.basileus.xyz [127.0.0.1])
+	by mx.epineural.basileus.xyz (Postfix) with ESMTP id 46GJq33HWnz225j
+	for <mail@dorianvasco.de>; Sun, 25 Aug 2019 02:23:59 +0000 (UTC)
+Authentication-Results: mx.epineural.basileus.xyz (amavisd-new);
+	dkim=pass (1024-bit key) reason="pass (just generated, assumed good)"
+	header.d=epineural.basileus.xyz
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=
+	epineural.basileus.xyz; h=content-transfer-encoding:content-type
+	:content-type:mime-version:message-id:x-mailer:user-agent
+	:reply-to:list-unsubscribe:subject:subject:to:from:from:date
+	:date; s=dkim; t=1566699839; x=1569291840; bh=99Jqm+9K1kwyD/TsJp
+	0ccdS5D0W00tNXmussq2fOwMA=; b=XA1i2vqwOcsnmbo+6XEUi7hzx5HjNmkTqA
+	PJ0A0fnd5E+jnMa5j7ePUUYLgip6LTHsmYg0fVsbq/zZcyd75rVi9PFWBJeEG7zb
+	r0PMzYm5z0R4J+QGt5idL3b/+qzMv0c5Jy9d9281n1nPm8p+VxwXI3CMtFp+1otY
+	ET8PoJgF0=
+X-Virus-Scanned: Debian amavisd-new at mx.epineural.basileus.xyz
+Received: from mx.epineural.basileus.xyz ([127.0.0.1])
+	by mx.epineural.basileus.xyz (mx.epineural.basileus.xyz [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id PndhK7l6fQY1 for <mail@dorianvasco.de>;
+	Sun, 25 Aug 2019 02:23:59 +0000 (UTC)
+Received: from [127.0.0.1] (mx.epineural.basileus.xyz [127.0.0.1])
+	by mx.epineural.basileus.xyz (Postfix) with ESMTP id 46GJbp47NQz22TK
+	for <mail@dorianvasco.de>; Sun, 25 Aug 2019 02:14:14 +0000 (UTC)
+Date: Sun, 25 Aug 2019 03:14:14 +0100
+From: "4LbTr4uM" <jessicarosenberg@epineural.basileus.xyz>
+To: mail@dorianvasco.de
+Subject: =?UTF-8?Q?Was=20zum=20Teufel=20machst=20du,=20P=C3=A4dophiler=3F?=
+List-Unsubscribe: <http://epineural.basileus.xyz/unsubscribe/Y29xR05JUnUzeUtQcUJLZmY3Q2o0K2l2L2U0andKMU9ZSk9Ic3kycXhCaEluMWE3SkFKTDNDbDhnRGFkdDRxcnk1azBTcDhxOVhISGFRSVZVRURBbElhSGxMY2hJNEJpK21zdzlCQjlBMjB3R1BGeHphOWpvWENzb09UeW5zYno=>
+Reply-To: <jessicarosenberg@epineural.basileus.xyz>
+User-Agent: CodeIgniter
+X-Sender: jessicarosenberg@epineural.basileus.xyz
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: <5d61eef66f4e3@epineural.basileus.xyz>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+WACH AUF, mail@dorianvasco.de!
+
+Glaubst du wirklich, dass es eine Art Witz war oder dass du mich ignorieren
+kannst?
+
+Ich kann sehen, was du tust, Pädo.
+
+Hör auf zu SHOPPEN und zu ficken, deine Zeit ist fast vorbei.
+Ja, ich weiß, was du am Samstag gemacht hast. Ich beobachte dich.
+
+Übrigens. schönes Auto du bist da .. ich frage mich, wie es mit großen
+'pädophilen' Aufklebern aussehen wird ..
+
+
+Weil du denkst, du bist schlauer und kannst mich ignorieren, poste ich die 4
+Videos, die ich mit dir aufgenommen habe und die gerade für Kinder
+masturbieren. Ich werde die von mir erworbenen Videos zusammen mit einigen
+Ihrer Daten in das Online-Forum hochladen. Ich bin sicher, sie werden es
+lieben, Sie in Aktion zu sehen, und Sie werden bald entdecken, was wir mit
+Pädophilen wie Ihnen machen.
+
+Wenn Sie diese Bitcoin-Adresse bis nächsten Freitag nicht mit 5,000 Euro
+finanzieren, werde ich Ihre Verwandten und jeden auf Ihren Kontaktlisten
+kontaktieren und ihnen Ihre Pädophilie-Aufzeichnungen zeigen.
+
+
+Der Bitcoin-Preis hat sich geändert, seitdem ich Sie das letzte Mal
+kontaktiert habe. Hier sind die neuen Überweisungsdetails:
+
+=====================================
+Senden Sie:
+
+0.55571542 BTC
+
+an diese Bitcoin-Adresse:
+
+3MkmmmSbYTcNh9ZirfKN966jVbAd34JduG
+
+=====================================
+
+Es gibt viele Orte, an denen Sie Bitcoin wie Bitstamp, Coinbase, Kraken usw.
+kaufen können. Registrieren Sie sich, validieren Sie Ihr Konto, kaufen Sie
+0.55571542 BTC und senden Sie es an meine Adresse -
+3MkmmmSbYTcNh9ZirfKN966jVbAd34JduG - kopieren Sie es und fügen Sie es ein.
+
+5,000 Euro = 0.55571542 BTC.
+
+Wenn du dich retten willst - handle besser schnell, denn jetzt bist du
+GEFICKT. Wir werden dich nicht alleine lassen und es gibt viele Leute in den
+Gruppen, die dein Leben wirklich schlecht machen, du verdammter Pädo.
+
+
+4LbTr4uM
+

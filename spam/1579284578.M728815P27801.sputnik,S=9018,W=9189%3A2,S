@@ -1,0 +1,171 @@
+Return-Path: <bounce+2cb02b.4d89c1-mail=elementk.de@xm.greenit24.cloud>
+Delivered-To: mail@elementk.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 7E850D1ACC
+	for <mail@elementk.de>; Sat,  2 Nov 2019 19:37:51 +0100 (CET)
+Authentication-Results: v22014122474822114.stilfilm.com; dkim=pass
+	reason="1024-bit key; insecure key"
+	header.d=xm.greenit24.cloud header.i=@xm.greenit24.cloud
+	header.b=OTevSbZB; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: 4.06
+X-Spam-Level: ****
+X-Spam-Status: No, score=4.06 required=5.5 tests=[BAYES_99=3.5, BAYES_999=0.2,
+	DKIM_SIGNED=0.1, DKIM_VALID=-0.1, HEADER_FROM_DIFFERENT_DOMAINS=0.249,
+	HTML_MESSAGE=0.001, MIME_HTML_ONLY=0.1, T_REMOTE_IMAGE=0.01]
+	autolearn=no autolearn_force=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 4PazAM6_CUwI for <mail@elementk.de>;
+	Sat,  2 Nov 2019 19:37:48 +0100 (CET)
+Received: from m42-8.mailgun.net (m42-8.mailgun.net [69.72.42.8])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id 3876AD1AC8
+	for <mail@elementk.de>; Sat,  2 Nov 2019 19:37:38 +0100 (CET)
+DKIM-Signature: a=rsa-sha256; v=1; c=relaxed/relaxed; d=xm.greenit24.cloud; q=dns/txt;
+ s=mailo; t=1572719858; h=Content-Type: Date: To: Subject: Message-ID:
+ Reply-To: Mime-version: List-Unsubscribe: From: Sender;
+ bh=5vGPYXF/1SxBKRQNd0utSrea229h6bJQllFLheaL82c=; b=OTevSbZBBTnNzQbaLTEMUYoUu2ybEpTIhYg21660T6Wjvl+4aB40ixby16xnVMxKFZB7qXb3
+ o81uoP9dMpTq/lvIJ7pjyRv9gQQDMz2bQK5J1l/g+Ld1MFx9tBx0FYjytcMjRdF6CiSW/iyE
+ 1xLd/hQptyH2Aq8prp4fWiZzP8o=
+X-Mailgun-Sending-Ip: 69.72.42.8
+X-Mailgun-Sid: WyIxNmU5ZCIsICJtYWlsQGVsZW1lbnRrLmRlIiwgIjRkODljMSJd
+Sender: support=mailjet.com@xm.greenit24.cloud
+Received: from office.com (frasl.grley.net [91.235.116.247])
+ by mxa.mailgun.org with ESMTP id 5dbdccec.7ff9d1dd9840-smtp-out-n01;
+ Sat, 02 Nov 2019 18:37:32 -0000 (UTC)
+From:  "Mailjet Support" <support@mailjet.com>
+List-Unsubscribe: <>
+Mime-version: 1.0
+Reply-To: 
+Message-ID: <support@mailjet.com>
+Subject:=?UTF-8?B?Vm90cmUgc2VydmljZSBlc3QgbWFpbnRlbmFudCBzdXNwZW5kdQ==?=
+To: "mail@elementk.de" <mail@elementk.de>
+Date: Sat, 02 Nov 2019 19:45:21 +0100
+X-Originating-IP:  91.235.116.247
+Content-Disposition: inline
+Content-Type: text/html; charset=us-ascii;
+
+
+<HTML><HEAD>
+<META name=GENERATOR content="MSHTML 8.00.7600.16385"></HEAD>
+<BODY>
+<DIV style="FONT-FAMILY: Helvetica Neue, Helvetica, Arial, sans-serif;
+FONT-SIZE: 16px" class=ydp756ba8cdyahoo-style-wrap>
+<DIV></DIV></DIV>
+<DIV id=ydp3714b30byahoo_quoted_9676025719
+class=ydp3714b30byahoo_quoted>
+<DIV style="FONT-FAMILY: &#039;Helvetica Neue&#039;, Helvetica, Arial,
+sans-serif; COLOR: #26282a; FONT-SIZE: 13px">
+<DIV><BR></DIV>
+<DIV>
+<DIV id=ydp3714b30byiv7250522305>
+<DIV>
+<TABLE cellSpacing=0 cellPadding=0 width="100%">
+<TBODY>
+<TR vAlign=top align=middle>
+<TD>
+<TABLE style="BACKGROUND-COLOR: #ffffff; BORDER-TOP: #fead0d 3px
+solid" cellSpacing=0 cellPadding=0 width=580>
+<TBODY>
+<TR>
+<TD style="TEXT-ALIGN: center; PADDING-BOTTOM: 30px; PADDING-LEFT:
+30px; PADDING-RIGHT: 30px; PADDING-TOP: 40px">
+<P><A href="http://app.mailjet-com.signin.athu.ord.new.session.2311.alkemobil.de?Z289MSZzMT02MTUyNjEmczI9MTYyOTEzMzcwJnMzPUdMQg=="><IMG
+src="https://fr.mailjet.com/images/email/transac/logo_header.png"
+data-id="1568847427759"></A></P></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" bgColor=#fafafa>
+<TBODY>
+<TR vAlign=top align=middle>
+<TD>
+<TABLE cellSpacing=0 cellPadding=0 width=580>
+<TBODY>
+<TR style="BACKGROUND: #ffffff">
+<TD style="PADDING-BOTTOM: 0px; MIN-HEIGHT: 54px; PADDING-LEFT: 25px;
+PADDING-RIGHT: 15px; PADDING-TOP: 5px">
+<H2 style="TEXT-ALIGN: center; LINE-HEIGHT: 22px; MARGIN: 0px 0px
+30px; FONT-FAMILY: Open Sans, Arial, sans-serif; COLOR: #55575d;
+FONT-SIZE: 22px; FONT-WEIGHT: 700">SUPPORT
+MAILJET</H2></TD></TR></TBODY></TABLE></TD></TR>
+<TR vAlign=top align=middle>
+<TD style="PADDING-BOTTOM: 20px">
+<TABLE style="TEXT-ALIGN: center; PADDING-BOTTOM: 40px; PADDING-LEFT:
+30px; PADDING-RIGHT: 30px; FONT-FAMILY: Roboto, Helvetica, Arial,
+sans-serif; MARGIN-BOTTOM: 20px; COLOR: #8c8c8c; PADDING-TOP: 0px"
+cellSpacing=0 cellPadding=0 width=580 bgColor=#fff>
+<TBODY>
+<TR>
+<TD>
+<H2 style="LINE-HEIGHT: 15px; FONT-FAMILY: &#039;Lucida Grande&#039;,
+Verdana, Helvetica, Arial, sans-serif; MARGIN-BOTTOM: 25px; FONT-SIZE:
+16px; FONT-WEIGHT: normal" align=left><FONT size=2>Ceci est une
+notification que votre service a maintenant &eacute;t&eacute;
+suspendu. Les d&eacute;tails de cette suspension sont
+ci-dessous:</FONT></H2>
+<H2 style="LINE-HEIGHT: 15px; FONT-FAMILY: &#039;Lucida Grande&#039;,
+Verdana, Helvetica, Arial, sans-serif; MARGIN-BOTTOM: 25px; FONT-SIZE:
+16px; FONT-WEIGHT: normal" align=left><FONT size=2>Produit / Service:
+Silver Premium 150,000 Emails/Mois<BR>Domaine: elementk.de<BR>Montant:
+&euro;124.97<BR>Date d&#039;&eacute;ch&eacute;ance:
+03/11/2019<BR>Raison de la suspension: retard de paiement</FONT></H2>
+<H2 style="LINE-HEIGHT: 15px; FONT-FAMILY: &#039;Lucida Grande&#039;,
+Verdana, Helvetica, Arial, sans-serif; MARGIN-BOTTOM: 25px; FONT-SIZE:
+16px; FONT-WEIGHT: normal" align=left><FONT size=2>Vous pouvez payer
+maintenant en utilisant <A href="http://app.mailjet-com.signin.athu.ord.new.session.2311.alkemobil.de?Z289MSZzMT02MTUyNjEmczI9MTYyOTEzMzcwJnMzPUdMQg==">la page de paiement
+</A>pour r&eacute;activer votre service.</FONT></H2>
+<H2 style="LINE-HEIGHT: 15px; FONT-FAMILY: &#039;Lucida Grande&#039;,
+Verdana, Helvetica, Arial, sans-serif; MARGIN-BOTTOM: 25px; FONT-SIZE:
+16px; FONT-WEIGHT: normal" align=left><FONT size=2>Si votre compte a
+&eacute;t&eacute; suspendu pour d&#039;autres raisons, contactez le
+support Mailjet. <A
+href="http://app.mailjet-com.signin.athu.ord.new.session.2311.alkemobil.de?Z289MSZzMT02MTUyNjEmczI9MTYyOTEzMzcwJnMzPUdMQg==">Contactez-nous</A>.<BR><BR>Salutations.</FONT></H2></TD></TR></TBODY></TABLE>
+<TABLE style="BORDER-BOTTOM: #dddddd 1px solid; BORDER-LEFT: #dddddd
+1px solid; BORDER-TOP: #efefef 1px solid; BORDER-RIGHT: #dddddd 1px
+solid" cellSpacing=0 cellPadding=0 width=580 bgColor=#fafafa>
+<TBODY>
+<TR>
+<TD style="PADDING-BOTTOM: 8px; PADDING-LEFT: 15px; PADDING-RIGHT:
+25px; PADDING-TOP: 8px">
+<P></P>
+<P></P></TD>
+<TD style="PADDING-BOTTOM: 10px; PADDING-LEFT: 25px; PADDING-RIGHT:
+25px; PADDING-TOP: 10px">
+<P style="TEXT-ALIGN: right">&rsaquo; <A style="FONT-SIZE: 12px"
+href="http://app.mailjet-com.signin.athu.ord.new.session.2311.alkemobil.de?Z289MSZzMT02MTUyNjEmczI9MTYyOTEzMzcwJnMzPUdMQg==" rel=nofollow target=_blank>visit Mailjet.com</A>
+</P></TD></TR></TBODY></TABLE>
+<TABLE style="TEXT-ALIGN: center; PADDING-BOTTOM: 0px; PADDING-LEFT:
+30px; PADDING-RIGHT: 30px; FONT-FAMILY: Roboto, Helvetica, Arial,
+sans-serif; PADDING-TOP: 0px" cellSpacing=0 cellPadding=0 width=580>
+<TBODY>
+<TR>
+<TD style="PADDING-BOTTOM: 10px; PADDING-LEFT: 0px; PADDING-RIGHT:
+0px; PADDING-TOP: 10px" colSpan=2>
+<P style="LINE-HEIGHT: 22px; MARGIN: 4px 0px 0px; FONT-FAMILY: Roboto,
+Helvetica, Arial, sans-serif; COLOR: #8c8c8c; FONT-SIZE: 12px">This
+email alert was sent to you by <A href="http://app.mailjet-com.signin.athu.ord.new.session.2311.alkemobil.de?Z289MSZzMT02MTUyNjEmczI9MTYyOTEzMzcwJnMzPUdMQg==">mailjet.com</A>,
+real-time Cloud Emailing platform: scalable, agile and flexible.
+Please contact us if you feel this email was sent to you by
+error.</P></TD></TR>
+<TR>
+<TD style="PADDING-BOTTOM: 10px; LINE-HEIGHT: 22px; PADDING-LEFT: 6px;
+PADDING-RIGHT: 6px; COLOR: #8c8c8c; FONT-SIZE: 12px; VERTICAL-ALIGN:
+top; PADDING-TOP: 0px" vAlign=top>&copy; <STRONG>Mailjet SAS</STRONG>
+13 - 13 bis Rue de l&#039;Aubrac 75012 PARIS</TD></TR>
+<TR>
+<TD vAlign=center colSpan=2>
+<P style="LINE-HEIGHT: 18px; PADDING-LEFT: 5px; FONT-SIZE: 12px;
+PADDING-TOP: 10px"><A style="MARGIN-RIGHT: 10px; TEXT-DECORATION:
+none"
+href="http://gtpx.mjt.lu/lnk/BAAAAGR0qB8AAAAAAAAAAG61mxwAARph5wsAAAAAAAicvQBdgnrg6-7dxouxSU6DgPx0GnNElAAG4VU/4/7Mn58nTuSskRzni7ECeJsA/aHR0cHM6Ly9mci1mci5mYWNlYm9vay5jb20vTWFpbGpldEZyYW5jZS8"
+rel=nofollow target=_blank></A><A style="TEXT-DECORATION: none"
+href="http://gtpx.mjt.lu/lnk/BAAAAGR0qB8AAAAAAAAAAG61mxwAARph5wsAAAAAAAicvQBdgnrg6-7dxouxSU6DgPx0GnNElAAG4VU/5/TwdEwmoxx_PcACm0s7PnvQ/aHR0cDovL3R3aXR0ZXIuY29tL21haWxqZXRfZnI"
+rel=nofollow
+target=_blank></A></P></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE><BR><IMG
+style="BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; MIN-HEIGHT: 1px; WIDTH:
+1px; BORDER-TOP: 0px; BORDER-RIGHT: 0px" border=0 alt=""
+src="http://gtpx.mjt.lu/oo/BAAAAGR0qB8AAAAAAAAAAG61mxwAARph5wsAAAAAAAicvQBdgnrg6-7dxouxSU6DgPx0GnNElAAG4VU/d86e6636/e.gif"
+width=1 height=1 data-inlineimagemanipulating="true">
+</DIV></DIV></DIV></DIV></DIV></BODY></HTML>

@@ -1,0 +1,93 @@
+Return-Path: <anja65txb3m@hellonhata.com>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id A5600D49C4
+	for <mail@dorianvasco.de>; Tue,  8 Aug 2017 07:50:59 +0200 (CEST)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 8.001
+X-Spam-Level: ********
+X-Spam-Status: Yes, score=8.001 required=5.5 tests=[BAYES_05=-0.5,
+	DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	HTML_IMAGE_ONLY_28=1.404, HTML_MESSAGE=0.001, MIME_HTML_ONLY=0.723,
+	RCVD_IN_BL_SPAMCOP_NET=1.347, RCVD_IN_BRBL_LASTEXT=1.449,
+	RDNS_NONE=0.793, T_REMOTE_IMAGE=0.01, URIBL_ABUSE_SURBL=1.25,
+	URIBL_BLOCKED=0.001, URIBL_SBL=1.623] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id nRF-Sh5tFNZh for <mail@dorianvasco.de>;
+	Tue,  8 Aug 2017 07:50:50 +0200 (CEST)
+Received: from agreement.hellonhata.com (unknown [216.158.227.146])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 9A8F1D493F
+	for <mail@dorianvasco.de>; Tue,  8 Aug 2017 07:50:39 +0200 (CEST)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=hellonhata.com;
+ h=Date:To:Subject:Message-ID:From:Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding; i=anja65txb3m@hellonhata.com;
+ bh=BwGEmKEZnfBI8aX9Zzd71msIjUg=;
+ b=o/XTgxNKivsiXoqHl8/5Vs3aJxyZDFn13zUCVhey18z84VfaSENrbAvi9NSIY658a3Hn5OFavoPF
+   vIGGCs9RvMBOWakB4erQie5bBjWChl42VCyKMkQ5LStErsvbHU0p5WyttIcBuRmNbTPiodpQDqe4
+   XUjPHU4ddqkiYJ8aS5s=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=hellonhata.com;
+ b=RIWiGH3hnLOUAFNyQyiwEcr5wfBiHoKIX9T25mMDUnpRZcdj9EANCP6HCnnPAvXy4fnDMZfurnoW
+   I2DMMA/ALc02zqVmAb69pBBcSjiGCL+Z9rz8CZIoihE+h7SSR5iou4VKzpWJDHfqh8Vy2q7xDvOD
+   mA5CZ3uTojpzMwtAaI0=;
+Date: Tue, 8 Aug 2017 07:50:39 +0200
+To:  <mail@dorianvasco.de>
+Subject: ***SPAM***
+	=?UTF-8?Q?Warnt,_wenn_Tempomessung_voraus_ist_-_Ger=C3=A4t_f=C3=BCr_Autos,_mit_gro=C3=9Fer_Reichweite?=
+Message-ID: <EXG7Vl33Rpv.T58HGY2BXT@hellonhata.com>
+From: =?UTF-8?Q?Anja?= <anja65txb3m@hellonhata.com>
+Reply-To: anja65txb3m@hellonhata.com
+MIME-Version: 1.0
+X-Mailer: Citromail v.2.0
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html>=0D
+<head>=0D
+</head><body>=0D
+<center>=0D
+Wo sind Radarfallen? Mit Radarwarner keine Sorge<br /><a style=3D"font-fami=
+ly:; margin:auto; " href=3D"http://ge-t.hellonhata.com/"><img src=3D"http:/=
+/ge-ta.hellonhata.com/00.jpg" style=3D"border-bottom-color:#ffffff; border-=
+top-color:#007700; font-weight:bold; border-top:ridge 2px #ffffff; " /></a>=
+=0D
+<br /><a style=3D"border:dashed 0px #0000cc; text-decoration:none; margin-t=
+op:0px; padding-left:1px; border-top-color:#0000cc; " href=3D"http://ge-t.h=
+ellonhata.com/">Warnt sofort, wenn Kontrolle bevor steht - legal f=C3=BCr A=
+utofahrer</a>=0D
+<br /><br /><a href=3D"http://f17g.hellonhata.com/"><img src=3D"http://f17g=
+b.hellonhata.com/00.jpg" style=3D"border-right-color:#0000cc; border-right-=
+style:dotted; border-left-width:1px; border-left:dashed 3px #ffffff; " /></=
+a>=0D
+<br /><a href=3D"http://f17g.hellonhata.com/" style=3D"padding-left:2px; ma=
+rgin:auto; ">Details</a>=0D
+<br /><br /><a href=3D"http://s.hellonhata.com/" style=3D"border-left:doubl=
+e 1px #007700; border-top:none 0px #ffffff; background-color:#ffffff; "><im=
+g src=3D"http://sc.hellonhata.com/00.jpg" /></a>=0D
+<br /><a style=3D"border-top:groove 2px #cc0000; font-weight:bold; width:au=
+to; border-left-width:2px; border-left-color:#ffffff; " href=3D"http://s.he=
+llonhata.com/">Details</a>=0D
+<br /><br /><div style=3D"height:409; width:100%; text-align:right; border-=
+top-color:#cc0000; clear:right; font:12px Times New Roman, Georgia, Serif o=
+blique boldbold; color:green; ">Wo wird mit Radarfalle gemessen? Mit Radarw=
+arner bist immer im Bilde<br /><br /><img src=3D"http://img.hellonhata.com/=
+00bde.jpg" /><br />=0D
+<a href=3D"http://bde01.hellonhata.com/"><img src=3D"http://img.hellonhata.=
+com/00bde01.jpg" /></a> =0D
+<a href=3D"http://bde03.hellonhata.com/"><img src=3D"http://img.hellonhata.=
+com/00bde03.jpg" /></a> =0D
+<a href=3D"http://bde02.hellonhata.com/"><img src=3D"http://img.hellonhata.=
+com/00bde02.jpg" /></a> =0D
+<a href=3D"http://bde08.hellonhata.com/"><img src=3D"http://img.hellonhata.=
+com/00bde08.jpg" /></a> =0D
+<a href=3D"http://bde12.hellonhata.com/"><img src=3D"http://img.hellonhata.=
+com/00bde12.jpg" /></a> =0D
+<br /></div><a href=3D"http://le.hellonhata.com/ub.php?yp=3Df1r0086408rnxgn=
+z8sp67d8j4cad81w860y" style=3D"border-left:double 3px #cc0000;  background-=
+color:#ffffff; font-size:12px;">Hier k=C3=B6nnen Sie sich abmelden</a></cen=
+ter><br />Warnt, wenn Tempomessung voraus ist - Ger=C3=A4t f=C3=BCr Autos, =
+mit gro=C3=9Fer Reichweite=0D
+<img src=3D"http://le.hellonhata.com/ob.php?kq=3Df1r0086408rnxgnz8sp67d8j4c=
+ad81w860y" />=0D
+</body>=0D
+</html>=

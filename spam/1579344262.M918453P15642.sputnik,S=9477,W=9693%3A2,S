@@ -1,0 +1,216 @@
+Return-Path: <mnr9@fcsptc.org>
+Delivered-To: mail@stilfilm.com
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id BE3E6C3F8B
+	for <mail@stilfilm.com>; Mon,  7 May 2018 09:32:47 +0200 (CEST)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 6.047
+X-Spam-Level: ******
+X-Spam-Status: Yes, score=6.047 required=5.5 tests=[DIGEST_MULTIPLE=0.001,
+	DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	HTML_MESSAGE=0.001, PYZOR_CHECK=1.985, RAZOR2_CF_RANGE_51_100=2.43,
+	RAZOR2_CHECK=1.729, RCVD_IN_DNSWL_NONE=-0.0001, URIBL_BLOCKED=0.001]
+	autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 3N7qrDhRfA4Q for <mail@stilfilm.com>;
+	Mon,  7 May 2018 09:32:39 +0200 (CEST)
+Received: from mail-ua0-f193.google.com (mail-ua0-f193.google.com [209.85.217.193])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id 4F39DC0D4D
+	for <mail@stilfilm.com>; Mon,  7 May 2018 09:32:37 +0200 (CEST)
+Received: by mail-ua0-f193.google.com with SMTP id h15so17751482uan.11
+        for <mail@stilfilm.com>; Mon, 07 May 2018 00:38:01 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=fcsptc.org; s=google;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=gaBz/5JUChGgVp9FjuqxRLnVfbIwfqSusCqsKsr+XCo=;
+        b=msa/G0W5VXFTkMCl5nTGQryo6k4QjuSH7mdgK6S0ctOwx3jn5XEYZHzQkklHQy3puF
+         n8QlqobM8PZL9w38SEnYTTuGv/UyRd+rJJEdEAjLlVeB6rH7lsaxd+yzhFr0iI3mz1Ni
+         s56O0LmgawVsGmLRVIeMNhe+/92lKp9yL9A9mtscLd+EI/Gfw8ZvnrHw56q81zHbXAcJ
+         Kib0n846uOZGJ8fZkePysZ6QwhMEm2gv0KLpdk7J1rETHtPID3j/xSblUBcJTpiS1BB9
+         RO9rKw6VFFb8rhw5j7+HpSHuwmEZA7pI4xVEtzvxs88uIaKPR3DzJBAZppZeGhw+0mld
+         kXPQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=gaBz/5JUChGgVp9FjuqxRLnVfbIwfqSusCqsKsr+XCo=;
+        b=lXUMx1LBVoFU53aeCDQeZdirHX9AIUxTH/cTlGe+qV5VzvA97vPJmfS2I0cMfgQnC6
+         twvRyHl9doQIYsOwzyEF7OXOc1WFunrfYs/SZEz/KRVzqmy4OneZglZW/lhgsdwPmipJ
+         bRlzlMgANH9ajwB3BVuQfL8y5REYpbTh7Tjc7GiULQmpyPzw2n4OENbJjd6UzbETSEsY
+         t/VLIxwCI3iSPwb0ysnUu1D7eCX3GHd21KPoWwcYpj8GpOHVx7Gyzh0fU18dB04rUn+5
+         lpDhB+T+l46P0HmzQzxZWKxYF0V+Wf6XhNH5ab7AVAV3Oi15IHi5DnPPxt+NbGNBbWIG
+         XJKA==
+X-Gm-Message-State: ALQs6tBUmcHirdgsWq/aqKzEyKdV5E/38DWOD5b32bB2w8ELn3GUxQho
+	aZO50tT8t2w+u+v892/uWGl/QBnB6JPug9VO3umA0zlNj0Yy1rRZbykSrRPaq8nBGJRk/LFG2ZI
+	EVDRUbR+HGKW8re8vugw=
+X-Google-Smtp-Source: AB8JxZrc4QxF6DCaM4uLykYyrxHLeWrRDprCErV5Z9iYMGehPZTgSJAdckiImNtDF4u3IDPz8fe04zBWfB6DpD22JBg=
+X-Received: by 10.176.90.114 with SMTP id m47mr14060449uad.37.1525678679764;
+ Mon, 07 May 2018 00:37:59 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 10.176.10.148 with HTTP; Mon, 7 May 2018 00:37:59 -0700 (PDT)
+From: Bhaskar L <mnr9@fcsptc.org>
+Date: Mon, 7 May 2018 13:07:59 +0530
+Message-ID: <CAEdUuEOPPF9PSofZ6zf9KSaUQDURDxmTat789xJ8YiYCmjVKNA@mail.gmail.com>
+Subject: 
+To: icntet@icntet.org
+Content-Type: multipart/alternative; boundary="001a11451514bfd077056b98bf25"
+
+--001a11451514bfd077056b98bf25
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Dear-Scholar (IEEE-Approved Conference),
+
+
+
+G.R.T Institute of Engineering and Technology welcomes you to participate
+in =E2=80=9C*International Conference on New Trends in Engineering & Techno=
+logy*=E2=80=9D
+during 7th and 8th Sept. 2018 in near to Chennai, Tamil Nadu, India.
+
+
+
+All accepted papers will be submitted for inclusion in IEEE Xplore Digital
+Library, and also submitted to SCOPUS for possible indexing.
+
+
+
+*Last date of paper submission extended to 15th May 2018.*
+
+
+
+Note*:Authors can also utilize the online presentation.
+
+
+
+*Conference-Details @:* http://wyon.de/WUN8i1t
+
+--=20
+*Disclaimer: =C2=A0*This email and any file(s) transmitted with it are=20
+confidential and intended solely for the use of the individual or entity to=
+=20
+whom they are addressed. This message contains confidential information and=
+=20
+is intended only for the individual named. If you are not the named=20
+addressee you should not disseminate, distribute or copy this e-mail.If you=
+=20
+are not the intended recipient you are notified that disclosing, copying,=
+=20
+distributing or taking any action in reliance on the contents of this=20
+information is strictly prohibited.=C2=A0
+
+--001a11451514bfd077056b98bf25
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt;text-align:justify;=
+line-height:115%;font-size:11pt;font-family:Calibri,sans-serif"><span style=
+=3D"font-family:Cambria,serif;color:red;background:aqua">Dear-Scholar
+(IEEE-Approved Conference),</span><span style=3D"font-family:Cambria,serif;=
+color:red"><span></span></span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt;text-align:justify;=
+line-height:115%;font-size:11pt;font-family:Calibri,sans-serif"><span style=
+=3D"font-family:Cambria,serif"><span>=C2=A0</span></span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt;text-align:justify;=
+line-height:115%;font-size:11pt;font-family:Calibri,sans-serif"><span style=
+=3D"font-family:Cambria,serif">G.R.T Institute of Engineering and Technolog=
+y welcomes you to
+participate in =E2=80=9C<b><i>International Conference on New Trends in Eng=
+ineering &amp; Technology</i></b>=E2=80=9D
+during 7<sup>th</sup> and 8<sup>th</sup> Sept. 2018 in near to Chennai, Tam=
+il
+Nadu, India. <span></span></span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt;text-align:justify;=
+line-height:115%;font-size:11pt;font-family:Calibri,sans-serif"><span style=
+=3D"font-family:Cambria,serif"><span>=C2=A0</span></span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt;text-align:justify;=
+line-height:115%;font-size:11pt;font-family:Calibri,sans-serif"><span style=
+=3D"font-family:Cambria,serif">All accepted papers will be submitted for in=
+clusion in IEEE Xplore
+Digital Library, and also submitted to SCOPUS for possible indexing. <span>=
+</span></span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt;text-align:justify;=
+line-height:115%;font-size:11pt;font-family:Calibri,sans-serif"><span style=
+=3D"font-family:Cambria,serif;color:red"><span>=C2=A0</span></span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt;text-align:justify;=
+line-height:115%;font-size:11pt;font-family:Calibri,sans-serif"><b><span st=
+yle=3D"font-family:Cambria,serif">Last date of
+paper submission extended to 15<sup>th</sup> May 2018.<span></span></span><=
+/b></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt;text-align:justify;=
+line-height:115%;font-size:11pt;font-family:Calibri,sans-serif"><span style=
+=3D"font-family:Cambria,serif"><span>=C2=A0</span></span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt;text-align:justify;=
+line-height:115%;font-size:11pt;font-family:Calibri,sans-serif"><span style=
+=3D"font-family:Cambria,serif;background:yellow">Note*:Authors can also uti=
+lize
+the online presentation.</span><span style=3D"font-family:Cambria,serif"> <=
+span></span></span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt;text-align:justify;=
+line-height:115%;font-size:11pt;font-family:Calibri,sans-serif"><span style=
+=3D"font-family:Cambria,serif"><span>=C2=A0</span></span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt;text-align:justify;=
+line-height:115%;font-size:11pt;font-family:Calibri,sans-serif"><b><span st=
+yle=3D"font-family:Cambria,serif">Conference-Details
+@:</span></b><span style=3D"font-family:Cambria,serif"> </span><span style=
+=3D"font-family:Cambria,serif"><a href=3D"http://wyon.de/WUN8i1t"><span sty=
+le=3D"color:blue">http://wyon.de/WUN8i1t</span></a></span><span style=3D"fo=
+nt-family:Cambria,serif"><span></span></span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 10pt;line-height:115%;font-s=
+ize:11pt;font-family:Calibri,sans-serif"><span style=3D"font-family:Cambria=
+,serif"><span>=C2=A0</span></span></p>
+
+
+
+
+
+<br></div>
+
+<br>
+<span style=3D"font-family:Arial,Helvetica,sans-serif;font-size:1.3em;backg=
+round-color:rgb(255,255,255)"><font color=3D"#222222" face=3D"arial, sans-s=
+erif"><b><font size=3D"2">Disclaimer: </font><span style=3D"font-size:12.66=
+67px">=C2=A0</span></b></font></span><font color=3D"#222222" face=3D"Courie=
+r New"><span style=3D"font-size:12.6667px">This email and any file(s) trans=
+mitted with it are confidential and intended solely for the use of the indi=
+vidual or entity to whom they are addressed. This message contains confiden=
+tial information and is intended only for the individual named. If you are =
+not the named addressee you should not disseminate, distribute or copy this=
+ e-mail.</span></font><div><font color=3D"#222222" face=3D"Courier New"><sp=
+an style=3D"font-size:12.6667px">If you are not the intended recipient you =
+are notified that disclosing, copying, distributing or taking any action in=
+ reliance on the contents of this information is strictly prohibited.=C2=A0=
+</span></font></div>
+--001a11451514bfd077056b98bf25--

@@ -1,0 +1,164 @@
+Return-Path: <public@friendmargin.icu>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id D0F67C7967
+	for <mail@dorianvasco.de>; Wed, 17 Apr 2019 18:56:59 +0200 (CEST)
+Authentication-Results: v22014122474822114.stilfilm.com; dkim=fail
+	reason="verification failed; insecure key"
+	header.d=friendmargin.icu header.i=public@friendmargin.icu
+	header.b=f6TbBZ7u; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 5.803
+X-Spam-Level: *****
+X-Spam-Status: Yes, score=5.803 required=5.5 tests=[BAYES_50=0.8,
+	DKIM_INVALID=0.1, DKIM_SIGNED=0.1, HS_BODY_2092=3, HS_HEADER_1230=1,
+	HTML_MESSAGE=0.001, LOTS_OF_MONEY=0.001, RDNS_NONE=0.793,
+	SPF_HELO_PASS=-0.001, SPF_PASS=-0.001, T_REMOTE_IMAGE=0.01]
+	autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 5hvOToxrYoL1 for <mail@dorianvasco.de>;
+	Wed, 17 Apr 2019 18:56:56 +0200 (CEST)
+Received: from friendmargin.icu (unknown [62.210.24.142])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 361C6C7765
+	for <mail@dorianvasco.de>; Wed, 17 Apr 2019 18:56:55 +0200 (CEST)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=mail; d=friendmargin.icu;
+ h=From:Date:MIME-Version:Subject:To:Message-ID:Content-Type; i=public@friendmargin.icu;
+ bh=OZPpYAAqW019dHogz8y5KdLqc4A=;
+ b=f6TbBZ7ulh2ibNLSVZwiJhp/TmvNcaCV9dDzJz/BWQwM9W7kUI3IFK2CgWASngH1YsZOPUmcjcci
+   FCnLhvVZXbe9EzEGV/Hlyz4WCdR71kDlav5b/YOh0aqPub8qOe/5cdYaNejE2YIRSxZM5259RVZW
+   4/KmeLqjw+VjpiuZ1ro=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=mail; d=friendmargin.icu;
+ b=KaasucF4bNCv07z9gxtg0JBLhShRTXuf2iROxkJ0b+Qdi5rpmadSMrmqWWzr/koB0PdBCN8Dh9ec
+   7eMG+PUES4oE0GrfpQJ08sqc+g797TDnYEWgRMEF2y4rnJSmPGqsxM7H8nXOzXbsrapXSDSM5JTK
+   zCEsMCfTwF9I8E8xmPI=;
+From: "Your Safe Date" <public@friendmargin.icu>
+Date: Wed, 17 Apr 2019 11:34:57 -0500
+MIME-Version: 1.0
+Subject: Hey, Take a peek at my private album
+To: <mail@dorianvasco.de>
+Message-ID: <3Y1g4pobpAZqOGQNPFbx-ni9CB9Gjkon-CSemZ9nWfE.HWbSfGyIVi1nJO1MAhcwTzfrij3MV9sMEwzyUed5KtM@friendmargin.icu>
+Content-Type: multipart/alternative;
+ boundary="------------13515550876435677757396"
+
+This is a multi-part message in MIME format.
+--------------13515550876435677757396
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+
+<http://www.friendmargin.icu/yqyhlezi/ebxngly25900sokxsebu/9cf9a38oR3Ut_0k4fMSUaU8UAxJp1be0jhkRnMc8X90/PuGfnlI-lLRfIpC7etf7boI44sk4SEn1ZOhEIw9k38RqZqfPRQoeighbBmIGWdTDbkeFQvAHFpieXuAplZ_rJQvzFHcI74tzrtBUF3x6DJJGlAmd-NnLG0ms6LGkoQKP>
+
+
+Hey, Take a peek at my private album
+<http://www.friendmargin.icu/yqyhlezi/ebxngly25901sokxsebu/9cf9a38oR3Ut_0k4fMSUaU8UAxJp1be0jhkRnMc8X90/PuGfnlI-lLRfIpC7etf7boI44sk4SEn1ZOhEIw9k38RqZqfPRQoeighbBmIGWdTDbkeFQvAHFpieXuAplZ_rJQvzFHcI74tzrtBUF3x6DJJGlAmd-NnLG0ms6LGkoQKP>
+
+
+<http://www.friendmargin.icu/yqyhlezi/ebxngly25901sokxsebu/9cf9a38oR3Ut_0k4fMSUaU8UAxJp1be0jhkRnMc8X90/PuGfnlI-lLRfIpC7etf7boI44sk4SEn1ZOhEIw9k38RqZqfPRQoeighbBmIGWdTDbkeFQvAHFpieXuAplZ_rJQvzFHcI74tzrtBUF3x6DJJGlAmd-NnLG0ms6LGkoQKP>
+
+<http://www.friendmargin.icu/yqyhlezi/ebxngly25901sokxsebu/9cf9a38oR3Ut_0k4fMSUaU8UAxJp1be0jhkRnMc8X90/PuGfnlI-lLRfIpC7etf7boI44sk4SEn1ZOhEIw9k38RqZqfPRQoeighbBmIGWdTDbkeFQvAHFpieXuAplZ_rJQvzFHcI74tzrtBUF3x6DJJGlAmd-NnLG0ms6LGkoQKP>
+
+
+
+
+
+
+
+
+
+
+
+
+<http://www.friendmargin.icu/Oudewmjv/PKQokGL6sm0GLnN-dmAlGJJD6x3FUBtrzt47IcHFzvQJr_ZlpAuXeipFHAvQFekbDTdWGImBbhgieoQRPfqZqR83k9wIEhOZ1nES4ks44Iob7fte7CpIfRLl-IlnfGuP.09X8cMnRkhj0eb1pJxAU8UaUSMf4k0_tU3Ro83a9fc9>
+ Dalian University of Technology is located in Dalian (main campus) and Panjin in Liaoning. Founded in 1949, DUT is one of the top national universities in China, which is a highly focused science and engineering research and education institution. It is the first formal university established for the need of economic and cultural construction of a New China after the Chinese Civil War. The Chinese calligraphy on the latest logo of the university was written by Jiang Zemin former General Secretary of the Communist Party of China (1989-2002). Ranking as a first-class university in mainland China, DUT provides undergraduate and graduate instruction in engineering ,natural sciences, technology, managerial science, economics and et al. DUT belongs to the ""Double First-Rate&quot;, &quot;985 project&quot;, &quot;211 project&quot; and the &quot;E9 Group&quot; of China. During the last Chinese disciplines assessment in 2017, disciplines including engineering, natural sciences, management, e
+ conomics, et al ranks highly among Chinese top universities. DUT's business education institutions are accredited by AACSB, CAMEA and EQUIS, one of eight Universities in China. 
+<http://www.friendmargin.icu/yqyhlezi/ebxngly25900sokxsebu/9cf9a38oR3Ut_0k4fMSUaU8UAxJp1be0jhkRnMc8X90/PuGfnlI-lLRfIpC7etf7boI44sk4SEn1ZOhEIw9k38RqZqfPRQoeighbBmIGWdTDbkeFQvAHFpieXuAplZ_rJQvzFHcI74tzrtBUF3x6DJJGlAmd-NnLG0ms6LGkoQKP> History Previously known as Dalian University, DUT was founded in 1949. In July 1950, the School of Engineering separated from Dalian University and became Dalian Institute of Technology (大连工学院, DIT). Due to the rearrangement of the Ministry of Education to enhance development of education and construction of new born China, several departments, including Electrical Engineering, Physics and Law, were transferred to other universities and institutions. Meanwhile, scholars from other universities came to enlarge the departments of Chemical Engineering, Mechanical Engineering. The university started to expand right after the rearrangement, attracting more scholars and funding. To ensure future growth, the then-headmaster, Bochuan Qu, strategically 
+ moved the university&#39;s main campus to the bay area of suburban Dalian. In October 1960, DIT became one of the 26 key national universities directly under the State Ministry of Education. Graduate School of DIT was established in April 1986. In March 1988, DIT changed its name into current Dalian University of Technology (DUT). DUT was a pioneer in China&#39;s MBA education. Vice Premier Deng Xiaoping&#39;s 1979 visit to the United States initiated hundreds of joint research projects and cooperative programs under the Agreement on Cooperation in Science and Technology. Among them, one is important in terms of influencing the development of China&#39;s MBA education. It is a cooperative management training agreement reached between the Chinese government and the United States&#39;s Department of Commerce in 1984, which resulted in a National Center for Industrial Science and Technology Management Development being established at the coastal city of Dalian. This Dalian-based progra
+ m taught Chinese students MBA courses offered by State University of New York at Buffalo, complemented by subjects relating to China&#39;s enterprise management practice delivered by the then Dalian Institute of Technology. DUT experienced consistent growth of over half a century, and having gone through the persistent efforts of several generations, DUT has developed into a comprehensive university with a primary emphasis still on science and technology. In 2007, Dalian Institute of Semiconductor Technology (DIST) was jointly set up by Intel, Dalian&#39;s municipal government, and Dalian University of Technology, and managed by the university. Intel donated an 8-inch chip producing assembly line to DUT, with a total value of 36-million-US-dollar. The establishment of the Institute made DUT the most advanced base in China in terms of training integrated circuit talents 
+
+--------------13515550876435677757396
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+
+<html>
+<head>
+
+<meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
+</head>
+<body>
+
+<title></title>
+
+
+<center><a href="http://www.friendmargin.icu/yqyhlezi/ebxngly25900sokxsebu/9cf9a38oR3Ut_0k4fMSUaU8UAxJp1be0jhkRnMc8X90/PuGfnlI-lLRfIpC7etf7boI44sk4SEn1ZOhEIw9k38RqZqfPRQoeighbBmIGWdTDbkeFQvAHFpieXuAplZ_rJQvzFHcI74tzrtBUF3x6DJJGlAmd-NnLG0ms6LGkoQKP"><img src="http://www.friendmargin.icu/dmuffevar/csyc25904rkwxq/.jpg" /><img height="1" src="http://www.friendmargin.icu/dmuffevar/csyc25902rkwxq/.icu/lzETE2gVIpRXzz3F-HKhMl7E-87X6MxYovXkv5w8Als" width="1" /></a>
+
+
+<div><br />
+
+
+<br />
+
+
+<a href="http://www.friendmargin.icu/yqyhlezi/ebxngly25901sokxsebu/9cf9a38oR3Ut_0k4fMSUaU8UAxJp1be0jhkRnMc8X90/PuGfnlI-lLRfIpC7etf7boI44sk4SEn1ZOhEIw9k38RqZqfPRQoeighbBmIGWdTDbkeFQvAHFpieXuAplZ_rJQvzFHcI74tzrtBUF3x6DJJGlAmd-NnLG0ms6LGkoQKP" style="font-size:40px;font-family:Arial; color:#c74571; text-decoration:none;">Hey, Take a peek at my private album</a><br />
+
+
+<br />
+
+
+<a href="http://www.friendmargin.icu/yqyhlezi/ebxngly25901sokxsebu/9cf9a38oR3Ut_0k4fMSUaU8UAxJp1be0jhkRnMc8X90/PuGfnlI-lLRfIpC7etf7boI44sk4SEn1ZOhEIw9k38RqZqfPRQoeighbBmIGWdTDbkeFQvAHFpieXuAplZ_rJQvzFHcI74tzrtBUF3x6DJJGlAmd-NnLG0ms6LGkoQKP"><img src="http://www.friendmargin.icu/dmuffevar/csyc25905rkwxq/.jpeg" style="width: 564px; height: 608px;" /></a><br />
+
+
+<a href="http://www.friendmargin.icu/yqyhlezi/ebxngly25901sokxsebu/9cf9a38oR3Ut_0k4fMSUaU8UAxJp1be0jhkRnMc8X90/PuGfnlI-lLRfIpC7etf7boI44sk4SEn1ZOhEIw9k38RqZqfPRQoeighbBmIGWdTDbkeFQvAHFpieXuAplZ_rJQvzFHcI74tzrtBUF3x6DJJGlAmd-NnLG0ms6LGkoQKP"><img src="http://www.friendmargin.icu/dmuffevar/csyc25903rkwxq/.png" /></a><br />
+
+
+<br />
+
+
+<br />
+
+
+<br />
+
+
+<br />
+
+
+<br />
+
+
+<br />
+
+
+<br />
+
+
+<br />
+
+
+<br />
+
+
+<br />
+
+
+<br />
+
+
+<a href="http://www.friendmargin.icu/Oudewmjv/PKQokGL6sm0GLnN-dmAlGJJD6x3FUBtrzt47IcHFzvQJr_ZlpAuXeipFHAvQFekbDTdWGImBbhgieoQRPfqZqR83k9wIEhOZ1nES4ks44Iob7fte7CpIfRLl-IlnfGuP.09X8cMnRkhj0eb1pJxAU8UaUSMf4k0_tU3Ro83a9fc9"><img src="http://www.friendmargin.icu/dmuffevar/csyc16762rkwxq/.jpeg" style="width: 414px; height: 134px;" /></a></div><br />
+<img src="http://www.friendmargin.icu/Fwkbx9dle/9cf9a38oR3Ut_0k4fMSUaU8UAxJp1be0jhkRnMc8X90/PuGfnlI-lLRfIpC7etf7boI44sk4SEn1ZOhEIw9k38RqZqfPRQoeighbBmIGWdTDbkeFQvAHFpieXuAplZ_rJQvzFHcI74tzrtBUF3x6DJJGlAmd-NnLG0ms6LGkoQKP" >
+
+
+<span style="color:#FFFFFF;font-size:6px;"> Dalian University of Technology is located in Dalian (main campus) and Panjin in Liaoning. Founded in 1949, DUT is one of the top national universities in China, which is a highly focused science and engineering research and education institution. It is the first formal university established for the need of economic and cultural construction of a New China after the Chinese Civil War. The Chinese calligraphy on the latest logo of the university was written by Jiang Zemin former General Secretary of the Communist Party of China (1989-2002). Ranking as a first-class university in mainland China, DUT provides undergraduate and graduate instruction in engineering ,natural sciences, technology, managerial science, economics and et al. DUT belongs to the &quot;Double First-Rate&quot;, &quot;985 project&quot;, &quot;211 project&quot; and the &quot;E9 Group&quot; of China. During the last Chinese disciplines assessment in 2017, disciplines includi
+ ng engineering, natural sciences, management, economics, et al ranks highly among Chinese top universities. DUT&#39;s business education institutions are accredited by AACSB, CAMEA and EQUIS, one of eight Universities in China. <a href="http://www.friendmargin.icu/yqyhlezi/ebxngly25900sokxsebu/9cf9a38oR3Ut_0k4fMSUaU8UAxJp1be0jhkRnMc8X90/PuGfnlI-lLRfIpC7etf7boI44sk4SEn1ZOhEIw9k38RqZqfPRQoeighbBmIGWdTDbkeFQvAHFpieXuAplZ_rJQvzFHcI74tzrtBUF3x6DJJGlAmd-NnLG0ms6LGkoQKP"><img src="http://www.friendmargin.icu/dmuffevar/csyc25904rkwxq/.jpg" /><img height="1" src="http://www.friendmargin.icu/dmuffevar/csyc25902rkwxq/.icu/lzETE2gVIpRXzz3F-HKhMl7E-87X6MxYovXkv5w8Als" width="1" /></a> History Previously known as Dalian University, DUT was founded in 1949. In July 1950, the School of Engineering separated from Dalian University and became Dalian Institute of Technology (大连工学院, DIT). Due to the rearrangement of the Ministry of Education to enhance development of education and constructio
+ n of new born China, several departments, including Electrical Engineering, Physics and Law, were transferred to other universities and institutions. Meanwhile, scholars from other universities came to enlarge the departments of Chemical Engineering, Mechanical Engineering. The university started to expand right after the rearrangement, attracting more scholars and funding. To ensure future growth, the then-headmaster, Bochuan Qu, strategically moved the university&#39;s main campus to the bay area of suburban Dalian. In October 1960, DIT became one of the 26 key national universities directly under the State Ministry of Education. Graduate School of DIT was established in April 1986. In March 1988, DIT changed its name into current Dalian University of Technology (DUT). DUT was a pioneer in China&#39;s MBA education. Vice Premier Deng Xiaoping&#39;s 1979 visit to the United States initiated hundreds of joint research projects and cooperative programs under the Agreement on Cooperat
+ ion in Science and Technology. Among them, one is important in terms of influencing the development of China&#39;s MBA education. It is a cooperative management training agreement reached between the Chinese government and the United States&#39;s Department of Commerce in 1984, which resulted in a National Center for Industrial Science and Technology Management Development being established at the coastal city of Dalian. This Dalian-based program taught Chinese students MBA courses offered by State University of New York at Buffalo, complemented by subjects relating to China&#39;s enterprise management practice delivered by the then Dalian Institute of Technology. DUT experienced consistent growth of over half a century, and having gone through the persistent efforts of several generations, DUT has developed into a comprehensive university with a primary emphasis still on science and technology. In 2007, Dalian Institute of Semiconductor Technology (DIST) was jointly set up by Intel
+ , Dalian&#39;s municipal government, and Dalian University of Technology, and managed by the university. Intel donated an 8-inch chip producing assembly line to DUT, with a total value of 36-million-US-dollar. The establishment of the Institute made DUT the most advanced base in China in terms of training integrated circuit talents </span></center>
+
+
+
+
+</body>
+</html>
+
+--------------13515550876435677757396--

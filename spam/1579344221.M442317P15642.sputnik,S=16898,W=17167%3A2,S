@@ -1,0 +1,269 @@
+Return-Path: <173-225-2835008.LjIzNC4xNTguMTUw-1-1-5091-318-0-mfikl2593@mail46.37288.hk>
+Delivered-To: mail@stilfilm.com
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 3BC84C2C88
+	for <mail@stilfilm.com>; Mon, 15 Jan 2018 13:08:33 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: -0.11
+X-Spam-Level:
+X-Spam-Status: No, score=-0.11 required=5.5 tests=[DKIM_SIGNED=0.1,
+	DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1, HTML_MESSAGE=0.001,
+	SPF_HELO_PASS=-0.001, SPF_PASS=-0.001, T_RP_MATCHES_RCVD=-0.01,
+	URIBL_BLOCKED=0.001] autolearn=unavailable
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id oOzVOO_q-oEO for <mail@stilfilm.com>;
+	Mon, 15 Jan 2018 13:08:30 +0100 (CET)
+Received: from mail46.37288.hk (mail46.37288.hk [147.255.170.201])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 036ACC06CE
+	for <mail@stilfilm.com>; Mon, 15 Jan 2018 13:08:29 +0100 (CET)
+X-DKIM: Sendmail DKIM Filter v2.8.3 mail46.37288.hk 54F264E4DBA0
+Authentication-Results: mail46.37288.hk; dkim=pass (1024-bit key)
+	header.i=@mail46.37288.hk; x-dkim-adsp=none
+X-DKIM: Sendmail DKIM Filter v2.8.3 mail46.37288.hk 54F264E4DBA0
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=mail46.37288.hk;
+	s=37288; t=1516018120;
+	bh=ufu4aimlWuFQmZQGGTbcQFW6iEKAWl67BSLoN7pTvRc=;
+	h=Date:From:To:Subject:List-Unsubscribe:MIME-Version:Message-ID:
+	 Content-Type:Content-Transfer-Encoding;
+	b=TKy+54fe2fGgaN7nRWavJUXwM0Ay/KitvYJqJPtZznd5KOSTKRn8ncPJM6HvGv16b
+	 4sc0AaNDehzGK1MAV47KWp2Ej9AvCetxh15lAOrO3+26MkYaos/6NJLrrYJ1lpz984
+	 zgN41JXpxXdfihZWU230u217N6iMPqGlD5qjPjQQ=
+Date: Mon, 15 Jan 2018 04:08:40 -0800
+From: "Health Care Program" <redkyu2642@mail46.37288.hk>
+To: "mail" <mail@stilfilm.com>
+Subject: =?UTF-8?B?Q2hpbGRyZW7igJlzIEhlYWx0aCBQcm9ncmFtIFJ1bm5pbmcgRHJ5?=
+List-Unsubscribe: <mailto:service@mail46.37288.hk?subject=Unsubscribe%20=?UTF-8?B?Q2hpbGRyZW7igJlzIEhlYWx0aCBQcm9ncmFtIFJ1bm5pbmcgRHJ5?=>, <http://www.9689.gs/unsubscribe.php?M=2835008!G=0!LID=17!N=326!D=p_5!lan=en!O=AjpVcgMlACkKalJ5VnkHYwg1UGlVIAJoCmJYPA0lUDRRNANoAHwKYgBvAjZTfA%3D%3D>
+MIME-Version: 1.0
+Message-ID: <10a5facdadf692cf3eabb747313601aa@mail46.37288.hk>
+Content-Type: multipart/alternative; charset="UTF-8";
+	boundary="b10fc2e1d5df0b5fbdfb8d96f88fcb966e"
+Content-Transfer-Encoding: 8bit
+
+--b10fc2e1d5df0b5fbdfb8d96f88fcb966e
+Content-Type: text/plain; format=flowed; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+
+WASHINGTON — With more and more states running out of money for the
+Children’s Health care Program, parents took their case to Capitol Hill
+on Tuesday, pleading with Congress to provide money before their sons and
+daughters lose health care and coverage.
+
+But the program, known as CHIP, which insures nearly nine million children,
+took a back seat as lawmakers raced to pass a $1.5 trillion tax cut.
+CHIP’s fate, it appears, is now caught up in a messy over an
+end-of-the-year deal on using that must be struck by Friday to avert a
+government shutdown. “CHIP is being used as a pawn in larger debates and
+negotiations,” Linda Nablo, the chief deputy director of the Virginia
+Department of Medical Assistance Services, said Tuesday in a meeting. “It
+has fallen victim to the partisanship in Congress. And we are getting very
+close to the point where some children will also be victims.” Virginia
+sent letters last week to parents of 68,000 children warning them that CHIP
+coverage would end on Jan. 31 unless Congress took action. Congress has
+known since April 2015 that funds for the popular children’s care program
+— created and sustained for two decades with bipartisan support — would
+expire this year at the end of September. The Senate Finance Committee
+approved a five-year extension of funding for the program in early October,
+but did not specify how to pay for it — and Republicans insist that it
+must be paid for. The House passed a bill to provide five years of funds in
+early November, but those funds would come from public health programs set
+up under the Affordable Care Act and an increase in premiums for affluent
+care beneficiaries, provisions that are unacceptable to most Democrats.
+House Republicans plan to send those same provisions to the Senate again
+this week as part of a stopgap using bill, knowing they will be killed.
+Meantime, the Alabama Department of Public Health posted a notice on its
+website this week saying that it would freeze enrollment in the
+Children’s Health care  Program on Jan. 1 and would not renew any
+coverage after that date. “If Congress does not act soon, coverage for
+children now enrolled in CHIP will end on Feb. 1,” Cathy Caldwell, the
+director of the Alabama program, said Tuesday in a meeting. Colorado and
+Connecticut, among other states, have sent letters informing families that
+their children may soon lose CHIP coverage. “Congress has not acted to
+continue the funding, so we must plan to end the CHIP program on Jan.
+31,” said the letters from the Connecticut Department of Services.
+
+
+
+To parents of sick children, the gamesmanship in Washington was
+incomprehensible, especially as Congress was passing a $1.5 trillion tax
+cut with little worry over its cost to the Treasury. “I am here to call
+on the Senate to do the right thing and invest in our nation’s true
+future, invest in the children, to maintain children’s lives,” said
+Sonja Reynolds, who came to the Capitol from Pleasant Grove, Utah. She has
+five children on CHIP, including two with Crohn’s disease, a bad
+condition. Every eight weeks, she takes the two with Crohn’s to a
+hospital for infusions of Remicade, an expensive biologic thing. Without
+CHIP, she said, she could not afford the treatments. Amy Jo Hutchison came
+to Washington with her daughters, 10 and 13, from Wheeling, W.Va. As an
+infant, her older daughter was blind in one eye, and CHIP helps pay for
+regular one to a pediatric ophthalmologist, Ms. Hutchison said. De’Andrea
+Choice of Tyler, Tex., said CHIP had been “a blessing to me and my
+son.” Her son is 15, regularly needs to see medical specialists and takes
+several medications for a condition known as fecal incontinence or
+encopresis. “Without CHIP,” she said, “I would not have been able to
+afford his one , and his medicine would have been difficult for me to get.
+Angelique Smith came from Lakewood, Colo., with her 5-year-old son,
+Malachi, hoping to persuade Senator Cory Gardner, Republican of Colorado,
+to join the state’s Democratic senator, Michael Bennet, in pushing for
+continuation of CHIP. Parents and children conveyed their message to
+Congress on Tuesday, the 80th day since federal CHIP funds expired.
+No using bill can clear the Senate without Democratic votes, so the
+minority does have leverage, but Democrats also have other priorities in
+negotiations over the using bill. They seek protections for young
+immigrants brought to the United States illegally as children. They want to
+be sure that any increase in military using is matched by an increase in
+domestic using . Senators from both parties, including the majority chief,
+Mitch McConnell of Kentucky, may try to attach a bipartisan bill to
+stabilize health care markets and hold down care premiums. That proposal
+faces fierce resistance from conservative House Republicans who see it as
+propping up Obamacare. And some Democrats, especially the 10 up for
+re-election next year in states won by President Trump, fear that a
+government shutdown would harm their political futures. Republicans and
+Democrats blame each other for the stalemate over CHIP. Senator Bob Casey,
+Democrat of Pennsylvania, told parents on Tuesday that he could not explain
+Congress’s failure to fund the program. “Some members of Congress are
+obsessed about getting the tax bill done,” Mr. Casey said. “They’ve
+been waiting for this, some of them, their whole lives. They think it’s
+the most important thing in the world. But, my God, if you can using months
+and weeks making sure that the corporate tax rate is just where it needs to
+be, so that you can satisfy corporate chief, if you can tinker with that,
+and have tax breaks for the superrich, if you can work that hard, why is it
+so hard to get a bipartisan children’s health care bill done?” Senator
+Angus King, independent of Maine, offered a possible answer: “Maybe it is
+because none of our kids are in this program. I venture to say that if the
+children of the members of the Senate were in the CHIP program, we would
+have met that deadline” of Sept. 30. While Congress squabbles, state
+officials are sounding the alarm. A survey by the Kaiser Family Foundation
+found that 16 states expect to exhaust their federal CHIP funds by the end
+of January, with 21 additional states saying they would run out by the end
+of March. The Trump administration has reshuffled money to help states with
+the most urgent needs. But in so doing, it exacerbates the financial
+problems that other states will soon face because Congress has not provided
+any new funds.
+Republican governors, including Greg Abbott of Texas and Scott Walker of
+Wisconsin, have joined Democrats in urgent appeals to Congress, without
+much success.
+
+© Gabriella Demczuk for The New York Times
+
+--b10fc2e1d5df0b5fbdfb8d96f88fcb966e
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+</head>
+<body>
+WASHINGTON — With more and more states running out of money for the
+Children’s Health care Program, parents took their case to Capitol Hill
+on Tuesday, pleading with Congress to provide money before their sons and
+daughters lose health care and coverage.&nbsp;<a
+href="http://www.2367.gs/unsubscribe.php?M=2835008!G=0!LID=17!N=326!D=p_5!lan=en!O=AjpVcgMlACkKalJ5VnkHYwg1UGlVIAJoCmJYPA0lUDRRNANoAHwKYgBvAjZTfA%3D%3D">Unsubscribe</a>
+<br />
+<br />
+But the program, known as CHIP, which insures nearly nine million children,
+took a back seat as lawmakers raced to pass a $1.5 trillion tax cut.
+CHIP’s fate, it appears, is now caught up in a messy over an
+end-of-the-year deal on using that must be struck by Friday to avert a
+government shutdown. “CHIP is being used as a pawn in larger debates and
+negotiations,” Linda Nablo, the chief deputy director of the Virginia
+Department of Medical Assistance Services, said Tuesday in a meeting. “It
+has fallen victim to the partisanship in Congress. And we are getting very
+close to the point where some children will also be victims.” Virginia
+sent letters last week to parents of 68,000 children warning them that CHIP
+coverage would end on Jan. 31 unless Congress took action. Congress has
+known since April 2015 that funds for the popular children’s care program
+— created and sustained for two decades with bipartisan support — would
+expire this year at the end of September. The Senate Finance Committee
+approved a five-year extension of funding for the program in early October,
+but did not specify how to pay for it — and Republicans insist that it
+must be paid for. The House passed a bill to provide five years of funds in
+early November, but those funds would come from public health programs set
+up under the Affordable Care Act and an increase in premiums for affluent
+care beneficiaries, provisions that are unacceptable to most Democrats.
+House Republicans plan to send those same provisions to the Senate again
+this week as part of a stopgap using bill, knowing they will be killed.
+Meantime, the Alabama Department of Public Health posted a notice on its
+website this week saying that it would freeze enrollment in the
+Children’s Health care&nbsp; Program on Jan. 1 and would not renew any
+coverage after that date. “If Congress does not act soon, coverage for
+children now enrolled in CHIP will end on Feb. 1,” Cathy Caldwell, the
+director of the Alabama program, said Tuesday in a meeting. Colorado and
+Connecticut, among other states, have sent letters informing families that
+their children may soon lose CHIP coverage. “Congress has not acted to
+continue the funding, so we must plan to end the CHIP program on Jan.
+31,” said the letters from the Connecticut Department of Services.<br />
+<br />
+<br />
+<br />
+To parents of sick children, the gamesmanship in Washington was
+incomprehensible, especially as Congress was passing a $1.5 trillion tax
+cut with little worry over its cost to the Treasury. “I am here to call
+on the Senate to do the right thing and invest in our nation’s true
+future, invest in the children, to maintain children’s lives,” said
+Sonja Reynolds, who came to the Capitol from Pleasant Grove, Utah. She has
+five children on CHIP, including two with Crohn’s disease, a bad
+condition. Every eight weeks, she takes the two with Crohn’s to a
+hospital for infusions of Remicade, an expensive biologic thing. Without
+CHIP, she said, she could not afford the treatments. Amy Jo Hutchison came
+to Washington with her daughters, 10 and 13, from Wheeling, W.Va. As an
+infant, her older daughter was blind in one eye, and CHIP helps pay for
+regular one to a pediatric ophthalmologist, Ms. Hutchison said. De’Andrea
+Choice of Tyler, Tex., said CHIP had been “a blessing to me and my
+son.” Her son is 15, regularly needs to see medical specialists and takes
+several medications for a condition known as fecal incontinence or
+encopresis. “Without CHIP,” she said, “I would not have been able to
+afford his one , and his medicine would have been difficult for me to get.
+Angelique Smith came from Lakewood, Colo., with her 5-year-old son,
+Malachi, hoping to persuade Senator Cory Gardner, Republican of Colorado,
+to join the state’s Democratic senator, Michael Bennet, in pushing for
+continuation of CHIP. Parents and children conveyed their message to
+Congress on Tuesday, the 80th day since federal CHIP funds expired.<br />
+No using bill can clear the Senate without Democratic votes, so the
+minority does have leverage, but Democrats also have other priorities in
+negotiations over the using bill. They seek protections for young
+immigrants brought to the United States illegally as children. They want to
+be sure that any increase in military using is matched by an increase in
+domestic using . Senators from both parties, including the majority chief,
+Mitch McConnell of Kentucky, may try to attach a bipartisan bill to
+stabilize health care markets and hold down care premiums. That proposal
+faces fierce resistance from conservative House Republicans who see it as
+propping up Obamacare. And some Democrats, especially the 10 up for
+re-election next year in states won by President Trump, fear that a
+government shutdown would harm their political futures. Republicans and
+Democrats blame each other for the stalemate over CHIP. Senator Bob Casey,
+Democrat of Pennsylvania, told parents on Tuesday that he could not explain
+Congress’s failure to fund the program. “Some members of Congress are
+obsessed about getting the tax bill done,” Mr. Casey said. “They’ve
+been waiting for this, some of them, their whole lives. They think it’s
+the most important thing in the world. But, my God, if you can using months
+and weeks making sure that the corporate tax rate is just where it needs to
+be, so that you can satisfy corporate chief, if you can tinker with that,
+and have tax breaks for the superrich, if you can work that hard, why is it
+so hard to get a bipartisan children’s health care bill done?” Senator
+Angus King, independent of Maine, offered a possible answer: “Maybe it is
+because none of our kids are in this program. I venture to say that if the
+children of the members of the Senate were in the CHIP program, we would
+have met that deadline” of Sept. 30. While Congress squabbles, state
+officials are sounding the alarm. A survey by the Kaiser Family Foundation
+found that 16 states expect to exhaust their federal CHIP funds by the end
+of January, with 21 additional states saying they would run out by the end
+of March. The Trump administration has reshuffled money to help states with
+the most urgent needs. But in so doing, it exacerbates the financial
+problems that other states will soon face because Congress has not provided
+any new funds.<br />
+Republican governors, including Greg Abbott of Texas and Scott Walker of
+Wisconsin, have joined Democrats in urgent appeals to Congress, without
+much success.<br />
+<br />
+&copy; Gabriella Demczuk for The New York Times<br />
+<img border="0" alt="2835008"
+src="http://www.2367.gs/open.php?M=2835008!G=0!LID=17!N=326!D=p_5!F=H!O=AjpQdwAmXXQKalV%2BU3xQNAE8CzJbLlE7AGhSNgEpBGBVMAFqBHgLYwBvV2M%3D!image=.jpg"></body>
+</html>
+
+--b10fc2e1d5df0b5fbdfb8d96f88fcb966e--
+
+

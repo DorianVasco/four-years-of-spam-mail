@@ -1,0 +1,163 @@
+Return-Path: <rsb43@icrtest.org>
+Delivered-To: mail@stilfilm.com
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 06533D4C86
+	for <mail@stilfilm.com>; Wed, 18 Oct 2017 12:01:33 +0200 (CEST)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 7.07
+X-Spam-Level: *******
+X-Spam-Status: Yes, score=7.07 required=5.5 tests=[BAYES_50=0.8,
+	DIGEST_MULTIPLE=0.293, DKIM_SIGNED=0.1, HTML_MESSAGE=0.001,
+	PYZOR_CHECK=1.392, RAZOR2_CF_RANGE_51_100=0.5,
+	RAZOR2_CF_RANGE_E8_51_100=1.886, RAZOR2_CHECK=0.922,
+	RCVD_IN_DNSWL_NONE=-0.0001, RCVD_IN_SORBS_SPAM=0.5,
+	SPF_SOFTFAIL=0.665, T_DKIM_INVALID=0.01, URIBL_BLOCKED=0.001]
+	autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id Y19uZL39iB0q for <mail@stilfilm.com>;
+	Wed, 18 Oct 2017 12:01:31 +0200 (CEST)
+Received: from mail-io0-f170.google.com (mail-io0-f170.google.com [209.85.223.170])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id 2711EC2D07
+	for <mail@stilfilm.com>; Wed, 18 Oct 2017 12:01:30 +0200 (CEST)
+Received: by mail-io0-f170.google.com with SMTP id m16so5461363iod.1
+        for <mail@stilfilm.com>; Wed, 18 Oct 2017 03:01:31 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=icrtest.org; s=google;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=qzsO5V4rxEdoi1nfj+wp2exsx3oJe1s6e65WLa6cSic=;
+        b=fNocuGnptq3RgGW6E3zCHBVOsexr+4jL46AcIp5G6LcgsQTMR+VnszzZGZbY1jlHBg
+         cMzWTn7uxOlzGpG3CSai8BWPQOJ81jeTmQAfYys0LMq/7nSLKnpkAup7nK72YtdYaiQe
+         HeXi2vbtpiUoMoPCuso39MBKqlx7ZhBfz4ORsyGwC4ueH0Q2d1c/0X2AlrPrHFyoaqsl
+         Ut3iI3bChwb24hZGDV2Dtv/23TEJvmOlv2fccsaxs8O1NH23Ffo4meAxJhHaDjdtrq4m
+         XjRuKhMok3amIjVnfSfk68/pEMRBK9xBJ5FdVhmFkLL1Rf9m4WhXT4q5b2DAaCdE3mQ6
+         7kRg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=qzsO5V4rxEdoi1nfj+wp2exsx3oJe1s6e65WLa6cSic=;
+        b=PTH1qWgXDu9PDHkDbHtSnbg4kmpPARLanHZwq0/KjsFBpxs6jkOmdBr66aezy+i+gU
+         5VDZO80dwIsFp/uFNcMAj15w9PkhBs11BiIEmlLsvx68AevGD8BMvb7zYKfikfJoydDJ
+         FyoI68VHaXiyz39mAQzDa/M7MLbpxxQ5K5YSKgAd8Qou19CHj4sLsWI+vlMRgIKdLmTB
+         +R9KodAFIzNxayXY3IkWrlkt7aFfgh4cckv/THRQpsCgI8QR22Zd1AI491zh99g3wpR5
+         1S9uDvsWehpYenBfJsvngh6ya9HqpMoWvV9ij8sFTeiXj3K4JdcX0SYybeoefaw0F5Jf
+         3BrQ==
+X-Gm-Message-State: AMCzsaVin11Gsr7CFYGdukti1MOZkoFUY1/RbqHgiY5ejolAeMSE8ccK
+	tbMW9qgjR+FA2gjm4HD5dsFwtqkIJZoJvV9mRK1rKb0E6G+L6u/b/PBP2Pk2LXWukRDAyGNP2mM
+	3TEtN8u40S+djwslmQRc=
+X-Google-Smtp-Source: ABhQp+TRZm4HnFGEtZQievhwnMVBOXkf8ppGC9YNcPfS3Cb0L+7S8aGTcruKV5CMWBwn4f4FHBFqJKh+Vq10hxl808s=
+X-Received: by 10.107.35.148 with SMTP id j142mr17168486ioj.241.1508320887376;
+ Wed, 18 Oct 2017 03:01:27 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 10.79.138.1 with HTTP; Wed, 18 Oct 2017 03:01:26 -0700 (PDT)
+From: Ramya J <rsb43@icrtest.org>
+Date: Wed, 18 Oct 2017 15:31:26 +0530
+Message-ID: <CAMC9g1OYQ+JPdnRh=_wtthitZ+h0Yx78o5GTXzBN0qe_BGWqFw@mail.gmail.com>
+Subject: ***SPAM*** 
+To: bala@eeccmc.org
+Content-Type: multipart/alternative; boundary="001a11403ff6b34f52055bcf5279"
+
+--001a11403ff6b34f52055bcf5279
+Content-Type: text/plain; charset="UTF-8"
+
+*IEEE-EECCMC Conference*:
+
+            IEEE-Conference is at Priyadarshini Engineering College,
+Vellore, Tamil Nadu, India during 28th & 29th January 2018.
+
+*All accepted papers will be submitted for inclusion in **IEEE Xplore
+Digital library*.
+
+CATALOG NUMBERS (ISBN):  XPLORE COMPLIANT: CFP18O37-ART- 978-1-5386-4304-4
+
+**Today is the Last Date for Paper Submission**
+
+*We request forwarding of this email to your friends/students.*
+
+For more information go to:  http://cutt.us/5yFgw
+
+-- 
+*Disclaimer:   *The information contained in this email is confidential and 
+may contain proprietary and/or personal information.
+ No warranty is given that this email is free of viruses. The integrity and 
+security of this message cannot be guaranteed on the Internet.
+
+*Please notify the sender immediately by e-mail if you have received this 
+e-mail by mistake and delete this e-mail from your system.*
+
+
+
+--001a11403ff6b34f52055bcf5279
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><p class=3D"MsoNormal" style=3D"text-align:justify;line-he=
+ight:200%"><b><span style=3D"font-size:12pt;line-height:200%;font-family:&q=
+uot;Lucida Calligraphy&quot;;color:rgb(112,48,160)">IEEE-EECCMC Conference<=
+/span></b><span style=3D"font-size:12pt;line-height:200%;font-family:&quot;=
+Lucida Calligraphy&quot;">:=C2=A0
+<span></span></span></p>
+
+<p class=3D"MsoNormal" style=3D"text-align:justify;line-height:200%"><span =
+style=3D"font-size:12pt;line-height:200%;font-family:&quot;Lucida Calligrap=
+hy&quot;">=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=
+=A0 IEEE-Conference is at Priyadarshini
+Engineering College, Vellore, Tamil Nadu, India during 28<sup>th</sup> &amp=
+; 29<sup>th</sup>
+January 2018. =C2=A0<span></span></span></p>
+
+<p class=3D"MsoNormal" style=3D"text-align:justify;line-height:200%"><i><sp=
+an style=3D"font-size:12pt;line-height:200%;font-family:&quot;Lucida Callig=
+raphy&quot;">All accepted papers will be submitted
+for inclusion in </span></i><b><span style=3D"font-size:12pt;line-height:20=
+0%;font-family:&quot;Lucida Calligraphy&quot;">IEEE Xplore Digital library<=
+/span></b><span style=3D"font-size:12pt;line-height:200%;font-family:&quot;=
+Lucida Calligraphy&quot;">.<span></span></span></p>
+
+<p class=3D"MsoNormal" style=3D"text-align:justify;line-height:200%"><span =
+style=3D"font-family:&quot;Lucida Calligraphy&quot;;color:red">CATALOG NUMB=
+ERS (ISBN):</span><span style=3D"font-family:&quot;Lucida Calligraphy&quot;=
+">=C2=A0 XPLORE COMPLIANT: CFP18O37-ART-
+978-1-5386-4304-4<span></span></span></p>
+
+<p class=3D"MsoNormal" style=3D"text-align:justify;line-height:200%"><span =
+style=3D"font-size:12pt;line-height:200%;font-family:&quot;Lucida Calligrap=
+hy&quot;;background:yellow">**Today is the Last Date for Paper Submission**=
+</span><span style=3D"font-size:12pt;line-height:200%;font-family:&quot;Luc=
+ida Calligraphy&quot;"><span></span></span></p>
+
+<p class=3D"MsoNormal" style=3D"text-align:justify;line-height:200%"><i><sp=
+an style=3D"font-size:14pt;line-height:200%;font-family:&quot;Lucida Callig=
+raphy&quot;">We request forwarding of this email to your friends/students.<=
+/span></i><i><span style=3D"font-size:14pt;line-height:200%;font-family:&qu=
+ot;Lucida Calligraphy&quot;"><span></span></span></i></p>
+
+<p class=3D"MsoNormal" style=3D"text-align:justify;line-height:200%"><span =
+style=3D"font-size:12pt;line-height:200%;font-family:&quot;Lucida Calligrap=
+hy&quot;">For
+more information go to: =C2=A0<a href=3D"http://cutt.us/5yFgw">http://cutt.=
+us/5yFgw</a> <span></span></span></p></div>
+
+<br>
+<span style=3D"font-family:Arial,Helvetica,sans-serif;font-size:1.3em;backg=
+round-color:white"><font face=3D"Arial, Helvetica, sans-serif" style=3D"fon=
+t-size:1.3em;font-family:Arial,Helvetica,sans-serif"><span style=3D"font-si=
+ze:13px"><b><i>Disclaimer:=C2=A0 =C2=A0</i></b></span></font><font face=3D"=
+Trebuchet" size=3D"3">The information contained in this email is confidenti=
+al and may contain proprietary and/or personal information.</font></span><d=
+iv><font face=3D"Arial" size=3D"2">=C2=A0No warranty is given that this ema=
+il is free of viruses. The integrity and security of this message cannot be=
+ guaranteed on the Internet.</font><br><div style=3D"font-family:Arial,Helv=
+etica,sans-serif;font-size:1.3em"><font face=3D"Trebuchet" size=3D"2" style=
+=3D"background-color:white"><br></font><div><font style=3D"background-color=
+:white"><i style=3D"font-size:small"><span style=3D"background-image:initia=
+l;background-position:initial;background-repeat:initial"><font face=3D"Cour=
+ier New">Please notify the sender immediately by e-mail if you have receive=
+d this e-mail by mistake and delete this e-mail from your system.</font></s=
+pan></i></font><div style=3D"font-family:Arial,Helvetica,sans-serif;font-si=
+ze:1.3em"><p style=3D"font-family:Arial,Helvetica,sans-serif"><br></p></div=
+></div></div></div>
+--001a11403ff6b34f52055bcf5279--

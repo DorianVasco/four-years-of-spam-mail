@@ -1,0 +1,86 @@
+Return-Path: <buchhaltung@siscoseg.com>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 1C5E1C775D
+	for <mail@dorianvasco.de>; Sat, 27 Apr 2019 19:19:51 +0200 (CEST)
+Authentication-Results: v22014122474822114.stilfilm.com; dkim=permerror
+	reason="key not found" header.d=siscoseg.com header.i=@siscoseg.com
+	header.b=j1Y8fR86; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: 1.724
+X-Spam-Level: *
+X-Spam-Status: No, score=1.724 required=5.5 tests=[BAYES_50=0.8,
+	DKIM_INVALID=0.1, DKIM_SIGNED=0.1, HTML_MESSAGE=0.001,
+	MIME_HTML_ONLY=0.723, RCVD_IN_DNSWL_NONE=-0.0001] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id O8F0rdq0sOJM for <mail@dorianvasco.de>;
+	Sat, 27 Apr 2019 19:19:41 +0200 (CEST)
+Received: from a2nlsmtp01-02.prod.iad2.secureserver.net (a2nlsmtp01-02.prod.iad2.secureserver.net [198.71.225.36])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id 445C3C775A
+	for <mail@dorianvasco.de>; Sat, 27 Apr 2019 19:19:36 +0200 (CEST)
+Received: from a2plcpnl0352.prod.iad2.secureserver.net ([198.71.231.29])
+	by : HOSTING RELAY : with ESMTP
+	id KQy7hhzqjacv7KQy7h6nHT; Sat, 27 Apr 2019 10:18:31 -0700
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed;
+	d=siscoseg.com; s=default; h=Message-Id:Content-Transfer-Encoding:
+	Content-Type:MIME-Version:Subject:From:To:Date:Sender:Reply-To:Cc:Content-ID:
+	Content-Description:Resent-Date:Resent-From:Resent-Sender:Resent-To:Resent-Cc
+	:Resent-Message-ID:In-Reply-To:References:List-Id:List-Help:List-Unsubscribe:
+	List-Subscribe:List-Post:List-Owner:List-Archive;
+	bh=t4bFSG+94rqaN4Kj+o2ezs4UJ4qTT7/wapOtf72WoUM=; b=j1Y8fR86NYOs7sztW2lIgHYLrg
+	l4PGgVCK25bBUcHCzGcVQq9ByRjxUkC/pcsCsg2p2AtjCJTpFqD6cfGUvLAk5W3PG3r5F8cwg+8Ux
+	qI7kjzqNIwFaZsYo7jIE5+rxrEzeUILx9g6azUqkXVzV+soxKzmErDUOetAPUXd3BLguvRkexv/YK
+	SplQx6f9YxIWH6xAUb7+vW8rAMVS9lPZaTn6dwW0DSxNO2AD/8A3A5Nj0IzYFZgBOuu++V8AunBoX
+	0+pW6BFpvhcvbx+eUS/ZloI0dREtNSSCw/92/dF/uFzDuiKdeS9S2gp4x2A79fyVx5Vm1Wu0A0azE
+	XZqPeVIA==;
+Received: from siscoseg by a2plcpnl0352.prod.iad2.secureserver.net with local (Exim 4.91)
+	(envelope-from <buchhaltung@siscoseg.com>)
+	id 1hKQy7-000clb-4O
+	for mail@dorianvasco.de; Sat, 27 Apr 2019 10:18:31 -0700
+Date: Sat, 27 Apr 2019 17:18:30 +0000
+To: Ruth Nagel <mail@dorianvasco.de>
+From: Greenality Ag Aylin Voigt <buchhaltung@siscoseg.com>
+Subject: Automatische Kontoabbuchung NR 644544868 konnte nicht vorgenommen werden 27.04.2019
+X-Priority: 3
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: base64
+Message-Id: <E1hKQy7-000clb-4O@a2plcpnl0352.prod.iad2.secureserver.net>
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - a2plcpnl0352.prod.iad2.secureserver.net
+X-AntiAbuse: Original Domain - dorianvasco.de
+X-AntiAbuse: Originator/Caller UID/GID - [3645583 964] / [47 12]
+X-AntiAbuse: Sender Address Domain - siscoseg.com
+X-Get-Message-Sender-Via: a2plcpnl0352.prod.iad2.secureserver.net: authenticated_id: siscoseg/from_h
+X-Authenticated-Sender: a2plcpnl0352.prod.iad2.secureserver.net: buchhaltung@siscoseg.com
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: siscoseg.com:/public_html/cryptomail/vendor/bin
+X-CMAE-Envelope: MS4wfCWlcHbwf6DROf7UfwCr+YufFc1vyGATdggiZ8TPVYZBmyEZ90Q6/zmpMUwGp/17yJAxlIJ6exmpu8hYBywB6mHW2EocvRZt/JOoCD/h7iy66DZEa31i
+ Z6GWVg0PtdcIONR2Ntl2D3x9fjqVuk0oK7n641Q8SX1SjQ9ux8BEpbEZYnt1yZN0oxwCvibk241CAdGc6MIuxCyhmA2jW8znd0E=
+
+PGh0bWw+PGhlYWQ+PC9oZWFkPjxib2R5PlNlaHIgZ2VlaHJ0ZXIgS3VuZGUgUnV0aCBOYWdlbCwK
+PGJyPjxicj4KZXMgd3VyZGUgZmVzdGdlc3RlbGx0LCBkYXNzIHVuc2VyZSBSZWNobnVuZyBOdW1t
+ZXIgNjQ0NTQ0ODY4IGltbWVyIG5vY2ggbmljaHQgYmV6YWhsdCB3dXJkZS4KPGJyPjxicj4KV2ly
+IGdlYmVuIElobmVuIHRyb3R6ZGVtIG5vY2ggZWluZSBsZXR6dGUgTSZvdW1sO2dsaWNoa2VpdCwg
+SWhyZSB2ZXJ0cmFnbGljaGUgVmVycGZsaWNodHVuZyB6dSBlcmYmdXVtbDtsbGVuLCBpbmRlbSBT
+aWUgc29mb3J0IGRpZSBhdXNzdGVoZW5kZSBSZWNobnVuZyBpbiBIJm91bWw7aGUgdm9uIDQ0Niww
+MCBFVVJPIGFuIHVucyBiZWdsZWljaGVuLgo8ZGl2PiZuYnNwOzwvZGl2PgpEaWUgRWluemVsaGVp
+dGVuIGRlciBCZXN0ZWxsdW5nIHVuZCBkaWUgQmFua2RhdGVuIGsmb3VtbDtubmVuIFNpZSA8YSBo
+cmVmPSJodHRwOi8vcGFudGhlcnRlY2htYXJrZXRpbmcuY29tL1MtODQtOTE3OTQ0MjQwOC0xODEy
+NDU1MzM4LnppcCI+ZGVtIGYmdXVtbDtyIFNpZSB2b3JiZXJlaXRldGVuIERva3VtZW50IHVudGVy
+IGRlbSBMaW5rIGFuc2VoZW48L2E+Lgo8ZGl2PiZuYnNwOzwvZGl2PgpGYWxscyBkZXIgU2NodWxk
+YmV0cmFnIG5pY2h0IMO8YmVyd2llc2VuIHdpcmQsIHNpbmQgd2lyIHZlcnBmbGljaHRldCBWb2xs
+c3RyZWNrdW5nc21hJnN6bGlnO25haG1lbiBnZWdlbiBTaWUgZWluenVsZWl0ZW4uIFVtIElobmVu
+IGRpZXNlIFVuYW5uZWhtbGljaGtlaXQgenUgZXJzcGFyZW4sIHNvbGx0ZW4gU2llIGRpZSBSZWNo
+bnVuZyBzb2ZvcnQgemFobGVuLgo8YnI+PGJyPgpSdXRoIE5hZ2VsIGJlYWNodGVuIFNpZSwgZGVy
+IFNjaHVsZG5lciBpc3QgenVtIEVyc2F0eiBkZXMgVmVyeiZvdW1sO2dlcnVuZ3NzY2hhZGVucyB2
+ZXJwZmxpY2h0ZXQsIGVyIHNjaHVsZGV0IGFsc28gU2NoYWRlbnNlcnNhdHogbmFjaCDCpyAyODAg
+QWJzLiAyLCDCpyAyODYgQkdCLgo8YnI+PGJyPgpHcmVlbmFsaXR5IEFnPGJyPgo3ODUzMiBUdXR0
+bGluZ2VuPGJyPgo8YnI+PGJyPgpVU3QtSWQgTnIuOiBERSA4NzIyMzkxMjA8YnI+CkJldHJpZWJz
+bGVpdGVyIEF5bGluIFZvaWd0PGJyPgo8L2JvZHk+PC9odG1sPg==

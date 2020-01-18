@@ -1,0 +1,192 @@
+Return-Path: <gr9@icesit.co.in>
+Delivered-To: mail@stilfilm.com
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 8AC3FD16AB
+	for <mail@stilfilm.com>; Fri,  6 Jan 2017 07:37:39 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 3.619
+X-Spam-Level: ***
+X-Spam-Status: Yes, score=3.619 required=2 tests=[BAYES_50=0.8,
+	DKIM_SIGNED=0.1, DKIM_VALID=-0.1, HTML_MESSAGE=0.001,
+	HTML_OBFUSCATE_05_10=0.26, PYZOR_CHECK=1.392, RCVD_IN_SORBS_SPAM=0.5,
+	SPF_SOFTFAIL=0.665, URIBL_BLOCKED=0.001] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.yourvserver.net [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id uGQvjSQum5yd for <mail@stilfilm.com>;
+	Fri,  6 Jan 2017 07:37:37 +0100 (CET)
+Received: from mail-ua0-f179.google.com (mail-ua0-f179.google.com [209.85.217.179])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id 95030D16AA
+	for <mail@stilfilm.com>; Fri,  6 Jan 2017 07:37:37 +0100 (CET)
+Received: by mail-ua0-f179.google.com with SMTP id i68so294660097uad.0
+        for <mail@stilfilm.com>; Thu, 05 Jan 2017 22:37:37 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=icesit-co-in.20150623.gappssmtp.com; s=20150623;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=t+3G2JuUDtTmHUusj7L/X0sNDoIFPXQWh98gi1ONMpA=;
+        b=K3FWyabqme3dX3NDb5jyfHWdpBMPjYiIppNEO83qha6WlMNfHR3FLQbphXJuOHIer6
+         hHzV6VnkqxKyXvncft0MdOHVOL51f9KfLSBullkmTSqM3MMBY6lAXQ+F7tX+i4NuOsQr
+         +cnK3xY4kHFjuPJbhJkya8optm7qc3nJhwVwrCFsOcNTnIHjWypIdYJ12n1DezTnGk4E
+         yMKZiOvY4RFk6W1rz7N8HdDb5Oo0qhi3NyZgM/auiNQGlIRK1NdyPKkPbU1LMyFafKoO
+         vRPdIHPEHO+/jAmCZxYi5ffzC6UnKLWP1baBOhTFb8VMeAORe9axryReVDl+lhIlxwYh
+         8umA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=t+3G2JuUDtTmHUusj7L/X0sNDoIFPXQWh98gi1ONMpA=;
+        b=QVpSTSSkc5wQH0CIsChjan35z5kceZ8pDKf6MiHGxZjcN6Ayn8sPr/kyB1mQKhsdKc
+         zywPuk38OsAGPM3ZLZdI1MJTPT+Rt6kS84dC8Y8jixmOFZ8cuOpPLTE+T7sUXevQtLVd
+         ZP2UdyY4L1yd/S3rAGTdqm5CMAtD/2lpE2f4S4Km0WfkMdCj3pA0IhCbB+5JD8xgSFFG
+         WLKIBaC2WSS0BqtpQ2CN9GA1M4OVM9pP/V0/3arVw+pNNLNSgb+4pKIFZc98Rho23Slt
+         9zfbmtlQEZxjzin/EssWFrRcLu3cpZj+VHgnmpSF1dFLgBxGWKByIs4PnONDpzleVwkF
+         Vq4A==
+X-Gm-Message-State: AIkVDXLtGySF4nTYwMZM8HBLfWkn7yk2c3a2CgIBQFRnMHFp1HFrri/XWNa1gPfoTWj3mHedUlvBo8NGZ74luA==
+X-Received: by 10.159.39.4 with SMTP id a4mr10716572uaa.104.1483684656218;
+ Thu, 05 Jan 2017 22:37:36 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.176.5.39 with HTTP; Thu, 5 Jan 2017 22:37:35 -0800 (PST)
+From: Pallavi R <gr9@icesit.co.in>
+Date: Fri, 6 Jan 2017 12:07:35 +0530
+Message-ID: <CADV6RUN+JR4LApP4jeGc9OHPpSpHUYsjRjHOmdAy-OitUnMjZA@mail.gmail.com>
+Subject: ***SPAM*** 
+To: contact@crcct.org
+Content-Type: multipart/alternative; boundary=94eb2c1244fee49ee105456740c9
+
+--94eb2c1244fee49ee105456740c9
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Respected Professors /Researchers,
+
+Greetings from committee members of =E2=80=9CCurrent Research on Cement and
+Corrosion Technology (CRCCT-2017)=E2=80=9D. You are cordially invited to su=
+bmit
+your research paper to the conference CRCCT-2017. The conference is calling
+papers from the following specializations:
+
+=C3=98  Cement Hydration
+
+=C3=98  Self-Compacting Concrete
+
+=C3=98  Earth-Moist Concrete
+
+=C3=98  Gypsum Concrete
+
+=C3=98  Fundamental Research to Determine Corrosion Mechanisms
+
+=C3=98  Rapid Screening of Corrosion Performance
+
+=C3=98  Development and Refinement of Surface Treatments to Protect metals
+against corrosion
+
+The accepted papers will be submitted to =E2=80=9C*Elsevier: Journal of =E2=
+=80=9CCase
+studies and Construction Materials*=E2=80=9D for possible publication.
+
+The last date of paper submission: 7th Jan. 2017.
+
+For more details, please go to: http://ow.ly/mtkC307JTHO    (or) contact:
+contact@crcct.org
+
+--94eb2c1244fee49ee105456740c9
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><p class=3D"MsoNormal" style=3D"text-align:justify"><span =
+style=3D"font-size:12pt;line-height:115%;font-family:&quot;times new roman&=
+quot;,serif">Respected
+Professors /Researchers, <span></span></span></p>
+
+<p class=3D"MsoNormal" style=3D"text-align:justify"><span style=3D"font-siz=
+e:12pt;line-height:115%;font-family:&quot;times new roman&quot;,serif">Gree=
+tings
+from committee members of =E2=80=9CCurrent Research on Cement and Corrosion=
+ Technology
+(CRCCT-2017)=E2=80=9D. You are cordially invited to submit your research pa=
+per to the
+conference CRCCT-2017. The conference is calling papers from the following
+specializations:<span></span></span></p>
+
+<p class=3D"gmail-MsoListParagraphCxSpFirst" style=3D"text-align:justify"><=
+span style=3D"font-size:12pt;line-height:115%;font-family:wingdings">=C3=98=
+<span style=3D"font-variant-numeric:normal;font-stretch:normal;font-size:7p=
+t;line-height:normal;font-family:&quot;times new roman&quot;">=C2=A0 </span=
+></span><span style=3D"font-size:12pt;line-height:115%;font-family:&quot;ti=
+mes new roman&quot;,serif">Cement
+Hydration<span></span></span></p>
+
+<p class=3D"gmail-MsoListParagraphCxSpMiddle" style=3D"text-align:justify">=
+<span style=3D"font-size:12pt;line-height:115%;font-family:wingdings">=C3=
+=98<span style=3D"font-variant-numeric:normal;font-stretch:normal;font-size=
+:7pt;line-height:normal;font-family:&quot;times new roman&quot;">=C2=A0 </s=
+pan></span><span style=3D"font-size:12pt;line-height:115%;font-family:&quot=
+;times new roman&quot;,serif">Self-Compacting
+Concrete<span></span></span></p>
+
+<p class=3D"gmail-MsoListParagraphCxSpMiddle" style=3D"text-align:justify">=
+<span style=3D"font-size:12pt;line-height:115%;font-family:wingdings">=C3=
+=98<span style=3D"font-variant-numeric:normal;font-stretch:normal;font-size=
+:7pt;line-height:normal;font-family:&quot;times new roman&quot;">=C2=A0 </s=
+pan></span><span style=3D"font-size:12pt;line-height:115%;font-family:&quot=
+;times new roman&quot;,serif">Earth-Moist
+Concrete<span></span></span></p>
+
+<p class=3D"gmail-MsoListParagraphCxSpMiddle" style=3D"text-align:justify">=
+<span style=3D"font-size:12pt;line-height:115%;font-family:wingdings">=C3=
+=98<span style=3D"font-variant-numeric:normal;font-stretch:normal;font-size=
+:7pt;line-height:normal;font-family:&quot;times new roman&quot;">=C2=A0 </s=
+pan></span><span style=3D"font-size:12pt;line-height:115%;font-family:&quot=
+;times new roman&quot;,serif">Gypsum
+Concrete<span></span></span></p>
+
+<p class=3D"gmail-MsoListParagraphCxSpMiddle" style=3D"text-align:justify">=
+<span style=3D"font-size:12pt;line-height:115%;font-family:wingdings">=C3=
+=98<span style=3D"font-variant-numeric:normal;font-stretch:normal;font-size=
+:7pt;line-height:normal;font-family:&quot;times new roman&quot;">=C2=A0 </s=
+pan></span><span style=3D"font-size:12pt;line-height:115%;font-family:&quot=
+;times new roman&quot;,serif">Fundamental
+Research to Determine Corrosion Mechanisms<span></span></span></p>
+
+<p class=3D"gmail-MsoListParagraphCxSpMiddle" style=3D"text-align:justify">=
+<span style=3D"font-size:12pt;line-height:115%;font-family:wingdings">=C3=
+=98<span style=3D"font-variant-numeric:normal;font-stretch:normal;font-size=
+:7pt;line-height:normal;font-family:&quot;times new roman&quot;">=C2=A0 </s=
+pan></span><span style=3D"font-size:12pt;line-height:115%;font-family:&quot=
+;times new roman&quot;,serif">Rapid
+Screening of Corrosion Performance<span></span></span></p>
+
+<p class=3D"gmail-MsoListParagraphCxSpLast" style=3D"text-align:justify"><s=
+pan style=3D"font-size:12pt;line-height:115%;font-family:wingdings">=C3=98<=
+span style=3D"font-variant-numeric:normal;font-stretch:normal;font-size:7pt=
+;line-height:normal;font-family:&quot;times new roman&quot;">=C2=A0 </span>=
+</span><span style=3D"font-size:12pt;line-height:115%;font-family:&quot;tim=
+es new roman&quot;,serif">Development
+and Refinement of Surface Treatments to Protect metals against corrosion<sp=
+an></span></span></p>
+
+<p class=3D"MsoNormal" style=3D"text-align:justify"><span style=3D"font-siz=
+e:12pt;line-height:115%;font-family:&quot;times new roman&quot;,serif">The
+accepted papers will be submitted to =E2=80=9C<b><span style=3D"color:red">=
+Elsevier: Journal of =E2=80=9CCase studies and Construction Materials</span=
+></b>=E2=80=9D
+for possible publication.<span></span></span></p>
+
+<p class=3D"MsoNormal" style=3D"text-align:justify"><span style=3D"font-siz=
+e:12pt;line-height:115%;font-family:&quot;times new roman&quot;,serif">The
+last date of paper submission: 7<sup>th</sup> Jan. 2017.<span></span></span=
+></p>
+
+<p class=3D"MsoNormal" style=3D"text-align:justify"><span style=3D"font-siz=
+e:12pt;line-height:115%;font-family:&quot;times new roman&quot;,serif">For
+more details, please go to:</span> <span style=3D"font-size:12pt;line-heigh=
+t:115%;font-family:&quot;times new roman&quot;,serif"><a href=3D"http://ow.=
+ly/mtkC307JTHO">http://ow.ly/mtkC307JTHO</a>
+=C2=A0=C2=A0=C2=A0(or) contact: </span><a href=3D"mailto:contact@crcct.org"=
+><span style=3D"font-size:12pt;line-height:115%;font-family:&quot;times new=
+ roman&quot;,serif">contact@crcct.org</span></a><span style=3D"font-size:12=
+pt;line-height:115%;font-family:&quot;times new roman&quot;,serif">
+<span></span></span></p></div>
+
+--94eb2c1244fee49ee105456740c9--

@@ -1,0 +1,102 @@
+Return-Path: <bounce@transcriptionfleet.info>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id ACE29D1933
+	for <mail@dorianvasco.de>; Sat, 25 May 2019 01:06:31 +0200 (CEST)
+Authentication-Results: v22014122474822114.stilfilm.com; dkim=pass
+	reason="1024-bit key; insecure key"
+	header.d=transcriptionfleet.info header.i=@transcriptionfleet.info
+	header.b=uGle/eVx; dkim-adsp=pass; dkim-atps=neutral
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 10.172
+X-Spam-Level: **********
+X-Spam-Status: Yes, score=10.172 required=5.5 tests=[BAYES_80=2,
+	DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	HTML_IMAGE_ONLY_28=1.404, HTML_MESSAGE=0.001,
+	IMG_ONLY_FM_DOM_INFO=2.254, MIME_HTML_ONLY=0.723, PYZOR_CHECK=1.392,
+	SPF_HELO_PASS=-0.001, SPF_PASS=-0.001, URIBL_DBL_SPAM=2.5]
+	autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id s1JqJF217R4D for <mail@dorianvasco.de>;
+	Sat, 25 May 2019 01:06:27 +0200 (CEST)
+Received: from transcriptionfleet.info (transcriptionfleet.info [51.75.46.97])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id 0E8CBD18FC
+	for <mail@dorianvasco.de>; Sat, 25 May 2019 01:06:25 +0200 (CEST)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed;
+	d=transcriptionfleet.info; s=mail; h=Content-Transfer-Encoding:Content-Type:
+	List-Unsubscribe:MIME-Version:Reply-To:From:Date:Message-ID:Subject:To:Sender
+	:Cc:Content-ID:Content-Description:Resent-Date:Resent-From:Resent-Sender:
+	Resent-To:Resent-Cc:Resent-Message-ID:In-Reply-To:References:List-Id:
+	List-Help:List-Subscribe:List-Post:List-Owner:List-Archive;
+	bh=i0Bfk3ySjHLHJmXVe9mzYV8PmW8Ws7T/ukPlHikAJJE=; b=uGle/eVxscRTGcABaTMIee/hWF
+	BRdlz7/6kkIj2z7elVLSuvQS6m0w5I5QA+kYP425Y0xZe6XXPCG3FNiJB95ZSjCEZ3rr7bI4NBwhT
+	cQpwD9aprPre2TtVtDWyjIWjm+gSRxanQlwgwtgltMFMZJ8BCgccfMLssQtsCfYm3KrA=;
+Received: from root by transcriptionfleet.info with local (Exim 4.91)
+	(envelope-from <bounce@transcriptionfleet.info>)
+	id 1hUJGF-0006HK-2S
+	for mail@dorianvasco.de; Fri, 24 May 2019 19:06:03 -0400
+To: mail@dorianvasco.de
+Subject: The perfect logo and website for your business
+X-PHP-Originating-Script: 0:email.php
+Message-ID: <b9237c87782f04862df71af3ce14f1e9@transcriptionfleet.info>
+Date: Fri, 24 May 2019 22:16:01 +0000
+From: "Frances White" <info@transcriptionfleet.info>
+Reply-To: info@transcriptionfleet.info
+MIME-Version: 1.0
+X-Mailer-LID: 20
+List-Unsubscribe: <http://transcriptionfleet.info/mailsoft/unsubscribe.php?M=1130202&C=069e8162faf19b3c6633e8891177dd43&L=20&N=21>
+X-Mailer-RecptId: 1130202
+X-Mailer-SID: 21
+X-Mailer-Sent-By: 1
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+</head>
+<body>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size:
+small;">Hello,</span></p>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size:
+small;">Have you been searching for the perfect website for your business?
+Well, we have a goody bag to deliver to you. </span></p>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size:
+small;">We are a group of professional website and logo designers who can
+get the logo or website of your business ready in no distant time. No
+matter how big or small your business is &ndash; it is a necessity for your
+business to have an online presence. As adept professional designers we
+are, we will give you nothing but the best designs. </span></p>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size:
+small;">Without further ado, with just $299, we will design a dynamic
+website, which is the best and perfect website for your business. It will
+clearly explain what your business is, and as well give each of your
+clients the best user experience that will leave them with no option but to
+return. </span></p>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size:
+small;">With just $75, you will get the best logo designs from us. We also
+render article and content writing, and SEO services with just $15 and $149
+respectively. Below are some of our logo designs. </span></p>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size:
+small;"> &nbsp; &nbsp; &nbsp; &nbsp; I&rsquo;m sure you are now convinced
+on the quality of our services, so, it&rsquo;s time to claim the goody bag
+of excellent and outstanding designs. We also do graphic / Photoshop
+related work including website designing &amp; development such as complete
+coding &amp; development of informational or ecommerce
+websites.</span></p>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size:
+small;"> Our pricing is better or comparable to individual service
+provider. To place your orders, reply this mail and we will send you the
+details on how to place your orders.</span></p>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size:
+small;">Regards,<br /></span><span style="font-family: arial, helvetica,
+sans-serif; font-size: small;">Frances White</span></p>
+<img
+src="http://transcriptionfleet.info/mailsoft/open.php?M=1130202&L=20&N=21&F=H&image=.jpg"
+height="1" width="10"></body>
+</html>

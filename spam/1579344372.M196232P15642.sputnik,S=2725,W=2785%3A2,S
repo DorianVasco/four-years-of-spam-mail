@@ -1,0 +1,60 @@
+Return-Path: <admin@fun007.ru>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 14ED4C15BD
+	for <mail@dorianvasco.de>; Thu, 13 Dec 2018 18:57:44 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: -0.1
+X-Spam-Level:
+X-Spam-Status: No, score=-0.1 required=5.5 tests=[DKIM_SIGNED=0.1,
+	DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1, HTML_MESSAGE=0.001,
+	SPF_HELO_PASS=-0.001, SPF_PASS=-0.001, URIBL_BLOCKED=0.001]
+	autolearn=unavailable
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 6ij_OAQjQpJk for <mail@dorianvasco.de>;
+	Thu, 13 Dec 2018 18:57:39 +0100 (CET)
+Received: from fun007.ru (fun007.ru [188.246.233.73])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 7A3D4C0F17
+	for <mail@dorianvasco.de>; Thu, 13 Dec 2018 18:57:34 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=key1; d=fun007.ru;
+ h=Message-ID:Reply-To:From:To:Subject:Date:MIME-Version:Content-Type; i=admin@fun007.ru;
+ bh=smW3igglug3/z1iTYZ5LZj1ITiw=;
+ b=dAG0gUjr/W0qh99sc/LYBbzHywYNkIUGC8PPRs+Z7OHs0Xsy4Qts3iO5yvp2Emclik1qOoBHEPph
+   s5CmR/+aDn068F4lOK4zIYR3H79QJb4iElFJGVmaRLayhN++q/vw9oTX+kjBb6IgwIDraMY1TnqG
+   Erqz1O7+CJRD9LWOFmM=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=key1; d=fun007.ru;
+ b=PbDKC6S28WuSdwPEk4IIhLGwhDGfGmH5oHNcNAJ/iuf2R7M5HqB94XcQkrkAFkqLngvUlyOLNW7F
+   31uvCCwA9lq4Wij1EyYMqHo86i0QVHRCx96bFKpbERiQfQMJMPnvpKcll4AvNSmyz8JfPuiDHPjK
+   uskctrdf/1yYIjOTR14=;
+Message-ID: <82abe2517b1c363f9396208c6a6e4443f854a8@fun007.ru>
+Reply-To: "Stafford Met'yu" <admin@fun007.ru>
+From: "Stafford Met'yu" <admin@fun007.ru>
+To: <mail@dorianvasco.de>
+Subject: Here is  a fine offers
+Date: Thu, 13 Dec 2018 20:59:32 +0300
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0aa9e053791e343d9194228e686c46419cb301"
+X-Priority: 1
+
+--0aa9e053791e343d9194228e686c46419cb301
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+=C2=A0Hy there Look what we have for you! an important offer Just click o=
+n the link below to qualify
+
+--0aa9e053791e343d9194228e686c46419cb301
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<HTML><HEAD>
+<META http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+</HEAD>
+<BODY bgColor=3D#ffffff>
+<DIV align=3Dleft><A href=3D"http://bit.ly/2UHvGvG">&nbsp;Hy there=20
+Look what we have for you! an important offer=20
+Just click on the link below to qualify </A></DIV></BODY></HTML>
+
+--0aa9e053791e343d9194228e686c46419cb301--

@@ -1,0 +1,30 @@
+Return-Path: <infolike2420@festivalcircolo.com>
+Delivered-To: mail@stilfilm.com
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id B228BD0FFA
+	for <mail@stilfilm.com>; Tue, 30 Oct 2018 15:51:16 +0100 (CET)
+X-Quarantine-ID: <5-BW9xTBMEJf>
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Amavis-Alert: BAD HEADER SECTION, Missing required header field: "Date"
+X-Spam-Flag: YES
+X-Spam-Score: 6.411
+X-Spam-Level: ******
+X-Spam-Status: Yes, score=6.411 required=5.5 tests=[HTML_MESSAGE=0.001,
+	HTML_MIME_NO_HTML_TAG=0.635, MIME_HTML_ONLY=1.105, MISSING_DATE=1.396,
+	MISSING_HEADERS=1.207, MISSING_MID=0.14, RDNS_NONE=1.274,
+	SPF_HELO_NEUTRAL=0.001, SPF_NEUTRAL=0.652] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 5-BW9xTBMEJf for <mail@stilfilm.com>;
+	Tue, 30 Oct 2018 15:51:11 +0100 (CET)
+Received: from festivalcircolo.com (unknown [191.96.249.167])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 3BDA0C1BE8
+	for <dane@stilfilm.com>; Tue, 30 Oct 2018 15:51:09 +0100 (CET)
+From: "facebook" <infolike2420@festivalcircolo.com>
+Subject: hey hey
+MIME-Version: 1.0
+Content-Type: text/html
+Message-Id: <20181030145116.B228BD0FFA@v22014122474822114.stilfilm.com>
+Date: Tue, 30 Oct 2018 15:51:16 +0100 (CET)
+
+ 

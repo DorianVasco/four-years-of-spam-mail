@@ -1,0 +1,64 @@
+Return-Path: <mirjam28rs90tnagel@parsiancenter.com>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id EFF17C20F4
+	for <mail@dorianvasco.de>; Fri, 29 Dec 2017 14:54:38 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 12.502
+X-Spam-Level: ************
+X-Spam-Status: Yes, score=12.502 required=5.5 tests=[DIGEST_MULTIPLE=0.001,
+	DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	FSL_BULK_SIG=0.001, HTML_IMAGE_ONLY_12=1.629, HTML_MESSAGE=0.001,
+	HTML_SHORT_LINK_IMG_1=0.139, MIME_HTML_ONLY=1.105, PYZOR_CHECK=1.985,
+	RAZOR2_CF_RANGE_51_100=2.43, RAZOR2_CHECK=1.729,
+	RCVD_IN_BRBL_LASTEXT=1.644, SPF_PASS=-0.001, T_RP_MATCHES_RCVD=-0.01,
+	URIBL_ABUSE_SURBL=1.948, URIBL_BLOCKED=0.001] autolearn=unavailable
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id BQR3_lL8oLIr for <mail@dorianvasco.de>;
+	Fri, 29 Dec 2017 14:54:37 +0100 (CET)
+Received: from side.parsiancenter.com (side.parsiancenter.com [185.207.8.72])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id C9070C0493
+	for <mail@dorianvasco.de>; Fri, 29 Dec 2017 14:54:37 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=parsiancenter.com;
+ h=Date:From:To:Subject:Message-ID:MIME-Version:Content-Type:Content-Transfer-Encoding; i=mirjam28rs90tnagel@parsiancenter.com;
+ bh=qycMiIguTYBzkzcLZfYYSj6L+Do=;
+ b=i6ZcgA6mCwciijJTs+fBKXheV69XRMcsfbSUMDzW9T3lIosVYEiftI/24BPDOiLPoGliBAgEMr2g
+   cGp3qIdkGegDRi8BwavgY0F0fTVGmf1DYiEaspHCDb+u9vs3T5346WUPL2RbP+IK4vhDJN8fNQ1a
+   iahr0Xd55wdqM+GzWp4=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=parsiancenter.com;
+ b=Sz96xa8lZnCV4Bne9GUHavWSYNzbYtgglym2CvHqNX1pzd0AumTg6ZDYuSlTM2Vel7j5gPau07ri
+   rUJs1XiAwW84ieuxsgyC0b33hgHpp9XyfQkSUTE2BS33WS1SxNR9VBWJbyhKVC3cLZpKHTaeMHrk
+   hUQthlQd56M7d06Dq80=;
+Date: Fri, 29 Dec 2017 13:58:04 +0100
+From: =?UTF-8?Q?Mirjam_Nagel?= <mirjam28rs90tnagel@parsiancenter.com>
+To:  <mail@dorianvasco.de>
+Subject: =?UTF-8?Q?Setze_sie_mal_auf_und_sie_sch=C3=BCtzt_dich_beim_Fahren?=
+Message-ID: <J1601JQIEE5PKAX76N2Z4C1F4WOKRR@c.parsiancenter.com>
+MIME-Version: 1.0
+Precedence: bulk
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html>=0D
+<head>=0D
+</head><body>=0D
+<center>=0D
+Fahrer in Lebensgefahr, er hatte diese Brille nicht an<br /><a href=3D"http=
+://n.parsiancenter.com/"><img style=3D"padding-right:auto; top:3px; text-in=
+dent:0px; " src=3D"http://na.parsiancenter.com/00.jpg" /></a>=0D
+<br /><a href=3D"http://n.parsiancenter.com/">Setze sie mal auf und sie sch=
+=C3=BCtzt dich beim Fahren</a>=0D
+<br /><br /><div style=3D"width:100%; height:430; ">Hatte die Brille nicht =
+an, er fuhr in den Stra=C3=9Fengraben<br /><br /></div><a href=3D"http://pa=
+rsiancenter.com/ub.php?km=3Dn82w2214708rnxgnz8sp67d8j4cad81w8iquw" style=3D=
+"background-color:#ffffff; font-size:12px; background-color:#ffffff; border=
+-right:ridge 1px #ffffff; border-right-color:#ffffff; font:auto Times New R=
+oman, Georgia, Serif normal inheritinherit; ">Bitte um L=C3=B6schen der ein=
+getragenen E-Mail-Adresse aus dem Verteiler</a></center><br />Wegen des Geg=
+enverkehrs nichts sehen? Setze sie beim Fahren diese Brille auf=0D
+<img src=3D"http://parsiancenter.com/ob.php?z4=3Dn82w2214708rnxgnz8sp67d8j4=
+cad81w8iquw" />=0D
+</body>=0D
+</html>=

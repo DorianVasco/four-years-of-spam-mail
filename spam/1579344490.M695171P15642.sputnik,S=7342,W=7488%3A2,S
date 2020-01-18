@@ -1,0 +1,146 @@
+Return-Path: <rain66m@gmail.com>
+Delivered-To: mail@stilfilm.com
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 48F6CC82A5
+	for <mail@stilfilm.com>; Thu, 25 Jul 2019 16:52:33 +0200 (CEST)
+Authentication-Results: v22014122474822114.stilfilm.com; dkim=pass
+	reason="2048-bit key; insecure key"
+	header.d=gmail.com header.i=@gmail.com header.b=S5uDuHyL;
+	dkim-adsp=pass; dkim-atps=neutral
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: 0.962
+X-Spam-Level:
+X-Spam-Status: No, score=0.962 required=5.5 tests=[BAYES_50=0.8,
+	DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	FREEMAIL_FROM=0.001, HTML_MESSAGE=0.001, HTML_OBFUSCATE_05_10=0.26,
+	RCVD_IN_DNSWL_NONE=-0.0001, SPF_HELO_NONE=0.001, SPF_PASS=-0.001]
+	autolearn=ham
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id By-eOg_bFw7F for <mail@stilfilm.com>;
+	Thu, 25 Jul 2019 16:52:27 +0200 (CEST)
+Received: from mail-io1-f67.google.com (mail-io1-f67.google.com [209.85.166.67])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id D84CDC6D69
+	for <mail@stilfilm.com>; Thu, 25 Jul 2019 16:52:24 +0200 (CEST)
+Received: by mail-io1-f67.google.com with SMTP id q22so97798095iog.4
+        for <mail@stilfilm.com>; Thu, 25 Jul 2019 07:52:24 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=gzYFKc/bCFKLuj+ZT4Y0vHrmQrs5jDbCBqga9VsWWsI=;
+        b=S5uDuHyLmUZgiSI6xqJj7NRLkzvIlVckyUIrhlz2Dg5J0QzM1y2hq9dEhp5wuAt+fM
+         BAYFEOjsecVSvhSjfXwTgmyHx4AQibFhFXJSXSC6na7eY2aKXXp3uFG1r1Eikkmu88h8
+         avLrjSiwHurcSZavCejVVNu/ipRqYwd9bmBFyAyq4Q7o/og7wRreKokU6YWvqm0Q4uvP
+         3bhHrp6Q3mdVrWxLwAKnTX1Y8a0qCGMG9R0DsZ7C0i8KysCZZE+ySk4ogfDpr4c7bblM
+         1VaxOyTnMhe/EF8Urs8N4bcK9x/CZkQgU5ubk/k0TAyKot9gklql9JKjmq+Klfsfvlse
+         nhrA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=gzYFKc/bCFKLuj+ZT4Y0vHrmQrs5jDbCBqga9VsWWsI=;
+        b=fzvW0hqqrjSOx9OQvThwjlYWI05fLaLMnmgjEUrsbiKqLwMg5mkhyrTWDkj3Jpd74q
+         A4GXeSSDvZKlgEUDRc2tfEmb8tDIoo9qvDVmn5hYcGaXPAIaOnpxMTc6JeKsLe1+Uy45
+         mnWh7P8tnmljaSJvTGEcir0B/7r5g05QYp2dVFFP2Gjx5PkxalBAhfEz3D3KMaV6PRJ4
+         AWFpoy/OSEHFsFuvB4eWHOmwK9YWL/FICyBAwVr5BJaYKq8Rqoswl6y2I+0in757DiSb
+         ccWzikOevQ/W1MEGxaAABPy/lD3ifuScQNzTtqqYN5jmLm0DYQ1BM5r3CTjPqqlEyDxS
+         AEpQ==
+X-Gm-Message-State: APjAAAU6xSCr3NxU5SwBpuWpGsjHePdflvfeTbT+n0/Vw92cQxRmZXw9
+	zZBWmdeuSeXys3DzXTpm93YWbjqNBfPBeCSXjl9oOA==
+X-Google-Smtp-Source: APXvYqw+rXUQ2sN7crqzoGHRdnJWrnPil/+1+rEcjkBhJVbHKlApPLV6QVXQDihwbKs5RPLtQPUf0SWjewNIwKQe6k0=
+X-Received: by 2002:a5d:8447:: with SMTP id w7mr6190633ior.197.1564066342494;
+ Thu, 25 Jul 2019 07:52:22 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 2002:a5d:944b:0:0:0:0:0 with HTTP; Thu, 25 Jul 2019 07:52:22
+ -0700 (PDT)
+From: Rain Moore <rain66m@gmail.com>
+Date: Thu, 25 Jul 2019 20:22:22 +0530
+Message-ID: <CAGC+2ARjgsjHa=wZGpUxNLg982PTRDK5zvgFxcNE-UgNZgEWiw@mail.gmail.com>
+Subject: Proposal
+To: mail@stilfilm.com
+Content-Type: multipart/alternative; boundary="000000000000bfe56b058e82927c"
+
+--000000000000bfe56b058e82927c
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi,
+
+Hope you're having a good day!
+
+We are an App Development company based out of India, that specialises in
+working across various platforms. Our expertise lies in* Web and App
+development *and we are exceptionally proficient in *Cake and
+Django Development.*
+
+We provide dedicated Developers to work as your Virtual Staff and help you
+deliver services to your clients on time, without compromise on quality and
+with a cost reduction of up to 70%.
+
+We are currently working with Fortune 500 companies across North America
+along with several large software firms that can vouch for the level of
+service we provide.
+
+*What can we help with?*
+
+=C2=B7*App Development -*Full-time, Part-time and Hourly
+
+=C2=B7*Web App Development - *Full-time, Part-time and Hourly
+
+*What Make Us Different?*
+
+   - Resources available on *your business hours.*
+   - Transparent time and project tracking through *JIRA, Confluence,
+   TempoTimesheets *and *Slack.*
+   - *Daily Standup* meetings and *a Dedicated Project Manager*
+   - Excellent communication skills in *English.*
+
+We are also running a promotional offer and can offer a free *1-week
+trial *without
+any obliagtations or riders.
+
+If you have any *Dev *requirements or would like to try us out for, please
+*reply* to this email, and we will share more details about our company
+from an official email address.
+
+P. S: If you are not interested, please reply "Remove", and we will not
+bother you again.
+
+Regards
+
+--000000000000bfe56b058e82927c
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<p>Hi,</p><p>Hope you&#39;re having a good day!</p><p>We are an App Develop=
+ment company based out of India, that specialises in working across various=
+ platforms. Our expertise lies in<strong>=C2=A0Web and App development=C2=
+=A0</strong>and we are exceptionally proficient in <strong>Cake and Django=
+=C2=A0Development.</strong></p><p><span title=3D"">We provide dedicated Dev=
+elopers to work as your Virtual Staff and help you deliver services to your=
+ clients on time, without compromise on quality and with a cost reduction o=
+f up to 70%.</span></p><p>We are currently working with Fortune 500 compani=
+es across North America along with several large software firms that can vo=
+uch for the level of service we provide.</p><p><strong>What can we help wit=
+h?</strong></p><p>=C2=B7<strong><span title=3D"">App Development -</span></=
+strong>Full-time, Part-time and Hourly</p><p>=C2=B7<strong><span title=3D""=
+>Web App Development=C2=A0</span>-=C2=A0</strong><span title=3D"">Full-time=
+, Part-time and Hourly</span></p><p><strong>What Make Us Different?</strong=
+></p><ul type=3D"disc"><li>Resources available on <strong>your business hou=
+rs.</strong></li><li>Transparent time and project tracking through <strong>=
+JIRA, Confluence, TempoTimesheets=C2=A0</strong>and <strong>Slack.</strong>=
+</li><li><strong><span title=3D"">Daily Standup</span></strong><span title=
+=3D"">=C2=A0meetings and <strong>a Dedicated Project Manager</strong></span=
+></li><li>Excellent communication skills in <strong>English.</strong></li><=
+/ul><p>We are also running a promotional offer and can offer a free <strong=
+>1-week trial=C2=A0</strong>without any obliagtations or riders.</p><p><spa=
+n title=3D"">If you have any <strong>Dev=C2=A0</strong>requirements or woul=
+d like to try us out for, please <strong>reply</strong><span title=3D"">=C2=
+=A0to this email, and we will share more details about our company from an =
+official email address.</span></span></p><p>P. S: If you are not interested=
+, please reply &quot;Remove&quot;, and we will not bother you again.</p><p>=
+Regards</p><p><br></p>
+
+--000000000000bfe56b058e82927c--

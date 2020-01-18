@@ -1,0 +1,60 @@
+Return-Path: <admin@geoprofy.ru>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 93D5AD1B66
+	for <mail@dorianvasco.de>; Sat, 15 Dec 2018 18:14:45 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: 5.13
+X-Spam-Level: *****
+X-Spam-Status: No, score=5.13 required=5.5 tests=[DKIM_SIGNED=0.1,
+	DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1, HTML_MESSAGE=0.001,
+	RCVD_IN_BL_SPAMCOP_NET=1.246, RCVD_IN_PSBL=2.7, RCVD_IN_RP_RNBL=1.284,
+	SPF_HELO_PASS=-0.001, SPF_PASS=-0.001, URIBL_BLOCKED=0.001]
+	autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id D6NesGeReZbh for <mail@dorianvasco.de>;
+	Sat, 15 Dec 2018 18:14:41 +0100 (CET)
+Received: from geoprofy.ru (geoprofy.ru [92.53.91.236])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 1E4E2C1FD2
+	for <mail@dorianvasco.de>; Sat, 15 Dec 2018 18:14:41 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=key1; d=geoprofy.ru;
+ h=Message-ID:Reply-To:From:To:Subject:Date:MIME-Version:Content-Type; i=admin@geoprofy.ru;
+ bh=rKAsiKFxB0BrOhwPZwLYX9rVN88=;
+ b=ecZ25RNCVwsiOCrFIOq9siAtHIG8006OaS2GhanhgDb3lF8Adwib3sr6yskC4o8BlZtnxPpSCk9Y
+   x3Vy0r7DmZNQy6qZrbcN8MUYROv+KSbhLNEyqhpCljbKx75P73RYFEtKcbn0zoG+ExJiENeHLC8t
+   3CngRevLmuVki99+PCs=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=key1; d=geoprofy.ru;
+ b=ADNHVBMx2e4i8d9P2Em9VeHzkLk19tzfwL3bXqSomJQy38UgsfQggDGo26PS6Ct2NHe/GZiXJZ5R
+   KMAiDZC5nwcod8RuSzzTQjAepR0NRJQ41Keil84BWHK5+OIDPjIoiqw8DfNFmr6ekoaptsxrQV+f
+   o2aD+Cci77EerMyF6Jg=;
+Message-ID: <8c9406a2569d69d6f50acc9f944078a48776767c40@geoprofy.ru>
+Reply-To: "Cowboy" <admin@geoprofy.ru>
+From: "Cowboy" <admin@geoprofy.ru>
+To: <mail@dorianvasco.de>
+Subject: Look at an amazing offering
+Date: Sat, 15 Dec 2018 20:18:03 +0300
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="a81950e3c9ae848d2124923ed8dcf6f1f9f5d2"
+X-Priority: 1
+
+--a81950e3c9ae848d2124923ed8dcf6f1f9f5d2
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+=C2=A0Hi Good news ! an important offering Are you in?
+
+--a81950e3c9ae848d2124923ed8dcf6f1f9f5d2
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<HTML><HEAD>
+<META http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+</HEAD>
+<BODY bgColor=3D#ffffff>
+<DIV align=3Dleft><A href=3D"http://bit.ly/2BjN7JP">&nbsp;Hi=20
+Good news !  an important offering=20
+Are you in?  </A></DIV></BODY></HTML>
+
+--a81950e3c9ae848d2124923ed8dcf6f1f9f5d2--

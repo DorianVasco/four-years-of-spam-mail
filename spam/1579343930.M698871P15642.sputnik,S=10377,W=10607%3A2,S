@@ -1,0 +1,230 @@
+Received: from localhost by v22014122474822114.stilfilm.com
+	with SpamAssassin (version 3.3.2);
+	Wed, 22 Nov 2017 20:47:05 +0100
+From: "Battery Restoration At Home" <restorebattery@datandi.us>
+To: <mail@dorianvasco.de>
+Subject: *****SPAM***** ***SPAM*** [video] Dead Simple Trick Brings Any Battery Back To Life
+Date: Tue, 27 Jun 2017 18:35:50 +0200
+Message-Id: <77orzj222gamvy6w-lewl0plwxdihgob0-254c3e94@datandi.us>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	v22014122474822114.stilfilm.com
+X-Spam-Flag: YES
+X-Spam-Level: *********
+X-Spam-Status: Yes, score=9.5 required=5.0 tests=DIGEST_MULTIPLE,DKIM_SIGNED,
+	HTML_MESSAGE,MIME_HTML_MOSTLY,PYZOR_CHECK,RAZOR2_CF_RANGE_51_100,RAZOR2_CHECK,
+	RDNS_NONE,T_DKIM_INVALID,T_REMOTE_IMAGE,URIBL_ABUSE_SURBL,URIBL_BLOCKED
+	autolearn=no version=3.3.2
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----------=_5A15D439.CDFE44C8"
+
+This is a multi-part message in MIME format.
+
+------------=_5A15D439.CDFE44C8
+Content-Type: text/plain; charset=iso-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+
+Software zur Erkennung von "Spam" auf dem Rechner
+
+    v22014122474822114.stilfilm.com
+
+hat die eingegangene E-mail als mögliche "Spam"-Nachricht identifiziert.
+Die ursprüngliche Nachricht wurde an diesen Bericht angehängt, so dass
+Sie sie anschauen können (falls es doch eine legitime E-Mail ist) oder
+ähnliche unerwünschte Nachrichten in Zukunft markieren können.
+Bei Fragen zu diesem Vorgang wenden Sie sich bitte an
+
+    the administrator of that system
+
+Vorschau: This email must be viewed in HTML mode. Hi, There's a new
+  way to bring nearly any type of old battery back to life ...so it's just like
+   new again. [...] 
+
+Inhaltsanalyse im Detail:   (9.5 Punkte, 5.0 benötigt)
+
+Pkte Regelname              Beschreibung
+---- ---------------------- --------------------------------------------------
+ 0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+                            See
+                            http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                             for more information.
+                            [URIs: datandi.us]
+ 1.9 URIBL_ABUSE_SURBL      Enthält URL in ABUSE-Liste (www.surbl.org) -
+                            changed from JP to ABUSE bug 7279
+                            [URIs: datandi.us]
+ 0.0 MIME_HTML_MOSTLY       BODY: Mehrteilige MIME-Nachricht überwiegend in HTML
+ 0.0 HTML_MESSAGE           BODY: Nachricht enthält HTML
+ 2.4 RAZOR2_CF_RANGE_51_100 Razor2 Spam-Bewertung liegt zwischen 51 und
+                            100
+                            [cf: 100]
+ 0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+ 1.7 RAZOR2_CHECK           Gelistet im "Razor2"-System (http://razor.sf.net/)
+ 2.0 PYZOR_CHECK            Gelistet im Pyzor-System (http://pyzor.sf.net/)
+ 0.0 DIGEST_MULTIPLE        Mehrere Internettests (Razor, DCC, Pyzor, etc.)
+                            treffen zu
+ 1.3 RDNS_NONE              Delivered to internal network by a host with no rDNS
+ 0.0 T_DKIM_INVALID         DKIM-Signature header exists but is not valid
+ 0.0 T_REMOTE_IMAGE         Message contains an external image
+
+Die ursprüngliche Nachricht enthielt nicht ausschließlich Klartext
+(plain text) und kann eventuell eine Gefahr für einige E-Mail-Programme
+darstellen (falls sie z.B. einen Computervirus enthält).
+Möchten Sie die Nachricht dennoch ansehen, ist es wahrscheinlich
+sicherer, sie zuerst in einer Datei zu speichern und diese Datei danach
+mit einem Texteditor zu öffnen.
+
+
+------------=_5A15D439.CDFE44C8
+Content-Type: message/rfc822; x-spam-type=original
+Content-Description: original message before SpamAssassin
+Content-Disposition: attachment
+Content-Transfer-Encoding: 8bit
+
+Return-Path: <4443-625753748-1328-mail=dorianvasco.de@mail.datandi.us>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 31F5FD437C
+	for <mail@dorianvasco.de>; Tue, 27 Jun 2017 18:35:54 +0200 (CEST)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 7.532
+X-Spam-Level: *******
+X-Spam-Status: Yes, score=7.532 required=5.5 tests=[BAYES_99=3.5,
+	BAYES_999=0.2, DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	HTML_MESSAGE=0.001, MIME_HTML_MOSTLY=0.428, RCVD_IN_PSBL=2.7,
+	RDNS_NONE=0.793, SPF_PASS=-0.001, T_REMOTE_IMAGE=0.01,
+	URIBL_BLOCKED=0.001] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id JUgV7W6EAfHX for <mail@dorianvasco.de>;
+	Tue, 27 Jun 2017 18:35:53 +0200 (CEST)
+Received: from arbor.datandi.us (unknown [23.95.232.84])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id B3804C07D9
+	for <mail@dorianvasco.de>; Tue, 27 Jun 2017 18:35:52 +0200 (CEST)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=datandi.us;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=restorebattery@datandi.us;
+ bh=CMhfVYCM3Ur4uRHw9yCVVGU4ZAk=;
+ b=ABhnv6Yu4Pbm1zSWCQ5BEi/D1u309l+W1MsjOSzeBfXJ5yumIDSlusEJCHuDLLCIERxvnhRJwqBI
+   U+E4opPBhMQOZ+wsEDIbSpOJI1W7RZgdTpD+zPHhYnEAkYFNFrNB59BAWbWNgHeq2+ik3hIPsVGl
+   gu8Nqcq58AZ45ivb5aA=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=datandi.us;
+ b=fnGtC2gA7d7gedeiAglWhZK4PP+W+oL14+AUR5t55xmxBG/0VsKNEfaQyaVJLQrz0v6/IqGgvu2q
+   tw0v9ekAFNoyswGRhzgH+ORVh3ouYSmpb7QS28qyyXo6Ga2EHWwfZTsb6NC/a9cjBsnlUR0y5CID
+   +TW5w1u9gHXPYvXe1kc=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="3c5e35896aa03d0fd52d19dd9f74bbca"
+Date: Tue, 27 Jun 2017 18:35:50 +0200
+From: "Battery Restoration At Home" <restorebattery@datandi.us>
+Reply-To: "Battery Reconditioning Guide" <restorebattery@datandi.us>
+Subject: ***SPAM*** [video] Dead Simple Trick Brings Any Battery Back To Life
+To: <mail@dorianvasco.de>
+Message-ID: <77orzj222gamvy6w-lewl0plwxdihgob0-254c3e94@datandi.us>
+
+--3c5e35896aa03d0fd52d19dd9f74bbca
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+This email must be viewed in HTML mode.
+
+--3c5e35896aa03d0fd52d19dd9f74bbca
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title></title>
+</head>
+<body><a href="http://datandi.us/WwEq6dF3Gi60EcEtwvc3cjchmu0yf1oMZQ1thqYw"><img border="0" src="http://datandi.us/vXfyvOQ95A-ebbILcp2p0ULKP7gL8ETNNpgwF1Hp" /> </a>
+<table align="center">
+	<tbody>
+		<tr>
+			<td>
+			<div style="width:600px;font:20px;text-align:justify;"><span style="color:#000000; font-size:20px;font-family: Times New Roman;">Hi,<br />
+			&nbsp;</span><br />
+			<span style="color:#000000; font-size:20px;font-family: Times New Roman;">There&#39;s a new way to bring nearly any type of old battery back to life ...so it&#39;s just like new again.<br />
+			<br />
+			This method works with nearly every type of battery out there ...and it&#39;s simple and quick.<br />
+			<br />
+			<strong><a href="http://datandi.us/j7uvBSL7Di6OJ9YLH7SvcbJvAHGamiYufx55kwqK">&gt;&gt; Click here to learn this secret battery reconditioning method &lt;&lt; </a> </strong><br />
+			<br />
+			In case you&#39;re wondering, you&#39;ll be able to bring car, phone, and laptop batteries back to life with this. </span><br />
+			&nbsp;
+			<p align="center"><span style="color:#000000; font-size:20px;font-family: Times New Roman;"><a href="http://datandi.us/j7uvBSL7Di6OJ9YLH7SvcbJvAHGamiYufx55kwqK"><img src="http://datandi.us/583155c3a8847ebb45.jpg" /></a></span></p>
+			<br />
+			<br />
+			<span style="color:#000000; font-size:20px;font-family: Times New Roman;">It even works with solar/off-grid, marine, golf cart, and forklift batteries. Plus, many more!<br />
+			<br />
+			<strong><a href="http://datandi.us/j7uvBSL7Di6OJ9YLH7SvcbJvAHGamiYufx55kwqK">&gt;&gt; Click here to learn how to bring your dead batteries back to life again &lt;&lt; </a></strong><br />
+			<br />
+			With this recondition battery secret, you won&#39;t have to buy new expensive batteries anymore. You can just recondition your old, used batteries and save a lot of money!<br />
+			<br />
+			And this <strong><a href="http://datandi.us/j7uvBSL7Di6OJ9YLH7SvcbJvAHGamiYufx55kwqK">new video presentation </a></strong>shows you how.<br />
+			<br />
+			Best regards,<br />
+			Tom Stokes </span><br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			&nbsp;
+			<div><br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			&nbsp;
+			<table border="0" cellpadding="0" cellspacing="0" width="600">
+				<tbody>
+					<tr>
+						<td align="center" style="font-family:Arial,Verdana,Helvetica,sans-serif;font-size:13px;color:#000000;">To Un_sub <a href="http://datandi.us/_26Y7CoVbRurGfpgTKo2Qelpd8fUWxby9_Q72CS7"> Click Here</a></td>
+					</tr>
+					<tr>
+						<td align="center" style="font-family:Arial,Verdana,Helvetica,sans-serif;font-size:13px;color:#000000;">2637 E Atlantic Blvd #36887 Pompano Beach Florida 33062 United States</td>
+					</tr>
+					<tr>
+					</tr>
+				</tbody>
+			</table>
+			</div>
+			</div>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+&nbsp;
+<p class="size_Ramirez" style="color:#ffffff;">minded game, while the reverse creates a slower, more defensive style of play. While players spend most of the game in a specific position, are few restrictions on player movement, and players can switch positions at any time. The layout of a team&#39;s players is as a . Defining the team&#39;s and tactics is usually the prerogative of the team&#39;s manager. Laws &quot;Rules of football&quot; redirects . For the rules of other football games, see Football. Main article: Laws of the Game (association football) are 17 laws in the official Laws of the Game, each containing a of stipulation and guidelines. The same laws are designed to apply to all levels of football, although certain modifications for groups such as juniors, seniors, women and people with physical</p>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+&nbsp;
+<p align="center"><a href="http://datandi.us/0pBTcpiQfg4D9Eg7BXzPex2KsUQl8nc-nx3S5ZMN"><img src="http://datandi.us/00375e5668014ce694.jpg" /></a></p>
+</body>
+</html>
+
+--3c5e35896aa03d0fd52d19dd9f74bbca--
+
+
+------------=_5A15D439.CDFE44C8--
+

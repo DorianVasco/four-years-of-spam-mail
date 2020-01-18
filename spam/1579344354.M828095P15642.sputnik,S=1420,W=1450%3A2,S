@@ -1,0 +1,30 @@
+Return-Path: <infolike6150@digiorginal.com>
+Delivered-To: mail@stilfilm.com
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 552AED0FF2
+	for <mail@stilfilm.com>; Tue, 30 Oct 2018 03:35:38 +0100 (CET)
+X-Quarantine-ID: <oZgu_nWf9tIt>
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Amavis-Alert: BAD HEADER SECTION, Missing required header field: "Date"
+X-Spam-Flag: YES
+X-Spam-Score: 7.626
+X-Spam-Level: *******
+X-Spam-Status: Yes, score=7.626 required=5.5 tests=[HTML_MESSAGE=0.001,
+	HTML_MIME_NO_HTML_TAG=0.635, MIME_HTML_ONLY=1.105, MISSING_DATE=1.396,
+	MISSING_HEADERS=1.207, MISSING_MID=0.14, RDNS_NONE=1.274,
+	SPF_HELO_SOFTFAIL=0.896, SPF_SOFTFAIL=0.972] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id oZgu_nWf9tIt for <mail@stilfilm.com>;
+	Tue, 30 Oct 2018 03:35:37 +0100 (CET)
+Received: from digiorginal.com (unknown [191.96.249.167])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 03DC1D0FEA
+	for <cleon@stilfilm.com>; Tue, 30 Oct 2018 03:35:36 +0100 (CET)
+From: "greymore" <infolike6150@digiorginal.com>
+Subject: hey hey
+MIME-Version: 1.0
+Content-Type: text/html
+Message-Id: <20181030023538.552AED0FF2@v22014122474822114.stilfilm.com>
+Date: Tue, 30 Oct 2018 03:35:38 +0100 (CET)
+
+ 

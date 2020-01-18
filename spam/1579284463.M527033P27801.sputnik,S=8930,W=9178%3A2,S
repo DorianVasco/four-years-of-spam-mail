@@ -1,0 +1,248 @@
+Return-Path: <paul@prodigital.live>
+Delivered-To: mail@stilfilm.com
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id B4999D1F03
+	for <mail@stilfilm.com>; Sat, 12 Oct 2019 13:30:34 +0200 (CEST)
+Authentication-Results: v22014122474822114.stilfilm.com; dkim=pass
+	reason="2048-bit key; insecure key"
+	header.d=prodigital-live.20150623.gappssmtp.com header.i=@prodigital-live.20150623.gappssmtp.com
+	header.b=x8rCJLdf; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: 0.952
+X-Spam-Level:
+X-Spam-Status: No, score=0.952 required=5.5 tests=[BAYES_50=0.8,
+	DKIM_SIGNED=0.1, DKIM_VALID=-0.1, HTML_MESSAGE=0.001,
+	RCVD_IN_DNSWL_NONE=-0.0001, RCVD_IN_SBL=0.141, SPF_HELO_NONE=0.001,
+	SPF_PASS=-0.001, T_REMOTE_IMAGE=0.01] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id IDrQLT1NSKYD for <mail@stilfilm.com>;
+	Sat, 12 Oct 2019 13:30:19 +0200 (CEST)
+Received: from mail-pg1-f196.google.com (mail-pg1-f196.google.com [209.85.215.196])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id 76CB4D1F00
+	for <mail@stilfilm.com>; Sat, 12 Oct 2019 13:30:07 +0200 (CEST)
+Received: by mail-pg1-f196.google.com with SMTP id d26so7295344pgl.7
+        for <mail@stilfilm.com>; Sat, 12 Oct 2019 04:30:06 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=prodigital-live.20150623.gappssmtp.com; s=20150623;
+        h=from:to:subject:date:message-id:mime-version:thread-index
+         :content-language;
+        bh=GHuGxyvwKRoCbYCim+5vvYaqZjW1IvSuGBVqJQo8PeQ=;
+        b=x8rCJLdfOnO5AryO2382WgxVEd7N72P2Vry9dn6OvmK+coSFYFV+wFiY7fm5ClmxP4
+         2LwZ6xmn6iPMCc0a75yGIe47NYqbnLBE/Xd8h9+RoKLt5mQQ/Le0y0yMhq0v/rgNE3Uo
+         q/WPXW/4unOYt4biLNHZkAufm47eZPup7vKsGlCvdNd5PMbw9oFFX3Pf6vBtvcOhWZp+
+         gsk/hDsqunXw2cnlL7rSrVJYOk8T145+KoDwOjJDmXEaxYaNvMosPcYGVCLIVqqspRmE
+         zW2vqFyb4hFDfZsVpjpaIFft71dyKF/Jm1NPv6qix5iRYow8cu9gtJ9e86UoQIPwWS0e
+         fiTg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:from:to:subject:date:message-id:mime-version
+         :thread-index:content-language;
+        bh=GHuGxyvwKRoCbYCim+5vvYaqZjW1IvSuGBVqJQo8PeQ=;
+        b=P+bu+eFv5OWKqriQVbffQiOWtcLugBALVdMsHouO4S+e3I+aHw23L86Md82HrY1bBq
+         UT1R7YuUrpU7oXyBLlXmadk1sTA6ianz01v/WsQDokWn8mlDNtMhOMqcfWZwG9QB6PeY
+         bys4kT5MaJNOPDJYheh1v9Baz68kf3jI3k1sgTtdUn9xbMt/3D7K//l9KgKE3R83AR31
+         s/XcxrbYks4hmpWo+DdJuHpm2CrNME9TINtg+B3jOhoeh1prj7AM/AyRHSdLHm8vZm3D
+         uOu1VKCM5oNLmb8O7p3BFb06QhovyzRrmA8MIrVPu29YnJ/OZMT0KXD6LCE9eM9HcWrK
+         nGiw==
+X-Gm-Message-State: APjAAAU2zNTWH57+4ktKhM06ZpUNYpVafHHflXzojtM62G3E1QiLSM4b
+	AymTV30RvMgQIqkv2ov3sRSwzYbQQS0=
+X-Google-Smtp-Source: APXvYqwNq3nPcZOycEz90i47UBsm0zTEUbRqOBqF4kq1Y9H8KHrBCRL2YSVRxBsRxx46nVceJ/QuQQ==
+X-Received: by 2002:aa7:8b02:: with SMTP id f2mr22100444pfd.31.1570879804516;
+        Sat, 12 Oct 2019 04:30:04 -0700 (PDT)
+Received: from skPC ([196.207.114.206])
+        by smtp.gmail.com with ESMTPSA id k66sm11949081pjb.11.2019.10.12.04.30.02
+        for <mail@stilfilm.com>
+        (version=TLS1 cipher=ECDHE-RSA-AES128-SHA bits=128/128);
+        Sat, 12 Oct 2019 04:30:03 -0700 (PDT)
+From: "Paul" <paul@prodigital.live>
+To: <mail@stilfilm.com>
+Subject: website designing and Development Company
+Date: Sat, 12 Oct 2019 16:47:44 +0530
+Message-ID: <51b301d580f0$5e8616d0$1b924470$@live>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_51B4_01D5811E.783E52D0"
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-Index: AdWA7YWaANLHX6mFT7+dC3hRZyz91A==
+Content-Language: en-us
+X-Antivirus: Avast (VPS 191012-0, 10/12/2019), Outbound message
+X-Antivirus-Status: Clean
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_51B4_01D5811E.783E52D0
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+Hi,
+
+ I am Paul, Web Development Manager in India and I work with 100+experienced
+IT professionals who are into:
+
+ Website Designing, Web Development, PHP Development, e-Commerce solutions,
+iPhone And Android Apps Development.
+
+ May I know if you are interested in any of these services?
+
+ If you are interested, then I can send you our past work details, company
+information and an affordable quotation with the best offer.
+
+Thanks & Regards,
+
+Paul,
+
+Web Development Manager
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+-- 
+This email has been checked for viruses by Avast antivirus software.
+https://www.avast.com/antivirus
+
+------=_NextPart_000_51B4_01D5811E.783E52D0
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:o=3D"urn:schemas-microsoft-com:office:office" xmlns:w=3D"urn:sc=
+hemas-microsoft-com:office:word" xmlns:m=3D"http://schemas.microsoft.com/of=
+fice/2004/12/omml" xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<META HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3DGenerator content=3D"Microsoft Word 12 (filtered medium)">
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Cambria;
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin-top:0in;
+	margin-right:0in;
+	margin-bottom:10.0pt;
+	margin-left:0in;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+p
+	{mso-style-priority:99;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+=2EMsoChpDefault
+	{mso-style-type:export-only;}
+=2EMsoPapDefault
+	{mso-style-type:export-only;
+	margin-bottom:10.0pt;
+	line-height:115%;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+
+</head>
+
+<body lang=3DEN-US>
+
+<div class=3DSection1>
+
+<p><b><span style=3D'font-size:13.0pt;font-family:"Cambria","serif";color:#=
+0033CC'>Hi,</span></b></p>
+
+<p><b><span style=3D'font-size:13.0pt;font-family:"Cambria","serif";color:#=
+0033CC'>&nbsp;I
+am&nbsp;Paul, Web Development Manager in India and I work with 100+experien=
+ced
+IT professionals who are into:</span></b></p>
+
+<p><b><span style=3D'font-size:13.0pt;font-family:"Cambria","serif";color:#=
+0033CC'>&nbsp;</span></b><b><span
+style=3D'font-size:13.0pt;font-family:"Cambria","serif";color:red'>Website&=
+nbsp;Designing,
+Web Development, PHP Development, e-Commerce solutions, iPhone And Android =
+Apps
+Development.</span></b></p>
+
+<p><b><span style=3D'font-size:13.0pt;font-family:"Cambria","serif";color:#=
+0033CC'>&nbsp;May
+I know if you are interested in any of these services?</span></b></p>
+
+<p><b><span style=3D'font-size:13.0pt;font-family:"Cambria","serif";color:#=
+0033CC'>&nbsp;If
+you are interested, then I can send you our past work details, company
+information and an affordable quotation with the best offer.</span></b></p>=
+
+
+<p><b><span style=3D'font-size:13.0pt;font-family:"Cambria","serif";color:#=
+0033CC'>Thanks
+&amp; Regards,</span></b></p>
+
+<p><b><span style=3D'font-size:13.0pt;font-family:"Cambria","serif";color:#=
+0033CC'>Paul,<o:p></o:p></span></b></p>
+
+<p><b><span style=3D'font-size:13.0pt;font-family:"Cambria","serif";color:#=
+0033CC'>Web
+Development Manager</span></b></p>
+
+<p class=3DMsoNormal>&nbsp;</p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+</div>
+
+<div id=3D"DAB4FAD8-2DD7-40BB-A1B8-4E2AA1F9FDF2"><br />
+<table style=3D"border-top: 1px solid #D3D4DE;">
+	<tr>
+        <td style=3D"width: 55px; padding-top: 13px;"><a href=3D"https://ww=
+w.avast.com/sig-email?utm_medium=3Demail&utm_source=3Dlink&utm_campaign=3Ds=
+ig-email&utm_content=3Demailclient" target=3D"_blank"><img src=3D"https://i=
+pmcdn.avast.com/images/icons/icon-envelope-tick-round-orange-animated-no-re=
+peat-v1.gif" alt=3D"" width=3D"46" height=3D"29" style=3D"width: 46px; heig=
+ht: 29px;" /></a></td>
+		<td style=3D"width: 470px; padding-top: 12px; color: #41424e; font-size: =
+13px; font-family: Arial, Helvetica, sans-serif; line-height: 18px;">Virus-=
+free. <a href=3D"https://www.avast.com/sig-email?utm_medium=3Demail&utm_sou=
+rce=3Dlink&utm_campaign=3Dsig-email&utm_content=3Demailclient" target=3D"_b=
+lank" style=3D"color: #4453ea;">www.avast.com</a>
+		</td>
+	</tr>
+</table><a href=3D"#DAB4FAD8-2DD7-40BB-A1B8-4E2AA1F9FDF2" width=3D"1" heigh=
+t=3D"1"> </a></div></body>
+
+</html>
+
+------=_NextPart_000_51B4_01D5811E.783E52D0--
+

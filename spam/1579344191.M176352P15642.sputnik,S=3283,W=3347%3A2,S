@@ -1,0 +1,64 @@
+Return-Path: <lies4wrazkx@sjcamuk.com>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id D6FD6C2053
+	for <mail@dorianvasco.de>; Sat, 30 Dec 2017 06:59:01 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 11.382
+X-Spam-Level: ***********
+X-Spam-Status: Yes, score=11.382 required=5.5 tests=[DKIM_SIGNED=0.1,
+	DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1, FSL_BULK_SIG=0.001,
+	HTML_IMAGE_ONLY_12=1.629, HTML_MESSAGE=0.001,
+	HTML_SHORT_LINK_IMG_1=0.139, MIME_HTML_ONLY=1.105,
+	RAZOR2_CF_RANGE_51_100=2.43, RAZOR2_CHECK=1.729, SPF_PASS=-0.001,
+	URIBL_ABUSE_SURBL=1.948, URIBL_BLOCKED=0.001, URIBL_DBL_SPAM=2.5]
+	autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id apsaguTSxIpC for <mail@dorianvasco.de>;
+	Sat, 30 Dec 2017 06:59:00 +0100 (CET)
+Received: from sassy.sjcamuk.com (sassy.sahajsatta.com [185.207.9.15])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 99D36C204E
+	for <mail@dorianvasco.de>; Sat, 30 Dec 2017 06:59:00 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=sjcamuk.com;
+ h=Date:From:To:Subject:Message-ID:MIME-Version:Content-Type:Content-Transfer-Encoding; i=lies4wrazkx@sjcamuk.com;
+ bh=TXczvI30499qWhEZQozNI9iXcBw=;
+ b=TIroIbnj3BUoW1JtFeD8H0ihpDhtwOfJ6BsCqxHGiBHRSs7WQvDJKy+ZkXSsgmELNeR2tTCf2O2S
+   I04yziOo/ye79P+AMHeg0KQnnGZBEK2ta9OXHbOfEKuCaq6dNLykZfZKtMAbpIGMr8pLGra7TZH9
+   O2On6USZD02Kzbp+UxM=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=sjcamuk.com;
+ b=Btl85kEc7sLGekgsu4QiUoyv7thMXdMUiKV6qeaycKBNzlNAqTtZoIwB0iFtqwl9+wUDMAdEKeYv
+   EBrSatPprpodq1+STgVUrFL5pgXm4gZxqfPzxE/u6Y9COhpa2u1yLoiv6YgIOT7ojP8HneUyV2+u
+   cxQlnnw8Z86s7d3yOhY=;
+Date: Sat, 30 Dec 2017 06:22:45 +0100
+From: =?UTF-8?Q?Lies?= <lies4wrazkx@sjcamuk.com>
+To:  <mail@dorianvasco.de>
+Subject: =?UTF-8?Q?Sieh_perfekt_im_Auto:_vorbeuge_mit_der_Sehhilfe_einer_Trag=C3=B6die?=
+Message-ID: <GBJHMJFWXB-667130456091143994187118508428@xkeky.sjcamuk.com>
+MIME-Version: 1.0
+X-Priority: 3
+Precedence: bulk
+X-Mailer: Automizy
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html>=0D
+<head>=0D
+</head><body>=0D
+<center>=0D
+M=C3=B6rderische Stra=C3=9Fen im Winter. Augenschutz<br /><a href=3D"http:/=
+/c1sh.sjcamuk.com/"><img style=3D"border-width:thin; border:outset 2px #007=
+700; " src=3D"http://c1sha.sjcamuk.com/00.jpg" /></a>=0D
+<br /><a style=3D"border-left-width:3px; " href=3D"http://c1sh.sjcamuk.com/=
+">Sieh perfekt im Auto: vorbeuge mit der Sehhilfe einer Trag=C3=B6die</a>=0D
+<br /><br /><div style=3D"width:100%; height:366; padding-left:1px; border-=
+left-width:1px; clear:right; ">Ich H=C3=84TTE ihn =C3=9CBERFAHREN, zum Gl=
+=C3=BCck hatte ich sie an<br /><br /></div><a href=3D"http://sjcamuk.com/ub=
+.php?cqf=3Dkg7h92230108rnxgnz8sp67d8j4cad81w8o4n0h" style=3D"font-size:12px=
+; background-color:#ffffff; ">Hier k=C3=B6nnen Sie sich abmelden</a></cente=
+r><br />Mit dem Leben f=C3=BCr Unachtsamkeit bezahlt=0D
+<img src=3D"http://sjcamuk.com/ob.php?a5m=3Dkg7h92230108rnxgnz8sp67d8j4cad8=
+1w8o4n0h" />=0D
+</body>=0D
+</html>=

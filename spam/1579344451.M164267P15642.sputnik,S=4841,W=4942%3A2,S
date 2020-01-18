@@ -1,0 +1,101 @@
+Return-Path: <melaniehfzwdzm@ormoot.info>
+Delivered-To: mail@elementk.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 3AC72C3CCA
+	for <mail@elementk.de>; Wed,  1 May 2019 15:25:19 +0200 (CEST)
+Authentication-Results: v22014122474822114.stilfilm.com; dkim=pass
+	reason="1024-bit key; insecure key"
+	header.d=ormoot.info header.i=melaniehfzwdzm@ormoot.info
+	header.b=Y8PRGhy4; dkim-adsp=pass; dkim-atps=neutral
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 12.394
+X-Spam-Level: ************
+X-Spam-Status: Yes, score=12.394 required=5.5 tests=[BAYES_99=3.5,
+	BAYES_999=0.2, DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	HK_RANDOM_ENVFROM=0.001, HTML_IMAGE_ONLY_16=1.092, HTML_MESSAGE=0.001,
+	HTML_SHORT_LINK_IMG_2=0.001, IMG_ONLY_FM_DOM_INFO=2.25,
+	SPF_PASS=-0.001, URIBL_ABUSE_SURBL=1.25, URIBL_BLACK=1.7,
+	URIBL_DBL_SPAM=2.5] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id f2BDLYnPA15O for <mail@elementk.de>;
+	Wed,  1 May 2019 15:25:13 +0200 (CEST)
+Received: from observe.ormoot.info (tap.forsurenot.com [206.189.134.46])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 50999C21EE
+	for <mail@elementk.de>; Wed,  1 May 2019 15:25:07 +0200 (CEST)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=ormoot.info;
+ h=Date:To:MIME-Version:Message-ID:From:Subject:List-Unsubscribe:Content-Type:Content-Transfer-Encoding; i=melaniehfzwdzm@ormoot.info;
+ bh=i6QUIskem41juF2Yy7seI2EXDqU=;
+ b=Y8PRGhy4Gf6OSfdKUMOt6kXFfy4AKF2nxH2ESVBux4BJMXzmz4srl+XP/aaKy6lIavyc9h8/SAeb
+   D1SIxgmtBYFZf8rH3Vy7fIPGohHjPn0J34Om5mPiVOrksrhybwhOw8CiaDpRZRM66ODeCFXthMkG
+   Ux1eRXDgDYomGTqhcug=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=ormoot.info;
+ b=dTE9I2igWVPXZPnNw0FbcUBxCWMHCAkeIS+o3HRL9FFphfbIzo5nASMo85TEAs9i/yEJzTZE+8DR
+   JrqO08yGq+D0rg6rjZcoprrV2Qx/jnwO5UocFCYqv9zWtt3ZBzuNjEU9QzJvPbQiVrC8FrQYy3gV
+   uGLuanSmrijUj8zfjGY=;
+Date: Wed, 1 May 2019 15:24:18 +0200
+X-Report-Abuse:  <http://ormoot.info/aa.php?a=86i9r230701080h82qr01b8q8dcrd13wjc6xi0hp>
+To:  <mail@elementk.de>
+MIME-Version: 1.0
+Message-ID: <xwzbkvwimszqtvrcjmpvccnxwge@kx.ormoot.info>
+From: =?UTF-8?Q?Melanie?= <melaniehfzwdzm@ormoot.info>
+Subject: =?UTF-8?Q?Das_kann_man_immer_brauchen:_3in1_digitales_Ma=C3=9Fband,_zu_gro=C3=9Fer_Entfernung_auch?=
+List-Unsubscribe:  <http://ormoot.info/ub.php?b=86i9r230701080h82qr01b8q8dcrd13wjc6xi0hp>
+Precedence: bulk
+Content-Type: multipart/alternative; boundary=b1_tlnsg98ix4yho-UUb37SG; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+--b1_tlnsg98ix4yho-UUb37SG
+Content-Type: text/plain; format=flowed; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+
+=0D
+Wie lang ist es? Messe alles mit elektrischem Ma=C3=9Fband, blitzschnell:=0D
+=0D
+http://hk-e.ormoot.info=0D
+=0D
+=0D
+=0D
+Bitte um L=C3=B6schen der eingetragenen E-Mail-Adresse aus dem Verteiler:=0D
+http://ormoot.info/ub.php?g30=3D86i9r230701080h82qr01b8q8dcrd13wjc6xi0hp=0D
+=0D
+Neueste Entwicklung: Laser- Messger=C3=A4t, wohlbekannt ist von Fernsehen=0D
+
+
+--b1_tlnsg98ix4yho-UUb37SG
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+
+<!DOCTYPE html>=0D
+<html>=0D
+=0D
+<head>=0D
+</head><body>=0D
+<div style=3D"text-align:center;">=0D
+Ist dein Ma=C3=9Fband schon alt? Elektronischem Ma=C3=9Fband, an jeder Ober=
+fl=C3=A4che<br /><a style=3D"margin:3px; border-right-color:#cc0000; border=
+-bottom:none 0px #0000cc; margin-left:2px; " href=3D"http://hk-e.ormoot.inf=
+o/bma:86i9r230701080h82qr01b8q8dcrd13wjc6xi0hp"><img alt=3D"Musst du etwas =
+messen? Das elektrische Ma=C3=9Fband hilft dir" src=3D"http://tc5r.ormoot.i=
+nfo/00.jpg" style=3D"font-family:; margin-left:3px; padding-right:auto; wid=
+th:auto; " /></a>=0D
+<br /><a style=3D"border-width:thick; " href=3D"http://hk-e.ormoot.info/aby=
+:86i9r230701080h82qr01b8q8dcrd13wjc6xi0hp">Dein Mann wird sich freuen: digi=
+tales Ma=C3=9Fband zum Montieren und Bastelarbeit</a>=0D
+<br /><br /><br /><br />Zu Hause, zur Arbeit: elektrisches Ma=C3=9Fband, pr=
+=C3=A4zise Messung<br /><br /><a style=3D"height:auto; border-top-width:3px=
+; border-width:thin;  background-color:#ffffff; font-size:12px;" href=3D"ht=
+tp://ormoot.info/ub.php?neh=3D86i9r230701080h82qr01b8q8dcrd13wjc6xi0hp">Abm=
+elden</a></div><br />HERREN, hier ist das digitale Ma=C3=9Fband: mit 3 Modi=
+ kannst du alles messen=0D
+<img src=3D"http://ormoot.info/ob.php?g30=3D86i9r230701080h82qr01b8q8dcrd13=
+wjc6xi0hp" alt=3D"Unglaublich Neuigkeit: digitales Ma=C3=9Fband, 3erleie Me=
+ssung, zu Hause, zur Arbeit" />=0D
+Musst du etwas messen? Mit Leser-Ma=C3=9Fband bekommst du genauem Wert=0D
+</body>=0D
+</html>=
+
+--b1_tlnsg98ix4yho-UUb37SG--

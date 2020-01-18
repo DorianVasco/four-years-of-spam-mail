@@ -1,0 +1,140 @@
+Return-Path: <MAILER-DAEMON>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 711EAD27BE
+	for <mail@dorianvasco.de>; Fri, 17 Feb 2017 00:29:35 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 11.01
+X-Spam-Level: ***********
+X-Spam-Status: Yes, score=11.01 required=2 tests=[BAYES_50=0.8,
+	HTML_MESSAGE=0.001, RAZOR2_CF_RANGE_51_100=0.5,
+	RAZOR2_CF_RANGE_E8_51_100=1.886, RAZOR2_CHECK=0.922,
+	RCVD_IN_DNSWL_BLOCKED=0.001, URIBL_BLOCKED=0.001,
+	URIBL_DBL_ABUSE_SPAM=2, URI_WP_DIRINDEX=2.999, URI_WP_HACKED_2=1.9]
+	autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.yourvserver.net [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 3KsIEeveoAbC for <mail@dorianvasco.de>;
+	Fri, 17 Feb 2017 00:29:34 +0100 (CET)
+Received: from sever54.websiteposition.org (static.210.74.46.78.clients.your-server.de [78.46.74.210])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id 48F7BD27BD
+	for <mail@dorianvasco.de>; Fri, 17 Feb 2017 00:29:34 +0100 (CET)
+Received: from mailnull by sever54.websiteposition.org with local (Exim 4.86)
+	id 1ceVUT-0001Nq-0L
+	for mail@dorianvasco.de; Fri, 17 Feb 2017 00:29:33 +0100
+X-Failed-Recipients: cinziacix1964@libero.it
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@sever54.websiteposition.org>
+To: mail@dorianvasco.de
+Content-Type: multipart/report; report-type=delivery-status; boundary=1487287772-eximdsn-1263390254
+MIME-Version: 1.0
+Subject: ***SPAM*** Mail delivery failed: returning message to sender
+Message-Id: <E1ceVUT-0001Nq-0L@sever54.websiteposition.org>
+Date: Fri, 17 Feb 2017 00:29:33 +0100
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - sever54.websiteposition.org
+X-AntiAbuse: Original Domain - dorianvasco.de
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - 
+X-Get-Message-Sender-Via: sever54.websiteposition.org: sender_ident via received_protocol == local: mailnull/primary_hostname/system user
+X-Authenticated-Sender: sever54.websiteposition.org: mailnull
+
+--1487287772-eximdsn-1263390254
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  cinziacix1964@libero.it
+    (ultimately generated from cinziacix@vetrinavco.it)
+    Domain vetrinavco.it has exceeded the max emails per hour (2/1 (200%)) allowed.  Message discarded.
+
+--1487287772-eximdsn-1263390254
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; sever54.websiteposition.org
+
+Action: failed
+Final-Recipient: rfc822;cinziacix1964@libero.it
+Status: 5.0.0
+
+--1487287772-eximdsn-1263390254
+Content-type: message/rfc822
+
+Return-path: <mail@dorianvasco.de>
+Received: from cpc100888-bagu15-2-0-cust185.1-3.cable.virginm.net ([86.20.188.186]:21251)
+	by sever54.websiteposition.org with esmtp (Exim 4.86)
+	(envelope-from <mail@dorianvasco.de>)
+	id 1ceV4a-0000KP-Vp
+	for cinziacix@vetrinavco.it; Fri, 17 Feb 2017 00:02:52 +0100
+From: <mail@dorianvasco.de>
+To: <cinziacix@vetrinavco.it>
+Subject: 1000 eur extra alla settimana. Lavoro a distanza!
+Date: 16 Feb 2017 21:51:41 -0100
+Message-ID: <002b01d288a8$01deb158$12176797$@dorianvasco.de>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0028_01D288A8.01DD83B1"
+X-Mailer: Microsoft Office Outlook 11
+Thread-Index: Acpfkiadykj2yaq2pfkiadykj2yaq2==
+X-MimeOLE: Produced By Microsoft MimeOLE V6.1.7601.17514
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0028_01D288A8.01DD83B1
+Content-Type: text/plain;
+	charset="cp-850"
+Content-Transfer-Encoding: quoted-printable
+
+Caro cinziacix,
+
+Io sono HR manager di una grande compagnia internazionale.
+La nostra azienda &#232; alla ricerca di collaboratori intraprendenti.
+
+Il stipendio possibile da 2500 a 5000 euro al mese.
+
+Se Le interessa nostra offerta - si prega di visitare il=20
+Nostro Sito
+
+Con i migliori saluti,
+HR Manager
+Ufficio Internazionale
+
+------=_NextPart_000_0028_01D288A8.01DD83B1
+Content-Type: text/html;
+	charset="cp-850"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META content=3D"text/html; charset=3Dus-ascii" =
+http-equiv=3DContent-Type>
+<META name=3DGENERATOR content=3D"MSHTML 8.00.7601.17514"></HEAD>
+<BODY>
+<DIV><SPAN class=3D997536962-16022017><FONT size=3D2=20
+face=3DArial>Caro cinziacix,<br>
+<br>
+Io sono HR manager di una grande compagnia internazionale.<br>
+La nostra azienda &#232; alla ricerca di collaboratori =
+intraprendenti.<br>
+<b>Il stipendio possibile da 2500 a 5000 euro al mese.</b><br>
+<br>
+
+Se Le interessa nostra offerta - si prega di visitare il <a =
+href=3D"http://www.letsbooknow.com/wp-content/themes/inspired/images/skin=
+s/charcoal/"><b>Nostro Sito</b></a><br>
+
+<br>
+Con i migliori saluti,<br>
+HR Manager<br>
+Ufficio Internazionale<br></FONT></SPAN></DIV></BODY></HTML>
+------=_NextPart_000_0028_01D288A8.01DD83B1--
+
+
+
+--1487287772-eximdsn-1263390254--

@@ -1,0 +1,78 @@
+Return-Path: <MAILER-DAEMON>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 418FCD1A94
+	for <mail@dorianvasco.de>; Sun, 22 Jan 2017 19:01:18 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 2.051
+X-Spam-Level: **
+X-Spam-Status: Yes, score=2.051 required=2 tests=[BAYES_50=0.8,
+	URIBL_ABUSE_SURBL=1.25, URIBL_BLOCKED=0.001] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.yourvserver.net [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id U96s9XpBwnKh for <mail@dorianvasco.de>;
+	Sun, 22 Jan 2017 19:01:16 +0100 (CET)
+Received: from esa2.watchcom.iphmx.com (esa2.watchcom.iphmx.com [68.232.135.149])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id B07FFD184D
+	for <mail@dorianvasco.de>; Sun, 22 Jan 2017 19:01:15 +0100 (CET)
+Received: from localhost by esa2.watchcom.iphmx.com;
+  22 Jan 2017 19:01:14 +0100
+Message-Id: <348b54$11lfp@esa2.watchcom.iphmx.com>
+Date: 22 Jan 2017 19:01:14 +0100
+To: mail@dorianvasco.de
+From: "Mail Delivery System" <noreply@cisco.com>
+Subject: ***SPAM*** Delivery Status Notification (Failure)
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status; boundary="4DMH.5HhAhFMJE.7q9+sJ3I62r.3Wd0dVs"
+
+--4DMH.5HhAhFMJE.7q9+sJ3I62r.3Wd0dVs
+content-type: text/plain;
+    charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+The following message to <alvor@tomra.no> was undeliverable.
+The reason for the problem:
+5.4.7 - Delivery expired (message too old) 'timeout'
+
+--4DMH.5HhAhFMJE.7q9+sJ3I62r.3Wd0dVs
+content-type: message/delivery-status
+
+Reporting-MTA: dns; esa2.watchcom.iphmx.com
+
+Final-Recipient: rfc822;alvor@tomra.no
+Action: failed
+Status: 5.0.0 (permanent failure)
+Diagnostic-Code: smtp; 5.4.7 - Delivery expired (message too old) 'timeout' (delivery attempts: 0)
+
+--4DMH.5HhAhFMJE.7q9+sJ3I62r.3Wd0dVs
+content-type: message/rfc822
+
+Authentication-Results: esa2.watchcom.iphmx.com; dkim=none (message not signed) header.i=none
+Received: from unknown (HELO [27.3.80.10]) ([27.3.80.10])
+  by esa2.watchcom.iphmx.com with ESMTP; 21 Jan 2017 18:43:46 +0100
+From: "alvor@tomra.no" <mail@dorianvasco.de>
+To: <alvor@tomra.no>
+Subject: Re:Trade Binary Options
+Date: 22 Jan 2017 06:21:05 +0600
+Message-ID: <001d01d27448$070928d9$a6ec2b94$@dorianvasco.de>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-Index: Ac2cmafej8vijbfi2cmafej8vijbfi==
+Content-Language: en
+x-cr-hashedpuzzle: 2D4= mafe j8vi jbfi 2cma fej8 vijb fi2c mafe j8vi jbfi 2cma fej8 vijb fi2c mafe;1;j8vijbfi2cmafej8vijbfi2cmafej8vijbfi2cmafej8vijb;Sosha1_v1;7;\{72F306CF-3387-3AFA-7B8E-47BB0FB272F3\};ZQB3AGUAZgmafej8vijbfi2cmafej8vijbfi2cmafej8vijb;22 Jan 2017 06:21:05 +0600;fi2cmafej8vijbfi
+x-cr-puzzleid: \{72F306CF-3387-3AFA-7B8E-47BB0FB272F3\}
+
+-Work only 30 minutes daily
+-Work from home
+-Invest 10 get 1.000 Dollars with our help
+http://www.shopbistro.com/wss/VirtualDirectories/28000/aspnet_client/system_web/2_0_50727/34a893bb40.html
+#Your private consultant Alex#
+
+
+--4DMH.5HhAhFMJE.7q9+sJ3I62r.3Wd0dVs--
+
+

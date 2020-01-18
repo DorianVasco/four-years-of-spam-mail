@@ -1,0 +1,59 @@
+Return-Path: <info@opencaser.ru>
+Delivered-To: mail@elementk.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 6A0D1D2F13
+	for <mail@elementk.de>; Tue,  5 Feb 2019 16:42:09 +0100 (CET)
+Authentication-Results: v22014122474822114.stilfilm.com; dkim=pass
+	reason="2048-bit key; insecure key"
+	header.d=opencaser.ru header.i=@opencaser.ru header.b=IbXOGz30;
+	dkim-adsp=pass; dkim-atps=neutral
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 5.894
+X-Spam-Level: *****
+X-Spam-Status: Yes, score=5.894 required=5.5 tests=[DKIM_SIGNED=0.1,
+	DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1, FSL_BULK_SIG=0.589,
+	HTML_MESSAGE=0.001, RAZOR2_CF_RANGE_51_100=2.43, RAZOR2_CHECK=1.729,
+	RCVD_IN_BL_SPAMCOP_NET=1.246, SPF_HELO_PASS=-0.001, SPF_PASS=-0.001,
+	URIBL_BLOCKED=0.001] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id ah4prBp9KV5D for <mail@elementk.de>;
+	Tue,  5 Feb 2019 16:42:07 +0100 (CET)
+Received: from opencaser.ru (broker-moscow.ru [79.143.28.229])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 62097D2F11
+	for <mail@elementk.de>; Tue,  5 Feb 2019 16:42:07 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=mail; d=opencaser.ru;
+ h=Message-ID:From:To:Subject:Date:MIME-Version:Content-Type;
+ bh=lFbG9EgXNSbOoFvQAlHE2wWhyy4=;
+ b=IbXOGz30fMQ3fEjbwPEbVGhLm+dxC04d0uzDEapm/FlpfikFtLKxUezLsPoeRG9DekjvD0wRXtUJ
+   nSUYPtUeuBgEqkW6Uq4dqVCdN+zGy+FzuyK/wj4lxWVkrJ36ktJunx8ym4Byxs07xDvtiWbv06VT
+   w3p2Sv7UpIq1vVJaVL1zYxJELB2Iqg2IfBINnM3u+ZCNoUgS4RDuM7Qg2phTrP8gq8pi/zMXqEoR
+   9nwZwbYbm+WfkBPfa7L2ZbrDhZ0d8XTXCKUrltYuJ9C2iVyIZZsK7e15WMlKJ6S8hObdnsnDAI8W
+   amd1grIhefZOORclXsLgoNJWlk2c4n2i1eIGYg==
+Message-ID: <88a8e1503408222be7e254f81e1a3024f43d9f@opencaser.ru>
+From: "Kuttu Sudarsan" <info@opencaser.ru>
+To: <mail@elementk.de>
+Subject: OG Weazzy Funds Mounir El Majdouli Terapong Tacha
+Date: Tue, 5 Feb 2019 18:41:59 +0300
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="83792d110dd9f615c9cc853b1fcbf9ff3915"
+
+--83792d110dd9f615c9cc853b1fcbf9ff3915
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+=C2=A0D? Cao Thu?ng Duong Sait Cay http://9P5GV.TK
+
+--83792d110dd9f615c9cc853b1fcbf9ff3915
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<HTML><HEAD>
+<META http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+</HEAD>
+<BODY bgColor=3D#ffffff>
+<DIV align=3Dleft>&nbsp;D? Cao Thu?ng Duong Sait Cay=20
+http://9P5GV.TK</DIV></BODY></HTML>
+
+--83792d110dd9f615c9cc853b1fcbf9ff3915--

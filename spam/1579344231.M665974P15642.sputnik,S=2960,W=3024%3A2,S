@@ -1,0 +1,64 @@
+Return-Path: <admin@gdo.edu.vn>
+Delivered-To: mail@stilfilm.com
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 7D201C1628
+	for <mail@stilfilm.com>; Tue, 20 Feb 2018 19:54:29 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 12.225
+X-Spam-Level: ************
+X-Spam-Status: Yes, score=12.225 required=5.5
+	tests=[AXB_XMAILER_MIMEOLE_OL_024C2=0.001, DATE_IN_PAST_12_24=0.804,
+	DKIM_SIGNED=0.1, FORGED_MUA_OUTLOOK=2.785, FROM_MISSP_MSFT=0.001,
+	FROM_MISSP_XPRIO=0.001, FSL_CTYPE_WIN1251=0.001,
+	FSL_NEW_HELO_USER=0.001, MISSING_HEADERS=1.207, MISSING_MID=0.14,
+	PYZOR_CHECK=1.985, RDNS_NONE=1.274, REPLYTO_WITHOUT_TO_CC=1.946,
+	TO_NO_BRKTS_FROM_MSSP=0.001, TO_NO_BRKTS_MSFT=1.967,
+	T_DKIM_INVALID=0.01, URIBL_BLOCKED=0.001] autolearn=unavailable
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id MC7SP9yWQ3w5 for <mail@stilfilm.com>;
+	Tue, 20 Feb 2018 19:54:28 +0100 (CET)
+Received: from mail.gdo.edu.vn (unknown [123.30.149.35])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 9AFC8C00CC
+	for <mail@stilfilm.com>; Tue, 20 Feb 2018 19:54:27 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha256; c=simple; d=gdo.edu.vn;
+	s=MDaemon; t=1519091755; x=1519696555; q=dns/txt; h=Received:
+	Reply-To:From:Subject:Date:MIME-Version:Content-Type:
+	Content-Transfer-Encoding; bh=bNL7hdOpQK5HXYqjwjmUlyHckgSAbh3g59
+	MW23ZtE0g=; b=TSmxhJv1Y1EFQ4MCmZPWFWCIIlH5l4DLYZnmNQwPwC1c98a5Z0
+	vTj5nUar2OiRuYYQYjWKZQChw5PVPpBPoCkq6s9kASh1MdQanA3+eqkrAN0jVlrT
+	UCy3G7hzCy5HlsmlA/WfyURhhpihSOEOTq/cgHYKE36D3FGXs0vpbJm1Y=
+Received: from User by mail.gdo.edu.vn (MDaemon PRO v13.5.1)
+	with ESMTP id md50000131679.msg
+	for <mail@stilfilm.com>; Tue, 20 Feb 2018 08:55:51 +0700
+X-Spam-Processed: mail.gdo.edu.vn, Tue, 20 Feb 2018 08:55:51 +0700
+	(not processed: message from trusted or authenticated source)
+X-Authenticated-Sender: admin@gdo.edu.vn
+X-MDRemoteIP: 189.204.158.248
+X-Return-Path: admin@gdo.edu.vn
+X-Envelope-From: admin@gdo.edu.vn
+X-MDaemon-Deliver-To: mail@stilfilm.com
+Reply-To: <Miechunwong@qq.com>
+From: "Ms, Mei Chun Wong"<admin@gdo.edu.vn>
+Subject: Ms, Mei Chun Wong 
+Date: Mon, 19 Feb 2018 06:28:01 -0600
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <20180220185429.7D201C1628@v22014122474822114.stilfilm.com>
+
+I am Ms, Mei Chun Wong, Executive Director and Alternate Chief Executive at DAH SING BANK Ltd; I have a lucrative Business Proposal for you, if you are interested please contact me via my email below.
+
+Kind Regards,
+
+Mrs. Mei Chun Wong 
+DAH SING BANK Ltd 
+Hong Kong. {Asia}
+Email; Miechunwong@qq.com
+

@@ -1,0 +1,2329 @@
+Return-Path: <bounces+4460374-61a1-mail=elementk.de@default.fuckupnights.com>
+Delivered-To: mail@elementk.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 63C20C303B
+	for <mail@elementk.de>; Wed,  7 Feb 2018 17:52:26 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: -0.098
+X-Spam-Level:
+X-Spam-Status: No, score=-0.098 required=5.5 tests=[DKIM_SIGNED=0.1,
+	DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1, HTML_MESSAGE=0.001,
+	LONG_HEX_URI=0.001, SPF_PASS=-0.001, URIBL_BLOCKED=0.001]
+	autolearn=unavailable
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id ubIYVOkxvOgS for <mail@elementk.de>;
+	Wed,  7 Feb 2018 17:52:23 +0100 (CET)
+Received: from o16824537x212.outbound-mail.sendgrid.net (o16824537x212.outbound-mail.sendgrid.net [168.245.37.212])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id 230AEC2ED6
+	for <mail@elementk.de>; Wed,  7 Feb 2018 17:52:22 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; 
+	d=fuckupnights.com; 
+	h=content-type:from:mime-version:reply-to:subject:to:list-unsubscribe; 
+	s=s1; bh=PNefqz31yGxb/B3OkmEePgrOMnI=; b=P/VLgoK+LDizoNzljlT2phd
+	Rn8qFR8WsZqf7rdwiNjFiuWzLOFbbQ+JBiJzoTqOPl/aWN2S2OKo3V5kHZT3HsZ4
+	3wUzTRR15Ny7GO+7XYq7M+G10KqD015wMyxO/T7pzwUDJrd0kFmiTJK5wBBszrRl
+	1c/NrFfgGkNjVAitURIc=
+Content-Type: multipart/alternative; boundary=b8f65c8e3e0bf0efd8f9a19ccace9acd1bfb2df0d5ef4cd134a257a857f4
+Date: Wed, 07 Feb 2018 16:53:21 +0000 (UTC)
+From: "Fuckup Nights" <hola@fuckupnights.com>
+Mime-Version: 1.0
+Reply-To: hola@fuckupnights.com
+Subject: A Manifesto That Would Invite You To... Fuck Up
+To: mail@elementk.de
+Message-ID: <zexREnRfTCy5JdstA6MF1w@ismtpd0009p1iad2.sendgrid.net>
+List-Unsubscribe: <mailto:unsubscribe@default.fuckupnights.com?subject=https://u4460374.ct.sendgrid.net/asm/unsubscribe/*q*user_id=4460374*a*data=oX7UCEp6BjDVYSkl9wgyOC_izVoAici4SZUKzBFcJ4cCqqAP0eiisuCKqLR32ThFD27kUyQ2KpHPwKjLCUNS7D-NtIePJYuQuHiyHvosdWjiXGsooIzWamjIG1cn4XvcoUFt_YrUdI6V-kaireIDmlG-PMTMWTWhO6rpCjCkwuCFDTQZx-3Ccwx-QgIjiTBoR_a2ygoObhMWGqyr5DqChFsBbV1xfYWZZ7QIga80BlfSYkFtPXVek5l-uZyZVGTAFqk7s_vCEFNljSceqCVu8jUNLX8bdUeJd88aKeher0pDR7n5KptkgF-sVgfIrFRoUsy_J4KC-jmaYrMkqEqn-XCGlySfSL74bpBY6EtfSDKDsNfctXQ1qK7OnHYBCrpUfZ_TK-COMeoEmEVWC-CjIQT7M8k8p9RnHopbC3kIcLM_AQh8w1hbfNWEZEkrtBcHSkQwz1O4siTu0FuDlmxz5nU5na88u6gc2AmU_J5TsdjNsyMAH84F6Mr6fzkloia5n14TTyLTT2RyxbfQl9nm2onVx7RfyGntWm3pQqfIOHKyhjEfk4mp7SwTP16ApQb8>
+X-SG-EID: Z6ODF7wrCC+9O6AQw2rqczf0sp0RGeye5rsM6Dhqg+1X1rjWmgVzwT9N0JinDxlh5Evx1D/VQnw2Pt
+ 9A9aJ9v+0pEAIBFGZybje38oFg60fksZl3amP/HSWg5+vMHQ3UUn/tkSXsaGKja/wor0vW4JwhNYBn
+ rTSwUYp1YlbTEZ38sVNNQAfagkYz4cAKHP202y5fj1/zVRenuxG4TPDzQ0xx43EfQo7LkDjG8Ta6vV
+ 8=
+X-SG-ID: Z2FxZazunBjVeNuNdzHDqrF8mxuCpi0krmont6YQrP0OMxhp5AMvJ32z4AIJsOPpGifEksGxMdL67P
+ jsX8Ubr0IdTcSQVKGO1kPyYYJ8inpzkhKJdv4Ai7PwenyyYg6UJE3rc41UoB/ZNGXRtHRCxqQByBIa
+ IANxCw8LfkpFyR7uFI1nrn3m2+2gVhHW2jrY
+
+--b8f65c8e3e0bf0efd8f9a19ccace9acd1bfb2df0d5ef4cd134a257a857f4
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=UTF-8
+Mime-Version: 1.0
+
+The First Comparative Study Among The Countries Of the Pacific Alliance
+
+https://fuckupnights.com/
+
+https://fuckupnights.com/
+
+A Manifesto That Would Invite You To... Fuck Up
+
+In ode to a growing movement that has reached from bustling cities, to rura=
+l towns,=C2=A0we want to share with you how we created our Manifesto, somet=
+hing that has inspired the Fuckup Book, workshops, activities, challenges a=
+nd other great things around the world.
+
+From one of our co-founders, Pepe: =E2=80=9CI was in my living room thinkin=
+g about the impact that the Fuckup Night a few days before had had on me, i=
+ncluding the traditional laughs and beers, plus some inspirational insights=
+ on how to be more free as a person.=E2=80=9D
+
+=E2=80=9CThinking about how to share this experience and feeling with more =
+people, I realized that other movements have manifestos that tend to be ins=
+pirational and somewhat utopical.=C2=A0I decided to create our own manifest=
+o in a very fuckup way. A manifesto that would invite you to... fuck up, bu=
+t also to let some societal limitations go.=E2=80=9D
+
+And here it is, our Manifesto, lovingly crafted by co-founder Charlie (crea=
+ted twice, because the laptop with the original got stolen. Womp womp.)
+
+https://fuckupnights.com/blog/manifesto/
+
+http://thefailureinstitute.com/
+
+The First Comparative Study Among The Countries Of the Pacific Alliance
+
+Today we want to share with you that we=E2=80=99re starting our first compa=
+rative study among the countries of the Pacific Alliance=C2=A0(Chile, Colom=
+bia, Mexico, Peru).=C2=A0We will be developing a platform that will provide=
+ entrepreneurs with strategic, and focused technical assistance based on th=
+e data gathered from the failed businesses of these countries.=C2=A0
+
+We believe this platform will become a crucial instrument for assessing the=
+ realities of SMEs in the Pacific Alliance, and a foundational tool for pub=
+lic policy discussions.
+
+We believe in the power of collaboration so=C2=A0if=C2=A0you,=C2=A0or any o=
+f your contacts are interested in becoming a data partner to help gather da=
+ta from failed businesses, drop us a line at=C2=A0hola@thefailureinstitute.=
+com mailto:hola@thefailureinstitute.com.
+
+Global Failure Index Contest
+
+We extended the deadline! Share this survey with that friend of you who kee=
+ps failing big, the world will thank them.
+
+https://thefailureinstitute.com/gfi/
+
+https://fuckupnights.com/events/
+
+February Events Calendar
+
+This month we're having FUN in 35 Cities
+
+Nogales Vol. 3 https://www.f6s.com/fuckupnightsnogalesvol3
+February 08, 6:00 PM - 349 W. Mariposa Rd., Nogales Oki Roki Sushi Terraza =
+Bar
+ https://www.f6s.com/fuckupnightsnogalesvol3Ivanovo Vol. 1 https://www.f6s.=
+com/fuckupnightsivanovovol1
+February 08, 7:00 PM - Lenina str., 88 Hooligans Pub
+ https://www.f6s.com/fuckupnightsivanovovol1Ulaanbaatar Vol. 5 https://www.=
+f6s.com/fuckupnightsulaanbaatarvol5
+February 08, 7:00 PM - SKY17
+ https://www.f6s.com/fuckupnightsulaanbaatarvol5Firenze Vol. 7 https://www.=
+f6s.com/fuckupnightsfirenzevol7
+February 08, 7:30 PM - via Panciatichi 16 Impact Hub Firenze
+ https://www.f6s.com/fuckupnightsfirenzevol7Culiac=C3=A1n Vol. 22 https://w=
+ww.f6s.com/fuckupnightsculiacnvol22
+February 08, 8:00 PM - 80030 Culiac=C3=A1n Rosales, Si Bur=C3=B3crata
+ https://www.f6s.com/fuckupnightsculiacnvol22Culiacan Vol. 22 https://www.f=
+6s.com/fuckupnightsculiacanvol22
+February 08, 8:00 PM - Centro de Ciencias de Sinaloa
+ https://www.f6s.com/fuckupnightsculiacanvol22Pune Vol. 1 https://www.f6s.c=
+om/fuckupnightspunevol1
+February 08, 8:30 PM - Baner, Pune Replay Sports Bar
+ https://www.f6s.com/fuckupnightspunevol1Dordrecht Vol. 2 https://www.f6s.c=
+om/fuckupnightsdordrechtvol2
+February 08, 8:30 PM - Korte Kalkhaven 3
+ https://www.f6s.com/fuckupnightsdordrechtvol2Taichung Vol. 4 https://www.f=
+6s.com/fuckupnightstaichungvol4
+February 10, 7:30 PM - 403 =E5=8F=B0=E4=B8=AD=E5=B8=82=E8=A5=BF=E5=8D=80=E5=
+=8F=B0=E7=81=A3=E5=A4=A7=E9=81=93=E4=BA=8C=E6=AE=B52=E8=99=9F16=E6=A8=93=E4=
+=B9=8B2tai
+ https://www.f6s.com/fuckupnightstaichungvol4Bucaramanga Vol. 38 https://ww=
+w.f6s.com/fuckupnightsbucaramangavol38
+February 15, 2:30 PM - Centro Comercial Parque Caracol=C3=AD
+ https://www.f6s.com/fuckupnightsbucaramangavol38Toronto Vol. 9 https://www=
+.f6s.com/fuckupnightstorontovol9
+February 15, 6:30 PM - 80 Spadina Ave Shopify
+ https://www.f6s.com/fuckupnightstorontovol9San Diego Vol. 1 https://www.f6=
+s.com/fuckupnightssandiegovol1
+February 15, 6:30 PM - 7580 Fay Ave. #204, La Jolla, CA 92037 Co-mmunity La=
+ Jolla
+ https://www.f6s.com/fuckupnightssandiegovol1Basel Vol. X https://www.f6s.c=
+om/fuckupnightsbaselvolx
+February 15, 7:00 PM - Halle 8 Gundeldingerfeld, Dornacherstrasse 192, 4053=
+ Basel Launchlabs
+ https://www.f6s.com/fuckupnightsbaselvolxSan Salvador Vol. 9 https://www.f=
+6s.com/fuckupnightssansalvadorvol9
+February 15, 7:00 PM - Calle La Reforma 179 La Casa Tomada
+ https://www.f6s.com/fuckupnightssansalvadorvol9Ciudad de M=C3=A9xico Vol. =
+65 https://www.f6s.com/fuckupnightsciudaddemexicovol65
+February 15, 7:30 PM - Avenida M=C3=A9xico 200 Fraternidad de la Universida=
+d de la Comunicaci=C3=B3n
+ https://www.f6s.com/fuckupnightsciudaddemexicovol65Prishtina Vol. 15 https=
+://www.f6s.com/fuckupnightsprishtinavol15
+February 15, 8:00 PM - Rexhep Mala 28A Innovation Centre
+ https://www.f6s.com/fuckupnightsprishtinavol15Puerto Morelos Vol. 23 https=
+://www.f6s.com/fuckupnightspuertomorelosvol23
+February 16, 8:00 AM - I Wanna Pizza
+ https://www.f6s.com/fuckupnightspuertomorelosvol23Tehran Vol. 6 https://ww=
+w.f6s.com/fuckupnightstehranvol6
+February 16, 5:00 PM - Arasbaran Ave, Sedkhan Arasbaran Complex Building
+ https://www.f6s.com/fuckupnightstehranvol6=C4=B0zmir Vol. 38 https://www.f=
+6s.com/fuckupnightszmirvol38
+February 19, 7:00 PM - K=C3=BClt=C3=BCrpark Tenis Kul=C3=BCp Rose Garden Re=
+staurant
+ https://www.f6s.com/fuckupnightszmirvol38Prague Vol. 23 https://www.f6s.co=
+m/fuckupnightspraguevol23
+February 19, 7:00 PM - Bio OKO
+ https://www.f6s.com/fuckupnightspraguevol23Managua Vol. 1 https://www.f6s.=
+com/fuckupnightsmanaguavol1
+February 20, 7:00 PM - Selina Hostal
+ https://www.f6s.com/fuckupnightsmanaguavol1Amsterdam Vol. 12 https://www.f=
+6s.com/fuckupnightsamsterdamvol12
+February 21, 7:30 PM - Spaarndammerstraat 460 BAUT
+ https://www.f6s.com/fuckupnightsamsterdamvol12Boston Vol. 6 https://www.f6=
+s.com/fuckupnightsbostonvol6
+February 22, 7:00 AM - 50 Milk St ImpactHub
+ https://www.f6s.com/fuckupnightsbostonvol6Bogot=C3=A1 Vol. 23 https://www.=
+f6s.com/fuckupnightsbogotvol23
+February 22, 6:30 PM - Calle 95 # 11a - 94 Work&Go
+ https://www.f6s.com/fuckupnightsbogotvol23Tijuana Vol. 1 https://www.f6s.c=
+om/fuckupnightstijuanavol1
+February 22, 7:00 PM - Paseo Ensenada #795, Playas de Tijuana Wish Mexico R=
+estaurant
+ https://www.f6s.com/fuckupnightstijuanavol1Berlin Vol. 22 https://www.f6s.=
+com/fuckupnightsberlinvol22
+February 22, 7:30 PM - Charlottenstr. 2 The Place
+ https://www.f6s.com/fuckupnightsberlinvol22Torreon Coahuila Vol. 14 https:=
+//www.f6s.com/fuckupnightstorreoncoahuilavol14
+February 22, 8:00 PM - Bernini
+ https://www.f6s.com/fuckupnightstorreoncoahuilavol14Piracicaba Vol. 1 http=
+s://www.f6s.com/fuckupnightspiracicabavol1
+February 22, 8:00 PM - Comendador Pedro Morganti, N=C2=BA 4965 (casa 01) Th=
+e Wall Music Pub
+ https://www.f6s.com/fuckupnightspiracicabavol1Brussels Vol. 20 https://www=
+.f6s.com/fuckupnightsbrusselsvol20
+February 22, 8:30 PM - rue Auguste Orts 20-28, 1000 Beurskaf=C3=A9
+ https://www.f6s.com/fuckupnightsbrusselsvol20Morelia Vol. 1 https://www.f6=
+s.com/fuckupnightsmoreliavol1
+February 22, 9:00 PM - Artilleros de 1847 No. 1675, Chapultepec Oriente Fri=
+da Kahlo Restaurante
+ https://www.f6s.com/fuckupnightsmoreliavol1Taipei Vol. 23 https://www.f6s.=
+com/fuckupnightstaipeivol23
+February 23, 7:00 PM - MOX
+ https://www.f6s.com/fuckupnightstaipeivol23Hannover Vol. 10 https://www.f6=
+s.com/fuckupnightshannovervol10
+February 26, 5:45 PM - Hildesheimer Stra=C3=9Fe 18 Haus der Region
+ https://www.f6s.com/fuckupnightshannovervol10Papeete Vol. 2 https://www.f6=
+s.com/fuckupnightspapeetevol2
+February 28, 6:00 PM - Restaurant Le Morrisons
+ https://www.f6s.com/fuckupnightspapeetevol2Manila Vol. 2 https://www.f6s.c=
+om/fuckupnightsmanilavol2
+February 28, 7:00 PM - 25F Picadilly Star, BGC Impact Hub Manila
+ https://www.f6s.com/fuckupnightsmanilavol2Vilnius Vol. 10 https://www.f6s.=
+com/fuckupnightsvilniusvol10
+February 28, 7:00 PM - Kauno g. 5 Kablys+Kult=C5=ABra
+ https://www.f6s.com/fuckupnightsvilniusvol10
+
+Private Events https://fuckupnights.com/private-fuckup-nights/=C2=A0 =C2=A0=
+| =C2=A0 Become an Organizer https://fuckupnights.com/contact/=C2=A0=C2=A0=
+=C2=A0 https://fuckupnights.com/contact/| =C2=A0=C2=A0 https://fuckupnights=
+.com/contact/Share Feedback About an Event https://goo.gl/forms/rJKJjnYXCm2=
+kE6Br2
+
+www.facebook.com/fuckupnights
+
+www.twitter.com//fuckupnight
+
+www.instagram.com/fuckupnights
+
+=E2=9D=A4
+
+Proud members of the SendGrid Startup Program Accelerate.=E2=80=8B
+
+Apply http://bit.ly/Apply_SendGrid_Acceleratehere http://bit.ly/Apply_SendG=
+rid_Acceleratefor a 12 months free plan for your startup. http://bit.ly/App=
+ly_SendGrid_Accelerate
+
+http://bit.ly/how_we_do_email
+
+This email was sent by: Fuckup Nights Tabasco 242, Colonia Roma, Mexico Cit=
+y  06700
+
+To unsubscribe click:=C2=A0here https://u4460374.ct.sendgrid.net/asm/unsubs=
+cribe/?user_id=3D4460374&data=3DoX7UCEp6BjDVYSkl9wgyOC_izVoAici4SZUKzBFcJ4c=
+CqqAP0eiisuCKqLR32ThFD27kUyQ2KpHPwKjLCUNS7D-NtIePJYuQuHiyHvosdWjiXGsooIzWam=
+jIG1cn4XvcoUFt_YrUdI6V-kaireIDmlG-PMTMWTWhO6rpCjCkwuCFDTQZx-3Ccwx-QgIjiTBoR=
+_a2ygoObhMWGqyr5DqChFsBbV1xfYWZZ7QIga80BlfSYkFtPXVek5l-uZyZVGTAFqk7s_vCEFNl=
+jSceqCVu8jUNLX8bdUeJd88aKeher0pDR7n5KptkgF-sVgfIrFRoUsy_J4KC-jmaYrMkqEqn-XC=
+GlySfSL74bpBY6EtfSDKDsNfctXQ1qK7OnHYBCrpUfZ_TK-COMeoEmEVWC-CjIQT7M8k8p9RnHo=
+pbC3kIcLM_AQh8w1hbfNWEZEkrtBcHSkQwz1O4siTu0FuDlmxz5nU5na88u6gc2AmU_J5TsdjNs=
+yMAH84F6Mr6fzkloia5n14TTyLTT2RyxbfQl9nm2onVx7RfyGntWm3pQqfIOHKyhjEfk4mp7SwT=
+P16ApQb8=
+
+--b8f65c8e3e0bf0efd8f9a19ccace9acd1bfb2df0d5ef4cd134a257a857f4
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=UTF-8
+Mime-Version: 1.0
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html data-editor-version=3D"2" class=3D"sg-campaigns" xmlns=3D"http://www.=
+w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+" />
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1, minimum-scale=3D1, maximum-scale=3D1" /><!--[if !mso]><!-->
+    <meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3DEdge" /><!--<![end=
+if]-->
+    <!--[if (gte mso 9)|(IE)]>
+    <xml>
+    <o:OfficeDocumentSettings>
+    <o:AllowPNG/>
+    <o:PixelsPerInch>96</o:PixelsPerInch>
+    </o:OfficeDocumentSettings>
+    </xml>
+    <![endif]-->
+    <!--[if (gte mso 9)|(IE)]>
+    <style type=3D"text/css">
+      body {width: 600px;margin: 0 auto;}
+      table {border-collapse: collapse;}
+      table, td {mso-table-lspace: 0pt;mso-table-rspace: 0pt;}
+      img {-ms-interpolation-mode: bicubic;}
+    </style>
+    <![endif]-->
+
+    <style type=3D"text/css">
+      body, p, div {
+        font-family: arial;
+        font-size: 14px;
+      }
+      body {
+        color: #000000;
+      }
+      body a {
+        color: #1188E6;
+        text-decoration: none;
+      }
+      p { margin: 0; padding: 0; }
+      table.wrapper {
+        width:100% !important;
+        table-layout: fixed;
+        -webkit-font-smoothing: antialiased;
+        -webkit-text-size-adjust: 100%;
+        -moz-text-size-adjust: 100%;
+        -ms-text-size-adjust: 100%;
+      }
+      img.max-width {
+        max-width: 100% !important;
+      }
+      .column.of-2 {
+        width: 50%;
+      }
+      .column.of-3 {
+        width: 33.333%;
+      }
+      .column.of-4 {
+        width: 25%;
+      }
+      @media screen and (max-width:480px) {
+        .preheader .rightColumnContent,
+        .footer .rightColumnContent {
+            text-align: left !important;
+        }
+        .preheader .rightColumnContent div,
+        .preheader .rightColumnContent span,
+        .footer .rightColumnContent div,
+        .footer .rightColumnContent span {
+          text-align: left !important;
+        }
+        .preheader .rightColumnContent,
+        .preheader .leftColumnContent {
+          font-size: 80% !important;
+          padding: 5px 0;
+        }
+        table.wrapper-mobile {
+          width: 100% !important;
+          table-layout: fixed;
+        }
+        img.max-width {
+          height: auto !important;
+          max-width: 480px !important;
+        }
+        a.bulletproof-button {
+          display: block !important;
+          width: auto !important;
+          font-size: 80%;
+          padding-left: 0 !important;
+          padding-right: 0 !important;
+        }
+        .columns {
+          width: 100% !important;
+        }
+        .column {
+          display: block !important;
+          width: 100% !important;
+          padding-left: 0 !important;
+          padding-right: 0 !important;
+          margin-left: 0 !important;
+          margin-right: 0 !important;
+        }
+      }
+    </style>
+    <!--user entered Head Start-->
+=20=20=20=20
+     <!--End Head user entered-->
+  </head>
+  <body>
+    <center class=3D"wrapper" data-link-color=3D"#1188E6" data-body-style=
+=3D"font-size: 14px; font-family: arial; color: #000000; background-color: =
+#efefef;">
+      <div class=3D"webkit">
+        <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"10=
+0%" class=3D"wrapper" bgcolor=3D"#efefef">
+          <tr>
+            <td valign=3D"top" bgcolor=3D"#efefef" width=3D"100%">
+              <table width=3D"100%" role=3D"content-container" class=3D"out=
+er" align=3D"center" cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+                <tr>
+                  <td width=3D"100%">
+                    <table width=3D"100%" cellpadding=3D"0" cellspacing=3D"=
+0" border=3D"0">
+                      <tr>
+                        <td>
+                          <!--[if mso]>
+                          <center>
+                          <table><tr><td width=3D"600">
+                          <![endif]-->
+                          <table width=3D"100%" cellpadding=3D"0" cellspaci=
+ng=3D"0" border=3D"0" style=3D"width: 100%; max-width:600px;" align=3D"cent=
+er">
+                            <tr>
+                              <td role=3D"modules-container" style=3D"paddi=
+ng: 20px 20px 20px 20px; color: #000000; text-align: left;" bgcolor=3D"#EFE=
+FEF" width=3D"100%" align=3D"left">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20
+    <table class=3D"module preheader preheader-hide" role=3D"module" data-t=
+ype=3D"preheader" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D=
+"100%"
+           style=3D"display: none !important; mso-hide: all; visibility: hi=
+dden; opacity: 0; color: transparent; height: 0; width: 0;">
+      <tr>
+        <td role=3D"module-content">
+          <p>The First Comparative Study Among The Countries Of the Pacific=
+ Alliance</p>
+        </td>
+      </tr>
+    </table>
+=20=20
+    <table class=3D"module"
+           role=3D"module"
+           data-type=3D"spacer"
+           border=3D"0"
+           cellpadding=3D"0"
+           cellspacing=3D"0"
+           width=3D"100%"
+           style=3D"table-layout: fixed;">
+      <tr>
+        <td style=3D"padding:0px 0px 30px 0px;"
+            role=3D"module-content"
+            bgcolor=3D"">
+        </td>
+      </tr>
+    </table>
+=20=20
+    <table class=3D"wrapper" role=3D"module" data-type=3D"image" border=3D"=
+0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-layout=
+: fixed;">
+      <tr>
+        <td style=3D"font-size:6px;line-height:10px;padding:0px 0px 0px 0px=
+;" valign=3D"top" align=3D"center">
+          <a href=3D"https://u4460374.ct.sendgrid.net/wf/click?upn=3DVpQSVi=
+0rjOiE4jZJm91oTaNASsP8zTHTQ74J61T8yxuAhXIixw9i2KeVAU4sMYLo_OaLlT2qeeZKUdbZj=
+dkfUFPvcManjqpnWtUvEeUaFYX8Nn59esF6A56pGz5TYdEYPssFOIjU6t1g2Cii-2FzKx3gx49Y=
+Ve0n4yFRrcK5H9oDLKNNAVVJGycMpQjzTYel-2BTSUIYQt56tSIfBENfe37w2wXn5qGH7-2F9ne=
+I4PpVcaBbbEHk5J-2BnYjL3yMebkmpT6orNMOty4wb3YpK5yV2-2FCv6qPwBeVoODmstAyGAsTQ=
+b-2BbqtwdYKRFnpFpoUKgZHCnUKUFiLOfPCOLy8gs1bSghz2zjiTcSpnQWQz-2FTomKIZnlPBmx=
+sFWVH-2BC4s75-2BGQkMowd6eWAqpU6FE1fiTLQy19MdWh-2BmnIWfZys4omeKDM9TpmMBluEzi=
+DdVKhfWBYMX2hv85aKUdwdG-2FWGe4JirWzzX-2B5gGy-2BdyFOqrlOnqQbAU0-3D"><img wid=
+th=3D"150" height=3D"64" border=3D"0" style=3D"display:block;color:#000000;=
+text-decoration:none;font-family:Helvetica, arial, sans-serif;font-size:16p=
+x;" src=3D"https://marketing-image-production.s3.amazonaws.com/uploads/8f84=
+9a4bd889d67e1b929aad453aec75df34426f695c6f78026189c81565f9b6e545ecff6a62f54=
+f46d1a61134cdde1ca6f7b59a380b11f2875ea95b395cb28a.png" alt=3D"" class=3D"ma=
+x-width"></a>
+        </td>
+      </tr>
+    </table>
+=20=20
+    <table class=3D"module"
+           role=3D"module"
+           data-type=3D"spacer"
+           border=3D"0"
+           cellpadding=3D"0"
+           cellspacing=3D"0"
+           width=3D"100%"
+           style=3D"table-layout: fixed;">
+      <tr>
+        <td style=3D"padding:0px 0px 30px 0px;"
+            role=3D"module-content"
+            bgcolor=3D"">
+        </td>
+      </tr>
+    </table>
+=20=20
+    <table class=3D"wrapper" role=3D"module" data-type=3D"image" border=3D"=
+0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-layout=
+: fixed;">
+      <tr>
+        <td style=3D"font-size:6px;line-height:10px;padding:0px 0px 0px 0px=
+;" valign=3D"top" align=3D"center">
+          <a href=3D"https://u4460374.ct.sendgrid.net/wf/click?upn=3DVpQSVi=
+0rjOiE4jZJm91oTaNASsP8zTHTQ74J61T8yxuAhXIixw9i2KeVAU4sMYLo_OaLlT2qeeZKUdbZj=
+dkfUFPvcManjqpnWtUvEeUaFYX8Nn59esF6A56pGz5TYdEYPssFOIjU6t1g2Cii-2FzKx3gx49Y=
+Ve0n4yFRrcK5H9oDLKNNAVVJGycMpQjzTYel-2BTSUIYQt56tSIfBENfe37w2wXn5qGH7-2F9ne=
+I4PpVcaBbbEHk5J-2BnYjL3yMebkmpT6orNMOty4wb3YpK5yV2-2FCv6qBLeMAnH7aIBw-2BT3y=
+UiFLAM3H0RL43LYs8lnEggBMbq-2FNglxqMqN1UIK08CQN34LFKn5RyEyv6Lr8yxLSDlZfabuOX=
+OYr9xLEDltpgMbG-2BUk264JmPTrVQ-2B573ri-2F5cT7y-2FqJZrGh6WEdHaltBOBZDN1Wfmat=
+ovlZSIQ8OvUJMShPJAz5PoyX-2FAa68n7-2BvhU19MK5DGXLBGvS1s7CIX3erI-3D"><img wid=
+th=3D"560" border=3D"0" style=3D"display:block;color:#000000;text-decoratio=
+n:none;font-family:Helvetica, arial, sans-serif;font-size:16px;max-width:10=
+0% !important;width:100%;height:auto !important;" src=3D"https://marketing-=
+image-production.s3.amazonaws.com/uploads/27580d34ff41ad29ef0f1c6c10e0802f0=
+df0c1497dd279970d0c7ccbff7ba9fb323feca18bea31e4d14b22ad8f507fd7a29be4cf7702=
+7daa705e6f2438ffe272.png" alt=3D"" class=3D"max-width"></a>
+        </td>
+      </tr>
+    </table>
+=20=20
+    <table class=3D"module" role=3D"module" data-type=3D"text" border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-layout: =
+fixed;">
+      <tr>
+        <td style=3D"padding:18px 25px 18px 25px;line-height:25px;text-alig=
+n:inherit;background-color:#ffffff;"
+            height=3D"100%"
+            valign=3D"top"
+            bgcolor=3D"#ffffff">
+            <div style=3D"text-align: center;">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"m_-6864230=
+769766075785module" role=3D"module" style=3D"color: rgb(0, 0, 0); font-fami=
+ly: arial, sans-serif; font-size: 14px; font-style: normal; font-variant-li=
+gatures: normal; font-variant-caps: normal; font-weight: normal; table-layo=
+ut: fixed;" width=3D"100%">
+	<tbody>
+		<tr>
+			<td bgcolor=3D"#ffffff" height=3D"100%" style=3D"font-family: arial, san=
+s-serif; padding-top: 18px; padding-bottom: 18px; line-height: 22px; text-a=
+lign: inherit; background-color: rgb(255, 255, 255);" valign=3D"top">
+			<div style=3D"font-family: arial; font-size: 14px; text-align: center;">=
+<span style=3D"font-size: 26px;"><strong>A Manifesto That Would Invite You =
+To... Fuck Up</strong></span></div>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+        </td>
+      </tr>
+    </table>
+=20=20
+    <table class=3D"module"
+           role=3D"module"
+           data-type=3D"divider"
+           border=3D"0"
+           cellpadding=3D"0"
+           cellspacing=3D"0"
+           width=3D"100%"
+           style=3D"table-layout: fixed;">
+      <tr>
+        <td style=3D"padding:0px 100px 0px 100px;background-color:#ffffff;"
+            role=3D"module-content"
+            height=3D"100%"
+            valign=3D"top"
+            bgcolor=3D"#ffffff">
+          <table border=3D"0"
+                 cellpadding=3D"0"
+                 cellspacing=3D"0"
+                 align=3D"center"
+                 width=3D"100%"
+                 height=3D"10px"
+                 style=3D"line-height:10px; font-size:10px;">
+            <tr>
+              <td
+                style=3D"padding: 0px 0px 10px 0px;"
+                bgcolor=3D"#f7d96e"></td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+=20=20
+    <table class=3D"module" role=3D"module" data-type=3D"text" border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-layout: =
+fixed;">
+      <tr>
+        <td style=3D"padding:0px 25px 0px 25px;background-color:#ffffff;lin=
+e-height:25px;"
+            height=3D"100%"
+            valign=3D"top"
+            bgcolor=3D"#ffffff">
+            <div>&nbsp;</div>
+
+<div>
+<div style=3D"font-family: arial; font-size: 14px; color: rgb(0, 0, 0); fon=
+t-style: normal; font-variant-ligatures: normal; font-variant-caps: normal;=
+ font-weight: normal; background-color: rgb(255, 255, 255);">
+<div style=3D"color: rgb(34, 34, 34); font-family: arial, sans-serif; font-=
+size: 12.8px; font-style: normal; font-variant-ligatures: normal; font-vari=
+ant-caps: normal; font-weight: normal; background-color: rgb(255, 255, 255)=
+;">
+<div style=3D"font-family: arial; font-size: 14px; color: rgb(0, 0, 0);">
+<div>
+<div style=3D"font-family: arial; font-size: 14px; color: rgb(0, 0, 0); fon=
+t-style: normal; font-variant-ligatures: normal; font-variant-caps: normal;=
+ font-weight: normal;">
+<div>
+<div style=3D"color: rgb(34, 34, 34); font-family: arial, sans-serif; font-=
+size: 12.8px; font-style: normal; font-variant-ligatures: normal; font-vari=
+ant-caps: normal; font-weight: 400; background-color: rgb(255, 255, 255);">
+<div style=3D"color: rgb(34, 34, 34); font-family: arial, sans-serif; font-=
+size: 12.8px; font-style: normal; font-variant-ligatures: normal; font-vari=
+ant-caps: normal; font-weight: 400; background-color: rgb(255, 255, 255);">=
+<span style=3D"color:#000000;"><span style=3D"font-size: 12.8px;">In </span=
+></span><span style=3D"font-size: 12.8px;"><span style=3D"color:#000000;">o=
+de</span></span><span style=3D"color:#000000;"><span style=3D"font-size: 12=
+.8px;"> to a growing movement that has reached f</span><span style=3D"font-=
+size: 12.8px;">rom bustling </span></span><span style=3D"font-size: 12.8px;=
+"><span style=3D"color:#000000;">cities,</span></span><span style=3D"color:=
+#000000;"><span style=3D"font-size: 12.8px;"> to rural towns</span><span st=
+yle=3D"font-size: 12.8px;">,&nbsp;</span><strong style=3D"font-size: 12.8px=
+;">we want to share with you how we created our Manifesto</strong><span sty=
+le=3D"font-size: 12.8px;">, something that has inspired the Fuckup Book, wo=
+rkshops, activities, challenges and other great things around the world.</s=
+pan></span></div>
+
+<div style=3D"font-size: 12.8px;"><span style=3D"color:#000000;"><span clas=
+s=3D"im" style=3D"font-family: arial, sans-serif; font-size: 12.8px; font-s=
+tyle: normal; font-variant-ligatures: normal; font-variant-caps: normal; fo=
+nt-weight: 400; background-color: rgb(255, 255, 255);">&nbsp;</span></span>=
+</div>
+
+<div style=3D"font-size: 12.8px;"><span style=3D"color:#000000;"><span clas=
+s=3D"im" style=3D"font-family: arial, sans-serif; font-size: 12.8px; font-s=
+tyle: normal; font-variant-ligatures: normal; font-variant-caps: normal; fo=
+nt-weight: 400; background-color: rgb(255, 255, 255);">From one of our co-f=
+ounders, Pepe: =E2=80=9CI was in my living room thinking about the impact t=
+hat the Fuckup Night a few days before had had on me, including the traditi=
+onal laughs and beers, plus some inspirational insights on how to be </span=
+></span><span class=3D"im" style=3D"font-family: arial, sans-serif; font-si=
+ze: 12.8px; font-style: normal; font-variant-ligatures: normal; font-varian=
+t-caps: normal; font-weight: 400; background-color: rgb(255, 255, 255);"><s=
+pan style=3D"color:#000000;">more free</span></span><span style=3D"color:#0=
+00000;"><span class=3D"im" style=3D"font-family: arial, sans-serif; font-si=
+ze: 12.8px; font-style: normal; font-variant-ligatures: normal; font-varian=
+t-caps: normal; font-weight: 400; background-color: rgb(255, 255, 255);"> a=
+s a person.=E2=80=9D</span></span></div>
+
+<div style=3D"font-size: 12.8px;"><span style=3D"color:#000000;"><span clas=
+s=3D"im" style=3D"font-family: arial, sans-serif; font-size: 12.8px; font-s=
+tyle: normal; font-variant-ligatures: normal; font-variant-caps: normal; fo=
+nt-weight: 400; background-color: rgb(255, 255, 255);">&nbsp;</span></span>=
+</div>
+
+<div style=3D"color: rgb(34, 34, 34); font-family: arial, sans-serif; font-=
+size: 12.8px; font-style: normal; font-variant-ligatures: normal; font-vari=
+ant-caps: normal; font-weight: 400; background-color: rgb(255, 255, 255);">=
+<span style=3D"color:#000000;">=E2=80=9CThinking about how to share this ex=
+perience and feeling with more people, I realized that other movements have=
+ manifestos that tend to be inspirational and somewhat </span><span style=
+=3D"color:#000000;">utopical</span><span style=3D"color:#000000;">.&nbsp;<s=
+trong>I decided to create our own manifesto in a very fuckup way. A manifes=
+to that would invite you to... fuck up, but also to let some societal limit=
+ations go.</strong>=E2=80=9D</span></div>
+
+<div style=3D"font-size: 12.8px;"><span style=3D"color:#000000;"><span clas=
+s=3D"im" style=3D"font-family: arial, sans-serif; font-size: 12.8px; font-s=
+tyle: normal; font-variant-ligatures: normal; font-variant-caps: normal; fo=
+nt-weight: 400; background-color: rgb(255, 255, 255);">&nbsp;</span></span>=
+</div>
+
+<div style=3D"font-size: 12.8px;"><span style=3D"color:#000000;"><span clas=
+s=3D"im" style=3D"font-family: arial, sans-serif; font-size: 12.8px; font-s=
+tyle: normal; font-variant-ligatures: normal; font-variant-caps: normal; fo=
+nt-weight: 400; background-color: rgb(255, 255, 255);">And here it is, our =
+Manifesto, lovingly crafted by co-founder Charlie (created twice, because t=
+he laptop with the original got stolen. Womp womp.)</span></span></div>
+</div>
+</div>
+</div>
+</div>
+
+<div>&nbsp;</div>
+</div>
+</div>
+</div>
+</div>
+        </td>
+      </tr>
+    </table>
+=20=20
+    <table class=3D"wrapper" role=3D"module" data-type=3D"image" border=3D"=
+0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-layout=
+: fixed;">
+      <tr>
+        <td style=3D"font-size:6px;line-height:10px;padding:20px 20px 20px =
+20px;background-color:#ffffff;" valign=3D"top" align=3D"center">
+          <a href=3D"https://u4460374.ct.sendgrid.net/wf/click?upn=3DVpQSVi=
+0rjOiE4jZJm91oTaNASsP8zTHTQ74J61T8yxuVu0vgR5JEqpiCbJLyJvA5_OaLlT2qeeZKUdbZj=
+dkfUFPvcManjqpnWtUvEeUaFYX8Nn59esF6A56pGz5TYdEYPssFOIjU6t1g2Cii-2FzKx3gx49Y=
+Ve0n4yFRrcK5H9oDLKNNAVVJGycMpQjzTYel-2BTSUIYQt56tSIfBENfe37w2wXn5qGH7-2F9ne=
+I4PpVcaBbbEHk5J-2BnYjL3yMebkmpT6orNMOty4wb3YpK5yV2-2FCv6qOUgR27xLpU3nNxMDB8=
+1rVEes0gnwPNYBKJG-2B21dfytnJwI9qbKZezpL09UOQbuVgs-2BNhvOSVgCcvn242g7XYsiC1T=
+cCrKu1IVtsaRozxnEfB6oW0CETlx7bQ0hDlFvdQ8vQXbf1jSOTCD0abT9l-2BushAdsxL4zupGq=
+v42sbwhF4D1tsYOWhmWYLP18OZu4k5ZTt-2FWBz-2B4aC-2BKi1c9tLpUA-3D"><img class=
+=3D"max-width" border=3D"0" style=3D"display:block;color:#000000;text-decor=
+ation:none;font-family:Helvetica, arial, sans-serif;font-size:16px;max-widt=
+h:100% !important;width:100%;height:auto !important;" src=3D"https://market=
+ing-image-production.s3.amazonaws.com/uploads/c745d071f41ca49fea5e0ccb1c40f=
+02427594860fdc6d0e3c5e89fd1d5ac767005aa2fab23c86b5ab2f83455d26d529984284daa=
+27d7f62990b9ffaf5c05a277.png" alt=3D"" width=3D"560"></a>
+        </td>
+      </tr>
+    </table>
+=20=20
+    <table class=3D"module"
+           role=3D"module"
+           data-type=3D"spacer"
+           border=3D"0"
+           cellpadding=3D"0"
+           cellspacing=3D"0"
+           width=3D"100%"
+           style=3D"table-layout: fixed;">
+      <tr>
+        <td style=3D"padding:0px 0px 30px 0px;"
+            role=3D"module-content"
+            bgcolor=3D"">
+        </td>
+      </tr>
+    </table>
+=20=20
+    <table class=3D"module"
+           role=3D"module"
+           data-type=3D"spacer"
+           border=3D"0"
+           cellpadding=3D"0"
+           cellspacing=3D"0"
+           width=3D"100%"
+           style=3D"table-layout: fixed;">
+      <tr>
+        <td style=3D"padding:0px 0px 30px 0px;"
+            role=3D"module-content"
+            bgcolor=3D"">
+        </td>
+      </tr>
+    </table>
+=20=20
+    <table class=3D"wrapper" role=3D"module" data-type=3D"image" border=3D"=
+0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-layout=
+: fixed;">
+      <tr>
+        <td style=3D"font-size:6px;line-height:10px;padding:0px 0px 0px 0px=
+;" valign=3D"top" align=3D"center">
+          <a href=3D"https://u4460374.ct.sendgrid.net/wf/click?upn=3D-2Bqyx=
+6uxfTbjBrJcxv3mtJ-2BQVil-2F6a-2BDUSm3K2IERQwV9VgbrTL-2FcmxDCnN0lz-2Far_OaLl=
+T2qeeZKUdbZjdkfUFPvcManjqpnWtUvEeUaFYX8Nn59esF6A56pGz5TYdEYPssFOIjU6t1g2Cii=
+-2FzKx3gx49YVe0n4yFRrcK5H9oDLKNNAVVJGycMpQjzTYel-2BTSUIYQt56tSIfBENfe37w2wX=
+n5qGH7-2F9neI4PpVcaBbbEHk5J-2BnYjL3yMebkmpT6orNMOty4wb3YpK5yV2-2FCv6qCHaep6=
+1yhy3BO87EovQlV88DoNZ6iCNGs9Kv9cJ48Ln7xCg8kryJtqAxchGS7TwiHCi4KFNtQp6N1Y6Ns=
+3iayh5M2cdGq03RHh89Tg6rDmOar6d3nmVUNn4VMR-2F0X59FT0sgskIS47O1EYidvedzWzP0eK=
+D-2F6HgZpkY-2FvDe6cxEOGT8eKpiPEuuC88CkV4IlH5yztOkNF5Dey9ulRjRLeo-3D"><img w=
+idth=3D"560" border=3D"0" style=3D"display:block;color:#000000;text-decorat=
+ion:none;font-family:Helvetica, arial, sans-serif;font-size:16px;max-width:=
+100% !important;width:100%;height:auto !important;" src=3D"https://marketin=
+g-image-production.s3.amazonaws.com/uploads/7dcbe18b10b8c4bffaf68fa412204e1=
+cd9f9edbc34e647e2bdabf4683f378f33bafbdeadf7f3ceb0a9febb996b2e1bd76451e9da75=
+5366a8e41d34897c3bd65d.png" alt=3D"" class=3D"max-width"></a>
+        </td>
+      </tr>
+    </table>
+=20=20
+    <table class=3D"module" role=3D"module" data-type=3D"text" border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-layout: =
+fixed;">
+      <tr>
+        <td style=3D"padding:18px 25px 18px 25px;line-height:25px;text-alig=
+n:inherit;background-color:#ffffff;"
+            height=3D"100%"
+            valign=3D"top"
+            bgcolor=3D"#ffffff">
+            <div style=3D"text-align: center;">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"m_-6864230=
+769766075785module" role=3D"module" style=3D"color: rgb(0, 0, 0); font-fami=
+ly: arial, sans-serif; font-size: 14px; font-style: normal; font-variant-li=
+gatures: normal; font-variant-caps: normal; font-weight: normal; table-layo=
+ut: fixed;" width=3D"100%">
+	<tbody>
+		<tr>
+			<td bgcolor=3D"#ffffff" height=3D"100%" style=3D"font-family: arial, san=
+s-serif; padding-top: 18px; padding-bottom: 18px; line-height: 22px; text-a=
+lign: inherit; background-color: rgb(255, 255, 255);" valign=3D"top">
+			<div style=3D"font-family: arial; font-size: 14px; text-align: center;">=
+<span style=3D"font-size: 26px;"><strong>The First Comparative Study Among =
+The Countries Of the Pacific Alliance</strong></span></div>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+        </td>
+      </tr>
+    </table>
+=20=20
+    <table class=3D"module"
+           role=3D"module"
+           data-type=3D"divider"
+           border=3D"0"
+           cellpadding=3D"0"
+           cellspacing=3D"0"
+           width=3D"100%"
+           style=3D"table-layout: fixed;">
+      <tr>
+        <td style=3D"padding:0px 100px 0px 100px;background-color:#ffffff;"
+            role=3D"module-content"
+            height=3D"100%"
+            valign=3D"top"
+            bgcolor=3D"#ffffff">
+          <table border=3D"0"
+                 cellpadding=3D"0"
+                 cellspacing=3D"0"
+                 align=3D"center"
+                 width=3D"100%"
+                 height=3D"10px"
+                 style=3D"line-height:10px; font-size:10px;">
+            <tr>
+              <td
+                style=3D"padding: 0px 0px 10px 0px;"
+                bgcolor=3D"#f7d96e"></td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+=20=20
+    <table class=3D"module" role=3D"module" data-type=3D"text" border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-layout: =
+fixed;">
+      <tr>
+        <td style=3D"padding:0px 25px 0px 25px;background-color:#ffffff;lin=
+e-height:25px;"
+            height=3D"100%"
+            valign=3D"top"
+            bgcolor=3D"#ffffff">
+            <div>&nbsp;</div>
+
+<div>
+<div style=3D"font-style: normal; font-variant-ligatures: normal; font-vari=
+ant-caps: normal; font-weight: 300; font-family: arial; font-size: 14px; co=
+lor: rgb(0, 0, 0); background-color: rgb(255, 255, 255);">
+<div style=3D"color: rgb(0, 0, 0); font-family: arial; font-size: 14px; fon=
+t-style: normal; font-variant-ligatures: normal; font-variant-caps: normal;=
+ font-weight: normal; background-color: rgb(255, 255, 255);">
+<div style=3D"font-family: arial; font-size: 14px; color: rgb(0, 0, 0); fon=
+t-style: normal; font-variant-ligatures: normal; font-variant-caps: normal;=
+ font-weight: normal;">
+<div style=3D"color: rgb(34, 34, 34); font-family: arial, sans-serif; font-=
+size: 12.8px; font-style: normal; font-variant-ligatures: normal; font-vari=
+ant-caps: normal; font-weight: 400; background-color: rgb(255, 255, 255);">
+<div style=3D"font-size: 12.8px;"><span style=3D"color:#000000;"><span clas=
+s=3D"im" style=3D"font-family: arial, sans-serif; font-size: 12.8px; font-s=
+tyle: normal; font-variant-ligatures: normal; font-variant-caps: normal; fo=
+nt-weight: 400; background-color: rgb(255, 255, 255);"><strong>Today we wan=
+t to share with you that we=E2=80=99re starting our first comparative study=
+ among the countries of the Pacific Alliance&nbsp;</strong>(Chile, Colombia=
+, Mexico, Peru)<strong>.</strong>&nbsp;We will be developing a platform tha=
+t will provide entrepreneurs with strategic, and focused technical assistan=
+ce based on the data gathered from the failed businesses of these countries=
+.&nbsp;</span></span></div>
+
+<div style=3D"font-size: 12.8px;">&nbsp;</div>
+
+<div style=3D"font-size: 12.8px;"><span style=3D"color:#000000;"><span clas=
+s=3D"im" style=3D"font-family: arial, sans-serif; font-size: 12.8px; font-s=
+tyle: normal; font-variant-ligatures: normal; font-variant-caps: normal; fo=
+nt-weight: 400; background-color: rgb(255, 255, 255);">We believe this plat=
+form will become a crucial instrument for assessing the realities of SMEs i=
+n the Pacific Alliance, and a foundational tool for public policy discussio=
+ns.</span></span></div>
+
+<div style=3D"font-size: 12.8px;"><span style=3D"color:#000000;"><span clas=
+s=3D"im" style=3D"font-family: arial, sans-serif; font-size: 12.8px; font-s=
+tyle: normal; font-variant-ligatures: normal; font-variant-caps: normal; fo=
+nt-weight: 400; background-color: rgb(255, 255, 255);">&nbsp;</span></span>=
+</div>
+
+<div style=3D"color: rgb(34, 34, 34); font-family: arial, sans-serif; font-=
+size: 12.8px; font-style: normal; font-variant-ligatures: normal; font-vari=
+ant-caps: normal; font-weight: 400; background-color: rgb(255, 255, 255);">=
+<span style=3D"color:#000000;">We believe in the power of collaboration so&=
+nbsp;<strong>if&nbsp;</strong></span><strong><span style=3D"color:#000000;"=
+>you,</span></strong><span style=3D"color:#000000;"><strong>&nbsp;or any of=
+ your contacts are interested in becoming a data partner to help gather dat=
+a from failed businesses</strong>, drop us a line at&nbsp;</span><a href=3D=
+"mailto:hola@thefailureinstitute.com" style=3D"color: rgb(17, 85, 204);" ta=
+rget=3D"_blank"><span style=3D"color:#000000;">hola@thefailureinstitute.co<=
+wbr>m</span></a><span style=3D"color:#000000;">.</span></div>
+</div>
+
+<div style=3D"color: rgb(34, 34, 34); font-family: arial, sans-serif; font-=
+size: 12.8px; font-style: normal; font-variant-ligatures: normal; font-vari=
+ant-caps: normal; font-weight: 400; background-color: rgb(255, 255, 255);">=
+&nbsp;</div>
+</div>
+</div>
+</div>
+</div>
+        </td>
+      </tr>
+    </table>
+=20=20
+    <table class=3D"module"
+           role=3D"module"
+           data-type=3D"spacer"
+           border=3D"0"
+           cellpadding=3D"0"
+           cellspacing=3D"0"
+           width=3D"100%"
+           style=3D"table-layout: fixed;">
+      <tr>
+        <td style=3D"padding:0px 0px 30px 0px;"
+            role=3D"module-content"
+            bgcolor=3D"">
+        </td>
+      </tr>
+    </table>
+=20=20
+    <table class=3D"module"
+           role=3D"module"
+           data-type=3D"spacer"
+           border=3D"0"
+           cellpadding=3D"0"
+           cellspacing=3D"0"
+           width=3D"100%"
+           style=3D"table-layout: fixed;">
+      <tr>
+        <td style=3D"padding:0px 0px 30px 0px;"
+            role=3D"module-content"
+            bgcolor=3D"">
+        </td>
+      </tr>
+    </table>
+=20=20
+    <table class=3D"module" role=3D"module" data-type=3D"text" border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-layout: =
+fixed;">
+      <tr>
+        <td style=3D"padding:18px 25px 18px 25px;line-height:22px;text-alig=
+n:inherit;background-color:#ffffff;"
+            height=3D"100%"
+            valign=3D"top"
+            bgcolor=3D"#ffffff">
+            <div style=3D"text-align: center;"><br>
+<span style=3D"font-size:28px;"><strong><span style=3D"font-family:arial,he=
+lvetica,sans-serif;">Global Failure Index Contest</span></strong></span></d=
+iv>
+        </td>
+      </tr>
+    </table>
+=20=20
+    <table class=3D"module"
+           role=3D"module"
+           data-type=3D"divider"
+           border=3D"0"
+           cellpadding=3D"0"
+           cellspacing=3D"0"
+           width=3D"100%"
+           style=3D"table-layout: fixed;">
+      <tr>
+        <td style=3D"padding:0px 100px 0px 100px;background-color:#ffffff;"
+            role=3D"module-content"
+            height=3D"100%"
+            valign=3D"top"
+            bgcolor=3D"#ffffff">
+          <table border=3D"0"
+                 cellpadding=3D"0"
+                 cellspacing=3D"0"
+                 align=3D"center"
+                 width=3D"100%"
+                 height=3D"10px"
+                 style=3D"line-height:10px; font-size:10px;">
+            <tr>
+              <td
+                style=3D"padding: 0px 0px 10px 0px;"
+                bgcolor=3D"#f7d96e"></td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+=20=20
+    <table class=3D"module" role=3D"module" data-type=3D"text" border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-layout: =
+fixed;">
+      <tr>
+        <td style=3D"padding:0px 25px 0px 25px;background-color:#ffffff;lin=
+e-height:25px;"
+            height=3D"100%"
+            valign=3D"top"
+            bgcolor=3D"#ffffff">
+            <div>&nbsp;</div>
+
+<div>
+<div style=3D"font-style: normal; font-variant-ligatures: normal; font-vari=
+ant-caps: normal; font-weight: 300; font-family: arial; font-size: 14px; co=
+lor: rgb(0, 0, 0); background-color: rgb(255, 255, 255);">
+<div style=3D"color: rgb(0, 0, 0); font-family: arial; font-size: 14px; fon=
+t-style: normal; font-variant-ligatures: normal; font-variant-caps: normal;=
+ font-weight: normal; background-color: rgb(255, 255, 255);">
+<div style=3D"font-family: arial; font-size: 14px; color: rgb(0, 0, 0); fon=
+t-style: normal; font-variant-ligatures: normal; font-variant-caps: normal;=
+ font-weight: normal;">
+<div dir=3D"ltr" style=3D"line-height: 1.38; margin-top: 0pt; margin-bottom=
+: 0pt;"><span style=3D"color: rgb(51, 51, 51); font-family: Arial, sans-ser=
+if, sans; font-size: 13px; font-style: normal; font-variant-ligatures: norm=
+al; font-variant-caps: normal; font-weight: 400; background-color: rgb(255,=
+ 255, 255);"><strong>We extended the deadline!</strong> Share this survey w=
+ith that friend of you who keeps failing big, the world will thank them.</s=
+pan></div>
+
+<div dir=3D"ltr" style=3D"line-height: 1.38; margin-top: 0pt; margin-bottom=
+: 0pt;">&nbsp;</div>
+</div>
+</div>
+</div>
+</div>
+        </td>
+      </tr>
+    </table>
+=20=20
+    <table class=3D"wrapper" role=3D"module" data-type=3D"image" border=3D"=
+0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-layout=
+: fixed;">
+      <tr>
+        <td style=3D"font-size:6px;line-height:10px;padding:20px 20px 20px =
+20px;background-color:#ffffff;" valign=3D"top" align=3D"center">
+          <a href=3D"https://u4460374.ct.sendgrid.net/wf/click?upn=3DVpQSVi=
+0rjOiE4jZJm91oTRobeV3XCEj2Zexu3mxxz9GRUuX-2FLnN0VWPQel4xYNbM_OaLlT2qeeZKUdb=
+ZjdkfUFPvcManjqpnWtUvEeUaFYX8Nn59esF6A56pGz5TYdEYPssFOIjU6t1g2Cii-2FzKx3gx4=
+9YVe0n4yFRrcK5H9oDLKNNAVVJGycMpQjzTYel-2BTSUIYQt56tSIfBENfe37w2wXn5qGH7-2F9=
+neI4PpVcaBbbEHk5J-2BnYjL3yMebkmpT6orNMOty4wb3YpK5yV2-2FCv6qPVBjFH7cVK9wFdbt=
+35tW9tuRltsRYrBHqCTcbJlfkonDa8mz1-2BBmHMOe58254dAgFHTTq9fIPr-2BpjCyux9oUVVj=
+oopv1VSLN0Vq1-2BMEcJQ19ZaJERP48dtweVW0oUrTk13miczP1ikWdvIXK1QaQP926ltWA3-2B=
+SMLxv2lAilIIlyZl5F04Q-2FDBmxt9EJxf8ZUt34KgNhtHUj8AlKhdsYLQ-3D"><img class=
+=3D"max-width" border=3D"0" style=3D"display:block;color:#000000;text-decor=
+ation:none;font-family:Helvetica, arial, sans-serif;font-size:16px;max-widt=
+h:100% !important;width:100%;height:auto !important;" src=3D"https://market=
+ing-image-production.s3.amazonaws.com/uploads/d4cd982c2b9f7f7954df641c39fdf=
+ab20a25dce7c811fc91785449f480388b3673f64dd44dcbd3f7de6d7e7f6de954100f4e5e55=
+84d2ec5a57d0142614398829.png" alt=3D"" width=3D"560"></a>
+        </td>
+      </tr>
+    </table>
+=20=20
+    <table class=3D"module"
+           role=3D"module"
+           data-type=3D"spacer"
+           border=3D"0"
+           cellpadding=3D"0"
+           cellspacing=3D"0"
+           width=3D"100%"
+           style=3D"table-layout: fixed;">
+      <tr>
+        <td style=3D"padding:0px 0px 30px 0px;"
+            role=3D"module-content"
+            bgcolor=3D"">
+        </td>
+      </tr>
+    </table>
+=20=20
+    <table class=3D"module"
+           role=3D"module"
+           data-type=3D"spacer"
+           border=3D"0"
+           cellpadding=3D"0"
+           cellspacing=3D"0"
+           width=3D"100%"
+           style=3D"table-layout: fixed;">
+      <tr>
+        <td style=3D"padding:0px 0px 30px 0px;"
+            role=3D"module-content"
+            bgcolor=3D"">
+        </td>
+      </tr>
+    </table>
+=20=20
+    <table class=3D"wrapper" role=3D"module" data-type=3D"image" border=3D"=
+0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-layout=
+: fixed;">
+      <tr>
+        <td style=3D"font-size:6px;line-height:10px;padding:0px 0px 0px 0px=
+;" valign=3D"top" align=3D"Not Set">
+          <a href=3D"https://u4460374.ct.sendgrid.net/wf/click?upn=3DVpQSVi=
+0rjOiE4jZJm91oTaNASsP8zTHTQ74J61T8yxsEuKbkYmK88RwTwwWQsdR-2B_OaLlT2qeeZKUdb=
+ZjdkfUFPvcManjqpnWtUvEeUaFYX8Nn59esF6A56pGz5TYdEYPssFOIjU6t1g2Cii-2FzKx3gx4=
+9YVe0n4yFRrcK5H9oDLKNNAVVJGycMpQjzTYel-2BTSUIYQt56tSIfBENfe37w2wXn5qGH7-2F9=
+neI4PpVcaBbbEHk5J-2BnYjL3yMebkmpT6orNMOty4wb3YpK5yV2-2FCv6qH-2FaLEVXxruO12I=
+B7UlvFqnLkLFfPBgy6i-2BUuo-2FpkdpEzAs3eFyzEpcPXmgckietJSqePFThTRZWMTCXYQnUvp=
+fJlyMUlIYKvMpqIVrl75QmdX62HG-2FDd2JqgfG-2Bzkh-2FQgT22lDHzgvNhULET8FzXP8rNGf=
+mjsN3w0x53CqcxppsrocbQapo7fTgzMVwhRCfDUi977WCACx6CQ6WuSMBA8c-3D"><img width=
+=3D"560" border=3D"0" style=3D"display:block;color:#000000;text-decoration:=
+none;font-family:Helvetica, arial, sans-serif;font-size:16px;max-width:100%=
+ !important;width:100%;height:auto !important;" src=3D"https://marketing-im=
+age-production.s3.amazonaws.com/uploads/33ded169bc73542cba648f74509e2809d1e=
+32161a5d99d212373b5f5d046430f3814c36a66c2b600360ec97724bbc011d2520d86f0dc60=
+06b911cd0528a1d716.png" alt=3D"" class=3D"max-width"></a>
+        </td>
+      </tr>
+    </table>
+=20=20
+    <table class=3D"module" role=3D"module" data-type=3D"text" border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-layout: =
+fixed;">
+      <tr>
+        <td style=3D"background-color:#ffffff;padding:18px 25px 18px 25px;l=
+ine-height:22px;text-align:inherit;"
+            height=3D"100%"
+            valign=3D"top"
+            bgcolor=3D"#ffffff">
+            <div style=3D"font-style: normal; font-variant-ligatures: norma=
+l; font-variant-caps: normal; font-weight: 300; font-family: arial, sans-se=
+rif; font-size: 14px; color: rgb(0, 0, 0); background-color: rgb(255, 255, =
+255); text-align: center;"><span style=3D"font-size: 28px;"><span style=3D"=
+font-weight: 600; background: transparent; font-style: normal; font-size: i=
+nherit; color: inherit;">February Events Calendar</span></span></div>
+
+<div style=3D"font-style: normal; font-variant-ligatures: normal; font-vari=
+ant-caps: normal; font-weight: 300; font-family: arial, sans-serif; font-si=
+ze: 14px; color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); text-a=
+lign: center;"><strong><span style=3D"color:#A9A9A9;"><span style=3D"font-s=
+ize: 18px;"><span style=3D"font-weight: 600; background: transparent; font-=
+style: normal; font-size: inherit;">This month we're having FUN in 35 Citie=
+s</span></span></span></strong></div>
+        </td>
+      </tr>
+    </table>
+=20=20
+    <table class=3D"module"
+           role=3D"module"
+           data-type=3D"divider"
+           border=3D"0"
+           cellpadding=3D"0"
+           cellspacing=3D"0"
+           width=3D"100%"
+           style=3D"table-layout: fixed;">
+      <tr>
+        <td style=3D"padding:0px 100px 0px 100px;background-color:#ffffff;"
+            role=3D"module-content"
+            height=3D"100%"
+            valign=3D"top"
+            bgcolor=3D"#ffffff">
+          <table border=3D"0"
+                 cellpadding=3D"0"
+                 cellspacing=3D"0"
+                 align=3D"center"
+                 width=3D"100%"
+                 height=3D"10px"
+                 style=3D"line-height:10px; font-size:10px;">
+            <tr>
+              <td
+                style=3D"padding: 0px 0px 10px 0px;"
+                bgcolor=3D"#f7d96e"></td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+  <table class=3D"module" role=3D"module" data-type=3D"code" border=3D"0" c=
+ellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-layout: fi=
+xed;">
+      <tr>
+        <td height=3D"100%" valign=3D"top">
+          <div class=3D"et_pb_text et_pb_module et_pb_bg_layout_light et_pb=
+_text_align_left  et_pb_text_0" style=3D"background-color: white;">
+=09=09=09=09
+=09=09=09=09
+				<div class=3D"et_pb_text_inner">
+=09=09=09=09=09
+
+<div class=3D"fun-event"><div class=3D"event-info" style=3D"padding-top: 25=
+px; padding-left: 25px; padding-right: 25px; padding-bottom: 20px">
+  <div class=3D"et_pb_text et_pb_module et_pb_bg_layout_dark et_pb_text_ali=
+gn_left  et_pb_text_0">
+=09=09=09=09
+=09=09=09=09
+				<div class=3D"et_pb_text_inner">
+=09=09=09=09=09
+<div class=3D"searchable"><div class=3D"fun-event"><div class=3D"event-info=
+"><h3><a href=3D"https://u4460374.ct.sendgrid.net/wf/click?upn=3DVpQSVi0rjO=
+iE4jZJm91oTZu-2BFwKs4iF1rJ7Ml8-2BWpC1xfx0dUfwxGsHaFGyThRXvL2bYCAHoVP68aE-2F=
+LE2wRTA-3D-3D_OaLlT2qeeZKUdbZjdkfUFPvcManjqpnWtUvEeUaFYX8Nn59esF6A56pGz5TYd=
+EYPssFOIjU6t1g2Cii-2FzKx3gx49YVe0n4yFRrcK5H9oDLKNNAVVJGycMpQjzTYel-2BTSUIYQ=
+t56tSIfBENfe37w2wXn5qGH7-2F9neI4PpVcaBbbEHk5J-2BnYjL3yMebkmpT6orNMOty4wb3Yp=
+K5yV2-2FCv6qK-2FrILioo7NKPdLyR5UMLIxn3myUMBLGRfWHqp3kUMk2SAcjWYAzUWvdnkB-2B=
+IWNbOlgLTQRbsWpwCLUvwh55XBwu5U4jguSp8rBHicakUNuj2OWmEZRO3YFx36bRmJ1KV3KzrEq=
+I2-2Fc6WqNU39f-2BR9Z6jBB0FcnnB-2F-2BNwTVYJ2jASIcz4vsGnuWxkTkBQT9QMJvg1neKmJ=
+YZ4z1ZIZyyZxk-3D" target=3D"_blank">Nogales Vol. 3</a></h3><p style=3D"font=
+-size: 13px;"><span class=3D"event-date">February 08, 6:00 PM</span> - <spa=
+n class=3D"event-place">349 W. Mariposa Rd., Nogales Oki Roki Sushi Terraza=
+ Bar</span></p></div><div class=3D"event-ticket"><a href=3D"https://u446037=
+4.ct.sendgrid.net/wf/click?upn=3DVpQSVi0rjOiE4jZJm91oTZu-2BFwKs4iF1rJ7Ml8-2=
+BWpC1xfx0dUfwxGsHaFGyThRXvL2bYCAHoVP68aE-2FLE2wRTA-3D-3D_OaLlT2qeeZKUdbZjdk=
+fUFPvcManjqpnWtUvEeUaFYX8Nn59esF6A56pGz5TYdEYPssFOIjU6t1g2Cii-2FzKx3gx49YVe=
+0n4yFRrcK5H9oDLKNNAVVJGycMpQjzTYel-2BTSUIYQt56tSIfBENfe37w2wXn5qGH7-2F9neI4=
+PpVcaBbbEHk5J-2BnYjL3yMebkmpT6orNMOty4wb3YpK5yV2-2FCv6qMZcy1Wuq0ltKWdjBRycQ=
+WtCKh6eKm-2B2IJBorLTWK7kw26ZWFWMT2M-2FW92HrODwdxFjO8zYYc-2F3gb0MPtCD7IXzXt-=
+2F82dzIByL37yyEA8-2FundHj54BeRJkb4xFfkpcb3mqQLfCSSjFFoGLVRWW0NJZXD36w-2BFYc=
+8YAU24inv2zvP5UOwTQ-2FBux8XjXFNSOc1l1RJzn-2FYAM4-2FfRtIdE1hsas-3D" class=3D=
+"et_pb_more_button et_pb_button"></a></div></div><div class=3D"fun-event"><=
+div class=3D"event-info"><h3><a href=3D"https://u4460374.ct.sendgrid.net/wf=
+/click?upn=3DVpQSVi0rjOiE4jZJm91oTZu-2BFwKs4iF1rJ7Ml8-2BWpC0JlQaDYw5HBVPL3P=
+T11S2vE-2FTibJ96-2B2Ua58oBzuAmhg-3D-3D_OaLlT2qeeZKUdbZjdkfUFPvcManjqpnWtUvE=
+eUaFYX8Nn59esF6A56pGz5TYdEYPssFOIjU6t1g2Cii-2FzKx3gx49YVe0n4yFRrcK5H9oDLKNN=
+AVVJGycMpQjzTYel-2BTSUIYQt56tSIfBENfe37w2wXn5qGH7-2F9neI4PpVcaBbbEHk5J-2BnY=
+jL3yMebkmpT6orNMOty4wb3YpK5yV2-2FCv6qNCdpBpf1isF-2FIb8LU3X7JpeH-2FxspqsYLRF=
+6He8xh2XBrfxf5yjc-2BtAfx0DP5p-2BTO6wR5EN2boYo9GsTO9Q58fIU4sHQ3zNM2-2ByDFduT=
+N0uGAHUdG-2FFtD1MJYwIPvBW5ThR9xHj1PmhTYU07PYjnYhTe-2BZjJwguKEG-2FfdAH3bnJNF=
+nJ45nTz9R1BaJ-2Bi7S4fu7woLS1apZ4T0mohfHiFzp8-3D" target=3D"_blank">Ivanovo =
+Vol. 1</a></h3><p style=3D"font-size: 13px;"><span class=3D"event-date">Feb=
+ruary 08, 7:00 PM</span> - <span class=3D"event-place">Lenina str., 88 Hool=
+igans Pub</span></p></div><div class=3D"event-ticket"><a href=3D"https://u4=
+460374.ct.sendgrid.net/wf/click?upn=3DVpQSVi0rjOiE4jZJm91oTZu-2BFwKs4iF1rJ7=
+Ml8-2BWpC0JlQaDYw5HBVPL3PT11S2vE-2FTibJ96-2B2Ua58oBzuAmhg-3D-3D_OaLlT2qeeZK=
+UdbZjdkfUFPvcManjqpnWtUvEeUaFYX8Nn59esF6A56pGz5TYdEYPssFOIjU6t1g2Cii-2FzKx3=
+gx49YVe0n4yFRrcK5H9oDLKNNAVVJGycMpQjzTYel-2BTSUIYQt56tSIfBENfe37w2wXn5qGH7-=
+2F9neI4PpVcaBbbEHk5J-2BnYjL3yMebkmpT6orNMOty4wb3YpK5yV2-2FCv6qETPnjFxPnEA1w=
+tLBCDKuEGpXwjBa2QXUwBGK-2Bdjmy4IJrc5SzUJdUn5HdnbDtxctouw55b3lO7p3ZrJ8aSFCHS=
+Xk7CD6UvY-2BQuiUqwdJGu1JrwJlLEKuzaiIwXqd8C71TrmnDpulxn7mv8GSi2s8r9o2teqOrOp=
+byqHV-2Fo6sKi0u6hin4eOLMHjYrDa5Yi2j88se-2B115p55W8dqcbM-2FjWI-3D" class=3D"=
+et_pb_more_button et_pb_button"></a></div></div><div class=3D"fun-event"><d=
+iv class=3D"event-info"><h3><a href=3D"https://u4460374.ct.sendgrid.net/wf/=
+click?upn=3DVpQSVi0rjOiE4jZJm91oTZu-2BFwKs4iF1rJ7Ml8-2BWpC3DTk5APcID7kLoyDw=
+1eXZaQZlHKOVRDVQgE-2FYkls6-2F3A-3D-3D_OaLlT2qeeZKUdbZjdkfUFPvcManjqpnWtUvEe=
+UaFYX8Nn59esF6A56pGz5TYdEYPssFOIjU6t1g2Cii-2FzKx3gx49YVe0n4yFRrcK5H9oDLKNNA=
+VVJGycMpQjzTYel-2BTSUIYQt56tSIfBENfe37w2wXn5qGH7-2F9neI4PpVcaBbbEHk5J-2BnYj=
+L3yMebkmpT6orNMOty4wb3YpK5yV2-2FCv6qCnW49v3A1yen-2FHCIr-2FRxTtJ2d05kPIGFXgV=
+vTwlaXwUx7AXBdahZyBjieOdIgG-2Fwfh1-2Fj9DaLMgZIw0ktQcnVM4T-2BVIHG0QX-2BhNR4V=
+r8wNg8S3whPQ2-2B55SdPutgzQZ6Hykznqa1piDBpifu0t-2BzHiAgk0tWvmpGurlt9AC57evzW=
+O8cUTVt0XGPaYnBByaHoXADrN7ChoHOd82NaeqErY-3D" target=3D"_blank">Ulaanbaatar=
+ Vol. 5</a></h3><p style=3D"font-size: 13px;"><span class=3D"event-date">Fe=
+bruary 08, 7:00 PM</span> - <span class=3D"event-place"> SKY17</span></p></=
+div><div class=3D"event-ticket"><a href=3D"https://u4460374.ct.sendgrid.net=
+/wf/click?upn=3DVpQSVi0rjOiE4jZJm91oTZu-2BFwKs4iF1rJ7Ml8-2BWpC3DTk5APcID7kL=
+oyDw1eXZaQZlHKOVRDVQgE-2FYkls6-2F3A-3D-3D_OaLlT2qeeZKUdbZjdkfUFPvcManjqpnWt=
+UvEeUaFYX8Nn59esF6A56pGz5TYdEYPssFOIjU6t1g2Cii-2FzKx3gx49YVe0n4yFRrcK5H9oDL=
+KNNAVVJGycMpQjzTYel-2BTSUIYQt56tSIfBENfe37w2wXn5qGH7-2F9neI4PpVcaBbbEHk5J-2=
+BnYjL3yMebkmpT6orNMOty4wb3YpK5yV2-2FCv6qBNuelKEAszHgstDmSFihLccssklzZ-2F7c2=
+53chuogGXkYktPgn8oja8UwbirWMCTNInd9Hekh7fhnq5FRhA-2FyoMr9M-2F7ImeVB8DYyTgLC=
+oxUokZ83pPFBsT-2BNpxfxJFK4M9duSuaCDn1mCBPKZDr5TMQDmPRpxY1lnQHdNSHj06KyH2zUq=
+XJDSHzjaUIFTTd45A16Lh1PU5a2cvrmLxLYFM-3D" class=3D"et_pb_more_button et_pb_=
+button"></a></div></div><div class=3D"fun-event"><div class=3D"event-info">=
+<h3><a href=3D"https://u4460374.ct.sendgrid.net/wf/click?upn=3DVpQSVi0rjOiE=
+4jZJm91oTZu-2BFwKs4iF1rJ7Ml8-2BWpC0Ee1mPCLT6E4zpMSbb3X2-2FFz0AdBMSgc92-2BDU=
+DVUsnIg-3D-3D_OaLlT2qeeZKUdbZjdkfUFPvcManjqpnWtUvEeUaFYX8Nn59esF6A56pGz5TYd=
+EYPssFOIjU6t1g2Cii-2FzKx3gx49YVe0n4yFRrcK5H9oDLKNNAVVJGycMpQjzTYel-2BTSUIYQ=
+t56tSIfBENfe37w2wXn5qGH7-2F9neI4PpVcaBbbEHk5J-2BnYjL3yMebkmpT6orNMOty4wb3Yp=
+K5yV2-2FCv6qKa2rpG1nPCaYh3BMv3XVlMvvLa1lUdjStdSHZ7Jh4xo6FWGNKlIaZzRXqKgvM9m=
+lzNDNCYf5yciHznxC-2BoNYVQANVuFkR1V2E2459QppG-2BehnhOhRc18JbAnF9rbaKfr-2B5UO=
+NBsiTG8jIDM-2BAHGCrO-2FEhzULBB0qpfsH2dSBhfG5Jxc69ojeY4FQGEvr9QzTMCjCVBDF2bT=
+6GMJCsIclNQ-3D" target=3D"_blank">Firenze Vol. 7</a></h3><p style=3D"font-s=
+ize: 13px;"><span class=3D"event-date">February 08, 7:30 PM</span> - <span =
+class=3D"event-place">via Panciatichi 16 Impact Hub Firenze</span></p></div=
+><div class=3D"event-ticket"><a href=3D"https://u4460374.ct.sendgrid.net/wf=
+/click?upn=3DVpQSVi0rjOiE4jZJm91oTZu-2BFwKs4iF1rJ7Ml8-2BWpC0Ee1mPCLT6E4zpMS=
+bb3X2-2FFz0AdBMSgc92-2BDUDVUsnIg-3D-3D_OaLlT2qeeZKUdbZjdkfUFPvcManjqpnWtUvE=
+eUaFYX8Nn59esF6A56pGz5TYdEYPssFOIjU6t1g2Cii-2FzKx3gx49YVe0n4yFRrcK5H9oDLKNN=
+AVVJGycMpQjzTYel-2BTSUIYQt56tSIfBENfe37w2wXn5qGH7-2F9neI4PpVcaBbbEHk5J-2BnY=
+jL3yMebkmpT6orNMOty4wb3YpK5yV2-2FCv6qLcd8Squ7hNDDpW9pW98TYZWF0oZJWKBLIsYmeq=
+x6jov9yx1mYqdrkGyYwfU6rKxlf1yH3KK28HZwzan7sKXmay507zOZJpaXyt4wWDmw5mQn2sXMV=
+F4NGbV0457vLe7KGV99AkzGQeq84bWo9keNt7xq-2B2l4rmkdXKJvn-2FwYqcvcbSK8HWFqRBt9=
+oZcNfcf7xAwP1KNHx6F-2FzWL0tx4n9c-3D" class=3D"et_pb_more_button et_pb_butto=
+n"></a></div></div><div class=3D"fun-event"><div class=3D"event-info"><h3><=
+a href=3D"https://u4460374.ct.sendgrid.net/wf/click?upn=3DVpQSVi0rjOiE4jZJm=
+91oTZu-2BFwKs4iF1rJ7Ml8-2BWpC0F29PGjMevQ3sS2i38mLci0dQmlJRHBGPEksEM4QEGvQ-3=
+D-3D_OaLlT2qeeZKUdbZjdkfUFPvcManjqpnWtUvEeUaFYX8Nn59esF6A56pGz5TYdEYPssFOIj=
+U6t1g2Cii-2FzKx3gx49YVe0n4yFRrcK5H9oDLKNNAVVJGycMpQjzTYel-2BTSUIYQt56tSIfBE=
+Nfe37w2wXn5qGH7-2F9neI4PpVcaBbbEHk5J-2BnYjL3yMebkmpT6orNMOty4wb3YpK5yV2-2FC=
+v6qAES87x1hdI0d8v6xyjh4KKjk77r9NCpCaaKhE8pehEyCDol-2FvXvMePSYqk4aejNduao0Ry=
+wfQiNb8Ji6hoWdPEHxNqEbT3zGT7pGCzbvuWcljxz1WduZtqz-2BXuo6Y07anqw-2B14Aubt-2F=
+-2FZC2nau54M42jAMsoPJaYi86qgxBj1WzOzNcGzCfupwyevbN8a-2BH9xxM2Yi73s6rOJvsTCc=
+G17Y-3D" target=3D"_blank">Culiac=C3=A1n Vol. 22</a></h3><p style=3D"font-s=
+ize: 13px;"><span class=3D"event-date">February 08, 8:00 PM</span> - <span =
+class=3D"event-place">80030 Culiac=C3=A1n Rosales, Si Bur=C3=B3crata</span>=
+</p></div><div class=3D"event-ticket"><a href=3D"https://u4460374.ct.sendgr=
+id.net/wf/click?upn=3DVpQSVi0rjOiE4jZJm91oTZu-2BFwKs4iF1rJ7Ml8-2BWpC0F29PGj=
+MevQ3sS2i38mLci0dQmlJRHBGPEksEM4QEGvQ-3D-3D_OaLlT2qeeZKUdbZjdkfUFPvcManjqpn=
+WtUvEeUaFYX8Nn59esF6A56pGz5TYdEYPssFOIjU6t1g2Cii-2FzKx3gx49YVe0n4yFRrcK5H9o=
+DLKNNAVVJGycMpQjzTYel-2BTSUIYQt56tSIfBENfe37w2wXn5qGH7-2F9neI4PpVcaBbbEHk5J=
+-2BnYjL3yMebkmpT6orNMOty4wb3YpK5yV2-2FCv6qEZBpw2D9eqsfzncd5f1SuSl20VrYE5AYq=
+nT7raA2zBZLNj-2Fn0l4bYLKbRoxtE-2FctWF71HmX30Jfpy-2FTLngZzL-2FAgZ-2FPtCFqNxx=
+oOj4kRRCl4-2B005NDe7TvQYwCn9JeCkHUjpEccoSeMOYSUNk7Jv3fT9PudPi-2FzQHEa4qAlf0=
+hSZTBXKxJUiLuHfj2vOW4BAQIfrLhgujRw2GGVbtHCH04-3D" class=3D"et_pb_more_butto=
+n et_pb_button"></a></div></div><div class=3D"fun-event"><div class=3D"even=
+t-info"><h3><a href=3D"https://u4460374.ct.sendgrid.net/wf/click?upn=3DVpQS=
+Vi0rjOiE4jZJm91oTZu-2BFwKs4iF1rJ7Ml8-2BWpC0Tm-2B6IpqQvWeeUE447jVMaunzkaNtVb=
+kyzt4QeXpV-2B0A-3D-3D_OaLlT2qeeZKUdbZjdkfUFPvcManjqpnWtUvEeUaFYX8Nn59esF6A5=
+6pGz5TYdEYPssFOIjU6t1g2Cii-2FzKx3gx49YVe0n4yFRrcK5H9oDLKNNAVVJGycMpQjzTYel-=
+2BTSUIYQt56tSIfBENfe37w2wXn5qGH7-2F9neI4PpVcaBbbEHk5J-2BnYjL3yMebkmpT6orNMO=
+ty4wb3YpK5yV2-2FCv6qHnerJ0-2B1J6wsSIPPAZEQdsWlD1IUgKqvhkjbN6pRMBXE8Mb5xZisW=
+RF25JEwjJlItoDGuFEMATswa2eV9i8OW9rXQHJn-2B2odATZgHpzCVSP98tnsM1zBQfROVv04mo=
+dVa6TDqAMfAtNPhV50Ay2pqYFMfElU89scaFjj1M2cQT0lISRSKG9cs2xUBb3mchiAvNPvx0Ux1=
+oC4KzDRl30BzY-3D" target=3D"_blank">Culiacan Vol. 22</a></h3><p style=3D"fo=
+nt-size: 13px;"><span class=3D"event-date">February 08, 8:00 PM</span> - <s=
+pan class=3D"event-place"> Centro de Ciencias de Sinaloa</span></p></div><d=
+iv class=3D"event-ticket"><a href=3D"https://u4460374.ct.sendgrid.net/wf/cl=
+ick?upn=3DVpQSVi0rjOiE4jZJm91oTZu-2BFwKs4iF1rJ7Ml8-2BWpC0Tm-2B6IpqQvWeeUE44=
+7jVMaunzkaNtVbkyzt4QeXpV-2B0A-3D-3D_OaLlT2qeeZKUdbZjdkfUFPvcManjqpnWtUvEeUa=
+FYX8Nn59esF6A56pGz5TYdEYPssFOIjU6t1g2Cii-2FzKx3gx49YVe0n4yFRrcK5H9oDLKNNAVV=
+JGycMpQjzTYel-2BTSUIYQt56tSIfBENfe37w2wXn5qGH7-2F9neI4PpVcaBbbEHk5J-2BnYjL3=
+yMebkmpT6orNMOty4wb3YpK5yV2-2FCv6qMHZO2qC88T1-2FuW-2BcfpvsmW6QuvDiyjoqz-2BJ=
+snQ8s989LwDApTR-2F5rt8NI-2F-2BW4PeewEnPsNYiaWRG0YregC-2F92KmR2tqFkhntJIlA24=
+1Kjdm0Igm142Hk3MXxzxged6Oy-2B1p7EqCJHh38MhSLAWSwN5sr1G0-2F4IcDB0U0t2SSTT-2F=
+Dw-2FDa-2Fz5zoveT4xK0FAvJA0NiMcrpIZR41OufBv78FM-3D" class=3D"et_pb_more_but=
+ton et_pb_button"></a></div></div><div class=3D"fun-event"><div class=3D"ev=
+ent-info"><h3><a href=3D"https://u4460374.ct.sendgrid.net/wf/click?upn=3DVp=
+QSVi0rjOiE4jZJm91oTZu-2BFwKs4iF1rJ7Ml8-2BWpC1B6Nd9KUpLOfx3fjWNH4NO_OaLlT2qe=
+eZKUdbZjdkfUFPvcManjqpnWtUvEeUaFYX8Nn59esF6A56pGz5TYdEYPssFOIjU6t1g2Cii-2Fz=
+Kx3gx49YVe0n4yFRrcK5H9oDLKNNAVVJGycMpQjzTYel-2BTSUIYQt56tSIfBENfe37w2wXn5qG=
+H7-2F9neI4PpVcaBbbEHk5J-2BnYjL3yMebkmpT6orNMOty4wb3YpK5yV2-2FCv6qLJxxXqU4mL=
+CpAuHZlr-2BaZnCRKls4SwqeGTP8qpFvnFrSK53Vf0GFOGNn3oboLqLqXwNJUu9dQI1M3T9G0Wh=
+h-2F89oVkqURwI7IJpi0V5mg5pc9oAj-2BO00GziVadc4LVqgsfd3CDq6NwKNkQLt2nD-2BTLQo=
+zTIr-2Fi6Ki15UKWr0M-2BURyhvOjFNeAyE9g-2BJw4YORmrJxn3wdWUXU9jPSZBm7JQ-3D" ta=
+rget=3D"_blank">Pune Vol. 1</a></h3><p style=3D"font-size: 13px;"><span cla=
+ss=3D"event-date">February 08, 8:30 PM</span> - <span class=3D"event-place"=
+>Baner, Pune Replay Sports Bar</span></p></div><div class=3D"event-ticket">=
+<a href=3D"https://u4460374.ct.sendgrid.net/wf/click?upn=3DVpQSVi0rjOiE4jZJ=
+m91oTZu-2BFwKs4iF1rJ7Ml8-2BWpC1B6Nd9KUpLOfx3fjWNH4NO_OaLlT2qeeZKUdbZjdkfUFP=
+vcManjqpnWtUvEeUaFYX8Nn59esF6A56pGz5TYdEYPssFOIjU6t1g2Cii-2FzKx3gx49YVe0n4y=
+FRrcK5H9oDLKNNAVVJGycMpQjzTYel-2BTSUIYQt56tSIfBENfe37w2wXn5qGH7-2F9neI4PpVc=
+aBbbEHk5J-2BnYjL3yMebkmpT6orNMOty4wb3YpK5yV2-2FCv6qKoVu1I0X08znw7MR2Ghtux2a=
+ap0u-2Fj61fBI-2Bkv-2FrjkTcZO3UGCD3nxtiS391A5d7XDnNwiT7rUfwSG3YoFPoNvNxmoSDv=
+ja6DiWSFuZlCN1K9iV1gbp3pbxF9OgzSFGjTVkM5vZ3p36jqPH35Pg10-2BlyCN07sUMukddfGU=
+DIw1nRue3uHXv2YmpthaM54kT8js9RPruFDK1NcYI-2FhC-2Fvgs-3D" class=3D"et_pb_mor=
+e_button et_pb_button"></a></div></div><div class=3D"fun-event"><div class=
+=3D"event-info"><h3><a href=3D"https://u4460374.ct.sendgrid.net/wf/click?up=
+n=3DVpQSVi0rjOiE4jZJm91oTZu-2BFwKs4iF1rJ7Ml8-2BWpC1wei7avxivtJsxhVvpfS2Az-2=
+BdCcsdUDjmyqmOxnji0Qw-3D-3D_OaLlT2qeeZKUdbZjdkfUFPvcManjqpnWtUvEeUaFYX8Nn59=
+esF6A56pGz5TYdEYPssFOIjU6t1g2Cii-2FzKx3gx49YVe0n4yFRrcK5H9oDLKNNAVVJGycMpQj=
+zTYel-2BTSUIYQt56tSIfBENfe37w2wXn5qGH7-2F9neI4PpVcaBbbEHk5J-2BnYjL3yMebkmpT=
+6orNMOty4wb3YpK5yV2-2FCv6qHP8b1-2Fkn-2FeiU8hi9xt6glrnNZcH4zrrYpi8yB4Zor39BB=
+mCJWPE582IwjkOgRwjI4oq-2Fr-2BidHVEuUvraa-2FR-2Bja9Ro49fwB2ugkcHBs9-2FHvJHn0=
+D24RU8J-2B4pdAN2rsyFldbD5SL4J1ACeuekCtLTDF01dC3-2BjIRAdubhGiLzJ38QuExWeTlGt=
+sFPtGiugdnTPCyuUDDtjLuy-2BuTZpisZKQ-3D" target=3D"_blank">Dordrecht Vol. 2<=
+/a></h3><p style=3D"font-size: 13px;"><span class=3D"event-date">February 0=
+8, 8:30 PM</span> - <span class=3D"event-place"> Korte Kalkhaven 3</span></=
+p></div><div class=3D"event-ticket"><a href=3D"https://u4460374.ct.sendgrid=
+.net/wf/click?upn=3DVpQSVi0rjOiE4jZJm91oTZu-2BFwKs4iF1rJ7Ml8-2BWpC1wei7avxi=
+vtJsxhVvpfS2Az-2BdCcsdUDjmyqmOxnji0Qw-3D-3D_OaLlT2qeeZKUdbZjdkfUFPvcManjqpn=
+WtUvEeUaFYX8Nn59esF6A56pGz5TYdEYPssFOIjU6t1g2Cii-2FzKx3gx49YVe0n4yFRrcK5H9o=
+DLKNNAVVJGycMpQjzTYel-2BTSUIYQt56tSIfBENfe37w2wXn5qGH7-2F9neI4PpVcaBbbEHk5J=
+-2BnYjL3yMebkmpT6orNMOty4wb3YpK5yV2-2FCv6qInZEiEIRafXKLWm32CO4KjLB29oYhb1Ck=
+Y-2Bl4s5lCIbA-2B1iUdl0THJnDutc7crdhT-2BR2uXBRN01jmgFXtuG6-2BjrJpFlg-2Fkqw9W=
+VORUbM8mNknAPH91lD5mIzGjmtbASyf8ZA9UKQ-2FMdM35cZr6QS-2B9sE9MBnnf-2Ftp122qrn=
+uhyl5l0dogzxI4g5LnHwsEPMv4VhZl5k4eehl1NyoNUZntA-3D" class=3D"et_pb_more_but=
+ton et_pb_button"></a></div></div><div class=3D"fun-event"><div class=3D"ev=
+ent-info"><h3><a href=3D"https://u4460374.ct.sendgrid.net/wf/click?upn=3DVp=
+QSVi0rjOiE4jZJm91oTZu-2BFwKs4iF1rJ7Ml8-2BWpC1QjzN3Rds0j6QZECDLkLPzQclsNVakq=
+J-2FCh-2FC-2FfFlcmQ-3D-3D_OaLlT2qeeZKUdbZjdkfUFPvcManjqpnWtUvEeUaFYX8Nn59es=
+F6A56pGz5TYdEYPssFOIjU6t1g2Cii-2FzKx3gx49YVe0n4yFRrcK5H9oDLKNNAVVJGycMpQjzT=
+Yel-2BTSUIYQt56tSIfBENfe37w2wXn5qGH7-2F9neI4PpVcaBbbEHk5J-2BnYjL3yMebkmpT6o=
+rNMOty4wb3YpK5yV2-2FCv6qDKcqmZXp9ecA1xe4ykpJbEbIevkcEnmaWjXBD5n44HPfoHRojvE=
+1s03WYsSCN0ESgIzOvFRBtU-2BrUS-2BXCLoJFjoVTGe49KhfJmvaOy9nkMlt-2FsV3byiI8X-2=
+B3pHGqNwgNGaXhluZXbL6kyiGbiPlAFnLCNLWz3rTBXBTOHxuiLv6hXMO68OujdgftSy2JoLRcc=
+-2F3FqjyOUoKrfy9YtufXs8-3D" target=3D"_blank">Taichung Vol. 4</a></h3><p st=
+yle=3D"font-size: 13px;"><span class=3D"event-date">February 10, 7:30 PM</s=
+pan> - <span class=3D"event-place"> 403 =E5=8F=B0=E4=B8=AD=E5=B8=82=E8=A5=
+=BF=E5=8D=80=E5=8F=B0=E7=81=A3=E5=A4=A7=E9=81=93=E4=BA=8C=E6=AE=B52=E8=99=
+=9F16=E6=A8=93=E4=B9=8B2tai</span></p></div><div class=3D"event-ticket"><a =
+href=3D"https://u4460374.ct.sendgrid.net/wf/click?upn=3DVpQSVi0rjOiE4jZJm91=
+oTZu-2BFwKs4iF1rJ7Ml8-2BWpC1QjzN3Rds0j6QZECDLkLPzQclsNVakqJ-2FCh-2FC-2FfFlc=
+mQ-3D-3D_OaLlT2qeeZKUdbZjdkfUFPvcManjqpnWtUvEeUaFYX8Nn59esF6A56pGz5TYdEYPss=
+FOIjU6t1g2Cii-2FzKx3gx49YVe0n4yFRrcK5H9oDLKNNAVVJGycMpQjzTYel-2BTSUIYQt56tS=
+IfBENfe37w2wXn5qGH7-2F9neI4PpVcaBbbEHk5J-2BnYjL3yMebkmpT6orNMOty4wb3YpK5yV2=
+-2FCv6qLXdWxyvnpGnJzHj1XJPTo8MtFAOYQEmuwbPltQu8940DYuKZhLblrBUnv3GpVcrKQvxP=
+JGabUkwAnCVjN-2B2DRvwuq8TlVEfxhO7Fo0R4B-2FuQ7Dfe2Ajo0AfMLwdTx22z4-2FkST6ZCt=
+Xi7-2BiCXEukHx75Gg5cClLcIhhCj2elkDpM0r6f-2FU3p-2FLcDmFZAW6Z1lGkjWQd7bNzmz2S=
+Swj0OEZ8-3D" class=3D"et_pb_more_button et_pb_button"></a></div></div><div =
+class=3D"fun-event"><div class=3D"event-info"><h3><a href=3D"https://u44603=
+74.ct.sendgrid.net/wf/click?upn=3DVpQSVi0rjOiE4jZJm91oTZu-2BFwKs4iF1rJ7Ml8-=
+2BWpC3hk9S1KFvZ6a4tzMxnlR-2FfEb-2FbqgUYHUmj1C-2FJ2gplKw-3D-3D_OaLlT2qeeZKUd=
+bZjdkfUFPvcManjqpnWtUvEeUaFYX8Nn59esF6A56pGz5TYdEYPssFOIjU6t1g2Cii-2FzKx3gx=
+49YVe0n4yFRrcK5H9oDLKNNAVVJGycMpQjzTYel-2BTSUIYQt56tSIfBENfe37w2wXn5qGH7-2F=
+9neI4PpVcaBbbEHk5J-2BnYjL3yMebkmpT6orNMOty4wb3YpK5yV2-2FCv6qLs-2BTfXX44183i=
+H8Vr2tTA5rduIs6kADmGqPxfxVZLcBAujIrkGbqhEjqWnP-2FTHNkT3c4QToW7sQNorxcxIIONT=
+fFjVD7U7PNUcWXD71hy7YIqSum9TTLANWL79OpzOKgkHtnKA8W5eYYxMlEELo6QKCUMaHgeSbRd=
+uG-2F2IbjWYoKOFtyb0foZHdw5AJdmjNXLHYH0fTOnAYk24nc75B-2FaU-3D" target=3D"_bl=
+ank">Bucaramanga Vol. 38</a></h3><p style=3D"font-size: 13px;"><span class=
+=3D"event-date">February 15, 2:30 PM</span> - <span class=3D"event-place"> =
+Centro Comercial Parque Caracol=C3=AD</span></p></div><div class=3D"event-t=
+icket"><a href=3D"https://u4460374.ct.sendgrid.net/wf/click?upn=3DVpQSVi0rj=
+OiE4jZJm91oTZu-2BFwKs4iF1rJ7Ml8-2BWpC3hk9S1KFvZ6a4tzMxnlR-2FfEb-2FbqgUYHUmj=
+1C-2FJ2gplKw-3D-3D_OaLlT2qeeZKUdbZjdkfUFPvcManjqpnWtUvEeUaFYX8Nn59esF6A56pG=
+z5TYdEYPssFOIjU6t1g2Cii-2FzKx3gx49YVe0n4yFRrcK5H9oDLKNNAVVJGycMpQjzTYel-2BT=
+SUIYQt56tSIfBENfe37w2wXn5qGH7-2F9neI4PpVcaBbbEHk5J-2BnYjL3yMebkmpT6orNMOty4=
+wb3YpK5yV2-2FCv6qMd5nGM-2BlHLgPysgQZpntpbqvGk3B74qSUdHSKvzgN6XV2LBjwe98-2Bx=
+0ZeItNaaNZAv9G6OlXrZcU5lWcORYos-2B64UZfMZddHuMz28HrdeNQ4dmbK-2BYS9U95FJ8pVc=
+LPz-2BVFCjcjuHoWbFdqipsCEjk4HwG9t-2Fqb3zvp2D5yn8DKL5fxtmLGTnPERuFScWhhoTa9m=
+POTDWC3cUnpPYt22nQ-3D" class=3D"et_pb_more_button et_pb_button"></a></div><=
+/div><div class=3D"fun-event"><div class=3D"event-info"><h3><a href=3D"http=
+s://u4460374.ct.sendgrid.net/wf/click?upn=3DVpQSVi0rjOiE4jZJm91oTZu-2BFwKs4=
+iF1rJ7Ml8-2BWpC2TtH4eLTEPhCqjPc0TREE-2B0hrzfhOqeujHn-2F7biqcKhA-3D-3D_OaLlT=
+2qeeZKUdbZjdkfUFPvcManjqpnWtUvEeUaFYX8Nn59esF6A56pGz5TYdEYPssFOIjU6t1g2Cii-=
+2FzKx3gx49YVe0n4yFRrcK5H9oDLKNNAVVJGycMpQjzTYel-2BTSUIYQt56tSIfBENfe37w2wXn=
+5qGH7-2F9neI4PpVcaBbbEHk5J-2BnYjL3yMebkmpT6orNMOty4wb3YpK5yV2-2FCv6qL61HxJm=
+EjCe21MYhgjSd0psNKO6e8kiu6HCkH2-2BeKe0w-2Bb0wFstnefYZ3prXcpVhCTONZjg63kWiAm=
+Hflj2a65p-2FqWo2yZtjg3itSk7PFBo0s6-2FTWbYD5vbSM4QNPJjKdFoDMDicDd7L-2FBJpzrX=
+NedIafXzlEUYKaRPhT2pu09j59jhlcmkrwTnnH-2F8-2FjSvfnw773MC8wa-2FtpmrHzIZv7c-3=
+D" target=3D"_blank">Toronto Vol. 9</a></h3><p style=3D"font-size: 13px;"><=
+span class=3D"event-date">February 15, 6:30 PM</span> - <span class=3D"even=
+t-place">80 Spadina Ave Shopify</span></p></div><div class=3D"event-ticket"=
+><a href=3D"https://u4460374.ct.sendgrid.net/wf/click?upn=3DVpQSVi0rjOiE4jZ=
+Jm91oTZu-2BFwKs4iF1rJ7Ml8-2BWpC2TtH4eLTEPhCqjPc0TREE-2B0hrzfhOqeujHn-2F7biq=
+cKhA-3D-3D_OaLlT2qeeZKUdbZjdkfUFPvcManjqpnWtUvEeUaFYX8Nn59esF6A56pGz5TYdEYP=
+ssFOIjU6t1g2Cii-2FzKx3gx49YVe0n4yFRrcK5H9oDLKNNAVVJGycMpQjzTYel-2BTSUIYQt56=
+tSIfBENfe37w2wXn5qGH7-2F9neI4PpVcaBbbEHk5J-2BnYjL3yMebkmpT6orNMOty4wb3YpK5y=
+V2-2FCv6qGx0ZY-2FqoCfMzHeJN4LREeSi3oVHcWwQf5oFzAxHC-2FdIz0dt-2Bdup7aOD83qb9=
+nbt8LatI2LKMSSbBzsXDXRXQX8XExBQeSOcNAWLNi4NBhtur1ds-2F68PB3Bm-2FYtBagNe8JjY=
+U-2Bq-2B0ikmAJvjfHGvi75ORnqYYWbmCAc8p0aeJKIFfPEKAM-2FREJEG-2FZqQIQoeGaRsQL6=
+rIbtIAAONhYoH3Ak-3D" class=3D"et_pb_more_button et_pb_button"></a></div></d=
+iv><div class=3D"fun-event"><div class=3D"event-info"><h3><a href=3D"https:=
+//u4460374.ct.sendgrid.net/wf/click?upn=3DVpQSVi0rjOiE4jZJm91oTZu-2BFwKs4iF=
+1rJ7Ml8-2BWpC0mDkNIr6-2F2vFH0CSraLR8SNE40vrFuPjmv-2FqYV-2BsfqLw-3D-3D_OaLlT=
+2qeeZKUdbZjdkfUFPvcManjqpnWtUvEeUaFYX8Nn59esF6A56pGz5TYdEYPssFOIjU6t1g2Cii-=
+2FzKx3gx49YVe0n4yFRrcK5H9oDLKNNAVVJGycMpQjzTYel-2BTSUIYQt56tSIfBENfe37w2wXn=
+5qGH7-2F9neI4PpVcaBbbEHk5J-2BnYjL3yMebkmpT6orNMOty4wb3YpK5yV2-2FCv6qB4jC-2B=
+lgSMhWDmG6FGuqHWodNnrxphQ9CTa-2F6CZ4EOkPGpoIUSip1U3QRTytV2A1AsPOa7dqx2k8rUe=
+o-2BSbxEQBE69pkhb4eDZXEqngkTLaBqQlddtqfQTztlb59Nkq1Cl-2F5aToi-2FS5vI5NEF1yO=
+33kuRBkvOfrfLzDt-2BpWI5zHf4yiZlfSa-2FO7zWzzKYIIyOCaglWhqK2tbQISRDag08vc-3D"=
+ target=3D"_blank">San Diego Vol. 1</a></h3><p style=3D"font-size: 13px;"><=
+span class=3D"event-date">February 15, 6:30 PM</span> - <span class=3D"even=
+t-place">7580 Fay Ave. #204, La Jolla, CA 92037 Co-mmunity La Jolla</span><=
+/p></div><div class=3D"event-ticket"><a href=3D"https://u4460374.ct.sendgri=
+d.net/wf/click?upn=3DVpQSVi0rjOiE4jZJm91oTZu-2BFwKs4iF1rJ7Ml8-2BWpC0mDkNIr6=
+-2F2vFH0CSraLR8SNE40vrFuPjmv-2FqYV-2BsfqLw-3D-3D_OaLlT2qeeZKUdbZjdkfUFPvcMa=
+njqpnWtUvEeUaFYX8Nn59esF6A56pGz5TYdEYPssFOIjU6t1g2Cii-2FzKx3gx49YVe0n4yFRrc=
+K5H9oDLKNNAVVJGycMpQjzTYel-2BTSUIYQt56tSIfBENfe37w2wXn5qGH7-2F9neI4PpVcaBbb=
+EHk5J-2BnYjL3yMebkmpT6orNMOty4wb3YpK5yV2-2FCv6qM1nncOqNp90KSHjVZGq4JRFmpE3f=
+E785raQIsDaQnhHlWW7-2FN-2FWFlMlVl7NvF2Yu2CPonvEJ2x9yjfx6Z2-2B-2F-2Blt6ZiOzF=
+MnLFuamoVdKzV0wKqu96qoWlGtG35ihh73Hp48eCHR1mNvLKwLEZ-2F69yn6ljmY55F5KYEyi9C=
+-2FvvU793VLQBkwwLBjFu3kNIWBthwbTD8t94KbwxJqMdPb8ww-3D" class=3D"et_pb_more_=
+button et_pb_button"></a></div></div><div class=3D"fun-event"><div class=3D=
+"event-info"><h3><a href=3D"https://u4460374.ct.sendgrid.net/wf/click?upn=
+=3DVpQSVi0rjOiE4jZJm91oTZu-2BFwKs4iF1rJ7Ml8-2BWpC354Z0LBlf7IkgvvjzV4WR1r1N6=
+nLlmmu5YF0YOBp8FkQ-3D-3D_OaLlT2qeeZKUdbZjdkfUFPvcManjqpnWtUvEeUaFYX8Nn59esF=
+6A56pGz5TYdEYPssFOIjU6t1g2Cii-2FzKx3gx49YVe0n4yFRrcK5H9oDLKNNAVVJGycMpQjzTY=
+el-2BTSUIYQt56tSIfBENfe37w2wXn5qGH7-2F9neI4PpVcaBbbEHk5J-2BnYjL3yMebkmpT6or=
+NMOty4wb3YpK5yV2-2FCv6qGlb9AVX4FPOXlHT-2Fqj7XocEz2u6Gd8z6Un0OSGNVzMiX1w5dRb=
+6gXh1-2BbTl18qow9dFpWTelkaDojS0udpIpbYydCRGwdFYKKIxLCGRUaQSxrKDEZbBLnfZhpeq=
+ylxLwyeqGVXgCiqnZsjmS4vmAWRzic2vs7ui1mc-2F3jC2rZ8FSaAGrIcNDyf5QIq-2BagMXOS-=
+2FTJqizTPBTuEnhIXX4MoA-3D" target=3D"_blank">Basel Vol. X</a></h3><p style=
+=3D"font-size: 13px;"><span class=3D"event-date">February 15, 7:00 PM</span=
+> - <span class=3D"event-place">Halle 8 Gundeldingerfeld, Dornacherstrasse =
+192, 4053 Basel Launchlabs</span></p></div><div class=3D"event-ticket"><a h=
+ref=3D"https://u4460374.ct.sendgrid.net/wf/click?upn=3DVpQSVi0rjOiE4jZJm91o=
+TZu-2BFwKs4iF1rJ7Ml8-2BWpC354Z0LBlf7IkgvvjzV4WR1r1N6nLlmmu5YF0YOBp8FkQ-3D-3=
+D_OaLlT2qeeZKUdbZjdkfUFPvcManjqpnWtUvEeUaFYX8Nn59esF6A56pGz5TYdEYPssFOIjU6t=
+1g2Cii-2FzKx3gx49YVe0n4yFRrcK5H9oDLKNNAVVJGycMpQjzTYel-2BTSUIYQt56tSIfBENfe=
+37w2wXn5qGH7-2F9neI4PpVcaBbbEHk5J-2BnYjL3yMebkmpT6orNMOty4wb3YpK5yV2-2FCv6q=
+CAvRRXGphOPgU3bbdGCEK9guB6B-2FlmnOUx-2BaFr5WnJiuxU9DTeCMC5dW1TwZr8KSTDxchjn=
+s6rpfikVCZVBcvK8zqU06mxV2b-2ByEhAk4ziLCnlo4Hka4atR6IwJ2JRU6qpmTWaw8KbLyOq15=
+ENSdTOBPwBhclm1JK0PIC5ZcMlvEj6ldf2LWYMbt6PnDqhEHFPpjMvSpITu1lC3SvCO7H4-3D" =
+class=3D"et_pb_more_button et_pb_button"></a></div></div><div class=3D"fun-=
+event"><div class=3D"event-info"><h3><a href=3D"https://u4460374.ct.sendgri=
+d.net/wf/click?upn=3DVpQSVi0rjOiE4jZJm91oTZu-2BFwKs4iF1rJ7Ml8-2BWpC0anl0NGq=
+c2dNF-2BSG-2FXPjWPDNFlCCixTJspk-2FBoZsn7ag-3D-3D_OaLlT2qeeZKUdbZjdkfUFPvcMa=
+njqpnWtUvEeUaFYX8Nn59esF6A56pGz5TYdEYPssFOIjU6t1g2Cii-2FzKx3gx49YVe0n4yFRrc=
+K5H9oDLKNNAVVJGycMpQjzTYel-2BTSUIYQt56tSIfBENfe37w2wXn5qGH7-2F9neI4PpVcaBbb=
+EHk5J-2BnYjL3yMebkmpT6orNMOty4wb3YpK5yV2-2FCv6qAiq7yspUPM7kOSjTXHBASOfm3AGr=
+fFnDSlnINkIYwnmShCh2cKAz4-2FDv5i39af9BM7tcDlJCCAJGIj22Z-2FiKaoYfC-2F-2BDsxJ=
+wBcRi6Em711W1F4tTbc58UVz-2FleH6vZwwKKsqzLX1lnKNDa5f-2F7X5Xitx19kzYII3Yx43AZ=
+FVDmj-2BHbe7ezoRa6QlOcsaTE1PEgjmL2voVXG85caxWWq6DA-3D" target=3D"_blank">Sa=
+n Salvador Vol. 9</a></h3><p style=3D"font-size: 13px;"><span class=3D"even=
+t-date">February 15, 7:00 PM</span> - <span class=3D"event-place">Calle La =
+Reforma 179 La Casa Tomada</span></p></div><div class=3D"event-ticket"><a h=
+ref=3D"https://u4460374.ct.sendgrid.net/wf/click?upn=3DVpQSVi0rjOiE4jZJm91o=
+TZu-2BFwKs4iF1rJ7Ml8-2BWpC0anl0NGqc2dNF-2BSG-2FXPjWPDNFlCCixTJspk-2FBoZsn7a=
+g-3D-3D_OaLlT2qeeZKUdbZjdkfUFPvcManjqpnWtUvEeUaFYX8Nn59esF6A56pGz5TYdEYPssF=
+OIjU6t1g2Cii-2FzKx3gx49YVe0n4yFRrcK5H9oDLKNNAVVJGycMpQjzTYel-2BTSUIYQt56tSI=
+fBENfe37w2wXn5qGH7-2F9neI4PpVcaBbbEHk5J-2BnYjL3yMebkmpT6orNMOty4wb3YpK5yV2-=
+2FCv6qAf8QW2UV5hNTiwg5jFZIpnDdUwqfZtnXgXXqDCPC2o6223JZUx4X8qdwoD9C3t7L5URSM=
+jxO9VLA6h4dDerCNVMzzdfDu-2BrRde9nqWm7cuHyrk-2Ft7aP5B-2FCpQhr18UYDzn19nYTahL=
+CKKMKUNKyAifUiOffVYZcSJ2TMaOPcU5T0YQuhpR5kU1Rk3Mn3pOMYFfZguGoGYR98tNQPZntFj=
+g-3D" class=3D"et_pb_more_button et_pb_button"></a></div></div><div class=
+=3D"fun-event"><div class=3D"event-info"><h3><a href=3D"https://u4460374.ct=
+.sendgrid.net/wf/click?upn=3DVpQSVi0rjOiE4jZJm91oTZu-2BFwKs4iF1rJ7Ml8-2BWpC=
+3FxDnNnky0MnjvtQwJm9pHa-2BZhUiAST3hERi3u-2BHJX3A-3D-3D_OaLlT2qeeZKUdbZjdkfU=
+FPvcManjqpnWtUvEeUaFYX8Nn59esF6A56pGz5TYdEYPssFOIjU6t1g2Cii-2FzKx3gx49YVe0n=
+4yFRrcK5H9oDLKNNAVVJGycMpQjzTYel-2BTSUIYQt56tSIfBENfe37w2wXn5qGH7-2F9neI4Pp=
+VcaBbbEHk5J-2BnYjL3yMebkmpT6orNMOty4wb3YpK5yV2-2FCv6qJlwgfRxxYtauCeKRrHAiLK=
+zogvikj-2BYMa8w9DZ-2BxJQTLRpkZQjcB9F-2B2L9oseAKWgfJL-2Fjsq0-2FzMC78eaNojyrl=
+hQi3dxgxFh1mO9ohTmdU2RbjH7lHfBei20ACEd1oboXBVXhvzz7xc2H7h4MGYGvu6aFbPIPoUwb=
+bNPK5C25iY1-2F0prBr8FaE4YEsOY3Mkby3AsvRggKfM7GUqzqDE00-3D" target=3D"_blank=
+">Ciudad de M=C3=A9xico Vol. 65</a></h3><p style=3D"font-size: 13px;"><span=
+ class=3D"event-date">February 15, 7:30 PM</span> - <span class=3D"event-pl=
+ace">Avenida M=C3=A9xico 200 Fraternidad de la Universidad de la Comunicaci=
+=C3=B3n</span></p></div><div class=3D"event-ticket"><a href=3D"https://u446=
+0374.ct.sendgrid.net/wf/click?upn=3DVpQSVi0rjOiE4jZJm91oTZu-2BFwKs4iF1rJ7Ml=
+8-2BWpC3FxDnNnky0MnjvtQwJm9pHa-2BZhUiAST3hERi3u-2BHJX3A-3D-3D_OaLlT2qeeZKUd=
+bZjdkfUFPvcManjqpnWtUvEeUaFYX8Nn59esF6A56pGz5TYdEYPssFOIjU6t1g2Cii-2FzKx3gx=
+49YVe0n4yFRrcK5H9oDLKNNAVVJGycMpQjzTYel-2BTSUIYQt56tSIfBENfe37w2wXn5qGH7-2F=
+9neI4PpVcaBbbEHk5J-2BnYjL3yMebkmpT6orNMOty4wb3YpK5yV2-2FCv6qDQm6OFX-2F89e0z=
+GQ9msrbSWvw-2BoFZvpuRCKv9BimDE2Df7RLG9xejAMoS5putvltgmT7dOurA996FQhNsS4Cqig=
+2HtCzqEpiMLb4Z6h40Ub-2BKfW-2BNVuFfHf5Pl8c-2FWHKWeY9Y3Midck6zYPC-2FVZGcF2YI5=
+AIU7ZXreEogdcHQYQv83aGBCD85Nwvv1xegbZLIhGBDLjj729pSHWurySMJNU-3D" class=3D"=
+et_pb_more_button et_pb_button"></a></div></div><div class=3D"fun-event"><d=
+iv class=3D"event-info"><h3><a href=3D"https://u4460374.ct.sendgrid.net/wf/=
+click?upn=3DVpQSVi0rjOiE4jZJm91oTZu-2BFwKs4iF1rJ7Ml8-2BWpC3wmA8meoi5wu9gv0K=
+PwFnSsKqanyGrS1Z8CRgZGv54Ng-3D-3D_OaLlT2qeeZKUdbZjdkfUFPvcManjqpnWtUvEeUaFY=
+X8Nn59esF6A56pGz5TYdEYPssFOIjU6t1g2Cii-2FzKx3gx49YVe0n4yFRrcK5H9oDLKNNAVVJG=
+ycMpQjzTYel-2BTSUIYQt56tSIfBENfe37w2wXn5qGH7-2F9neI4PpVcaBbbEHk5J-2BnYjL3yM=
+ebkmpT6orNMOty4wb3YpK5yV2-2FCv6qA7OaRrfnvomizdfvnf8SLqpGVZ9AmwbMM7QnTgz93-2=
+FwLqo4C3II3A20-2Frknwncp8Muv1K0-2B7AQsEiZ7-2BX4nVs0Tk2lZqfBE9t9ogeLWi9qpzBS=
+IZXf1Qpvt0VFgmy34e7sse4gfRk5pKpt3oBWVZcXxLVVIVRvqZlMjz-2Bko2QAtyJ8P-2FEDRrp=
+QDgUdWlPeRM7nF6zitaY1hwkyq8p8Eeuw-3D" target=3D"_blank">Prishtina Vol. 15</=
+a></h3><p style=3D"font-size: 13px;"><span class=3D"event-date">February 15=
+, 8:00 PM</span> - <span class=3D"event-place">Rexhep Mala 28A Innovation C=
+entre</span></p></div><div class=3D"event-ticket"><a href=3D"https://u44603=
+74.ct.sendgrid.net/wf/click?upn=3DVpQSVi0rjOiE4jZJm91oTZu-2BFwKs4iF1rJ7Ml8-=
+2BWpC3wmA8meoi5wu9gv0KPwFnSsKqanyGrS1Z8CRgZGv54Ng-3D-3D_OaLlT2qeeZKUdbZjdkf=
+UFPvcManjqpnWtUvEeUaFYX8Nn59esF6A56pGz5TYdEYPssFOIjU6t1g2Cii-2FzKx3gx49YVe0=
+n4yFRrcK5H9oDLKNNAVVJGycMpQjzTYel-2BTSUIYQt56tSIfBENfe37w2wXn5qGH7-2F9neI4P=
+pVcaBbbEHk5J-2BnYjL3yMebkmpT6orNMOty4wb3YpK5yV2-2FCv6qHNB-2F5YMBIcw3jyQZz6V=
+5FltXcuJTK4SAHhWjGNoN5-2FCy0nP0nZ7uDrecBNH6cIHyhDMRLbrKwKV3xG69vNxgsgPGl5fC=
+t3WIyAxSUovb3kyvxOn-2FcISZvHWwuEVP9F10WWDi48eLUp3FIQRM6JQ-2BTt5q7jzzqtDalzD=
+M8mICjoMX1fMXuJSe69VuuenOzkv76qrWX7pj24pc3qSvCBaviw-3D" class=3D"et_pb_more=
+_button et_pb_button"></a></div></div><div class=3D"fun-event"><div class=
+=3D"event-info"><h3><a href=3D"https://u4460374.ct.sendgrid.net/wf/click?up=
+n=3DVpQSVi0rjOiE4jZJm91oTZu-2BFwKs4iF1rJ7Ml8-2BWpC3jtSehNPBh36P8VtTCuU9hEcU=
+shlNIHjwmZtVhJDdXMQ-3D-3D_OaLlT2qeeZKUdbZjdkfUFPvcManjqpnWtUvEeUaFYX8Nn59es=
+F6A56pGz5TYdEYPssFOIjU6t1g2Cii-2FzKx3gx49YVe0n4yFRrcK5H9oDLKNNAVVJGycMpQjzT=
+Yel-2BTSUIYQt56tSIfBENfe37w2wXn5qGH7-2F9neI4PpVcaBbbEHk5J-2BnYjL3yMebkmpT6o=
+rNMOty4wb3YpK5yV2-2FCv6qAqIFu0wCBf3PzQOZO1nkTJd-2F6dlhTUZvSYhkw6WML9T1yg0lZ=
+iIFFES6uKkZhtatNH3WeYVgYjJfo-2BMfQO8WgdK0yD6XNLtqCNRhH6ML-2FskFEeZMC06kufN8=
+WwT3AOdrDj1ut24jVtO0G7IlJU6Vt3254XAKB1djBj7IbgWP73vWlDU2oDKHLdMqS1sJnVe33H0=
+NypINJCKkK9R7J-2BsUwY-3D" target=3D"_blank">Puerto Morelos Vol. 23</a></h3>=
+<p style=3D"font-size: 13px;"><span class=3D"event-date">February 16, 8:00 =
+AM</span> - <span class=3D"event-place"> I Wanna Pizza</span></p></div><div=
+ class=3D"event-ticket"><a href=3D"https://u4460374.ct.sendgrid.net/wf/clic=
+k?upn=3DVpQSVi0rjOiE4jZJm91oTZu-2BFwKs4iF1rJ7Ml8-2BWpC3jtSehNPBh36P8VtTCuU9=
+hEcUshlNIHjwmZtVhJDdXMQ-3D-3D_OaLlT2qeeZKUdbZjdkfUFPvcManjqpnWtUvEeUaFYX8Nn=
+59esF6A56pGz5TYdEYPssFOIjU6t1g2Cii-2FzKx3gx49YVe0n4yFRrcK5H9oDLKNNAVVJGycMp=
+QjzTYel-2BTSUIYQt56tSIfBENfe37w2wXn5qGH7-2F9neI4PpVcaBbbEHk5J-2BnYjL3yMebkm=
+pT6orNMOty4wb3YpK5yV2-2FCv6qHefdrYKB5FGSie3QfdATgiVdOIwGXtACSMUge2hTWwq0Fuq=
+Flz7cLS73xgVP84x0o9oWPcT92DFORrY-2BuCKMf9gVKpGnWXY0l5EkOaXuZoKWq0pz7NRyMuem=
+Dfgm8HdM-2BfxWjmeA-2BEoYdT4cpWCzgVi0exnXX7W3o70eT0oMPEoDs5kRra9z8BJgBGSPzQ3=
+-2B94WMvSFIHJhyYlrEMdSwoQ-3D" class=3D"et_pb_more_button et_pb_button"></a>=
+</div></div><div class=3D"fun-event"><div class=3D"event-info"><h3><a href=
+=3D"https://u4460374.ct.sendgrid.net/wf/click?upn=3DVpQSVi0rjOiE4jZJm91oTZu=
+-2BFwKs4iF1rJ7Ml8-2BWpC1JW2tpDv9KI4vQaZypiroyrc7iDRSEISecEim5gIJoQQ-3D-3D_O=
+aLlT2qeeZKUdbZjdkfUFPvcManjqpnWtUvEeUaFYX8Nn59esF6A56pGz5TYdEYPssFOIjU6t1g2=
+Cii-2FzKx3gx49YVe0n4yFRrcK5H9oDLKNNAVVJGycMpQjzTYel-2BTSUIYQt56tSIfBENfe37w=
+2wXn5qGH7-2F9neI4PpVcaBbbEHk5J-2BnYjL3yMebkmpT6orNMOty4wb3YpK5yV2-2FCv6qGSO=
+xf98AWoxmejwEzufFTA7KW8NAZqfpEZHau0-2BmqVU3rmpArNMVHk0NuIsOIOkVITKcYTGfkOgy=
+tFTPX7OcfFN16OvIJVnAE1PRzrRiTtYNEAS800sf2K17ftkBaNwRym-2BgAP5424AVp8rAUPZQc=
+EydoO7HeILFzifhBqzfoM1054FwzW8fgDZnpzOSoVzdksT7KHdFoymxnF-2Fh821XKA-3D" tar=
+get=3D"_blank">Tehran Vol. 6</a></h3><p style=3D"font-size: 13px;"><span cl=
+ass=3D"event-date">February 16, 5:00 PM</span> - <span class=3D"event-place=
+">Arasbaran Ave, Sedkhan Arasbaran Complex Building</span></p></div><div cl=
+ass=3D"event-ticket"><a href=3D"https://u4460374.ct.sendgrid.net/wf/click?u=
+pn=3DVpQSVi0rjOiE4jZJm91oTZu-2BFwKs4iF1rJ7Ml8-2BWpC1JW2tpDv9KI4vQaZypiroyrc=
+7iDRSEISecEim5gIJoQQ-3D-3D_OaLlT2qeeZKUdbZjdkfUFPvcManjqpnWtUvEeUaFYX8Nn59e=
+sF6A56pGz5TYdEYPssFOIjU6t1g2Cii-2FzKx3gx49YVe0n4yFRrcK5H9oDLKNNAVVJGycMpQjz=
+TYel-2BTSUIYQt56tSIfBENfe37w2wXn5qGH7-2F9neI4PpVcaBbbEHk5J-2BnYjL3yMebkmpT6=
+orNMOty4wb3YpK5yV2-2FCv6qNbHMLHi7yBsyO8Sc-2Fj71l9X622E7CNfJNp-2FeIKITxAXiSV=
+VqwMWjzTPSwj09pSnsYlqsXGflOQcqZ6JrPdcAvb4s73Y6Kwf9nVvwffFuKTGr-2FtvyYjTDvpd=
+USWchpiXAWu0YkrnhyS6GaWrzqj0YyiD4FtJeaunulc8lwHfQ4joj9cqd5x5SYbgZpl9tpndJVT=
+cEPjCoANvz6GvNpez-2F3E-3D" class=3D"et_pb_more_button et_pb_button"></a></d=
+iv></div><div class=3D"fun-event"><div class=3D"event-info"><h3><a href=3D"=
+https://u4460374.ct.sendgrid.net/wf/click?upn=3DVpQSVi0rjOiE4jZJm91oTZu-2BF=
+wKs4iF1rJ7Ml8-2BWpC14tLChm48Wnm4mpUHH2-2FpcZD9HtLLrcYEe2cokkUU8sg-3D-3D_OaL=
+lT2qeeZKUdbZjdkfUFPvcManjqpnWtUvEeUaFYX8Nn59esF6A56pGz5TYdEYPssFOIjU6t1g2Ci=
+i-2FzKx3gx49YVe0n4yFRrcK5H9oDLKNNAVVJGycMpQjzTYel-2BTSUIYQt56tSIfBENfe37w2w=
+Xn5qGH7-2F9neI4PpVcaBbbEHk5J-2BnYjL3yMebkmpT6orNMOty4wb3YpK5yV2-2FCv6qL-2B7=
+Bcs07QNIxnUktXnCucy-2B7gUu7YZcZDrUOZYjxKcTKSU6D1L18Tqa1CbEyOh-2B6G26SnJYH3P=
+Kja7Ln2XijWTVqaNWCLTtrjRPT1R4yJ4HM17ocavavafgPsCVgrCTjxPIKrAo4WXzUA6d351DEr=
+7Mi0ViEk08UNRfzGu6WDh-2BSTWV7iX-2FdUxyaNQnNYMKYW-2B4AubDsw6Z3f-2F8N1nH-2Bck=
+-3D" target=3D"_blank">=C4=B0zmir Vol. 38</a></h3><p style=3D"font-size: 13=
+px;"><span class=3D"event-date">February 19, 7:00 PM</span> - <span class=
+=3D"event-place"> K=C3=BClt=C3=BCrpark Tenis Kul=C3=BCp Rose Garden Restaur=
+ant</span></p></div><div class=3D"event-ticket"><a href=3D"https://u4460374=
+.ct.sendgrid.net/wf/click?upn=3DVpQSVi0rjOiE4jZJm91oTZu-2BFwKs4iF1rJ7Ml8-2B=
+WpC14tLChm48Wnm4mpUHH2-2FpcZD9HtLLrcYEe2cokkUU8sg-3D-3D_OaLlT2qeeZKUdbZjdkf=
+UFPvcManjqpnWtUvEeUaFYX8Nn59esF6A56pGz5TYdEYPssFOIjU6t1g2Cii-2FzKx3gx49YVe0=
+n4yFRrcK5H9oDLKNNAVVJGycMpQjzTYel-2BTSUIYQt56tSIfBENfe37w2wXn5qGH7-2F9neI4P=
+pVcaBbbEHk5J-2BnYjL3yMebkmpT6orNMOty4wb3YpK5yV2-2FCv6qKX2w7FkV02TBlc49uIpr2=
+Bp127Xcgri-2BSrhwrkRwplmpmdpaiFGtZYRSMxojzpRFHxxTmhQj6qKOqjw-2Bi5XrK4BisSeE=
+7YDsvxFCjOebCaQ6Ss7waOHu3TuMj32EKnwR1Dwtsja-2FI1EyFKuwg9n8AJXAyMuefz-2BTA28=
+VBU61qYxkb-2BO5AK2-2BZR0uz7gCHb0Nx6-2BWtsDPwQB3B9Qo7imcf0-3D" class=3D"et_p=
+b_more_button et_pb_button"></a></div></div><div class=3D"fun-event"><div c=
+lass=3D"event-info"><h3><a href=3D"https://u4460374.ct.sendgrid.net/wf/clic=
+k?upn=3DVpQSVi0rjOiE4jZJm91oTZu-2BFwKs4iF1rJ7Ml8-2BWpC3FvUWz0b-2FU2YeLN7Ohz=
+TSUDDSFmJwDI6-2FY6MbtWgM0NQ-3D-3D_OaLlT2qeeZKUdbZjdkfUFPvcManjqpnWtUvEeUaFY=
+X8Nn59esF6A56pGz5TYdEYPssFOIjU6t1g2Cii-2FzKx3gx49YVe0n4yFRrcK5H9oDLKNNAVVJG=
+ycMpQjzTYel-2BTSUIYQt56tSIfBENfe37w2wXn5qGH7-2F9neI4PpVcaBbbEHk5J-2BnYjL3yM=
+ebkmpT6orNMOty4wb3YpK5yV2-2FCv6qKvHjJmZWxLQGHYmbcDqp2-2Fh8zmhcjNyPcsgmq8jAu=
+YphOtwQOGB7CpfEJDDS-2B1PRRmlSbzR3CCpEzKfuBYA2YkY6DYg4dDBPk8AfnEHeRyHPC1ngdu=
+zrVQZjEI3qkyg5SikuW75hStWU58jwQwwc5gKj8GM3OP7D40rU-2F4CBsOxuZbtfMA-2BdRCwtZ=
+wgiUuHATqrdmjctF2k5ffmoEc8ZhU-3D" target=3D"_blank">Prague Vol. 23</a></h3>=
+<p style=3D"font-size: 13px;"><span class=3D"event-date">February 19, 7:00 =
+PM</span> - <span class=3D"event-place"> Bio OKO</span></p></div><div class=
+=3D"event-ticket"><a href=3D"https://u4460374.ct.sendgrid.net/wf/click?upn=
+=3DVpQSVi0rjOiE4jZJm91oTZu-2BFwKs4iF1rJ7Ml8-2BWpC3FvUWz0b-2FU2YeLN7OhzTSUDD=
+SFmJwDI6-2FY6MbtWgM0NQ-3D-3D_OaLlT2qeeZKUdbZjdkfUFPvcManjqpnWtUvEeUaFYX8Nn5=
+9esF6A56pGz5TYdEYPssFOIjU6t1g2Cii-2FzKx3gx49YVe0n4yFRrcK5H9oDLKNNAVVJGycMpQ=
+jzTYel-2BTSUIYQt56tSIfBENfe37w2wXn5qGH7-2F9neI4PpVcaBbbEHk5J-2BnYjL3yMebkmp=
+T6orNMOty4wb3YpK5yV2-2FCv6qK6aMIHnbRnbZLIc1-2BQSCIpI8chqbsnnz3lJTAuCtuYrmba=
+yF22c2kdZq1A2WTXwIKXjP8-2BrcC0-2Bu-2FdS4uCIdeDRwyz45ct-2Fr5cQGtZPxJJaew-2BP=
+asDwtyUOGeKcmNTcNWmAR12nlT7c3xqCp3BRdmsStyU2d7gl6u292zXajAl4ig8ItpPFgliRZkG=
+oKRiAIY2e5yNeSJbh9OL-2BzWF7gkU-3D" class=3D"et_pb_more_button et_pb_button"=
+></a></div></div><div class=3D"fun-event"><div class=3D"event-info"><h3><a =
+href=3D"https://u4460374.ct.sendgrid.net/wf/click?upn=3DVpQSVi0rjOiE4jZJm91=
+oTZu-2BFwKs4iF1rJ7Ml8-2BWpC0dh2GDCNri-2FJ-2BQzMBqSzyvXI6-2BSXmSXTrXYOtbVnlN=
+pg-3D-3D_OaLlT2qeeZKUdbZjdkfUFPvcManjqpnWtUvEeUaFYX8Nn59esF6A56pGz5TYdEYPss=
+FOIjU6t1g2Cii-2FzKx3gx49YVe0n4yFRrcK5H9oDLKNNAVVJGycMpQjzTYel-2BTSUIYQt56tS=
+IfBENfe37w2wXn5qGH7-2F9neI4PpVcaBbbEHk5J-2BnYjL3yMebkmpT6orNMOty4wb3YpK5yV2=
+-2FCv6qEPbS-2B88Rqwzaeja8G6Br6vlz-2FCNAp83KTmppW1pQOhfmiQ4ibgcxHlvFBjC68nQv=
+s-2FNDQq8BRa6YwTIaiqDzdNNWFYaYcf6VQBUvyZHqBKMOmX6F3g-2BzDnBpPTT9VKMabDvB8YN=
+Vd-2Bbu9v0BlvoZ99WnzSrBzC9fJQMpLGctA8zCgPng-2F3-2F1LF8HNPwDEJgyiS-2Be0JEPc-=
+2FlYIn8OTpmzXA-3D" target=3D"_blank">Managua Vol. 1</a></h3><p style=3D"fon=
+t-size: 13px;"><span class=3D"event-date">February 20, 7:00 PM</span> - <sp=
+an class=3D"event-place"> Selina Hostal</span></p></div><div class=3D"event=
+-ticket"><a href=3D"https://u4460374.ct.sendgrid.net/wf/click?upn=3DVpQSVi0=
+rjOiE4jZJm91oTZu-2BFwKs4iF1rJ7Ml8-2BWpC0dh2GDCNri-2FJ-2BQzMBqSzyvXI6-2BSXmS=
+XTrXYOtbVnlNpg-3D-3D_OaLlT2qeeZKUdbZjdkfUFPvcManjqpnWtUvEeUaFYX8Nn59esF6A56=
+pGz5TYdEYPssFOIjU6t1g2Cii-2FzKx3gx49YVe0n4yFRrcK5H9oDLKNNAVVJGycMpQjzTYel-2=
+BTSUIYQt56tSIfBENfe37w2wXn5qGH7-2F9neI4PpVcaBbbEHk5J-2BnYjL3yMebkmpT6orNMOt=
+y4wb3YpK5yV2-2FCv6qCGoI2vDfb0q9RtoXQoTY26AWArCPb3IJZe-2B61edxBNl14ON8Ky6DLZ=
+h8JRjK5Q-2FmLAUK91tKLUWuF0STMXFIoFWmTladOCQ0ALRRdkN0JGLxFm98iFnqjPvjwtbH03c=
+xZ05mVHlB5q1Qp-2FWsKP3IkKxdhcdk4yifmgkyU6d7ouDTKkSoUMt-2BnYGe4Pw32ohawyhH-2=
+FR-2FtlHLL86Bn6it-2B9A-3D" class=3D"et_pb_more_button et_pb_button"></a></d=
+iv></div><div class=3D"fun-event"><div class=3D"event-info"><h3><a href=3D"=
+https://u4460374.ct.sendgrid.net/wf/click?upn=3DVpQSVi0rjOiE4jZJm91oTZu-2BF=
+wKs4iF1rJ7Ml8-2BWpC0yELZCFbbNhAm7S-2FOv0mS4JCo-2BuC55SN-2F9aaeFryQ9xw-3D-3D=
+_OaLlT2qeeZKUdbZjdkfUFPvcManjqpnWtUvEeUaFYX8Nn59esF6A56pGz5TYdEYPssFOIjU6t1=
+g2Cii-2FzKx3gx49YVe0n4yFRrcK5H9oDLKNNAVVJGycMpQjzTYel-2BTSUIYQt56tSIfBENfe3=
+7w2wXn5qGH7-2F9neI4PpVcaBbbEHk5J-2BnYjL3yMebkmpT6orNMOty4wb3YpK5yV2-2FCv6qP=
+5i36tTOylSlbq10dfIzP-2Bbjh-2BDEMRSxdraS03BNsdcD9M5RbNCdN7D7LkXUoJE5E5FoiLkl=
+eQJ4EAyBCGWzo-2FmjzDhCBfGXGt9sf3lEyBtWWXiDFhbr-2FY3mqB-2BcLNXXLk8FWXtYvOXDw=
+MXQealH-2BAFnDTCqthguqVlj1zwrZ2Du9ewilyljTh-2BCS1JwbVMCjb7SBhu6jNyP9PUYk0n-=
+2Fp8-3D" target=3D"_blank">Amsterdam Vol. 12</a></h3><p style=3D"font-size:=
+ 13px;"><span class=3D"event-date">February 21, 7:30 PM</span> - <span clas=
+s=3D"event-place">Spaarndammerstraat 460 BAUT</span></p></div><div class=3D=
+"event-ticket"><a href=3D"https://u4460374.ct.sendgrid.net/wf/click?upn=3DV=
+pQSVi0rjOiE4jZJm91oTZu-2BFwKs4iF1rJ7Ml8-2BWpC0yELZCFbbNhAm7S-2FOv0mS4JCo-2B=
+uC55SN-2F9aaeFryQ9xw-3D-3D_OaLlT2qeeZKUdbZjdkfUFPvcManjqpnWtUvEeUaFYX8Nn59e=
+sF6A56pGz5TYdEYPssFOIjU6t1g2Cii-2FzKx3gx49YVe0n4yFRrcK5H9oDLKNNAVVJGycMpQjz=
+TYel-2BTSUIYQt56tSIfBENfe37w2wXn5qGH7-2F9neI4PpVcaBbbEHk5J-2BnYjL3yMebkmpT6=
+orNMOty4wb3YpK5yV2-2FCv6qGi72Jlgl-2BIEdujkpvSkcFqm5hsVonYz9ZTP-2BiTY88oWjM7=
+yyKcdKzGujudgHtXdpstHVTGsz-2Fu9svC4oXLBZB30PKH1gAcSMY0ZO8PyKvEiI8h8vOdDy-2F=
+VUuFjX7tPvRHsoCMp6dz-2FjnOuSViagjn-2B437EIKGFq6C6FjPkhNmhfZGKw-2BmKDDnIGdK3=
+eGC6mP85LED8yG5Kp0mDoYlEVxos-3D" class=3D"et_pb_more_button et_pb_button"><=
+/a></div></div><div class=3D"fun-event"><div class=3D"event-info"><h3><a hr=
+ef=3D"https://u4460374.ct.sendgrid.net/wf/click?upn=3DVpQSVi0rjOiE4jZJm91oT=
+Zu-2BFwKs4iF1rJ7Ml8-2BWpC2P4mBXVB9oHb82xYnwXrcc8eVJ1trNOgosac9sF0skgQ-3D-3D=
+_OaLlT2qeeZKUdbZjdkfUFPvcManjqpnWtUvEeUaFYX8Nn59esF6A56pGz5TYdEYPssFOIjU6t1=
+g2Cii-2FzKx3gx49YVe0n4yFRrcK5H9oDLKNNAVVJGycMpQjzTYel-2BTSUIYQt56tSIfBENfe3=
+7w2wXn5qGH7-2F9neI4PpVcaBbbEHk5J-2BnYjL3yMebkmpT6orNMOty4wb3YpK5yV2-2FCv6qJ=
+1-2FGCB-2FFOCY05mNSFn3nxMQtCv9t5bqjZcXC8bU19s0XUUtZvQ0cAX6Fb1SyejQNXvbL17u9=
+HwzaZDFssTI0UPz5xdh68KKYfrFQXICcafDX5R9k8D6CTo8TAuBKy-2FLczWGWsrfXD3EEdRdzl=
+H2oe5glYqAfZlVTFEolIAHB07cJkevjkzOUz7tvbcaZmxDUmmbkioJNiGk5KQ5f8FcLys-3D" t=
+arget=3D"_blank">Boston Vol. 6</a></h3><p style=3D"font-size: 13px;"><span =
+class=3D"event-date">February 22, 7:00 AM</span> - <span class=3D"event-pla=
+ce">50 Milk St ImpactHub</span></p></div><div class=3D"event-ticket"><a hre=
+f=3D"https://u4460374.ct.sendgrid.net/wf/click?upn=3DVpQSVi0rjOiE4jZJm91oTZ=
+u-2BFwKs4iF1rJ7Ml8-2BWpC2P4mBXVB9oHb82xYnwXrcc8eVJ1trNOgosac9sF0skgQ-3D-3D_=
+OaLlT2qeeZKUdbZjdkfUFPvcManjqpnWtUvEeUaFYX8Nn59esF6A56pGz5TYdEYPssFOIjU6t1g=
+2Cii-2FzKx3gx49YVe0n4yFRrcK5H9oDLKNNAVVJGycMpQjzTYel-2BTSUIYQt56tSIfBENfe37=
+w2wXn5qGH7-2F9neI4PpVcaBbbEHk5J-2BnYjL3yMebkmpT6orNMOty4wb3YpK5yV2-2FCv6qMv=
+Wd-2BQVtACxX0L4aZ7EvnT7RS7-2BZrLBiOhCD-2B5jZdgzQmkUP9LsHoJjS97HKuFuHl7M43Vw=
+qazbmsNx-2FZBzNZh-2BrGyeKOJ6NdJm6zvB3MTTIFORXlQl6uCzbl9XmhXIyFMRk3dro6vSLAx=
+T05aZ-2BXMTLWHRkihRIC1RGQPo3gsrP-2FoK6-2BP-2Fdo2UL0HKhlU0EjhBAsWmKBbMvXMJFH=
+2-2F2Y4-3D" class=3D"et_pb_more_button et_pb_button"></a></div></div><div c=
+lass=3D"fun-event"><div class=3D"event-info"><h3><a href=3D"https://u446037=
+4.ct.sendgrid.net/wf/click?upn=3DVpQSVi0rjOiE4jZJm91oTZu-2BFwKs4iF1rJ7Ml8-2=
+BWpC1s5U0emkvTiuDiyjkqAyDD-2F-2F9ULOa5Gp36fVyZo2KrUg-3D-3D_OaLlT2qeeZKUdbZj=
+dkfUFPvcManjqpnWtUvEeUaFYX8Nn59esF6A56pGz5TYdEYPssFOIjU6t1g2Cii-2FzKx3gx49Y=
+Ve0n4yFRrcK5H9oDLKNNAVVJGycMpQjzTYel-2BTSUIYQt56tSIfBENfe37w2wXn5qGH7-2F9ne=
+I4PpVcaBbbEHk5J-2BnYjL3yMebkmpT6orNMOty4wb3YpK5yV2-2FCv6qKcuERkGdPyFeiQvU8C=
+HTn1Zw-2BBs-2FFJn3steAOTwqJ7OA7a1wwipapNY8Mmi72av4iWdheDqMHyWme49DozEVyvcsG=
+-2FSb9-2F-2F6ij1k0SkY3HJ05pGccp9CH4A209o-2BWWTHoQH0g0iVmekISS8amJYjYZSGd484=
+te32U24vt1NEjww-2FanJ270YFukTyJ6qTf72JCXvgAQ26pl9-2BaC2rjjSf5k-3D" target=
+=3D"_blank">Bogot=C3=A1 Vol. 23</a></h3><p style=3D"font-size: 13px;"><span=
+ class=3D"event-date">February 22, 6:30 PM</span> - <span class=3D"event-pl=
+ace">Calle 95 # 11a - 94 Work&amp;Go</span></p></div><div class=3D"event-ti=
+cket"><a href=3D"https://u4460374.ct.sendgrid.net/wf/click?upn=3DVpQSVi0rjO=
+iE4jZJm91oTZu-2BFwKs4iF1rJ7Ml8-2BWpC1s5U0emkvTiuDiyjkqAyDD-2F-2F9ULOa5Gp36f=
+VyZo2KrUg-3D-3D_OaLlT2qeeZKUdbZjdkfUFPvcManjqpnWtUvEeUaFYX8Nn59esF6A56pGz5T=
+YdEYPssFOIjU6t1g2Cii-2FzKx3gx49YVe0n4yFRrcK5H9oDLKNNAVVJGycMpQjzTYel-2BTSUI=
+YQt56tSIfBENfe37w2wXn5qGH7-2F9neI4PpVcaBbbEHk5J-2BnYjL3yMebkmpT6orNMOty4wb3=
+YpK5yV2-2FCv6qDFKH711js6n1Xwj4STxfoO64W2SUdNPpUGe6tC71SWJPNbY5rxHNbUiv2aIWP=
+nZ3sHk8TYl244mMv0PU1VX3MqRY53Kyis9f-2F9p8tbX1YRwBNC6Mb0Br2HHLgE9AUJhiX4mt5J=
+rF-2Bcvt-2Fh4RpaUFMmO-2BlV1Rseg4KECGIJz65ZySJj1jtAIhO781C0rY0FmLvs9esqDcTGe=
+FJZeasgdB-2F0-3D" class=3D"et_pb_more_button et_pb_button"></a></div></div>=
+<div class=3D"fun-event"><div class=3D"event-info"><h3><a href=3D"https://u=
+4460374.ct.sendgrid.net/wf/click?upn=3DVpQSVi0rjOiE4jZJm91oTZu-2BFwKs4iF1rJ=
+7Ml8-2BWpC0Xr1yO4LEp31B-2FKaNWN23gxFdiTZ8x-2BdkPfNEO40t-2F0g-3D-3D_OaLlT2qe=
+eZKUdbZjdkfUFPvcManjqpnWtUvEeUaFYX8Nn59esF6A56pGz5TYdEYPssFOIjU6t1g2Cii-2Fz=
+Kx3gx49YVe0n4yFRrcK5H9oDLKNNAVVJGycMpQjzTYel-2BTSUIYQt56tSIfBENfe37w2wXn5qG=
+H7-2F9neI4PpVcaBbbEHk5J-2BnYjL3yMebkmpT6orNMOty4wb3YpK5yV2-2FCv6qMZBX6-2FzL=
+6PXA2pI35sOvbjaJ-2BhrhZKQXwMr11CbNMnk3ErzSeN7NjgKYAU3jxaSYFGr01-2BhmW-2FwPD=
+CCB-2FzVpqREy4RNi9Tr4d9fZKLPeHfuWraiDuRYddzAY0a1pS0kvARausCLrR8EKEYpmU5-2Bd=
+IY-2BJ-2BKZQuMFTVDOkUmE8ShENB8Oe0F7f7QZHB7q2FA1q17VgVS24GqIhYqPPV42Esk-3D" =
+target=3D"_blank">Tijuana Vol. 1</a></h3><p style=3D"font-size: 13px;"><spa=
+n class=3D"event-date">February 22, 7:00 PM</span> - <span class=3D"event-p=
+lace">Paseo Ensenada #795, Playas de Tijuana Wish Mexico Restaurant</span><=
+/p></div><div class=3D"event-ticket"><a href=3D"https://u4460374.ct.sendgri=
+d.net/wf/click?upn=3DVpQSVi0rjOiE4jZJm91oTZu-2BFwKs4iF1rJ7Ml8-2BWpC0Xr1yO4L=
+Ep31B-2FKaNWN23gxFdiTZ8x-2BdkPfNEO40t-2F0g-3D-3D_OaLlT2qeeZKUdbZjdkfUFPvcMa=
+njqpnWtUvEeUaFYX8Nn59esF6A56pGz5TYdEYPssFOIjU6t1g2Cii-2FzKx3gx49YVe0n4yFRrc=
+K5H9oDLKNNAVVJGycMpQjzTYel-2BTSUIYQt56tSIfBENfe37w2wXn5qGH7-2F9neI4PpVcaBbb=
+EHk5J-2BnYjL3yMebkmpT6orNMOty4wb3YpK5yV2-2FCv6qAT-2FRywY5OSMKW4PVe9x6CXRjFD=
+6l2ugLdgul5lEkJQVhtkTAzhLT1zz8Uf6out6baDD0xAsnOJ6BFLjQuVXVhSTgETj5UAOU4jXOt=
+vjZAL5EEdRjn-2Fwan2bpM0mccUYCB8oHjh9zZpDvTlpEXd-2FtvJCTo9I1v1fZXMsQ2Uqs05-2=
+FGCDrJ85cktDp7o9iLRCjoGmVI9RIXuxuRyTGLGBqJO4-3D" class=3D"et_pb_more_button=
+ et_pb_button"></a></div></div><div class=3D"fun-event"><div class=3D"event=
+-info"><h3><a href=3D"https://u4460374.ct.sendgrid.net/wf/click?upn=3DVpQSV=
+i0rjOiE4jZJm91oTZu-2BFwKs4iF1rJ7Ml8-2BWpC2x3vTxJEghTpVxmkIQP2FMQGGJLe2yWZoZ=
+m0rWaESMSw-3D-3D_OaLlT2qeeZKUdbZjdkfUFPvcManjqpnWtUvEeUaFYX8Nn59esF6A56pGz5=
+TYdEYPssFOIjU6t1g2Cii-2FzKx3gx49YVe0n4yFRrcK5H9oDLKNNAVVJGycMpQjzTYel-2BTSU=
+IYQt56tSIfBENfe37w2wXn5qGH7-2F9neI4PpVcaBbbEHk5J-2BnYjL3yMebkmpT6orNMOty4wb=
+3YpK5yV2-2FCv6qA1-2Be4aeregFm6EliE5Nq-2B-2FMknj7diPQbL0u24IczLNRjjkkzMygMhm=
+s7ZPCs9jA12PVygpldvagXkMhC7sRZjUYuio2yOdNBMTlNQXjdqgXM65jFGEHiDvZwJEVf9kUuO=
+KamnLy1X0boH1oFe3QEQI5OmA1Pq-2B5lmKMNAIvc6f6Sc1AnnSejvgY5ayuPleVRUmUlgAYZFG=
+S6YLUIN4OQXU-3D" target=3D"_blank">Berlin Vol. 22</a></h3><p style=3D"font-=
+size: 13px;"><span class=3D"event-date">February 22, 7:30 PM</span> - <span=
+ class=3D"event-place">Charlottenstr. 2 The Place</span></p></div><div clas=
+s=3D"event-ticket"><a href=3D"https://u4460374.ct.sendgrid.net/wf/click?upn=
+=3DVpQSVi0rjOiE4jZJm91oTZu-2BFwKs4iF1rJ7Ml8-2BWpC2x3vTxJEghTpVxmkIQP2FMQGGJ=
+Le2yWZoZm0rWaESMSw-3D-3D_OaLlT2qeeZKUdbZjdkfUFPvcManjqpnWtUvEeUaFYX8Nn59esF=
+6A56pGz5TYdEYPssFOIjU6t1g2Cii-2FzKx3gx49YVe0n4yFRrcK5H9oDLKNNAVVJGycMpQjzTY=
+el-2BTSUIYQt56tSIfBENfe37w2wXn5qGH7-2F9neI4PpVcaBbbEHk5J-2BnYjL3yMebkmpT6or=
+NMOty4wb3YpK5yV2-2FCv6qBKpfr-2FBoSbiCbTJ8ZolCGJMxDmKrOrMtm52oIMJfFstIw34dlZ=
+tJjGRLVvm-2FB6zj7Hk-2FHFRe05mXnej3taXBlHkTcvIwXtcNX5vrqB8Ie0yjVE5HsZ2-2BR66=
+yxzhwaISG7FDWqn1piCpq9yrBObIT7bt-2FSmgbtxaznHiehFWCd79-2FL7xzltwbmAvkbrJWXf=
+Kprvmu-2FvY6N28uk3e-2BW6jyP4-3D" class=3D"et_pb_more_button et_pb_button"><=
+/a></div></div><div class=3D"fun-event"><div class=3D"event-info"><h3><a hr=
+ef=3D"https://u4460374.ct.sendgrid.net/wf/click?upn=3DVpQSVi0rjOiE4jZJm91oT=
+Zu-2BFwKs4iF1rJ7Ml8-2BWpC11hSSwEh74LqXgyIMQ-2Bdu5yn01J3GEZCOZxCNt-2BV1x8Q-3=
+D-3D_OaLlT2qeeZKUdbZjdkfUFPvcManjqpnWtUvEeUaFYX8Nn59esF6A56pGz5TYdEYPssFOIj=
+U6t1g2Cii-2FzKx3gx49YVe0n4yFRrcK5H9oDLKNNAVVJGycMpQjzTYel-2BTSUIYQt56tSIfBE=
+Nfe37w2wXn5qGH7-2F9neI4PpVcaBbbEHk5J-2BnYjL3yMebkmpT6orNMOty4wb3YpK5yV2-2FC=
+v6qI28OZSoIinOywZHekKw9E7shAmIOePB-2F-2FqtDzaz249CXdyFAhrYAusDuP1NSwfXpaCgB=
+6A5wn6w-2BT5pOtSbn4ZJ7eqidLDS1uXiRQUyIiJsB1R72-2FEGKn08M42iWN5EQYVTudRtZ-2F=
+NrUKPaSm2gD1cfDSkUrFwX-2BtmdgEjXhDCboSaWP3EFNyQ5fpyFsGZgiuDsEiLzHuarjW0QBlu=
+1UqI-3D" target=3D"_blank">Torreon Coahuila Vol. 14</a></h3><p style=3D"fon=
+t-size: 13px;"><span class=3D"event-date">February 22, 8:00 PM</span> - <sp=
+an class=3D"event-place"> Bernini</span></p></div><div class=3D"event-ticke=
+t"><a href=3D"https://u4460374.ct.sendgrid.net/wf/click?upn=3DVpQSVi0rjOiE4=
+jZJm91oTZu-2BFwKs4iF1rJ7Ml8-2BWpC11hSSwEh74LqXgyIMQ-2Bdu5yn01J3GEZCOZxCNt-2=
+BV1x8Q-3D-3D_OaLlT2qeeZKUdbZjdkfUFPvcManjqpnWtUvEeUaFYX8Nn59esF6A56pGz5TYdE=
+YPssFOIjU6t1g2Cii-2FzKx3gx49YVe0n4yFRrcK5H9oDLKNNAVVJGycMpQjzTYel-2BTSUIYQt=
+56tSIfBENfe37w2wXn5qGH7-2F9neI4PpVcaBbbEHk5J-2BnYjL3yMebkmpT6orNMOty4wb3YpK=
+5yV2-2FCv6qC2nvHWJ2yue9T8bC77dbHSXyB-2BQhNBbevYAdP4XJjDBZPCotz6BTiarEWmZxp5=
+OMx74CFgftOMnSuggOqbde-2F6Vgkjd5W7q3l6LxrhJxtzBWAm7p7y8sMMXxiQcur7-2BICFAR7=
+olqhGw8GKCaLeXZJUKE7NTanSkIY1ckzBBbB-2FH2wb8G3JuRu7CrAEJ8c4GR0ILPIj-2BSn7gB=
+UH9feAzABE-3D" class=3D"et_pb_more_button et_pb_button"></a></div></div><di=
+v class=3D"fun-event"><div class=3D"event-info"><h3><a href=3D"https://u446=
+0374.ct.sendgrid.net/wf/click?upn=3DVpQSVi0rjOiE4jZJm91oTZu-2BFwKs4iF1rJ7Ml=
+8-2BWpC3rCgOSK5KNbilt8WUqzh9VojSPiSRDZ1cW9-2BGsVXoqLg-3D-3D_OaLlT2qeeZKUdbZ=
+jdkfUFPvcManjqpnWtUvEeUaFYX8Nn59esF6A56pGz5TYdEYPssFOIjU6t1g2Cii-2FzKx3gx49=
+YVe0n4yFRrcK5H9oDLKNNAVVJGycMpQjzTYel-2BTSUIYQt56tSIfBENfe37w2wXn5qGH7-2F9n=
+eI4PpVcaBbbEHk5J-2BnYjL3yMebkmpT6orNMOty4wb3YpK5yV2-2FCv6qMtOiu5SmviJt7fT3C=
+N6kr48OQyglknns2o8Ubuiy3G10MgOscqOqe8V9fOlThbNoOxZZ2BsjhDLFRQhmWdx0FadZnesg=
+3HDYK5SE-2F22vZXKpaysEO6h1lrj3UnOLAWDPhDMIyHWWQywUia4Pth0J2WfFIR8aGEMKWCgU4=
+eKABb-2FhTeZ2jnvloO-2FKDoKYs7GSbnBNLFi28bVyS4Uu1nv8lo-3D" target=3D"_blank"=
+>Piracicaba Vol. 1</a></h3><p style=3D"font-size: 13px;"><span class=3D"eve=
+nt-date">February 22, 8:00 PM</span> - <span class=3D"event-place">Comendad=
+or Pedro Morganti, N=C2=BA 4965 (casa 01) The Wall Music Pub</span></p></di=
+v><div class=3D"event-ticket"><a href=3D"https://u4460374.ct.sendgrid.net/w=
+f/click?upn=3DVpQSVi0rjOiE4jZJm91oTZu-2BFwKs4iF1rJ7Ml8-2BWpC3rCgOSK5KNbilt8=
+WUqzh9VojSPiSRDZ1cW9-2BGsVXoqLg-3D-3D_OaLlT2qeeZKUdbZjdkfUFPvcManjqpnWtUvEe=
+UaFYX8Nn59esF6A56pGz5TYdEYPssFOIjU6t1g2Cii-2FzKx3gx49YVe0n4yFRrcK5H9oDLKNNA=
+VVJGycMpQjzTYel-2BTSUIYQt56tSIfBENfe37w2wXn5qGH7-2F9neI4PpVcaBbbEHk5J-2BnYj=
+L3yMebkmpT6orNMOty4wb3YpK5yV2-2FCv6qMLkjY7oC3NAFFgjyUilizjsyFfVvboUCrcEo2gZ=
+Rt9uXK1n3-2BhL8cvJ20p18NejSYwU6L3-2BTjortEEnej1JGoedX-2BwYgJosUjiyi2m4DycZO=
+zMKHfbeb8UladbTpcbJwW3r39Kz5GzGsEVRVOz5iFqvl73p-2Fdxt2RruiEbpdtqzTtXd7wGecS=
+w8c3W9V3-2F4wdVz9IA7GMjp8nuroBMh2sg-3D" class=3D"et_pb_more_button et_pb_bu=
+tton"></a></div></div><div class=3D"fun-event"><div class=3D"event-info"><h=
+3><a href=3D"https://u4460374.ct.sendgrid.net/wf/click?upn=3DVpQSVi0rjOiE4j=
+ZJm91oTZu-2BFwKs4iF1rJ7Ml8-2BWpC2KyyEMA9HZ13lUHGPyTdXeMdNmPU-2FE2FQ-2BS-2BU=
+4Auf7-2Bg-3D-3D_OaLlT2qeeZKUdbZjdkfUFPvcManjqpnWtUvEeUaFYX8Nn59esF6A56pGz5T=
+YdEYPssFOIjU6t1g2Cii-2FzKx3gx49YVe0n4yFRrcK5H9oDLKNNAVVJGycMpQjzTYel-2BTSUI=
+YQt56tSIfBENfe37w2wXn5qGH7-2F9neI4PpVcaBbbEHk5J-2BnYjL3yMebkmpT6orNMOty4wb3=
+YpK5yV2-2FCv6qAxLLsmb2j-2BwVaaRaLwMrZC011eiiD4QHB1ivMX3tDdOuxa3fpVwVh7wfii6=
+GeYksfEoxhOscUmCIfLIwnBwwY6xpnj-2FDfdGgLz9p-2FIUa9AFTpAu51LLEiXSbo3r-2FxoRC=
+-2BDgEASjGOgas-2Fb-2FUEhzZGPvfdRCzEDmZ-2B1vvew6H3hlwY6zIXVp0-2BKGsGUIC6znCN=
+DFoSGqa3qrI-2Fu00o5xhHg-3D" target=3D"_blank">Brussels Vol. 20</a></h3><p s=
+tyle=3D"font-size: 13px;"><span class=3D"event-date">February 22, 8:30 PM</=
+span> - <span class=3D"event-place">rue Auguste Orts 20-28, 1000 Beurskaf=
+=C3=A9</span></p></div><div class=3D"event-ticket"><a href=3D"https://u4460=
+374.ct.sendgrid.net/wf/click?upn=3DVpQSVi0rjOiE4jZJm91oTZu-2BFwKs4iF1rJ7Ml8=
+-2BWpC2KyyEMA9HZ13lUHGPyTdXeMdNmPU-2FE2FQ-2BS-2BU4Auf7-2Bg-3D-3D_OaLlT2qeeZ=
+KUdbZjdkfUFPvcManjqpnWtUvEeUaFYX8Nn59esF6A56pGz5TYdEYPssFOIjU6t1g2Cii-2FzKx=
+3gx49YVe0n4yFRrcK5H9oDLKNNAVVJGycMpQjzTYel-2BTSUIYQt56tSIfBENfe37w2wXn5qGH7=
+-2F9neI4PpVcaBbbEHk5J-2BnYjL3yMebkmpT6orNMOty4wb3YpK5yV2-2FCv6qCJCVIZzRTI5Y=
+yYH9MIPGMrGpZUcsKl2EZXxYeg1vEaW8gQNAMq2k4oCZ-2BoxZcVZNa5Gx1zEHmb39YR1NatMmi=
+57iFnR5pSXZBWTztAgn50R-2B8l-2FArb4hSu-2FpeVZ08p7XE5jrO6BGbTVBp47yipJVJjKawm=
+ujG9nK65kJyIDAGI-2BP5wzgNpiginD4x43bRuOTlLRuK7-2FuNJgJv6wvu-2B8EAo-3D" clas=
+s=3D"et_pb_more_button et_pb_button"></a></div></div><div class=3D"fun-even=
+t"><div class=3D"event-info"><h3><a href=3D"https://u4460374.ct.sendgrid.ne=
+t/wf/click?upn=3DVpQSVi0rjOiE4jZJm91oTZu-2BFwKs4iF1rJ7Ml8-2BWpC01RxiprWq9eQ=
+Jomc-2FCkAY1o8hYjtcQ1faMlL7uPk87aA-3D-3D_OaLlT2qeeZKUdbZjdkfUFPvcManjqpnWtU=
+vEeUaFYX8Nn59esF6A56pGz5TYdEYPssFOIjU6t1g2Cii-2FzKx3gx49YVe0n4yFRrcK5H9oDLK=
+NNAVVJGycMpQjzTYel-2BTSUIYQt56tSIfBENfe37w2wXn5qGH7-2F9neI4PpVcaBbbEHk5J-2B=
+nYjL3yMebkmpT6orNMOty4wb3YpK5yV2-2FCv6qDnJYAg1-2Fp9tzNHPv6rO3UZSoF295UBS4Ay=
+U5wiHFW1quaXSKmL5o0BTymyuAuiQdwPWhpSl7kZlTVF8o8TvOa-2B-2BW0lNnZJFhKAcGjVWaS=
+-2BQP94sRZr4W-2BmrTZPUxPvCMdqB41K0F1j5fe2-2Fg3lCKWn9To5yjICUPhCqYmSw5CUZ9Q6=
+r5EiKpWgyS5OH7b13avy2WXc41VsyK87A1Oog-2Bhg-3D" target=3D"_blank">Morelia Vo=
+l. 1</a></h3><p style=3D"font-size: 13px;"><span class=3D"event-date">Febru=
+ary 22, 9:00 PM</span> - <span class=3D"event-place">Artilleros de 1847 No.=
+ 1675, Chapultepec Oriente Frida Kahlo Restaurante</span></p></div><div cla=
+ss=3D"event-ticket"><a href=3D"https://u4460374.ct.sendgrid.net/wf/click?up=
+n=3DVpQSVi0rjOiE4jZJm91oTZu-2BFwKs4iF1rJ7Ml8-2BWpC01RxiprWq9eQJomc-2FCkAY1o=
+8hYjtcQ1faMlL7uPk87aA-3D-3D_OaLlT2qeeZKUdbZjdkfUFPvcManjqpnWtUvEeUaFYX8Nn59=
+esF6A56pGz5TYdEYPssFOIjU6t1g2Cii-2FzKx3gx49YVe0n4yFRrcK5H9oDLKNNAVVJGycMpQj=
+zTYel-2BTSUIYQt56tSIfBENfe37w2wXn5qGH7-2F9neI4PpVcaBbbEHk5J-2BnYjL3yMebkmpT=
+6orNMOty4wb3YpK5yV2-2FCv6qHcbf88sutTJlV51z3Rz1Z12xNlgIfuU0UkRqJ7b212-2FliUm=
+UEdp69H4-2FHZi9BBJJtuXDxWZKuDSe6faZi4Tqcjz8Vck3AHqTnk3oGEXErMLBcV0SOaH7Gxnl=
+q8NXDgJBgnlFSF7m81nzaUOvTWxg2S5UDHNYEcbPWw-2FLprIlZEAZcUO-2BgzRws3A1sog-2Bt=
+m8haftulYjL-2BykwVwsF-2FquO8I-3D" class=3D"et_pb_more_button et_pb_button">=
+</a></div></div><div class=3D"fun-event"><div class=3D"event-info"><h3><a h=
+ref=3D"https://u4460374.ct.sendgrid.net/wf/click?upn=3DVpQSVi0rjOiE4jZJm91o=
+TZu-2BFwKs4iF1rJ7Ml8-2BWpC1A6sBk3S4flYlkM-2FOc1JN1tWzA6qU5g-2FD5wbdg1C9ZbA-=
+3D-3D_OaLlT2qeeZKUdbZjdkfUFPvcManjqpnWtUvEeUaFYX8Nn59esF6A56pGz5TYdEYPssFOI=
+jU6t1g2Cii-2FzKx3gx49YVe0n4yFRrcK5H9oDLKNNAVVJGycMpQjzTYel-2BTSUIYQt56tSIfB=
+ENfe37w2wXn5qGH7-2F9neI4PpVcaBbbEHk5J-2BnYjL3yMebkmpT6orNMOty4wb3YpK5yV2-2F=
+Cv6qC-2Fmh4cYe8kD3haqxXPCFeFxLd4Ji1DogX8kbFrAlpv1T94kMgStuPhJKkiHqLZXx5n1ms=
+BXmO4cY5ZdM6WO8BN6IH1PACoWtqSuG66Nr7Ov6xjq9l1Lmc3uoVf45lxiJbSpJtSXuIuAS4J6-=
+2BeBPK5FpRwLUblcvAIpOVvVJ3wHeXLBWbUKsrHj84bWoudWe8inYcl0WNYj9dFmKuztDwno-3D=
+" target=3D"_blank">Taipei Vol. 23</a></h3><p style=3D"font-size: 13px;"><s=
+pan class=3D"event-date">February 23, 7:00 PM</span> - <span class=3D"event=
+-place"> MOX</span></p></div><div class=3D"event-ticket"><a href=3D"https:/=
+/u4460374.ct.sendgrid.net/wf/click?upn=3DVpQSVi0rjOiE4jZJm91oTZu-2BFwKs4iF1=
+rJ7Ml8-2BWpC1A6sBk3S4flYlkM-2FOc1JN1tWzA6qU5g-2FD5wbdg1C9ZbA-3D-3D_OaLlT2qe=
+eZKUdbZjdkfUFPvcManjqpnWtUvEeUaFYX8Nn59esF6A56pGz5TYdEYPssFOIjU6t1g2Cii-2Fz=
+Kx3gx49YVe0n4yFRrcK5H9oDLKNNAVVJGycMpQjzTYel-2BTSUIYQt56tSIfBENfe37w2wXn5qG=
+H7-2F9neI4PpVcaBbbEHk5J-2BnYjL3yMebkmpT6orNMOty4wb3YpK5yV2-2FCv6qImAQUtCQI3=
+I5NlwISPZPImD6Gg3sQeTa8Slr2ZyM7lKrPV-2Fqvyq0fAXVHII1xPOzB5-2Bko9S-2BDztxQcQ=
+0Coxr3Vzv-2F-2FYqw1fhKa-2B6Wf1r3yqNmd9TXjEyIDQEoOx3ws9BphsV4NYyJ6S2SeY0vgNh=
+q7-2ByhsIqB9NKgc3M17QWUxr5sKUa7jwzKTXyXAMyyIEbsrZISebzEAWp-2FNwnkwc6WA-3D" =
+class=3D"et_pb_more_button et_pb_button"></a></div></div><div class=3D"fun-=
+event"><div class=3D"event-info"><h3><a href=3D"https://u4460374.ct.sendgri=
+d.net/wf/click?upn=3DVpQSVi0rjOiE4jZJm91oTZu-2BFwKs4iF1rJ7Ml8-2BWpC2IBrQQsu=
+FUx4D3-2BQ797BnbdacYtoB2nWfi8l7qS1-2B9fA-3D-3D_OaLlT2qeeZKUdbZjdkfUFPvcManj=
+qpnWtUvEeUaFYX8Nn59esF6A56pGz5TYdEYPssFOIjU6t1g2Cii-2FzKx3gx49YVe0n4yFRrcK5=
+H9oDLKNNAVVJGycMpQjzTYel-2BTSUIYQt56tSIfBENfe37w2wXn5qGH7-2F9neI4PpVcaBbbEH=
+k5J-2BnYjL3yMebkmpT6orNMOty4wb3YpK5yV2-2FCv6qIxCuHNc4lk5QkJDJr29oeqQ8SMZ0Nq=
+U9kunvCORMLnvfiFWsPnkpd1hYyiPXDVO2eMxrNMxq4B0hxKkjiAwCwZ4Vxz1rUWQjo9cHT3FiX=
+LKlSIkw5OV7LZoSC19LtiTsw-2BLGMjI-2FbaPLgUzXHqeJBWCTRCoMyMQaRyLNY32ftEHQhPv5=
+c8t-2BzOmxP9yqHh3RlgHr56-2B6hNlZnXatwmrZRk-3D" target=3D"_blank">Hannover V=
+ol. 10</a></h3><p style=3D"font-size: 13px;"><span class=3D"event-date">Feb=
+ruary 26, 5:45 PM</span> - <span class=3D"event-place">Hildesheimer Stra=C3=
+=9Fe 18 Haus der Region</span></p></div><div class=3D"event-ticket"><a href=
+=3D"https://u4460374.ct.sendgrid.net/wf/click?upn=3DVpQSVi0rjOiE4jZJm91oTZu=
+-2BFwKs4iF1rJ7Ml8-2BWpC2IBrQQsuFUx4D3-2BQ797BnbdacYtoB2nWfi8l7qS1-2B9fA-3D-=
+3D_OaLlT2qeeZKUdbZjdkfUFPvcManjqpnWtUvEeUaFYX8Nn59esF6A56pGz5TYdEYPssFOIjU6=
+t1g2Cii-2FzKx3gx49YVe0n4yFRrcK5H9oDLKNNAVVJGycMpQjzTYel-2BTSUIYQt56tSIfBENf=
+e37w2wXn5qGH7-2F9neI4PpVcaBbbEHk5J-2BnYjL3yMebkmpT6orNMOty4wb3YpK5yV2-2FCv6=
+qNKXH7vA7PBTUIdMP653yw9vhN3Xux-2B0lqMkQjFO7gXWVG2ijEG-2BGvvQydtqQx9DhCcUx5S=
+dIpzPa5mbW98H6TuBnJ7Oyq8cHAT5sNm5uLHFgWvrWapKIkJTzePTo9isPhiHsuFk8hbV9zvQsw=
+RyyBMYBycZ-2BZ1GTR7jsrtLG3aL6azqk-2B7DuZQL6TZEy16lV5SabCvshLx9C5lQ74zNCrU-3=
+D" class=3D"et_pb_more_button et_pb_button"></a></div></div><div class=3D"f=
+un-event"><div class=3D"event-info"><h3><a href=3D"https://u4460374.ct.send=
+grid.net/wf/click?upn=3DVpQSVi0rjOiE4jZJm91oTZu-2BFwKs4iF1rJ7Ml8-2BWpC28e-2=
+F06uyBs582JBUfUaLRQdYgOjcQJqINnwvJ4DR2rnw-3D-3D_OaLlT2qeeZKUdbZjdkfUFPvcMan=
+jqpnWtUvEeUaFYX8Nn59esF6A56pGz5TYdEYPssFOIjU6t1g2Cii-2FzKx3gx49YVe0n4yFRrcK=
+5H9oDLKNNAVVJGycMpQjzTYel-2BTSUIYQt56tSIfBENfe37w2wXn5qGH7-2F9neI4PpVcaBbbE=
+Hk5J-2BnYjL3yMebkmpT6orNMOty4wb3YpK5yV2-2FCv6qNAEWMkePwxDtkB0MBT5LeawBCOdhR=
+0tJtKhAGgHR6-2FE56cufYQLgyUV0GMNllz3oeK4GzyOyve3Z8J3af-2FhHFOTOot0mf1yMclcE=
+XpyezZM4eUju4Sdh7lng4Ln4zjSP-2FQFoJgR3dHkooqBHrO5VdptcPkDF3PJMMEvbPmt5mcuv-=
+2FgdO9lRukSp7267YY2X77LTD-2FTaAiAIAg5G0TcNjUo-3D" target=3D"_blank">Papeete=
+ Vol. 2</a></h3><p style=3D"font-size: 13px;"><span class=3D"event-date">Fe=
+bruary 28, 6:00 PM</span> - <span class=3D"event-place"> Restaurant Le Morr=
+isons</span></p></div><div class=3D"event-ticket"><a href=3D"https://u44603=
+74.ct.sendgrid.net/wf/click?upn=3DVpQSVi0rjOiE4jZJm91oTZu-2BFwKs4iF1rJ7Ml8-=
+2BWpC28e-2F06uyBs582JBUfUaLRQdYgOjcQJqINnwvJ4DR2rnw-3D-3D_OaLlT2qeeZKUdbZjd=
+kfUFPvcManjqpnWtUvEeUaFYX8Nn59esF6A56pGz5TYdEYPssFOIjU6t1g2Cii-2FzKx3gx49YV=
+e0n4yFRrcK5H9oDLKNNAVVJGycMpQjzTYel-2BTSUIYQt56tSIfBENfe37w2wXn5qGH7-2F9neI=
+4PpVcaBbbEHk5J-2BnYjL3yMebkmpT6orNMOty4wb3YpK5yV2-2FCv6qL9Tkqp7WrhYgqdMqlhD=
+X38Ts3K70Ns9LQS126e0TokUjZxOzp9VJDsvDyY8nhdqbdsAm7Nz2h0Ltnn1miP-2FIIq1x2nK6=
+zFd6uuf4FvOBTiDQXP6bSTu6dzEgnKf5ShKW0AgjB1SpSeOLP9GEd3Ht5pOWvrUEOswEkoQDUEI=
+JaW95jrOsH6w4kfW1fbLOaNCucwBrLLYMLqDAUfgco5cR20-3D" class=3D"et_pb_more_but=
+ton et_pb_button"></a></div></div><div class=3D"fun-event"><div class=3D"ev=
+ent-info"><h3><a href=3D"https://u4460374.ct.sendgrid.net/wf/click?upn=3DVp=
+QSVi0rjOiE4jZJm91oTZu-2BFwKs4iF1rJ7Ml8-2BWpC2wCmxRaSIOgetgdjfrxDAnkDg-2BwID=
+wRzycW1Lc9Oj9Xg-3D-3D_OaLlT2qeeZKUdbZjdkfUFPvcManjqpnWtUvEeUaFYX8Nn59esF6A5=
+6pGz5TYdEYPssFOIjU6t1g2Cii-2FzKx3gx49YVe0n4yFRrcK5H9oDLKNNAVVJGycMpQjzTYel-=
+2BTSUIYQt56tSIfBENfe37w2wXn5qGH7-2F9neI4PpVcaBbbEHk5J-2BnYjL3yMebkmpT6orNMO=
+ty4wb3YpK5yV2-2FCv6qMTL2TK5UlV5vvqzrHZQ64VKtoDfm9A80bgFHCpLndIHnaLrXroynu0j=
+zcPIvjd3iI67dzIMPlMCcJdAMTUO3xdoON2-2FxvtzmVKr-2FZus2IalEuh1vsuoQ6P-2FEYzOT=
+gOVNkoohcRUYMlsjUsLabubFdIGJDei0vJ2yhZgLJacQI0j16YnjmCXYElLCM93L7nSVUHy9T9n=
+7uAY2-2BWB260UylE-3D" target=3D"_blank">Manila Vol. 2</a></h3><p style=3D"f=
+ont-size: 13px;"><span class=3D"event-date">February 28, 7:00 PM</span> - <=
+span class=3D"event-place">25F Picadilly Star, BGC Impact Hub Manila</span>=
+</p></div><div class=3D"event-ticket"><a href=3D"https://u4460374.ct.sendgr=
+id.net/wf/click?upn=3DVpQSVi0rjOiE4jZJm91oTZu-2BFwKs4iF1rJ7Ml8-2BWpC2wCmxRa=
+SIOgetgdjfrxDAnkDg-2BwIDwRzycW1Lc9Oj9Xg-3D-3D_OaLlT2qeeZKUdbZjdkfUFPvcManjq=
+pnWtUvEeUaFYX8Nn59esF6A56pGz5TYdEYPssFOIjU6t1g2Cii-2FzKx3gx49YVe0n4yFRrcK5H=
+9oDLKNNAVVJGycMpQjzTYel-2BTSUIYQt56tSIfBENfe37w2wXn5qGH7-2F9neI4PpVcaBbbEHk=
+5J-2BnYjL3yMebkmpT6orNMOty4wb3YpK5yV2-2FCv6qKTC1X6Ffo3-2BnWLxSiOSAOxoVPJ-2F=
+qkRzHgdRgumAhjGiF9NnOufMU6mARrdmsAbS7oYVfjz-2FHUmW4Uo8fDTrR3lKx40cMCRn8P1Kt=
+ENcsqGpRO02agInJHbbpeLZlAZDTtAC7AwoU5N7Fd79O8-2BBJQcrks9FggCl48fuK70K9UIEwd=
+sKZrLzvr0rN7keVENQsU-2FiuLnnCJYfarwOs8OamBE-3D" class=3D"et_pb_more_button =
+et_pb_button"></a></div></div><div class=3D"fun-event"><div class=3D"event-=
+info"><h3><a href=3D"https://u4460374.ct.sendgrid.net/wf/click?upn=3DVpQSVi=
+0rjOiE4jZJm91oTZu-2BFwKs4iF1rJ7Ml8-2BWpC0bwObmL4Fad3lkbAU6jfLLHmw-2FfZOqQy-=
+2F2fTeGSWed5g-3D-3D_OaLlT2qeeZKUdbZjdkfUFPvcManjqpnWtUvEeUaFYX8Nn59esF6A56p=
+Gz5TYdEYPssFOIjU6t1g2Cii-2FzKx3gx49YVe0n4yFRrcK5H9oDLKNNAVVJGycMpQjzTYel-2B=
+TSUIYQt56tSIfBENfe37w2wXn5qGH7-2F9neI4PpVcaBbbEHk5J-2BnYjL3yMebkmpT6orNMOty=
+4wb3YpK5yV2-2FCv6qHg7XUYLY0pOPqqz89K8zgjfteBPYQnheYkks0nHN-2B9c5CLjGXT2uHdf=
+EjevfJrM72sbvBzHy-2BSyD-2FC0M682QLAjN5L1o6uE6SsAX9F1APgi-2Fl1puxE6nKBCjWjAR=
+8aYjTH3Ze7N5QBb5LFIELJTPw6fiZVhf8u56iIaxOZT-2FlPRTzD3q9G-2FZJdSsHfE3GXQQY6P=
+4ptiW6wXHm5DIhenr88-3D" target=3D"_blank">Vilnius Vol. 10</a></h3><p style=
+=3D"font-size: 13px;"><span class=3D"event-date">February 28, 7:00 PM</span=
+> - <span class=3D"event-place">Kauno g. 5 Kablys+Kult=C5=ABra</span></p></=
+div><div class=3D"event-ticket"><a href=3D"https://u4460374.ct.sendgrid.net=
+/wf/click?upn=3DVpQSVi0rjOiE4jZJm91oTZu-2BFwKs4iF1rJ7Ml8-2BWpC0bwObmL4Fad3l=
+kbAU6jfLLHmw-2FfZOqQy-2F2fTeGSWed5g-3D-3D_OaLlT2qeeZKUdbZjdkfUFPvcManjqpnWt=
+UvEeUaFYX8Nn59esF6A56pGz5TYdEYPssFOIjU6t1g2Cii-2FzKx3gx49YVe0n4yFRrcK5H9oDL=
+KNNAVVJGycMpQjzTYel-2BTSUIYQt56tSIfBENfe37w2wXn5qGH7-2F9neI4PpVcaBbbEHk5J-2=
+BnYjL3yMebkmpT6orNMOty4wb3YpK5yV2-2FCv6qJXoFkwysFaOP9NBEt224IaYkt2mj-2BuE8B=
+5Yxslb-2BQgum25ic8fYEPC49m0Wfgh2rEZf46cybpVPskChDcMVpWP-2FGCJMiuHR-2FHojGMS=
+HI3B3uV4SGoSFMei4NJMQFzOkHijLpm3iEzMHVyFtUGN6AXXUM0ZVDKJ549ex-2F0Dpln9KRK7-=
+2Fq2HbJ0qiefeJb-2BwU5UtEz0IqunpMHzPrpqFEKpk-3D" class=3D"et_pb_more_button =
+et_pb_button"></a></div></div></div>
+
+				</div>
+			</div>
+        </div></div></div>
+        </div>
+        </td>
+      </tr>
+    </table>
+    <table class=3D"module"
+           role=3D"module"
+           data-type=3D"spacer"
+           border=3D"0"
+           cellpadding=3D"0"
+           cellspacing=3D"0"
+           width=3D"100%"
+           style=3D"table-layout: fixed;">
+      <tr>
+        <td style=3D"padding:0px 0px 30px 0px;"
+            role=3D"module-content"
+            bgcolor=3D"">
+        </td>
+      </tr>
+    </table>
+=20=20
+    <table class=3D"module" role=3D"module" data-type=3D"text" border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-layout: =
+fixed;">
+      <tr>
+        <td style=3D"background-color:#F7D96E;padding:18px 0px 18px 0px;lin=
+e-height:22px;text-align:inherit;"
+            height=3D"100%"
+            valign=3D"top"
+            bgcolor=3D"#F7D96E">
+            <div style=3D"text-align: center;"><a href=3D"https://u4460374.=
+ct.sendgrid.net/wf/click?upn=3DVpQSVi0rjOiE4jZJm91oTaNASsP8zTHTQ74J61T8yxv4=
+ooGL0q-2FC9j3qr1Wj3ShcbBDyxIEGq-2FFokmTPUemqYA-3D-3D_OaLlT2qeeZKUdbZjdkfUFP=
+vcManjqpnWtUvEeUaFYX8Nn59esF6A56pGz5TYdEYPssFOIjU6t1g2Cii-2FzKx3gx49YVe0n4y=
+FRrcK5H9oDLKNNAVVJGycMpQjzTYel-2BTSUIYQt56tSIfBENfe37w2wXn5qGH7-2F9neI4PpVc=
+aBbbEHk5J-2BnYjL3yMebkmpT6orNMOty4wb3YpK5yV2-2FCv6qKOOazNvp2pahMur5j5VjE-2F=
+F34t8lSJ-2F-2Bj5DaapvPp8eguRWL-2BgaJLhuxQdefC1gfiherd1yAWMcykDCquWUHFVfFrPd=
+7e246jDhZBI9lQh5d9HbU4sPZnHpa3OThFP22JTpiaKUDbTpn5SsVet0wN6CWue1bUv8qKPxI2b=
+2cAnCPtlgQ1EHrcH5peSO3vczwTwWvAwV7x9b52PoDdWjd-2Bg-3D"><span style=3D"color=
+:#000000;">Private Events</span></a><span style=3D"color:#000000;">&nbsp; &=
+nbsp;| &nbsp;</span><a href=3D"https://u4460374.ct.sendgrid.net/wf/click?up=
+n=3DVpQSVi0rjOiE4jZJm91oTaNASsP8zTHTQ74J61T8yxuP9rpOVbMOWiuHlgJhyy3d_OaLlT2=
+qeeZKUdbZjdkfUFPvcManjqpnWtUvEeUaFYX8Nn59esF6A56pGz5TYdEYPssFOIjU6t1g2Cii-2=
+FzKx3gx49YVe0n4yFRrcK5H9oDLKNNAVVJGycMpQjzTYel-2BTSUIYQt56tSIfBENfe37w2wXn5=
+qGH7-2F9neI4PpVcaBbbEHk5J-2BnYjL3yMebkmpT6orNMOty4wb3YpK5yV2-2FCv6qBiIv8izY=
+C09VBY4gWsP4bEB7Kx22T016G7DdNrYqcGcfXnLDDehvZHZdaTgM2Fy2E5ENAM4ZrzUm2VYIQli=
+k-2ByElLQ2SFeBTHeKqM-2BlRsCxsmXIz7LTGTE01if0UjOvzRm3x0Rf8wUzl14CbszpCsip345=
+zU-2BV-2BePYBpUcI98zv-2F6AMu4-2FoEZFkl9aZ-2FPPTwfXEMZX3dtcw2tU2UhJ71bY-3D">=
+<span style=3D"color:#000000;"> Become an Organizer</span></a><span style=
+=3D"color:#000000;"><span style=3D"font-style: normal; font-variant-ligatur=
+es: normal; font-variant-caps: normal; font-weight: 300; font-family: arial=
+; font-size: 14px; text-align: center; background-color: rgb(247, 217, 110)=
+;">&nbsp;&nbsp;</span></span><a href=3D"https://u4460374.ct.sendgrid.net/wf=
+/click?upn=3DVpQSVi0rjOiE4jZJm91oTaNASsP8zTHTQ74J61T8yxuP9rpOVbMOWiuHlgJhyy=
+3d_OaLlT2qeeZKUdbZjdkfUFPvcManjqpnWtUvEeUaFYX8Nn59esF6A56pGz5TYdEYPssFOIjU6=
+t1g2Cii-2FzKx3gx49YVe0n4yFRrcK5H9oDLKNNAVVJGycMpQjzTYel-2BTSUIYQt56tSIfBENf=
+e37w2wXn5qGH7-2F9neI4PpVcaBbbEHk5J-2BnYjL3yMebkmpT6orNMOty4wb3YpK5yV2-2FCv6=
+qPdpJeXHUSnZ1IdyGRy1YoXGVS7rGr-2FQfCRUwiWR7K1XX1b4WkuH96gWIRm4albQE0uHLKB6f=
+ix6WdthNToy6UDahVmtHNHvS79T17eUPXzhuD8HBkpp7tgAcCkbkgbsK4VQfn7eMI3wF4zZjsUQ=
+AgNRupcs6aJmnzJ-2FSF6BTJhQFSZYRw-2FNFLl0lF47CvOoBgIey3Zts9pT9JVYDgMvKYA-3D"=
+ style=3D"background-color: rgb(247, 217, 110); font-style: normal; font-va=
+riant-ligatures: normal; font-variant-caps: normal; font-weight: 300; font-=
+family: arial; font-size: 14px; text-align: center;"><span style=3D"color:#=
+000000;"><span style=3D"font-size: 14px;">&nbsp;</span></span></a><span sty=
+le=3D"font-style: normal; font-variant-ligatures: normal; font-variant-caps=
+: normal; font-weight: 300; font-family: arial; font-size: 14px; text-align=
+: center; background-color: rgb(247, 217, 110);"><span style=3D"color:#0000=
+00;">| &nbsp;</span><a href=3D"https://u4460374.ct.sendgrid.net/wf/click?up=
+n=3DVpQSVi0rjOiE4jZJm91oTaNASsP8zTHTQ74J61T8yxuP9rpOVbMOWiuHlgJhyy3d_OaLlT2=
+qeeZKUdbZjdkfUFPvcManjqpnWtUvEeUaFYX8Nn59esF6A56pGz5TYdEYPssFOIjU6t1g2Cii-2=
+FzKx3gx49YVe0n4yFRrcK5H9oDLKNNAVVJGycMpQjzTYel-2BTSUIYQt56tSIfBENfe37w2wXn5=
+qGH7-2F9neI4PpVcaBbbEHk5J-2BnYjL3yMebkmpT6orNMOty4wb3YpK5yV2-2FCv6qOo9FEveQ=
+hiY11dMPNeLmyHh1oqldc7T6KqhG9GQ4fcKxPwJ6S4M-2FJ35DEAQcQpphBxNg8yyQ3-2ByFUfC=
+AtGReeUdZJm8H0Ry-2BYVlWdd9S4EEKB8MyrO5IZ5u6AWpJitEU8wjncZdFbT1eWN7zHYNMJ-2B=
+z5y5FzLOUhM4hflabDgeATlGa-2BXv01I7i0EaLh7Dr55wP-2BuAj1efPzd4qiICfIdg-3D" st=
+yle=3D"background-color: rgb(247, 217, 110); font-style: normal; font-varia=
+nt-ligatures: normal; font-variant-caps: normal; font-weight: 300; font-fam=
+ily: arial; font-size: 14px; text-align: center;"><span style=3D"color:#000=
+000;">&nbsp;</span></a><a href=3D"https://u4460374.ct.sendgrid.net/wf/click=
+?upn=3DVpQSVi0rjOiE4jZJm91oTVShZBV6vcMp571ZEBsoJ-2BK7wETqZuy32bHAbt0KUFYt_O=
+aLlT2qeeZKUdbZjdkfUFPvcManjqpnWtUvEeUaFYX8Nn59esF6A56pGz5TYdEYPssFOIjU6t1g2=
+Cii-2FzKx3gx49YVe0n4yFRrcK5H9oDLKNNAVVJGycMpQjzTYel-2BTSUIYQt56tSIfBENfe37w=
+2wXn5qGH7-2F9neI4PpVcaBbbEHk5J-2BnYjL3yMebkmpT6orNMOty4wb3YpK5yV2-2FCv6qMpu=
+F1w8vlC9dFq-2Fn57Dx4pjiIDYyaZKEJE5wUCeHVnrwz66K3ONTM5mNXfw5iyfR9KjpGo-2BUy8=
+0sM1eidNbys-2FNBDNuhbrfswTijDIlv9vuj91VDB1TfnEyw0kHpVbmszfUxVc288kUs7tsWLY9=
+z8vLBA3DHbgC67OAEHbwxjIOzD-2FvJzEPzYFoEZdEO5hg989IKEwVA7JibXJjVj7hMuE-3D"><=
+span style=3D"color:#000000;">Share Feedback About an Event</span></a></spa=
+n></div>
+        </td>
+      </tr>
+    </table>
+=20=20
+    <table class=3D"module"
+           role=3D"module"
+           data-type=3D"spacer"
+           border=3D"0"
+           cellpadding=3D"0"
+           cellspacing=3D"0"
+           width=3D"100%"
+           style=3D"table-layout: fixed;">
+      <tr>
+        <td style=3D"padding:0px 0px 30px 0px;"
+            role=3D"module-content"
+            bgcolor=3D"#ffffff">
+        </td>
+      </tr>
+    </table>
+=20=20
+    <table class=3D"module" role=3D"module" data-type=3D"social" align=3D"c=
+enter" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" styl=
+e=3D"table-layout: fixed;">
+      <tbody>
+        <tr>
+          <td valign=3D"top" style=3D"font-size:6px;line-height:10px;paddin=
+g:0px 0px 0px 0px;background-color:#ffffff;">
+            <table align=3D"center">
+              <tbody>
+                <tr>
+                  <td style=3D"padding: 0px 5px;">
+        <a role=3D"social-icon-link"  href=3D"www.facebook.com/fuckupnights=
+" target=3D"_blank" alt=3D"Facebook"
+          data-nolink=3D"false"
+          title=3D"Facebook "
+          style=3D"background-color:rgb(57, 57, 57);border-radius:0px;-webk=
+it-border-radius:0px;color:white;display:inline-block;outline:none;text-dec=
+oration:none;border:none;font-family:Helvetica, arial, sans-serif;">
+          <img role=3D"social-icon" alt=3D"Facebook" title=3D"Facebook "
+            height=3D"30"
+            width=3D"30"
+            style=3D"height: 30px, width: 30px"
+            src=3D"https://marketing-image-production.s3.amazonaws.com/soci=
+al/white/facebook.png" />
+        </a>
+      </td>
+                  <td style=3D"padding: 0px 5px;">
+        <a role=3D"social-icon-link"  href=3D"www.twitter.com//fuckupnight"=
+ target=3D"_blank" alt=3D"Twitter"
+          data-nolink=3D"false"
+          title=3D"Twitter "
+          style=3D"background-color:rgb(57, 57, 57);border-radius:0px;-webk=
+it-border-radius:0px;color:white;display:inline-block;outline:none;text-dec=
+oration:none;border:none;font-family:Helvetica, arial, sans-serif;">
+          <img role=3D"social-icon" alt=3D"Twitter" title=3D"Twitter "
+            height=3D"30"
+            width=3D"30"
+            style=3D"height: 30px, width: 30px"
+            src=3D"https://marketing-image-production.s3.amazonaws.com/soci=
+al/white/twitter.png" />
+        </a>
+      </td>
+                  <td style=3D"padding: 0px 5px;">
+        <a role=3D"social-icon-link"  href=3D"www.instagram.com/fuckupnight=
+s" target=3D"_blank" alt=3D"Instagram"
+          data-nolink=3D"false"
+          title=3D"Instagram "
+          style=3D"background-color:rgb(57, 57, 57);border-radius:0px;-webk=
+it-border-radius:0px;color:white;display:inline-block;outline:none;text-dec=
+oration:none;border:none;font-family:Helvetica, arial, sans-serif;">
+          <img role=3D"social-icon" alt=3D"Instagram" title=3D"Instagram "
+            height=3D"30"
+            width=3D"30"
+            style=3D"height: 30px, width: 30px"
+            src=3D"https://marketing-image-production.s3.amazonaws.com/soci=
+al/white/instagram.png" />
+        </a>
+      </td>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                </tr>
+              </tbody>
+            </table>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+=20=20
+    <table class=3D"module"
+           role=3D"module"
+           data-type=3D"divider"
+           border=3D"0"
+           cellpadding=3D"0"
+           cellspacing=3D"0"
+           width=3D"100%"
+           style=3D"table-layout: fixed;">
+      <tr>
+        <td style=3D"padding:25px 25px 25px 25px;background-color:#ffffff;"
+            role=3D"module-content"
+            height=3D"100%"
+            valign=3D"top"
+            bgcolor=3D"#ffffff">
+          <table border=3D"0"
+                 cellpadding=3D"0"
+                 cellspacing=3D"0"
+                 align=3D"center"
+                 width=3D"100%"
+                 height=3D"1px"
+                 style=3D"line-height:1px; font-size:1px;">
+            <tr>
+              <td
+                style=3D"padding: 0px 0px 1px 0px;"
+                bgcolor=3D"#f2f2f2"></td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+=20=20
+    <table class=3D"module" role=3D"module" data-type=3D"text" border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-layout: =
+fixed;">
+      <tr>
+        <td style=3D"padding:0px 25px 0px 25px;background-color:#ffffff;"
+            height=3D"100%"
+            valign=3D"top"
+            bgcolor=3D"#ffffff">
+            <div>&nbsp;</div>
+
+<div style=3D"text-align: center;">=E2=9D=A4</div>
+
+<div style=3D"text-align: center;">&nbsp;</div>
+
+<div style=3D"text-align: center;"><span style=3D"color:#808080;">Proud mem=
+bers of the SendGrid Startup Program Accelerate.</span>=E2=80=8B</div>
+
+<div style=3D"text-align: center;"><u><a href=3D"https://u4460374.ct.sendgr=
+id.net/wf/click?upn=3DX71eqC8RkpPyyqBrWqaPONbflBRZJeD8lTVVTO4C6dmy7Zr0CX-2F=
+t0pDpNqFn-2Bdca_OaLlT2qeeZKUdbZjdkfUFPvcManjqpnWtUvEeUaFYX8Nn59esF6A56pGz5T=
+YdEYPssFOIjU6t1g2Cii-2FzKx3gx49YVe0n4yFRrcK5H9oDLKNNAVVJGycMpQjzTYel-2BTSUI=
+YQt56tSIfBENfe37w2wXn5qGH7-2F9neI4PpVcaBbbEHk5J-2BnYjL3yMebkmpT6orNMOty4wb3=
+YpK5yV2-2FCv6qFSgxdzHi1UkmnmUM6YZTj0BU0Vroc-2BP-2FNSdvvZLFV3qtjt2UZXDKAwL3B=
+1jNw4mgwhilfQCEGLYb8ABmu1or0b8WqSIw033fnIm5-2BV1qL6DgIoAWLkslf4G8ehP5WzNae-=
+2FYoHCIU0u2ulku3KcKiGiuokBD9Suo9zfyt8zyxrCFf3YTOQsatgkxP1GpVQtH2E7tuWHnNFo8=
+RIWI8i3f6VM-3D"><span style=3D"color:#808080;">Apply </span></a><a href=3D"=
+https://u4460374.ct.sendgrid.net/wf/click?upn=3DX71eqC8RkpPyyqBrWqaPONbflBR=
+ZJeD8lTVVTO4C6dmy7Zr0CX-2Ft0pDpNqFn-2Bdca_OaLlT2qeeZKUdbZjdkfUFPvcManjqpnWt=
+UvEeUaFYX8Nn59esF6A56pGz5TYdEYPssFOIjU6t1g2Cii-2FzKx3gx49YVe0n4yFRrcK5H9oDL=
+KNNAVVJGycMpQjzTYel-2BTSUIYQt56tSIfBENfe37w2wXn5qGH7-2F9neI4PpVcaBbbEHk5J-2=
+BnYjL3yMebkmpT6orNMOty4wb3YpK5yV2-2FCv6qDx8x7240yeWb5SmymnXu4kPCNaA2RQHp87B=
+YoKGQXiFSGhB3zGJB251EdN-2BQ-2F59-2BjgEIvmyhyJaTGaW7XONa7WAxPhWZOGPaHdRBY31I=
+LbS9S2hUCEy3Tv7ZTNum2yzd5rPoMH3LRrE8s7xKbHhO7WdgAEjbszQLMJC5z0TgOW1gRiUvjoK=
+Pp0oRL7mxyonPAWkTPJ2RK0Ryn6AYF3TPkA-3D"><span style=3D"color:#808080;">here=
+ </span></a><a href=3D"https://u4460374.ct.sendgrid.net/wf/click?upn=3DX71e=
+qC8RkpPyyqBrWqaPONbflBRZJeD8lTVVTO4C6dmy7Zr0CX-2Ft0pDpNqFn-2Bdca_OaLlT2qeeZ=
+KUdbZjdkfUFPvcManjqpnWtUvEeUaFYX8Nn59esF6A56pGz5TYdEYPssFOIjU6t1g2Cii-2FzKx=
+3gx49YVe0n4yFRrcK5H9oDLKNNAVVJGycMpQjzTYel-2BTSUIYQt56tSIfBENfe37w2wXn5qGH7=
+-2F9neI4PpVcaBbbEHk5J-2BnYjL3yMebkmpT6orNMOty4wb3YpK5yV2-2FCv6qB22-2BO02hda=
+kM93dpGg44D74wUPGzBd0SDV-2Fk-2BV18GFXYBqKIB4OsN1ru9JFrhCdBkfTTodC9fsLwRDS7w=
+eTl30f8IGt4L5x4xse5VP3ht-2F6jDhJJ0t3ctRB9JWtcnz4ssB39a9ZQiui4AR5SfKssJXeaoP=
+mb6RvTv-2FRdKcTXiMQBaJaMkJtlu22fplGUnM-2B8ylMlyta7ZuvXC8S2ab6634-3D"><span =
+style=3D"color:#808080;">for a 12 months free plan for your startup.</span>=
+</a></u></div>
+
+<div style=3D"text-align: center;">&nbsp;</div>
+        </td>
+      </tr>
+    </table>
+=20=20
+    <table class=3D"wrapper" role=3D"module" data-type=3D"image" border=3D"=
+0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-layout=
+: fixed;">
+      <tr>
+        <td style=3D"font-size:6px;line-height:10px;background-color:#FFFFF=
+F;padding:0px 0px 0px 0px;" valign=3D"top" align=3D"center">
+          <a href=3D"https://u4460374.ct.sendgrid.net/wf/click?upn=3DX71eqC=
+8RkpPyyqBrWqaPOBzQzj-2BoqdReX00Ghy6n-2FrQrK-2BRj4CHC-2BRNikV8jAN0W_OaLlT2qe=
+eZKUdbZjdkfUFPvcManjqpnWtUvEeUaFYX8Nn59esF6A56pGz5TYdEYPssFOIjU6t1g2Cii-2Fz=
+Kx3gx49YVe0n4yFRrcK5H9oDLKNNAVVJGycMpQjzTYel-2BTSUIYQt56tSIfBENfe37w2wXn5qG=
+H7-2F9neI4PpVcaBbbEHk5J-2BnYjL3yMebkmpT6orNMOty4wb3YpK5yV2-2FCv6qCZfwnzbHO7=
+lELPUvOOq8YYQ1FGIZ38b-2BKJNPnwF9cvGakQ8CFnOvrUmuakeyc-2BynJM4AbJpCPRi28Bj-2=
+F-2F-2FxgkhBFe7o6ELJ0ryHeLcYALfXd9Azri0YLyS7nqK5vCE6iXxqy2rDCOI-2Bo-2F7jarG=
+EpXyCfZdPE6chP1dD-2FE23f4-2FbdWqVtZ03soEMF1XmHxibVVIQwSgeSd7wa4MIoWXkyNA-3D=
+" target=3D"_blank">
+  <img width=3D"150" src=3D"https://marketing-image-production.s3.amazonaws=
+.com/uploads/286f72abe785173366cc3d75986ee65f59f8022cee6efe7c000ae129af75e8=
+83d85ef909ca0e32ab2b052ea2a03163c7903483bb06597239704e444c5eee93f3.png" alt=
+=3D"" border=3D"0" style=3D"display:block;color:#000;text-decoration:none;f=
+ont-family:Helvetica, arial, sans-serif;font-size:16px;" height=3D"33" clas=
+s=3D"max-width">
+</a>
+        </td>
+      </tr>
+    </table>
+=20=20
+    <table class=3D"module"
+           role=3D"module"
+           data-type=3D"divider"
+           border=3D"0"
+           cellpadding=3D"0"
+           cellspacing=3D"0"
+           width=3D"100%"
+           style=3D"table-layout: fixed;">
+      <tr>
+        <td style=3D"padding:25px 25px 25px 25px;background-color:#ffffff;"
+            role=3D"module-content"
+            height=3D"100%"
+            valign=3D"top"
+            bgcolor=3D"#ffffff">
+          <table border=3D"0"
+                 cellpadding=3D"0"
+                 cellspacing=3D"0"
+                 align=3D"center"
+                 width=3D"100%"
+                 height=3D"1px"
+                 style=3D"line-height:1px; font-size:1px;">
+            <tr>
+              <td
+                style=3D"padding: 0px 0px 1px 0px;"
+                bgcolor=3D"#f2f2f2"></td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+=20=20
+    <table class=3D"module" role=3D"module" data-type=3D"text" border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"table-layout: =
+fixed;">
+      <tr>
+        <td style=3D"background-color:#ffffff;padding:18px 25px 18px 25px;l=
+ine-height:22px;text-align:inherit;"
+            height=3D"100%"
+            valign=3D"top"
+            bgcolor=3D"#ffffff">
+            <div>
+<div style=3D"font-style: normal; font-variant-ligatures: normal; font-vari=
+ant-caps: normal; font-weight: 300; line-height: 18px; font-family: arial, =
+sans-serif; font-size: 12px; color: rgb(0, 0, 0); background-color: rgb(255=
+, 255, 255); text-align: center;"><span style=3D"color:#D3D3D3;"><span styl=
+e=3D"font-size: 12px;">This email was sent by: Fuckup Nights Tabasco 242, C=
+olonia Roma, Mexico City  06700</span></span></div>
+
+<div style=3D"font-style: normal; font-variant-ligatures: normal; font-vari=
+ant-caps: normal; font-weight: 300; line-height: 18px; font-family: arial, =
+sans-serif; font-size: 12px; color: rgb(0, 0, 0); background-color: rgb(255=
+, 255, 255); text-align: center;"><span style=3D"color:#D3D3D3;"><span styl=
+e=3D"font-size: 12px;">To unsubscribe click:&nbsp;</span></span><a href=3D"=
+https://u4460374.ct.sendgrid.net/asm/unsubscribe/?user_id=3D4460374&data=3D=
+oX7UCEp6BjDVYSkl9wgyOC_izVoAici4SZUKzBFcJ4cCqqAP0eiisuCKqLR32ThFD27kUyQ2KpH=
+PwKjLCUNS7D-NtIePJYuQuHiyHvosdWjiXGsooIzWamjIG1cn4XvcoUFt_YrUdI6V-kaireIDml=
+G-PMTMWTWhO6rpCjCkwuCFDTQZx-3Ccwx-QgIjiTBoR_a2ygoObhMWGqyr5DqChFsBbV1xfYWZZ=
+7QIga80BlfSYkFtPXVek5l-uZyZVGTAFqk7s_vCEFNljSceqCVu8jUNLX8bdUeJd88aKeher0pD=
+R7n5KptkgF-sVgfIrFRoUsy_J4KC-jmaYrMkqEqn-XCGlySfSL74bpBY6EtfSDKDsNfctXQ1qK7=
+OnHYBCrpUfZ_TK-COMeoEmEVWC-CjIQT7M8k8p9RnHopbC3kIcLM_AQh8w1hbfNWEZEkrtBcHSk=
+Qwz1O4siTu0FuDlmxz5nU5na88u6gc2AmU_J5TsdjNsyMAH84F6Mr6fzkloia5n14TTyLTT2Ryx=
+bfQl9nm2onVx7RfyGntWm3pQqfIOHKyhjEfk4mp7SwTP16ApQb8" style=3D"font-size: 12=
+px; color: rgb(247, 217, 110);"><span style=3D"color:#D3D3D3;"><span style=
+=3D"font-size: 12px;">here</span></span></a></div>
+</div>
+        </td>
+      </tr>
+    </table>
+=20=20
+    <table class=3D"module"
+           role=3D"module"
+           data-type=3D"spacer"
+           border=3D"0"
+           cellpadding=3D"0"
+           cellspacing=3D"0"
+           width=3D"100%"
+           style=3D"table-layout: fixed;">
+      <tr>
+        <td style=3D"padding:0px 0px 30px 0px;"
+            role=3D"module-content"
+            bgcolor=3D"#ffffff">
+        </td>
+      </tr>
+    </table>
+=20=20
+    <table class=3D"module"
+           role=3D"module"
+           data-type=3D"spacer"
+           border=3D"0"
+           cellpadding=3D"0"
+           cellspacing=3D"0"
+           width=3D"100%"
+           style=3D"table-layout: fixed;">
+      <tr>
+        <td style=3D"padding:0px 0px 30px 0px;"
+            role=3D"module-content"
+            bgcolor=3D"">
+        </td>
+      </tr>
+    </table>
+=20=20
+                              </td>
+                            </tr>
+                          </table>
+                          <!--[if mso]>
+                          </td></tr></table>
+                          </center>
+                          <![endif]-->
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+        </table>
+      </div>
+    </center>
+=20=20
+<img src=3D"https://u4460374.ct.sendgrid.net/wf/open?upn=3DOaLlT2qeeZKUdbZj=
+dkfUFPvcManjqpnWtUvEeUaFYX8Nn59esF6A56pGz5TYdEYPssFOIjU6t1g2Cii-2FzKx3gx49Y=
+Ve0n4yFRrcK5H9oDLKNNAVVJGycMpQjzTYel-2BTSUIYQt56tSIfBENfe37w2wXn5qGH7-2F9ne=
+I4PpVcaBbbEHk5J-2BnYjL3yMebkmpT6orNMOty4wb3YpK5yV2-2FCv6qFTCR-2B6NqmK3UNgSe=
+W80VLWkgn-2F9c-2ByWeLSkEEC35-2FaiC6jKZQynyRAEbjnb3qXOah1BkchNqWlLGpOLk60AJD=
+y8Qk4xZVrMdQWtjCUH1-2BeDwZ-2BcJwPVRoSBo19LVbS3Rnu9GWo8dIjcAnqnCRsxuAb-2B9FA=
+q8Wtq12qWlHse-2Ff51cNTiuDD-2Bwm-2BoKyXorq-2F9rAayuTYv85wNcyGSoeLUja5R-2B4bi=
+Me2XyDnvzsg66nCP" alt=3D"" width=3D"1" height=3D"1" border=3D"0" style=3D"h=
+eight:1px !important;width:1px !important;border-width:0 !important;margin-=
+top:0 !important;margin-bottom:0 !important;margin-right:0 !important;margi=
+n-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;pa=
+dding-right:0 !important;padding-left:0 !important;"/>
+</body>
+</html>
+
+--b8f65c8e3e0bf0efd8f9a19ccace9acd1bfb2df0d5ef4cd134a257a857f4--

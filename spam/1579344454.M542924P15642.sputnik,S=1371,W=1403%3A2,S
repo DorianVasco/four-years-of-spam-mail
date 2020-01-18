@@ -1,0 +1,32 @@
+Return-Path: <alexpim@revouns.com>
+Delivered-To: mail@elementk.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 2220FD18C3
+	for <mail@elementk.de>; Wed, 15 May 2019 14:46:49 +0200 (CEST)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 5.95
+X-Spam-Level: *****
+X-Spam-Status: Yes, score=5.95 required=5.5 tests=[BAYES_80=2,
+	FSL_BULK_SIG=1.034, PYZOR_CHECK=1.392, RDNS_NONE=0.793,
+	SPF_HELO_SOFTFAIL=0.732, SPF_PASS=-0.001] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id I9Z5ZjBHaPHg for <mail@elementk.de>;
+	Wed, 15 May 2019 14:46:44 +0200 (CEST)
+Received: from takescoop.com (unknown [107.174.234.41])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 33A57C1F35
+	for <mail@elementk.de>; Wed, 15 May 2019 14:46:41 +0200 (CEST)
+To: mail@elementk.de
+Subject: Test System
+Message-ID: <339e47d26f79a56e4df48082a2eb98fe@eatingrichly.com>
+Date: Wed, 15 May 2019 13:42:04 +0200
+From: "Alex" <alexpim@revouns.com>
+Reply-To: alexpim@revouns.com
+MIME-Version: 1.0
+Content-Type: text/plain; format=flowed; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+If you received this ok, then everything is working as it should.
+
+

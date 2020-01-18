@@ -1,0 +1,111 @@
+Return-Path: <2808-679-685360-807-mail=dorianvasco.de@mail.ketogeniacclatr.host>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id EC289C7002
+	for <mail@dorianvasco.de>; Fri, 14 Jun 2019 16:18:29 +0200 (CEST)
+Authentication-Results: v22014122474822114.stilfilm.com; dkim=fail
+	reason="verification failed; insecure key"
+	header.d=ketogeniacclatr.host header.i=**KetoGenicAccelerator**@ketogeniacclatr.host
+	header.b=JRrxTNgw; dkim-adsp=unknown (insecure policy);
+	dkim-atps=neutral
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 8.786
+X-Spam-Level: ********
+X-Spam-Status: Yes, score=8.786 required=5.5 tests=[BAYES_50=0.8,
+	DKIM_INVALID=0.1, DKIM_SIGNED=0.1, FSL_BULK_SIG=1.223, HS_BODY_395=1,
+	HTML_MESSAGE=0.001, LOTS_OF_MONEY=0.001, MONEY_FROM_MISSP=1.803,
+	PYZOR_CHECK=1.392, SPF_HELO_NONE=0.001, SPF_SOFTFAIL=0.665,
+	URIBL_BLACK=1.7] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 2v7a-X_OxCpQ for <mail@dorianvasco.de>;
+	Fri, 14 Jun 2019 16:18:23 +0200 (CEST)
+Received: from bend.ketogeniacclatr.host (hwsrv-522912.hostwindsdns.com [192.236.147.249])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id C5259C0078
+	for <mail@dorianvasco.de>; Fri, 14 Jun 2019 16:18:17 +0200 (CEST)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=ketogeniacclatr.host;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=**KetoGenicAccelerator**@ketogeniacclatr.host;
+ bh=YMlvkpl1rC4h4bSwPeacpcAq7KY=;
+ b=JRrxTNgwCA9rJ+xOMaXdx4dvnIhrbv0kE14TfVcvhyo5dmR2iKJ8oUIke0mkFkmynF+oNVvIVBLh
+   4D5QGp5PLmWQFtHQp6kiPTpzRWjw1mLGFDc4MFMv/Mzi3wY0UJC4oxNRRVuS1Mjn8J9aaIXmdzDW
+   wcAB2qV2+j3PF8tR43Y=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=ketogeniacclatr.host;
+ b=qI28qyMei3pG6Pmi4EA+kYqNSD0FoWY4al+PobEb9ebEq76eckAvyY3QdxjWg8bvxe3CKOQ0VJSK
+   UIUpx+YzoeAj58BJkAqy0ZfTUMX7A5H6paiGP8b49EJWECg0d32rQXX6m2YXtzJtlPkel3O53HIG
+   ONLSx5/xjQuPff/edKA=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="7449c4fc99a1aa7100c0ff09cb854844_2a7_a7530"
+Date: Fri, 14 Jun 2019 10:18:06 -0400
+From: "KetoGenic Accelerator"<**KetoGenicAccelerator**@ketogeniacclatr.host>
+Reply-To: "**KetoGenic Accelerator**"<KetoGenicAccelerator@ketogeniacclatr.host>
+Subject: Shark Tanks Newest Product Going Viral After Debut
+To: <mail@dorianvasco.de>
+Message-ID: <v9r10vqlylhsmda4-m5eym7oiw5w8mtgk-2a7-a7530@ketogeniacclatr.host>
+
+--7449c4fc99a1aa7100c0ff09cb854844_2a7_a7530
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+Shark Tanks Newest Product Going Viral After Debut
+
+http://ketogeniacclatr.host/OGvqH3CniJMdYkmmhlGUV4d9p_ERlS6FJ9zcHvdsUVG8wy0
+
+http://ketogeniacclatr.host/FlA1XeoZooMguaWILdrZV_Dw6INBS5hq0Y2rP1uM59V-3kk
+
+ough chewing gum can be traced back to civilizations around the world, the modernization and commercialization of this product mainly took place in the United States. The American Indians chewed resin made from the sap of spruce trees. The New England settlers picked up this practice, and in 1848, John B. Curtis developed and sold the first commercial chewing gum called The State of Maine Pure Spruce Gum. In this way, the industrializing West, having forgotten about tree gums, rediscovered chewing gum through the First Americans. Around 1850 a gum made from paraffin wax, which is a petroleum product, was developed and soon exceeded the spruce gum in popularity. To sweeten these early gums, the chewer would often make use of a plate of powdered sugar, which they would repeatedly dip the gum into to maintain sweetness. William Semple filed an early patent on chewing gum, patent number 98,304, on December 28, 1869.
+
+
+An image of a Colgan's Taffy Tolu Chewing Gum chromolithograph advertisement circa 1910
+The first flavored chewing gum was created in the 1860s by John Colgan, a Louisville, Kentucky pharmacist. Colgan mixed with powdered sugar the aromatic flavoring tolu, a powder obtained from an extract of the balsam tree (Myroxylon), creating small sticks of flavored chewing gum he named "Taffy Tolu". Colgan also lead the way in the manufacturing and packaging of chicle-based chewing gum, derived from Manilkara chicle, a tropical evergreen tree. He licensed a patent for automatically cutting chips of chewing gum from larger sticks: US 966,160 "Chewing Gum Chip Forming Machine" August 2, 1910 and a patent for automatically cutting wrappers for sticks of chewing gum: US 913,352 "Web-cutting attachment for wrapping-machines" February 23, 1909 from Louisville, Kentucky inventor James Henry Brady, an employee of the Colgan Gum Company.
+
+Modern chewing gum was first developed in the 1860s when chicle was brought from Mexico by the former President, General Antonio Lopez de Santa Anna, to New York, where he gave it to Thomas Adams for use as a rubber substitute. Chicle did not succeed as a replacement for rubber, but as a gum, which was cut into strips and marketed as Adams New York Chewing Gum in 1871. Black Jack (1884), which is flavored with licorice, Chiclets (1899), and Wrigley's Spearmint Gum were early popular gums that quickly dominated the market and are all still around today. Chewing gum gained worldwide popularity through American GIs in WWII, who were supplied chewing gum as a ration and traded it with loc
+
+--7449c4fc99a1aa7100c0ff09cb854844_2a7_a7530
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>Newsletter</title>
+</head>
+<body><a href="http://ketogeniacclatr.host/NoIwOSsuhws54eht4HxOj4fKdoSLlZI4-0Q42sTxMRBWDlU"><img src="http://ketogeniacclatr.host/dafc86ae7c57e124d9.jpg" /><img src="http://www.ketogeniacclatr.host/wnUU5pT5Nsg-1npd55i7QyEwjiSFCfep_WAquqp_SL2i3A" style="height:1px; width:1px" /></a>
+<center>
+<div><a href="http://ketogeniacclatr.host/OGvqH3CniJMdYkmmhlGUV4d9p_ERlS6FJ9zcHvdsUVG8wy0"><img src="http://ketogeniacclatr.host/7c5a02142f17ded14d.png" /></a><br />
+&nbsp;
+<div style="width:600px; text-align:left; font-family:Arial;">FOX News - Obesity Epidemic Reaching Crisis Levels FOX News - The United States will not be escaping the obesity epidemic crisis anytime soon:<br />
+<br />
+Nearly 40% of adults and 19% of youths are obese, the highest rate the country has ever seen according to research released by the National Center for Health Statistics.<br />
+<br />
+Don&#39;t be a part of the ever growing epidemic, do something TODAY!<br />
+<br />
+This brand new product backed by science and everyday regular people shows proof of how quickly and effectively it works and is selling out everywhere!<br />
+<br />
+<a href="http://ketogeniacclatr.host/OGvqH3CniJMdYkmmhlGUV4d9p_ERlS6FJ9zcHvdsUVG8wy0">=&gt; See How And Why It Works So Well</a><br />
+&nbsp;</div>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="http://ketogeniacclatr.host/61hGFxU-frDKq5xRfzw5UdU-3lzJljFw_9e0f8_HkvUaFfY"><img src="http://ketogeniacclatr.host/8cff09a1374bc2ff89.jpg" /></a></div>
+
+<p><br />
+<br />
+<span style="color:#FFFFFF; font-size:6px">ough chewing gum can be traced back to civilizations around the world, the modernization and commercialization of this product mainly took place in the United States. The American Indians chewed resin made from the sap of spruce trees. The New England settlers picked up this practice, and in 1848, John B. Curtis developed and sold the first commercial chewing gum called The State of Maine Pure Spruce Gum. In this way, the industrializing West, having forgotten about tree gums, rediscovered chewing gum through the First Americans. Around 1850 a gum made from paraffin wax, which is a petroleum product, was developed and soon exceeded the spruce gum in popularity. To sweeten these early gums, the chewer would often make use of a plate of powdered sugar, which they would repeatedly dip the gum into to maintain sweetness. William Semple filed an early patent on chewing gum, patent number 98,304, on December 28, 1869. An image of a Colgan&#39;s Ta
+ ffy Tolu Chewing Gum chromolithograph advertisement circa 1910 The first flavored chewing gum was created in the 1860s by John Colgan, a Louisville, Kentucky pharmacist. Colgan mixed with powdered sugar the aromatic flavoring tolu, a powder obtained from an extract of the balsam tree (Myroxylon), creating small sticks of flavored chewing gum he named &quot;Taffy Tolu&quot;. Colgan also lead the way in the manufacturing and packaging of chicle-based chewing gum, derived from Manilkara chicle, a tropical evergreen tree. He licensed a patent for automatically cutting chips of chewing gum from larger sticks: US 966,160 &quot;Chewing Gum Chip Forming Machine&quot; August 2, 1910 and a patent for automatically cutting wrappers for sticks of chewing gum: US 913,352 &quot;Web-cutting attachment for wrapping-machines&quot; February 23, 1909 from Louisville, Kentucky inventor James Henry Brady, an employee of the Colgan Gum Company. Modern chewing gum was first developed in the 1860s when chi
+ cle was brought from Mexico by the former President, General Antonio Lopez de Santa Anna, to New York, where he gave it to Thomas Adams for use as a rubber substitute. Chicle did not succeed as a replacement for rubber, but as a gum, which was cut into strips and marketed as Adams New York Chewing Gum in 1871. Black Jack (1884), which is flavored with licorice, Chiclets (1899), and Wrigley&#39;s Spearmint Gum were early popular gums that quickly dominated the market and are all still around today. Chewing gum gained worldwide popularity through American GIs in WWII, who were supplied chewing gum as a ration and traded it with loc </span></p>
+</center>
+</body>
+</html>
+
+--7449c4fc99a1aa7100c0ff09cb854844_2a7_a7530--

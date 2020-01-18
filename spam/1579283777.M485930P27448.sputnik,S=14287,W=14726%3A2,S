@@ -1,0 +1,439 @@
+Return-Path: <tom@prodigital.live>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id C2A77C7885
+	for <mail@dorianvasco.de>; Mon, 11 Nov 2019 16:56:05 +0100 (CET)
+Authentication-Results: v22014122474822114.stilfilm.com; dkim=pass
+	reason="2048-bit key; insecure key"
+	header.d=prodigital-live.20150623.gappssmtp.com header.i=@prodigital-live.20150623.gappssmtp.com
+	header.b=1dTW06nD; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: 0.801
+X-Spam-Level:
+X-Spam-Status: No, score=0.801 required=5.5 tests=[BAYES_50=0.8,
+	DKIM_SIGNED=0.1, DKIM_VALID=-0.1, HTML_MESSAGE=0.001]
+	autolearn=ham autolearn_force=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 4PqkHAuKOzRJ for <mail@dorianvasco.de>;
+	Mon, 11 Nov 2019 16:56:02 +0100 (CET)
+Received: from mail-pl1-f195.google.com (mail-pl1-f195.google.com [209.85.214.195])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id 22662C775D
+	for <mail@dorianvasco.de>; Mon, 11 Nov 2019 16:55:53 +0100 (CET)
+Received: by mail-pl1-f195.google.com with SMTP id w8so7976101plq.5
+        for <mail@dorianvasco.de>; Mon, 11 Nov 2019 07:55:53 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=prodigital-live.20150623.gappssmtp.com; s=20150623;
+        h=from:to:subject:date:message-id:mime-version:thread-index
+         :content-language;
+        bh=7Wu+3I1BigSgw+hwZPeZ1h5DnQ/trHLUzzXjFCoK91A=;
+        b=1dTW06nD9sxObiNdkiOI59PFd2371T664w2VvMBZZrBLpsTPdzE1Xr+naWtyRaOemj
+         CC7cHaO2GwLGCUs3gpaABl0niE+F1HlnZxyvP1oU3DKpiBE94OlLFo4oGmHEGwGUvBPT
+         uyHVA42bCX5S9muS/DeMoPxqBa3LsqhGLZjSLz9HMDo5mkwAcCMwf+pQcyWaOqCx2qTf
+         JptVeAiX6wM9JTzd2xvmTTUPFzBcJQ3UEDDDWIQPVsqB+KtLXRDFD/nmNISkqw+W7LPj
+         /oFEcwJxVpD2QbCsIuUkH50FhHkucN7E4lnSALqmflQ8nHkS3SmG8CAYRsRmvz5JOkaV
+         PC/g==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:from:to:subject:date:message-id:mime-version
+         :thread-index:content-language;
+        bh=7Wu+3I1BigSgw+hwZPeZ1h5DnQ/trHLUzzXjFCoK91A=;
+        b=a3KhrpLj56AqLY/iZ8oYRexqG+4Y0WHZIoxCmBKVePp7Q2AHPhMwc2okfk1jJ3RHlI
+         Iom0Bx6aZLjXF/XuLSg67or78NRd+5VvST1y9pqZMCx5Lng1ZV5WpvmJ5evxRuIRuTiQ
+         gCrlM+rVLRXbQxoIw+CosoeJFNwzXcUAYB8FnwaTxYCBqwR7+P5fxD/oSa4ekanBQFuF
+         ldryHd/LOs/dCOXVTnJPUCC/8brfqXnDQ+M1bs/A28QvubyjAMSR+vfEN/iofBku5X/N
+         /DBI+ETO/5vSdop/64oA3D0TQ/f/M+gkEMg+1ks4uftvYCVIT3IEMeRaqzJkJu1udUXu
+         921w==
+X-Gm-Message-State: APjAAAUDphRj3KaCB1SDFCKn2fHOtYfclzU77rMo0zHm6CA86fkMTG61
+	VQdjZE8rndPx3dMo2wz9wF1P4SohEnc=
+X-Google-Smtp-Source: APXvYqzewstM+rddqRX7Z0uejYE3qSPqKkcq7jeoCNYgKJ0bv8kGoB8/D4nKTA2LqlHC5+/sfUdSJg==
+X-Received: by 2002:a17:902:8a8b:: with SMTP id p11mr26721653plo.152.1573487751009;
+        Mon, 11 Nov 2019 07:55:51 -0800 (PST)
+Received: from AdminPC ([103.100.5.137])
+        by smtp.gmail.com with ESMTPSA id j11sm13974452pgk.3.2019.11.11.07.55.49
+        for <mail@dorianvasco.de>
+        (version=TLS1 cipher=ECDHE-RSA-AES128-SHA bits=128/128);
+        Mon, 11 Nov 2019 07:55:50 -0800 (PST)
+From: "Tom" <tom@prodigital.live>
+To: <mail@dorianvasco.de>
+Subject: Seo Service
+Date: Mon, 11 Nov 2019 21:11:22 +0530
+Message-ID: <18f101d598a8$7e206e80$7a614b80$@live>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_18F2_01D598D6.97D8AA80"
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-Index: AdWYYaTJ7FYlKHngRqGzyKFxnd8BDQ==
+Content-Language: en-in
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_18F2_01D598D6.97D8AA80
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+Hi, DorianVasco Nagel  
+
+I am Tom, Business Development Consultant
+
+ 
+
+We have a SEO discount get Google Top Ranking!                             
+
+ 
+
+Off-Page work activities "Monthly Task and responsibilities"
+
+
+ 1.  150 Directory submissions
+
+ 2.  60 Social Book marking Submissions
+
+ 3.  20 Article Submissions (1 article x 20 article websites)
+
+ 4.  10 Press Release Submissions (1 press release x 10 press release
+websites)
+
+ 5.  10 Blog Comments
+
+ 6.  1 unique, 400 word article written
+
+ 7.  1 unique,400 word press
+
+
+ 8.  10 Search Engine Submissions
+
+ 9.  20+ One Way Directory Link
+
+ 
+
+On-Page work activities "Follow only first month"
+
+ 1.  Meta tags/Title tag changes
+
+ 2.  Keyword research/Analysis
+
+ 3.  Competitor Analysis
+
+ 4.  Meta tag changes
+
+ 5.  Alt tag changes
+
+ 6.  Interlinking required.
+
+ 7.  Keyword density in site.
+
+
+ 8.  HTML Site Map
+
+ 9.  XML site map and Submission in webmaster tool
+
+10. Ror.XML File creation
+
+11. Robots.Txt File creation Extra work activities
+
+12. Google Webmaster tool
+
+13. Google Analytics
+
+ 
+
+Please let me if you are interested and I would be happy to share our past
+work details and client Testimonials and Cost.
+
+ 
+
+Regards,
+
+Tom,
+
+Business Development Consultant
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+------=_NextPart_000_18F2_01D598D6.97D8AA80
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<META HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html; =
+charset=3Dus-ascii">
+<meta name=3DGenerator content=3D"Microsoft Word 12 (filtered medium)">
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+.MsoChpDefault
+	{mso-style-type:export-only;}
+.MsoPapDefault
+	{mso-style-type:export-only;
+	margin-bottom:10.0pt;
+	line-height:115%;}
+@page Section1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 72.0pt 72.0pt 72.0pt;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+
+</head>
+
+<body lang=3DEN-IN>
+
+<div class=3DSection1>
+
+<p class=3DMsoNormal style=3D'margin-bottom:12.0pt'><b><span =
+style=3D'font-family:
+"Calibri","sans-serif";color:#002060'>Hi, DorianVasco Nagel&nbsp; =
+</span></b></p>
+
+<p class=3DMsoNormal><b><span =
+style=3D'color:#002060'>I&nbsp;am&nbsp;</span></b><b><span
+style=3D'font-family:"Calibri","sans-serif";color:#002060'>Tom</span><spa=
+n
+style=3D'color:#002060'>,&nbsp;</span></b><b><span =
+style=3D'font-family:"Calibri","sans-serif";
+color:#002060'>Business Development Consultant</span></b></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-family:"Calibri","sans-serif";color:black;
+background:white'>&nbsp;</span></p>
+
+<p class=3DMsoNormal><b><span =
+style=3D'font-family:"Calibri","sans-serif";
+color:#002060'>We have a SEO discount get Google Top
+Ranking!&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></b></p>
+
+<p class=3DMsoNormal><b><span =
+style=3D'font-family:"Calibri","sans-serif";
+color:red'>&nbsp;</span></b></p>
+
+<p class=3DMsoNormal><b><span =
+style=3D'font-family:"Calibri","sans-serif";
+color:red'>Off-Page work activities &quot;Monthly Task and
+responsibilities&quot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></b>=
+</p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-family:"Calibri","sans-serif";color:#002060'>&nbsp;1.&nbsp;=
+
+150 Directory submissions</span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-family:"Calibri","sans-serif";color:#002060'>&nbsp;2.&nbsp;=
+
+60 Social Book marking Submissions</span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-family:"Calibri","sans-serif";color:#002060'>&nbsp;3.&nbsp;=
+
+20 Article Submissions (1 article x 20 article websites)</span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-family:"Calibri","sans-serif";color:#002060'>&nbsp;4.&nbsp;=
+
+10 Press Release Submissions (1 press release x 10 press release =
+websites)</span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-family:"Calibri","sans-serif";color:#002060'>&nbsp;5.&nbsp;=
+
+10 Blog Comments</span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-family:"Calibri","sans-serif";color:#002060'>&nbsp;6.&nbsp;=
+
+1 unique, 400 word article written</span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-family:"Calibri","sans-serif";color:#002060'>&nbsp;7.&nbsp;=
+
+1 unique,400
+word&nbsp;press&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;</span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-family:"Calibri","sans-serif";color:#002060'>&nbsp;8.&nbsp;=
+
+10 Search Engine Submissions</span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-family:"Calibri","sans-serif";color:#002060'>&nbsp;9.&nbsp;=
+
+20+ One Way Directory Link</span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-family:"Calibri","sans-serif";color:#002060'>&nbsp;</span><=
+/p>
+
+<p class=3DMsoNormal><b><span =
+style=3D'font-family:"Calibri","sans-serif";
+color:red'>On-Page work activities &quot;Follow only first =
+month&quot;</span></b></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-family:"Calibri","sans-serif";color:#002060'>&nbsp;1.&nbsp;=
+
+Meta tags/Title tag changes</span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-family:"Calibri","sans-serif";color:#002060'>&nbsp;2.&nbsp;=
+
+Keyword research/Analysis</span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-family:"Calibri","sans-serif";color:#002060'>&nbsp;3.&nbsp;=
+
+Competitor Analysis</span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-family:"Calibri","sans-serif";color:#002060'>&nbsp;4.&nbsp;=
+
+Meta tag changes</span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-family:"Calibri","sans-serif";color:#002060'>&nbsp;5.&nbsp;=
+
+Alt tag changes</span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-family:"Calibri","sans-serif";color:#002060'>&nbsp;6.&nbsp;=
+
+Interlinking required.</span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-family:"Calibri","sans-serif";color:#002060'>&nbsp;7.&nbsp;=
+
+Keyword density in
+site.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-family:"Calibri","sans-serif";color:#002060'>&nbsp;8.&nbsp;=
+
+HTML Site Map</span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-family:"Calibri","sans-serif";color:#002060'>&nbsp;9.&nbsp;=
+
+XML site map and Submission in webmaster tool</span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-family:"Calibri","sans-serif";color:#002060'>10.
+Ror.XML File creation</span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-family:"Calibri","sans-serif";color:#002060'>11.
+Robots.Txt File creation Extra work activities</span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-family:"Calibri","sans-serif";color:#002060'>12.
+Google Webmaster tool</span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-family:"Calibri","sans-serif";color:#002060'>13.
+Google Analytics</span></p>
+
+<p class=3DMsoNormal><b><span =
+style=3D'font-family:"Calibri","sans-serif";
+color:#002060'>&nbsp;</span></b></p>
+
+<p class=3DMsoNormal =
+style=3D'text-align:justify;background:white'><b><span
+style=3D'font-family:"Calibri","sans-serif";color:#F933D3'>Please let me =
+if you
+are interested and I would be happy to share our&nbsp;past work details =
+and
+client Testimonials and Cost.</span></b></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-family:"Calibri","sans-serif";color:#002060'>&nbsp;</span><=
+/p>
+
+<p class=3DMsoNormal><b><span =
+style=3D'font-family:"Calibri","sans-serif";
+color:#002060'>Regards,</span></b></p>
+
+<p class=3DMsoNormal><b><span =
+style=3D'font-family:"Calibri","sans-serif";
+color:#002060'>Tom,<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal><b><span =
+style=3D'font-family:"Calibri","sans-serif";
+color:#002060'>Business Development Consultant</span></b></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+</div>
+
+</body>
+
+</html>
+
+------=_NextPart_000_18F2_01D598D6.97D8AA80--
+

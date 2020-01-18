@@ -1,0 +1,267 @@
+Return-Path: <bounce@drs.nachrichten-mailer.com>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id C8BAED1E52
+	for <mail@dorianvasco.de>; Fri,  4 Oct 2019 02:07:48 +0200 (CEST)
+Authentication-Results: v22014122474822114.stilfilm.com; dkim=pass
+	reason="1024-bit key; insecure key"
+	header.d=drs.nachrichten-mailer.com header.i=@drs.nachrichten-mailer.com
+	header.b=TAQuHoh7; dkim-adsp=pass; dkim-atps=neutral
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 5.907
+X-Spam-Level: *****
+X-Spam-Status: Yes, score=5.907 required=5.5 tests=[BAYES_60=1.5,
+	DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	HTML_MESSAGE=0.001, RAZOR2_CF_RANGE_51_100=1.886, RAZOR2_CHECK=0.922,
+	SPF_HELO_PASS=-0.001, SPF_PASS=-0.001, URIBL_BLACK=1.7] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id jo5V90ZaJaL1 for <mail@dorianvasco.de>;
+	Fri,  4 Oct 2019 02:07:44 +0200 (CEST)
+Received: from smtp.mer67-221.drs.nachrichten-mailer.com (smtp.mer67-221.drs.nachrichten-mailer.com [193.37.67.216])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 38DEDD1E4E
+	for <kontakt@dorianvasco.de>; Fri,  4 Oct 2019 02:07:35 +0200 (CEST)
+Received: from smtp.mer67-221.drs.nachrichten-mailer.com (smtp.mer67-221.drs.nachrichten-mailer.com [193.37.67.216])
+	by smtp.mer67-221.drs.nachrichten-mailer.com (Postfix) with ESMTP id 09C0C621AFB
+	for <kontakt@dorianvasco.de>; Fri,  4 Oct 2019 02:07:32 +0200 (CEST)
+DKIM-Filter: OpenDKIM Filter v2.10.3 smtp.mer67-221.drs.nachrichten-mailer.com 09C0C621AFB
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple;
+	d=drs.nachrichten-mailer.com; s=smtp; t=1570147652;
+	bh=93s2yf62fiT7DFnRYr1E/huFnxlzOFrJ5ardFnIEaH8=;
+	h=Message-ID:Date:Subject:From:Reply-To:To:List-Unsubscribe;
+	b=TAQuHoh7/vQ/itO8sDR7P8ZIFcr48koLF4Lbf+D1GBVGa7QhDp09+fKKGO5sg0zlJ
+	 DT9I3/xHsLnu+iDzZGCwudH1IygYeV71AbQYCZDWLjrdSpWeTra6fvCahXHZ3RdCV9
+	 f4RY4sC/LTDWjEo5X1O1uVdQ6h/S8hl9qBqOICFw=
+Message-ID: <20191004020705.334451084109401975@drs.nachrichten-mailer.com>
+Date: Fri, 04 Oct 2019 02:07:32 +0200
+Subject: =?UTF-8?B?R2VoZWltdGlwcCBkZXIgUHJvbWlzIOKAkyBqZXR6dCBlbnRkZWNrZW4h?=
+From: Sonja von Cocoava <info@drs.nachrichten-mailer.com>
+Reply-To: info@drs.nachrichten-mailer.com
+To: kontakt@dorianvasco.de
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_v4_1570147652_2696e6e80cf018e01189d90279baaad5_=_"
+X-comppict: MTkzLjM3LjY3LjIxNjtrb250YWt0QGRvcmlhbnZhc2NvLmRl
+List-Unsubscribe: <mailto:info@drs.nachrichten-mailer.com>
+
+
+--_=_swift_v4_1570147652_2696e6e80cf018e01189d90279baaad5_=_
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+,
+lebe jetzt den Coco-Lifestyle!
+
+Entdecke mit COCOAVA die unglaubliche Vielfalt der Kokosnuss!
+Ob als t=C3=A4glichen Wachmacher oder unvergleichlich intensive Pflege f=
+=C3=BCr Haut und Haare...
+Coco ist der Lebensstil, den du erleben musst!
+
+Wir bei COCOAVA lieben und leben Coco - und das wirst du auch!
+Sichere dir jetzt und nur f=C3=BCr kurze Zeit eine von hundert exklusiven G=
+eschenkboxen mit unseren begehrtesten Produkten!
+
+DON'T LOVE COCO - LIVE COCO!
+
+Zur GRATIS Geschenkbox(http://drs.nachrichten-mailer.com/j/eyJpZENcsaSI6IjM=
+0NDUiLCJpZENhbXAiOiI4NDE5NDAxIiwiY29kIjoyODI3NjIwMjMsImNhdCI6IjEzNzQzODk1Mz=
+Q3MiIsImNudCI6IkRFVSIsImxpc3QiOiJsaXN0X0RFX0xNX2Ric3RvcmUiLCJlbWFpbCI6Imtvb=
+nRha3RAZG9yaWFudmFzY28uZGUiLCJnZW4iOiIifQ) <table align=3D"center" border=
+=3D"0" cellpadding=3D"6"  cellspacing=3D"1" width=3D"100%" style=3D"max-wid=
+th: 600px;">   <tbody>     <tr>       <td>       <table border=3D"0" cellpa=
+dding=3D"5" cellspacing=3D"0"  width=3D"98%" style=3D"max-width: 588px;">  =
+       <tbody>           <tr>             <td colspan=3D"2">             <d=
+iv align=3D"left"><br>             </div>             <div align=3D"left"><=
+font color=3D"#808080"  face=3D"Verdana" size=3D"1"> <br>  <br> Sie erhalte=
+n diese Nachricht, da Sie sich mit Ihrer E-Mail-Adresse kontakt@dorianvasco=
+.de bei einem Portal oder einem sonstigen Dienst von uns oder einem unserer=
+ Partnerunternehmen angemeldet haben.</font> </div>             </td>      =
+     </tr>            <tr>             <td colspan=3D"2">             <div =
+align=3D"left"><font color=3D"#808080"  face=3D"Verdana"  size=3D"1">Impres=
+sum: BETTER INFORMATION GROUP LTD., 132-134 Great Ancoats Street, Mancheste=
+r, England, M4 6DE<br> Gesch=C3=A4ftsf=C3=BChrer: Reaksa Sary <br> Registra=
+tionsnummer: 10543466<br> Tel:  44 20 3868 3907<br> E-Mail: reply@informati=
+ongroup.co.uk<br/> </font></div>             </td>           </tr><br/>  <t=
+r>             <td colspan=3D"2">             <div align=3D"left"><font col=
+or=3D"#808080"  face=3D"Verdana"  size=3D"1"> Hinweis: Gem=C3=A4=C3=9F der =
+gesetzlichen Anforderungen in =C2=A7 7 Abs. 2 Nr. 3 UWG versendet BETTER IN=
+FORMATION GROUP LTD. diese E-Mail ausschlie=C3=9Flich mit Ihrem Einverst=
+=C3=A4ndnis. Sie k=C3=B6nnen dieses Einverst=C3=A4ndnis jederzeit und ohne =
+Angabe von Gr=C3=BCnden widerrufen.  Die Rechtm=C3=A4=C3=9Figkeit der Werbu=
+ng bis zu Ihrem Widerruf bleibt davon unber=C3=BChrt. Datenschutzhinweis: V=
+erantwortlich ist die BETTER INFORMATION GROUP LTD. Kontakt siehe oben.  Wi=
+r verarbeiten Ihre Daten zum Zwecke der Werbung mit Ihrer Einwilligung (Art=
+. 6 Abs. 1 a, f) DSGVO) und speichern diese bis zum Widerruf und dem Ablauf=
+ von Verj=C3=A4hrungs- und Aufbewahrungsfristen.  Sie haben Rechte auf Ausk=
+unft, Einschr=C3=A4nkung und Widerspruch gegen die Verarbeitung und Daten=
+=C3=BCbertragbarkeit.  </font> </div>             </td>           </tr>    =
+                 <tr>             <td>                         <div align=
+=3D"left"><font color=3D"#808080"  face=3D"Verdana" size=3D"1">Wenn Sie kei=
+ne Newsletter mehr von uns erhalten wollen, klicken Sie <a href=3D" http://=
+drs.nachrichten-mailer.com/c/eyuJpZENsaSI6IjM0NDUiLCJpZENhbXAiOiI4NDE5NDAxI=
+iwiZW1haWwiOiJrb250YWt0QGRvcmlhbnZhc2NvLmRlIiwic2VnIjoiYWZiMjViNmE1NTdlN2Q3=
+MWYwOWZkNGI1ZDgzYzVjY2U1NDI1MDJkYyIsImF0IjoxfQ">hier</a>.</div>            =
+ </td>           </tr>                </table>       </td>     </tr>   </tb=
+ody> http://drs.nachrichten-mailer.com/c/eyuJpZENsaSI6IjM0NDUiLCJpZENhbXAiO=
+iI4NDE5NDAxIiwiZW1haWwiOiJrb250YWt0QGRvcmlhbnZhc2NvLmRlIiwic2VnIjoiYWZiMjVi=
+NmE1NTdlN2Q3MWYwOWZkNGI1ZDgzYzVjY2U1NDI1MDJkYyIsImF0IjoxfQ=20
+
+--_=_swift_v4_1570147652_2696e6e80cf018e01189d90279baaad5_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: base64
+
+PGh0bWwgbGFuZz0iZW4iIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hodG1sIiB4bWxu
+czpvPSJ1cm46c2NoZW1hcy1taWNyb3NvZnQtY29tOm9mZmljZTpvZmZpY2UiIHhtbG5zOnY9InVy
+bjpzY2hlbWFzLW1pY3Jvc29mdC1jb206dm1sIj4KPGhlYWQ+CjxtZXRhIGh0dHAtZXF1aXY9IkNv
+bnRlbnQtVHlwZSIgY29udGVudD0idGV4dC9odG1sOyBjaGFyc2V0PXV0Zi04IiAvPjwhLS0gdXRm
+LTggd29ya3MgZm9yIG1vc3QgY2FzZXMgLS0+CjxtZXRhIGNvbnRlbnQ9IndpZHRoPWRldmljZS13
+aWR0aCIgbmFtZT0idmlld3BvcnQiIC8+PCEtLSBGb3JjaW5nIGluaXRpYWwtc2NhbGUgc2hvdWxk
+bid0IGJlIG5lY2Vzc2FyeSAtLT4KPG1ldGEgY29udGVudD0iSUU9ZWRnZSIgaHR0cC1lcXVpdj0i
+WC1VQS1Db21wYXRpYmxlIiAvPjwhLS0gVXNlIHRoZSBsYXRlc3QgKGVkZ2UpIHZlcnNpb24gb2Yg
+SUUgcmVuZGVyaW5nIGVuZ2luZSAtLT4KPG1ldGEgbmFtZT0ieC1hcHBsZS1kaXNhYmxlLW1lc3Nh
+Z2UtcmVmb3JtYXR0aW5nIiAvPjwhLS0gRGlzYWJsZSBhdXRvLXNjYWxlIGluIGlPUyAxMCBNYWls
+IGVudGlyZWx5IC0tPgo8dGl0bGU+Q09DT0FWQTwvdGl0bGU+CjwhLS0gVGhlIHRpdGxlIHRhZyBz
+aG93cyBpbiBlbWFpbCBub3RpZmljYXRpb25zLCBsaWtlIEFuZHJvaWQgNC40LiAtLT4KPGxpbmsg
+aHJlZj0iaHR0cHM6Ly9mb250cy5nb29nbGVhcGlzLmNvbS9jc3M/ZmFtaWx5PU9yZWdhbm86NDAw
+LDQwMGkmZGlzcGxheT1zd2FwIiByZWw9InN0eWxlc2hlZXQiIHR5cGU9InRleHQvY3NzIiAvPgo8
+c3R5bGUgZW1vZ3JpZnk9Im5vIiB0eXBlPSJ0ZXh0L2NzcyI+Ci8qPCFbQ0RBVEFbKi8KKiB7CmZv
+bnQtZmFtaWx5OiAnT3JlZ2FubycsIGN1cnNpdmU7Cn0KCkBtZWRpYSAobWF4LWRldmljZS13aWR0
+aDogNzY4cHgpIHsKCnV+ZGl2IC5lbWFpbC1jb250YWluZXIsCi5idXR0b24sCmltZyB7CndpZHRo
+OiAxMDAlICFpbXBvcnRhbnQ7Cn0KfQovKl1dPiovCjwvc3R5bGU+CjwvaGVhZD4KPGJvZHkgc3R5
+bGU9Im1hcmdpbjogMDsgcGFkZGluZzogMCAhaW1wb3J0YW50OyBtc28tbGluZS1oZWlnaHQtcnVs
+ZTogZXhhY3RseTsiIHdpZHRoPSIxMDAlIj4KCgo8dGFibGUgd2lkdGg9JzEwMCUnIGNlbGxwYWRk
+aW5nPScwJyBjZWxsc3BhY2luZz0nMic+Cjx0ciB3aWR0aD0nMTAwJScgc3R5bGU9J2ZvbnQtc2l6
+ZToxMXB4OyBjb2xvcjojMzMzMzMzJz4KPHRkIGFsaW5nPSdjZW50ZXInIHN0eWxlPSd3aWR0aDow
+cHgnPjwvdGQ+Cjx0ZCBzdHlsZT0idGV4dC1hbGlnbjpjZW50ZXIiPldlbm4gU2llIGRpZXNlIEVt
+YWlsIG5pY2h0IGxlc2VuIGvDtm5uZW4sIGtsaWNrZW4gU2llIGJpdHRlIDxiPjxhIGhyZWY9J2h0
+dHA6Ly9kcnMubmFjaHJpY2h0ZW4tbWFpbGVyLmNvbS9tL2V5SnBabUVNaU9pSXpORFExSWl3aWFX
+UWlPaUk0TkRFNU5EQXhJaXdpWlNJNkltdHZiblJoYTNSQVpHOXlhV0Z1ZG1GelkyOHVaR1VpTENK
+c0lqb2liR2x6ZEY5RVJWOU1UVjlrWW5OMGIzSmxJbjAnIHN0eWxlPSd0ZXh0LWRlY29yYXRpb246
+bm9uZTsgY29sb3I6IzI1YTlkZjsnPmhpZXI8L2E+PC9iPjwvdGQ+CjwvdHI+CjwvdGFibGU+CgoK
+CgoKPGltZyBzcmM9Imh0dHA6Ly9kcnMubmFjaHJpY2h0ZW4tbWFpbGVyLmNvbS91L2V5SnB2WkVO
+c2FTSTZJak0wTkRVaUxDSnBaRU5oYlhBaU9pSTROREU1TkRBeElpd2lZMjlrSWpvaU9EUXhPVFF3
+TVNJc0ltTmhkQ0k2SWpFek56UXpPRGsxTXpRM01pSXNJbU51ZENJNklrUkZWU0lzSW1WdFlXbHNJ
+am9pYTI5dWRHRnJkRUJrYjNKcFlXNTJZWE5qYnk1a1pTSXNJbXhwYzNRaU9pSnNhWE4wWDBSRlgw
+eE5YMlJpYzNSdmNtVWlMQ0puWlc0aU9pSWlmUSIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZGF0YS1h
+bHQ9Ijg0MTk0MDEiIC8+CjxjZW50ZXIgc3R5bGU9IndpZHRoOiAxMDAlOyBiYWNrZ3JvdW5kLWNv
+bG9yOiAjZjFmMWYxO2NvbG9yOiByZ2IoNDgsIDMsIDMpO2ZvbnQtd2VpZ2h0OiBib2xkZXIiPgo8
+ZGl2IGNsYXNzPSJlbWFpbC1jb250YWluZXIiIHN0eWxlPSJtYXgtd2lkdGg6IDY1MHB4OyBtYXJn
+aW46IDAgYXV0bzsiPjwhLS0gQkVHSU4gQk9EWSAtLT4KPHRhYmxlIGFsaWduPSJjZW50ZXIiIGJv
+cmRlcj0iMCIgY2VsbHBhZGRpbmc9IjAiIGNlbGxzcGFjaW5nPSIwIiByb2xlPSJwcmVzZW50YXRp
+b24iIHdpZHRoPSIxMDAlIj4KCjx0cj4KPHRkIGFsaWduPSJjZW50ZXIiIHN0eWxlPSJtYXJnaW46
+IGF1dG87IGJhY2tncm91bmQtaW1hZ2U6IHVybChodHRwOi8vZHJzLm5hY2hyaWNodGVuLW1haWxl
+ci5jb20vaW1nLzI1MGM5ZDQ4ZTVhMTg0NWRmN2UwMDhkMzE1YTI4OTU1ZmNjYzk1Mzc1ODk5NmRj
+ZWRmOTFjZDUzZWRkMTBiYTc2YmVlMjhjOGM2NjBlOTI0ZDBmZGJjMDA3ODdjZDhhYy5qcGcpOyBi
+YWNrZ3JvdW5kLXNpemU6IGNvdmVyOyBiYWNrZ3JvdW5kLXJlcGVhdDogbm8tcmVwZWF0OyBiYWNr
+Z3JvdW5kLXBvc2l0aW9uOiB0b3AiIHdpZHRoPSI2NTAiPjwhLS1baWYgbXNvXT4KPHY6cmVjdCB4
+bWxuczp2PSJ1cm46c2NoZW1hcy1taWNyb3NvZnQtY29tOnZtbCIgZmlsbD0idHJ1ZSIgc3Ryb2tl
+PSJmYWxzZSIgc3R5bGU9IndpZHRoOjY1MHB4O2hlaWdodDo5NzlweCI+Cjx2OmZpbGwgdHlwZT0i
+dGlsZSIgc3JjPSdodHRwOi8vZHJzLm5hY2hyaWNodGVuLW1haWxlci5jb20vaW1nLzI1MGM5ZDQ4
+ZTVhMTg0NWRmN2UwMDhkMzE1YTI4OTU1ZmNjYzk1Mzc1ODk5NmRjZWRmOTFjZDUzZWRkMTBiYTc2
+YmVlMjhjOGM2NjBlOTI0ZDBmZGJjMDA3ODdjZDhhYy5qcGcnIGNvbG9yPSIjN2JjZWViIiAvPgo8
+djp0ZXh0Ym94IHN0eWxlPSJtc28tZml0LXNoYXBlLXRvLXRleHQ6IHRydWUiIGluc2V0PSIwLDAs
+MCwwIj4KPCFbZW5kaWZdLS0+CjxkaXY+Cjx0YWJsZSBhbGlnbj0iY2VudGVyIiBib3JkZXI9IjAi
+IGNlbGxwYWRkaW5nPSIwIiBjZWxsc3BhY2luZz0iMCIgcm9sZT0icHJlc2VudGF0aW9uIiB3aWR0
+aD0iMTAwJSI+Cgo8dHI+Cjx0ZCBhbGlnbj0iY2VudGVyIiB3aWR0aD0iMTAwJSI+Cjx0YWJsZT4K
+Cjx0cj4KPHRkIGFsaWduPSJjZW50ZXIiIGNsYXNzPSJidXR0b24iPjxzcGFuIHN0eWxlPSJmb250
+LWZhbWlseTogT3JlZ2FubywgUGFsYXRpbm8gTGlub3R5cGUsIHNlcmlmOyBmb250LXNpemU6IDE2
+MCU7bGluZS1oZWlnaHQ6IDEuM2VtOyBmb250LXdlaWdodDogYm9sZGVyIj4sPC9zcGFuPjxiciAv
+Pgo8c3BhbiBzdHlsZT0iZm9udC1mYW1pbHk6IE9yZWdhbm8sIFBhbGF0aW5vIExpbm90eXBlLCBz
+ZXJpZjsgZm9udC1zaXplOiAxMjAlO2xpbmUtaGVpZ2h0OiAxLjNlbSI+bGViZSBqZXR6dCBkZW4g
+Q29jby1MaWZlc3R5bGUhPGJyIC8+CjxiciAvPgpFbnRkZWNrZSBtaXQgQ09DT0FWQSBkaWUgdW5n
+bGF1YmxpY2hlIFZpZWxmYWx0IGRlciBLb2tvc251c3MhPGJyIC8+Ck9iIGFscyB0JmF1bWw7Z2xp
+Y2hlbiBXYWNobWFjaGVyIG9kZXIgdW52ZXJnbGVpY2hsaWNoIGludGVuc2l2ZSBQZmxlZ2UgZiZ1
+dW1sO3IgSGF1dCB1bmQgSGFhcmUuLi48YnIgLz4KQ29jbyBpc3QgZGVyIExlYmVuc3N0aWwsIGRl
+biBkdSBlcmxlYmVuIG11c3N0ITxiciAvPgo8YnIgLz4KV2lyIGJlaSBDT0NPQVZBIGxpZWJlbiB1
+bmQgbGViZW4gQ29jbyAtIHVuZCBkYXMgd2lyc3QgZHUgYXVjaCE8YnIgLz4KU2ljaGVyZSBkaXIg
+amV0enQgdW5kIG51ciBmJnV1bWw7ciBrdXJ6ZSBaZWl0IGVpbmUgdm9uIGh1bmRlcnQgZXhrbHVz
+aXZlbiBHZXNjaGVua2JveGVuIG1pdCB1bnNlcmVuIGJlZ2VocnRlc3RlbiBQcm9kdWt0ZW4hPC9z
+cGFuPjxiciAvPgombmJzcDs8L3RkPgo8L3RyPgo8dHI+Cjx0ZD4KPHRhYmxlIGFsaWduPSJjZW50
+ZXIiIGJvcmRlcj0iMCIgY2VsbHBhZGRpbmc9IjAiIGNlbGxzcGFjaW5nPSIwIiBzdHlsZT0iYm9y
+ZGVyLWNvbGxhcHNlOiBjb2xsYXBzZTsiIHdpZHRoPSIxMDAlIj4KCjx0cj4KPHRkPiZuYnNwOzwv
+dGQ+Cjx0ZCBhbGlnbj0iY2VudGVyIiBjbGFzcz0iYnV0dG9uIiB3aWR0aD0iOTAlIj48c3BhbiBz
+dHlsZT0iZm9udC1mYW1pbHk6IE9yZWdhbm8sIFBhbGF0aW5vIExpbm90eXBlLCBzZXJpZjsgZm9u
+dC1zaXplOiAxNTAlO2xpbmUtaGVpZ2h0OiAxLjNlbTsgZm9udC13ZWlnaHQ6IGJvbGRlciI+RE9O
+J1QgTE9WRSBDT0NPIC0gTElWRSBDT0NPITwvc3Bhbj48L3RkPgo8dGQ+Jm5ic3A7PC90ZD4KPC90
+cj4KCjwvdGFibGU+CjwvdGQ+CjwvdHI+Cjx0cj4KPHRkPgo8dGFibGUgYWxpZ249ImNlbnRlciIg
+Ym9yZGVyPSIwIiBjZWxscGFkZGluZz0iMCIgY2VsbHNwYWNpbmc9IjAiIHN0eWxlPSJib3JkZXIt
+Y29sbGFwc2U6IGNvbGxhcHNlOyIgd2lkdGg9IjEwMCUiPgoKPHRyPgo8dGQ+Jm5ic3A7PC90ZD4K
+PHRkIGFsaWduPSJjZW50ZXIiIGJnY29sb3I9IiNBMDQxMEQiIGNsYXNzPSJidXR0b24iIGhlaWdo
+dD0iNTAiIHdpZHRoPSI2MCUiPjwhLS1CVVRUT04tLT48YSBocmVmPSJodHRwOi8vZHJzLm5hY2hy
+aWNodGVuLW1haWxlci5jb20vdS9leUpwY1pFTnNhU0k2SWpNME5EVWlMQ0pwWkVOaGJYQWlPaUk0
+TkRFNU5EQXhJaXdpWTI5a0lqb3lPREkzTmpJd01qZ3NJbU5oZENJNklqRXpOelF6T0RrMU16UTNN
+aUlzSW1OdWRDSTZJa1JGVlNJc0lteHBjM1FpT2lKc2FYTjBYMFJGWDB4TlgyUmljM1J2Y21VaUxD
+SmxiV0ZwYkNJNkltdHZiblJoYTNSQVpHOXlhV0Z1ZG1GelkyOHVaR1VpTENKblpXNGlPaUlpZlEi
+IHN0eWxlPSItd2Via2l0LXRleHQtc2l6ZS1hZGp1c3Q6IG5vbmU7IHRleHQtZGVjb3JhdGlvbjog
+bm9uZTsgZGlzcGxheTogaW5saW5lLWJsb2NrOyBjb2xvcjogI2ZmZmZmZjsgZm9udC1mYW1pbHk6
+IE9yZWdhbm8sIFBhbGF0aW5vIExpbm90eXBlLCBzZXJpZjsgZm9udC1zaXplOiAyMXB4OyB0ZXh0
+LWFsaWduOiBjZW50ZXI7IG1zby1ib3JkZXItYWx0OiBub25lOyB3b3JkLWJyZWFrOiBrZWVwLWFs
+bDsiIHRhcmdldD0iX2JsYW5rIj5adXIgR1JBVElTIEdlc2NoZW5rYm94PC9hPiA8IS0tQlVUVE9O
+IEVORC0tPjwvdGQ+Cjx0ZD4mbmJzcDs8L3RkPgo8L3RyPgoKPC90YWJsZT4KPCEtLUJ1dHRvbiBl
+bmQtLT48L3RkPgo8L3RyPgo8dHI+Cjx0ZCBhbGlnbj0iY2VudGVyIj48aW1nIGFsdD0iIiBzcmM9
+J2h0dHA6Ly9kcnMubmFjaHJpY2h0ZW4tbWFpbGVyLmNvbS9pbWcvY2IyNmNjMzY1M2M0NGJkNzdi
+Nzg0NTA0NmE1MDIzOWMyMjY4NjA2MDNiYzdlNzRjZGUwNjY1ZjQzNjUyY2Y2M2NiMjc0MzQxZjI0
+OWJkZjM0MDg3MTA5NTA1MzdkNjA1LnBuZycgc3R5bGU9ImRpc3BsYXk6IGJsb2NrIiB3aWR0aD0i
+NjUwIiAvPjwvdGQ+CjwvdHI+Cgo8L3RhYmxlPgo8L3RkPgo8L3RyPgoKPC90YWJsZT4KPC9kaXY+
+CjwhLS1baWYgbXNvXT4KPC92OnRleHRib3g+CjwvdjpyZWN0Pgo8IVtlbmRpZl0tLT48L3RkPgo8
+L3RyPgoKPC90YWJsZT4KPC9kaXY+CjwvY2VudGVyPgoKCjxjZW50ZXI+PHRhYmxlIHN0eWxlPSJt
+YXgtd2lkdGg6IDYwMHB4OyIgYm9yZGVyPSIwIiB3aWR0aD0iMTAwJSIgY2VsbHNwYWNpbmc9IjEi
+IGNlbGxwYWRkaW5nPSI2IiBhbGlnbj0iY2VudGVyIj4KPHRib2R5Pgo8dHI+Cjx0ZD4KPHRhYmxl
+IHN0eWxlPSJtYXgtd2lkdGg6IDU4OHB4OyIgYm9yZGVyPSIwIiB3aWR0aD0iOTglIiBjZWxsc3Bh
+Y2luZz0iMCIgY2VsbHBhZGRpbmc9IjUiPgo8dGJvZHk+Cjx0cj4KPHRkIHN0eWxlPSJ0ZXh0LWFs
+aWduOiBjZW50ZXI7IiBjb2xzcGFuPSIyIj4KPGRpdiBhbGlnbj0ibGVmdCI+wqA8L2Rpdj4KPGRp
+diBzdHlsZT0idGV4dC1hbGlnbjogY2VudGVyOyIgYWxpZ249ImxlZnQiPjxzcGFuIHN0eWxlPSJj
+b2xvcjogIzgwODA4MDsgZm9udC1mYW1pbHk6IFZlcmRhbmE7IGZvbnQtc2l6ZTogeHgtc21hbGw7
+Ij4gPGJyIC8+IDxiciAvPiBTaWUgZXJoYWx0ZW4gZGllc2UgTmFjaHJpY2h0LCBkYSBTaWUgc2lj
+aCBtaXQgSWhyZXIgRS1NYWlsLUFkcmVzc2Uga29udGFrdEBkb3JpYW52YXNjby5kZSBiZWkgZWlu
+ZW0gUG9ydGFsIG9kZXIgZWluZW0gc29uc3RpZ2VuIERpZW5zdCB2b24gdW5zIG9kZXIgZWluZW0g
+dW5zZXJlciBQYXJ0bmVydW50ZXJuZWhtZW4gYW5nZW1lbGRldCBoYWJlbi48L3NwYW4+PC9kaXY+
+CjwvdGQ+CjwvdHI+Cjx0cj4KPHRkIHN0eWxlPSJ0ZXh0LWFsaWduOiBjZW50ZXI7IiBjb2xzcGFu
+PSIyIj4KPGRpdiBzdHlsZT0idGV4dC1hbGlnbjogY2VudGVyOyIgYWxpZ249ImxlZnQiPjxzcGFu
+IHN0eWxlPSJjb2xvcjogIzgwODA4MDsgZm9udC1mYW1pbHk6IFZlcmRhbmE7IGZvbnQtc2l6ZTog
+eHgtc21hbGw7Ij5JbXByZXNzdW06IEJFVFRFUiBJTkZPUk1BVElPTiBHUk9VUCBMVEQuLCAxMzIt
+MTM0IEdyZWF0IEFuY29hdHMgU3RyZWV0LCBNYW5jaGVzdGVyLCBFbmdsYW5kLCBNNCA2REU8YnIg
+Lz4gR2VzY2jDpGZ0c2bDvGhyZXI6IFJlYWtzYSBTYXJ5IDxiciAvPiBSZWdpc3RyYXRpb25zbnVt
+bWVyOiAxMDU0MzQ2NjxiciAvPiBUZWw6ICA0NCAyMCAzODY4IDM5MDc8YnIgLz4gRS1NYWlsOiBy
+ZXBseUBpbmZvcm1hdGlvbmdyb3VwLmNvLnVrPGJyIC8+IDwvc3Bhbj48L2Rpdj4KPC90ZD4KPC90
+cj4KPHRyPgo8dGQgc3R5bGU9InRleHQtYWxpZ246IGNlbnRlcjsiIGNvbHNwYW49IjIiPgo8ZGl2
+IHN0eWxlPSJ0ZXh0LWFsaWduOiBjZW50ZXI7IiBhbGlnbj0ibGVmdCI+PHNwYW4gc3R5bGU9ImNv
+bG9yOiAjODA4MDgwOyBmb250LWZhbWlseTogVmVyZGFuYTsgZm9udC1zaXplOiB4eC1zbWFsbDsi
+PiBIaW53ZWlzOiBHZW3DpMOfIGRlciBnZXNldHpsaWNoZW4gQW5mb3JkZXJ1bmdlbiBpbiDCpyA3
+IEFicy4gMiBOci4gMyBVV0cgdmVyc2VuZGV0IEJFVFRFUiBJTkZPUk1BVElPTiBHUk9VUCBMVEQu
+IGRpZXNlIEUtTWFpbCBhdXNzY2hsaWXDn2xpY2ggbWl0IElocmVtIEVpbnZlcnN0w6RuZG5pcy4g
+U2llIGvDtm5uZW4gZGllc2VzIEVpbnZlcnN0w6RuZG5pcyBqZWRlcnplaXQgdW5kIG9obmUgQW5n
+YWJlIHZvbiBHcsO8bmRlbiB3aWRlcnJ1ZmVuLiBEaWUgUmVjaHRtw6TDn2lna2VpdCBkZXIgV2Vy
+YnVuZyBiaXMgenUgSWhyZW0gV2lkZXJydWYgYmxlaWJ0IGRhdm9uIHVuYmVyw7xocnQuIERhdGVu
+c2NodXR6aGlud2VpczogVmVyYW50d29ydGxpY2ggaXN0IGRpZSBGaXJtYSBCRVRURVIgSU5GT1JN
+QVRJT04gR1JPVVAgTFRELiBLb250YWt0IHNpZWhlIG9iZW4uIFdpciB2ZXJhcmJlaXRlbiBJaHJl
+IERhdGVuIHp1bSBad2Vja2UgZGVyIFdlcmJ1bmcgbWl0IElocmVyIEVpbndpbGxpZ3VuZyAoQXJ0
+LiA2IEFicy4gMSBhLCBmKSBEU0dWTykgdW5kIHNwZWljaGVybiBkaWVzZSBiaXMgenVtIFdpZGVy
+cnVmIHVuZCBkZW0gQWJsYXVmIHZvbiBWZXJqw6RocnVuZ3MtIHVuZCBBdWZiZXdhaHJ1bmdzZnJp
+c3Rlbi4gU2llIGhhYmVuIFJlY2h0ZSBhdWYgQXVza3VuZnQsIEVpbnNjaHLDpG5rdW5nIHVuZCBX
+aWRlcnNwcnVjaCBnZWdlbiBkaWUgVmVyYXJiZWl0dW5nIHVuZCBEYXRlbsO8YmVydHJhZ2Jhcmtl
+aXQuIDwvc3Bhbj48L2Rpdj4KPC90ZD4KPC90cj4KPHRyPgo8dGQgc3R5bGU9InRleHQtYWxpZ246
+IGNlbnRlcjsiPgo8ZGl2IHN0eWxlPSJ0ZXh0LWFsaWduOiBjZW50ZXI7IiBhbGlnbj0ibGVmdCI+
+PHNwYW4gc3R5bGU9ImNvbG9yOiAjODA4MDgwOyBmb250LWZhbWlseTogVmVyZGFuYTsgZm9udC1z
+aXplOiB4eC1zbWFsbDsiPldlbm4gU2llIGtlaW5lIE5ld3NsZXR0ZXIgbWVociB2b24gdW5zIGVy
+aGFsdGVuIHdvbGxlbiwga2xpY2tlbiBTaWUgPGEgaHJlZj0iCmh0dHA6Ly9kcnMubmFjaHJpY2h0
+ZW4tbWFpbGVyLmNvbS9jL2V5dUpwWkVOc2FTSTZJak0wTkRVaUxDSnBaRU5oYlhBaU9pSTROREU1
+TkRBeElpd2laVzFoYVd3aU9pSnJiMjUwWVd0MFFHUnZjbWxoYm5aaGMyTnZMbVJsSWl3aWMyVm5J
+am9pWVdaaU1qVmlObUUxTlRkbE4yUTNNV1l3T1daa05HSTFaRGd6WXpWalkyVTFOREkxTURKa1l5
+SXNJbUYwSWpveGZRIj5oaWVyPC9hPi48L3NwYW4+PC9kaXY+CjwvdGQ+CjwvdHI+CjwvdGJvZHk+
+CjwvdGFibGU+CjwvdGQ+CjwvdHI+CjwvdGJvZHk+CjwvdGFibGU+PC9jZW50ZXI+CgoKPHRhYmxl
+IHdpZHRoPScxMDAlJyBjZWxscGFkZGluZz0nMCcgY2VsbHNwYWNpbmc9JzInPgo8dHIgYWxpZ249
+J2NlbnRlcicgd2lkdGg9JzEwMCUnIHN0eWxlPSdmb250LXNpemU6MTFweDsgY29sb3I6I19fIHVu
+c3Vic2NyaWJlX3RleHRfY29sb3JfXyc+Cjx0ZCAgc3R5bGU9InRleHQtYWxpZ246Y2VudGVyOyBj
+b2xvcjojMzMzMzMzIiB3aWR0aD0nMTAwJSc+PGI+PGEgaHJlZj0naHR0cDovL2Rycy5uYWNocmlj
+aHRlbi1tYWlsZXIuY29tL2MvZXl1SnBaRU5zYVNJNklqTTBORFVpTENKcFpFTmhiWEFpT2lJNE5E
+RTVOREF4SWl3aVpXMWhhV3dpT2lKcmIyNTBZV3QwUUdSdmNtbGhiblpoYzJOdkxtUmxJaXdpYzJW
+bklqb2lZV1ppTWpWaU5tRTFOVGRsTjJRM01XWXdPV1prTkdJMVpEZ3pZelZqWTJVMU5ESTFNREpr
+WXlJc0ltRjBJam94ZlEnIHN0eWxlPSd0ZXh0LWRlY29yYXRpb246bm9uZTsgY29sb3I6IzI1YTlk
+ZjsnPjwvYT48L2I+PC90ZD4KPC90cj4KPC90YWJsZT4KCgo8dGFibGUgd2lkdGg9JzEwMCUnPgo8
+dHIgd2lkdGg9JzEwMCUnIHN0eWxlPSdmb250LXNpemU6MTFweCc+Cjx0ZCBhbGlnbj0nY2VudGVy
+Jz48L3RkPgo8L3RyPgo8L3RhYmxlPgoKCjwvYm9keT4KPC9odG1sPgo=
+
+--_=_swift_v4_1570147652_2696e6e80cf018e01189d90279baaad5_=_--
+

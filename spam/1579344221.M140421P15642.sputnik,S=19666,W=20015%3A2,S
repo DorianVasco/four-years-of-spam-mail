@@ -1,0 +1,349 @@
+Return-Path: <no_reply@bodalgo.com>
+Delivered-To: mail@stilfilm.com
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 4C34CC2672
+	for <mail@stilfilm.com>; Wed, 10 Jan 2018 17:28:24 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: 2.263
+X-Spam-Level: **
+X-Spam-Status: No, score=2.263 required=5.5 tests=[HTML_MESSAGE=0.001,
+	INVALID_MSGID=1.167, MIME_HTML_ONLY=1.105, RCVD_IN_DNSWL_NONE=-0.0001,
+	SPF_PASS=-0.001, T_RP_MATCHES_RCVD=-0.01, URIBL_BLOCKED=0.001]
+	autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id E0Z7Fjezv2nr for <mail@stilfilm.com>;
+	Wed, 10 Jan 2018 17:28:10 +0100 (CET)
+Received: from mail2.bodalgo.com (mail2.bodalgo.com [46.232.189.5])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 31EB1C0061
+	for <mail@stilfilm.com>; Wed, 10 Jan 2018 17:28:01 +0100 (CET)
+Received: from www.bodalgo.com (bodalgo.isp-access.de [46.232.185.210])
+	by mail2.bodalgo.com (Postfix) with ESMTPA id 45386A123F
+	for <mail@stilfilm.com>; Wed, 10 Jan 2018 17:28:01 +0100 (CET)
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+From: bodalgo <no_reply@bodalgo.com>
+Date: Wed, 10 Jan 2018 17:27:47 +0100
+To: <mail@stilfilm.com>
+Message-Id: 1515601681-bf51aec04af0e31b4f00e6a8781ec335@mail2.bodalgo.com
+Subject: =?UTF-8?B?Q29uc3RydWN0aXZlIGNyaXRpY2lzbQ==?=
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>bodalgo.com</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta name="viewport" content="width=device-width">
+	<style type="text/css">
+
+body, table.body, h1, h2, h3, h4, h5, h6, p, td { 
+  color: #222222;
+  font-family: "Helvetica", "Arial", sans-serif; 
+  font-weight: normal; 
+  padding:0; 
+  Margin: 0;
+  text-align: left; 
+  line-height: 1.3;
+}
+
+h2,h3,h4 {
+  color:#00739c;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  word-break: normal;
+}
+
+h1 {font-size: 40px;}
+h2 {font-size: 36px;}
+h3 {font-size: 24px;}
+h4 {font-size: 18px;}
+h5 {font-size: 14px;}
+h6 {font-size: 10px;}
+
+a {
+  color: #2ba6cb; 
+  text-decoration: none;
+}
+
+a:hover { 
+  color: #2795b6 !important;
+}
+
+a:active { 
+  color: #2795b6 !important;
+}
+
+a:visited { 
+  color: #2ba6cb !important;
+}
+
+/*  Media Queries */
+
+@media only screen and (max-width: 600px) {
+
+  table[class="body"] center {
+    min-width: 0 !important;
+  }
+
+  table[class="body"] .container {
+    width: 95% !important;
+  }
+
+  table[class="body"] .row {
+    width: 100% !important;
+    display: block !important;
+  }
+
+  table[class="body"] .wrapper {
+    display: block !important;
+    padding-right: 0 !important;
+  }
+
+  table[class="body"] .columns,
+  table[class="body"] .column {
+    table-layout: fixed !important;
+    float: none !important;
+    width: 100% !important;
+    padding-right: 0px !important;
+    padding-left: 0px !important;
+    display: block !important;
+  }
+
+  table[class="body"] .wrapper.first .columns,
+  table[class="body"] .wrapper.first .column {
+    display: table !important;
+  }
+
+  table[class="body"] table.columns td,
+  table[class="body"] table.column td {
+    width: 100% !important;
+  }
+
+  table[class="body"] .columns td.one,
+  table[class="body"] .column td.one { width: 8.333333% !important; }
+  table[class="body"] .columns td.two,
+  table[class="body"] .column td.two { width: 16.666666% !important; }
+  table[class="body"] .columns td.three,
+  table[class="body"] .column td.three { width: 25% !important; }
+  table[class="body"] .columns td.four,
+  table[class="body"] .column td.four { width: 33.333333% !important; }
+  table[class="body"] .columns td.five,
+  table[class="body"] .column td.five { width: 41.666666% !important; }
+  table[class="body"] .columns td.six,
+  table[class="body"] .column td.six { width: 50% !important; }
+  table[class="body"] .columns td.seven,
+  table[class="body"] .column td.seven { width: 58.333333% !important; }
+  table[class="body"] .columns td.eight,
+  table[class="body"] .column td.eight { width: 66.666666% !important; }
+  table[class="body"] .columns td.nine,
+  table[class="body"] .column td.nine { width: 75% !important; }
+  table[class="body"] .columns td.ten,
+  table[class="body"] .column td.ten { width: 83.333333% !important; }
+  table[class="body"] .columns td.eleven,
+  table[class="body"] .column td.eleven { width: 91.666666% !important; }
+  table[class="body"] .columns td.twelve,
+  table[class="body"] .column td.twelve { width: 100% !important; }
+
+  table[class="body"] td.offset-by-one,
+  table[class="body"] td.offset-by-two,
+  table[class="body"] td.offset-by-three,
+  table[class="body"] td.offset-by-four,
+  table[class="body"] td.offset-by-five,
+  table[class="body"] td.offset-by-six,
+  table[class="body"] td.offset-by-seven,
+  table[class="body"] td.offset-by-eight,
+  table[class="body"] td.offset-by-nine,
+  table[class="body"] td.offset-by-ten,
+  table[class="body"] td.offset-by-eleven {
+    padding-left: 0 !important;
+  }
+
+  table[class="body"] table.columns td.expander {
+    width: 1px !important;
+  }
+
+  table[class="body"] .right-text-pad,
+  table[class="body"] .text-pad-right {
+    padding-left: 10px !important;
+  }
+
+  table[class="body"] .left-text-pad,
+  table[class="body"] .text-pad-left {
+    padding-right: 10px !important;
+  }
+
+  table[class="body"] .hide-for-small,
+  table[class="body"] .show-for-desktop {
+    display: none !important;
+  }
+
+  table[class="body"] .show-for-small,
+  table[class="body"] .hide-for-desktop {
+    display: inherit !important;
+  }
+}
+
+  </style>
+  <style type="text/css">
+
+    .template-label {
+      color: #ffffff;
+      font-weight: bold;
+      font-size: 11px;
+    }
+
+    .callout .panel {
+      background: #ECF8FF;
+      border-color: #b9e5ff;
+    }
+
+    .header {
+	background-color: #045D7B;
+	border-bottom: 1px solid #247D9B;
+    }
+
+	.container-main {
+	}
+    .footer {
+	border-top:1px solid #ccc;
+	background-color: #ebebeb;
+    }
+
+    .footer .wrapper {
+      background: #ebebeb;
+    }
+
+    .footer h5 {
+      padding-bottom: 10px;
+    }
+
+    table.columns .text-pad {
+      padding-left: 10px;
+      padding-right: 10px;
+    }
+
+    table.columns .left-text-pad {
+      padding-left: 10px;
+    }
+
+    table.columns .right-text-pad {
+      padding-right: 10px;
+    }
+
+    @media only screen and (max-width: 600px) {
+
+      table[class="body"] .right-text-pad {
+        padding-left: 10px !important;
+      }
+
+      table[class="body"] .left-text-pad {
+        padding-right: 10px !important;
+      }
+    }
+
+  </style>
+</head>
+<body style="min-width: 100%;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;margin: 0;padding: 0;color: #222222;font-family: &quot;Helvetica&quot;, &quot;Arial&quot;, sans-serif;font-weight: normal;text-align: left;line-height: 19px;font-size: 14px;width: 100% !important;">
+	<table class="body" style="border-spacing: 0;border-collapse: collapse;padding: 0;vertical-align: top;text-align: left;height: 100%;width: 100%;color: #222222;font-family: &quot;Helvetica&quot;, &quot;Arial&quot;, sans-serif;font-weight: normal;margin: 0;line-height: 19px;font-size: 14px;">
+		<tr style="padding: 0;vertical-align: top;text-align: left;">
+		<td class="center" align="center" valign="top" style="word-break: break-word;padding: 0;vertical-align: top;text-align: center;color: #222222;font-family: &quot;Helvetica&quot;, &quot;Arial&quot;, sans-serif;font-weight: normal;margin: 0;line-height: 19px;font-size: 14px;border-collapse: collapse !important;">
+          <table class="row header" style="border-spacing: 0;border-collapse: collapse;padding: 0px;vertical-align: top;text-align: left;background-color: #045D7B;border-bottom: 1px solid #247D9B;width: 100%;position: relative;">
+            <tr style="padding: 0;vertical-align: top;text-align: left;">
+              <td class="center" align="center" style="word-break: break-word;padding: 0;vertical-align: top;text-align: center;color: #222222;font-family: &quot;Helvetica&quot;, &quot;Arial&quot;, sans-serif;font-weight: normal;margin: 0;line-height: 19px;font-size: 14px;border-collapse: collapse !important;">
+                  <table class="container" style="border-spacing: 0;border-collapse: collapse;padding: 0;vertical-align: top;text-align: inherit;width: 580px;margin: 0 auto;">
+                    <tr style="padding: 0;vertical-align: top;text-align: left;">
+                      <td class="wrapper last" style="word-break: break-word;padding: 10px 20px 0px 0px;vertical-align: top;text-align: left;color: #222222;font-family: &quot;Helvetica&quot;, &quot;Arial&quot;, sans-serif;font-weight: normal;margin: 0;line-height: 19px;font-size: 14px;position: relative;padding-right: 0px;border-collapse: collapse !important;">
+
+                        <table class="twelve columns" style="border-spacing: 0;border-collapse: collapse;padding: 0;vertical-align: top;text-align: left;margin: 0 auto;width: 580px;">
+                          <tr style="padding: 0;vertical-align: top;text-align: left;">
+                            <td class="six sub-columns" style="word-break: break-word;padding: 0px 0px 10px;vertical-align: top;text-align: left;color: #222222;font-family: &quot;Helvetica&quot;, &quot;Arial&quot;, sans-serif;font-weight: normal;margin: 0;line-height: 19px;font-size: 14px;min-width: 0px;padding-right: 10px;width: 50%;border-collapse: collapse !important;">
+                              <a href="https://www.bodalgo.com" style="color: #2ba6cb;text-decoration: none;"><img class="logo" width="100" height="37" alt="bodalgo.com" src="https://www.bodalgo.com/ui/theme/img/logos/bodalgo-logo-200.png" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;width: auto;max-width: 100%;float: left;clear: both;display: block;border: none;"></a>
+                            </td>
+                            <td class="expander" style="word-break: break-word;padding: 0 !important;vertical-align: top;text-align: left;color: #222222;font-family: &quot;Helvetica&quot;, &quot;Arial&quot;, sans-serif;font-weight: normal;margin: 0;line-height: 19px;font-size: 14px;visibility: hidden;width: 0px;border-collapse: collapse !important;"></td>
+                          </tr>
+                        </table>
+                      </td>
+                    </tr>
+                  </table>
+              </td>
+            </tr>
+          </table>
+		  <br>
+          <table class="container" style="border-spacing: 0;border-collapse: collapse;padding: 0;vertical-align: top;text-align: inherit;width: 580px;margin: 0 auto;">
+            <tr style="padding: 0;vertical-align: top;text-align: left;">
+              <td style="word-break: break-word;padding: 0;vertical-align: top;text-align: left;color: #222222;font-family: &quot;Helvetica&quot;, &quot;Arial&quot;, sans-serif;font-weight: normal;margin: 0;line-height: 19px;font-size: 14px;border-collapse: collapse !important;">
+              <!-- content start -->
+                <table class="row" style="border-spacing: 0;border-collapse: collapse;padding: 0px;vertical-align: top;text-align: left;width: 100%;position: relative;display: block;">
+                  <tr style="padding: 0;vertical-align: top;text-align: left;">
+                    <td class="wrapper last" style="word-break: break-word;padding: 10px 20px 0px 0px;vertical-align: top;text-align: left;color: #222222;font-family: &quot;Helvetica&quot;, &quot;Arial&quot;, sans-serif;font-weight: normal;margin: 0;line-height: 19px;font-size: 14px;position: relative;padding-right: 0px;border-collapse: collapse !important;">
+                      <table class="twelve columns" style="border-spacing: 0;border-collapse: collapse;padding: 0;vertical-align: top;text-align: left;margin: 0 auto;width: 580px;">
+                        <tr style="padding: 0;vertical-align: top;text-align: left;">
+                          <td style="word-break: break-word;padding: 0px 0px 10px;vertical-align: top;text-align: left;color: #222222;font-family: &quot;Helvetica&quot;, &quot;Arial&quot;, sans-serif;font-weight: normal;margin: 0;line-height: 19px;font-size: 14px;border-collapse: collapse !important;">
+                            <h2 style="color: #00739c;font-family: &quot;Helvetica&quot;, &quot;Arial&quot;, sans-serif;font-weight: normal;padding: 0;margin: 0;text-align: left;line-height: 1.3;word-break: normal;font-size: 36px;"><b>Hello Dorian-Vasco,</b>
+                            </h2>
+							<br>
+							
+							
+							
+                            Many clients have asked for a way to give talents feedback on their auditions. Not only to help them improve their work but also to show some appreciation for the effort a talent makes to produce custom demos.<br />
+<br />
+Sure enough, we also know: Hardly anybody has the time to write a personal note to each and every talent that auditioned for your job.  This is well understood by talents.<br />
+<br />
+So bodalgo has come up with the <b>fastest way possible to give personal feedback</b> when you feel you want to. Be it because you just want to say "Thanks", be it to draw the talent's attention to a quality issue you might have had with their recording. From today on, giving feedback is as easy as a mouse click.<br />
+<br />
+Next to every audition, you will find a drop-down menu labeled "Feedback" from which you may select from prewritten feedback options. For you, it is just a click but for the talent, it is valuable information and highly appreciated.<br />
+<br />
+Try it out next time you post a job on bodalgo!
+                          </td>
+                          <td class="expander" style="word-break: break-word;padding: 0 !important;vertical-align: top;text-align: left;color: #222222;font-family: &quot;Helvetica&quot;, &quot;Arial&quot;, sans-serif;font-weight: normal;margin: 0;line-height: 19px;font-size: 14px;visibility: hidden;width: 0px;border-collapse: collapse !important;"></td>
+                        </tr>
+                      </table>
+					  
+					                        <table class="twelve columns" style="border-spacing: 0;border-collapse: collapse;padding: 0;vertical-align: top;text-align: left;margin: 0 auto;width: 580px;">
+                        <tr style="padding: 0;vertical-align: top;text-align: left;">
+                          <td style="word-break: break-word;padding: 0px 0px 10px;vertical-align: top;text-align: left;color: #222222;font-family: &quot;Helvetica&quot;, &quot;Arial&quot;, sans-serif;font-weight: normal;margin: 0;line-height: 19px;font-size: 14px;border-collapse: collapse !important;">
+						  	
+						  							  	<p style="margin: 0;margin-bottom: 10px;color: #222222;font-family: &quot;Helvetica&quot;, &quot;Arial&quot;, sans-serif;font-weight: normal;padding: 0;text-align: left;line-height: 19px;font-size: 14px;">Best regards,</p>
+							<img width="150" height="82" alt="Armin Hierstetter" class="signature" src="https://www.bodalgo.com/ui/theme/img/email/signature.png" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;width: auto;max-width: 100%;float: none;clear: both;display: block;margin-bottom: -29px;">
+							<p style="margin: 0;margin-bottom: 10px;color: #222222;font-family: &quot;Helvetica&quot;, &quot;Arial&quot;, sans-serif;font-weight: normal;padding: 0;text-align: left;line-height: 19px;font-size: 14px;">Armin Hierstetter
+								<br>
+								<span style="color:#aaa">bodalgo.com</span>
+							</p>
+                          </td>
+                          <td class="expander" style="word-break: break-word;padding: 0 !important;vertical-align: top;text-align: left;color: #222222;font-family: &quot;Helvetica&quot;, &quot;Arial&quot;, sans-serif;font-weight: normal;margin: 0;line-height: 19px;font-size: 14px;visibility: hidden;width: 0px;border-collapse: collapse !important;"></td>
+                        </tr>
+                      </table>
+                    </td>
+                  </tr>
+                </table>
+                <!-- Legal + Unsubscribe -->
+                <table class="row" style="border-spacing: 0;border-collapse: collapse;padding: 0px;vertical-align: top;text-align: left;width: 100%;position: relative;display: block;">
+                  <tr style="padding: 0;vertical-align: top;text-align: left;">
+                    <td class="wrapper last" style="word-break: break-word;padding: 10px 20px 0px 0px;vertical-align: top;text-align: left;color: #222222;font-family: &quot;Helvetica&quot;, &quot;Arial&quot;, sans-serif;font-weight: normal;margin: 0;line-height: 19px;font-size: 14px;position: relative;padding-right: 0px;border-collapse: collapse !important;">
+
+                      <table class="twelve columns" style="border-spacing: 0;border-collapse: collapse;padding: 0;vertical-align: top;text-align: left;margin: 0 auto;width: 580px;">
+                        <tr style="padding: 0;vertical-align: top;text-align: left;">
+                          <td align="center" style="word-break: break-word;padding: 0px 0px 10px;vertical-align: top;text-align: left;color: #222222;font-family: &quot;Helvetica&quot;, &quot;Arial&quot;, sans-serif;font-weight: normal;margin: 0;line-height: 19px;font-size: 14px;border-collapse: collapse !important;">
+							  <p style="color: #aaa;margin: 0;margin-bottom: 10px;font-family: &quot;Helvetica&quot;, &quot;Arial&quot;, sans-serif;font-weight: normal;padding: 0;text-align: left;line-height: 19px;font-size: 14px;">Please don't reply to this mail. If you would like to contact us, please use our <a href='https://www.bodalgo.com/en/contact'>contact form.</a> <a href="https://www.bodalgo.com/en/user?unsubscribe=f7d69eec3eb16acc2701c3ab1558d0db" style="color: #2ba6cb;text-decoration: none;">Unsubscribe from newsletter</a></p>
+							  <p style="color: #aaa;margin: 0;margin-bottom: 10px;font-family: &quot;Helvetica&quot;, &quot;Arial&quot;, sans-serif;font-weight: normal;padding: 0;text-align: left;line-height: 19px;font-size: 14px;">This email may contain confidential information. If you are not the intended recipient please notify the sender immediately and delete this email.</p>
+							  <p style="text-align: center;color: #aaa;margin: 0;margin-bottom: 10px;font-family: &quot;Helvetica&quot;, &quot;Arial&quot;, sans-serif;font-weight: normal;padding: 0;line-height: 19px;font-size: 14px;">Armin Hierstetter • Güllstraße 4 • D-80336 München • ☏ +49 89 76 75 82 42</p>
+							  <p style="text-align: center;margin: 0;margin-bottom: 10px;color: #222222;font-family: &quot;Helvetica&quot;, &quot;Arial&quot;, sans-serif;font-weight: normal;padding: 0;line-height: 19px;font-size: 14px;">&copy; 2008-2018 <a href="https://www.bodalgo.com" style="color: #2ba6cb;text-decoration: none;">bodalgo.com</a> &mdash; All rights reserved.</p>
+                          </td>
+                          <td class="expander" style="word-break: break-word;padding: 0 !important;vertical-align: top;text-align: left;color: #222222;font-family: &quot;Helvetica&quot;, &quot;Arial&quot;, sans-serif;font-weight: normal;margin: 0;line-height: 19px;font-size: 14px;visibility: hidden;width: 0px;border-collapse: collapse !important;"></td>
+                        </tr>
+                      </table>
+                    </td>
+                  </tr>
+                </table>
+              <!-- container end below -->
+              </td>
+            </tr>
+          </table>
+		</td>
+		</tr>
+	</table>
+</body>
+</html>

@@ -1,0 +1,67 @@
+Return-Path: <bobkarofsky@gmail.com>
+Delivered-To: mail@stilfilm.com
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 266C6C09C3
+	for <mail@stilfilm.com>; Thu, 21 Dec 2017 19:47:53 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 5.675
+X-Spam-Level: *****
+X-Spam-Status: Yes, score=5.675 required=5.5
+	tests=[DKIM_ADSP_CUSTOM_MED=0.001, FREEMAIL_FROM=0.001,
+	FREEMAIL_REPLYTO=1, HTML_MESSAGE=0.001, NML_ADSP_CUSTOM_MED=1.2,
+	SPF_SOFTFAIL=0.972, SPOOFED_FREEM_REPTO=2.499, URIBL_BLOCKED=0.001]
+	autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id ka63phqs-YJH for <mail@stilfilm.com>;
+	Thu, 21 Dec 2017 19:47:51 +0100 (CET)
+Received: from www3079m.sakura.ne.jp (www3079m.sakura.ne.jp [49.212.75.79])
+	(using TLSv1 with cipher DHE-RSA-CAMELLIA256-SHA (256/256 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id 1FEE3C0020
+	for <mail@stilfilm.com>; Thu, 21 Dec 2017 19:47:50 +0100 (CET)
+Received: from [192.168.1.250] ([187.63.44.172])
+	(authenticated bits=0)
+	by www3079m.sakura.ne.jp (8.14.4/8.14.4) with ESMTP id vBLHMmwQ022458
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=NO)
+	for <mail@stilfilm.com>; Fri, 22 Dec 2017 03:47:40 +0900 (JST)
+	(envelope-from bobkarofsky@gmail.com)
+Message-Id: <201712211847.vBLHMmwQ022458@www3079m.sakura.ne.jp>
+Content-Type: multipart/alternative; boundary="===============0769992439=="
+MIME-Version: 1.0
+Subject: Re: Hast du gestern meine e-mail bekommen?
+To: mail@stilfilm.com
+From: "Robert Karofsky" <bobkarofsky@gmail.com>
+Date: Thu, 21 Dec 2017 16:47:34 -0200
+Reply-To: "Robert Karofsky" <bobkarofsky@outlook.com>
+
+You will not see this in a MIME-aware mail reader.
+--===============0769992439==
+Content-Type: text/plain; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+Guten Tag,
+ Sind sie verf=FCgbar, um einen gesch=E4ftsvorschlag zu diskutieren?
+ Es ist sehr vertraulich, also lass es mich wissen, wenn deine e-mail mail@=
+stilfilm.com sicher ist.
+ Mit freundlichen Gr=FC=DFen,
+ Robert Karofsky.
+
+
+--===============0769992439==
+Content-Type: text/html; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+<HTML><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3Diso-8859-1"/></head><BODY><P>Guten Tag,</P>
+<P>Sind sie verf=FCgbar, um einen gesch=E4ftsvorschlag zu diskutieren?</P>
+<P>Es ist sehr vertraulich, also lass es mich wissen, wenn deine e-mail mai=
+l@stilfilm.com sicher ist.</P>
+<P>Mit freundlichen Gr=FC=DFen,</P>
+<P>Robert Karofsky.<BR></P></BODY></HTML>
+--===============0769992439==--

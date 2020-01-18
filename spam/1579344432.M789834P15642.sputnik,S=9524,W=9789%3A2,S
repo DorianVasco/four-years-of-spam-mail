@@ -1,0 +1,265 @@
+Return-Path: <bill@click-by-seo.online>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 9CD5DC2F5E
+	for <mail@dorianvasco.de>; Fri, 12 Apr 2019 09:45:32 +0200 (CEST)
+Authentication-Results: v22014122474822114.stilfilm.com; dkim=pass
+	reason="2048-bit key; insecure key"
+	header.d=click-by-seo-online.20150623.gappssmtp.com header.i=@click-by-seo-online.20150623.gappssmtp.com
+	header.b=mOI9kam/; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: 2.002
+X-Spam-Level: **
+X-Spam-Status: No, score=2.002 required=5.5 tests=[BAYES_80=2,
+	DKIM_SIGNED=0.1, DKIM_VALID=-0.1, HTML_MESSAGE=0.001,
+	RCVD_IN_DNSWL_NONE=-0.0001, SPF_FAIL=0.001] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id E1Ze1uMh76JD for <mail@dorianvasco.de>;
+	Fri, 12 Apr 2019 09:45:23 +0200 (CEST)
+Received: from mail-pl1-f193.google.com (mail-pl1-f193.google.com [209.85.214.193])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id DB032C220C
+	for <mail@dorianvasco.de>; Fri, 12 Apr 2019 09:45:15 +0200 (CEST)
+Received: by mail-pl1-f193.google.com with SMTP id w23so4709123ply.4
+        for <mail@dorianvasco.de>; Fri, 12 Apr 2019 00:45:15 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=click-by-seo-online.20150623.gappssmtp.com; s=20150623;
+        h=from:to:subject:date:message-id:mime-version:thread-index
+         :content-language;
+        bh=efQ1uFT3Vqv+v0JCa0Iw3RR3YDEMMBlUZugyC4Xli8c=;
+        b=mOI9kam/EIGUtPzqDFrk1clto9SoSPia6Z0mgLF3bbZ5s+YlXz+8ll8fhG3WetThz9
+         aWKopYbEvRPvTbqKFVrcrsg/2gH/U1MVnskDvYulwmK2cv5YlZa3mh1z4XYP+b4Uv/td
+         YklNovv8UuyLOqYgcinNWlcCuwo++ZCEozxWIevg4fY8WzfVxIxADRBXw5DcIIw06vTz
+         1dZjJj3E9Ngegw95my5+Tal8oshMiztb1JPPzNQbjVs418X8F1zHHo5XzyT08iH8Bhr8
+         zj/kEKH5mAnSALNfxA91cMd/45mhJE8i7pYgbt4n0zqrcfxFo4GsKFkXe7AJ5/wTSMzr
+         8+Mw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:from:to:subject:date:message-id:mime-version
+         :thread-index:content-language;
+        bh=efQ1uFT3Vqv+v0JCa0Iw3RR3YDEMMBlUZugyC4Xli8c=;
+        b=s/C3cxWGM9rX3HWq/EUQpu2K8WAByVjiZ+W23JhRJH54IzFKg9d/DT8F5MsC7OHg04
+         3c2oLluWV2VrJvbZAPZu3wvDNB3Pj2RBLXVlAPrdlGEDdS/8F6Bu+rmzvJbTX1bSWFay
+         GWodzhVzTNZJPMyfhMrj4iki09VvvRKTZU3QMk49r4rHRJEV4ToGZC8M4jXzHrx8qHVF
+         pAvLU55V36nr+mvkZkbC8BHjS+/N+ReNftO9ffg1sE6PiHOadJcl/f1trD2OvGcXEcE3
+         MFE+iJO6gTn7Yqh8zJJb6xT7fl59VE5bBPuuyASAp02EBUGdJ152dre4Sc8w9xMVb8CD
+         2QCw==
+X-Gm-Message-State: APjAAAXO5sjXvuAtK+0dyL24JUAUTLKHv7TbrcRWyjJjwCHA6OJL750S
+	097ooGdkxD9CGng1A+LiMtb1eX09msw=
+X-Google-Smtp-Source: APXvYqx/bYUH4DvJ+zPAPOb+/h6NxPH7Pq0rUTRe+9j+atfini2cMJiIiKcNw1LHJdLPpOeTqaBOqg==
+X-Received: by 2002:a17:902:864b:: with SMTP id y11mr55358513plt.1.1555055112070;
+        Fri, 12 Apr 2019 00:45:12 -0700 (PDT)
+Received: from AdminPC ([43.251.93.112])
+        by smtp.gmail.com with ESMTPSA id 66sm80537383pfr.44.2019.04.12.00.45.10
+        for <mail@dorianvasco.de>
+        (version=TLS1 cipher=ECDHE-RSA-AES128-SHA bits=128/128);
+        Fri, 12 Apr 2019 00:45:11 -0700 (PDT)
+From: "Bill" <bill@click-by-seo.online>
+To: <mail@dorianvasco.de>
+Subject: Top ten ranking........your website
+Date: Fri, 12 Apr 2019 13:11:10 +0530
+Message-ID: <051e01d4f103$a09ff360$e1dfda20$@online>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_051F_01D4F131.BA582F60"
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-Index: AdTxAp+eheIRgZW+SBWu50KA0rX3MQ==
+Content-Language: en-us
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_051F_01D4F131.BA582F60
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+Hi DorianVasco Nagel,
+ 
+Hope you are well, 
+
+I found your web contact email "mail@dorianvasco.de". I would like to
+discuss a business opportunity with you.
+ 
+I was surfing through your Site and realized that despite having a great
+design; it was not ranking on any of the search engines (Google, Yahoo and
+Bing) for most of the keywords relating to your business.
+
+
+ 
+Our Steps and the Activities:- 
+ 
+1. Keywords Research
+2. Competition Analysis
+3. Optimized Content Creation
+4. Keywords Optimization
+5. Back Link Creation by White Hat Ethical Technique
+6. Submission to Search Engines and Directories
+7. Submission to Article Directories
+ 
+We are a team of 100+ professionals which includes 100 full time SEO
+experts. We are proud to inform you that our team handled 400+ SEO projects.
+ 
+Let me know if you are interested...
+ 
+Kind Regards
+Bill
+Online Marketing Consultant
+
+ 
+
+ 
+
+
+------=_NextPart_000_051F_01D4F131.BA582F60
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<META HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html; =
+charset=3Dus-ascii">
+<meta name=3DGenerator content=3D"Microsoft Word 12 (filtered medium)">
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin-top:0in;
+	margin-right:0in;
+	margin-bottom:10.0pt;
+	margin-left:0in;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+p.yiv2490515894msonormal, li.yiv2490515894msonormal, =
+div.yiv2490515894msonormal
+	{mso-style-name:yiv2490515894msonormal;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+span.yiv2490515894fromcontainer
+	{mso-style-name:yiv2490515894fromcontainer;}
+.MsoChpDefault
+	{mso-style-type:export-only;}
+.MsoPapDefault
+	{mso-style-type:export-only;
+	margin-bottom:10.0pt;
+	line-height:115%;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+
+</head>
+
+<body lang=3DEN-US link=3Dblue vlink=3Dpurple>
+
+<div class=3DSection1>
+
+<p class=3Dyiv2490515894msonormal style=3D'background:white'><span
+style=3D'color:#333399'>Hi DorianVasco Nagel,</span><span =
+style=3D'color:black'><br>
+</span><span style=3D'color:#333399'>&nbsp;</span><span =
+style=3D'color:black'><br>
+</span><span style=3D'color:#333399'>Hope you are =
+well,&nbsp;<o:p></o:p></span></p>
+
+<p class=3Dyiv2490515894msonormal style=3D'background:white'><span
+style=3D'color:#244061'>I found your web contact email =
+&#8220;mail@dorianvasco.de&#8221;.
+I would like to discuss a business opportunity with you.</span><span
+style=3D'color:black'><br>
+&nbsp;<br>
+</span><span style=3D'color:#333399'>I was surfing through your Site and =
+realized
+that despite having a great design; it was not ranking on any of the =
+search
+engines (Google, Yahoo and Bing) for most of the keywords relating to =
+your
+business.</span></p>
+
+<p class=3Dyiv2490515894msonormal style=3D'background:white'><span
+style=3D'color:black'><br>
+&nbsp;<br>
+</span><span style=3D'color:#333399'>Our Steps and the =
+Activities:-&nbsp;</span><span
+style=3D'color:black'><br>
+&nbsp;<br>
+</span><span style=3D'color:#333399'>1. Keywords Research</span><span
+style=3D'color:black'><br>
+</span><span style=3D'color:#333399'>2. Competition Analysis</span><span
+style=3D'color:black'><br>
+</span><span style=3D'color:#333399'>3. Optimized Content =
+Creation</span><span
+style=3D'color:black'><br>
+</span><span style=3D'color:#333399'>4. Keywords =
+Optimization</span><span
+style=3D'color:black'><br>
+</span><span style=3D'color:#333399'>5. Back Link Creation by White Hat =
+Ethical
+Technique</span><span style=3D'color:black'><br>
+</span><span style=3D'color:#333399'>6. Submission to Search Engines and
+Directories</span><span style=3D'color:black'><br>
+</span><span style=3D'color:#333399'>7. Submission to Article =
+Directories</span><span
+style=3D'color:black'><br>
+&nbsp;<br>
+</span><span style=3D'color:#333399'>We are a team of 100+ professionals =
+which
+includes 100 full time SEO experts. We are proud to inform you that our =
+team
+handled 400+ SEO projects.</span><span style=3D'color:black'><br>
+&nbsp;<br>
+</span><span style=3D'color:#333399'>Let me know if you are =
+interested...</span><span
+style=3D'color:black'><br>
+</span><span style=3D'color:#333399'>&nbsp;</span><span =
+style=3D'color:black'><br>
+</span><span style=3D'color:#333399'>Kind Regards</span><span =
+style=3D'color:#888888'><br>
+</span><span class=3Dyiv2490515894fromcontainer>Bill</span><span
+style=3D'color:#888888'><br>
+</span><span style=3D'color:#333399'>Online Marketing =
+Consultant</span></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+</div>
+
+</body>
+
+</html>
+
+------=_NextPart_000_051F_01D4F131.BA582F60--
+

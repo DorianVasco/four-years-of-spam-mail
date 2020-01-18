@@ -1,0 +1,45 @@
+Return-Path: <elizabeth@tokenbit.com>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 486A9C165E
+	for <mail@dorianvasco.de>; Mon, 27 Mar 2017 02:09:50 +0200 (CEST)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 7.783
+X-Spam-Level: *******
+X-Spam-Status: Yes, score=7.783 required=5.5 tests=[BAYES_50=0.8,
+	DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	RCVD_IN_SBL_CSS=3.335, RP_MATCHES_RCVD=-0.001, SPF_HELO_PASS=-0.001,
+	SPF_PASS=-0.001, URIBL_ABUSE_SURBL=1.25, URIBL_BLOCKED=0.001,
+	URIBL_DBL_SPAM=2.5] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.yourvserver.net [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id C63Qp_WWdnMt for <mail@dorianvasco.de>;
+	Mon, 27 Mar 2017 02:09:48 +0200 (CEST)
+Received: from tokenbit.com (tokenbit.com [199.127.227.153])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id BC339C165D
+	for <mail@dorianvasco.de>; Mon, 27 Mar 2017 02:09:48 +0200 (CEST)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=tokenbit.com; s=mail;
+	h=Message-Id:To:Date:Reply-To:From:Subject:Content-Transfer-Encoding:MIME-Version:Content-Type; bh=yUJ2M7zPdRrdY35K6Vr9fcb3JCO0EnC1kLAJOjCDpXc=;
+	b=baHbJqZ6bWCn8zJt91hLtztnG9Zd76JnsmN/QChxcadtZwtKW93tpY0oDQVU8P8TpBvtWCw0cojgLt0OiYpSNW97v+sjOD+m7xryEmDbf2Amz9WLtFVGe0+7DlxMf9YBjQPaiUatH1UVqCeuSdzwVXXqTk3IjlwfgYSxJ5iNqFM=;
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Subject: ***SPAM*** techome-group(com)
+From: "Elizabeth" <elizabeth@tokenbit.com>
+Reply-To: elizabeth@tokenbit.com
+Date: Mon, 27 Mar 2017 00:09:47 -0000
+To: "Mail" <mail@dorianvasco.de>
+Message-Id: <E1csIEF-0002Pk-Ig@localhost>
+
+Hi,
+
+My name is Elizabeth.
+Researching, I have found out that you hold a similar domain name.
+I am wondering if you could let me know whether you will look into my techome-group(com) ?
+
+Hope to hear from you soon.
+
+Elizabeth

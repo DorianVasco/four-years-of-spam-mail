@@ -1,0 +1,1020 @@
+Return-Path: <return-a444-63330-63396-589bf19f=199990483=8@pixel-promarketing.de>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id E2723C6D29
+	for <mail@dorianvasco.de>; Sun, 20 Oct 2019 09:54:01 +0200 (CEST)
+Authentication-Results: v22014122474822114.stilfilm.com; dkim=pass
+	reason="1024-bit key; insecure key"
+	header.d=pixel-promarketing.de header.i=@pixel-promarketing.de
+	header.b=v5KqZhR6; dkim-adsp=pass; dkim-atps=neutral
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 6.693
+X-Spam-Level: ******
+X-Spam-Status: Yes, score=6.693 required=5.5 tests=[BAYES_99=3.5,
+	BAYES_999=0.2, DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	HTML_MESSAGE=0.001, PYZOR_CHECK=1.392, SPF_HELO_NONE=0.001,
+	SPF_PASS=-0.001, URIBL_BLACK=1.7] autolearn=no autolearn_force=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id mLdWlQwiW056 for <mail@dorianvasco.de>;
+	Sun, 20 Oct 2019 09:53:56 +0200 (CEST)
+Received: from smtp7-130.newsletter-pixelpro.de (smtp7-130.newsletter-pixelpro.de [193.70.52.216])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id 96DD1C6B76
+	for <kontakt@dorianvasco.de>; Sun, 20 Oct 2019 09:53:48 +0200 (CEST)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; d=pixel-promarketing.de; s=ppm;
+ t=1571558027; bh=WSCmN/nqOS4qr4PdoLkrmjrQL7E=;
+ h=Subject:From:To:Reply-To:Date:List-Unsubscribe:X-CampaignID:
+  Message-ID:X-Mailer-Info:MIME-Version:Content-Type;
+ b=v5KqZhR65HiSR9w0gDX8iRXLoaf1K7egjZm3jHXBQOIVBPzCKan4pHkNhU4BFB61y
+  54su8yB1YTQWAsON3l3M8c2fL9d44rH35hwL3NrG0ch6qv10Y1KiSYu2jTUQy4oMr5
+  zoeFYsxF3TXqqrA7Re/LrsAvQfnTYSXqSzSE9VIw=
+Subject: Finden Sie neue Kontakte ab 50!
+From: "Jetzt informieren" <mail@pixel-promarketing.de>
+To: kontakt@dorianvasco.de
+Reply-To: noreply@pixel-promarketing.de
+Date: 20 Oct 2019 07:53:47 -0000
+List-Unsubscribe: <http://pixel-promarketing.de/ga/unsubscribe/2-199990483-444-23502-63396-e04939885d24e4c-35e84cda7b?confirmed=1>,
+ <mailto:return-a444-63330-63396-589bf19f=199990483=8u@pixel-promarketing.de>
+X-CampaignID: s4:63330-2700175bde0b9a90
+Message-ID: <mid-0f8c0b74619dc50bdc3a991813397d31-33@pixel-promarketing.de>
+X-Mailer-Info: 8.QY0QDN.YzMzMDM.wav5GdhtGdAR2bylWYuZXYzN2buQWZ.xkTO5kDM0gzM.YzMzkjN
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="==0c4e53ec12558a1371656b764eaeb3b2"
+
+This is a multi-part message in MIME format.
+
+--==0c4e53ec12558a1371656b764eaeb3b2
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+*|Lebensfreunde|*
+
+Sollte Ihr Newsletter nicht korrekt dargestellt werden,
+klicken Sie bitte hier. ( http://pixel-promarketing.de/ga/webviews/4-199990=
+483-444-23502-25938-63396-c74f049d90 )
+
+( http://pixel-promarketing.de/ga/click/2-199990483-444-23502-63396-1911485=
+-c0fb4e7be6-35e84cda7b )
+
+******************
+Wonach suchen Sie?
+******************
+
+* Passende Partner in Ihrer N=C3=A4he ( http://pixel-promarketing.de/ga/cli=
+ck/2-199990483-444-23502-63396-1911486-99caf494aa-35e84cda7b )
+* Neue Freunde mit 50+ ( http://pixel-promarketing.de/ga/click/2-199990483-=
+444-23502-63396-1911487-35e45b9aa9-35e84cda7b )
+* Zeit f=C3=BCr Zweisamkeit ( http://pixel-promarketing.de/ga/click/2-19999=
+0483-444-23502-63396-1911488-e840f3f72c-35e84cda7b )
+
+( http://pixel-promarketing.de/ga/click/2-199990483-444-23502-63396-1911489=
+-52a4041f4d-35e84cda7b )
+
+Jetzt finden! ( http://pixel-promarketing.de/ga/click/2-199990483-444-23502=
+-63396-1911490-307227d5cc-35e84cda7b )
+
+Das Angebot ist eine kommerzielle Anzeige dieses Werbekunden,
+der allein f=C3=BCr den Inhalt verantwortlich ist.
+
+Verantwortlich f=C3=BCr den Versand der E-Mail ist:
+Ein Service von Pixel ProMarketing S.L. | Str Azor n5
+Mijas-Costa | E-29651 M=C3=A1laga
+
+Ihre Daten sind lediglich bei dem Versender gespeichert. Der
+Werbekunde hat daher keinen Einfluss auf dem Empf=C3=A4ngerkreis der
+E-Mail.
+Sofern Sie k=C3=BCnftig keinen Newsletter mehr erhalten m=C3=B6chten,
+wenden Sie sich bitte direkt an den Versender oder klicken auf
+folgenden Link: Abmelden ( http://pixel-promarketing.de/ga/unsubscribe/2-19=
+9990483-444-23502-63396-e04939885d24e4c-35e84cda7b )
+
+Haben Sie Verst=C3=A4ndnis, dass die Abmeldung bis zu 48 Stunden
+dauern kann. Direkte Antworten an die Absenderadresse k=C3=B6nnen
+nicht beantwortet werden.
+
+support(at)pixelpromarketing.com ( support@pixelpromarketing.com
+)
+Ihre Daten sind lediglich bei dem Versender gespeichert. Der
+Werbekunde hat daher keinen Einfluss auf den Empf=C3=A4ngerkreis der
+E-Mail.=
+
+--==0c4e53ec12558a1371656b764eaeb3b2
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html>
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xmlns:v=3D"urn:schemas-microso=
+ft-com:vml" xmlns:o=3D"urn:schemas-microsoft-com:office:office">
+	<head>
+		<!--[if gte mso 15]>
+		<xml>
+			<o:OfficeDocumentSettings>
+			<o:AllowPNG/>
+			<o:PixelsPerInch>96</o:PixelsPerInch>
+			</o:OfficeDocumentSettings>
+		</xml>
+		<![endif]-->
+		<meta charset=3D"UTF-8">
+        <meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">
+        <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-sc=
+ale=3D1">
+		<title>*|Lebensfreunde|*</title>
+=20=20=20=20=20=20=20=20
+    <style type=3D"text/css">
+		p{
+			margin:10px 0;
+			padding:0;
+		}
+		table{
+			border-collapse:collapse;
+		}
+		h1,h2,h3,h4,h5,h6{
+			display:block;
+			margin:0;
+			padding:0;
+		}
+		img,a img{
+			border:0;
+			height:auto;
+			outline:none;
+			text-decoration:none;
+		}
+		body,#bodyTable,#bodyCell{
+			height:100%;
+			margin:0;
+			padding:0;
+			width:100%;
+		}
+		.mcnPreviewText{
+			display:none !important;
+		}
+		#outlook a{
+			padding:0;
+		}
+		img{
+			-ms-interpolation-mode:bicubic;
+		}
+		table{
+			mso-table-lspace:0pt;
+			mso-table-rspace:0pt;
+		}
+		.ReadMsgBody{
+			width:100%;
+		}
+		.ExternalClass{
+			width:100%;
+		}
+		p,a,li,td,blockquote{
+			mso-line-height-rule:exactly;
+		}
+		a[href^=3Dtel],a[href^=3Dsms]{
+			color:inherit;
+			cursor:default;
+			text-decoration:none;
+		}
+		p,a,li,td,body,table,blockquote{
+			-ms-text-size-adjust:100%;
+			-webkit-text-size-adjust:100%;
+		}
+		.ExternalClass,.ExternalClass p,.ExternalClass td,.ExternalClass div,.Ext=
+ernalClass span,.ExternalClass font{
+			line-height:100%;
+		}
+		a[x-apple-data-detectors]{
+			color:inherit !important;
+			text-decoration:none !important;
+			font-size:inherit !important;
+			font-family:inherit !important;
+			font-weight:inherit !important;
+			line-height:inherit !important;
+		}
+		#bodyCell{
+			padding:10px;
+		}
+		.templateContainer{
+			max-width:600px !important;
+		}
+		a.mcnButton{
+			display:block;
+		}
+		.mcnImage,.mcnRetinaImage{
+			vertical-align:bottom;
+		}
+		.mcnTextContent{
+			word-break:break-word;
+		}
+		.mcnTextContent img{
+			height:auto !important;
+		}
+		.mcnDividerBlock{
+			table-layout:fixed !important;
+		}
+	/*
+	@tab Page
+	@section Background Style
+	@tip Set the background color and top border for your email. You may want =
+to choose colors that match your company's branding.
+	*/
+		body,#bodyTable{
+			/*@editable*/background-color:#f3f0f0;
+		}
+	/*
+	@tab Page
+	@section Background Style
+	@tip Set the background color and top border for your email. You may want =
+to choose colors that match your company's branding.
+	*/
+		#bodyCell{
+			/*@editable*/border-top:0;
+		}
+	/*
+	@tab Page
+	@section Email Border
+	@tip Set the border for your email.
+	*/
+		.templateContainer{
+			/*@editable*/border:0;
+		}
+	/*
+	@tab Page
+	@section Heading 1
+	@tip Set the styling for all first-level headings in your emails. These sh=
+ould be the largest of your headings.
+	@style heading 1
+	*/
+		h1{
+			/*@editable*/color:#202020;
+			/*@editable*/font-family:Helvetica;
+			/*@editable*/font-size:26px;
+			/*@editable*/font-style:normal;
+			/*@editable*/font-weight:bold;
+			/*@editable*/line-height:125%;
+			/*@editable*/letter-spacing:normal;
+			/*@editable*/text-align:left;
+		}
+	/*
+	@tab Page
+	@section Heading 2
+	@tip Set the styling for all second-level headings in your emails.
+	@style heading 2
+	*/
+		h2{
+			/*@editable*/color:#202020;
+			/*@editable*/font-family:Helvetica;
+			/*@editable*/font-size:22px;
+			/*@editable*/font-style:normal;
+			/*@editable*/font-weight:bold;
+			/*@editable*/line-height:125%;
+			/*@editable*/letter-spacing:normal;
+			/*@editable*/text-align:left;
+		}
+	/*
+	@tab Page
+	@section Heading 3
+	@tip Set the styling for all third-level headings in your emails.
+	@style heading 3
+	*/
+		h3{
+			/*@editable*/color:#202020;
+			/*@editable*/font-family:Helvetica;
+			/*@editable*/font-size:20px;
+			/*@editable*/font-style:normal;
+			/*@editable*/font-weight:bold;
+			/*@editable*/line-height:125%;
+			/*@editable*/letter-spacing:normal;
+			/*@editable*/text-align:left;
+		}
+	/*
+	@tab Page
+	@section Heading 4
+	@tip Set the styling for all fourth-level headings in your emails. These s=
+hould be the smallest of your headings.
+	@style heading 4
+	*/
+		h4{
+			/*@editable*/color:#202020;
+			/*@editable*/font-family:Helvetica;
+			/*@editable*/font-size:18px;
+			/*@editable*/font-style:normal;
+			/*@editable*/font-weight:bold;
+			/*@editable*/line-height:125%;
+			/*@editable*/letter-spacing:normal;
+			/*@editable*/text-align:left;
+		}
+	/*
+	@tab Preheader
+	@section Preheader Style
+	@tip Set the background color and borders for your email's preheader area.
+	*/
+		#templatePreheader{
+			/*@editable*/background-color:#f3f0f0;
+			/*@editable*/background-image:none;
+			/*@editable*/background-repeat:no-repeat;
+			/*@editable*/background-position:center;
+			/*@editable*/background-size:cover;
+			/*@editable*/border-top:0;
+			/*@editable*/border-bottom:0;
+			/*@editable*/padding-top:0px;
+			/*@editable*/padding-bottom:0px;
+		}
+	/*
+	@tab Preheader
+	@section Preheader Text
+	@tip Set the styling for your email's preheader text. Choose a size and co=
+lor that is easy to read.
+	*/
+		#templatePreheader .mcnTextContent,#templatePreheader .mcnTextContent p{
+			/*@editable*/color:#656565;
+			/*@editable*/font-family:Helvetica;
+			/*@editable*/font-size:12px;
+			/*@editable*/line-height:150%;
+			/*@editable*/text-align:left;
+		}
+	/*
+	@tab Preheader
+	@section Preheader Link
+	@tip Set the styling for your email's preheader links. Choose a color that=
+ helps them stand out from your text.
+	*/
+		#templatePreheader .mcnTextContent a,#templatePreheader .mcnTextContent p=
+ a{
+			/*@editable*/color:#656565;
+			/*@editable*/font-weight:normal;
+			/*@editable*/text-decoration:underline;
+		}
+	/*
+	@tab Header
+	@section Header Style
+	@tip Set the background color and borders for your email's header area.
+	*/
+		#templateHeader{
+			/*@editable*/background-color:#ffffff;
+			/*@editable*/background-image:none;
+			/*@editable*/background-repeat:no-repeat;
+			/*@editable*/background-position:center;
+			/*@editable*/background-size:cover;
+			/*@editable*/border-top:0;
+			/*@editable*/border-bottom:0;
+			/*@editable*/padding-top:0px;
+			/*@editable*/padding-bottom:0px;
+		}
+	/*
+	@tab Header
+	@section Header Text
+	@tip Set the styling for your email's header text. Choose a size and color=
+ that is easy to read.
+	*/
+		#templateHeader .mcnTextContent,#templateHeader .mcnTextContent p{
+			/*@editable*/color:#202020;
+			/*@editable*/font-family:Helvetica;
+			/*@editable*/font-size:16px;
+			/*@editable*/line-height:150%;
+			/*@editable*/text-align:left;
+		}
+	/*
+	@tab Header
+	@section Header Link
+	@tip Set the styling for your email's header links. Choose a color that he=
+lps them stand out from your text.
+	*/
+		#templateHeader .mcnTextContent a,#templateHeader .mcnTextContent p a{
+			/*@editable*/color:#2BAADF;
+			/*@editable*/font-weight:normal;
+			/*@editable*/text-decoration:underline;
+		}
+	/*
+	@tab Body
+	@section Body Style
+	@tip Set the background color and borders for your email's body area.
+	*/
+		#templateBody{
+			/*@editable*/background-color:#ffffff;
+			/*@editable*/background-image:none;
+			/*@editable*/background-repeat:no-repeat;
+			/*@editable*/background-position:center;
+			/*@editable*/background-size:cover;
+			/*@editable*/border-top:0;
+			/*@editable*/border-bottom:0;
+			/*@editable*/padding-top:9px;
+			/*@editable*/padding-bottom:0;
+		}
+	/*
+	@tab Body
+	@section Body Text
+	@tip Set the styling for your email's body text. Choose a size and color t=
+hat is easy to read.
+	*/
+		#templateBody .mcnTextContent,#templateBody .mcnTextContent p{
+			/*@editable*/color:#202020;
+			/*@editable*/font-family:Helvetica;
+			/*@editable*/font-size:16px;
+			/*@editable*/line-height:150%;
+			/*@editable*/text-align:left;
+		}
+	/*
+	@tab Body
+	@section Body Link
+	@tip Set the styling for your email's body links. Choose a color that help=
+s them stand out from your text.
+	*/
+		#templateBody .mcnTextContent a,#templateBody .mcnTextContent p a{
+			/*@editable*/color:#7d005f;
+			/*@editable*/font-weight:normal;
+			/*@editable*/text-decoration:underline;
+		}
+	/*
+	@tab Columns
+	@section Column Style
+	@tip Set the background color and borders for your email's columns.
+	*/
+		#templateColumns{
+			/*@editable*/background-color:#ffffff;
+			/*@editable*/background-image:none;
+			/*@editable*/background-repeat:no-repeat;
+			/*@editable*/background-position:center;
+			/*@editable*/background-size:cover;
+			/*@editable*/border-top:0;
+			/*@editable*/border-bottom:2px none #EAEAEA;
+			/*@editable*/padding-top:0;
+			/*@editable*/padding-bottom:9px;
+		}
+	/*
+	@tab Columns
+	@section Column Text
+	@tip Set the styling for your email's column text. Choose a size and color=
+ that is easy to read.
+	*/
+		#templateColumns .columnContainer .mcnTextContent,#templateColumns .colum=
+nContainer .mcnTextContent p{
+			/*@editable*/color:#202020;
+			/*@editable*/font-family:Helvetica;
+			/*@editable*/font-size:15px;
+			/*@editable*/line-height:150%;
+			/*@editable*/text-align:left;
+		}
+	/*
+	@tab Columns
+	@section Column Link
+	@tip Set the styling for your email's column links. Choose a color that he=
+lps them stand out from your text.
+	*/
+		#templateColumns .columnContainer .mcnTextContent a,#templateColumns .col=
+umnContainer .mcnTextContent p a{
+			/*@editable*/color:#7d005f;
+			/*@editable*/font-weight:normal;
+			/*@editable*/text-decoration:underline;
+		}
+	/*
+	@tab Footer
+	@section Footer Style
+	@tip Set the background color and borders for your email's footer area.
+	*/
+		#templateFooter{
+			/*@editable*/background-color:#ffffff;
+			/*@editable*/background-image:none;
+			/*@editable*/background-repeat:no-repeat;
+			/*@editable*/background-position:center;
+			/*@editable*/background-size:cover;
+			/*@editable*/border-top:0;
+			/*@editable*/border-bottom:0;
+			/*@editable*/padding-top:9px;
+			/*@editable*/padding-bottom:9px;
+		}
+	/*
+	@tab Footer
+	@section Footer Text
+	@tip Set the styling for your email's footer text. Choose a size and color=
+ that is easy to read.
+	*/
+		#templateFooter .mcnTextContent,#templateFooter .mcnTextContent p{
+			/*@editable*/color:#656565;
+			/*@editable*/font-family:Helvetica;
+			/*@editable*/font-size:12px;
+			/*@editable*/line-height:150%;
+			/*@editable*/text-align:center;
+		}
+	/*
+	@tab Footer
+	@section Footer Link
+	@tip Set the styling for your email's footer links. Choose a color that he=
+lps them stand out from your text.
+	*/
+		#templateFooter .mcnTextContent a,#templateFooter .mcnTextContent p a{
+			/*@editable*/color:#656565;
+			/*@editable*/font-weight:normal;
+			/*@editable*/text-decoration:underline;
+		}
+	@media only screen and (min-width:768px){
+		.templateContainer{
+			width:600px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		body,table,td,p,a,li,blockquote{
+			-webkit-text-size-adjust:none !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		body{
+			width:100% !important;
+			min-width:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		#bodyCell{
+			padding-top:10px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.columnWrapper{
+			max-width:100% !important;
+			width:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnRetinaImage{
+			max-width:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnImage{
+			width:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnCartContainer,.mcnCaptionTopContent,.mcnRecContentContainer,.mcnCapti=
+onBottomContent,.mcnTextContentContainer,.mcnBoxedTextContentContainer,.mcn=
+ImageGroupContentContainer,.mcnCaptionLeftTextContentContainer,.mcnCaptionR=
+ightTextContentContainer,.mcnCaptionLeftImageContentContainer,.mcnCaptionRi=
+ghtImageContentContainer,.mcnImageCardLeftTextContentContainer,.mcnImageCar=
+dRightTextContentContainer,.mcnImageCardLeftImageContentContainer,.mcnImage=
+CardRightImageContentContainer{
+			max-width:100% !important;
+			width:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnBoxedTextContentContainer{
+			min-width:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnImageGroupContent{
+			padding:9px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnCaptionLeftContentOuter .mcnTextContent,.mcnCaptionRightContentOuter =
+.mcnTextContent{
+			padding-top:9px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnImageCardTopImageContent,.mcnCaptionBottomContent:last-child .mcnCapt=
+ionBottomImageContent,.mcnCaptionBlockInner .mcnCaptionTopContent:last-chil=
+d .mcnTextContent{
+			padding-top:18px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnImageCardBottomImageContent{
+			padding-bottom:9px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnImageGroupBlockInner{
+			padding-top:0 !important;
+			padding-bottom:0 !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnImageGroupBlockOuter{
+			padding-top:9px !important;
+			padding-bottom:9px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnTextContent,.mcnBoxedTextContentColumn{
+			padding-right:18px !important;
+			padding-left:18px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnImageCardLeftImageContent,.mcnImageCardRightImageContent{
+			padding-right:18px !important;
+			padding-bottom:0 !important;
+			padding-left:18px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcpreview-image-uploader{
+			display:none !important;
+			width:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+	/*
+	@tab Mobile Styles
+	@section Heading 1
+	@tip Make the first-level headings larger in size for better readability o=
+n small screens.
+	*/
+		h1{
+			/*@editable*/font-size:22px !important;
+			/*@editable*/line-height:125% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+	/*
+	@tab Mobile Styles
+	@section Heading 2
+	@tip Make the second-level headings larger in size for better readability =
+on small screens.
+	*/
+		h2{
+			/*@editable*/font-size:20px !important;
+			/*@editable*/line-height:125% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+	/*
+	@tab Mobile Styles
+	@section Heading 3
+	@tip Make the third-level headings larger in size for better readability o=
+n small screens.
+	*/
+		h3{
+			/*@editable*/font-size:18px !important;
+			/*@editable*/line-height:125% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+	/*
+	@tab Mobile Styles
+	@section Heading 4
+	@tip Make the fourth-level headings larger in size for better readability =
+on small screens.
+	*/
+		h4{
+			/*@editable*/font-size:16px !important;
+			/*@editable*/line-height:150% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+	/*
+	@tab Mobile Styles
+	@section Boxed Text
+	@tip Make the boxed text larger in size for better readability on small sc=
+reens. We recommend a font size of at least 16px.
+	*/
+		.mcnBoxedTextContentContainer .mcnTextContent,.mcnBoxedTextContentContain=
+er .mcnTextContent p{
+			/*@editable*/font-size:14px !important;
+			/*@editable*/line-height:150% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+	/*
+	@tab Mobile Styles
+	@section Preheader Visibility
+	@tip Set the visibility of the email's preheader on small screens. You can=
+ hide it to save space.
+	*/
+		#templatePreheader{
+			/*@editable*/display:block !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+	/*
+	@tab Mobile Styles
+	@section Preheader Text
+	@tip Make the preheader text larger in size for better readability on smal=
+l screens.
+	*/
+		#templatePreheader .mcnTextContent,#templatePreheader .mcnTextContent p{
+			/*@editable*/font-size:14px !important;
+			/*@editable*/line-height:150% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+	/*
+	@tab Mobile Styles
+	@section Header Text
+	@tip Make the header text larger in size for better readability on small s=
+creens.
+	*/
+		#templateHeader .mcnTextContent,#templateHeader .mcnTextContent p{
+			/*@editable*/font-size:16px !important;
+			/*@editable*/line-height:150% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+	/*
+	@tab Mobile Styles
+	@section Body Text
+	@tip Make the body text larger in size for better readability on small scr=
+eens. We recommend a font size of at least 16px.
+	*/
+		#templateBody .mcnTextContent,#templateBody .mcnTextContent p{
+			/*@editable*/font-size:16px !important;
+			/*@editable*/line-height:150% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+	/*
+	@tab Mobile Styles
+	@section Column Text
+	@tip Make the column text larger in size for better readability on small s=
+creens. We recommend a font size of at least 16px.
+	*/
+		#templateColumns .columnContainer .mcnTextContent,#templateColumns .colum=
+nContainer .mcnTextContent p{
+			/*@editable*/font-size:16px !important;
+			/*@editable*/line-height:150% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+	/*
+	@tab Mobile Styles
+	@section Footer Text
+	@tip Make the footer content text larger in size for better readability on=
+ small screens.
+	*/
+		#templateFooter .mcnTextContent,#templateFooter .mcnTextContent p{
+			/*@editable*/font-size:14px !important;
+			/*@editable*/line-height:150% !important;
+		}
+
+}</style></head>
+    <body>
+		<!--*|IF:MC_PREVIEW_TEXT|*-->
+		<!--[if !gte mso 9]><!----><span class=3D"mcnPreviewText" style=3D"displa=
+y:none; font-size:0px; line-height:0px; max-height:0px; max-width:0px; opac=
+ity:0; overflow:hidden; visibility:hidden; mso-hide:all;">*|Lebensfreunde|*=
+</span><!--<![endif]-->
+		<!--*|END:IF|*-->
+<center>
+<span style=3D"font-size: 10px; line-height: 12px; color: #000000; font-fam=
+ily: 'Century Gothic', Tahoma, sans-serif;">Sollte Ihr Newsletter nicht kor=
+rekt dargestellt werden,<br /><a style=3D"color: #000000; text-decoration: =
+underline; font-weight: bold;" href=3D"http://pixel-promarketing.de/ga/webv=
+iews/4-199990483-444-23502-25938-63396-c74f049d90" target=3D"_blank">klicke=
+n Sie bitte hier.</a></span>
+</center>
+
+        <center>
+            <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspac=
+ing=3D"0" height=3D"100%" width=3D"100%" id=3D"bodyTable">
+                <tr>
+                    <td align=3D"center" valign=3D"top" id=3D"bodyCell">
+						<!-- BEGIN TEMPLATE // -->
+						<!--[if (gte mso 9)|(IE)]>
+						<table align=3D"center" border=3D"0" cellspacing=3D"0" cellpadding=3D=
+"0" width=3D"600" style=3D"width:600px;">
+						<tr>
+						<td align=3D"center" valign=3D"top" width=3D"600" style=3D"width:600p=
+x;">
+						<![endif]-->
+						<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%=
+" class=3D"templateContainer">
+							<tr>
+								<td valign=3D"top" id=3D"templatePreheader"></td>
+							</tr>
+							<tr>
+								<td valign=3D"top" id=3D"templateHeader"><table border=3D"0" cellpa=
+dding=3D"0" cellspacing=3D"0" width=3D"100%" class=3D"mcnImageBlock" style=
+=3D"min-width:100%;">
+    <tbody class=3D"mcnImageBlockOuter">
+            <tr>
+                <td valign=3D"top" style=3D"padding:9px" class=3D"mcnImageB=
+lockInner">
+                    <table align=3D"left" width=3D"100%" border=3D"0" cellp=
+adding=3D"0" cellspacing=3D"0" class=3D"mcnImageContentContainer" style=3D"=
+min-width:100%;">
+                        <tbody><tr>
+                            <td class=3D"mcnImageContent" valign=3D"top" st=
+yle=3D"padding-right: 9px; padding-left: 9px; padding-top: 0; padding-botto=
+m: 0; text-align:center;">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20
+                                    <a href=3D"http://pixel-promarketing.de=
+/ga/click/2-199990483-444-23502-63396-1911485-c0fb4e7be6-35e84cda7b" title=
+=3D"" class=3D"" target=3D"_blank">
+                                        <img align=3D"center" alt=3D"" src=
+=3D"https://creative.stayfriends.de/DE/lf_mail_autumn_a/1200x628_lf_autumn_=
+a.jpg" width=3D"564" style=3D"max-width:1200px; padding-bottom: 0; display:=
+ inline !important; vertical-align: bottom;" class=3D"mcnImage">
+                                    </a>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20
+                            </td>
+                        </tr>
+                    </tbody></table>
+                </td>
+            </tr>
+    </tbody>
+</table></td>
+							</tr>
+							<tr>
+								<td valign=3D"top" id=3D"templateBody"></td>
+							</tr>
+							<tr>
+								<td valign=3D"top" id=3D"templateColumns">
+									<!--[if (gte mso 9)|(IE)]>
+									<table align=3D"center" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" width=3D"600" style=3D"width:600px;">
+									<tr>
+									<td align=3D"center" valign=3D"top" width=3D"300" style=3D"width:3=
+00px;">
+									<![endif]-->
+									<table align=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" width=3D"350" class=3D"columnWrapper">
+										<tr>
+											<td valign=3D"top" class=3D"columnContainer"><table border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" class=3D"mcnTextBlock" =
+style=3D"min-width:100%;">
+    <tbody class=3D"mcnTextBlockOuter">
+        <tr>
+            <td valign=3D"top" class=3D"mcnTextBlockInner" style=3D"padding=
+-top:9px;">
+              	<!--[if mso]>
+				<table align=3D"left" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" =
+width=3D"100%" style=3D"width:100%;">
+				<tr>
+				<![endif]-->
+=09=09=09=20=20=20=20
+				<!--[if mso]>
+				<td valign=3D"top" width=3D"300" style=3D"width:300px;">
+				<![endif]-->
+                <table align=3D"left" border=3D"0" cellpadding=3D"0" cellsp=
+acing=3D"0" style=3D"max-width:100%; min-width:100%;" width=3D"100%" class=
+=3D"mcnTextContentContainer">
+                    <tbody><tr>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                        <td valign=3D"top" class=3D"mcnTextContent" style=
+=3D"padding-top:0; padding-right:18px; padding-bottom:9px; padding-left:18p=
+x;">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                            <h1 class=3D"null">Wonach suchen Sie?</h1>
+
+<ul>
+	<li><a href=3D"http://pixel-promarketing.de/ga/click/2-199990483-444-23502=
+-63396-1911486-99caf494aa-35e84cda7b" target=3D"_blank">Passende Partner in=
+ Ihrer N=C3=A4he</a></li>
+	<li><a href=3D"http://pixel-promarketing.de/ga/click/2-199990483-444-23502=
+-63396-1911487-35e45b9aa9-35e84cda7b" target=3D"_blank">Neue Freunde mit 50=
++</a></li>
+	<li><a href=3D"http://pixel-promarketing.de/ga/click/2-199990483-444-23502=
+-63396-1911488-e840f3f72c-35e84cda7b" target=3D"_blank">Zeit f=C3=BCr Zweis=
+amkeit</a></li>
+</ul>
+
+                        </td>
+                    </tr>
+                </tbody></table>
+				<!--[if mso]>
+				</td>
+				<![endif]-->
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+				<!--[if mso]>
+				</tr>
+				</table>
+				<![endif]-->
+            </td>
+        </tr>
+    </tbody>
+</table></td>
+										</tr>
+									</table>
+									<!--[if (gte mso 9)|(IE)]>
+									</td>
+									<td align=3D"center" valign=3D"top" width=3D"300" style=3D"width:3=
+00px;">
+									<![endif]-->
+									<table align=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" width=3D"250" class=3D"columnWrapper">
+										<tr>
+											<td valign=3D"top" class=3D"columnContainer"><table border=3D"0"=
+ cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" class=3D"mcnImageBlock"=
+ style=3D"min-width:100%;">
+    <tbody class=3D"mcnImageBlockOuter">
+            <tr>
+                <td valign=3D"top" style=3D"padding:9px" class=3D"mcnImageB=
+lockInner">
+                    <table align=3D"left" width=3D"100%" border=3D"0" cellp=
+adding=3D"0" cellspacing=3D"0" class=3D"mcnImageContentContainer" style=3D"=
+min-width:100%;">
+                        <tbody><tr>
+                            <td class=3D"mcnImageContent" valign=3D"top" st=
+yle=3D"padding-right: 9px; padding-left: 9px; padding-top: 0; padding-botto=
+m: 0; text-align:center;">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20
+                                    <a href=3D"http://pixel-promarketing.de=
+/ga/click/2-199990483-444-23502-63396-1911489-52a4041f4d-35e84cda7b" title=
+=3D"" class=3D"" target=3D"_blank">
+                                        <img align=3D"center" alt=3D"" src=
+=3D"https://creative.stayfriends.de/DE/lf_mail_autumn_a/stoerer.png" width=
+=3D"130" style=3D"max-width:130px; padding-bottom: 0; display: inline !impo=
+rtant; vertical-align: bottom;" class=3D"mcnImage">
+                                    </a>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20
+                            </td>
+                        </tr>
+                    </tbody></table>
+                </td>
+            </tr>
+    </tbody>
+</table></td>
+										</tr>
+									</table>
+									<!--[if (gte mso 9)|(IE)]>
+									</td>
+									</tr>
+									</table>
+									<![endif]-->
+								</td>
+							</tr>
+							<tr>
+								<td valign=3D"top" id=3D"templateFooter"><table border=3D"0" cellpa=
+dding=3D"0" cellspacing=3D"0" width=3D"100%" class=3D"mcnButtonBlock" style=
+=3D"min-width:100%;">
+    <tbody class=3D"mcnButtonBlockOuter">
+        <tr>
+            <td style=3D"padding-top:0; padding-right:18px; padding-bottom:=
+18px; padding-left:18px;" valign=3D"top" align=3D"center" class=3D"mcnButto=
+nBlockInner">
+                <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" wid=
+th=3D"100%" class=3D"mcnButtonContentContainer" style=3D"border-collapse: s=
+eparate !important;border-top-left-radius: 10px;border-top-right-radius: 10=
+px;border-bottom-right-radius: 10px;border-bottom-left-radius: 10px;backgro=
+und-color: #7D005F;">
+                    <tbody>
+                        <tr>
+                            <td align=3D"center" valign=3D"middle" class=3D=
+"mcnButtonContent" style=3D"font-family: Arial; font-size: 18px; padding: 1=
+5px;">
+                                <a class=3D"mcnButton " title=3D"Jetzt find=
+en!" href=3D"http://pixel-promarketing.de/ga/click/2-199990483-444-23502-63=
+396-1911490-307227d5cc-35e84cda7b" target=3D"_blank" style=3D"font-weight: =
+bold;letter-spacing: normal;line-height: 100%;text-align: center;text-decor=
+ation: none;color: #FFFFFF;">Jetzt finden!</a>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </td>
+        </tr>
+    </tbody>
+</table></td>
+							</tr>
+						</table>
+						<!--[if (gte mso 9)|(IE)]>
+						</td>
+						</tr>
+						</table>
+						<![endif]-->
+						<!-- // END TEMPLATE -->
+                    </td>
+                </tr>
+            </table>
+        </center>
+<p align=3D"center">
+
+  <span style=3D"color: #808080; font-size: 12px;">Das Angebot ist eine kom=
+merzielle Anzeige dieses Werbekunden, der allein f&#252;r den Inhalt verant=
+wortlich ist.<br /></span><br /><span style=3D"color: #808080;font-size: 12=
+px;"> Verantwortlich f&#252;r den Versand der E-Mail ist:<br /> <span style=
+=3D"color: #808080;font-size: 12px;"> Ein Service von Pixel ProMarketing S.=
+L. &#160;&#160;|&#160;&#160; Str Azor n5 Mijas-Costa &#160;&#160;|&#160;&#1=
+60; E-29651 M&#225;laga</span><br /><br /> <span style=3D"color: #808080;fo=
+nt-size: 12px;"> Ihre Daten sind lediglich bei dem Versender gespeichert. D=
+er Werbekunde hat daher keinen Einfluss auf dem Empf&#228;ngerkreis der E-M=
+ail. </span><br /> Sofern Sie k&#252;nftig keinen Newsletter mehr erhalten =
+m&#246;chten, wenden Sie sich bitte direkt an den Versender oder klicken au=
+f folgenden Link: <a style=3D"font-weight: normal; text-decoration: underli=
+ne; color: #808080;" href=3D"http://pixel-promarketing.de/ga/unsubscribe/2-=
+199990483-444-23502-63396-e04939885d24e4c-35e84cda7b"> Abmelden</a> <br /> =
+</span><span style=3D"color: #808080;font-size: 12px;"><br />Haben Sie Vers=
+t&#228;ndnis, dass die Abmeldung bis zu 48 Stunden dauern kann. Direkte Ant=
+worten an die Absenderadresse k&#246;nnen nicht beantwortet werden. </span>=
+</p>
+<center><span style=3D"color: #808080;"><span style=3D"color: #808080; font=
+-size: 12px;"> <a style=3D"font-weight: normal; text-decoration: underline;=
+ color: #808080; text-align: center;" href=3D"mailto:support@pixelpromarket=
+ing.com">support(at)pixelpromarketing.com</a></span></span>
+<p><span style=3D"color: #808080;font-size: 12px;">Ihre Daten sind lediglic=
+h bei dem Versender gespeichert. Der Werbekunde hat daher keinen Einfluss a=
+uf den Empf&#228;ngerkreis der E-Mail.</span>
+=20=20
+=20=20=20=20=20=20=20=20
+    <img src=3D"http://pixel-promarketing.de/ga/open/2-199990483-444-23502-=
+63396-35e84cda7b" height=3D"2" width=3D"3" alt=3D""></body>
+</html>
+
+--==0c4e53ec12558a1371656b764eaeb3b2--

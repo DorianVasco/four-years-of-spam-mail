@@ -1,0 +1,63 @@
+Return-Path: <vbghwazs@1122gilford.com>
+Delivered-To: mail@stilfilm.com
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 00C35C1B20
+	for <mail@stilfilm.com>; Thu, 28 Dec 2017 17:22:05 +0100 (CET)
+X-Quarantine-ID: <vJRQYgRBeID5>
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Amavis-Alert: BAD HEADER SECTION, Non-encoded 8-bit data (char C3 hex):
+	Subject: ...er Sie gerade tun. Dies m\303\203\302\274ssen Sie sich
+	[...]
+X-Spam-Flag: YES
+X-Spam-Score: 8.172
+X-Spam-Level: ********
+X-Spam-Status: Yes, score=8.172 required=5.5 tests=[FSL_BULK_SIG=0.001,
+	HTML_MESSAGE=0.001, MIME_HTML_ONLY=1.105, PYZOR_CHECK=1.985,
+	RDNS_NONE=1.274, SPF_NEUTRAL=0.652, SUBJECT_NEEDS_ENCODING=0.1,
+	SUBJ_ILLEGAL_CHARS=1.105, URIBL_ABUSE_SURBL=1.948,
+	URIBL_BLOCKED=0.001] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id vJRQYgRBeID5 for <mail@stilfilm.com>;
+	Thu, 28 Dec 2017 17:22:01 +0100 (CET)
+Received: from mail4.surftown.se (unknown [94.242.58.12])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 593EBC0264
+	for <mail@stilfilm.com>; Thu, 28 Dec 2017 17:22:00 +0100 (CET)
+Received: from apache by 3J6YIjg-T86l1_.1122gilford.com with local (Exim 4.84_2)
+	(envelope-from <vbghwazs@1122gilford.com>)
+	id 18144S-l2Rn5v-Io
+	for mail@stilfilm.com; Thu, 28 Dec 2017 08:22:02 -0800
+To: "Jeffrey" <mail@stilfilm.com>
+Subject: Unterbrechen Sie, was immer Sie gerade tun. Dies müssen Sie sich anschauen.
+X-PHP-Originating-Script: 502:PHPMailer.php
+Date: Thu, 28 Dec 2017 08:22:02 -0800
+From: "Jeffrey" <vbghwazs@1122gilford.com>
+Message-ID: <6z3bbnbtswDZ8RUH18J48kn_56ZSaGBFWM@AwR.1122gilford.com>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.9 (https://github.com/PHPMailer/PHPMailer/)
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7Bit
+
+﻿<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+</head>
+
+<body>
+<p>Hallo!</p>
+<p>Raten, Schulden und Kredite sind zur Gewohnheit geworden, und die angenehm knisternden Scheine reichen immer noch nicht zum leben? </p>
+<p>Hören Sie auf zu probieren, sich anzustrengen und zu arbeiten und fangen Sie an, Geld zu verdienen. </p>
+<p>Erhalten Sie zunächst Ihren Account und die 500 euro, die Ihnen zustehen. Denken Sie bloß nicht, dass Sie Glück haben und niemandem etwas schulden. Die Einladung in unser Team ist der erste und letzte Zufall. Alles andere geschieht nach den Regeln, die für mutige und selbstbewusste Menschen geschrieben wurden.</p>
+<p><a href="http://cambioscena.com/de/">http://cambioscena.com/de/</a></p>
+<p>Denken Sie nicht, dass Sie etwas riskieren oder dass ich Sie betrüge, Anstatt Geschäftsschemata zu entwickeln, beschäftige ich mich mit binären Optionen. Ich brauche Menschen, Sie brauchen Geld. Lassen Sie uns zusammenarbeiten. Wenn das Geschäft, und das ist ein Geschäft, Ihnen als uninteressant oder unrentabel erscheint, können Sie jederzeit gehen, ohne sich zu verabschieden.</p> 
+<p>Ich erinnere Sie daran, dass Sie nur 24 Stunden haben, um die 500 euro abzuheben. </p>
+<p><a href="http://cambioscena.com/de/">http://cambioscena.com/de/</a></p> 
+<p>Wir sehen uns!</p>
+<p>Mit freundlichen Grüßen</p>
+<p>Hannelore Dreher</p>
+
+</body>
+</html>
+

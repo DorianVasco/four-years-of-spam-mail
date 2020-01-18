@@ -1,0 +1,61 @@
+Return-Path: <test@masonbros.co.uk>
+Delivered-To: mail@stilfilm.com
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 6513EC2048
+	for <mail@stilfilm.com>; Sat,  3 Mar 2018 16:14:04 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 7.952
+X-Spam-Level: *******
+X-Spam-Status: Yes, score=7.952 required=5.5
+	tests=[FREEMAIL_FORGED_REPLYTO=2.503, FREEMAIL_REPLYTO=1,
+	FSL_BULK_SIG=1.039, HTML_MESSAGE=0.001, LOTS_OF_MONEY=0.001,
+	MISSING_MID=0.14, PYZOR_CHECK=1.985, RCVD_IN_RP_RNBL=1.284,
+	SPF_PASS=-0.001] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id ODgqvhdmkwuZ for <mail@stilfilm.com>;
+	Sat,  3 Mar 2018 16:14:02 +0100 (CET)
+Received: from b1.tacb.wales (b2.tacb.wales [82.165.24.84])
+	(using TLSv1.2 with cipher AECDH-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id B9E81C0890
+	for <mail@stilfilm.com>; Sat,  3 Mar 2018 16:14:02 +0100 (CET)
+Received: from SRV-COMPUTE-02.labazure.local (unknown [52.143.136.190])
+	by b1.tacb.wales (Postfix) with ESMTPA id AEE841A437B;
+	Sat,  3 Mar 2018 03:52:19 +0000 (GMT)
+Content-Type: multipart/alternative; boundary="===============0874834648=="
+MIME-Version: 1.0
+Subject: Guten Tag.
+To: Recipients <test@masonbros.co.uk>
+From: "H.Thomas " <test@masonbros.co.uk>
+Date: Sat, 03 Mar 2018 04:52:14 +0100
+Reply-To: homas_hendrick@aol.com
+Message-Id: <20180303151404.6513EC2048@v22014122474822114.stilfilm.com>
+
+You will not see this in a MIME-aware mail reader.
+--===============0874834648==
+Content-Type: text/plain; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+Lieber Freund, Ich suche nach Ihrer Hilfe, um die Summe von 12 Millionen Eu=
+ro zu sichern in Ihrem Land f=FCr Investitionszwecke. Ich schreibe dir aus =
+den Niederlanden. Bitte kontaktieren Sie mich f=FCr weitere Informationen, =
+wenn Sie interessiert sind auf meiner privaten E-Mail: thomas_hendrick@aol.=
+com Mit freundlichen Gr=FC=DFen Thomas Hendricks.=20
+--===============0874834648==
+Content-Type: text/html; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+<HTML><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3Diso-8859-1"/></head><BODY>Lieber Freund, Ich suche nach Ihrer Hilfe, um =
+die Summe von 12 Millionen Euro zu sichern in Ihrem Land f=FCr Investitions=
+zwecke. Ich schreibe dir aus den Niederlanden. Bitte kontaktieren Sie mich =
+f=FCr weitere Informationen, wenn Sie interessiert sind auf meiner privaten=
+ E-Mail: thomas_hendrick@aol.com Mit freundlichen Gr=FC=DFen Thomas Hendric=
+ks. </BODY></HTML>
+--===============0874834648==--

@@ -1,0 +1,145 @@
+Return-Path: <rashmikhanna673@yahoo.com>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 98556C6D98
+	for <mail@dorianvasco.de>; Tue, 16 Jul 2019 11:28:33 +0200 (CEST)
+Authentication-Results: v22014122474822114.stilfilm.com; dkim=pass
+	reason="2048-bit key; insecure key"
+	header.d=yahoo.com header.i=@yahoo.com header.b=qcPobDtB;
+	dkim-adsp=pass; dkim-atps=neutral
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: 0.952
+X-Spam-Level:
+X-Spam-Status: No, score=0.952 required=5.5 tests=[BAYES_50=0.8,
+	DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	FREEMAIL_ENVFROM_END_DIGIT=0.25, FREEMAIL_FROM=0.001,
+	HTML_MESSAGE=0.001, RCVD_IN_DNSWL_NONE=-0.0001, SPF_HELO_NONE=0.001,
+	SPF_PASS=-0.001] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id QnlhQyBQtg9x for <mail@dorianvasco.de>;
+	Tue, 16 Jul 2019 11:28:22 +0200 (CEST)
+Received: from sonic309-19.consmr.mail.sg3.yahoo.com (sonic309-19.consmr.mail.sg3.yahoo.com [106.10.244.82])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id CC464D25FF
+	for <mail@dorianvasco.de>; Tue, 16 Jul 2019 11:28:00 +0200 (CEST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1563269275; bh=PddYR99oGGGgy21khB29Z7RRGXS9gYXDwAC+Eu3DoLs=; h=Date:From:To:Subject:References:From:Subject; b=qcPobDtBiq0G+NbOMjWHhjd3deGMyZARe2gsthT8Yqg2igAMkSEbrieKAGNeRxLuKrdB/fxPZ1gvcYUy5xBA9u/Bqga1f1JdXMrK8Lcrps14SYshaN+ZlpbXfkYvps4K5E/zY8LBMbFuTOAphAevrgjvWECDtj+Nrgaq+2bw9roi5bgEr/bDXW620FRVkNZ9UdZODqh3jA3Zi7ViEqx55hxOqkgEbaNFMWBa6YydTEWfDvBYgr8Ssa6k+4HVXfMGFhrYA7XB7FF6NCm2QldSjAXefWGRuNebsg2Cu6jOwNq/GSP63SeXgBJju76f2bAD2itE03coQEiaf8zkYZ1NAA==
+X-YMail-OSG: GY79DKIVM1kDf2jVtgqvoo.DOthdNfh8roNcFkKj0TbpJQibHvrqLl0gYoNVdAu
+ SH4dUy_YzS0zQyAuom2MDcB5ejcBLIHHbwDlAM_Ae9zrGleVWygGT_eW1.ZZLeRklnX47XcpNsJP
+ 2AIM65oxm7URCAVt01u7A__vK220OpQINT_exgNnWm4WgvMCctEqChiaEtr4_8RmfCVviF6qtp..
+ 2ezau8LV2OL9E4U0AUCw4fJTdmbwnbovacX38SwJg9kN2fEwF4yRDGwdtefXSDd01WYY7oEoxc5.
+ fLIHGTS8DpwnxZ._DTrlHFZvghjaIQchr99e5FmzK3ecg_sGCDNBktStI6L_S7NGanBTagoobuLy
+ 1F6hOaJhjhyScR6sUntIiCCb4BedMprYthNHld_UZDVdATjdj5Ood1CwIZFMGuC0SZPeCPcVWzgt
+ Z26uoHBcvTAfYuJcZg3JiGzoAAmEKLq1M7kjYGMK87A4bFCtgUVM9BQsiTUD7TYkGrvSmInOSkeJ
+ me11Ah._ThnUQXLeTR9Q0Mwe7RTlp1yTpeadbkDTCqHbZYk794o5.ECgrmydvjWj8TWHl4DHjHjb
+ 7ryNkLAb08Q0W81GrFhoyfN8SNXOt8f0F3lw4slBZ0X7_O7agQfuUYz7duqodSquxljxPMfZ2Jmm
+ bWLGxYy86f3aKf98dNaT7.h0RN.qR9ME.bB7Ft7_Xn_P_bb1bdqnkB.6LEUQRTLyM4f2vkUSyTL.
+ sU2SqhuJTsUOKaCFO4Ikx.Flf4LzSK7u1GKub57O1I7EgVdYpkS7AgCCt7HNtKE.LwNgMY2NgUmi
+ l..vAi.s9Sp1_vENotLEYUkFv_QMAAcL_LOWruj3fDo3xx7SL6OjkZFVyQ2O4RqEZKA3qHnmOQ9O
+ FNK636vanJMKY1.ZV4sk6HNvn9nil5nQC1Ji06v4tN.6u_0j08s2fih04jNMB.aHhIU3zLc3W7Fw
+ Ql3DypFtOfkZAsyjV24YMLPLjK29zB60JQlKpaC4zWo6vczM7QEezfQQP91yDI3R0gA84ZpTTnQP
+ 8dVPzHDsCvHLzqR94XCrMWRDIELZgLS6XkbEv_lHzA3d9ew.TQJbVny8BFuIlaC_yBHwbgDsbZyK
+ K.qNjiWebKOsNszRP2TafooCOclPM2E3kOJW5DL_A.Y1gssAIam49USCgOjoP5rP3ynx7gi.3dBH
+ 4qp2KjXD7NKxuI8SQaglomm3n8nq7JeFZqUd6_fHgYROGJYo9pEc-
+Received: from sonic.gate.mail.ne1.yahoo.com by sonic309.consmr.mail.sg3.yahoo.com with HTTP; Tue, 16 Jul 2019 09:27:55 +0000
+Date: Tue, 16 Jul 2019 09:27:53 +0000 (UTC)
+From: Rashmi Khanna <rashmikhanna673@yahoo.com>
+To: "mail@doehrmann-pankrath.de" <mail@doehrmann-pankrath.de>
+Message-ID: <1117593383.1834281.1563269273826@mail.yahoo.com>
+Subject: Logo design
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_1834280_816183131.1563269273824"
+References: <1117593383.1834281.1563269273826.ref@mail.yahoo.com>
+X-Mailer: WebService/1.1.13991 YMailNorrin Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+
+------=_Part_1834280_816183131.1563269273824
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Hello,
+Have you been searching for the perfect website for your business? Well, we=
+ have a goody bag to deliver to you.
+We are a group of professional website and logo designers who can get the l=
+ogo or website of your business ready in no distant time. No matter how big=
+ or small your business is =E2=80=93 it is a necessity for your business to=
+ have an online presence. As adept professional designers we are, we will g=
+ive you nothing but the best designs.
+We will design a dynamic website, which is the best and perfect website for=
+ your business. It will clearly explain what your business is, and as well =
+give each of your clients the best user experience that will leave them wit=
+h no option but to return.
+I=E2=80=99m sure you are now convinced on the quality of our services, so, =
+it=E2=80=99s time to claim the goody bag of excellent and outstanding desig=
+ns. We also do any other graphic / photoshop designing related work...
+Our pricing is better or comparable to individual service provider. To plac=
+e your orders, reply this mail and we will send you the details on how to p=
+lace your orders.
+Regards,Rashmi Khanna
+
+------=_Part_1834280_816183131.1563269273824
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><head></head><body><div class=3D"yahoo-style-wrap" style=3D"font-fami=
+ly:Helvetica Neue, Helvetica, Arial, sans-serif;font-size:16px;"><div dir=
+=3D"ltr" data-setdir=3D"false"><div><div style=3D"font-family: &quot;Helvet=
+ica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 16px;"><span style=
+=3D"font-size: 11pt; font-family: Calibri, sans-serif;"><font color=3D"#808=
+080">Hello,</font></span></div><div style=3D"font-family: &quot;Helvetica N=
+eue&quot;, Helvetica, Arial, sans-serif; font-size: 16px;"><span style=3D"f=
+ont-family: Calibri, sans-serif; font-size: 11pt;"><font color=3D"#808080">=
+<br></font></span></div><div style=3D"font-family: &quot;Helvetica Neue&quo=
+t;, Helvetica, Arial, sans-serif; font-size: 16px;"><span style=3D"font-fam=
+ily: Calibri, sans-serif; font-size: 11pt;"><font color=3D"#808080">Have yo=
+u been searching for the perfect website for your business? Well, we have a=
+ goody bag to deliver to you.</font></span></div><div style=3D"font-family:=
+ &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 16px;=
+"><span style=3D"font-family: Calibri, sans-serif; font-size: 11pt;"><font =
+color=3D"#808080"><br></font></span></div><div style=3D"font-family: &quot;=
+Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 16px;"><span=
+ style=3D"font-family: Calibri, sans-serif; font-size: 11pt;"><font color=
+=3D"#808080">We are a group of professional website and logo designers who =
+can get the logo or website of your business ready in no distant time. No m=
+atter how big or small your business is =E2=80=93 it is a necessity for you=
+r business to have an online presence. As adept professional designers we a=
+re, we will give you nothing but the best designs.</font></span></div><div =
+style=3D"font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-se=
+rif; font-size: 16px;"><span style=3D"font-family: Calibri, sans-serif; fon=
+t-size: 11pt;"><font color=3D"#808080"><br></font></span></div><div style=
+=3D"font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; =
+font-size: 16px;"><span style=3D"font-family: Calibri, sans-serif; font-siz=
+e: 11pt;"><font color=3D"#808080">We will design a dynamic website, which i=
+s the best and perfect website for your business. It will clearly explain w=
+hat your business is, and as well give each of your clients the best user e=
+xperience that will leave them with no option but to return.</font></span><=
+/div><div style=3D"font-family: &quot;Helvetica Neue&quot;, Helvetica, Aria=
+l, sans-serif; font-size: 16px;"><span style=3D"font-family: Calibri, sans-=
+serif; font-size: 11pt;"><font color=3D"#808080"><br></font></span></div><d=
+iv style=3D"font-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans=
+-serif; font-size: 16px;"><span style=3D"font-family: Calibri, sans-serif; =
+font-size: 11pt;"><font color=3D"#808080">I=E2=80=99m sure you are now conv=
+inced on the quality of our services, so, it=E2=80=99s time to claim the go=
+ody bag of excellent and outstanding designs. We also do any other graphic =
+/ photoshop designing related work...</font></span></div><div style=3D"font=
+-family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-siz=
+e: 16px;"><span style=3D"font-family: Calibri, sans-serif; font-size: 11pt;=
+"><font color=3D"#808080"><br></font></span></div><div style=3D"font-family=
+: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 16px=
+;"><span style=3D"font-family: Calibri, sans-serif; font-size: 11pt;"><font=
+ color=3D"#808080">Our pricing is better or comparable to individual servic=
+e provider. To place your orders, reply this mail and we will send you the =
+details on how to place your orders.</font></span></div><div style=3D"font-=
+family: &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size=
+: 16px;"><span style=3D"font-family: Calibri, sans-serif; font-size: 11pt;"=
+><font color=3D"#808080"><br></font></span></div><div style=3D"font-family:=
+ &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 16px;=
+"><span style=3D"font-family: Calibri, sans-serif; font-size: 11pt;"><font =
+color=3D"#808080">Regards,</font></span></div><div dir=3D"ltr" data-setdir=
+=3D"false" style=3D"font-family: &quot;Helvetica Neue&quot;, Helvetica, Ari=
+al, sans-serif; font-size: 16px;"><b><span style=3D"font-size: 11pt; font-f=
+amily: Calibri, sans-serif;"><font color=3D"#808080">Rashmi Khanna</font></=
+span></b></div></div><br></div></div></body></html>
+------=_Part_1834280_816183131.1563269273824--

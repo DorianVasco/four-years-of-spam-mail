@@ -1,0 +1,642 @@
+Return-Path: <return-a400-61241-61242-8a47c625=200437775=8@premiummailings.de>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 50CD2D1E10
+	for <mail@dorianvasco.de>; Thu, 27 Jun 2019 04:22:31 +0200 (CEST)
+Authentication-Results: v22014122474822114.stilfilm.com; dkim=pass
+	reason="1024-bit key; insecure key"
+	header.d=premiummailings.de header.i=@premiummailings.de
+	header.b=SR4KwDqc; dkim-adsp=pass; dkim-atps=neutral
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: 5.302
+X-Spam-Level: *****
+X-Spam-Status: No, score=5.302 required=5.5 tests=[BAYES_99=3.5,
+	BAYES_999=0.2, DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	HTML_MESSAGE=0.001, SPF_HELO_NONE=0.001, URIBL_BLACK=1.7] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id Nm6KUKi8ZpPj for <mail@dorianvasco.de>;
+	Thu, 27 Jun 2019 04:22:23 +0200 (CEST)
+Received: from smtp7-023.mediachannel-deals.de (smtp7-023.mediachannel-deals.de [149.202.141.129])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id DD143D1E09
+	for <kontakt@dorianvasco.de>; Thu, 27 Jun 2019 04:22:20 +0200 (CEST)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; d=premiummailings.de; s=premmail;
+ t=1561602136; bh=sa40hscSY42VQWNJHutMpU9HqfM=;
+ h=Subject:From:To:Reply-To:Date:List-Unsubscribe:X-CampaignID:
+  Message-ID:X-Mailer-Info:MIME-Version:Content-Type;
+ b=SR4KwDqcIoMyKfs0R9ANBfy/AXyvDdIf7vhqXARFNzzCnLQ+4Ny5Jg/lttO1iHSTg
+  yNk76CGfaBqoTKsIHCH7dWjOMG4BKJsRMJkxnSC7u9ZBXd2P09KTvGnaAcLKWJtwev
+  KRM9Df2j2eo489F7I5fR5mI/CGG1CON0AuPINzC8=
+Subject: =?UTF-8?Q?Jackpot=3A=2025=20Mio=20=E2=82=AC=206=20Felder=20LOT?=
+ =?UTF-8?Q?TO=20f=C3=BCr=20nur=201=2C=2D=20=E2=82=AC=21?=
+From: "Tipp24" <info@premiummailings.de>
+To: kontakt@dorianvasco.de
+Reply-To: noreply@premiummailings.de
+Date: 27 Jun 2019 02:22:16 -0000
+List-Unsubscribe: <http://premiummailings.de/ga/unsubscribe/2-200437775-400-22322-61242-3dd7770685275ec-92d3ea61ff?confirmed=1>,
+ <mailto:return-a400-61241-61242-8a47c625=200437775=8u@premiummailings.de>
+X-CampaignID: s4:61241-39db81f1a27ee9c2
+Message-ID: <mid-bf636ced61a9af006749ac62da0e0c27-14@premiummailings.de>
+X-Mailer-Info: 8.QY0ADM.YTMyQTM.wav5GdhtGdAR2bylWYuZXYzN2buQWZ.yADM0MzN3cTN.YTMyQjM
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="==5bfb62293244817816157bed57dbcfee"
+
+This is a multi-part message in MIME format.
+
+--==5bfb62293244817816157bed57dbcfee
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Sollte Ihr Newsletter nicht korrekt dargestellt werden,
+klicken Sie bitte hier. ( http://premiummailings.de/ga/webviews/4-200437775=
+-400-22322-24684-61242-29773e41a1 )
+
+Tipp24.com ( http://premiummailings.de/ga/click/2-200437775-400-22322-61242=
+-1901783-01271557fa-92d3ea61ff )
+
+Jackpot: 24 Mio =E2=82=AC ( http://premiummailings.de/ga/click/2-200437775-=
+400-22322-61242-1901784-0be4fd95d1-92d3ea61ff )
+
+6 Felder LOTTO f=C3=BCr nur 1,- =E2=82=AC! ( http://premiummailings.de/ga/c=
+lick/2-200437775-400-22322-61242-1901785-ec92b588bc-92d3ea61ff )
+
+Tipp24.com ( http://premiummailings.de/ga/click/2-200437775-400-22322-61242=
+-1901786-456d67d0d5-92d3ea61ff )
+
+Spiel 6 Felder LOTTO ( http://premiummailings.de/ga/click/2-200437775-400-2=
+2322-61242-1901787-4c30471b09-92d3ea61ff ) f=C3=BCr nur 1,- =E2=82=AC!
+Sichere dir noch heute den Gutschein im Wert von 5,50 =E2=82=AC und knack
+mit ein wenig Gl=C3=BCck den Jackpot.
+
+Die Teilnahme ist nur =C3=BCber den Link ( http://premiummailings.de/ga/cli=
+ck/2-200437775-400-22322-61242-1901788-372c632bc6-92d3ea61ff ) in dieser
+E-Mail m=C3=B6glich.*
+
+Sichere dir die Chance auf 24 Mio =E2=82=AC!
+
+Viel Gl=C3=BCck w=C3=BCnscht
+
+Dein Team von Tipp24
+
+Jetzt spielen! ( http://premiummailings.de/ga/click/2-200437775-400-22322-6=
+1242-1901789-b9f21d68d7-92d3ea61ff )
+
+* Gilt nur f=C3=BCr Neukunden zur LOTTO-Ziehung am
+22.06.2019
+
+Tipp24 - der beste Lotto-Service im Internet
+
+Kundenurteil Online-Lotto-Anbieter
+
+Regelm=C3=A4=C3=9Fig Gewinner - =C3=9Cber 1,3 Mrd.
+=E2=82=AC an ausgesch=C3=BCtteten Gewinnen
+
+Staatlich lizenziert und langj=C3=A4hrige
+Erfahrung am Markt
+
+Sicher und seri=C3=B6s
+
+Kostenloser Kundenservice
+
+Telefon:
+
+00800-1612 1612 ( tel:080016121612 )
+
+Mo - Sa von 9 - 21 Uhr
+
+service@tipp24.com ( service@tipp24.com )
+
+Impressum ( http://premiummailings.de/ga/click/2-200437775-400-22322-61242-=
+1901790-e10d6689d3-92d3ea61ff )
+
+Sie erhalten diese E-Mail, weil Sie unsere Dienste in Anspruch
+nehmen oder an Gewinnspielen
+der Premium Performance Mail AG oder unserer
+Kooperationspartner teilgenommen haben. Die Angebote sind
+kommerzielle Anzeigen der jeweiligen Werbekunden,
+die f=C3=BCr den jeweiligen Inhalt verantwortlich sind.
+Bei Fragen zu den Angeboten haben, wenden Sie sich bitte an den
+in der Anzeige genannten Anbieter.
+Die Premium Performance Mail AG ist ausschlie=C3=9Flich
+Versender dieser Nachricht. Bitte antworten Sie nicht auf diese
+Mail. Um in Zukunft keine Informationen mehr von
+dieser Adresse zu erhalten, dann klicken Sie bitte
+hier ( http://premiummailings.de/ga/unsubscribe/2-200437775-400-22322-61242=
+-3dd7770685275ec-92d3ea61ff ), um sich abzumelden. Haben Sie
+Verst=C3=A4ndnis, dass die Abmeldung bis zu 48 Stunden dauern kann.
+
+Director Caroline Wange
+
+The Picasso Building, Caldervale Road, Wakefield, West
+Yorkshire, United Kingdom.=
+
+--==5bfb62293244817816157bed57dbcfee
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml"><head>
+<title>Tipp24.com</title>
+<meta content=3D"text/html; charset=3DUTF-8" http-equiv=3D"Content-Type">
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1.=
+0">
+<meta name=3D"format-detection" content=3D"address=3Dno">
+<!--[if !mso]><!-->
+    <meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">
+  <!--<![endif]-->
+<style type=3D"text/css">
+<!--
+* {
+  padding:0px;
+  margin:0px;
+}
+ @media only screen and (max-width:610px) {
+ .tuv1 {
+width:56.5% !important;
+}
+ .tuv2 {
+width:4% !important;
+}
+ .tuv3 {
+width:39.5% !important;
+}
+}
+ @media only screen and (max-width:480px) {
+ .DesktopMargin {
+width:10px !important;
+}
+}
+ @media only screen and (max-width:440px) {
+ .tuv1 {
+width:100% !important;
+}
+ .tuv1 img {
+max-width:283px !important;
+}
+ .tuv2 {
+width:100% !important;
+height:20px !important;
+}
+ .tuv3 {
+width:100% !important;
+}
+}
+ //
+-->
+</style>
+</head>
+<body style=3D"margin:0;height:100%;width:100%;background-color:#990000;">
+<center>
+<span style=3D"font-size: 10px; line-height: 12px; color: #7F7F7F; font-fam=
+ily: 'Century Gothic', Tahoma, sans-serif;">Sollte Ihr Newsletter nicht kor=
+rekt dargestellt werden,<br /><a style=3D"color: #7f7f7f; text-decoration: =
+underline; font-weight: bold;" href=3D"http://premiummailings.de/ga/webview=
+s/4-200437775-400-22322-24684-61242-29773e41a1" target=3D"_blank">klicken S=
+ie bitte hier.</a></span>
+</center>
+
+
+ <img class=3D"measurementPixel" alt=3D"" src=3D"https://opentracking-one.d=
+e/1156978-0-0.gif" width=3D"1" height=3D"1"/>  <!--rc_header-->
+<!-- START: HEADER AREA -->
+<table style=3D"padding:0px;margin:0px;width:100%;background-color:#990000;=
+" cellspacing=3D"0" cellpadding=3D"0" border=3D"0">
+  <tbody><tr>
+    <td style=3D"padding:0px;margin:0px;font-size:20px;line-height:20px;hei=
+ght:20px;" height=3D"20">&nbsp;</td>
+  </tr>
+  <tr>
+    <td style=3D"padding:0px;margin:0px;"><!-- START: LOGO -->
+      <center>
+        <a href=3D"http://premiummailings.de/ga/click/2-200437775-400-22322=
+-61242-1901791-1709fc06ac-92d3ea61ff" target=3D"_blank"><img src=3D"http://=
+ps.tipp24.com/NL2015/header/logo.jpg" alt=3D"Tipp24.com" title=3D"Tipp24.co=
+m" style=3D"padding:0px;margin:0px;display:block;width:157px;height:53;colo=
+r:#FFFFFF;font-family:Arial;font-size:32px;font-weight:600;" border=3D"0"><=
+/a>
+      </center>
+      <!-- END: LOGO --></td>
+  </tr>
+  <tr>
+    <td style=3D"padding:0px;margin:0px;font-size:20px;line-height:20px;hei=
+ght:20px;" height=3D"20">&nbsp;</td>
+  </tr>
+</tbody></table>
+<!-- END: HEADER AREA -->
+<!-- START: TEASER AREA -->
+<table style=3D"padding:0px;margin:0px;width:100%;background-color:#F2F2F2;=
+" cellspacing=3D"0" cellpadding=3D"0" border=3D"0">
+  <tbody><tr>
+    <td style=3D"padding:0px;margin:0px;">&nbsp;</td>
+    <td style=3D"padding:0px;margin:0px;width:580px;background-color:#FFFFF=
+F;" width=3D"580"><!-- TEASER TEXT -->
+      <table style=3D"padding:0px;margin:0px;width:100%;" cellspacing=3D"0"=
+ cellpadding=3D"0" border=3D"0">
+        <tbody><tr>
+          <td style=3D"padding:0px;margin:0px;width:40px;" class=3D"Desktop=
+Margin"  width=3D"40">&nbsp;</td>
+          <td style=3D"padding:0px;margin:0px;"><table style=3D"padding:0px=
+;margin:0px;width:100%;" cellspacing=3D"0" cellpadding=3D"0" border=3D"0">
+              <tbody><tr>
+                <td style=3D"padding:0px;margin:0px;font-size:40px;line-hei=
+ght:40px;height:40px;" height=3D"40">&nbsp;</td>
+              </tr>
+              <tr>
+                <td style=3D"padding:0px;margin:0px;font-size:36px;font-fam=
+ily:Arial,Helvetica,sans-serif;font-weight:600;color:000000;"><!-- START: B=
+G LINK 1 -->
+                  <center>
+                    <a href=3D"http://premiummailings.de/ga/click/2-2004377=
+75-400-22322-61242-1901792-49ea1d7a87-92d3ea61ff" target=3D"_blank" style=
+=3D"text-decoration:none;color:#000000;"> Jackpot: 25&nbsp;Mio&nbsp;=E2=82=
+=AC </a>
+                  </center>
+                  <!-- END BG LINK 1 --></td>
+              </tr>
+              <!-- START: BG LINK 2 -->
+              <tr>
+                <td style=3D"padding:0px;margin:0px;font-size:28px;font-fam=
+ily:Arial,Helvetica,sans-serif;font-weight:600;color:000000;"><center>
+                    <a href=3D"http://premiummailings.de/ga/click/2-2004377=
+75-400-22322-61242-1901793-c20c714011-92d3ea61ff" target=3D"_blank" style=
+=3D"text-decoration:none;color:#666666;">
+                    <!-- END: BG LINK 2 -->
+                    6 Felder LOTTO f=C3=BCr nur 1,-&nbsp;=E2=82=AC! </a>
+                  </center></td>
+              </tr>
+              <tr>
+                <td style=3D"padding:0px;margin:0px;font-size:20px;line-hei=
+ght:20px;height:20px;" height=3D"20">&nbsp;</td>
+              </tr>
+            </tbody></table></td>
+          <td style=3D"padding:0px;margin:0px;width:40px;" class=3D"Desktop=
+Margin"  width=3D"40">&nbsp;</td>
+        </tr>
+      </tbody></table>
+      <!-- TEASER IMAGE -->
+      <table style=3D"padding:0px;margin:0px;width:100%;" cellspacing=3D"0"=
+ cellpadding=3D"0" border=3D"0">
+        <tbody><tr>
+          <td style=3D"padding:0px;margin:0px;width:10px;" width=3D"10">&nb=
+sp;</td>
+          <td style=3D"padding:0px;margin:0px;"><table style=3D"padding:0px=
+;margin:0px;width:100%;" cellspacing=3D"0" cellpadding=3D"0" border=3D"0">
+              <tbody><tr>
+                <td style=3D"padding:0px;margin:0px;font-size:36px;font-fam=
+ily:Arial,Helvetica,sans-serif;font-weight:600;color:000000;"><center>
+                    <a href=3D"http://premiummailings.de/ga/click/2-2004377=
+75-400-22322-61242-1901794-7f71771139-92d3ea61ff" target=3D"_blank"><img sr=
+c=3D"http://ps.tipp24.com/NL_COM/superteaser/sales/Teaser_ACQ_L649_25Mio.pn=
+g" alt=3D"Tipp24.com" title=3D"Tipp24.com" style=3D"padding:0px;margin:0px;=
+display:block;width:100%;height:auto;color:#000000;font-family:Arial;font-s=
+ize:32px;font-weight:600;" border=3D"0"></a>
+                  </center></td>
+              </tr>
+              <tr>
+                <td style=3D"padding:0px;margin:0px;font-size:20px;line-hei=
+ght:20px;height:20px;" height=3D"20">&nbsp;</td>
+              </tr>
+            </tbody></table></td>
+          <td style=3D"padding:0px;margin:0px;width:10px;" width=3D"10">&nb=
+sp;</td>
+        </tr>
+      </tbody></table></td>
+    <td style=3D"padding:0px;margin:0px;">&nbsp;</td>
+  </tr>
+</tbody></table>
+<!-- END: TEASER AREA -->
+<!-- START: CONTENT AREA -->
+<table style=3D"padding:0px;margin:0px;width:100%;background-color:#F2F2F2;=
+" cellspacing=3D"0" cellpadding=3D"0" border=3D"0">
+  <tbody><tr>
+    <td style=3D"padding:0px;margin:0px;">&nbsp;</td>
+    <td style=3D"padding:0px;margin:0px;width:580px;background-color:#FFFFF=
+F;" width=3D"580"><table style=3D"padding:0px;margin:0px;width:100%;" cells=
+pacing=3D"0" cellpadding=3D"0" border=3D"0">
+        <tbody><tr>
+          <td style=3D"padding:0px;margin:0px;width:40px;" class=3D"Desktop=
+Margin"  width=3D"40">&nbsp;</td>
+          <td style=3D"padding:0px;margin:0px;"><table style=3D"padding:0px=
+;margin:0px;width:100%;" cellspacing=3D"0" cellpadding=3D"0" border=3D"0">
+              <tbody><tr>
+                <td style=3D"padding:0px;margin:0px;font-size:20px;line-hei=
+ght:20px;height:20px;" height=3D"20">&nbsp;</td>
+              </tr>
+              <!-- START TEXTLINK -->
+              <tr>
+                <td style=3D"padding:0px;margin:0px;font-size:23px;font-fam=
+ily:Arial,Helvetica,sans-serif;color:#666666;"> Spiel <a href=3D"http://pre=
+miummailings.de/ga/click/2-200437775-400-22322-61242-1901795-6293b77e25-92d=
+3ea61ff" target=3D"_blank" style=3D"color:#666666;">6 Felder LOTTO</a> f=C3=
+=BCr nur 1,-&nbsp;=E2=82=AC! Sichere dir noch heute den Gutschein im Wert v=
+on 5,50&nbsp;=E2=82=AC und knack mit ein wenig Gl=C3=BCck den Jackpot. </td>
+              </tr>
+              <!-- END TEXTLINK -->
+              <tr>
+                <td style=3D"padding:0px;margin:0px;font-size:20px;line-hei=
+ght:20px;height:20px;" height=3D"20">&nbsp;</td>
+              </tr>
+              <tr>
+                <td style=3D"padding:0px;margin:0px;font-size:23px;font-fam=
+ily:Arial,Helvetica,sans-serif;color:#666666;"> Die Teilnahme ist nur =C3=
+=BCber <a href=3D"http://premiummailings.de/ga/click/2-200437775-400-22322-=
+61242-1901796-ef91751d3c-92d3ea61ff" target=3D"_blank" style=3D"color:#6666=
+66;">den Link</a> in dieser E-Mail m=C3=B6glich.* </td>
+              </tr>
+              <tr>
+                <td style=3D"padding:0px;margin:0px;font-size:20px;line-hei=
+ght:20px;height:20px;" height=3D"20">&nbsp;</td>
+              </tr>
+              <tr>
+                <td style=3D"padding:0px;margin:0px;font-size:23px;font-fam=
+ily:Arial,Helvetica,sans-serif;color:#666666;"> Sichere dir die Chance auf =
+<b>25 Mio =E2=82=AC! </b></td>
+              </tr>
+              <tr>
+                <td style=3D"padding:0px;margin:0px;font-size:20px;line-hei=
+ght:20px;height:20px;" height=3D"20">&nbsp;</td>
+              </tr>
+              <tr>
+                <td style=3D"padding:0px;margin:0px;font-size:23px;font-fam=
+ily:Arial,Helvetica,sans-serif;color:#666666;"> Viel Gl=C3=BCck w=C3=BCnsch=
+t </td>
+              </tr>
+              <tr>
+                <td style=3D"padding:0px;margin:0px;font-size:23px;font-fam=
+ily:Arial,Helvetica,sans-serif;color:#666666;"> Dein Team von Tipp24 </td>
+              </tr>
+              <tr>
+                <td style=3D"padding:0px;margin:0px;font-size:23px;line-hei=
+ght:20px;height:20px;" height=3D"20">&nbsp;</td>
+              </tr>
+              <tr>
+                <td style=3D"padding:0px;margin:"><!-- START CTA -->
+                  <center>
+                    <a href=3D"http://premiummailings.de/ga/click/2-2004377=
+75-400-22322-61242-1901797-27c9bc65ad-92d3ea61ff" target=3D"_blank"><img sr=
+c=3D"http://ps.tipp24.com/NL2015/buttons/jetztspielen.jpg" alt=3D"Jetzt spi=
+elen!" title=3D"Jetzt spielen!" style=3D"padding:0px;margin:0px;display:blo=
+ck;width:100%;height:auto;color:#000000;font-family:Arial;font-size:32px;fo=
+nt-weight:600;" border=3D"0"></a>
+                  </center>
+                  <!-- END CTA --></td>
+              </tr>
+              <tr>
+                <td style=3D"padding:0px;margin:0px;font-size:23px;line-hei=
+ght:20px;height:20px;" height=3D"20">&nbsp;</td>
+              </tr>
+              <tr>
+                <td style=3D"padding:0px;margin:0px;font-size:14px;font-fam=
+ily:Arial,Helvetica,sans-serif;color:#666666;"> * Gilt nur f=C3=BCr Neukund=
+en zur LOTTO-Ziehung am 26.06.2019 </td>
+              </tr>
+              <tr>
+                <td style=3D"padding:0px;margin:0px;font-size:40px;line-hei=
+ght:40px;height:40px;" height=3D"40">&nbsp;</td>
+              </tr>
+            </tbody></table></td>
+          <td style=3D"padding:0px;margin:0px;width:40px;" class=3D"Desktop=
+Margin"  width=3D"40">&nbsp;</td>
+        </tr>
+      </tbody></table>
+      <table style=3D"padding:0px;margin:0px;width:100%;" cellspacing=3D"0"=
+ cellpadding=3D"0" border=3D"0">
+        <tbody><tr>
+          <td style=3D"padding:0px;margin:0px;width:10px;" width=3D"10">&nb=
+sp;</td>
+          <td style=3D"padding:0px;margin:0px;"><table style=3D"padding:0px=
+;margin:0px;width:100%;" cellspacing=3D"0" cellpadding=3D"0" border=3D"0">
+              <tbody><tr>
+                <td style=3D"padding:0px;margin:0px;font-size:1px;line-heig=
+ht:1px;height:1px;width:100%;background-color:#CCCCCC;" height=3D"1">&nbsp;=
+</td>
+              </tr>
+              <tr>
+                <td style=3D"padding:0px;margin:0px;font-size:40px;line-hei=
+ght:40px;height:40px;" height=3D"40">&nbsp;</td>
+              </tr>
+            </tbody></table></td>
+          <td style=3D"padding:0px;margin:0px;width:10px;" width=3D"10">&nb=
+sp;</td>
+        </tr>
+      </tbody></table>
+      <table style=3D"padding:0px;margin:0px;width:100%;" cellspacing=3D"0"=
+ cellpadding=3D"0" border=3D"0">
+        <tbody><tr>
+          <td style=3D"padding:0px;margin:0px;width:40px;" class=3D"Desktop=
+Margin"  width=3D"40">&nbsp;</td>
+          <td style=3D"padding:0px;margin:0px;"><table style=3D"padding:0px=
+;margin:0px;width:100%;" cellspacing=3D"0" cellpadding=3D"0" border=3D"0">
+              <tbody><tr>
+                <td colspan=3D"3" style=3D"padding:0px;margin:0px;font-size=
+:16px;font-family:Arial,Helvetica,sans-serif;font-weight:600;color:#666666;=
+"> Tipp24 - der beste Lotto-Service im Internet </td>
+              </tr>
+              <tr>
+                <td style=3D"padding:0px;margin:0px;font-size:20px;line-hei=
+ght:20px;height:20px;" height=3D"20">&nbsp;</td>
+              </tr>
+              <tr>
+                <td style=3D"padding:0px;margin:0px;"><table style=3D"paddi=
+ng:0px;margin:0px;" class=3D"tuv1"  width=3D"100" cellspacing=3D"0" cellpad=
+ding=3D"0" border=3D"0" align=3D"left">
+                    <tbody><tr>
+                      <!-- START TUEV -->
+                      <td><img src=3D"http://ps.tipp24.com/NL_COM/TUV/trust=
+edshops_siegel.gif" alt=3D"Kundenurteil Online-Lotto-Anbieter" width=3D"100=
+"></td>
+                      <!-- END TUEV -->
+                    </tr>
+                  </tbody></table>
+                  <!--[if mso]></td><td><![endif]-->
+                  <table style=3D"padding:0px;margin:0px;" class=3D"tuv2"  =
+width=3D"20" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"left=
+">
+                    <tbody><tr>
+                      <td style=3D"padding:0px;margin:0px;">&nbsp;</td>
+                    </tr>
+                  </tbody></table>
+                  <!--[if mso]></td><td><![endif]-->
+                  <table style=3D"padding:0px;margin:0px;" class=3D"tuv3"  =
+width=3D"350" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"lef=
+t">
+                    <tbody><tr>
+                      <td style=3D"padding:0px;margin:0px;"><table style=3D=
+"padding:0px;margin:0px;width:100%;" cellspacing=3D"0" cellpadding=3D"0" bo=
+rder=3D"0">
+                          <tbody><tr>
+                            <td style=3D"padding:0px;margin:0px;font-size:1=
+4px;font-family:Arial,Helvetica,sans-serif;color:#666666;"> Regelm=C3=A4=C3=
+=9Fig Gewinner - =C3=9Cber 1,3 Mrd. =E2=82=AC an ausgesch=C3=BCtteten Gewin=
+nen </td>
+                          </tr>
+                          <tr>
+                            <td style=3D"padding:0px;margin:0px;font-size:1=
+0px;line-height:10px;height:10px;" height=3D"10">&nbsp;</td>
+                          </tr>
+                          <tr>
+                            <td style=3D"padding:0px;margin:0px;font-size:1=
+4px;font-family:Arial,Helvetica,sans-serif;color:#666666;"> Staatlich lizen=
+ziert und langj=C3=A4hrige Erfahrung am Markt </td>
+                          </tr>
+                          <tr>
+                            <td style=3D"padding:0px;margin:0px;font-size:1=
+0px;line-height:10px;height:10px;" height=3D"10">&nbsp;</td>
+                          </tr>
+                          <tr>
+                            <td style=3D"padding:0px;margin:0px;font-size:1=
+4px;font-family:Arial,Helvetica,sans-serif;color:#666666;"> Sicher und seri=
+=C3=B6s </td>
+                          </tr>
+                          <tr>
+                            <td style=3D"padding:0px;margin:0px;font-size:1=
+0px;line-height:10px;height:10px;" height=3D"10">&nbsp;</td>
+                          </tr>
+                        </tbody></table></td>
+                    </tr>
+                  </tbody></table></td>
+              </tr>
+              <tr>
+                <td style=3D"padding:0px;margin:0px;font-size:40px;line-hei=
+ght:40px;height:40px;" height=3D"40">&nbsp;</td>
+              </tr>
+            </tbody></table></td>
+          <td style=3D"padding:0px;margin:0px;width:40px;" class=3D"Desktop=
+Margin"  width=3D"40">&nbsp;</td>
+        </tr>
+      </tbody></table></td>
+    <td style=3D"padding:0px;margin:0px;">&nbsp;</td>
+  </tr>
+</tbody></table>
+<!-- END: CONTENT AREA -->
+<!-- START: FOOTER AREA -->
+<table style=3D"padding:0px;margin:0px;width:100%;background-color:#990000;=
+" cellspacing=3D"0" cellpadding=3D"0" border=3D"0">
+  <tbody><tr>
+    <td colspan=3D"3" style=3D"padding:0px;margin:0px;font-size:20px;line-h=
+eight:20px;height:20px;" height=3D"20">&nbsp;</td>
+  </tr>
+  <tr>
+    <td style=3D"padding:0px;margin:0px;">&nbsp;</td>
+    <td style=3D"padding:0px;margin:0px;" width=3D"560"><table style=3D"pad=
+ding:0px;margin:0px;width:100%;" cellspacing=3D"0" cellpadding=3D"0" border=
+=3D"0">
+        <tbody><tr>
+          <td style=3D"padding:0px;margin:0px;font-size:14px;font-family:Ar=
+ial,Helvetica,sans-serif;font-weight:600;color:#FFFFFF;"> Kostenloser Kunde=
+nservice </td>
+        </tr>
+        <tr>
+          <td style=3D"padding:0px;margin:0px;font-size:10px;line-height:10=
+px;height:10px;" height=3D"10">&nbsp;</td>
+        </tr>
+        <tr>
+          <td style=3D"padding:0px;margin:0px;"><table style=3D"padding:0px=
+;margin:0px;width:100%;" cellspacing=3D"0" cellpadding=3D"0" border=3D"0">
+              <tbody><tr>
+                <td style=3D"padding:0px;margin:0px;width:32px;" width=3D"3=
+2"><center>
+                    <img src=3D"http://ps.tipp24.com/NL2015/footer/telefon.=
+jpg" alt=3D"Telefon:" title=3D"Telefon" style=3D"padding:0px;margin:0px;dis=
+play:block;width:32px;height:32px;;color:#000000;font-family:Arial;font-siz=
+e:32px;font-weight:600;" border=3D"0">
+                  </center></td>
+                <td style=3D"padding:0px;margin:0px;width:20px;" width=3D"2=
+0">&nbsp;</td>
+                <td style=3D"padding:0px;margin:0px;font-family:Arial;font-=
+size:16px;font-weight:600;color:#ff9902;"><a href=3D"tel:080016121612" titl=
+e=3D"Link-Aufruf der Telefonnummer nur am mobilen Endger=EF=BF=BDt verf=EF=
+=BF=BDgbar" style=3D"text-decoration:none;color:#ff9902;">00800-1612&nbsp;1=
+612</a></td>
+              </tr>
+            </tbody></table></td>
+        </tr>
+        <tr>
+          <td style=3D"padding:0px;margin:0px;font-size:10px;line-height:10=
+px;height:10px;" height=3D"10">&nbsp;</td>
+        </tr>
+        <tr>
+          <td style=3D"padding:0px;margin:0px;font-size:14px;font-family:Ar=
+ial,Helvetica,sans-serif;color:#FFFFFF;"> Mo - Sa von 9 - 21 Uhr </td>
+        </tr>
+        <tr>
+          <td style=3D"padding:0px;margin:0px;font-size:14px;font-family:Ar=
+ial,Helvetica,sans-serif;color:#FFFFFF;"><a href=3D"mailto:service@tipp24.c=
+om" style=3D"text-decoration:underline;color:#FFFFFF;">service@tipp24.com</=
+a></td>
+        </tr>
+      </tbody></table></td>
+    <td style=3D"padding:0px;margin:0px;">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan=3D"3" style=3D"padding:0px;margin:0px;font-size:20px;line-h=
+eight:20px;height:20px;" height=3D"20">&nbsp;</td>
+  </tr>
+</tbody></table>
+<table style=3D"padding:0px;margin:0px;width:100%;background-color:#b71209;=
+" cellspacing=3D"0" cellpadding=3D"0" border=3D"0">
+  <tbody><tr>
+    <td colspan=3D"3" style=3D"padding:0px;margin:0px;font-size:10px;line-h=
+eight:10px;height:10px;" height=3D"10">&nbsp;</td>
+  </tr>
+  <tr>
+    <!-- START IMPRESSUM -->
+    <td style=3D"padding:0px;margin:0px;">&nbsp;</td>
+    <td style=3D"padding:0px;margin:0px;font-family:Arial;font-size:14px;co=
+lor:#FFFFFF;text-align:right;" width=3D"560" align=3D"right"><a href=3D"htt=
+p://premiummailings.de/ga/click/2-200437775-400-22322-61242-1901798-6840dff=
+680-92d3ea61ff" style=3D"text-decoration:none;color:#FFFFFF;" target=3D"_bl=
+ank">Impressum</a></td>
+    <td style=3D"padding:0px;margin:0px;">&nbsp;</td>
+  </tr>
+  <!-- END IMPRESSUM -->
+  <tr>
+    <td colspan=3D"3" style=3D"padding:0px;margin:0px;font-size:10px;line-h=
+eight:10px;height:10px;" height=3D"10">&nbsp;</td>
+  </tr>
+</tbody></table>
+<table style=3D"padding:0px;margin:0px;width:100%;" cellspacing=3D"0" cellp=
+adding=3D"0" border=3D"0">
+  <tbody><tr>
+    <td style=3D"padding:0px;margin:0px;height:40px;font-size:40px;line-hei=
+ght:40px;" height=3D"40">&nbsp;</td>
+  </tr>
+</tbody></table>
+<!-- END: FOOTER AREA -->
+<!-- INSERT LIST FOOTER HERE: -->
+ <span style=3D"color: #999999; font-family: Arial,Helvetica,sans-serif; fo=
+nt-size: xx-small;"> Sie erhalten diese E-Mail, weil Sie unsere Dienste in =
+Anspruch nehmen oder an Gewinnspielen=20
+            der Premium Performance Mail AG oder unserer Kooperationspartne=
+r teilgenommen haben. Die Angebote sind kommerzielle Anzeigen der jeweilige=
+n Werbekunden,=20
+            die f=C3=BCr den jeweiligen Inhalt verantwortlich sind. Bei Fra=
+gen zu den Angeboten haben, wenden Sie sich bitte an den in der Anzeige gen=
+annten Anbieter.=20
+            Die Premium Performance Mail AG ist ausschlie=C3=9Flich Versend=
+er dieser Nachricht. Bitte antworten Sie nicht auf diese Mail. Um in Zukunf=
+t keine Informationen mehr von=20
+            dieser Adresse zu erhalten, dann klicken Sie bitte <a style=3D"=
+text-decoration: none;" href=3D"http://premiummailings.de/ga/unsubscribe/2-=
+200437775-400-22322-61242-3dd7770685275ec-92d3ea61ff" target=3D"_blank"><sp=
+an style=3D"font-family: Arial,Helvetica,sans-serif; font-size: xx-small;">=
+<strong>hier</strong></span></a>, um sich abzumelden. Haben Sie Verst=C3=A4=
+ndnis, dass die Abmeldung bis zu 48 Stunden dauern kann.=20
+        <br />Director Caroline Wange<br />
+        The Picasso Building, Caldervale Road, Wakefield, West Yorkshire, U=
+nited Kingdom.</span>=20
+
+
+<!-- INSERT TACKING PIXEL HERE: -->
+
+
+<img src=3D"http://premiummailings.de/ga/open/2-200437775-400-22322-61242-9=
+2d3ea61ff" height=3D"2" width=3D"3" alt=3D""></body></html>=
+
+--==5bfb62293244817816157bed57dbcfee--

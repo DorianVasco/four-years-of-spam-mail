@@ -1,0 +1,29 @@
+Return-Path: <infolike4181@trashymoped.com>
+Delivered-To: mail@stilfilm.com
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 575EDD1682
+	for <mail@stilfilm.com>; Wed, 14 Nov 2018 13:44:43 +0100 (CET)
+X-Quarantine-ID: <TOqpUe-Tm0e1>
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Amavis-Alert: BAD HEADER SECTION, Missing required header field: "Date"
+X-Spam-Flag: YES
+X-Spam-Score: 5.758
+X-Spam-Level: *****
+X-Spam-Status: Yes, score=5.758 required=5.5 tests=[HTML_MESSAGE=0.001,
+	HTML_MIME_NO_HTML_TAG=0.635, MIME_HTML_ONLY=1.105, MISSING_DATE=1.396,
+	MISSING_HEADERS=1.207, MISSING_MID=0.14, RDNS_NONE=1.274] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id TOqpUe-Tm0e1 for <mail@stilfilm.com>;
+	Wed, 14 Nov 2018 13:44:42 +0100 (CET)
+Received: from trashymoped.com (unknown [191.96.249.167])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 3679FD1681
+	for <kristos@stilfilm.com>; Wed, 14 Nov 2018 13:44:40 +0100 (CET)
+From: "Superman" <infolike4181@trashymoped.com>
+Subject: hey hey
+MIME-Version: 1.0
+Content-Type: text/html
+Message-Id: <20181114124443.575EDD1682@v22014122474822114.stilfilm.com>
+Date: Wed, 14 Nov 2018 13:44:43 +0100 (CET)
+
+ 

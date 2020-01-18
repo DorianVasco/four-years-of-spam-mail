@@ -1,0 +1,67 @@
+Return-Path: <DailySavingsFinder@lessensdecapucine.be>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 01F1BD4D36
+	for <mail@dorianvasco.de>; Tue, 31 Oct 2017 08:20:18 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 11.048
+X-Spam-Level: ***********
+X-Spam-Status: Yes, score=11.048 required=5.5 tests=[BAYES_50=0.8,
+	DATE_IN_PAST_06_12=1.543, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, HTML_IMAGE_ONLY_08=1.651,
+	HTML_IMAGE_RATIO_02=0.437, HTML_MESSAGE=0.001,
+	HTML_SHORT_LINK_IMG_1=0.001, MIME_HTML_ONLY=0.723,
+	RCVD_IN_BRBL_LASTEXT=1.449, RDNS_NONE=0.793, SPF_PASS=-0.001,
+	URIBL_ABUSE_SURBL=1.25, URIBL_BLOCKED=0.001, URIBL_DBL_SPAM=2.5]
+	autolearn=spam
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id sNJGGOyA8MVb for <mail@dorianvasco.de>;
+	Tue, 31 Oct 2017 08:20:16 +0100 (CET)
+Received: from svr.lessensdecapucine.be (unknown [80.211.145.47])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 157A1D4CFA
+	for <mail@dorianvasco.de>; Tue, 31 Oct 2017 08:20:15 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=mail; d=lessensdecapucine.be;
+ h=To:Subject:Message-ID:Date:From:Reply-To:MIME-Version:List-Unsubscribe:Content-Type:Content-Transfer-Encoding; i=DailySavingsFinder@lessensdecapucine.be;
+ bh=TzZ6zw66Bork9WNKe1qYHPWKV2o=;
+ b=PekKOYd/rrJoXIeX75ZdB/8T6JnzfPu6StbvNe2EZUWbQ78JRMBqs8Kx+L+ULxkncfvnyLXJCapO
+   NDwtZo020h40lTOwu7baLhgmZcpLgr4ybmYxlkz8zwxUYH1+3/HirCQUNGUf/5bbSb32RxszNOaK
+   7MqzrzdV6N77460Ss+A=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=mail; d=lessensdecapucine.be;
+ b=QPcyPj/hehRZssE6FiMCKXfyqJsbVuJzC7GQSLTPhn1ZO1oUHSsrPJnk/IMH0Mc2mY/bynIxOzY5
+   mQptUavyLKxc/ZxXMkKTRtJ/fGWohMZ+PTNPRjTa/cxsnaE11npLgOZgLaIqSjoI+Jy0O18SwYEX
+   sSyMZUE9yUOy0mLTaFM=;
+To: mail@dorianvasco.de
+Subject: ***SPAM*** Promotion about Amazon Prime!
+Message-ID: <4f5aeea4a8c14e796e93eef0d953087e@lessensdecapucine.be>
+Date: Mon, 30 Oct 2017 21:57:57 +0000
+From: "DailySavingsFinder" <DailySavingsFinder@lessensdecapucine.be>
+Reply-To: DailySavingsFinder@lessensdecapucine.be
+MIME-Version: 1.0
+X-Mailer-LID: 10,5,13,14
+List-Unsubscribe: <http://lessensdecapucine.be/unsubscribe.php?M=1963122&C=8e09b03828f17afabdd16c152087e63a&L=10&N=6>
+X-Mailer-RecptId: 1963122
+X-Mailer-SID: 6
+X-Mailer-Sent-By: 1
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+<title>de-amazon-v3</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0"
+marginheight="0">
+<div align="center"><!-- Save for Web Slices (de-amazon-v3.jpg) --> <a
+href="http://quancent.com/198eea484490d98000/of/fe/r"> <img border="0"
+src="http://lessensdecapucine.be/admin/temp/user/1/de-amazon-v3.gif"
+width="600" height="600" alt="de-amazon-v3.gif" title="de-amazon-v3.gif" />
+<!-- End Save for Web Slices --> </a> <br /> <font face="Arial, Helvetica,
+sans-serif" size="1" color="#666666">If you wish to unsubscribe, please <a
+href="http://quancent.com/198eea484490d98000/of/fe/r">Click
+Here</a></font></div>
+</body>
+</html>
+

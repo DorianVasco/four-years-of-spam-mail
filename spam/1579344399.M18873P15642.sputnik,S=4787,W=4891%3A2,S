@@ -1,0 +1,104 @@
+Return-Path: <leberechttspwyaz@danzinduck.fun>
+Delivered-To: mail@elementk.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 4C366D312E
+	for <mail@elementk.de>; Mon,  4 Mar 2019 11:05:59 +0100 (CET)
+Authentication-Results: v22014122474822114.stilfilm.com; dkim=permerror
+	reason="verification error: unable to apply public key; insecure key"
+	header.d=danzinduck.fun header.i=leberechttspwyaz@danzinduck.fun
+	header.b=gZi5Gkqr; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 5.957
+X-Spam-Level: *****
+X-Spam-Status: Yes, score=5.957 required=5.5 tests=[DKIM_INVALID=0.1,
+	DKIM_SIGNED=0.1, HTML_IMAGE_ONLY_16=1.048, HTML_MESSAGE=0.001,
+	HTML_SHORT_LINK_IMG_2=0.259, RCVD_IN_DNSWL_BLOCKED=0.001,
+	SPF_PASS=-0.001, URIBL_ABUSE_SURBL=1.948, URIBL_BLOCKED=0.001,
+	URIBL_DBL_SPAM=2.5] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id r0Mjk-pQ3GH0 for <mail@elementk.de>;
+	Mon,  4 Mar 2019 11:05:58 +0100 (CET)
+Received: from unite.danzinduck.fun (unite.mamazimu.com [185.149.233.223])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 2CA68C6DD0
+	for <mail@elementk.de>; Mon,  4 Mar 2019 11:05:58 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=danzinduck.fun;
+ h=Date:MIME-Version:From:To:List-Unsubscribe:Message-ID:Subject:Content-Type:Content-Transfer-Encoding; i=leberechttspwyaz@danzinduck.fun;
+ bh=Q5i7svpxmvzx93TPjsTX5pyztHw=;
+ b=gZi5GkqrdsygYFQjFkhvsyqSXz446xVWZomScAZ2Ab4epeAIywIhp2NQgnDQIXjdayzVpSK9czHB
+   gXmoPfWuWt00icGHm4m/OCFRfN6bgMaiKEXugMInpCkuhplIfCwhTSOagQxvsVvwAItLnfwE88ms
+   eLaHcFptgKj0krbfRms=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=danzinduck.fun;
+ b=emQZCctu/sEE2Ida0R0Ucv4Zkbqo12JmjOa1BHcu9824ih5MLCFo1GLv7zt1PzM4GLOYP20YJR5c
+   d1F9z9OZQsDsI5UJMar94dtDamdLk5ANXjFFyLN0ycDc4T1TFjjlr/pLcBqvPRQpKeiOHMR88UeP
+   6/UrqE0Hsxf9ubjP5hs=;
+Date: Mon, 4 Mar 2019 11:04:19 +0100
+MIME-Version: 1.0
+From: =?UTF-8?Q?Leberecht?= <leberechttspwyaz@danzinduck.fun>
+To:  <mail@elementk.de>
+List-Unsubscribe:  <http://danzinduck.fun/ub.php?b=mzu196738080h82qr01b8q8dcrd13wjc608c>
+Message-ID: <aqzmyfjmwc-5755369483511587@jfhxq.danzinduck.fun>
+X-Report-Abuse:  <http://danzinduck.fun/aa.php?a=mzu196738080h82qr01b8q8dcrd13wjc608c>
+Subject: =?UTF-8?Q?Unglaublich_Neuigkeit:_digitales_Ma=C3=9Fband,_3erleie_Messung,_zu_Hause,_zur_Arbeit?=
+Precedence: bulk
+X-Mailer: PHP v5.2.16
+Content-Type: multipart/alternative; boundary=b1_48qeqi1elyxu9niydix-IiWl357pzO; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+--b1_48qeqi1elyxu9niydix-IiWl357pzO
+Content-Type: text/plain; format=flowed; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+
+=0D
+Findest du dein Ma=C3=9Fband nicht? Hier ist das neueste Leser-Ma=C3=9Fband=
+:=0D
+=0D
+http://rgm.danzinduck.fun=0D
+=0D
+=0D
+=0D
+Hier a bmelden:=0D
+http://danzinduck.fun/ub.php?qy0=3Dmzu196738080h82qr01b8q8dcrd13wjc608c=0D
+=0D
+HERREN, Traum- Ma=C3=9Fband ist angekommen: digital, Leser, misst genau=0D
+
+
+--b1_48qeqi1elyxu9niydix-IiWl357pzO
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+
+<!DOCTYPE html>=0D
+<html>=0D
+=0D
+<head>=0D
+</head><body>=0D
+<div style=3D"text-align:center;">=0D
+Brandneue Erfindung: elektrisches Ma=C3=9Fband, mit eingebautem Laser, auch=
+ zu Arbeit<br /><a style=3D"font-style:normal; border-bottom-style:solid; m=
+argin-right:2px; padding-left:3px; height:auto; " href=3D"http://rgm.danzin=
+duck.fun/ymj:mzu196738080h82qr01b8q8dcrd13wjc608c"><img alt=3D"M=C3=BChe ni=
+cht mit Ma=C3=9Fband: ankam die elektronischen Version, leichtere Arbeit" s=
+rc=3D"http://e2nd.danzinduck.fun/00.jpg" style=3D"font-weight:inherit; " />=
+</a>=0D
+<br /><a href=3D"http://rgm.danzinduck.fun/rqp:mzu196738080h82qr01b8q8dcrd1=
+3wjc608c">Geschenkidee f=C3=BCr deinen Man: mit elektrischem Ma=C3=9Fband, =
+um alles zu messen</a>=0D
+<br /><br /><br /><br />Messe es: mit Leser-Ma=C3=9Fband genaue Messen, geh=
+t es gut mit 3 Modus<br /><br /><a href=3D"http://danzinduck.fun/ub.php?nma=
+=3Dmzu196738080h82qr01b8q8dcrd13wjc608c" style=3D"background-color:#ffffff;=
+ font-size:12px; ">L=C3=B6schen Sie bitte meine E-Mail-Adresse</a></div><br=
+ />Du musst nicht kritzeln: Ma=C3=9Fband mit eingebautem Memory +Led-Displa=
+y=0D
+<img alt=3D"Montierst, bastelst du oft? Mit digitalem Ma=C3=9Fband schnelle=
+re Arbeit" src=3D"http://danzinduck.fun/ob.php?qy0=3Dmzu196738080h82qr01b8q=
+8dcrd13wjc608c" />=0D
+Bastele, installiere einfach: Ma=C3=9Fband mit LED Display, einfach zu mess=
+en=0D
+</body>=0D
+</html>=
+
+--b1_48qeqi1elyxu9niydix-IiWl357pzO--

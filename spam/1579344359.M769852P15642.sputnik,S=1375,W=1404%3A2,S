@@ -1,0 +1,29 @@
+Return-Path: <infolike4941@amatamansion.com>
+Delivered-To: mail@stilfilm.com
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id C6AFCC829D
+	for <mail@stilfilm.com>; Wed,  7 Nov 2018 02:44:42 +0100 (CET)
+X-Quarantine-ID: <5h-WporfBSOV>
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Amavis-Alert: BAD HEADER SECTION, Missing required header field: "Date"
+X-Spam-Flag: YES
+X-Spam-Score: 5.758
+X-Spam-Level: *****
+X-Spam-Status: Yes, score=5.758 required=5.5 tests=[HTML_MESSAGE=0.001,
+	HTML_MIME_NO_HTML_TAG=0.635, MIME_HTML_ONLY=1.105, MISSING_DATE=1.396,
+	MISSING_HEADERS=1.207, MISSING_MID=0.14, RDNS_NONE=1.274] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 5h-WporfBSOV for <mail@stilfilm.com>;
+	Wed,  7 Nov 2018 02:44:40 +0100 (CET)
+Received: from amatamansion.com (unknown [191.96.249.167])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id A4C08C15B3
+	for <bentlee@stilfilm.com>; Wed,  7 Nov 2018 02:44:37 +0100 (CET)
+From: "google" <infolike4941@amatamansion.com>
+Subject: sup sup
+MIME-Version: 1.0
+Content-Type: text/html
+Message-Id: <20181107014442.C6AFCC829D@v22014122474822114.stilfilm.com>
+Date: Wed,  7 Nov 2018 02:44:42 +0100 (CET)
+
+ 

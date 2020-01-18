@@ -1,0 +1,222 @@
+Return-Path: <journal@journalarchaeology.org>
+Delivered-To: mail@stilfilm.com
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id F3F4CC1829
+	for <mail@stilfilm.com>; Fri, 13 Jul 2018 03:56:15 +0200 (CEST)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: 0.012
+X-Spam-Level:
+X-Spam-Status: No, score=0.012 required=5.5 tests=[DKIM_SIGNED=0.1,
+	DKIM_VALID=-0.1, HTML_MESSAGE=0.001, T_REMOTE_IMAGE=0.01,
+	URIBL_BLOCKED=0.001] autolearn=unavailable
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id N3drYf_fAmks for <mail@stilfilm.com>;
+	Fri, 13 Jul 2018 03:56:13 +0200 (CEST)
+Received: from mail-wr1-f68.google.com (mail-wr1-f68.google.com [209.85.221.68])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id 5A3C4C0942
+	for <mail@stilfilm.com>; Fri, 13 Jul 2018 03:56:08 +0200 (CEST)
+Received: by mail-wr1-f68.google.com with SMTP id c4-v6so10830584wrs.12
+        for <mail@stilfilm.com>; Thu, 12 Jul 2018 19:04:55 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=journalarchaeology-org.20150623.gappssmtp.com; s=20150623;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=jOyRC8MjC6XC5P9kmE4I8IEuG1Gwf22mxgFZ2TjBEOE=;
+        b=NW1RpAaW5d8tBJmXGOmMIzemKL7MWeTGwB7Ock0YAXSeqkDGSKeXTH7FPuUTw6QUO6
+         a70QbfYwslLkFHIs2sK6Ua0frqj6WB2iLu703zfjyGVqTROoUBCKJsVUO8y7dcP4kKZM
+         jHiJQMLGDuF0nQxVLpi97Z5MN3Gj/apxcuLC0tr5yB+I89EBjl7KRofApNRKqtrlxh+a
+         kTjwFnzNYT6KcHtviaODPhWoZ0eFi3oKpTpe32k0L8KUO8In0GhKt25TxC5UDCI5bEK0
+         MTDA9IcTZSUIdMBk6LUQr9LGbNmTNNNj+BPTwYETHCRS2jT+w3CzOb5Xm2E4OH2OpnZk
+         rkrQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=jOyRC8MjC6XC5P9kmE4I8IEuG1Gwf22mxgFZ2TjBEOE=;
+        b=gZuF5ADhfLoKNuDTY/qOaR4riDdMjq3w+1PeiLPFddoF0ONnuUpNCAi0NrVoRZL9+N
+         mYOQbkuVmYKyfzoBiMQxXVcNUksRz8hr6djC2vbB/k/elz+/ORh3EbSaqEBOFIa/CjHE
+         GqS1B4cFZuNgLvDJ/VAXhs4hePGPGSDimELoPU64bJ+qZ3EN1/BhNyIBbClnhVHXsq8V
+         8H2YD1Rrx1t2qgY0O4UxS77rk/VhtakYy3zwJIYBVZIlAcNamUPjUPVeQTy4IiacXnHX
+         pYlA1dxi+JJ/GXatiQT/gRONPTVHLV6EkqMucN2CN6SQZdM3392XPsTz7BdVCwrAVz1V
+         SQww==
+X-Gm-Message-State: AOUpUlEcTBnzrZmRtfzsHAbglkxBWu3zB0wSsYoiobi3/0kINunzZRcs
+	DivwbxqBmly4YC0q2fJfTGc3C/D8tpHPf0YfemsjG8AR
+X-Google-Smtp-Source: AAOMgpeYzeaIbuE9E79btmNRnqIkVS6VLXtBASYfx9y284/9QKw157Ulf8DHNB37pYnjQDCua4JY6/n0bmmZPKrL2ok=
+X-Received: by 2002:adf:9345:: with SMTP id 63-v6mr3460121wro.60.1531447495052;
+ Thu, 12 Jul 2018 19:04:55 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 2002:a1c:2787:0:0:0:0:0 with HTTP; Thu, 12 Jul 2018 19:04:54
+ -0700 (PDT)
+From: Journal IJA <journal@journalarchaeology.org>
+Date: Fri, 13 Jul 2018 10:04:54 +0800
+Message-ID: <CAPdO0UB2_rXtDW3GF6SoZ3ENVfnAjBpQVUF01=JFkKcVEEBS7w@mail.gmail.com>
+Subject: Be Editorial Board Members/Reviewers and Publish Your Article -- Dear
+ mail -- 2257841
+To: mail@stilfilm.com
+Content-Type: multipart/alternative; boundary="000000000000ef67290570d7e798"
+
+--000000000000ef67290570d7e798
+Content-Type: text/plain; charset="UTF-8"
+
+<http://www.mlrjournal.org/home>
+Dear Author,
+We publish peer-reviewed international academic journals dedicated to the
+development of innovative science and technology. Now we sincerely invite
+scholars and researchers to submit papers to the journals or to join in the
+editorial board/reviewer team.
+Join as the Editorial Board Member/Reviewer
+To expand the editorial board and reviewer team, we would like to invite
+you to be the editorial member or reviewer of our journals with great
+sincerity. If you are eager for more information of the Benefits and
+Responsibilities of the editorial member or reviewer, please feel free to
+visit the following link:
+http://www.mlrjournal.org/journals
+Send Your Research Paper to the Journal
+We have 200+ open access, online, peer-reviewed journals. If you have burst
+out some new ideas in your specialized or interested field, welcome to
+submit your papers to the related Journals or Special Issues so as to share
+your ideas with people around the world.
+A List of the Featured Journals
+
+   1. American Journal of Physics and Applications
+   2. Science Journal of Education
+   3. American Journal of Neural Networks and Applications
+   4. Ecology and Evolutionary Biology
+   5. International Journal of Nutrition and Food Sciences
+   6. International Journal of Economy, Energy and Environment
+   7. Automation, Control and Intelligent Systems
+   8. International Journal of Management and Fuzzy Systems
+
+If there is anything we can do for you, please don't hesitate to contact me.
+Best regards,
+Jessie Wright
+
+--000000000000ef67290570d7e798
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">
+<br><br><table style=3D"background:rgb(182,182,182) none repeat scroll 0% 0=
+%;width:100%;padding:80px 0px 200px 20px;display:block" cellspacing=3D"0" c=
+ellpadding=3D"0" border=3D"0"> <tbody><tr><td> <table style=3D"border-colla=
+pse:collapse;font-family:&quot;Arial&quot;;font-size:13px;line-height:22px;=
+color:rgb(33,33,33);background:rgb(255,255,255) none repeat scroll 0% 0%" w=
+idth=3D"780px" cellspacing=3D"0" cellpadding=3D"0" border=3D"0"> 	<tbody><t=
+r> 		<td style=3D"background:rgb(114,85,162) none repeat scroll 0% 0%;paddi=
+ng:15px 20px;color:rgb(255,255,255);line-height:24px"> 			<table cellspacin=
+g=3D"0" cellpadding=3D"0" border=3D"0"> 				<tbody><tr><td><a href=3D"http:=
+//www.mlrjournal.org/home" border=3D"0" target=3D"_blank"><img src=3D"http:=
+//img.mlrjournal.org/logo/5516243866551.png" width=3D"190px;" height=3D"59p=
+x;" border=3D"0"></a></td></tr> 			</tbody></table> 		</td> 	</tr>	 	<tr> 	=
+	<td style=3D"width:780px;padding:15px 20px 0px;background:rgb(255,255,255)=
+ none repeat scroll 0% 0%"> 			<table width=3D"740px;" cellspacing=3D"0" ce=
+llpadding=3D"0" border=3D"0"> 			<tbody><tr><td style=3D"color:rgb(33,33,33=
+);font-family:&quot;Arial&quot;;font-size:13px;line-height:22px">Dear Autho=
+r,</td></tr> 			<tr><td style=3D"color:rgb(33,33,33);font-family:&quot;Aria=
+l&quot;;font-size:13px;line-height:22px;padding-top:5px;text-align:justify"=
+>We
+ publish peer-reviewed international academic journals dedicated to the=20
+development of innovative science and technology. Now we sincerely=20
+invite scholars and researchers to submit papers to the journals or to=20
+join in the editorial board/reviewer team.</td></tr> 			</tbody></table> 		=
+</td> 	</tr> 	<tr><td style=3D"width:780px;padding:20px;background:rgb(255,=
+255,255) none repeat scroll 0% 0%"><table cellspacing=3D"0" cellpadding=3D"=
+0" border=3D"0"><tbody><tr> 		<td style=3D"background:rgb(234,228,241) none=
+ repeat scroll 0% 0%;border-left:2px solid rgb(114,85,162);width:360px;vert=
+ical-align:top"><table cellspacing=3D"0" cellpadding=3D"0" border=3D"0"><tb=
+ody><tr><td> 			</td><td style=3D"background:rgb(234,228,241) none repeat s=
+croll 0% 0%;border-left:2px solid rgb(255,255,255);width:360px"><table cell=
+spacing=3D"0" cellpadding=3D"0" border=3D"0"><tbody><tr><td> 				</td><td s=
+tyle=3D"background:rgb(234,228,241) none repeat scroll 0% 0%;border-left:1p=
+x solid rgb(114,85,162);width:360px"><table cellspacing=3D"0" cellpadding=
+=3D"0" border=3D"0"><tbody><tr><td> 					</td><td style=3D"background:rgb(2=
+34,228,241) none repeat scroll 0% 0%;border-left:2px solid rgb(255,255,255)=
+;width:360px"><table cellspacing=3D"0" cellpadding=3D"0" border=3D"0"><tbod=
+y><tr><td> 						</td><td style=3D"background:rgb(234,228,241) none repeat =
+scroll 0% 0%;border-left:1px solid rgb(114,85,162);width:360px;padding:10px=
+"><table width=3D"342px;vertical-align:top;" cellspacing=3D"0" cellpadding=
+=3D"0" border=3D"0"> 						<tbody><tr><td style=3D"font-size:16px;font-weig=
+ht:bold;text-align:center;color:rgb(114,85,162)">Join as the Editorial Boar=
+d Member/Reviewer</td></tr> 						<tr><td style=3D"color:rgb(33,33,33);font=
+-family:&quot;Arial&quot;;font-size:13px;line-height:22px;text-align:justif=
+y">To
+ expand the editorial board and reviewer team, we would like to invite=20
+you to be the editorial member or reviewer of our journals with great=20
+sincerity. If you are eager for more information of the Benefits and=20
+Responsibilities of the editorial member or reviewer, please feel free=20
+to visit the following link: <br><a href=3D"http://www.mlrjournal.org/journ=
+als" target=3D"_blank" style=3D"text-decoration:none;color:rgb(0,0,255);whi=
+te-space:nowrap;font-weight:bold">http://www.mlrjournal.org/journals</a></t=
+d></tr> 						</tbody></table></td> 					</tr></tbody></table></td> 				</t=
+r></tbody></table></td> 			</tr></tbody></table></td> 		</tr></tbody></tabl=
+e></td> 		<td style=3D"background:rgb(234,228,241) none repeat scroll 0% 0%=
+;border-left:2px solid rgb(114,85,162);width:360px;vertical-align:top"><tab=
+le cellspacing=3D"0" cellpadding=3D"0" border=3D"0"><tbody><tr><td> 			</td=
+><td style=3D"background:rgb(234,228,241) none repeat scroll 0% 0%;border-l=
+eft:2px solid rgb(255,255,255);width:360px"><table cellspacing=3D"0" cellpa=
+dding=3D"0" border=3D"0"><tbody><tr><td> 				</td><td style=3D"background:r=
+gb(234,228,241) none repeat scroll 0% 0%;border-left:1px solid rgb(114,85,1=
+62);width:360px"><table cellspacing=3D"0" cellpadding=3D"0" border=3D"0"><t=
+body><tr><td> 					</td><td style=3D"background:rgb(234,228,241) none repea=
+t scroll 0% 0%;border-left:2px solid rgb(255,255,255);width:360px"><table c=
+ellspacing=3D"0" cellpadding=3D"0" border=3D"0"><tbody><tr><td> 						</td>=
+<td style=3D"background:rgb(234,228,241) none repeat scroll 0% 0%;border-le=
+ft:1px solid rgb(114,85,162);width:360px;padding:10px"><table width=3D"342p=
+x;vertical-align:top;" cellspacing=3D"0" cellpadding=3D"0" border=3D"0"> 		=
+				<tbody><tr><td style=3D"font-size:16px;font-weight:bold;text-align:cent=
+er;color:rgb(114,85,162)">Send Your Research Paper to the Journal</td></tr>=
+ 						<tr><td style=3D"color:rgb(33,33,33);font-family:&quot;Arial&quot;;f=
+ont-size:13px;line-height:22px;text-align:justify">We
+ have 200+ open access, online, peer-reviewed journals. If you have=20
+burst out some new ideas in your specialized or interested field,=20
+welcome to submit your papers to the related Journals or Special Issues=20
+so as to share your ideas with people around the world.</td></tr> 						</t=
+body></table></td> 					</tr></tbody></table></td> 				</tr></tbody></table=
+></td> 			</tr></tbody></table></td> 		</tr></tbody></table></td> 	</tr></t=
+body></table></td></tr> 	<tr><td style=3D"width:780px;padding:0px 20px 20px=
+;background:rgb(255,255,255) none repeat scroll 0% 0%"><table cellspacing=
+=3D"0" cellpadding=3D"0" border=3D"0"> 		<tbody><tr><td> 			<table cellspac=
+ing=3D"0" cellpadding=3D"0" border=3D"0"> 				<tbody><tr><td style=3D"font-=
+size:16px;color:rgb(114,85,162);font-weight:bold;padding-bottom:10px">A Lis=
+t of the Featured Journals</td></tr> 				<tr><td style=3D"font-family:&quot=
+;Arial&quot;;color:rgb(33,33,33);font-size:13px;line-height:22px"> 					<ol=
+ style=3D"list-style-type:square;margin:0px 0px 0px 15px;padding:0px"> 				=
+		<li><span style=3D"font-weight:100;color:rgb(33,33,33);font-family:&quot;=
+Arial&quot;;font-size:13px;line-height:26px">American Journal of Physics an=
+d Applications</span></li><li><span style=3D"font-weight:100;color:rgb(33,3=
+3,33);font-family:&quot;Arial&quot;;font-size:13px;line-height:26px">Scienc=
+e Journal of Education</span></li><li><span style=3D"font-weight:100;color:=
+rgb(33,33,33);font-family:&quot;Arial&quot;;font-size:13px;line-height:26px=
+">American Journal of Neural Networks and Applications</span></li><li><span=
+ style=3D"font-weight:100;color:rgb(33,33,33);font-family:&quot;Arial&quot;=
+;font-size:13px;line-height:26px">Ecology and Evolutionary Biology</span></=
+li><li><span style=3D"font-weight:100;color:rgb(33,33,33);font-family:&quot=
+;Arial&quot;;font-size:13px;line-height:26px">International Journal of Nutr=
+ition and Food Sciences</span></li><li><span style=3D"font-weight:100;color=
+:rgb(33,33,33);font-family:&quot;Arial&quot;;font-size:13px;line-height:26p=
+x">International Journal of Economy, Energy and Environment</span></li><li>=
+<span style=3D"font-weight:100;color:rgb(33,33,33);font-family:&quot;Arial&=
+quot;;font-size:13px;line-height:26px">Automation, Control and Intelligent =
+Systems</span></li><li><span style=3D"font-weight:100;color:rgb(33,33,33);f=
+ont-family:&quot;Arial&quot;;font-size:13px;line-height:26px">International=
+ Journal of Management and Fuzzy Systems</span></li> 					</ol> 				</td></=
+tr> 			</tbody></table> 		</td>		 	</tr></tbody></table></td></tr> 	<tr><td=
+ style=3D"width:780px;padding:0px 20px 20px;background:rgb(255,255,255) non=
+e repeat scroll 0% 0%"><table cellspacing=3D"0" cellpadding=3D"0" border=3D=
+"0"> 		<tbody><tr><td> 			<table cellspacing=3D"0" cellpadding=3D"0" border=
+=3D"0"> 				<tbody><tr><td style=3D"padding-bottom:15px;font-family:&quot;A=
+rial&quot;;color:rgb(33,33,33);font-size:13px;line-height:22px">If there is=
+ anything we can do for you, please don&#39;t hesitate to contact me.</td><=
+/tr> 				<tr><td style=3D"padding-bottom:10px;font-family:&quot;Arial&quot;=
+;color:rgb(33,33,33);font-size:13px;line-height:22px">Best regards,</td></t=
+r> 				<tr><td style=3D"font-family:&quot;Arial&quot;;color:rgb(33,33,33);f=
+ont-size:13px;line-height:22px">Jessie Wright</td></tr> 			</tbody></table>=
+ 		</td>		 	</tr></tbody></table></td></tr>	 	<tr><td style=3D"background:r=
+gb(114,85,162) none repeat scroll 0% 0%">=C2=A0</td></tr> </tbody></table> =
+</td></tr> </tbody></table>=20
+
+<br></div>
+
+--000000000000ef67290570d7e798--

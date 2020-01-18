@@ -1,0 +1,115 @@
+Return-Path: <info@qdomenase193.ru>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id F1ACCC16C3
+	for <mail@dorianvasco.de>; Thu, 14 Nov 2019 10:59:38 +0100 (CET)
+Authentication-Results: v22014122474822114.stilfilm.com; dkim=fail
+	reason="verification failed; insecure key"
+	header.d=qdomenase193.ru header.i=@qdomenase193.ru
+	header.b=bevBjjHV; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: 0.702
+X-Spam-Level:
+X-Spam-Status: No, score=0.702 required=4.5 tests=[BAYES_50=0.8,
+	DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	HTML_MESSAGE=0.001, LOTS_OF_MONEY=0.001]
+	autolearn=ham autolearn_force=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id GzxQ4Fp6-Z11 for <mail@dorianvasco.de>;
+	Thu, 14 Nov 2019 10:59:36 +0100 (CET)
+Received: from qdomenase193.ru (qdomenase193.ru [31.184.254.69])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 1B8C3C1438
+	for <mail@dorianvasco.de>; Thu, 14 Nov 2019 10:59:35 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=mail; d=qdomenase193.ru;
+ h=MIME-Version:Subject:Content-Type:From:To:Date:Message-ID:List-Archive;
+ bh=LUy7AF2ep04B4iyHNtwAsCKVaPiCF64OG8C1b0rfgKU=;
+ b=bevBjjHVj/qJSowGOEvp1C85Uo1BLsJ2X0vnAFfrm8Ges9QQx0bEyOEAg8niSoxqJQnWWr1ZD/Mh
+   MPIlFRV3F0gKqi1eIyDGZRbnH4g+UU386bzdV8LXccAVmEfmGrQAh7Sc4OqHXVgZAp+aD6I9j1j7
+   9nW6wBj1y7O2hBJbK3w=
+MIME-Version: 1.0
+Subject: Hi! mail@dorianvasco.de
+Content-Type: multipart/alternative; boundary="817b072a5480ad7ea2a7ee555185ec250a38"
+From: Brayan Huaman <info@qdomenase193.ru>
+To: "To:mail"@dorianvasco.de
+Date: Thu, 14 Nov 2019 12:23:43 +0300 (AST)
+Message-ID: <3641168566683-48tdxl72-df3nv526-u8b051t7@qdomenase193.ru>
+List-Archive: NO
+X-aid: 50793-046610
+X-Senderinfo: 3877877_25905407
+
+--817b072a5480ad7ea2a7ee555185ec250a38
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+We propose
+
+Sending your commercial offer through the Contact us form which can be fo=
+und on the sites in the Communication section. Contact form are filled in=
+ by our application and the captcha is solved. The advantage of this meth=
+od is that messages sent through feedback forms are whitelisted. This tec=
+hnique raise the chances that your message will be open.
+
+Our database contains more than 35 million sites around the world to whic=
+h we can send your message.
+
+The cost of one million messages 49 USD
+
+FREE TEST mailing to any country of your choice.
+
+(We also provide other services.
+1. Mailing email message to corporate addresses of any country
+2. Selling the email database of any country in the world)
+
+This message is automatically generated. Use our contacts for communicati=
+on.
+
+Contact us.
+Telegram - @FeedbackMessages
+Skype =E2=80=93 Feedback_Messages
+Email - feedback.messages@mail.ru
+
+--817b072a5480ad7ea2a7ee555185ec250a38
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<HTML><HEAD>
+<META http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+</HEAD>
+<BODY bgColor=3D#ffffff>
+<DIV align=3Dleft></DIV>
+<DIV align=3Dleft>We propose</DIV>
+<DIV>&nbsp;</DIV>
+<DIV align=3Dleft>Sending your commercial offer through the Contact us fo=
+rm which can be=20
+found on the sites in the Communication section.=20
+Contact form are filled in by our=20
+application and the captcha is solved. The=20
+advantage of this method is that messages sent through=20
+feedback forms are whitelisted. This technique=20
+raise the chances that your=20
+message will be open.</DIV>
+<DIV>&nbsp;</DIV>
+<DIV align=3Dleft>Our database contains more than 35 million sites around=
+ the=20
+world to which we can send your message.</DIV>
+<DIV>&nbsp;</DIV>
+<DIV align=3Dleft>The cost of one million messages 49 USD</DIV>
+<DIV>&nbsp;</DIV>
+<DIV align=3Dleft>FREE TEST mailing to any country of your choice.</DIV>
+<DIV>&nbsp;</DIV>
+<DIV align=3Dleft>(We also provide other services.<BR>1. Mailing email me=
+ssage to=20
+corporate addresses of any country<BR>2. Selling the email database of an=
+y=20
+country in the world)</DIV>
+<DIV><BR>This message is automatically generated. Use our contacts for=20
+communication.</DIV>
+<DIV><BR>Contact us.<BR>Telegram - @FeedbackMessages<BR>Skype =E2=80=93=20
+Feedback_Messages<BR>Email - <A=20
+href=3D"mailto:feedback.messages@mail.ru">feedback.messages@mail.ru</A><B=
+R></DIV></BODY></HTML>
+
+--817b072a5480ad7ea2a7ee555185ec250a38--

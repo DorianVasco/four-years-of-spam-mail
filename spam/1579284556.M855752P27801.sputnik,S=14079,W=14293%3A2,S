@@ -1,0 +1,214 @@
+Return-Path: <bounce@drs.nachrichten-mailer.com>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 20507C0CF0
+	for <mail@dorianvasco.de>; Sat, 21 Sep 2019 15:22:38 +0200 (CEST)
+Authentication-Results: v22014122474822114.stilfilm.com; dkim=pass
+	reason="1024-bit key; insecure key"
+	header.d=drs.nachrichten-mailer.com header.i=@drs.nachrichten-mailer.com
+	header.b=KZuu0l2z; dkim-adsp=pass; dkim-atps=neutral
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 8.107
+X-Spam-Level: ********
+X-Spam-Status: Yes, score=8.107 required=5.5 tests=[BAYES_99=3.5,
+	BAYES_999=0.2, DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	HTML_MESSAGE=0.001, RAZOR2_CF_RANGE_51_100=1.886, RAZOR2_CHECK=0.922,
+	SPF_HELO_PASS=-0.001, SPF_PASS=-0.001, URIBL_BLACK=1.7] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id CoQF1BgA0WZJ for <mail@dorianvasco.de>;
+	Sat, 21 Sep 2019 15:22:33 +0200 (CEST)
+Received: from smtp.mer67-221.drs.nachrichten-mailer.com (smtp.mer67-221.drs.nachrichten-mailer.com [193.37.67.216])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 47FE7C073B
+	for <kontakt@dorianvasco.de>; Sat, 21 Sep 2019 15:22:33 +0200 (CEST)
+Received: from smtp.mer67-221.drs.nachrichten-mailer.com (smtp.mer67-221.drs.nachrichten-mailer.com [193.37.67.216])
+	by smtp.mer67-221.drs.nachrichten-mailer.com (Postfix) with ESMTP id 0C5496220C0
+	for <kontakt@dorianvasco.de>; Sat, 21 Sep 2019 15:22:31 +0200 (CEST)
+DKIM-Filter: OpenDKIM Filter v2.10.3 smtp.mer67-221.drs.nachrichten-mailer.com 0C5496220C0
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple;
+	d=drs.nachrichten-mailer.com; s=smtp; t=1569072151;
+	bh=YpQ/ekxmnL0Qqth5R9cr6+Bq+JHjBlBEpGHsBX483TU=;
+	h=Message-ID:Date:Subject:From:Reply-To:To:List-Unsubscribe;
+	b=KZuu0l2zBP5oWM+G81O5FE5wd+2ldCUNCwFawCllEA++r6l6xcXFau8uKEPK3HXHW
+	 wm1pZ68swY4TUSxP1idV0LW+XExPGsgzb1jyb0sIm+k3o5jfsZ/EndCmuiozAYbzQX
+	 3Dsol62Yptux7las7ZKCLYJ1DTKjxfTZvqW/GxR8=
+Message-ID: <20190921152146.334450082878113387@drs.nachrichten-mailer.com>
+Date: Sat, 21 Sep 2019 15:22:31 +0200
+Subject: =?UTF-8?B?UkU6IElocmUgS3JlZGl0YW5mcmFnZQ==?=
+From: Auszahlung <info@drs.nachrichten-mailer.com>
+Reply-To: info@drs.nachrichten-mailer.com
+To: kontakt@dorianvasco.de
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_v4_1569072151_55282644f163324834043bdf74170681_=_"
+X-compword: MTkzLjM3LjY3LjIxNjtrb250YWt0QGRvcmlhbnZhc2NvLmRl
+List-Unsubscribe: <mailto:info@drs.nachrichten-mailer.com>
+
+
+--_=_swift_v4_1569072151_55282644f163324834043bdf74170681_=_
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Hallo  ,
+wir haben gro=C3=9Fartige Neuigkeiten f=C3=BCr Sie! Innerhalb weniger Minut=
+en k=C3=B6nnen Sie jetzt zu Sonderkonditionen einen Kreditantrag stellen:
+
+Hier klicken:
+
+http://drs.nachrichten-mailer.com/s/eyJpZENscaSI6IjM0NDUiLCJpZENhbXAiOjgyOD=
+gxMTMsImNvZCI6MjY5MjY5NzQ4LCJjYXQiOiIxMDQ4NTc2IiwiY250IjoiREVVIiwibGlzdCI6I=
+mxpc3RfREVfTE1fZGJzdG9yZSIsImVtYWlsIjoia29udGFrdEBkb3JpYW52YXNjby5kZSIsImdl=
+biI6IiJ9
+
+- z.B. 3.000 Euro ab monatlich 56,14 Euro
+- auch ohne Schufa-Pr=C3=BCfung m=C3=B6glich
+- Vom T=C3=9CV Saarland gepr=C3=BCft
+- garantiert kostenlos & unverbindliche Pr=C3=BCfung
+
+Hier klicken:
+
+http://drs.nachrichten-mailer.com/f/eyJcpZENsaSI6IjM0NDUiLCJpZENhbXAiOjgyOD=
+gxMTMsImNvZCI6MjY5MjY5NzQ5LCJjYXQiOiIxMDQ4NTc2IiwiY250IjoiREVVIiwibGlzdCI6I=
+mxpc3RfREVfTE1fZGJzdG9yZSIsImVtYWlsIjoia29udGFrdEBkb3JpYW52YXNjby5kZSIsImdl=
+biI6IiJ9 <table align=3D"center" border=3D"0" cellpadding=3D"6"  cellspacin=
+g=3D"1" width=3D"100%" style=3D"max-width: 600px;">   <tbody>     <tr>     =
+  <td>       <table border=3D"0" cellpadding=3D"5" cellspacing=3D"0"  width=
+=3D"98%" style=3D"max-width: 588px;">         <tbody>           <tr>       =
+      <td colspan=3D"2">             <div align=3D"left"><br>             <=
+/div>             <div align=3D"left"><font color=3D"#808080"  face=3D"Verd=
+ana" size=3D"1"> <br>  <br> Sie erhalten diese Nachricht, da Sie sich mit I=
+hrer E-Mail-Adresse kontakt@dorianvasco.de bei einem Portal oder einem sons=
+tigen Dienst von uns oder einem unserer Partnerunternehmen angemeldet haben=
+.</font> </div>             </td>           </tr>            <tr>          =
+   <td colspan=3D"2">             <div align=3D"left"><font color=3D"#80808=
+0"  face=3D"Verdana"  size=3D"1">Impressum: BETTER INFORMATION GROUP LTD., =
+132-134 Great Ancoats Street, Manchester, England, M4 6DE<br> Gesch=C3=
+=A4ftsf=C3=BChrer: Reaksa Sary <br> Registrationsnummer: 10543466<br> Tel: =
+ 44 20 3868 3907<br> E-Mail: reply@informationgroup.co.uk<br/> </font></div=
+>             </td>           </tr><br/>  <tr>             <td colspan=3D"2=
+">             <div align=3D"left"><font color=3D"#808080"  face=3D"Verdana=
+"  size=3D"1"> Hinweis: Gem=C3=A4=C3=9F der gesetzlichen Anforderungen in =
+=C2=A7 7 Abs. 2 Nr. 3 UWG versendet BETTER INFORMATION GROUP LTD. diese E-M=
+ail ausschlie=C3=9Flich mit Ihrem Einverst=C3=A4ndnis. Sie k=C3=B6nnen dies=
+es Einverst=C3=A4ndnis jederzeit und ohne Angabe von Gr=C3=BCnden widerrufe=
+n.  Die Rechtm=C3=A4=C3=9Figkeit der Werbung bis zu Ihrem Widerruf bleibt d=
+avon unber=C3=BChrt. Datenschutzhinweis: Verantwortlich ist die BETTER INFO=
+RMATION GROUP LTD. Kontakt siehe oben.  Wir verarbeiten Ihre Daten zum Zwec=
+ke der Werbung mit Ihrer Einwilligung (Art. 6 Abs. 1 a, f) DSGVO) und speic=
+hern diese bis zum Widerruf und dem Ablauf von Verj=C3=A4hrungs- und Aufbew=
+ahrungsfristen.  Sie haben Rechte auf Auskunft, Einschr=C3=A4nkung und Wide=
+rspruch gegen die Verarbeitung und Daten=C3=BCbertragbarkeit.  </font> </di=
+v>             </td>           </tr>                     <tr>             <=
+td>                         <div align=3D"left"><font color=3D"#808080"  fa=
+ce=3D"Verdana" size=3D"1">Wenn Sie keine Newsletter mehr von uns erhalten w=
+ollen, klicken Sie <a href=3D" http://drs.nachrichten-mailer.com/t/eyJpZENs=
+auSI6IjM0NDUiLCJpZENhbXAiOiI4Mjg4MTEzIiwiZW1haWwiOiJrb250YWt0QGRvcmlhbnZhc2=
+NvLmRlIiwic2VnIjoiYWZiMjViNmE1NTdlN2Q3MWYwOWZkNGI1ZDgzYzVjY2U1NDI1MDJkYyIsI=
+mF0IjoxfQ">hier</a>.</div>             </td>           </tr>               =
+ </table>       </td>     </tr>   </tbody> http://drs.nachrichten-mailer.co=
+m/t/eyJpZENsauSI6IjM0NDUiLCJpZENhbXAiOiI4Mjg4MTEzIiwiZW1haWwiOiJrb250YWt0QG=
+RvcmlhbnZhc2NvLmRlIiwic2VnIjoiYWZiMjViNmE1NTdlN2Q3MWYwOWZkNGI1ZDgzYzVjY2U1N=
+DI1MDJkYyIsImF0IjoxfQ=20
+
+--_=_swift_v4_1569072151_55282644f163324834043bdf74170681_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: base64
+
+PCFET0NUWVBFIGh0bWwgUFVCTElDICItLy9XM0MvL0RURCBYSFRNTCAxLjAgVHJhbnNpdGlvbmFs
+Ly9FTiIKImh0dHA6Ly93d3cudzMub3JnL1RSL3hodG1sMS9EVEQveGh0bWwxLXRyYW5zaXRpb25h
+bC5kdGQiPgo8aHRtbCB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94aHRtbCI+CjxoZWFk
+Pgo8dGl0bGU+PC90aXRsZT4KPG1ldGEgaHR0cC1lcXVpdj0iQ29udGVudC1UeXBlIiBjb250ZW50
+PSJ0ZXh0L2h0bWw7IGNoYXJzZXQ9dXRmLTgiIC8+CjwvaGVhZD4KPGJvZHk+CgoKPHRhYmxlIHdp
+ZHRoPScxMDAlJyBjZWxscGFkZGluZz0nMCcgY2VsbHNwYWNpbmc9JzInPgo8dHIgd2lkdGg9JzEw
+MCUnIHN0eWxlPSdmb250LXNpemU6MTFweDsgY29sb3I6IzMzMzMzMyc+Cjx0ZCBhbGluZz0nY2Vu
+dGVyJyBzdHlsZT0nd2lkdGg6MHB4Jz48L3RkPgo8dGQgc3R5bGU9InRleHQtYWxpZ246Y2VudGVy
+Ij5XZW5uIFNpZSBkaWVzZSBFbWFpbCBuaWNodCBsZXNlbiBrw7ZubmVuLCBrbGlja2VuIFNpZSBi
+aXR0ZSA8Yj48YSBocmVmPSdodHRwOi8vZHJzLm5hY2hyaWNodGVuLW1haWxlci5jb20vdC9leUpw
+WkVNaU9taUl6TkRRMUlpd2lhV1FpT2lJNE1qZzRNVEV6SWl3aVpTSTZJbXR2Ym5SaGEzUkFaRzl5
+YVdGdWRtRnpZMjh1WkdVaUxDSnNJam9pYkdsemRGOUVSVjlNVFY5a1luTjBiM0psSW4wJyBzdHls
+ZT0ndGV4dC1kZWNvcmF0aW9uOm5vbmU7IGNvbG9yOiMyNWE5ZGY7Jz5oaWVyPC9hPjwvYj48L3Rk
+Pgo8L3RyPgo8L3RhYmxlPgoKCgoKCgo8aW1nIGRhdGEtYWx0PSI3ODMwNjM3IiBoZWlnaHQ9IjEi
+IHNyYz0iaHR0cDovL2Rycy5uYWNocmljaHRlbi1tYWlsZXIuY29tL3MvZXlKcFpFTnN2YVNJNklq
+TTBORFVpTENKcFpFTmhiWEFpT2pneU9EZ3hNVE1zSW1OdlpDSTZPREk0T0RFeE15d2lZMkYwSWpv
+aU1UQTBPRFUzTmlJc0ltTnVkQ0k2SWtSRlZTSXNJbVZ0WVdsc0lqb2lhMjl1ZEdGcmRFQmtiM0pw
+WVc1MllYTmpieTVrWlNJc0lteHBjM1FpT2lKc2FYTjBYMFJGWDB4TlgyUmljM1J2Y21VaUxDSm5a
+VzRpT2lJaWZRIiB3aWR0aD0iMSIgLz4KPGRpdj5IYWxsbyAgLDwvZGl2Pgo8ZGl2PndpciBoYWJl
+biBncm8mc3psaWc7YXJ0aWdlIE5ldWlna2VpdGVuIGYmdXVtbDtyIFNpZSEgSW5uZXJoYWxiIHdl
+bmlnZXIgTWludXRlbiBrJm91bWw7bm5lbiBTaWUgamV0enQgenUgU29uZGVya29uZGl0aW9uZW4g
+ZWluZW4gS3JlZGl0YW50cmFnIHN0ZWxsZW46PC9kaXY+CjxkaXY+Jm5ic3A7PC9kaXY+CjxkaXY+
+SGllciBrbGlja2VuOjwvZGl2Pgo8ZGl2PiZuYnNwOzwvZGl2Pgo8ZGl2PjxhIGhyZWY9Imh0dHA6
+Ly9kcnMubmFjaHJpY2h0ZW4tbWFpbGVyLmNvbS91L2V5SnBjWkVOc2FTSTZJak0wTkRVaUxDSnBa
+RU5oYlhBaU9qZ3lPRGd4TVRNc0ltTnZaQ0k2TWpZNU1qWTVOelV3TENKallYUWlPaUl4TURRNE5U
+YzJJaXdpWTI1MElqb2lSRVZWSWl3aWJHbHpkQ0k2SW14cGMzUmZSRVZmVEUxZlpHSnpkRzl5WlNJ
+c0ltVnRZV2xzSWpvaWEyOXVkR0ZyZEVCa2IzSnBZVzUyWVhOamJ5NWtaU0lzSW1kbGJpSTZJaUo5
+Ij5MaW5rPC9hPjwvZGl2Pgo8ZGl2PiZuYnNwOzwvZGl2Pgo8ZGl2Pi0gei5CLiAzLjAwMCBFdXJv
+IGFiIG1vbmF0bGljaCA1NiwxNCBFdXJvPC9kaXY+CjxkaXY+LSBhdWNoIG9obmUgU2NodWZhLVBy
+JnV1bWw7ZnVuZyBtJm91bWw7Z2xpY2g8L2Rpdj4KPGRpdj4tIFZvbSBUJlV1bWw7ViBTYWFybGFu
+ZCBnZXByJnV1bWw7ZnQ8L2Rpdj4KPGRpdj4tIGdhcmFudGllcnQga29zdGVubG9zICYgdW52ZXJi
+aW5kbGljaGUgUHImdXVtbDtmdW5nPC9kaXY+CjxkaXY+Jm5ic3A7PC9kaXY+CjxkaXY+SGllciBr
+bGlja2VuOjwvZGl2Pgo8ZGl2PiZuYnNwOzwvZGl2Pgo8ZGl2PjxhIGhyZWY9Imh0dHA6Ly9kcnMu
+bmFjaHJpY2h0ZW4tbWFpbGVyLmNvbS9yL2V5SnBaRWNOc2FTSTZJak0wTkRVaUxDSnBaRU5oYlhB
+aU9qZ3lPRGd4TVRNc0ltTnZaQ0k2TWpZNU1qWTVOelV4TENKallYUWlPaUl4TURRNE5UYzJJaXdp
+WTI1MElqb2lSRVZWSWl3aWJHbHpkQ0k2SW14cGMzUmZSRVZmVEUxZlpHSnpkRzl5WlNJc0ltVnRZ
+V2xzSWpvaWEyOXVkR0ZyZEVCa2IzSnBZVzUyWVhOamJ5NWtaU0lzSW1kbGJpSTZJaUo5Ij5MaW5r
+PC9hPjwvZGl2Pgo8ZGl2PiZuYnNwOzwvZGl2Pgo8ZGl2PiZuYnNwOzwvZGl2PgoKCjxjZW50ZXI+
+PHRhYmxlIHN0eWxlPSJtYXgtd2lkdGg6IDYwMHB4OyIgYm9yZGVyPSIwIiB3aWR0aD0iMTAwJSIg
+Y2VsbHNwYWNpbmc9IjEiIGNlbGxwYWRkaW5nPSI2IiBhbGlnbj0iY2VudGVyIj4KPHRib2R5Pgo8
+dHI+Cjx0ZD4KPHRhYmxlIHN0eWxlPSJtYXgtd2lkdGg6IDU4OHB4OyIgYm9yZGVyPSIwIiB3aWR0
+aD0iOTglIiBjZWxsc3BhY2luZz0iMCIgY2VsbHBhZGRpbmc9IjUiPgo8dGJvZHk+Cjx0cj4KPHRk
+IHN0eWxlPSJ0ZXh0LWFsaWduOiBjZW50ZXI7IiBjb2xzcGFuPSIyIj4KPGRpdiBhbGlnbj0ibGVm
+dCI+wqA8L2Rpdj4KPGRpdiBzdHlsZT0idGV4dC1hbGlnbjogY2VudGVyOyIgYWxpZ249ImxlZnQi
+PjxzcGFuIHN0eWxlPSJjb2xvcjogIzgwODA4MDsgZm9udC1mYW1pbHk6IFZlcmRhbmE7IGZvbnQt
+c2l6ZTogeHgtc21hbGw7Ij4gPGJyIC8+IDxiciAvPiBTaWUgZXJoYWx0ZW4gZGllc2UgTmFjaHJp
+Y2h0LCBkYSBTaWUgc2ljaCBtaXQgSWhyZXIgRS1NYWlsLUFkcmVzc2Uga29udGFrdEBkb3JpYW52
+YXNjby5kZSBiZWkgZWluZW0gUG9ydGFsIG9kZXIgZWluZW0gc29uc3RpZ2VuIERpZW5zdCB2b24g
+dW5zIG9kZXIgZWluZW0gdW5zZXJlciBQYXJ0bmVydW50ZXJuZWhtZW4gYW5nZW1lbGRldCBoYWJl
+bi48L3NwYW4+PC9kaXY+CjwvdGQ+CjwvdHI+Cjx0cj4KPHRkIHN0eWxlPSJ0ZXh0LWFsaWduOiBj
+ZW50ZXI7IiBjb2xzcGFuPSIyIj4KPGRpdiBzdHlsZT0idGV4dC1hbGlnbjogY2VudGVyOyIgYWxp
+Z249ImxlZnQiPjxzcGFuIHN0eWxlPSJjb2xvcjogIzgwODA4MDsgZm9udC1mYW1pbHk6IFZlcmRh
+bmE7IGZvbnQtc2l6ZTogeHgtc21hbGw7Ij5JbXByZXNzdW06IEJFVFRFUiBJTkZPUk1BVElPTiBH
+Uk9VUCBMVEQuLCAxMzItMTM0IEdyZWF0IEFuY29hdHMgU3RyZWV0LCBNYW5jaGVzdGVyLCBFbmds
+YW5kLCBNNCA2REU8YnIgLz4gR2VzY2jDpGZ0c2bDvGhyZXI6IFJlYWtzYSBTYXJ5IDxiciAvPiBS
+ZWdpc3RyYXRpb25zbnVtbWVyOiAxMDU0MzQ2NjxiciAvPiBUZWw6ICA0NCAyMCAzODY4IDM5MDc8
+YnIgLz4gRS1NYWlsOiByZXBseUBpbmZvcm1hdGlvbmdyb3VwLmNvLnVrPGJyIC8+IDwvc3Bhbj48
+L2Rpdj4KPC90ZD4KPC90cj4KPHRyPgo8dGQgc3R5bGU9InRleHQtYWxpZ246IGNlbnRlcjsiIGNv
+bHNwYW49IjIiPgo8ZGl2IHN0eWxlPSJ0ZXh0LWFsaWduOiBjZW50ZXI7IiBhbGlnbj0ibGVmdCI+
+PHNwYW4gc3R5bGU9ImNvbG9yOiAjODA4MDgwOyBmb250LWZhbWlseTogVmVyZGFuYTsgZm9udC1z
+aXplOiB4eC1zbWFsbDsiPiBIaW53ZWlzOiBHZW3DpMOfIGRlciBnZXNldHpsaWNoZW4gQW5mb3Jk
+ZXJ1bmdlbiBpbiDCpyA3IEFicy4gMiBOci4gMyBVV0cgdmVyc2VuZGV0IEJFVFRFUiBJTkZPUk1B
+VElPTiBHUk9VUCBMVEQuIGRpZXNlIEUtTWFpbCBhdXNzY2hsaWXDn2xpY2ggbWl0IElocmVtIEVp
+bnZlcnN0w6RuZG5pcy4gU2llIGvDtm5uZW4gZGllc2VzIEVpbnZlcnN0w6RuZG5pcyBqZWRlcnpl
+aXQgdW5kIG9obmUgQW5nYWJlIHZvbiBHcsO8bmRlbiB3aWRlcnJ1ZmVuLiBEaWUgUmVjaHRtw6TD
+n2lna2VpdCBkZXIgV2VyYnVuZyBiaXMgenUgSWhyZW0gV2lkZXJydWYgYmxlaWJ0IGRhdm9uIHVu
+YmVyw7xocnQuIERhdGVuc2NodXR6aGlud2VpczogVmVyYW50d29ydGxpY2ggaXN0IGRpZSBGaXJt
+YSBCRVRURVIgSU5GT1JNQVRJT04gR1JPVVAgTFRELiBLb250YWt0IHNpZWhlIG9iZW4uIFdpciB2
+ZXJhcmJlaXRlbiBJaHJlIERhdGVuIHp1bSBad2Vja2UgZGVyIFdlcmJ1bmcgbWl0IElocmVyIEVp
+bndpbGxpZ3VuZyAoQXJ0LiA2IEFicy4gMSBhLCBmKSBEU0dWTykgdW5kIHNwZWljaGVybiBkaWVz
+ZSBiaXMgenVtIFdpZGVycnVmIHVuZCBkZW0gQWJsYXVmIHZvbiBWZXJqw6RocnVuZ3MtIHVuZCBB
+dWZiZXdhaHJ1bmdzZnJpc3Rlbi4gU2llIGhhYmVuIFJlY2h0ZSBhdWYgQXVza3VuZnQsIEVpbnNj
+aHLDpG5rdW5nIHVuZCBXaWRlcnNwcnVjaCBnZWdlbiBkaWUgVmVyYXJiZWl0dW5nIHVuZCBEYXRl
+bsO8YmVydHJhZ2JhcmtlaXQuIDwvc3Bhbj48L2Rpdj4KPC90ZD4KPC90cj4KPHRyPgo8dGQgc3R5
+bGU9InRleHQtYWxpZ246IGNlbnRlcjsiPgo8ZGl2IHN0eWxlPSJ0ZXh0LWFsaWduOiBjZW50ZXI7
+IiBhbGlnbj0ibGVmdCI+PHNwYW4gc3R5bGU9ImNvbG9yOiAjODA4MDgwOyBmb250LWZhbWlseTog
+VmVyZGFuYTsgZm9udC1zaXplOiB4eC1zbWFsbDsiPldlbm4gU2llIGtlaW5lIE5ld3NsZXR0ZXIg
+bWVociB2b24gdW5zIGVyaGFsdGVuIHdvbGxlbiwga2xpY2tlbiBTaWUgPGEgaHJlZj0iCmh0dHA6
+Ly9kcnMubmFjaHJpY2h0ZW4tbWFpbGVyLmNvbS90L2V5SnBaRU5zYXVTSTZJak0wTkRVaUxDSnBa
+RU5oYlhBaU9pSTRNamc0TVRFeklpd2laVzFoYVd3aU9pSnJiMjUwWVd0MFFHUnZjbWxoYm5aaGMy
+TnZMbVJsSWl3aWMyVm5Jam9pWVdaaU1qVmlObUUxTlRkbE4yUTNNV1l3T1daa05HSTFaRGd6WXpW
+alkyVTFOREkxTURKa1l5SXNJbUYwSWpveGZRIj5oaWVyPC9hPi48L3NwYW4+PC9kaXY+CjwvdGQ+
+CjwvdHI+CjwvdGJvZHk+CjwvdGFibGU+CjwvdGQ+CjwvdHI+CjwvdGJvZHk+CjwvdGFibGU+PC9j
+ZW50ZXI+CgoKPHRhYmxlIHdpZHRoPScxMDAlJyBjZWxscGFkZGluZz0nMCcgY2VsbHNwYWNpbmc9
+JzInPgo8dHIgYWxpZ249J2NlbnRlcicgd2lkdGg9JzEwMCUnIHN0eWxlPSdmb250LXNpemU6MTFw
+eDsgY29sb3I6I19fIHVuc3Vic2NyaWJlX3RleHRfY29sb3JfXyc+Cjx0ZCAgc3R5bGU9InRleHQt
+YWxpZ246Y2VudGVyOyBjb2xvcjojMzMzMzMzIiB3aWR0aD0nMTAwJSc+PGI+PGEgaHJlZj0naHR0
+cDovL2Rycy5uYWNocmljaHRlbi1tYWlsZXIuY29tL3QvZXlKcFpFTnNhdVNJNklqTTBORFVpTENK
+cFpFTmhiWEFpT2lJNE1qZzRNVEV6SWl3aVpXMWhhV3dpT2lKcmIyNTBZV3QwUUdSdmNtbGhiblpo
+YzJOdkxtUmxJaXdpYzJWbklqb2lZV1ppTWpWaU5tRTFOVGRsTjJRM01XWXdPV1prTkdJMVpEZ3pZ
+elZqWTJVMU5ESTFNREprWXlJc0ltRjBJam94ZlEnIHN0eWxlPSd0ZXh0LWRlY29yYXRpb246bm9u
+ZTsgY29sb3I6IzI1YTlkZjsnPjwvYT48L2I+PC90ZD4KPC90cj4KPC90YWJsZT4KCgo8dGFibGUg
+d2lkdGg9JzEwMCUnPgo8dHIgd2lkdGg9JzEwMCUnIHN0eWxlPSdmb250LXNpemU6MTFweCc+Cjx0
+ZCBhbGlnbj0nY2VudGVyJz48L3RkPgo8L3RyPgo8L3RhYmxlPgoKCjwvYm9keT4KPC9odG1sPgo=
+
+--_=_swift_v4_1569072151_55282644f163324834043bdf74170681_=_--
+

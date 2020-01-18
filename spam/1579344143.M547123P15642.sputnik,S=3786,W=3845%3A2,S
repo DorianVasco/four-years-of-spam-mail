@@ -1,0 +1,59 @@
+Return-Path: <marleneharrist6163@yahoo.com>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id C4A73D4D12
+	for <mail@dorianvasco.de>; Sat, 21 Oct 2017 13:12:37 +0200 (CEST)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 6.444
+X-Spam-Level: ******
+X-Spam-Status: Yes, score=6.444 required=5.5 tests=[BAYES_80=2,
+	DIGEST_MULTIPLE=0.293, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, FREEMAIL_ENVFROM_END_DIGIT=0.25,
+	FREEMAIL_FROM=0.001, MIME_BASE64_BLANKS=0.001, PYZOR_CHECK=1.392,
+	RAZOR2_CF_RANGE_51_100=0.5, RAZOR2_CF_RANGE_E8_51_100=1.886,
+	RAZOR2_CHECK=0.922, RCVD_IN_DNSWL_LOW=-0.7, RP_MATCHES_RCVD=-0.001,
+	SPF_PASS=-0.001, URIBL_BLOCKED=0.001] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 3yiUUFvb3Fv3 for <mail@dorianvasco.de>;
+	Sat, 21 Oct 2017 13:12:36 +0200 (CEST)
+Received: from nm28-vm1.bullet.mail.bf1.yahoo.com (nm28-vm1.bullet.mail.bf1.yahoo.com [98.139.212.252])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id E11F9C16B9
+	for <mail@dorianvasco.de>; Sat, 21 Oct 2017 13:12:35 +0200 (CEST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1508584355; bh=pfHVplGq16uvZVHxBdTMSxHt+YexPPCy60ZAQn1yn4Y=; h=Subject:From:Date:To:List-Unsubscribe:From:Subject; b=kaB+1HsbqiALu8nW26xhOnkclIWiAyHLKL89KN1bEtK7Zag2XNWW0+fKWsNrhcV2rs26SNICQ/gc2U/VXD4g2YeXk0oKY8ik0UGOiG5MVo48LuOM0KJKeQJkLZK7Hlpkl7Dsov8yJnJYrXXd0hItI+a5t8b2NVPQ2mRKZu1fVObIA9b6OiyH0vu6ek4X2WKZAwezYxc3wEK8PQjIqwRQe9cAUdB6G7ZsI3e9499D7F87rp/TKK+ZhrYsw4DIRG6QNMRlVLOMhixVSZnMTCAIjpdz/5zOWUCajovyhbf3u7Q93YCa5/gffA4N6ZqpMv/Mp9n0qBw56ysAT8Vv1Y32JQ==
+Received: from [98.139.232.9] by nm28.bullet.mail.bf1.yahoo.com with NNFMP; 21 Oct 2017 11:12:35 -0000
+Received: from [98.139.211.192] by tm26.bullet.mail.bf1.yahoo.com with NNFMP; 21 Oct 2017 11:12:35 -0000
+Received: from [127.0.0.1] by smtp201.mail.bf1.yahoo.com with NNFMP; 21 Oct 2017 11:12:35 -0000
+X-Yahoo-Newman-Id: 632106.71900.bm@smtp201.mail.bf1.yahoo.com
+Message-ID: <632106.71900.bm@smtp201.mail.bf1.yahoo.com>
+X-Yahoo-Newman-Property: ymail-5
+X-YMail-OSG: XEbIRIYVM1l9Xjv_rdb9t9kkuFzMS7On3Ecj31Iaysr4VW_
+ Q797zxszsitpGORPpm1.7xJlcHfj2VHEmt3O7Zul_RdKPyx7ry4Lm2h0b8Ib
+ ikcbcKMGayuDQwgFUpN_vevS0nNXSMx9WoqOnuUlY4RyAYHOln6yT8RbvkGH
+ TMJUlCGPV.U9ZAO8M_SVkZEkVDCKD2x7jgyIwpTs90CRtVnTQEa4KjkuRwQs
+ y1baBENBJvZVsKE.JzyJO97tXV91.tS2BQ2Q726kTfz97T4Q4SssN1ycYpVN
+ 1Ie2ew9XHSwaYnATnz770byrHOgExqpto.LhoBx1yisls9So0h9L.8WgUHja
+ bnPKWt7GdYgR9DB11lzruGF1TgbDj759ECdsyjLZAsdL3jN0oINiVnCqBRuk
+ vyyeai25BzWoJNuCv7iGYORqVbk11XBbKI2ZJGm9LCIrjeaZ8Qvz00rntpoJ
+ tMPXaT4NWakgJllK.amViE9hw1dKzG5V.Rin111N8ndR2_1cbpKMc
+X-Yahoo-SMTP: fX0fFjWswBC0JZDNoMwiCMsQ47EokJTifbbKf11oUg--
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+Subject: ***SPAM*** =?utf-8?q?tec-group=2Ecom?=
+From: "Marissa" <marleneharrist6163@yahoo.com>
+Date: Sat, 21 Oct 2017 11:12:32 -0000
+To: mail <mail@dorianvasco.de>
+List-Unsubscribe: http://patriotname.com/_Z3JwLXRlYmhjLnBiejpwdWV2ZmdsOjE5OTA=
+
+
+SGVsbG8sCgpJIGFtIHRyeWluZyB0byBmaW5kIGludGVyZXN0ZWQgcGFydGllcyBmb3IgbXkgdGVj
+LWdyb3VwKGNvbSkgZG9tYWluIG5hbWUuCgpQbGVhc2UgZG8gbGV0IG1lIGtub3cgaWYgeW91IGFy
+ZSBpbnRlcmVzdGVkIGJ5IGdvaW5nIGhlcmUKaHR0cDovL3BhdHJpb3RuYW1lLmNvbS9aM0p3TFhS
+bFltaGpMbkJpZWpwd2RXVjJabWRzT2pFNU9UQT0KClRoYW5rcy4KTWFyaXNzYQoKVG8gcmVtb3Zl
+IHlvdXIgZW1haWwgZnJvbSBvdXIgbGlzdDogaHR0cDovL3BhdHJpb3RuYW1lLmNvbS9fWjNKd0xY
+UmxZbWhqTG5CaWVqcHdkV1YyWm1kc09qRTVPVEE9
+

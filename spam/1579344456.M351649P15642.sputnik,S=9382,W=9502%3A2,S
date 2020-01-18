@@ -1,0 +1,120 @@
+Return-Path: <sales51@ossmail.top>
+Delivered-To: mail@elementk.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 7B49CD18BC
+	for <mail@elementk.de>; Fri, 24 May 2019 15:19:22 +0200 (CEST)
+Authentication-Results: v22014122474822114.stilfilm.com; dkim=fail
+	reason="verification failed; insecure key"
+	header.d=ossmail.top header.i=sales51@ossmail.top
+	header.b=m7VwSme5; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 6.267
+X-Spam-Level: ******
+X-Spam-Status: Yes, score=6.267 required=5.5 tests=[BAYES_50=0.8,
+	DEAR_SOMETHING=1.973, DKIM_INVALID=0.1, DKIM_SIGNED=0.1,
+	HTML_MESSAGE=0.001, RDNS_NONE=0.793, SPF_HELO_NONE=0.001,
+	SPF_PASS=-0.001, URIBL_DBL_SPAM=2.5] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id mi-POkrMdjGr for <mail@elementk.de>;
+	Fri, 24 May 2019 15:19:16 +0200 (CEST)
+Received: from server1.facebookoss.xyz (unknown [124.156.109.62])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 0206FC6E56
+	for <mail@elementk.de>; Fri, 24 May 2019 15:19:11 +0200 (CEST)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=liusheng; d=ossmail.top;
+ h=MIME-Version:Date:Content-Type:Content-Transfer-Encoding:From:Subject:To:Sender:Reply-To:Message-ID:In-Reply-To; i=sales51@ossmail.top;
+ bh=ulW83ODuNxYajuB6CUtYQX6O+Go=;
+ b=m7VwSme58CvECi8gIgYoPqdSVUCoKrEhbwDSwlLpPaklhjIWFbsiOp1P7BfgWBzdPcysdWbCjAmb
+   RR0VyvJqCiGFja8JFnspaj3x12LfDemlFaiBNc/PKQ8amfqEsKTU0dq8DZAIJ12lA5BXnCDlxo0X
+   BZu6GKTtuqd2J/XgycE=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=liusheng; d=ossmail.top;
+ b=qTzumeh6vISLsjNpZ+xdSTSv+AfKRtmL07a99WqAZBNas+JkSsTMGbbCR9BPgNH1r1saKiDBfPmi
+   PWGIrbi/bYHMm4nXOFOQ145dFxtrJq6VnyZNQFLKd7C4V88pIc7KaBvA7EzausFyxN3kLBgF1Kfy
+   cQ7B+hVMPWuAMiZGfiM=;
+Received: from DESKTOP-JAKNT5H (60.12.221.79) by server1.facebookoss.xyz id hsvnl00e97cs for <mail@elementk.de>; Fri, 24 May 2019 21:19:07 +0800 (envelope-from <sales51@ossmail.top>)
+MIME-Version: 1.0
+Date: Fri, 24 May 2019 21:19:06 +0800
+Content-Type: multipart/alternative; charset=UTF-8; boundary="xE4Ee6FRoaUDosbMp=_rcPUsdJYuXWJtL9"
+Content-Transfer-Encoding: 8bit
+Content-Disposition: inline
+From: "sales51@ossmail.top" <sales51@ossmail.top>
+Subject: Nutraceuticals & Intermediates/Ningbo Hi-Tech Biochemicals Co.,Ltd
+To: mail@elementk.de
+Sender: sales51@ossmail.top
+Reply-To: sales@hi-techbiochem.com
+Message-ID: <2019050024211900060599@ossmail.top>
+X-Mailer: Foxmail 6, 13, 102, 15 [cn]
+In-Reply-To: <2019050024211900060599@ossmail.top>
+
+This is a multi-part message in MIME format
+
+
+--xE4Ee6FRoaUDosbMp=_rcPUsdJYuXWJtL9
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: Base64
+Content-Disposition: inline
+
+RGVhciBTaXJzDQpHb29kIG1vcm5pbmcuIFdlIGFyZSB3cml0aW5nIHlvdSB0byBzZWVrIGJ1c2lu
+ZXNzIG9wcG9ydHVuaXR5IGluIHRoZSBmaWVsZCBvZm51dHJhY2V1dGljYWxzICYgdmV0ZXJpbmFy
+eSBwaGFybWFjdWV0aWNhbHMuIE5pbmdibyBIaS1UZWNoIEJpb2NoZW1pY2Fsc0NvLixMdGQgZXN0
+YWJsaXNoZWQgaW4gMjAwNiBhbmQgV2UgYXJlIGluIHRoZSBwb3NpdGlvbiB0byBzdXBwbHkgYmVs
+b3cgcHJvZHVjdHN3aXRoIG1vc3QgY29tcGV0aXRpdmUgcHJpY2UgYW5kIGdvb2QgcXVhbGl0eS4g
+SWYgeW91IGFyZWludGVyZXN0aW5nIGluIHRoZXNlcHJvZHVjdHMgcGxlYXNlIGZlZWwgZnJlZSB0
+byBzZW5kIHVzIGlucXVpcnkuIEhvcGUgdG8gaGF2ZSB5b3VyIHJlcGx5ICZ0aGFuayB5b3UNCk51
+dHJhY2V1dGljYWxzICYgZm9vZCBpbmdyZWRpZW50cw0KVml0YW1pbiBCNQ0KVml0YW1pbiBCOQ0K
+Vml0YW1pbiBCMTINClZpdGFtaW4gQw0KRC1QYW50aGVub2wNCkQtQmlvdGluDQpJbm9zaXRvbA0K
+SHlkcm94eXByb3B5bC3Osi1DeWNsb2RleHRyaW4oSFBCQykoQVBJIGV4Y2lwaWVudCkNCkFzdHJh
+Z2FsdXMgRXh0cmFjdCAxNSXvvZ4yMCUgUG9seXNhY2NocmlkZXMNCkNyYW5iZXJyeSBFeHRyYWN0
+IDUl772eNTAlIFByb2FudGhvY3lhbmlkaW4NCkdpbnNlbmcgRXh0cmFjdCAxMCXvvZ44MCVHaW5z
+ZW5vc2lkZXMNCkdyZWVuIENvZmZlZSBCZWFuIEV4dHJhY3QgNDUlIENobG9yb2dlbmljIGFjaWQg
+MiVDYWZmZWluZQ0KUmVkIFllYXN0IFJpY2UgMSXvvZ41JSBNb25hY29saW4gIEsNClJ1dGluIE5G
+MTENClNpbHltYXJpbjcwJe+9njgwJQ0KU295YmVhbiBFeHRyYWN0IDQwJSBJc29mbGF2b25lDQpQ
+aG9zcGhhdGlkaWMgQWNpZCAoUEEgMjAlKQ0KUGhvc3BoYXRpZHlsc2VyaW5lIChQUyAyMCXvvZ43
+MCUpDQpQaG9zcGhhdGlkeWwgQ2hvbGluZSAoUEMgNTAl772eOTAlKQ0KTC1BcmdpbmluZSBCYXNl
+DQpMLUNhcm5vc2luZQ0KTC1DeXN0ZWluZSBIY2xNb25vDQpMLUN5c3RpbmUNCkwtTm9ydmFsaW5l
+DQpOLUFjZXR5bC1MLUN5c3RlaW5lDQpTLUNhcmJveHltZXRoeWwtTC1DeXN0ZWluZQ0KSW50ZXJt
+ZWRpYXRlcw0KMi1BbWluby02LUh5ZHJveHktMUgtUHVyaW5lIChHdWFuaW5lKSBDQVMjNzMtNDAt
+NSAoSW50ZXJtZWRpYXRlIG9mIEFjeWNsb2d1YW5vc2luZSkNCjItS2V0by1MLUd1bG9uaWMgQWNp
+ZCAoMi1LR0EpIENBUyM1MjYtOTgtNyAoSW50ZXJtZWRpYXRlIG9mIFZpdGFtaW4gQykNCjIsNCw1
+LVRyaWFtaW5vLTYtSHlkcm94eXB5cmltaWRpbmUgU3VsZmF0ZSBDQVMjMzUwMTEtNDctMyAoSW50
+ZXJtZWRpYXRlIG9mIEZvbGljIEFjaWQgJiBHdWFuaW5lKQ0KMiw2LURpaHlkcm94eW5hcGh0aGFs
+ZW5lIENBUyM1ODEtNDMtMQ0KMy1BbWlub3BoZW5vbCBDQVMjNTkxLTI3LTUNCjMtTWV0aHlsLTIt
+Tml0cm9iZW56b2ljIEFjaWQgIENBUyM1NDM3LTM4LTcNCjMtTWV0aHlsLTQtTml0cm9iZW56b2lj
+IEFjaWQgQ0FTIzMxMTMtNzEtMSAoSW50ZXJtZWRpYXRlIG9mIEFQSVRlbG1pc2FydGFuKQ0KNC1B
+bWluby02LUNobG9yb3RvbHVlbmUtMy1TdWxwaG9uaWMgQWNpZCAoMkIgQWNpZCkgQ0FTIzg4LTUx
+LTcNCjQtQW1pbm9iZW56b3lsLUwtR2x1dGFtaWNBY2lkIENBUyM0MjcxLTMwLTEgKEludGVybWVk
+aWF0ZSBvZiBGb2xpYyBBY2lkKQ0KNS1NZXRoeWwtMi1OaXRyb2JlbnpvaWMgQWNpZCBDQVMjMzEx
+My03Mi0yIChJbnRlcm1lZGlhdGUgb2YgRWx1eGFkb2xpbmUpDQrOsS1IeWRyb3h5YmVuemVuZWFj
+ZXRpYyBBY2lkIChETC1NYW5kZWxpYyBBY2lkKSBDQVMjNjExLTcyLTMgKEludGVybWVkaWF0ZSBv
+ZiBDZWZhbWFuZG9sZSAmIFBlbW9saW5lKQ0KRS0xLUNobG9yby02LDYtZGltZXRoeWwtMi1oZXB0
+ZW4tNC15bmUgQ0FTIzEyNjc2NC0xNy04IChJbnRlcm1lZGlhdGVvZiBBUEkgVGVyYmluYWZpbmUp
+DQpCZXN0IHJlZ2FyZHMNClNhbGVzIFRlYW0NCi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0t
+LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tDQpOSU5H
+Qk9ISS1URUNIQklPQ0hFTUlDQUxTIENPLixMVEQNClRlbDorODYtNTc0LTI3NzExODQ2IEZheDor
+ODYtNTc0LTI3ODYzODUxDQpFbWFpbDogc2FsZXNAaGktdGVjaGJpb2NoZW0uY29tDQpWaWV0bmFt
+LE1FREktUEhBUk0gSGFub2koTWF5IDktTWF5IDExLCAyMDE4KUJvb3RoTnVtYmVyLjoyNDgNCkNQ
+SElTaGFuZ2hhaShKdW4gMjAtMjIsMjAxOClCb290aCBOdW1iZXIuOlQyQTM5DQpDUGhJIE1hZHJp
+ZChPY3RvYmVyOS0xMSwyMDE4KUJvb3RoIE51bWJlci46Nkc1Mg0KSW4tQ29zbWV0aWNzIEFzaWEg
+QmFuZ2tvayBUaGFpbGFuZCAoT2N0MzAtTm92MSwyMDE4KUJvb3RoIE51bWJlci46RTUzDQpDUEhJ
+IEluZGlhIE5ldyBEZWxoaSAoRGVjIDEyLTE0LDIwMTgpQm9vdGhOdW1iZXIuOjZLMTENCg==
+
+--xE4Ee6FRoaUDosbMp=_rcPUsdJYuXWJtL9
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+Content-Disposition: inline
+
+<html><head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <meta name="GENERATOR" content="MSHTML 11.00.10570.1001"></head>
+<body><p>
+Dear Sirs</p><p>Good morning. We are writing you to seek business opportunity in the field ofnutraceuticals &amp; veterinary pharmacueticals. Ningbo Hi-Tech BiochemicalsCo.,Ltd established in 2006 and We are in the position to supply below productswith most competitive price and good quality. If you areinteresting in theseproducts please feel free to send us inquiry. Hope to have your reply &amp;thank you</p><p>Nutraceuticals &amp; food ingredients</p><p>Vitamin B5<br>Vitamin B9<br>Vitamin B12<br>Vitamin C<br>D-Panthenol<br>D-Biotin<br>Inositol<br>Hydroxypropyl-β-Cyclodextrin(HPBC)(API excipient)</p><p><br>Astragalus Extract 15%～20% Polysacchrides<br>Cranberry Extract 5%～50% Proanthocyanidin<br>Ginseng Extract 10%～80%Ginsenosides<br>Green Coffee Bean Extract 45% Chlorogenic acid 2%Caffeine<br>Red Yeast Rice 1%～5% Monacolin&nbsp; K<br>Rutin NF11<br>Silymarin70%～80%<br>Soybean Extract 40% Isoflavone<br>Phosphatidic Acid (PA 20%)<br>Phosphatidylserine (PS 20%～70%)<br>Phosph
+ atidyl Choline (PC 50%～90%)</p><p>L-Arginine Base<br>L-Carnosine<br>L-Cysteine HclMono<br>L-Cystine<br>L-Norvaline<br>N-Acetyl-L-Cysteine<br>S-Carboxymethyl-L-Cysteine</p><p>Intermediates</p><p>2-Amino-6-Hydroxy-1H-Purine (Guanine) CAS#73-40-5 (Intermediate of Acycloguanosine)<br>2-Keto-L-Gulonic Acid (2-KGA) CAS#526-98-7 (Intermediate of Vitamin C)<br>2,4,5-Triamino-6-Hydroxypyrimidine Sulfate CAS#35011-47-3 (Intermediate of Folic Acid &amp; Guanine)<br>2,6-Dihydroxynaphthalene CAS#581-43-1<br>3-Aminophenol CAS#591-27-5<br>3-Methyl-2-Nitrobenzoic Acid&nbsp; CAS#5437-38-7<br>3-Methyl-4-Nitrobenzoic Acid CAS#3113-71-1 (Intermediate of APITelmisartan)<br>4-Amino-6-Chlorotoluene-3-Sulphonic Acid (2B Acid) CAS#88-51-7<br>4-Aminobenzoyl-L-GlutamicAcid CAS#4271-30-1 (Intermediate of Folic Acid)<br>5-Methyl-2-Nitrobenzoic Acid CAS#3113-72-2 (Intermediate of Eluxadoline)<br>α-Hydroxybenzeneacetic Acid (DL-Mandelic Acid) CAS#611-72-3 (Intermediate of Cefamandole &amp; Pemoline)<br>E-1-Chl
+ oro-6,6-dimethyl-2-hepten-4-yne CAS#126764-17-8 (Intermediateof API Terbinafine)</p><p>Best regards<br>Sales Team<br>--------------------------------------------------------------------------------<br>NINGBOHI-TECHBIOCHEMICALS CO.,LTD<br>Tel:+86-574-27711846 Fax:+86-574-27863851<br>Email: <a href="mailto:sales@hi-techbiochem.com">sales@hi-techbiochem.com</a></p><p>Vietnam,MEDI-PHARM Hanoi(May 9-May 11, 2018)BoothNumber.:248<br>CPHIShanghai(Jun 20-22,2018)Booth Number.:T2A39<br>CPhI Madrid(October9-11,2018)Booth Number.:6G52<br>In-Cosmetics Asia Bangkok Thailand (Oct30-Nov1,2018)Booth Number.:E53<br>CPHI India New Delhi (Dec 12-14,2018)BoothNumber.:6K11</p>
+</BODY></html>
+
+
+--xE4Ee6FRoaUDosbMp=_rcPUsdJYuXWJtL9--
+

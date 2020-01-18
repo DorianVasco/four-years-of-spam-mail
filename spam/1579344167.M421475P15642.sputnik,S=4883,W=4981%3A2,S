@@ -1,0 +1,98 @@
+Return-Path: <108-185-2835008.LjYyLjE3Ny45Ng-pma-1-1-4493-183-0-rzwvm7766@mail19.wuchangyu.vip>
+Delivered-To: mail@stilfilm.com
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id D6A00D2892
+	for <mail@stilfilm.com>; Fri, 24 Nov 2017 00:48:03 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 9.029
+X-Spam-Level: *********
+X-Spam-Status: Yes, score=9.029 required=5.5 tests=[DIGEST_MULTIPLE=0.293,
+	DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	HTML_IMAGE_ONLY_16=1.092, HTML_MESSAGE=0.001, NORMAL_HTTP_TO_IP=0.001,
+	PYZOR_CHECK=1.392, RAZOR2_CF_RANGE_51_100=0.5,
+	RAZOR2_CF_RANGE_E8_51_100=1.886, RAZOR2_CHECK=0.922, RDNS_NONE=0.793,
+	SPF_HELO_PASS=-0.001, SPF_PASS=-0.001, URIBL_ABUSE_SURBL=1.25,
+	URIBL_BLOCKED=0.001, URI_DQ_UNSUB=1] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id vxjVhy0qLHPQ for <mail@stilfilm.com>;
+	Fri, 24 Nov 2017 00:48:01 +0100 (CET)
+Received: from mail19.wuchangyu.vip (unknown [173.234.126.114])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id D0BF2C2B17
+	for <mail@stilfilm.com>; Fri, 24 Nov 2017 00:48:00 +0100 (CET)
+X-DKIM: Sendmail DKIM Filter v2.8.3 mail19.wuchangyu.vip 311EA27B704A
+Authentication-Results: mail19.wuchangyu.vip; dkim=pass (1024-bit key)
+	header.i=@mail19.wuchangyu.vip; x-dkim-adsp=none
+X-DKIM: Sendmail DKIM Filter v2.8.3 mail19.wuchangyu.vip 311EA27B704A
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=mail19.wuchangyu.vip;
+	s=wuchangyu; t=1511480880;
+	bh=uBrAL5qq7J0gp3Jey22V6QULtVDbU/dZxO2zsuxWzM8=;
+	h=Date:From:To:Subject:List-Unsubscribe:MIME-Version:Message-ID:
+	 Content-Type:Content-Transfer-Encoding;
+	b=qiPWx2PcBaPmSKTJGHR8ydfqKE9RNCye7Jxd3CGgylOTG7PY1O25n9Bp3scjg1XfD
+	 nzRM63EIkmATnLKla1O4f8D1uNZmCvx64VfLZdtavdjAXOpv558S1sIHjNA5bFh9g4
+	 B80GWpp3IRmq/FgKc1m/dguyStkKZGhSabMnDAXA=
+Date: Thu, 23 Nov 2017 15:48:00 -0800
+From: "Facebook Team" <dfojxq3896@mail19.wuchangyu.vip>
+To: "mail" <mail@stilfilm.com>
+Subject: ***SPAM*** Sorry for the mistake we had made
+List-Unsubscribe: <mailto:service@mail19.wuchangyu.vip?subject=Unsubscribe%20Sorry%20for%20the%20mistake%20we%20had%20made>, <http://108.62.177.96/unsubscribe.php?M=2835008!G=0!LID=17!N=173!D=p_5!lan=en!O=BT1VcgguCyINbQgjUX5XMw81ADJUIVE%2FWTAEegM0A2FWMQV4UjkJZgp%2F>
+MIME-Version: 1.0
+Message-ID: <407478d8d4b54afc6aa22d34d7b74652@mail19.wuchangyu.vip>
+Content-Type: multipart/alternative; charset="UTF-8";
+	boundary="b16b8c2a3c2454b21ee890fbd62b328546"
+Content-Transfer-Encoding: 8bit
+
+--b16b8c2a3c2454b21ee890fbd62b328546
+Content-Type: text/plain; format=flowed; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+
+Dear user,
+You may have accidentally received an email from our Spanish team
+yesterday. We hit the brakes and stopped it from sending out to our whole
+list, but we know some of you received this email. Please ignore this mail
+or choose to unsubscribe if you believe you are not supposed to receive
+this email Unsubscribe
+Here’s what happened:
+We operate in nine languages and sometimes communication can be difficult
+and mistakes such as this can be made. For as often as we send emails,
+we’re proud this is the first time it’s happened. We apologize for this
+inconvenience.
+facebook.com
+
+--b16b8c2a3c2454b21ee890fbd62b328546
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+</head>
+<body>
+<span style="white-space:normal;">Dear user,</span><br
+style="white-space:normal;" />
+<p style="white-space:normal;">	You may have accidentally received an email
+from our Spanish team yesterday. We hit the brakes and stopped it from
+sending out to our whole list, but we know some of you received this email.
+Please ignore this mail or choose to unsubscribe if you believe you are not
+supposed to receive this email&nbsp;<a
+href="http://108.62.177.96/unsubscribe.php?M=2835008!G=0!LID=17!N=173!D=p_5!lan=en!O=CjJQdwYgCSANbQEqCiVRNQsxU2EEcQNtDmdSLAYxVDYGYQZ7UzhcM18q">Unsubscribe</a>
+</p>
+<p style="white-space:normal;">	Here’s what happened:&nbsp;
+</p>
+<span style="white-space:normal;">We operate in nine languages and
+sometimes communication can be difficult and mistakes such as this can be
+made. For as often as we send emails, we’re proud this is the first time
+it’s happened.&nbsp;We apologize for this inconvenience.&nbsp;</span><br
+style="white-space:normal;" />
+<p style="white-space:normal;">	facebook.com
+</p>
+<img border="0" alt="2835008"
+src="http://108.62.177.96/open.php?M=2835008!G=0!LID=17!N=173!D=p_5!F=H!O=Vm5XcAUjXHULa1d8AyxXMww2BDZSJ1k3CmNSLAcwVDYDZAF8VD8LZA%3D%3D!image=.jpg"></body>
+</html>
+
+--b16b8c2a3c2454b21ee890fbd62b328546--
+
+

@@ -1,0 +1,54 @@
+Return-Path: <analu@bebop.com.br>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id BF837C1876
+	for <mail@dorianvasco.de>; Fri, 15 Nov 2019 00:26:26 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: 2.314
+X-Spam-Level: **
+X-Spam-Status: No, score=2.314 required=4.5 tests=[BAYES_50=0.8,
+	FSL_BULK_SIG=0.122, PYZOR_CHECK=1.392] autolearn=no autolearn_force=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id OogmDjYWpc8O for <mail@dorianvasco.de>;
+	Fri, 15 Nov 2019 00:26:22 +0100 (CET)
+Received: from hm1481-n-168.locaweb.com.br (hm1481-n-168.locaweb.com.br [189.126.112.168])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id BF545C083D
+	for <mail@dorianvasco.de>; Fri, 15 Nov 2019 00:26:13 +0100 (CET)
+Received: from mcbain0015.correio.biz (201.76.49.38) by hm1481.locaweb.com.br id hpnh7g169v08 for <mail@dorianvasco.de>; Thu, 14 Nov 2019 20:25:32 -0300 (envelope-from <analu@bebop.com.br>)
+Received: from proxy.email-ssl.com.br (bartf0019.email.locaweb.com.br [10.31.120.51])
+	by mcbain0015.correio.biz (Postfix) with ESMTP id F24DE40031B;
+	Thu, 14 Nov 2019 20:25:56 -0300 (-03)
+x-locaweb-id: 3EfrSWiz8yLX5jMKun08JW6eSb50hEdvwr7Q2qdZChKYfLGVDv9ykaFUjmZj1CVtqmysjHonai3K8qyawDBfpf3LfIq5OZrU12WXE-kTd7mGd2B7oloJVlitmZpYC3EwhSEX_ZEiYmngAcC16z20CQwY7PhpfDLyEM2ZdaiSD4EYZpFEu9YMGHEdbOjmlgrUi8gIKSOGo41IsbLHTrhwXQ== NjE2ZTYxNmM3NTQwNjI2NTYyNmY3MDJlNjM2ZjZkMmU2Mjcy
+x-locaweb-id: 3EfrSWiz8yLX5jMKun08JW6eSb50hEdvwr7Q2qdZChKYfLGVDv9ykaFUjmZj1CVtqmysjHonai3K8qyawDBfpf3LfIq5OZrU12WXE-kTd7mGd2B7oloJVlitmZpYC3EwhSEX_ZEiYmngAcC16z20CQwY7PhpfDLyEM2ZdaiSD4EYZpFEu9YMGHEdbOjmlgrUi8gIKSOGo41IsbLHTrhwXQ== NjE2ZTYxNmM3NTQwNjI2NTYyNmY3MDJlNjM2ZjZkMmU2Mjcy
+x-locaweb-id: 3EfrSWiz8yLX5jMKun08JW6eSb50hEdvwr7Q2qdZChKYfLGVDv9ykaFUjmZj1CVtqmysjHonai3K8qyawDBfpf3LfIq5OZrU12WXE-kTd7mGd2B7oloJVlitmZpYC3EwhSEX_ZEiYmngAcC16z20CQwY7PhpfDLyEM2ZdaiSD4EYZpFEu9YMGHEdbOjmlgrUi8gIKSOGo41IsbLHTrhwXQ== NjE2ZTYxNmM3NTQwNjI2NTYyNmY3MDJlNjM2ZjZkMmU2Mjcy
+x-locaweb-id: 3EfrSWiz8yLX5jMKun08JW6eSb50hEdvwr7Q2qdZChKYfLGVDv9ykaFUjmZj1CVtqmysjHonai3K8qyawDBfpf3LfIq5OZrU12WXE-kTd7mGd2B7oloJVlitmZpYC3EwhSEX_ZEiYmngAcC16z20CQwY7PhpfDLyEM2ZdaiSD4EYZpFEu9YMGHEdbOjmlgrUi8gIKSOGo41IsbLHTrhwXQ== NjE2ZTYxNmM3NTQwNjI2NTYyNmY3MDJlNjM2ZjZkMmU2Mjcy
+x-locaweb-id: 3EfrSWiz8yLX5jMKun08JW6eSb50hEdvwr7Q2qdZChKYfLGVDv9ykaFUjmZj1CVtqmysjHonai3K8qyawDBfpf3LfIq5OZrU12WXE-kTd7mGd2B7oloJVlitmZpYC3EwhSEX_ZEiYmngAcC16z20CQwY7PhpfDLyEM2ZdaiSD4EYZpFEu9YMGHEdbOjmlgrUi8gIKSOGo41IsbLHTrhwXQ== NjE2ZTYxNmM3NTQwNjI2NTYyNmY3MDJlNjM2ZjZkMmU2Mjcy
+X-LocaWeb-COR: locaweb_2009_x-mail
+X-AuthUser: analu@bebop.com.br
+Received: from smtp.bebop.com.br (ip-24-221-228-84.hrsnnj.spcsdns.net [24.221.228.84])
+	(Authenticated sender: analu@bebop.com.br)
+	by proxy.email-ssl.com.br (Postfix) with ESMTPA id 1D86F17C037B;
+	Thu, 14 Nov 2019 20:25:58 -0300 (-03)
+To: "Anastasia Kauz" <anakauz@hotmail.de>, "jakob franzen" <franzen.jakob@googlemail.com>, "Frau Huener Thielking Elbertzhagen" <Huener@thielb.de>, "hello" <hello@pictoplasma.com>, "Dorian Vasco Nagel" <mail@dorianvasco.de>
+From: Sandro <analu@bebop.com.br>
+Subject: =?UTF-8?Q?Re=3AHallo._wollte_mich_mal_wieder_?= =?UTF-8?Q?bei_dir_melden.?=
+Message-ID: <c53dcfc9-fd19-4e0b-bd8f-438dccdd136d@bebop.com.br>
+Date: Thu, 14 Nov 2019 19:20:39 -0400
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64; rv:60.0) Gecko/20100101
+ Thunderbird/60.8.0
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8; format=flowed
+Content-Transfer-Encoding: 7bit
+Content-Language: en-US
+
+Dass so etwas geht! https://landrebele1970.blogspot.com.au/
+
+
+
+
+
+___
+Schöne Zeit
+Sandro

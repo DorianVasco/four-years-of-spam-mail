@@ -1,0 +1,273 @@
+Received: from localhost by v22014122474822114.stilfilm.com
+	with SpamAssassin (version 3.3.2);
+	Wed, 22 Nov 2017 20:58:20 +0100
+From: "Spartagen" <Spartagen@spartagen.faith>
+To: <mail@dorianvasco.de>
+Subject: *****SPAM***** ***SPAM*** Spartagen Xt Review
+Date: Thu, 20 Jul 2017 12:02:34 -0700
+Message-Id: <57303431620620075730192437213901988@7c15g5.spartagen.faith>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	v22014122474822114.stilfilm.com
+X-Spam-Flag: YES
+X-Spam-Level: *******
+X-Spam-Status: Yes, score=7.6 required=5.0 tests=HTML_IMAGE_ONLY_28,
+	HTML_MESSAGE,PYZOR_CHECK,RCVD_IN_BRBL_LASTEXT,RDNS_NONE,T_REMOTE_IMAGE,
+	URIBL_ABUSE_SURBL,URIBL_BLOCKED autolearn=no version=3.3.2
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----------=_5A15D6DC.0C0F5899"
+
+This is a multi-part message in MIME format.
+
+------------=_5A15D6DC.0C0F5899
+Content-Type: text/plain; charset=iso-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+
+Software zur Erkennung von "Spam" auf dem Rechner
+
+    v22014122474822114.stilfilm.com
+
+hat die eingegangene E-mail als mögliche "Spam"-Nachricht identifiziert.
+Die ursprüngliche Nachricht wurde an diesen Bericht angehängt, so dass
+Sie sie anschauen können (falls es doch eine legitime E-Mail ist) oder
+ähnliche unerwünschte Nachrichten in Zukunft markieren können.
+Bei Fragen zu diesem Vorgang wenden Sie sich bitte an
+
+    the administrator of that system
+
+Vorschau: Hey "4 out of 5 guys have cheated on their partners because
+   the sex wasn't filling." That's when I realized that if you don't get your
+   ED fixed, then your sex life is over (and your relationships too). [...] 
+
+Inhaltsanalyse im Detail:   (7.6 Punkte, 5.0 benötigt)
+
+Pkte Regelname              Beschreibung
+---- ---------------------- --------------------------------------------------
+ 1.6 RCVD_IN_BRBL_LASTEXT   RBL: RCVD_IN_BRBL_LASTEXT
+                            [37.46.120.112 listed in bb.barracudacentral.org]
+ 1.9 URIBL_ABUSE_SURBL      Enthält URL in ABUSE-Liste (www.surbl.org) -
+                            changed from JP to ABUSE bug 7279
+                            [URIs: spartagen.faith]
+ 0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+                            See
+                            http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                             for more information.
+                            [URIs: spartagen.faith]
+ 0.7 HTML_IMAGE_ONLY_28     BODY: HTML: images with 2400-2800 bytes of words
+ 0.0 HTML_MESSAGE           BODY: Nachricht enthält HTML
+ 2.0 PYZOR_CHECK            Gelistet im Pyzor-System (http://pyzor.sf.net/)
+ 1.3 RDNS_NONE              Delivered to internal network by a host with no rDNS
+ 0.0 T_REMOTE_IMAGE         Message contains an external image
+
+Die ursprüngliche Nachricht enthielt nicht ausschließlich Klartext
+(plain text) und kann eventuell eine Gefahr für einige E-Mail-Programme
+darstellen (falls sie z.B. einen Computervirus enthält).
+Möchten Sie die Nachricht dennoch ansehen, ist es wahrscheinlich
+sicherer, sie zuerst in einer Datei zu speichern und diese Datei danach
+mit einem Texteditor zu öffnen.
+
+
+------------=_5A15D6DC.0C0F5899
+Content-Type: message/rfc822; x-spam-type=original
+Content-Description: original message before SpamAssassin
+Content-Disposition: attachment
+Content-Transfer-Encoding: 8bit
+
+Return-Path: <Spartagen@spartagen.faith>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id BDC57D48C6
+	for <mail@dorianvasco.de>; Thu, 20 Jul 2017 21:02:37 +0200 (CEST)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 7.966
+X-Spam-Level: *******
+X-Spam-Status: Yes, score=7.966 required=5.5 tests=[BAYES_99=3.5,
+	BAYES_999=0.2, HTML_IMAGE_ONLY_28=1.404, HTML_MESSAGE=0.001,
+	PYZOR_CHECK=1.392, RDNS_NONE=0.793, SPF_SOFTFAIL=0.665,
+	T_REMOTE_IMAGE=0.01, URIBL_BLOCKED=0.001] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id F30nHkDNo29r for <mail@dorianvasco.de>;
+	Thu, 20 Jul 2017 21:02:35 +0200 (CEST)
+Received: from 09a8f519.spartagen.faith (unknown [37.46.120.112])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 14C48D48B5
+	for <mail@dorianvasco.de>; Thu, 20 Jul 2017 21:02:33 +0200 (CEST)
+Received: from 09a8f519.7c15g5.spartagen.faith ([127.0.0.1]:11730 helo=7c15g5.spartagen.faith)
+	by 7c15g5.spartagen.faith with ESMTP id 09DMRSMKA8F5PUUFHB19;
+	for <mail@dorianvasco.de>; Thu, 20 Jul 2017 12:02:34 -0700
+To: <mail@dorianvasco.de>
+Date: Thu, 20 Jul 2017 12:02:34 -0700
+Message-ID: <57303431620620075730192437213901988@7c15g5.spartagen.faith>
+From: "Spartagen" <Spartagen@spartagen.faith>
+Subject: ***SPAM*** Spartagen Xt Review
+Content-Language: en-us
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: multipart/alternative;
+	boundary="----=Part.636.9338.1500577354"
+
+------=Part.636.9338.1500577354
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain; charset="UTF-8"
+
+
+Hey
+
+"4 out of 5 guys have cheated on their
+partners because the sex wasn't filling."
+
+That's when I realized that if you don't
+get your ED fixed, then your sex life is
+over (and your relationships too).
+
+That's why I'm glad that you found this
+video while it's still up.
+
+
+
+Because when you watch it to the end,
+you're going to get a remedy for your
+ED that other guys are paying thousands
+of dollars a year to fix.
+
+Also, you're going to get a trick I used
+to reverse age-related shrinkage.
+
+And even if you only have temporary ED,
+you're going to learn how to get it up,
+and keep it up whenever you want
+
+But like I said earlier, I don't know how
+long this page will be up, so I'm glad you
+found it while you did. Just make sure to
+keep watching all the way to the end.
+Because the last trick I share will
+REALLY SHOCK YOU.
+
+P.S. Please be safe and use a condom if you
+plan on using the trick in this video to sleep
+with new guys on a regular basis.
+Because when you're packing a big hard cock,
+guys just want to fuck you. Be prepared.
+
+
+
+URL
+
+http://www.spartagen.faith/5730-372-1924-162062007/mail/tindex9.html
+
+
+
+
+If you wish to stop future mailings, please click here.
+5847 W Broward Blvd STE 241 Plantation, 33317 FL, US
+
+
+
+UNSUB
+
+
+http://www.spartagen.faith/5730-372-1924-162062007/mail/rindex10.html
+
+
+------=Part.636.9338.1500577354
+Content-Transfer-Encoding: 8bit
+Content-Type: text/html; charset="UTF-8"
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+@media only screen and (max-width: 500px) {
+.img{
+   width:97% !important;
+}
+}
+@media only screen and (max-width: 979px) {
+img{
+   width:55% !important;
+}
+}
+@media only screen and (max-width: 767px) {
+img{
+   width:70% !important;
+}
+}
+@media only screen and (max-width: 619px) {
+img{
+   width:75% !important;
+}
+}
+@media only screen and (max-width: 479px) {
+img{
+   width:85% !important;
+}
+}
+</style>
+</head>
+<body>
+<div class="main" style="margin-left:10px;margin-top:10px;font-size:20px;">
+
+
+
+Hey
+<br><br>
+"4 out of 5 guys have cheated on their <br>
+partners because the sex wasn't filling."
+<br><br>
+That's when I realized that if you don't <br>
+get your ED fixed, then your sex life is <br>
+over (<a href="http://www.spartagen.faith/5730-372-1924-162062007/mail/tindex1.html">and your relationships too</a>).
+<br><br>
+That's why I'm glad that you found this <br>
+video while it's still up. 
+<br><br>
+<a href="http://www.spartagen.faith/5730-372-1924-162062007/mail/tindex2.html"><img src="http://www.spartagen.faith/5730-372-1924-162062007/i/img03721924343.gif"></a>
+<br><br>
+Because when you watch it to the end, <br>
+you're going to get a remedy for your <br>
+ED that other guys are paying thousands <br>
+of dollars a year to fix. 
+<br><br>
+Also, you're going to get a trick I used <br>
+to reverse age-related shrinkage. 
+<br><br>
+
+And even if you only have temporary ED, <br>
+you're going to learn how to get it up, <br>
+and keep it up whenever you want 
+<br><br>
+
+But like I said earlier, I don't know how <br>
+long this page will be up, so I'm glad you <br>
+found it while you did. Just make sure to <br>
+keep watching all the way to the end. <br>
+Because the last trick I share will <br>
+<a href="http://www.spartagen.faith/5730-372-1924-162062007/mail/tindex3.html">REALLY SHOCK YOU</a>.
+<br><br>
+
+P.S. Please be safe and use a condom if you <br> 
+plan on using the trick in this video to sleep <br>
+with new guys on a regular basis. <br>
+Because when you're packing a big hard cock, <br>
+guys just want to fuck you. Be prepared.
+
+<br><br><br><br>
+
+<div style="font-family:arial; font-size:11px; margin-top:20px;color:black">
+If you wish to stop future mailings, please <a href="http://www.spartagen.faith/5730-372-1924-162062007/mail/rindex4.html">click here</a>. <br>
+5847 W Broward Blvd STE 241 Plantation, 33317 FL, US
+</div>
+
+</div>
+
+</body>
+</html>
+
+------=Part.636.9338.1500577354--
+
+
+------------=_5A15D6DC.0C0F5899--
+

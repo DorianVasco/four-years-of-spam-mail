@@ -1,0 +1,60 @@
+Return-Path: <georgiannaesguerra2134@yahoo.com>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 38D75D2D18
+	for <mail@dorianvasco.de>; Tue,  4 Apr 2017 05:08:01 +0200 (CEST)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 7.159
+X-Spam-Level: *******
+X-Spam-Status: Yes, score=7.159 required=5.5 tests=[BAYES_99=3.5,
+	BAYES_999=0.2, DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	FREEMAIL_ENVFROM_END_DIGIT=0.25, FREEMAIL_FROM=0.001,
+	MIME_BASE64_BLANKS=0.001, RAZOR2_CF_RANGE_51_100=0.5,
+	RAZOR2_CF_RANGE_E8_51_100=1.886, RAZOR2_CHECK=0.922,
+	RP_MATCHES_RCVD=-0.001, SPF_PASS=-0.001, URIBL_BLOCKED=0.001]
+	autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.yourvserver.net [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 2qttbFIEPQwQ for <mail@dorianvasco.de>;
+	Tue,  4 Apr 2017 05:07:36 +0200 (CEST)
+Received: from nm17-vm8.bullet.mail.ir2.yahoo.com (nm17-vm8.bullet.mail.ir2.yahoo.com [212.82.96.223])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id 3B937D288B
+	for <mail@dorianvasco.de>; Tue,  4 Apr 2017 05:07:35 +0200 (CEST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1491275256; bh=7mqE0fwBpnRpuFrllR4R8klPbVFP5JTw5xUVW3bF81M=; h=Subject:From:Date:To:List-Unsubscribe:From:Subject; b=rzjyZvQFEQh1qt29WlYKXHHu70rukqSd/zHjFqgmYoKWNTiL035rSN5EYppsSZwfU07WyMNzbdmk4eFvOH0szjJRRd9pRlikY75lrwWZBB9S/U8I3MoKsFNRxFxQfslptNQrdXIMR9vRZ1hmn/jnJ2SMnd/yMHElY2tttl16QAwf87FM6NZ7SODCx8toYYBbZvO5HUBiaTIX5I3JF//ozFBGf9QtJlVof/PY5dxnLqfJVuckGWwuzAdkeJMGzUYq1UoMqxbR/T4HX3TeA11egEtWoyWKdPZvl17sU5AKbx95TTeA1SC8dW0Nu5ii9vfjKKSgvHDyRHJZRxF7Hqmoyg==
+Received: from [212.82.98.50] by nm17.bullet.mail.ir2.yahoo.com with NNFMP; 04 Apr 2017 03:07:36 -0000
+Received: from [46.228.39.100] by tm3.bullet.mail.ir2.yahoo.com with NNFMP; 04 Apr 2017 03:07:35 -0000
+Received: from [127.0.0.1] by smtp137.mail.ir2.yahoo.com with NNFMP; 04 Apr 2017 03:07:35 -0000
+X-Yahoo-Newman-Id: 984134.84096.bm@smtp137.mail.ir2.yahoo.com
+Message-ID: <984134.84096.bm@smtp137.mail.ir2.yahoo.com>
+X-Yahoo-Newman-Property: ymail-3
+X-YMail-OSG: XGmRIaEVM1n3miQqGF0Zh4QefdeEjfN8QtfsD2kT9NRprp4
+ uVuAgNpWjrfgCpA2BAX2JIaMMIdx_ZJ0yXV1XXxOmxp4SesHFxosO5gOY0Nx
+ bcrpvohnjRJPt5G0jeU_at03U39BUN9we69XJFjKxNaHluUKdojK4fivMONN
+ OdMm1h0z.u4ZV.ZEId5z6uY0qn10x0oPpYd1L3.d7UobST_RvO6PE9Mnv6Ji
+ GnT0.4ofHqMFhikPgYK5x1yCJX60jO3ZQKsahZ9ywWE5KrzVbkHnnJJW0tvO
+ 8rIwig7xxKWaqNVehMEpKpmNjufb_eC0ElRMOCFnvnBLwKgGkGY80zQE2uTn
+ 960s1AvNS_rFLhbgdiGXUojVOCJkV9WEq3PzvqqGvSOwQp9W.y0UuPz_uIZk
+ T2UyrhmlS0q.qmKQvYrZa2NZBA4GEfhtyVrxCgvRqrZjXgpBFkeSfCWX088E
+ E3Dub9N5ZleB6hS234q782xHRJIycuRHKJMvZDPshRQ3OHjgQfNSHN9qFdW3
+ Eyitr7T_wF0v83IUu.0O2iOQbqSLj0brN1NSLtrhEKE7aqazAJ4B1KjJFdBu
+ R2lM5SjwjWAqiAXYggue3pljZDp8IrYK9bKUGDV8-
+X-Yahoo-SMTP: 09AQezSswBCGgb07GdFtqF57ZzzFYT3qWfXf.ErC5FYXoUs-
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+Subject: ***SPAM*** =?utf-8?q?tecangroup=2Ecom?=
+From: "Hannah" <georgiannaesguerra2134@yahoo.com>
+Date: Tue, 04 Apr 2017 03:07:32 -0000
+To: mail <mail@dorianvasco.de>
+List-Unsubscribe: http://deonluks.com/_Z3JwbmF0ZWJoYy5wYno6cmluOjE5OTg=
+
+
+SGVsbG8gdGhlcmUKCldvdWxkIHlvdSBiZSBpbnRlcmVzdGVkIGluIGFuIG9wcG9ydHVuaXR5IHJl
+Z2FyZGluZyB0aGUgdGVjYW5ncm91cC5jb20/Cmh0dHA6Ly9kZW9ubHVrcy5jb20vWjNKd2JtRjBa
+V0pvWXk1d1lubzZjbWx1T2pFNU9UZz0KKHlvdSBjYW4gbGVhdmUgYW4gb2ZmZXIgb24gYWJvdmUg
+bGluaykKCkhhbm5haAoKSWYgeW91IGRvIG5vdCB3aXNoIHRvIGJlIGNvbnRhY3RlZCBhZ2FpbjoK
+aHR0cDovL2Rlb25sdWtzLmNvbS9fWjNKd2JtRjBaV0pvWXk1d1lubzZjbWx1T2pFNU9UZz0=
+

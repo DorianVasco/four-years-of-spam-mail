@@ -1,0 +1,490 @@
+Return-Path: <return-a444-64781-64997-589bf19f=199990483=8@pixel-promarketing.de>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 97710C2140
+	for <mail@dorianvasco.de>; Tue, 10 Dec 2019 17:49:40 +0100 (CET)
+Authentication-Results: v22014122474822114.stilfilm.com; dkim=pass
+	reason="1024-bit key; insecure key"
+	header.d=pixel-promarketing.de header.i=@pixel-promarketing.de
+	header.b=iZXFEgDT; dkim-adsp=pass; dkim-atps=neutral
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: 0.801
+X-Spam-Level:
+X-Spam-Status: No, score=0.801 required=4.5 tests=[BAYES_50=0.8,
+	DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	HTML_MESSAGE=0.001, HTTPS_HTTP_MISMATCH=0.1]
+	autolearn=ham autolearn_force=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id nNOk1v7pzdH5 for <mail@dorianvasco.de>;
+	Tue, 10 Dec 2019 17:49:35 +0100 (CET)
+Received: from smtp7-132.pixel-promarketing.de (smtp7-132.pixel-promarketing.de [193.70.52.218])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id ACCB5C1F8A
+	for <kontakt@dorianvasco.de>; Tue, 10 Dec 2019 17:49:30 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; d=pixel-promarketing.de; s=ppm;
+ t=1575996565; bh=dMeTi0FIb1nqRuVvjqUs3JA2uk4=;
+ h=Subject:From:To:Reply-To:Date:List-Unsubscribe:X-CampaignID:
+  Message-ID:X-Mailer-Info:MIME-Version:Content-Type;
+ b=iZXFEgDTzEdopwMvntgfkB8m0AdK57c9xgS3EFIoPsxHoDtt+8AFLGv+iQ1sXG8IJ
+  nCAnnS8N8LgcaDorkkiQmJGXhO0ZBtZ7r0oDIuEkxhDuespj6RFr0rSndSkWwW661U
+  zSITaiLWpFzSR1A1uPoDyj2BMFfN2dSmP85ARDKE=
+Subject: Der Voucher wurde Ihrer E-Mail-Adresse zugewiesen: kontakt@dorianvasco.de
+From: =?UTF-8?B?RXVyb3DDpGlzY2hlcyBCZWZyYWd0ZW56ZW50cnVt?= <mail@pixel-promarketing.de>
+To: kontakt@dorianvasco.de
+Reply-To: noreply@pixel-promarketing.de
+Date: 10 Dec 2019 16:49:25 -0000
+List-Unsubscribe: <http://pixel-promarketing.de/ga/unsubscribe/2-199990483-444-24293-64997-e04939885d24e4c-15552c739a?confirmed=1>,
+ <mailto:return-a444-64781-64997-589bf19f=199990483=8u@pixel-promarketing.de>
+X-CampaignID: s4:64781-4ac731df9034e49d
+Message-ID: <mid-008343b387ad1798d7c9bdac3df8d949-33@pixel-promarketing.de>
+X-Mailer-Info: 8.QY0QDN.YDN3gTM.wav5GdhtGdAR2bylWYuZXYzN2buQWZ.xkTO5kDM0gzM.YDN5kzN
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="==fb8431f898c6a8fc6ae98600ca2a53f4"
+
+This is a multi-part message in MIME format.
+
+--==fb8431f898c6a8fc6ae98600ca2a53f4
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+GeoPlus
+
+Sehr geehrte Damen und Herren,
+
+
+Wichtige Information f=C3=BCr Sie: Anl=C3=A4sslich des Beginns der
+n=C3=A4chsten Ausgabe der Touristenpr=C3=A4ferenz-Studie hat der Sponsor
+unserer Studie Voucher f=C3=BCr 3 kostenlose =C3=9Cbernachtungen in =C3=BCb=
+er
+500 Hotels in mehreren europ=C3=A4ischen L=C3=A4ndern finanziert.
+
+Der Voucherpool ist nur f=C3=BCr Personen gedacht, die in den
+n=C3=A4chsten Tagen an der mehrmin=C3=BCtigen Studie teilnehmen!
+Es lohnt sich dies jetzt zu tun, denn sobald wir gen=C3=BCgend
+ausgef=C3=BCllte Umfragen aus Ihrem Land haben, wird die M=C3=B6glichkeit
+zur Teilnahme automatisch gesperrt.
+
+Was ist der Voucher und wie kann man ihn verwenden?
+
+Der Voucher ist ein Dokument, das Sie und eine Person mit der
+Sie reisen bis zu 3 Gratis-=C3=9Cbernachtungen in einem von =C3=BCber 500
+Hotels in 14 europ=C3=A4ischen L=C3=A4ndern berechtigt.
+Alles was Sie tun m=C3=BCssen, ist einen Aufenthalt in einem der
+Hotels aus dem Katalog zu buchen. Sie erreichen das Hotel
+eigenstandig und informieren an der Rezeption, dass Sie mit dem
+Voucher anreisen.
+Der Voucher ist nicht namentlich ausgestellt, Sie k=C3=B6nnen ihn also
+auch jemandem schenken.
+
+Um zur Umfrage zu gelangen, klicken Sie auf den unteren
+Link.
+
+Achtung! Verschieben Sie das nicht auf einem sp=C3=A4teren Zeitpunkt,
+da die Teilnahme an der Studie nicht mehr m=C3=B6glich ist, sobald wir
+die richtige Anzahl von Umfragen haben.
+
+WEITER ZUR UMFRAGE ( http://pixel-promarketing.de/ga/click/2-199990483-444-=
+24293-64997-1918121-8166f4dbe0-15552c739a )
+
+Wie kann man den Voucher erhalten?
+
+Gehen Sie auf die Website des Instituts -> gehen Sie 20 kurze
+Fragen zur anonymen Umfrage durch -> geben Sie die f=C3=BCr die
+Ausstellung des Vouchers erforderlichen Daten ein -> erhalten Sie
+den Voucher.
+
+Wir bitten Sie um aufrichtige Antworten, da Sie aus einem
+bestimmten Grund ausgew=C3=A4hlt wurden.
+Ihre Teilnahme an dieser Studie wird sich direkt auf die
+Entwicklung des Tourismus in Europa auswirken.
+
+Z=C3=B6gern Sie nicht: F=C3=BCllen Sie die Touristenumfrage aus ->
+Erhalten Sie den Voucher ( http://pixel-promarketing.de/ga/click/2-19999048=
+3-444-24293-64997-1918121-8166f4dbe0-15552c739a ) -> Planen Sie Ihren Urlau=
+b noch heute
+
+Danke fur Ihre Teilnahme,
+Team GeoPlus
+
+GeoPlus
+
+F=C3=BCr die Emission des Vouchers wird f=C3=BCr die elektronische und
+ausgedruckte Form eine Geb=C3=BChr entrichtet. Die =C3=9Cbernachtungen in
+den Hotels sind v=C3=B6llig kostenlos, die einzigen Kosten f=C3=BCr den
+Aufenthalt sind die bei der Ankunft in der Einrichtung gezahlten
+Verpflegungspreise. Wenn Sie sich an unser Kundendienstzentrum
+wenden m=C3=B6chten, verwenden Sie das Kontaktformular auf der Website
+oder klicken Sie auf diesen Link
+http://pixel-promarketing.de/ga/click/2-199990483-444-24293-64997-1918122-a=
+d01e253d0-15552c739a ( http://pixel-promarketing.de/ga/click/2-199990483-44=
+4-24293-64997-1918122-ad01e253d0-15552c739a ). Denken Sie daran, auf
+diese E-Mail nicht zu antworten.
+
+ID: 79096
+
+Das Angebot ist eine kommerzielle Anzeige dieses Werbekunden,
+der allein f=C3=BCr den Inhalt verantwortlich ist.
+
+Verantwortlich f=C3=BCr den Versand der E-Mail ist:
+Ein Service von Pixel ProMarketing S.L. | Str Azor n5
+Mijas-Costa | E-29651 M=C3=A1laga
+
+Ihre Daten sind lediglich bei dem Versender gespeichert. Der
+Werbekunde hat daher keinen Einfluss auf dem Empf=C3=A4ngerkreis der
+E-Mail.
+Sofern Sie k=C3=BCnftig keinen Newsletter mehr erhalten m=C3=B6chten,
+wenden Sie sich bitte direkt an den Versender oder klicken auf
+folgenden Link: Abmelden ( http://pixel-promarketing.de/ga/unsubscribe/2-19=
+9990483-444-24293-64997-e04939885d24e4c-15552c739a )
+
+Haben Sie Verst=C3=A4ndnis, dass die Abmeldung bis zu 48 Stunden
+dauern kann. Direkte Antworten an die Absenderadresse k=C3=B6nnen
+nicht beantwortet werden.
+
+support(at)pixelpromarketing.com ( support@pixelpromarketing.com
+)
+Ihre Daten sind lediglich bei dem Versender gespeichert. Der
+Werbekunde hat daher keinen Einfluss auf den Empf=C3=A4ngerkreis der
+E-Mail.=
+
+--==fb8431f898c6a8fc6ae98600ca2a53f4
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www=
+.w3.org/TR/html4/loose.dtd">=20
+<html>
+<head>
+	<meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">
+	<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" />
+	<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1=
+">
+	<link href=3D"https://fonts.googleapis.com/css?family=3DRoboto" rel=3D"sty=
+lesheet">
+	<title>GeoPlus</title>
+	<!-- Desktop Outlook chokes on web font references and defaults to Times N=
+ew Roman, so we force a safe fallback font. -->
+<!--[if mso]>
+<style>
+* {
+font-family: sans-serif !important;
+}
+</style>
+<![endif]-->
+<!-- All other clients get the webfont reference; some will render the font=
+ and others will silently fail to the fallbacks. More on that here: http://=
+stylecampaign.com/blog/2015/02/webfont-support-in-email/ -->
+<!--[if !mso]><!-->
+<!-- insert web font reference, eg: <link href=3D&#39;https://fonts.googlea=
+pis.com/css?family=3DRoboto:400,700&#39; rel=3D&#39;stylesheet&#39; type=3D=
+&#39;text/css&#39;> -->
+<!--<![endif]-->
+<!-- Web Font / @font-face : END -->
+<!-- CSS Reset : BEGIN -->
+<style>
+/* What it does: Remove spaces around the email design added by some email =
+clients. */
+/* Beware: It can remove the padding / margin and add a background color to=
+ the compose a reply window. */
+html,
+body {
+margin: 0 auto !important;
+padding: 0 !important;
+height: 100% !important;
+width: 100% !important;
+}
+/* What it does: Stops email clients resizing small text. */
+* {
+-ms-text-size-adjust: 100%;
+-webkit-text-size-adjust: 100%;
+}
+/* What it does: Centers email on Android 4.4 */
+div[style*=3D"margin: 16px 0"] {
+margin: 0 !important;
+}
+/* What it does: Stops Outlook from adding extra spacing to tables. */
+table,
+td {
+mso-table-lspace: 0pt !important;
+mso-table-rspace: 0pt !important;
+}
+/* What it does: Fixes webkit padding issue. Fix for Yahoo mail table align=
+ment bug. Applies table-layout to the first 2 tables then removes for anyth=
+ing nested deeper. */
+table {
+border-spacing: 0 !important;
+table-layout: fixed !important;
+margin: 0 auto !important;
+}
+table table table {
+table-layout: auto;
+}
+/* What it does: Uses a better rendering method when resizing images in IE.=
+ */
+img {
+-ms-interpolation-mode:bicubic;
+}
+/* What it does: Prevents Windows 10 Mail from underlining links despite in=
+line CSS. Styles for underlined links should be inline. */
+a {
+text-decoration: none;
+}
+</style>
+	<!-- CSS Reset : END -->
+	<!-- Reset list spacing because Outlook ignores much of our inline CSS. -->
+	<!--[if mso]>
+	<style type=3D"text/css">
+		ul,
+		ol {
+			margin: 0 !important;
+		}
+		li {
+			margin-left: 30px !important;
+		}
+		li.list-item-first {
+			margin-top: 0 !important;
+		}
+		li.list-item-last {
+			margin-bottom: 10px !important;
+		}
+	</style>
+	<![endif]-->
+</head>
+<body bgcolor=3D"#f3f4f4" style=3D"background-color:#f3f4f4;">
+	<center style=3D"width: 100%; background-color: #f3f4f4;">
+<!--[if (gte mso 9)|(IE)]>
+	<table width=3D"540" align=3D"center" cellpadding=3D"0" cellspacing=3D"0" =
+border=3D"0" bgcolor=3D"#fbfbfb">
+		<tr>
+			<td>
+<![endif]-->
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"margin: 0 =
+auto; width: 100%; max-width: 576px; background-color:#fbfbfb; border: 1px =
+solid #fbfbfb;box-shadow: 0px 3px 54px 0 rgba(0, 0, 0, 0.11); padding: 13px=
+;" align=3D"center" bgcolor=3D"#fbfbfb">
+	<tr>
+		<td align=3D"center" style=3D"padding: 0;">
+			<img src=3D"http://pixel-promarketing.de/ga/campaign_images/24293/header=
+.jpg" border=3D"0" alt=3D"GeoPlus" style=3D"width: 100%; max-width: 576px;">
+		</td>
+	</tr>
+	<tr>
+		<td style=3D"padding: 35px 22px 15px; font-size: 20px; font-family: &#39;=
+Roboto&#39;, Arial ,helvetica, sans-serif; line-height: 24px; text-align: l=
+eft; color: #000000; font-weight: bold;">
+		Sehr geehrte Damen und Herren,
+		</td>
+	</tr>
+	<tr>
+		<td style=3D"padding: 10px 22px; font-size: 15px; font-family: &#39;Robot=
+o&#39;, Arial ,helvetica, sans-serif; line-height: 24px; color: #000000; te=
+xt-align: left;">
+			<b>Wichtige Information f&#252;r Sie:</b>  Anl&#228;sslich des Beginns d=
+er n&#228;chsten Ausgabe der Touristenpr&#228;ferenz-Studie hat der Sponsor=
+ unserer Studie Voucher <b>f&#252;r 3 kostenlose &#220;bernachtungen in &#2=
+52;ber 500 Hotels in mehreren europ&#228;ischen L&#228;ndern finanziert.</b=
+><br><br> Der Voucherpool ist nur f&#252;r Personen gedacht, die in den n&#=
+228;chsten Tagen an der mehrmin&#252;tigen Studie teilnehmen!
+Es lohnt sich dies jetzt zu tun, denn sobald wir gen&#252;gend ausgef&#252;=
+llte Umfragen aus Ihrem Land haben, wird die M&#246;glichkeit zur Teilnahme=
+ automatisch gesperrt.
+	</tr>
+	<tr>
+		<td style=3D"padding: 25px 22px 15px; font-size: 20px; font-family: &#39;=
+Roboto&#39;, Arial ,helvetica, sans-serif; line-height: 24px; text-align: l=
+eft; color: #000000; font-weight: bold;">
+			Was ist der Voucher und wie kann man ihn verwenden?
+		</td>
+	</tr>
+	<tr>
+		<td style=3D"padding: 10px 22px; font-size: 15px; font-family: &#39;Robot=
+o&#39;, Arial ,helvetica, sans-serif; line-height: 24px; color: #000000; te=
+xt-align: left;">
+			Der Voucher ist ein Dokument, das Sie und eine Person mit der Sie reisen=
+ bis zu 3 Gratis-&#220;bernachtungen in einem von &#252;ber 500 Hotels in 1=
+4 europ&#228;ischen L&#228;ndern berechtigt.
+Alles was Sie tun m&#252;ssen, ist einen Aufenthalt in einem der Hotels aus=
+ dem Katalog zu buchen. Sie  erreichen das Hotel eigenstandig und informier=
+en an der Rezeption, dass Sie mit dem Voucher anreisen.
+Der Voucher ist nicht namentlich ausgestellt, Sie k&#246;nnen ihn also auch=
+ jemandem schenken.=20
+		</td>
+	</tr>
+		<tr>
+		<td style=3D"padding: 30px 0px; font-size: 15px; font-family: &#39;Roboto=
+&#39;, Tahoma, Arial, sans-serif; line-height: 16px; color: #000000; text-a=
+lign: center; font-weight: 500;">
+			<!--[if (gte mso 9)|(IE)]>
+	<table width=3D"540" align=3D"center" cellpadding=3D"0" cellspacing=3D"0" =
+border=3D"0" bgcolor=3D"#b2ecd8">
+		<tr>
+			<td>
+<![endif]-->
+			<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"540" bg=
+color=3D"#b2ecd8" style=3D"margin: 0 auto; width: 100%; max-width: 576px; b=
+ackground-color: #b2ecd8; background-image: url(&#39;img/bg.jpg&#39;);">
+				<tr>
+					<td style=3D"width: 100%; padding: 36px 22px 0; color: #000000; text-a=
+lign: center; line-height: 20px; font-size: 15px; font-weight: bold;">
+						<b>Um zur Umfrage zu gelangen, klicken Sie auf den unteren Link. </b>=
+<br><br>
+<span style=3D"color: #D82A46;"><b>Achtung! Verschieben Sie das nicht auf e=
+inem sp&#228;teren Zeitpunkt, da die Teilnahme an der Studie nicht mehr m&#=
+246;glich ist, sobald wir die richtige Anzahl von Umfragen haben.</b></span>
+					</td>
+				</tr>
+				<tr>
+					<td align=3D"center" style=3D"text-align: center; padding: 30px 0px 33=
+px;">
+						<a href=3D"http://pixel-promarketing.de/ga/click/2-199990483-444-2429=
+3-64997-1918121-8166f4dbe0-15552c739a"><img src=3D"http://pixel-promarketin=
+g.de/ga/campaign_images/24293/btn.jpg" border=3D"0" alt=3D"WEITER ZUR UMFRA=
+GE" width=3D"300" style=3D"width: 100%; max-width: 300px;"></a>
+					</td>
+				</tr>
+			</table>
+			<!--[if (gte mso 9)|(IE)]>
+			</td>
+			</tr>
+			</table>
+			<![endif]-->
+		</td>
+	</tr>
+	<tr>
+		<td style=3D"padding: 25px 22px 15px; font-size: 20px; font-family: &#39;=
+Roboto&#39;, Arial ,helvetica, sans-serif; line-height: 24px; text-align: l=
+eft; color: #000000; font-weight: bold;">
+			Wie kann man den Voucher erhalten?
+		</td>
+	</tr>
+	<tr>
+		<td style=3D"padding: 10px 22px; font-size: 15px; font-family: &#39;Robot=
+o&#39;, Arial ,helvetica, sans-serif; line-height: 24px; color: #000000; te=
+xt-align: left;">
+			Gehen Sie auf die Website des Instituts -> gehen Sie 20 kurze Fragen zur=
+ anonymen Umfrage durch -> geben Sie die f&#252;r die Ausstellung des Vouch=
+ers erforderlichen Daten ein -> erhalten Sie den Voucher.
+		</td>
+	</tr>
+	<tr>
+		<td style=3D"padding: 10px 22px 10px; font-size: 15px; font-family: &#39;=
+Roboto&#39;, Arial ,helvetica, sans-serif; line-height: 24px; color: #00000=
+0; text-align: left;">
+			Wir bitten Sie um aufrichtige Antworten, da Sie aus einem bestimmten Gru=
+nd ausgew&#228;hlt wurden.
+Ihre Teilnahme an dieser Studie wird sich direkt auf die Entwicklung des To=
+urismus in Europa auswirken.
+		</td>
+	</tr>
+	<tr>
+		<td style=3D"padding: 15px 22px; font-size: 15px; font-family: &#39;Robot=
+o&#39;, Arial ,helvetica, sans-serif; line-height: 22px; color: #000000; te=
+xt-align: left;font-weight: bold;" align=3D"left">
+			<b>Z&#246;gern Sie nicht: F&#252;llen Sie die Touristenumfrage aus -> <a=
+ href=3D"http://pixel-promarketing.de/ga/click/2-199990483-444-24293-64997-=
+1918121-8166f4dbe0-15552c739a"><span style=3D"color: #D82A46; text-decorati=
+on: underline;">Erhalten Sie den Voucher</span></a> -> Planen Sie Ihren Url=
+aub noch heute</b>=20=20
+		</td>
+	</tr>
+	<tr>
+		<td style=3D"padding: 15px 22px 0; font-size: 15px; font-family: &#39;Rob=
+oto&#39;, Arial ,helvetica, sans-serif; line-height: 22px; color: #000000; =
+text-align: right;" align=3D"right">
+			Danke fur Ihre Teilnahme,<br> Team GeoPlus
+		</td>
+	</tr>
+	<tr>
+		<td align=3D"right" style=3D"text-align: right; padding: 30px 22px 33px;">
+			<img src=3D"http://pixel-promarketing.de/ga/campaign_images/24293/gp.png=
+" border=3D"0" alt=3D"GeoPlus" width=3D"148" style=3D"width: 100%; max-widt=
+h: 148px;">
+		</td>
+	</tr>
+</table>
+<!--[if (gte mso 9)|(IE)]>
+</td>
+</tr>
+</table>
+<![endif]-->
+<!--[if (gte mso 9)|(IE)]>
+<table width=3D"540" align=3D"center" cellpadding=3D"0" cellspacing=3D"0" b=
+order=3D"0">
+<tr>
+<td>
+<![endif]-->
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"margin: 10=
+px auto; width: 100%; max-width: 576px;" align=3D"center">
+<tr>
+<td style=3D"font-size: 11px; font-family: Arial; color: #202020; padding: =
+0px 3px; line-height: 18px;"><p style=3D"margin:0px: padding:0px: text-alig=
+n: justify;" align=3D"justify">
+F&#252;r die Emission des Vouchers wird f&#252;r die elektronische und ausg=
+edruckte Form eine Geb&#252;hr entrichtet. Die &#220;bernachtungen in den H=
+otels sind v&#246;llig kostenlos, die einzigen Kosten f&#252;r den Aufentha=
+lt sind die bei der Ankunft in der Einrichtung gezahlten Verpflegungspreise=
+. Wenn Sie sich an unser Kundendienstzentrum wenden m&#246;chten, verwenden=
+ Sie das Kontaktformular auf der Website oder klicken Sie auf diesen Link <=
+a href=3D"http://pixel-promarketing.de/ga/click/2-199990483-444-24293-64997=
+-1918122-ad01e253d0-15552c739a" style=3D"color: rgb(0, 0, 255);">https://ww=
+w.eurorest.net/contact.html</a>. Denken Sie daran, auf diese E-Mail nicht z=
+u antworten.<br>
+ID: 79096
+</tr>
+</table>
+<!--[if (gte mso 9)|(IE)]>
+</td>
+</tr>
+</table>
+<![endif]-->
+</center>
+<center>
+<div style=3D"font-family: Helvetica, arial, sans-serif; font-size: 11px; c=
+olor: #333333; padding-left: 20px; padding-right: 20px;" align=3D"left">
+
+<p align=3D"center">
+
+  <span style=3D"color: #808080; font-size: 12px;">Das Angebot ist eine kom=
+merzielle Anzeige dieses Werbekunden, der allein f&#252;r den Inhalt verant=
+wortlich ist.<br /></span><br /><span style=3D"color: #808080;font-size: 12=
+px;"> Verantwortlich f&#252;r den Versand der E-Mail ist:<br /> <span style=
+=3D"color: #808080;font-size: 12px;"> Ein Service von Pixel ProMarketing S.=
+L. &#160;&#160;|&#160;&#160; Str Azor n5 Mijas-Costa &#160;&#160;|&#160;&#1=
+60; E-29651 M&#225;laga</span><br /><br /> <span style=3D"color: #808080;fo=
+nt-size: 12px;"> Ihre Daten sind lediglich bei dem Versender gespeichert. D=
+er Werbekunde hat daher keinen Einfluss auf dem Empf&#228;ngerkreis der E-M=
+ail. </span><br /> Sofern Sie k&#252;nftig keinen Newsletter mehr erhalten =
+m&#246;chten, wenden Sie sich bitte direkt an den Versender oder klicken au=
+f folgenden Link: <a style=3D"font-weight: normal; text-decoration: underli=
+ne; color: #808080;" href=3D"http://pixel-promarketing.de/ga/unsubscribe/2-=
+199990483-444-24293-64997-e04939885d24e4c-15552c739a"> Abmelden</a> <br /> =
+</span><span style=3D"color: #808080;font-size: 12px;"><br />Haben Sie Vers=
+t&#228;ndnis, dass die Abmeldung bis zu 48 Stunden dauern kann. Direkte Ant=
+worten an die Absenderadresse k&#246;nnen nicht beantwortet werden. </span>=
+</p>
+<center><span style=3D"color: #808080;"><span style=3D"color: #808080; font=
+-size: 12px;"> <a style=3D"font-weight: normal; text-decoration: underline;=
+ color: #808080; text-align: center;" href=3D"mailto:support@pixelpromarket=
+ing.com">support(at)pixelpromarketing.com</a></span></span>
+<p><span style=3D"color: #808080;font-size: 12px;">Ihre Daten sind lediglic=
+h bei dem Versender gespeichert. Der Werbekunde hat daher keinen Einfluss a=
+uf den Empf&#228;ngerkreis der E-Mail.</span>
+=20=20
+</p>
+</div>
+</center>
+
+
+
+
+
+
+<img src=3D"http://pixel-promarketing.de/ga/open/2-199990483-444-24293-6499=
+7-15552c739a" height=3D"2" width=3D"3" alt=3D""></body>
+</html>
+
+--==fb8431f898c6a8fc6ae98600ca2a53f4--

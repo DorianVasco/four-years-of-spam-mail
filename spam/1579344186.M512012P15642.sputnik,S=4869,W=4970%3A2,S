@@ -1,0 +1,101 @@
+Return-Path: <miroslavprace6@gmail.com>
+Delivered-To: mail@elementk.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 4B5DAC3F0C
+	for <mail@elementk.de>; Sun, 10 Dec 2017 23:55:18 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: 0.151
+X-Spam-Level:
+X-Spam-Status: No, score=0.151 required=5.5 tests=[DKIM_SIGNED=0.1,
+	DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1, FREEMAIL_ENVFROM_END_DIGIT=0.25,
+	FREEMAIL_FROM=0.001, HTML_MESSAGE=0.001, RCVD_IN_DNSWL_NONE=-0.0001,
+	SPF_PASS=-0.001] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id poERjE9CrJ9S for <mail@elementk.de>;
+	Sun, 10 Dec 2017 23:55:16 +0100 (CET)
+Received: from mail-wm0-f51.google.com (mail-wm0-f51.google.com [74.125.82.51])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id 95978D4B39
+	for <info@elementk.de>; Sun, 10 Dec 2017 23:55:16 +0100 (CET)
+Received: by mail-wm0-f51.google.com with SMTP id y82so11073292wmg.1
+        for <info@elementk.de>; Sun, 10 Dec 2017 14:55:17 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=from:to:subject:date:message-id:mime-version:content-language;
+        bh=Nug40+/LYJys0dTXazd6VSA1RVoJprnuwG7joVoxBtI=;
+        b=UrSc5SBpj1m1mDgSBxSNvv2WkkXe6QvkaU9QOXSexwPSI6suWMVt1PkUHChJQkWezt
+         lGXry0OpMkhaGEo1b1OHCZgLVLqoyA2E3pdXwTjVAirTAIu8KcYwEaYhMCGB/4myHB93
+         NYHIbNC3mm+j4KY7JsVz+cDE3VeLvUiBo2jB5ONEpH+93UVKi4X6ILipjwDAl4ZmbIm/
+         m93Kg7gDXFaLasymzsVQQIgDWJGmWLHAf5TNHxtdMqpapJz7Bp4J5agX3D2Ud+7H9gHG
+         erg0Zn5nrYN+NPKDXC+avfpDdHVJQ5KYSEh8UyfIEUU3/Jd2zI9bUQ53UhI0SHte2APf
+         WfLg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:from:to:subject:date:message-id:mime-version
+         :content-language;
+        bh=Nug40+/LYJys0dTXazd6VSA1RVoJprnuwG7joVoxBtI=;
+        b=f5yyT6JVyLpANNpWT3SJZmbTaMyR4CuZIA0fV8jpAUguKjno4NrECJ77CAIR3apzUr
+         MdFNAFbCjm20Adol6i+2/2k1bWiWu+BaXNO1UWxWFkmbgzPXqh3LhxDAou+4j+Ih5/s6
+         aghoWydYMjCqwSqle1HBSSRVBzsLYdwyUWWfWzQ0RmetHYmv0O7rkEfRhAwkcGXHR/If
+         hSq7VWOWc1Je3AN6q8GWCt4NOM//XP1BQsfEgQbAeO4BKGeWrH0KgIh9omt0MtvLLztV
+         gpvymTTh0IoZ0Q9QjSvGt6cMEJh2CPvx9h3zJCcAJDMWzyZUIa48BrS+0xS6q57euJAA
+         mBvQ==
+X-Gm-Message-State: AKGB3mLdxazGCj4Z0TDRNYdfBl60ZpENDE2B975XRFAiMz8C3g1vn8pl
+	dkEf94eLlPsT8BqiaAC8LhNy4Q==
+X-Google-Smtp-Source: AGs4zMasokUz3aW33HaCFbADpEnjdLwAtRC9RCPTPLEN9Rdwgy96HjVbxG5bHehQ6Nv0LKjkkoSM9A==
+X-Received: by 10.28.191.132 with SMTP id o4mr8710627wmi.157.1512946516461;
+        Sun, 10 Dec 2017 14:55:16 -0800 (PST)
+Received: from aaa (public.zscr.cz. [212.24.145.100])
+        by smtp.gmail.com with ESMTPSA id d18sm16204586wrd.54.2017.12.10.14.55.15
+        for <info@elementk.de>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Sun, 10 Dec 2017 14:55:15 -0800 (PST)
+From: miroslav <miroslavprace6@gmail.com>
+To: <info@elementk.de>
+Subject: employees
+Date: Sun, 10 Dec 2017 23:55:14 +0100
+Message-ID: <4f8f2a1b.9062428c.20171210235514@gmail.com>
+Content-Type: multipart/alternative;
+	boundary="boundary08D3284D_alternative"
+Mime-Version: 1.0
+Content-Language: cs
+
+--boundary08D3284D_alternative
+Content-Type: text/plain; charset="windows-1250"
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+
+Nice day, 
+We are capable to deliver you employees from Czech and Slovak Republics=
+: 
+- single or groups
+- different building proffessions (electricians, roofers, carpenters, w=
+elders, bricklayers, plumbers, plasteners, joiners ...)
+For more information, please answer this email with phone information a=
+nd I will explain the details.
+Miroslav Martvon.
+
+--boundary08D3284D_alternative
+Content-Type: text/html; charset="windows-1250"
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+
+<HTML><HEAD>
+<META content=3D"text/html; charset=3Dwindows-1250" http-equiv=3DConten=
+t-Type>
+<META name=3DGENERATOR content=3D"MSHTML 11.00.9600.18838"></HEAD>
+<BODY>
+<P>Nice day, </P>
+<P>We are capable to deliver you <STRONG>employees </STRONG>from Czech =
+and Slovak&nbsp;Republics:&nbsp;<BR>-&nbsp;<STRONG>single</STRONG> or <S=
+TRONG>groups</STRONG><BR>-&nbsp;different building proffessions (electri=
+cians, roofers, carpenters, welders, bricklayers, plumbers, plasteners, =
+joiners ...)</P>
+<P>For more information, please answer this email with phone informatio=
+n and I will&nbsp;explain the details.</P>
+<P>Miroslav Martvon.<BR></P></BODY></HTML>
+
+--boundary08D3284D_alternative--

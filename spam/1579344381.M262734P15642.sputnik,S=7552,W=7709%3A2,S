@@ -1,0 +1,157 @@
+Return-Path: <sender@doctorsservices.ca>
+Delivered-To: mail@elementk.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 824BFC40FC
+	for <mail@elementk.de>; Sat, 26 Jan 2019 19:00:54 +0100 (CET)
+Authentication-Results: v22014122474822114.stilfilm.com; dkim=permerror
+	reason="key not found"
+	header.d=doctorsservices.ca header.i=sender@doctorsservices.ca
+	header.b=NJxRG5xj; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 10.133
+X-Spam-Level: **********
+X-Spam-Status: Yes, score=10.133 required=5.5 tests=[DKIM_INVALID=0.1,
+	DKIM_SIGNED=0.1, FSL_BULK_SIG=0.937, HTML_MESSAGE=0.001,
+	LOTS_OF_MONEY=0.001, MISSING_MID=0.14, RAZOR2_CF_RANGE_51_100=2.43,
+	RAZOR2_CHECK=1.729, RDNS_NONE=1.274, SPF_FAIL=0.919,
+	SPF_HELO_FAIL=0.001, URIBL_BLOCKED=0.001, URIBL_DBL_SPAM=2.5]
+	autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id wnNBZGI2_6w5 for <mail@elementk.de>;
+	Sat, 26 Jan 2019 19:00:51 +0100 (CET)
+Received: from doctorsservices.ca (unknown [68.183.191.212])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id D2805C40E8
+	for <mail@elementk.de>; Sat, 26 Jan 2019 19:00:48 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=key1; d=doctorsservices.ca;
+ h=From:Subject:To:Content-Type:MIME-Version:Date; i=sender@doctorsservices.ca;
+ bh=O4UD/1wK2Y2eFPxbaWCigUdMTcg=;
+ b=NJxRG5xjgXLH/HhMu0ojJ+i4cINBjm6Fx030kH+p9plcD1hKwuvaRKWsl0uB6KCLlpy4VcmKnUaH
+   9TnPWzN+YP4IlCjZCcBcbaRydwsosTsXcl/Hbuz4g2V9dAaHtC5i+VFihmE/+7956X27ZzuEF7r2
+   XSaDB2oSeCQuur5SJuCeFfgtsWqt4gAisddMv+90fGdlcxnUhWBFevkdgE35w6vIjx1kpJ5zoKu9
+   SfDd9Ogm7l29xZkVwzPhoCsD0H8VddDtqSWnxSQVwZ/ZHUor/rG3IVcYJkHaIuahsPMuejrAlPmZ
+   TrGpfaF0muZziKhxT3RiKRXb/nzgcZXWVjE9Fg==
+From: "sender@doctorsservices.ca" <sender@doctorsservices.ca>
+Subject:
+ =?utf-8?B?TW9uZXkgbWFjaGluZSAtIG91ciBzb2Z0d2FyZSBnZW5lcmF0ZWQgJDI1LDExNSw0NzcgaW4gcHJvZml0cyBsYXN0IG1vbnRoIGZvciBvdXIgYmV0YSB0ZXN0ZXJzLiBOb3cgaXTigJlzIHlvdXIgdHVybi4=?=
+To: mail@elementk.de
+Content-Type: multipart/alternative; boundary="5Qe9x=_hn2QThvMIs2uK50EKBio5PwMlkG"
+MIME-Version: 1.0
+Date: Sat, 26 Jan 2019 21:00:46 +0300
+Message-Id: <20190126180054.824BFC40FC@v22014122474822114.stilfilm.com>
+
+This is a multi-part message in MIME format
+
+--5Qe9x=_hn2QThvMIs2uK50EKBio5PwMlkG
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+
+
+
+
+
+Money machine !Now it=E2=80=99s your turn. Download now!
+
+
+
+
+Users Feedback
+
+
+Daniel
+I=E2=80=99ve just paid off my mortgage. I thought I would never ever b=
+e able to do it=E2=80=A6 and I=E2=80=99ve just done it. All thanks to =
+Money machine and its amazing software. Thank you, guys!
+
+
+John
+I have just asked for another $7,415 withdrawal. Can=E2=80=99t wait to=
+ spend it with my girlfriend. Do I take her out for dinner? Or we take=
+ a day off and go to some nice hotel in the countryside? I would never=
+ have thought that I would have such a dilemma... but I don=E2=80=99t =
+mind it!
+
+Charles
+I only started a week ago, but so much has happened since then. I have=
+ made my first $10,000, I have managed to withdraw it and spend it. An=
+d I=E2=80=99ve just made another 10k that is on its way=E2=80=A6 Can=E2=
+=80=99t thank Money machine enough!
+
+Michaela
+I am making about $5,366 a day working about two hours a day on averag=
+e. It=E2=80=99s easy and you can do it, too =E2=80=93 just take your c=
+hance and join Money machine members on their way to success!
+
+Stephanie
+It=E2=80=99s hard for me to believe it. A week ago I was an ordinary m=
+other of three small children from a small city. Now I am earning more=
+ than $5,000 a day and having a life I have always wanted. Thank you!
+
+George
+I am so happy I got an invitation to Money machine! I have made $21,36=
+8 in the last two days and have already withdrawn it to my bank accoun=
+t. Today I have made another $8,474 and I think I will make the same t=
+omorrow. Amazing!
+
+
+
+
+Money machine !Now it=E2=80=99s your turn. Download now!
+
+
+--5Qe9x=_hn2QThvMIs2uK50EKBio5PwMlkG
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+
+<html><head></head><body><p></p><strong>
+</strong><div align=3D"center"><font color=3D"black" face=3D"Times New=
+ Roman" size=3D"4"><strong><a href=3D"http://profit-methods-here10.com=
+/?u=3D2mxkd0x&amp;o=3Dy4hpgzw&amp;t=3Dtest"><br><div align=3D"center">=
+<font color=3D"black" face=3D"Times New Roman" size=3D"4"><strong>Mone=
+y machine !Now it=E2=80=99s your turn. <span class=3D"tlid-translation=
+ translation"><span title=3D""><font size=3D"3">Download now!</font></=
+span></span></strong></font></div></a></strong></font></div><div align=
+=3D"center"><font color=3D"black" face=3D"Times New Roman" size=3D"4">=
+<strong><br></strong></font></div><div align=3D"center"><font color=3D=
+"black" face=3D"Times New Roman" size=3D"4"><strong>Users Feedback</st=
+rong></font></div><font color=3D"black" face=3D"Times New Roman" size=3D=
+"4"><strong></strong></font><div align=3D"left"><font color=3D"black" =
+face=3D"Times New Roman" size=3D"4"><br><strong>Daniel</strong><br>I=E2=
+=80=99ve just paid off my mortgage. I thought I would never ever be ab=
+le to do it=E2=80=A6 and I=E2=80=99ve just done it. All thanks to&nbsp=
+;Money machine and its amazing software. Thank you, guys!</font></div>=
+<div align=3D"left"><font color=3D"black" face=3D"Times New Roman" siz=
+e=3D"4"><br><strong>John</strong><br>I have just asked for another $7,=
+415 withdrawal. Can=E2=80=99t wait to spend it with my girlfriend. Do =
+I take her out for dinner? Or we take a day off and go to some nice ho=
+tel in the countryside? I would never have thought that I would have s=
+uch a dilemma... but I don=E2=80=99t mind it!</font></div><p><strong>C=
+harles</strong><br>I only started a week ago, but so much has happened=
+ since then. I have made my first $10,000, I have managed to withdraw =
+it and spend it. And I=E2=80=99ve just made another 10k that is on its=
+ way=E2=80=A6 Can=E2=80=99t thank Money machine enough!</p><p><strong>=
+Michaela</strong><br>I am making about $5,366 a day working about two =
+hours a day on average. It=E2=80=99s easy and you can do it, too =E2=80=
+=93 just take your chance and join&nbsp;Money machine members on their=
+ way to success!</p><p><strong>Stephanie</strong><br>It=E2=80=99s hard=
+ for me to believe it. A week ago I was an ordinary mother of three sm=
+all children from a small city. Now I am earning more than $5,000 a da=
+y and having a life I have always wanted. Thank you!</p><p><strong>Geo=
+rge</strong><br>I am so happy I got an invitation to Money machine! I =
+have made $21,368 in the last two days and have already withdrawn it t=
+o my bank account. Today I have made another $8,474 and I think I will=
+ make the same tomorrow. Amazing!</p><p><strong><a href=3D"http://prof=
+it-methods-here10.com/?u=3D2mxkd0x&amp;o=3Dy4hpgzw&amp;t=3Dtest"><br><=
+/a></strong><p align=3D"center"><strong><a href=3D"http://profit-metho=
+ds-here10.com/?u=3D2mxkd0x&amp;o=3Dy4hpgzw&amp;t=3Dtest"><strong>Money=
+ machine !Now it=E2=80=99s your turn. <span class=3D"tlid-translation =
+translation"><span title=3D""><font size=3D"3">Download now!</font></s=
+pan></span></strong></a></strong></p><p></p><p><br></p></body></html>
+
+
+--5Qe9x=_hn2QThvMIs2uK50EKBio5PwMlkG--
+

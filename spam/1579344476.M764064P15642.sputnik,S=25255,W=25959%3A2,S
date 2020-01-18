@@ -1,0 +1,704 @@
+Return-Path: <return-a444-62383-62433-589bf19f=199990483=8@pixel-promarketing.de>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 353EFC1574
+	for <mail@dorianvasco.de>; Mon,  2 Sep 2019 10:37:44 +0200 (CEST)
+Authentication-Results: v22014122474822114.stilfilm.com; dkim=pass
+	reason="1024-bit key; insecure key"
+	header.d=pixel-promarketing.de header.i=@pixel-promarketing.de
+	header.b=B1Pew0M+; dkim-adsp=pass; dkim-atps=neutral
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: 3.603
+X-Spam-Level: ***
+X-Spam-Status: No, score=3.603 required=5.5 tests=[BAYES_05=-0.5,
+	DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	HTML_MESSAGE=0.001, LOTS_OF_MONEY=0.001, SPF_HELO_NONE=0.001,
+	URIBL_BLACK=1.7, URIBL_DBL_SPAM=2.5] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id aRnGkGlS5lFj for <mail@dorianvasco.de>;
+	Mon,  2 Sep 2019 10:37:40 +0200 (CEST)
+Received: from smtp7-135.pixel-promarketing.de (smtp7-135.pixel-promarketing.de [193.70.52.221])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id 7C49BC0F0B
+	for <kontakt@dorianvasco.de>; Mon,  2 Sep 2019 10:37:39 +0200 (CEST)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; d=pixel-promarketing.de; s=ppm;
+ t=1567413455; bh=klDy1Y81e3Zbvyd4nckDYQyfWwI=;
+ h=Subject:From:To:Reply-To:Date:List-Unsubscribe:X-CampaignID:
+  Message-ID:X-Mailer-Info:MIME-Version:Content-Type;
+ b=B1Pew0M+lxDxvqia3+8NW/PzKDrfhsq2D6E82AW7pu79EHTdmPRj0aP5p44EViw6a
+  lnnnP1pb0FoOzisgsOTFWlDsSnnAh13s1B2xH/+IRxI9a1wiJXNCqXT+/egNUCQktF
+  t4q1JKRC9vWRVfquIApMXG3tJXvG2t+q7rJNSAIk=
+Subject: =?UTF-8?Q?Baufinanzierungen=20im=20Vergleich=3A=20Bis=20zu=20?=
+ =?UTF-8?Q?65=2E000=20=E2=82=AC=20sparen?=
+From: "JETZT ANGEBOT BERECHNEN" <info@pixel-promarketing.de>
+To: kontakt@dorianvasco.de
+Reply-To: noreply@pixel-promarketing.de
+Date: 02 Sep 2019 08:37:35 -0000
+List-Unsubscribe: <http://pixel-promarketing.de/ga/unsubscribe/2-199990483-444-22960-62433-e04939885d24e4c-066d39a830?confirmed=1>,
+ <mailto:return-a444-62383-62433-589bf19f=199990483=8u@pixel-promarketing.de>
+X-CampaignID: s4:62383-afc60139838d4a64
+Message-ID: <mid-f145980b7ed4c5321a0d2dd78bd7a0ff-33@pixel-promarketing.de>
+X-Mailer-Info: 8.QY0QDN.YjMzgzM.wav5GdhtGdAR2bylWYuZXYzN2buQWZ.xkTO5kDM0gzM.YjM0MzM
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="==3e3d4e2d96f3d61eff2dfce104b2757e"
+
+This is a multi-part message in MIME format.
+
+--==3e3d4e2d96f3d61eff2dfce104b2757e
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+=E2=9C=94 Unverbindlichen Vergleich anfordern =E2=9C=94 Top-Zinsen sichern =
+=E2=9C=94
+Tr=C3=A4ume erf=C3=BCllen
+
+Baufinanzierung: Die aktuellen Testsieger im Vergleich ( http://pixel-proma=
+rketing.de/ga/click/2-199990483-444-22960-62433-1905112-d2435a0e23-066d39a8=
+30 )
+
+Sehr geehrte Damen und Herren,
+
+wenn Sie derzeit nach einer g=C3=BCnstigen Baufinanzierung ( http://pixel-p=
+romarketing.de/ga/click/2-199990483-444-22960-62433-1905112-d2435a0e23-066d=
+39a830 ) suchen, werden Sie schnell f=C3=BCndig. Die Zinsen sind niedrig und
+die Kreditangebote flexibler denn je. Bauherren und K=C3=A4ufer k=C3=B6nnen
+ihr Wunschobjekt mit einem Kredit finanzieren, der auf Ihre ganz
+individuellen M=C3=B6glichkeiten zugeschnitten ist.
+
+Stiftung Warentest: Bis zu 65.000 Euro* Sparpotential
+
+Trotz der Niedrigzinsen sollten Sie jetzt genau vergleichen. Die
+Experten der Stiftung Warentest haben f=C3=BCr die Baufinanzierung
+erhebliche Kostenunterschiede festgestellt. Demnach ergibt sich
+bei einem Volltilgerdarlehen zwischen dem g=C3=BCnstigsten und dem
+teuersten Baufinanzierer ein Zinsunterschied von 64.700 Euro*.
+
+Angebot berechnen ( http://pixel-promarketing.de/ga/click/2-199990483-444-2=
+2960-62433-1905112-d2435a0e23-066d39a830 )
+
+=C2=BB JETZT ANGEBOT BERECHNEN ( http://pixel-promarketing.de/ga/click/2-19=
+9990483-444-22960-62433-1905112-d2435a0e23-066d39a830 )
+
+Jetzt kostenlos und unverbindlich vergleichen: ( http://pixel-promarketing.=
+de/ga/click/2-199990483-444-22960-62433-1905112-d2435a0e23-066d39a830 )
+* =E2=9C=94 G=C3=BCnstige Vorteile: Sondertilgungen & zinsfreie
+Bereitstellungen
+* =E2=9C=94 Sollzins bereits ab 1,09% p.a.** - 10 Jahre Laufzeit,
+200.000 Euro Nettodarlehen
+* =E2=9C=94 Kostenloser Vergleich von 300 Banken und Baufinanzierern
+* =E2=9C=94 Top-Konditionen direkt vom Anbieter
+
+* Bei einer Kreditsumme von 180.000 Euro, einem Kaufpreis von
+250.000 Euro und 25 Jahren Zinsbindung
+** Preisbeispiel: Darlehensbetrag: 200.000 Euro, monatliche
+Rate: 515,00 Euro, Laufzeit: 10 Jahre
+
+Das Angebot ist eine kommerzielle Anzeige dieses Werbekunden, der
+allein f=C3=BCr den Inhalt verantwortlich ist.
+
+Verantwortlich f=C3=BCr den Versand der E-Mail ist:
+Ein Service von Pixel ProMarketing S.L. | Str Azor n5
+Mijas-Costa | E-29651 M=C3=A1laga
+
+Ihre Daten sind lediglich bei dem Versender gespeichert. Der
+Werbekunde hat daher keinen Einfluss auf dem Empf=C3=A4ngerkreis der
+E-Mail.
+Sofern Sie k=C3=BCnftig keinen Newsletter mehr erhalten m=C3=B6chten,
+wenden Sie sich bitte direkt an den Versender oder klicken auf
+folgenden Link: Abmelden ( http://pixel-promarketing.de/ga/unsubscribe/2-19=
+9990483-444-22960-62433-e04939885d24e4c-066d39a830 )
+
+Haben Sie Verst=C3=A4ndnis, dass die Abmeldung bis zu 48 Stunden
+dauern kann. Direkte Antworten an die Absenderadresse k=C3=B6nnen
+nicht beantwortet werden.
+
+support(at)pixelpromarketing.com ( support@pixelpromarketing )
+Ihre Daten sind lediglich bei dem Versender gespeichert. Der
+Werbekunde hat daher keinen Einfluss auf den Empf=C3=A4ngerkreis der
+E-Mail.=
+
+--==3e3d4e2d96f3d61eff2dfce104b2757e
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8=
+" />
+    <title>
+      finanzen.de Newsletter
+    </title>
+    <style type=3D"text/css">
+      a img {
+        border: 0;
+      }
+      .button-image {
+        margin-left: auto;
+        margin-right: auto;
+      }
+      .abstand {
+        height:5px;
+      }
+      .wrapper {
+        max-width: 270px;
+        margin-left: auto;
+        margin-right: auto;
+      }
+      .top-gap {
+        margin-top:0px;
+      }
+      .nl-gradient {
+        background: url('http://newsbilder.finanzen.de/images/preheader_01.=
+jpg');
+      }
+      .imprint-margin {
+        margin-left:12px;
+      }
+      @media only screen and (max-width: 480px) {
+        table[class=3D"mobile-size"], td[class=3D"mobile-size"] {
+          width: 100%;
+        }
+        table[class=3D"mobile-hide"], td[class=3D"mobile-hide"] {
+          display: none;
+          width: 0px !important;
+          height: 0px !important;
+          background-repeat: no-repeat !important;
+        }
+        .nl-gradient {
+          border-top: 2px solid #fff;
+          border-left: 2px solid #fff;
+          border-right: 2px solid #fff;
+          background: #fff;
+          background: #e8e8e8;
+          background: -moz-linear-gradient(top,#e8e8e8 0%,#e7e7e7 5%,#fffff=
+f 32%,#ffffff 100%);
+          background: -webkit-gradient(linear,left top,left bottom,color-st=
+op(0%,#e8e8e8),color-stop(5%,#e7e7e7),color-stop(32%,#ffffff),color-stop(10=
+0%,#ffffff));
+          background: -webkit-linear-gradient(top,#e8e8e8 0%,#e7e7e7 5%,#ff=
+ffff 32%,#ffffff 100%);
+          background: -o-linear-gradient(top,#e8e8e8 0%,#e7e7e7 5%,#ffffff =
+32%,#ffffff 100%);
+          background: -ms-linear-gradient(top,#e8e8e8 0%,#e7e7e7 5%,#ffffff=
+ 32%,#ffffff 100%);
+          background: linear-gradient(top,#e8e8e8 0%,#e7e7e7 5%,#ffffff 32%=
+,#ffffff 100%);
+          filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=
+=3D'#e8e8e8',endColorstr=3D'#ffffff',GradientType=3D0);
+          -pie-background: linear-gradient(#e8e8e8,#fff);
+          filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=
+=3D'#f3f3f3',endColorstr=3D'#ffffff',GradientType=3D0);
+        }
+        .test-bg {
+          background: none !important;
+        }
+        .image-scaling {
+          height: auto;
+          max-width: 100%;
+        }
+        .header-image {
+          content: url('http://newsbilder.finanzen.de/B2C/2018/04/Baufi/180=
+424_Baufi_header_mb_v01.jpg') !important;
+          height: 424px;
+          width: 296px;
+        }
+    .formular-image {
+          content: url('http://newsbilder.finanzen.de/B2C/2018/09/baufi/for=
+m-m.gif') !important;
+          height: 125px;
+          width: 300px;
+        }
+        /*.button-image {
+        content: url('http://newsbilder.finanzen.de/B2C/2015/01/KW04/013/ve=
+rgleich_anfordern.png') !important;
+        height: 40px !important;
+        width: 260px;
+        margin-top: 10px;
+        margin-left: 8px;
+        margin-bottom: 10px;
+      }
+        */
+        *[class].button-image {
+        content: url('http://newsbilder.finanzen.de/B2C/2015/01/KW04/013/ve=
+rgleich_anfordern.png') !important;
+        height: 40px !important;
+        width: 260px;
+        margin-top: 10px;
+        margin-left: 8px;
+        margin-bottom: 10px;
+        }
+        /*.mobile-button-margin-small {
+        width: 0px !important;
+      }
+        .mobile-button-margin-big {
+        width: 0px !important;
+      }
+        */
+        *[class].mobile-button-margin-small {
+          width: 0px !important;
+        }
+        *[class].mobile-button-margin-big {
+          width: 0px !important;
+        }
+        .conversion-image {
+          content: url('http://newsbilder.finanzen.de/B2C/2015/04/KW15/077/=
+bu-dd-mobile.jpg') !important;
+          height: 424px;
+          width: 296px;
+        }
+    .form-image {
+          content: url('http://newsbilder.finanzen.de/B2C/2017/03/baufi/bau=
+fimobile.gif') !important;
+          height: 122px;
+          width: 296px;
+        }
+        .imprint-margin {
+          margin-left:0px;
+        }
+        .edge-width {
+          width: 0;
+        }
+        .center-news-width {
+          width: 100%;
+        }
+        .news-side-width {
+          width: 8px;
+        }
+        .top-gap {
+          margin-top: 10px;
+        }
+=20=20=20=20
+      }
+      @media only screen and (max-width: 620px) {
+        table[class=3D"mobile-size"], td[class=3D"mobile-size"] {
+          width: 100%;
+        }
+        table[class=3D"mobile-hide"], td[class=3D"mobile-hide"] {
+          display: none;
+          width: 0px !important;
+          height: 0px !important;
+          background-repeat: no-repeat !important;
+        }
+        .side-graphic {
+          display: none !important;
+        }
+        .side-graphic-mobile {
+          display: table-row !important;
+        }
+        .image-sizer {
+          height: 415px !important;
+          width: 244px !important;
+        }
+        .mobile-size-products {
+          width: 138px;
+        }
+        .mobile-seal-tuev {
+          margin-top: 10px;
+          text-align: left;
+          float: left;
+        }
+        .mobile-seal-ekomi {
+          text-align: left;
+        }
+        .mobile-impressum-links {
+          margin-bottom: 8px;
+        }
+        .nl-gradient {
+          border-top: 2px solid #fff;
+          border-left: 2px solid #fff;
+          border-right: 2px solid #fff;
+          background: #fff;
+          background: #e8e8e8;
+          background: -moz-linear-gradient(top,#e8e8e8 0%,#e7e7e7 5%,#fffff=
+f 32%,#ffffff 100%);
+          background: -webkit-gradient(linear,left top,left bottom,color-st=
+op(0%,#e8e8e8),color-stop(5%,#e7e7e7),color-stop(32%,#ffffff),color-stop(10=
+0%,#ffffff));
+          background: -webkit-linear-gradient(top,#e8e8e8 0%,#e7e7e7 5%,#ff=
+ffff 32%,#ffffff 100%);
+          background: -o-linear-gradient(top,#e8e8e8 0%,#e7e7e7 5%,#ffffff =
+32%,#ffffff 100%);
+          background: -ms-linear-gradient(top,#e8e8e8 0%,#e7e7e7 5%,#ffffff=
+ 32%,#ffffff 100%);
+          background: linear-gradient(top,#e8e8e8 0%,#e7e7e7 5%,#ffffff 32%=
+,#ffffff 100%);
+          filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=
+=3D'#e8e8e8',endColorstr=3D'#ffffff',GradientType=3D0);
+          -pie-background: linear-gradient(#e8e8e8,#fff);
+          filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=
+=3D'#f3f3f3',endColorstr=3D'#ffffff',GradientType=3D0);
+        }
+        .logo {
+          content: url('http://newsbilder.finanzen.de/images/logo_v01.png');
+        }
+        .image-scaling {
+          height: auto;
+          max-width: 100%;
+        }
+        .header-image {
+          height: auto;
+          width: 100%;
+        }
+    .formular-image {
+          height: auto;
+          width: 100%;
+        }
+        *[class].button-image {
+          height: 50px;
+          content: url('http://newsbilder.finanzen.de/B2C/2015/01/KW04/013/=
+jetzt_vergleich_anfordern.png');
+        }
+        .conversion-image {
+          height: auto;
+          width: 100%;
+        }
+    .form-image {
+          height: auto;
+          width: 100%;
+        }
+    .banner-image {
+          height: auto;
+          width: 100%;
+        }
+        .imprint-margin {
+          margin-left:0;
+        }
+        .top-gap {
+          margin-top: 10px;
+        }
+        /*.mobile-button-margin-small {
+        width: 18px;
+      }
+        .mobile-button-margin-big {
+        width: 162px;
+      }
+        */
+        *[class].mobile-button-margin-small {
+          width: 18px;
+        }
+        *[class].mobile-button-margin-big {
+          width: 162px;
+        }
+      }
+      .header-image {
+        height: auto;
+        width: 100%;
+      }
+      .side-graphic {
+        display: block;
+      }
+      .side-graphic-mobile {
+        display: none;
+      }
+      .button-image {
+        height: auto;
+      }
+=20=20=20=20=20=20
+    </style>
+  </head>
+  <body bgcolor=3D"#EAEAEA">
+<!--X-IPM-Campaign:finanzen.de. fdeDE2016264H3-->
+<table style=3D"display: none !important; mso-hide: all !important;" border=
+=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr style=3D"display: none !important; mso-hide: all !important;">
+<td style=3D"display: none !important; mso-hide: all !important;"><span sty=
+le=3D"font-size: xx-small; line-height: 1px; color: #000000;"> &#10004; Unv=
+erbindlichen Vergleich anfordern &#10004; Top-Zinsen sichern &#10004; Tr&#2=
+28;ume erf&#252;llen </span></td>
+</tr>
+</tbody>
+</table>
+<p><basefont size=3D"2" color=3D"#4B4B4B" face=3D"Helvetica,Arial" /></p>
+<table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" bgco=
+lor=3D"#CEDEF0">
+<tbody>
+<tr>
+<td height=3D"10">&#160;</td>
+</tr>
+<tr>
+<td>
+<table class=3D"mobile-size" style=3D"border: 1px solid #D9D9D9; font-famil=
+y: 'Open Sans',Arial,Helvetica,sans-serif; font-size: 12px; color: #000000;=
+" border=3D"0" width=3D"622" cellspacing=3D"0" cellpadding=3D"0" align=3D"c=
+enter" bgcolor=3D"#FFFFFF">
+<tbody>
+<tr>
+<td><!-- Beginn Main Body -->
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td height=3D"10">&#160;</td>
+</tr>
+<!-- Header Grafik -->
+<tr>
+<td>
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td><a href=3D"http://pixel-promarketing.de/ga/click/2-199990483-444-22960-=
+62433-1905112-d2435a0e23-066d39a830" target=3D"_blank" rel=3D"noopener"> <i=
+mg class=3D"header-image" style=3D"font-family: 'Open Sans',Arial,Helvetica=
+,sans-serif; color: #3b6bbc; text-align: center; font-size: 18px; font-weig=
+ht: bold; line-height: 30px; background-color: #f3f3f3;" title=3D"&#187; Je=
+tzt Vergleich anfordern" src=3D"http://newsbilder.finanzen.de/B2C/2018/04/B=
+aufi/180424_Baufi_header_v01.jpg" alt=3D"Baufinanzierung: Die aktuellen Tes=
+tsieger im Vergleich" border=3D"0" /> </a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<!-- Header Content -->
+<tr>
+<td>
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td colspan=3D"3" height=3D"20">&#160;</td>
+</tr>
+<tr>
+<td width=3D"3.1%">&#160;</td>
+<td valign=3D"top" width=3D"93.8%">
+<div style=3D"color: #788900; font-family: 'Open Sans',Arial,Helvetica,sans=
+-serif; font-size: 16px; line-height: 21px;"><strong>Sehr geehrte Damen und=
+ Herren,</strong></div>
+<br />
+<div style=3D"color: #2e2e2e; font-family: 'Open Sans',Arial,Helvetica,sans=
+-serif; font-size: 14px; line-height: 21px;">wenn Sie derzeit nach einer <a=
+ style=3D"color: #788900;" href=3D"http://pixel-promarketing.de/ga/click/2-=
+199990483-444-22960-62433-1905112-d2435a0e23-066d39a830" target=3D"_blank" =
+rel=3D"noopener">g&#252;nstigen Baufinanzierung</a> suchen, werden Sie schn=
+ell f&#252;ndig. Die Zinsen sind niedrig und die Kreditangebote flexibler d=
+enn je. Bauherren und K&#228;ufer k&#246;nnen ihr Wunschobjekt mit einem Kr=
+edit finanzieren, der auf Ihre ganz individuellen M&#246;glichkeiten zugesc=
+hnitten ist.</div>
+<br />
+<div style=3D"color: #788900; font-family: 'Open Sans',Arial,Helvetica,sans=
+-serif; font-size: 16px; line-height: 21px;"><strong>Stiftung Warentest: Bi=
+s zu 65.000 Euro* Sparpotential</strong></div>
+<br />
+<div style=3D"color: #2e2e2e; font-family: 'Open Sans',Arial,Helvetica,sans=
+-serif; font-size: 14px; line-height: 21px;">Trotz der Niedrigzinsen sollte=
+n Sie jetzt genau vergleichen. Die Experten der Stiftung Warentest haben f&=
+#252;r die Baufinanzierung erhebliche Kostenunterschiede festgestellt. Demn=
+ach ergibt sich bei einem Volltilgerdarlehen zwischen dem g&#252;nstigsten =
+und dem teuersten Baufinanzierer ein Zinsunterschied von 64.700 Euro*.</div>
+</td>
+<td width=3D"3.1%">&#160;</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<!-- Formular -->
+<tr>
+<td>
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td colspan=3D"3" height=3D"15">&#160;</td>
+</tr>
+<tr>
+<td class=3D"edge-width" width=3D"18">&#160;</td>
+<td valign=3D"top">
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td valign=3D"top"><a href=3D"http://pixel-promarketing.de/ga/click/2-19999=
+0483-444-22960-62433-1905112-d2435a0e23-066d39a830" target=3D"_blank" rel=
+=3D"noopener"> <img class=3D"formular-image" style=3D"font-family: 'Open Sa=
+ns',Arial,Helvetica,sans-serif; color: #3b6bbc; text-align: center; font-si=
+ze: 18px; font-weight: bold; line-height: 30px; background-color: #f3f3f3;"=
+ src=3D"http://newsbilder.finanzen.de/B2C/2018/09/baufi/form-d.gif" alt=3D"=
+Angebot berechnen" width=3D"600" height=3D"65" /> </a></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td class=3D"edge-width" width=3D"18">&#160;</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<!-- Button -->
+<tr>
+<td>
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" align=3D"center">
+<tbody>
+<tr>
+<td height=3D"15">&#160;</td>
+</tr>
+<tr>
+<td width=3D"100%">
+<table style=3D"font-size: 14px; line-height: 18px; background-color: #f46f=
+22; color: #ffffff; font-family: 'Open Sans',Arial,Helvetica,sans-serif; fo=
+nt-weight: bold; padding: 5px 20px 5px 20px; text-align: center; width: aut=
+o; background-image: url('http://newsbilder.finanzen.de/button-background.j=
+pg'); background-repeat: repeat-x; border: 1px solid #C16002;" cellspacing=
+=3D"0" align=3D"center">
+<tbody>
+<tr>
+<td><a style=3D"color: #ffffff; text-decoration: none;" href=3D"http://pixe=
+l-promarketing.de/ga/click/2-199990483-444-22960-62433-1905112-d2435a0e23-0=
+66d39a830" target=3D"_blank" rel=3D"noopener">&#187; JETZT ANGEBOT BERECHNE=
+N</a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td height=3D"20">&#160;</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<!-- Button Ende --> <!-- Neue Bulletpoints ANFANG -->
+<tr>
+<td>
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td colspan=3D"3" height=3D"5">&#160;</td>
+</tr>
+<tr>
+<td width=3D"3.1%">&#160;</td>
+<td class=3D"center-news-width" valign=3D"top" bgcolor=3D"#fff7e3" width=3D=
+"93.8%">
+<table class=3D"mobile-size" style=3D"border-collapse: collapse; mso-table-=
+lspace: 0pt; mso-table-rspace: 0pt;" width=3D"100%" cellspacing=3D"0" cellp=
+adding=3D"0" align=3D"right">
+<tbody>
+<tr>
+<td valign=3D"top">
+<table class=3D"mobile-size" width=3D"100%" cellspacing=3D"0" cellpadding=
+=3D"0">
+<tbody>
+<tr>
+<td width=3D"100%">
+<div style=3D"color: #2e2e2e; font-family: 'Open Sans',Arial,Helvetica,sans=
+-serif; font-size: 14px; line-height: 21px; margin-top: 20px; margin-bottom=
+: 20px; padding-left: 20px; padding-right: 20px;">
+<div style=3D"color: #788900; font-family: 'Open Sans',Arial,Helvetica,sans=
+-serif; font-size: 16px; line-height: 21px;"><a style=3D"color: #788900; fo=
+nt-size: 16px; font-weight: bold; text-decoration: none;" href=3D"http://pi=
+xel-promarketing.de/ga/click/2-199990483-444-22960-62433-1905112-d2435a0e23=
+-066d39a830" target=3D"_blank" rel=3D"noopener">Jetzt kostenlos und unverbi=
+ndlich vergleichen:</a></div>
+<ul style=3D"list-style: none; margin-left: 0; padding-left: 20px; text-ind=
+ent: -22px;">
+<li style=3D"margin-top: 10px;"><span style=3D"color: #788900; font-size: 1=
+8px;">&#10004;</span>&#160; <strong>G&#252;nstige Vorteile:</strong> Sonder=
+tilgungen &amp; zinsfreie Bereitstellungen</li>
+<li style=3D"margin-top: 10px;"><span style=3D"color: #788900; font-size: 1=
+8px;">&#10004;</span>&#160; <strong>Sollzins bereits ab 1,09% p.a.**</stron=
+g> - 10 Jahre Laufzeit, 200.000 Euro Nettodarlehen</li>
+<li style=3D"margin-top: 10px;"><span style=3D"color: #788900; font-size: 1=
+8px;">&#10004;</span>&#160; <strong>Kostenloser Vergleich</strong> von 300 =
+Banken und Baufinanzierern</li>
+<li style=3D"margin-top: 10px;"><span style=3D"color: #788900; font-size: 1=
+8px;">&#10004;</span>&#160; <strong>Top-Konditionen</strong> direkt vom Anb=
+ieter</li>
+</ul>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td width=3D"3.1%">&#160;</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<!-- Neue Bulletpoints ENDE -->
+<tr>
+<td>
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td colspan=3D"3" height=3D"15">&#160;</td>
+</tr>
+<tr>
+<td width=3D"3.1%"><span style=3D"font-size: 10pt;">&#160;</span></td>
+<td valign=3D"top" width=3D"93.8%">
+<div style=3D"color: #2e2e2e; font-family: 'Open Sans',Arial,Helvetica,sans=
+-serif; font-size: 10px; line-height: 18px;"><span style=3D"font-size: 10pt=
+;">* Bei einer Kreditsumme von 180.000 Euro, einem Kaufpreis von 250.000 Eu=
+ro und 25 Jahren Zinsbindung </span><br /><span style=3D"font-size: 10pt;">=
+ ** Preisbeispiel: Darlehensbetrag: 200.000 Euro, monatliche Rate: 515,00 E=
+uro, Laufzeit: 10 Jahre </span><br /> </div>
+<div style=3D"color: #2e2e2e; font-family: 'Open Sans',Arial,Helvetica,sans=
+-serif; font-size: 10px; line-height: 18px;">&#160;</div>
+<div style=3D"color: #2e2e2e; font-family: 'Open Sans',Arial,Helvetica,sans=
+-serif; font-size: 10px; line-height: 18px;"><span style=3D"font-size: 10pt=
+;"><span style=3D"color: #808080; font-size: 12px;">Das Angebot ist eine ko=
+mmerzielle Anzeige dieses Werbekunden, der allein f&#252;r den Inhalt veran=
+twortlich ist.<br /></span><br /><span style=3D"color: #808080;font-size: 1=
+2px;"> Verantwortlich f&#252;r den Versand der E-Mail ist:<br /> <span styl=
+e=3D"color: #808080;font-size: 12px;"> Ein Service von Pixel ProMarketing S=
+.L. &#160;&#160;|&#160;&#160; Str Azor n5 Mijas-Costa &#160;&#160;|&#160;&#=
+160; E-29651 M&#225;laga</span><br /><br /> <span style=3D"color: #808080;f=
+ont-size: 12px;"> Ihre Daten sind lediglich bei dem Versender gespeichert. =
+Der Werbekunde hat daher keinen Einfluss auf dem Empf&#228;ngerkreis der E-=
+Mail. </span><br /> Sofern Sie k&#252;nftig keinen Newsletter mehr erhalten=
+ m&#246;chten, wenden Sie sich bitte direkt an den Versender oder klicken a=
+uf folgenden Link: <a style=3D"font-weight: normal; text-decoration: underl=
+ine; color: #808080;" href=3D"http://pixel-promarketing.de/ga/unsubscribe/2=
+-199990483-444-22960-62433-e04939885d24e4c-066d39a830"> Abmelden</a> <br />=
+ </span><span style=3D"color: #808080;font-size: 12px;"><br />Haben Sie Ver=
+st&#228;ndnis, dass die Abmeldung bis zu 48 Stunden dauern kann. Direkte An=
+tworten an die Absenderadresse k&#246;nnen nicht beantwortet werden. </span=
+></p>
+<center><span style=3D"color: #808080;"><span style=3D"color: #808080; font=
+-size: 12px;"> <a style=3D"font-weight: normal; text-decoration: underline;=
+ color: #808080; text-align: center;" href=3D"mailto:support@pixelpromarket=
+ing">support(at)pixelpromarketing.com</a></span></span>
+<p><span style=3D"color: #808080;font-size: 12px;">Ihre Daten sind lediglic=
+h bei dem Versender gespeichert. Der Werbekunde hat daher keinen Einfluss a=
+uf den Empf&#228;ngerkreis der E-Mail.</span>
+
+</span></div>
+</td>
+<td width=3D"3.1%">
+<p>&#160;</p>
+<p>&#160;</p>
+<p>&#160;</p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td height=3D"10">&#160;</td>
+</tr>
+</tbody>
+</table>
+<img src=3D"http://pixel-promarketing.de/ga/open/2-199990483-444-22960-6243=
+3-066d39a830" height=3D"2" width=3D"3" alt=3D""></body>
+</html>=
+
+--==3e3d4e2d96f3d61eff2dfce104b2757e--

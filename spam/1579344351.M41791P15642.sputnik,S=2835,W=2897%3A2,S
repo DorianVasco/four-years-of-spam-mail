@@ -1,0 +1,62 @@
+Return-Path: <info@myredirert.ru>
+Delivered-To: mail@elementk.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 5661DC3ACB
+	for <mail@elementk.de>; Mon, 19 Nov 2018 15:10:34 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: 0.005
+X-Spam-Level:
+X-Spam-Status: No, score=0.005 required=5.5 tests=[DKIM_SIGNED=0.1,
+	DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1, FROM_EXCESS_BASE64=0.105,
+	HTML_MESSAGE=0.001, SPF_HELO_PASS=-0.001, SPF_PASS=-0.001,
+	URIBL_BLOCKED=0.001] autolearn=unavailable
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id e-jQPBO5zN_6 for <mail@elementk.de>;
+	Mon, 19 Nov 2018 15:10:33 +0100 (CET)
+Received: from myredirert.ru (myredirert.ru [188.246.233.229])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 257B3C15DD
+	for <mail@elementk.de>; Mon, 19 Nov 2018 15:10:33 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=key1; d=myredirert.ru;
+ h=Message-ID:Reply-To:From:To:Subject:Date:MIME-Version:Content-Type; i=info@myredirert.ru;
+ bh=ymVBRzTWd6XYbRJb8okpOpsvXYM=;
+ b=JkMat7WcRdg2+YVqWgIjrtOVgI+n8EkveMN7kvwLThJep4I9kqMo9mX9oAGiTVQSKwcgtapwlgk8
+   op4QyR/s7u5q3Fdz4L6TRzNtEtpU8qhVMsA5q1NLUMk5V7yKDjYRflhJ+AzwIYYskY8e8KtDsJSe
+   2W6gQ8mvF+QPgCVdYrc=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=key1; d=myredirert.ru;
+ b=YsA1+B4vvXAYZjyu8MxC9Jy7yfq7XG6JRaqZAhlZFSJyUPJzLneVpLWZn7Kq6dwBY3NHvQGAgGaX
+   6urO8tpJvdOzpLZx5XqSrukqibAKr6FqFoZLGpc9XkBG+1eI6tz+9cP6eZZ98JDSF8FaMHcCVAZv
+   CHitf3E5yj22KYSZkF4=;
+Message-ID: <2f227ad62bee777b5c19affc08cee4e8c0dbfdb9@myredirert.ru>
+Reply-To: =?utf-8?B?0JHQsNGA?= <bounce@myredirert.ru>
+From: =?utf-8?B?0JHQsNGA?= <info@myredirert.ru>
+To: <mail@elementk.de>
+Subject: Behold is   an interesting  offering
+Date: Mon, 19 Nov 2018 17:12:34 +0300
+Organization: =?utf-8?B?0JXRgNGB0YPQu9GC0LDQvQ==?=
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="8973338ec91d33805c5910ae5a8eafe234ee"
+X-Priority: 1
+
+--8973338ec91d33805c5910ae5a8eafe234ee
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+=C2=A0Hi=C2=A0=C2=A0What we have here is=C2=A0 a good offers Just click
+
+--8973338ec91d33805c5910ae5a8eafe234ee
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<HTML><HEAD>
+<META http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+</HEAD>
+<BODY bgColor=3D#ffffff>
+<DIV align=3Dleft><A=20
+href=3D"https://drive.google.com/file/d/15ym7BYjup3h8QYlzffWxhfLVjdMvpimL=
+/preview">&nbsp;Hi&nbsp;&nbsp;What we have here is&nbsp;=20
+a good offers Just click=20
+</A></DIV></BODY></HTML>
+
+--8973338ec91d33805c5910ae5a8eafe234ee--

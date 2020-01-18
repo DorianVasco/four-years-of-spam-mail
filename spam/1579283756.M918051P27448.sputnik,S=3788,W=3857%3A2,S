@@ -1,0 +1,69 @@
+Return-Path: <MAILER-DAEMON>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 4188CC6D6F
+	for <mail@dorianvasco.de>; Mon, 14 Oct 2019 01:32:23 +0200 (CEST)
+Authentication-Results: v22014122474822114.stilfilm.com; dkim=pass
+	reason="1024-bit key; insecure key"
+	header.d=gu.educaltai.ru header.i=@gu.educaltai.ru
+	header.b=I+5qKQN0; dkim-adsp=pass; dkim-atps=neutral
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 6.012
+X-Spam-Level: ******
+X-Spam-Status: Yes, score=6.012 required=5.5 tests=[BAYES_99=3.5,
+	BAYES_999=0.2, DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	FREEMAIL_REPLYTO=1, LOTS_OF_MONEY=0.001, RCVD_IN_RP_RNBL=1.31,
+	SPF_HELO_NONE=0.001, TO_MALFORMED=0.1] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id abL0-dx0T3VQ for <mail@dorianvasco.de>;
+	Mon, 14 Oct 2019 01:32:20 +0200 (CEST)
+Received: from mail.gu.educaltai.ru (mail.gu.educaltai.ru [83.246.141.198])
+	(using TLSv1.2 with cipher AECDH-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id F36D6C4421
+	for <kontakt@dorianvasco.de>; Mon, 14 Oct 2019 01:32:17 +0200 (CEST)
+Received: from localhost (localhost [127.0.0.1])
+	by mail.gu.educaltai.ru (Postfix) with ESMTP id D8E481121EAE;
+	Mon, 14 Oct 2019 06:32:10 +0700 (+07)
+Received: from mail.gu.educaltai.ru ([127.0.0.1])
+	by localhost (mail.gu.educaltai.ru [127.0.0.1]) (amavisd-new, port 10032)
+	with ESMTP id efZPbfUpE4OK; Mon, 14 Oct 2019 06:32:09 +0700 (+07)
+Received: from localhost (localhost [127.0.0.1])
+	by mail.gu.educaltai.ru (Postfix) with ESMTP id 1AD7F11C2BC6;
+	Fri, 11 Oct 2019 20:21:30 +0700 (+07)
+DKIM-Filter: OpenDKIM Filter v2.10.3 mail.gu.educaltai.ru 1AD7F11C2BC6
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gu.educaltai.ru;
+	s=D19A3224-4833-11E3-863B-C9FC1EAB0508; t=1570800090;
+	bh=/sgga0y+gF9XlDY0X0umMVcHK4yW2TVKV0+IXi9Y+Kc=;
+	h=MIME-Version:To:From:Date:Message-Id;
+	b=I+5qKQN0O35VcFMMojPnaTNNoHjgzMxj/JnTAZryLiIrnMnb84afYOwDnGxru++2C
+	 fGJ2zcC4LjQLA3QwrordfSc9tnAIVSy9zKMRCmPPzWvc4UvfDCZrptNEuRQx/JBjgt
+	 i1qKOhw6jSnPwH/fp4omhkhbk3X9YlY/gGEU6CH4=
+X-Virus-Scanned: amavisd-new at gu.educaltai.ru
+Received: from mail.gu.educaltai.ru ([127.0.0.1])
+	by localhost (mail.gu.educaltai.ru [127.0.0.1]) (amavisd-new, port 10026)
+	with ESMTP id 6cKKq399T2QP; Fri, 11 Oct 2019 20:21:29 +0700 (+07)
+Received: from [100.86.242.66] (8ta-250-3-111.telkomadsl.co.za [102.250.3.111])
+	by mail.gu.educaltai.ru (Postfix) with ESMTPSA id 9B7CF11D601D;
+	Fri, 11 Oct 2019 20:07:04 +0700 (+07)
+Content-Type: text/plain; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+Subject: Spende von 5 Millionen Euro  
+To: Recipients <>
+From: "shane missler" <""@gu.educaltai.ru>
+Date: Fri, 11 Oct 2019 15:06:36 +0200
+Reply-To: shanemissler.spende11@gmail.com
+Message-Id: <20191011130705.9B7CF11D601D@mail.gu.educaltai.ru>
+
+   Dies ist eine pers=F6nliche Mail, die ich an Sie adressiere. Ich bin SHA=
+NE MISSLER aus Florida, USA. Wie Sie bereits wissen, habe ich einen Lotto-J=
+ackpot in H=F6he von 451 Mio. USD (330 Mio. GBP) gewonnen und das Geld hat =
+mein Leben und mein Familienleben ver=E4ndert, aber es wird mein Herz nicht=
+ ver=E4ndern, wie ich an dem Tag sagte, an dem ich mein Geld habe, das ich =
+verwenden werde Dieses Geld f=FCr die Hilfe der Menschheit. Ich habe beschl=
+ossen, Ihnen und Ihrer Gemeinde einen Betrag von 5 Millionen Euro zu spende=
+n, um diese Spende anzufordern. E-Mail: (shanemissler0@gmail.com)

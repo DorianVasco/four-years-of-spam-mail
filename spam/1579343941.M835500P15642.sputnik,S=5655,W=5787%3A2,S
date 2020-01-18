@@ -1,0 +1,132 @@
+Received: from localhost by v22014122474822114.stilfilm.com
+	with SpamAssassin (version 3.3.2);
+	Wed, 22 Nov 2017 21:15:41 +0100
+From: info GCS <info@global-de.net>
+To: info@dorianvasco.de
+Subject: *****SPAM***** ***SPAM*** FW: Neue Kunden.
+Date: Tue, 7 Nov 2017 08:32:52 +0100
+Message-Id: <20171107_073252_063824.info@global-de.net>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	v22014122474822114.stilfilm.com
+X-Spam-Flag: YES
+X-Spam-Level: *******
+X-Spam-Status: Yes, score=7.3 required=5.0 tests=DIGEST_MULTIPLE,
+	DKIM_ADSP_NXDOMAIN,NO_DNS_FOR_FROM,PYZOR_CHECK,RAZOR2_CF_RANGE_51_100,
+	RAZOR2_CHECK,URIBL_BLOCKED autolearn=no version=3.3.2
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----------=_5A15DAED.12BEE12E"
+
+This is a multi-part message in MIME format.
+
+------------=_5A15DAED.12BEE12E
+Content-Type: text/plain; charset=iso-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+
+Software zur Erkennung von "Spam" auf dem Rechner
+
+    v22014122474822114.stilfilm.com
+
+hat die eingegangene E-mail als mögliche "Spam"-Nachricht identifiziert.
+Die ursprüngliche Nachricht wurde an diesen Bericht angehängt, so dass
+Sie sie anschauen können (falls es doch eine legitime E-Mail ist) oder
+ähnliche unerwünschte Nachrichten in Zukunft markieren können.
+Bei Fragen zu diesem Vorgang wenden Sie sich bitte an
+
+    the administrator of that system
+
+Vorschau: Sehr geehrte Damen und Herren, Es ist mir eine Ehre, Ihnen
+   das Produkt vorzustellen, welches an die BedÃ¼rfnisse Ihrer Firma vollkommen
+   angepasst ist. Unser Erzeugnis erlaubt Ihnen, die neue Kundschaft zu gewinnen
+   und den Verkauf sofort zu erhÃ¶hen. [...] 
+
+Inhaltsanalyse im Detail:   (7.3 Punkte, 5.0 benötigt)
+
+Pkte Regelname              Beschreibung
+---- ---------------------- --------------------------------------------------
+ 0.4 NO_DNS_FOR_FROM        DNS: Domain der Absendeadresse nicht im DNS
+                            registriert (kein MX/A Eintrag)
+ 0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+                            See
+                            http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                             for more information.
+                            [URIs: gdb-kontakt.net]
+ 0.8 DKIM_ADSP_NXDOMAIN     No valid author signature and domain not in DNS
+ 2.4 RAZOR2_CF_RANGE_51_100 Razor2 Spam-Bewertung liegt zwischen 51 und
+                            100
+                            [cf: 100]
+ 1.7 RAZOR2_CHECK           Gelistet im "Razor2"-System (http://razor.sf.net/)
+ 2.0 PYZOR_CHECK            Gelistet im Pyzor-System (http://pyzor.sf.net/)
+ 0.0 DIGEST_MULTIPLE        Mehrere Internettests (Razor, DCC, Pyzor, etc.)
+                            treffen zu
+
+
+
+------------=_5A15DAED.12BEE12E
+Content-Type: message/rfc822; x-spam-type=original
+Content-Description: original message before SpamAssassin
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+
+Return-Path: <info@global-de.net>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 82F3BD4BCB
+	for <mail@dorianvasco.de>; Tue,  7 Nov 2017 08:32:52 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 11.192
+X-Spam-Level: ***********
+X-Spam-Status: Yes, score=11.192 required=5.5 tests=[BAYES_99=3.5,
+	BAYES_999=0.2, DIGEST_MULTIPLE=0.293, PYZOR_CHECK=1.392,
+	RAZOR2_CF_RANGE_51_100=0.5, RAZOR2_CF_RANGE_E8_51_100=1.886,
+	RAZOR2_CHECK=0.922, SPF_HELO_PASS=-0.001, SPF_PASS=-0.001,
+	URIBL_BLOCKED=0.001, URIBL_DBL_SPAM=2.5] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 5WK0WC1i347h for <mail@dorianvasco.de>;
+	Tue,  7 Nov 2017 08:32:51 +0100 (CET)
+Received: from global-de.net (vps66688.public.cloudvps.com [185.21.188.17])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 3ECF7C3BD8
+	for <info@dorianvasco.de>; Tue,  7 Nov 2017 08:32:51 +0100 (CET)
+To: info@dorianvasco.de
+From: info GCS <info@global-de.net>
+Subject: ***SPAM*** FW: Neue Kunden.
+Date: Tue, 7 Nov 2017 08:32:52 +0100
+Message-ID: <20171107_073252_063824.info@global-de.net>
+X-Mailer: MA
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain; charset="utf-8"
+Mime-Version: 1.0
+
+Sehr geehrte Damen und Herren,
+
+Es ist mir eine Ehre, Ihnen das Produkt vorzustellen, welches an die BedÃ¼rfnisse Ihrer Firma vollkommen angepasst ist.
+Unser Erzeugnis erlaubt Ihnen, die neue Kundschaft zu gewinnen und den Verkauf sofort zu erhÃ¶hen.
+
+Der Katalog enthÃ¤lt Ã¼ber 1,2 Millionen Adressen und gehÃ¶rt zu den grÃ¶ÃŸten auf dem deutschen Markt.
+
+Die Firmenangaben beinhalten:
+Name der Firma, Ansprechpartner, E-mail Adresse, Tel. + Fax-Nr., PLZ, Ort, StraÃŸe etc.
+
+1. Gesamtpaket 2017 DE 1 Mio. ( 1 241 451 ) - 190 EUR ( bis zum 07.11.2017 )
+2. Gesamtpaket 2017 DE,AT,CH ( 1 641 451 ) - 240 EUR ( bis zum 07.11.2017 )
+3. Europa 2017 (DE, AT, CH, UK, FR, IT, ES) ( 3 631 561 ) - 390 EUR ( bis zum 30.11.2017 )
+
+http://www.gdb-kontakt.net/?page=1
+
+Die VerwendungsmÃ¶glichkeiten der Datenbanken sind praktisch unbegrenzt und Sie kÃ¶nnen durch Verwendung
+der von uns entwickelten Programme des personalisierten Versendens von Angeboten u.Ã¤. mittels
+E-mailing bzw. Fax effektive und sichere Werbekampagnen damit durchfÃ¼hren.
+Bitte informieren Sie sich Ã¼ber die weiteren Details einmal unverbindlich auf unseren Webseite:
+
+http://www.gdb-kontakt.net/?page=1
+
+MfG
+Thomas Schmidt.
+GC-Team.
+
+
+
+------------=_5A15DAED.12BEE12E--
+

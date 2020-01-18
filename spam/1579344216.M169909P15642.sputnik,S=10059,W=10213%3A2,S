@@ -1,0 +1,154 @@
+Return-Path: <3H95mWhAJBFA1w550xw9us99yttyy4s03.u644s03v690s5DsAu6.vw@trix.bounces.google.com>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 63096C2004
+	for <mail@dorianvasco.de>; Tue, 23 Jan 2018 08:02:46 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: -7.008
+X-Spam-Level:
+X-Spam-Status: No, score=-7.008 required=5.5 tests=[DKIM_SIGNED=0.1,
+	DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1, FREEMAIL_FROM=0.001,
+	HTML_MESSAGE=0.001, LOW_PRICE=0.6, RCVD_IN_DNSWL_NONE=-0.0001,
+	SPF_PASS=-0.001, T_RP_MATCHES_RCVD=-0.01, URIBL_BLOCKED=0.001,
+	USER_IN_DEF_SPF_WL=-7.5] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 6rJKneZAmQCG for <mail@dorianvasco.de>;
+	Tue, 23 Jan 2018 08:02:44 +0100 (CET)
+Received: from mail-it0-f72.google.com (mail-it0-f72.google.com [209.85.214.72])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id A2539C1FEB
+	for <mail@dorianvasco.de>; Tue, 23 Jan 2018 08:02:43 +0100 (CET)
+Received: by mail-it0-f72.google.com with SMTP id k188so13840965ith.0
+        for <mail@dorianvasco.de>; Mon, 22 Jan 2018 23:02:57 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:reply-to:message-id:date:subject:from:to;
+        bh=+yFbb1hq28uy09K1YvO4EtK8hE99vctZV+YKFs/6FbM=;
+        b=tFsb4XR9HHCatN6SPhL2gHawji6HR8LG10Xiu0WqUFk45DHj21R1gqTR1CUPCfR3/B
+         C83LMLWjgB9akx406b8+/3bSvF0V5hT2MErtRBHO6gmtpeA7NXJy2u532bqHatNTmVfD
+         z+mDuvrVlsvdUelTEGJv35wJQoeeozoEmO6FD72f34+jKhjGwfWsghCTailr54oUC3zi
+         Jcsng+Ptd2W9jF7aWLvXqzpT4jc9zVMRWiTJeFvBuav6gx7W72P6R0wOTML1PHJfj2Rl
+         p94oPGC2xZ1XeYp+9vk5WUZCU+s9BEz2tvmJtTVCwQRHG6Kl46kFAJGWliPRNbA34kL0
+         +egg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:reply-to:message-id:date:subject
+         :from:to;
+        bh=+yFbb1hq28uy09K1YvO4EtK8hE99vctZV+YKFs/6FbM=;
+        b=s5cEG6f/oKATRYbZlulo0T9VKeHMbPFRRu0wvYPliewDzJUqJ8rewEvb15DyhhN0Qm
+         9ZYNWXxgH9de5eZMsDWfVurlYLarGlexs0QpT78coJ2mwdF7DQWHzsMz6Vei63dM8lIC
+         V1gBKlP0zlkA7/79k6yvQCTdE1EyBoFErwnyd9foq0PZW3kHwqalvhH1945AkjX4HRah
+         J1A2GVlxqvnw0Lpb+v22kdZbaD0Ikaw3BnPLLCdnXQVxjS8yqFgvBUoFiJJGC2wCfJl1
+         vlBAQ0j2T/deYF3/QiYGAO2hmj+AVse8bOIpvlTjTAcF/dG2u+03BHDpwicOYFogMhgW
+         j4hg==
+X-Gm-Message-State: AKwxyte5dNjisR6zSUVR/fhlmDZjXak7LKyWA1IC+m9dJgsX+8jgbZAJ
+	hguV3X2/0p72GKv8gkyj2tJa268iw/3TnmCYi/yr
+MIME-Version: 1.0
+X-Received: by 10.36.83.11 with SMTP id n11mt1570786itb.48.1516690975917; Mon,
+ 22 Jan 2018 23:02:55 -0800 (PST)
+Reply-To: jennifercarrgbbg@gmail.com
+X-No-Auto-Attachment: 1
+Message-ID: <001a11419856da966b05636c223d@google.com>
+Date: Tue, 23 Jan 2018 07:02:56 +0000
+Subject:  Looking for Website Design in Low Price
+From: jennifercarrgbbg@gmail.com
+To: mail@dorianvasco.de
+Content-Type: multipart/alternative; boundary="001a11419856dea74505636c222e"
+
+--001a11419856dea74505636c222e
+Content-Type: text/plain; charset="UTF-8"; format=flowed; delsp=yes
+Content-Transfer-Encoding: base64
+
+SSd2ZSBpbnZpdGVkIHlvdSB0byBmaWxsIG91dCB0aGUgZm9sbG93aW5nIGZvcm06DQpVbnRpdGxl
+ZCBmb3JtDQoNClRvIGZpbGwgaXQgb3V0LCB2aXNpdDoNCmh0dHBzOi8vZG9jcy5nb29nbGUuY29t
+L2Zvcm1zL2QvZS8xRkFJcFFMU2Y1ZW5tM243VkpYQWthUjRZa1VFMS1wUk5Zd2lRQnI3aGtjblpx
+VGt5bVBNODVDZy92aWV3Zm9ybT9jPTAmYW1wO3c9MSZhbXA7dXNwPW1haWxfZm9ybV9saW5rDQoN
+CkhlbGxvLA0KDQpHcmVldGluZ3MgZm9yIHRoZSBkYXkhIQ0KDQpJIGhvcGUgeW91IGFyZSBkb2lu
+ZyB3ZWxsIGFuZCBoYXZlIHRpbWUgdG8gcmVhZCBteSBwcm9wb3NhbOKApg0KDQpNeSBuYW1lIGlz
+IEplbm5pZmVyLCBidXNpbmVzcyBkZXZlbG9wbWVudCBwcm9mZXNzaW9uYWwgZm9yIGEgbGVhZGlu
+ZyDigJxXZWIgIA0KYW5kIE1vYmlsZSBEZXZlbG9wbWVudCBDb21wYW554oCdIGJhc2VkIGluIElu
+ZGlhLiBXZSBhcmUgb25lIHN0b3Agc2hvcCBmb3IgIA0KYWxsIGtpbmQgb2Ygc29mdHdhcmUgZGV2
+ZWxvcG1lbnQgbmVlZHMgYXQgYWZmb3JkYWJsZSBwcmljZSB3aXRob3V0ICANCmNvbXByb21pc2lu
+ZyB3aXRoIHRoZSBxdWFsaXR5IG9mIHRoZSB3b3JrLg0KDQpXZSBvZmZlciBmb2xsb3dpbmcgU2Vy
+dmljZXMgYXQgTXVjaCBMb3dlciBDb3N0Oi0NCg0KMC4gIExvZ28gRGVzaWduaW5nDQoxLiBFLUNv
+bW1lcmNlIFNvbHV0aW9ucyDigJMgTWFnbmV0bywgRUNvbW1lcmNlLCBiaWcgQ29tbWVyY2UsDQoy
+LiBPcGVuIFNvdXJjZSBTb2x1dGlvbnMgLSBXb3JkIFByZXNzLCBXb3JkIFByZXNzIFRoZW1lIGFu
+ZCBKb29tbGEgKyAgDQpWaXJ0dW1hcnQgZXRjDQozLiBDdXN0b21pemUgd2ViIGFwcGxpY2F0aW9u
+IGRldmVsb3BtZW50IGluIG9wZW4gUEhQDQo0LiBQYXltZW50IEdhdGV3YXkgSW50ZWdyYXRpb24g
+LSBQYXkgUGFsLCBFQlMsIEdvb2dsZSBDaGVja291dCwgV29yZCBQYXksICANCk1pbmVycywgU2Fn
+ZSBQYXkgZXRjDQo1LiBEZXNpZ25zIOKAkyBDcmVhdGl2ZSBsYXlvdXRzLCBoaWdoIHF1YWxpdHkg
+Z3JhcGhpYyBkZXNpZ25zIGV0Yy4NCjYuIFBTRCB0byBYaHRtbCBjb252ZXJzaW9uIC0gU0VPIFNl
+bWFudGljLCBXM0MgYW5kIEppZ3NhdyB2YWxpZGF0ZWQgWGh0bWwgIA0KY29udmVyc2lvbiB0byBi
+b29zdCByYW5raW5nIGluIFNlZXMuDQo3LiBBY2Nlc3NpYmlsaXR5IEd1aWRlbGluZXMgMi4wDQoN
+CkkmIzM5O2QgYmUgaGFwcHkgdG8gc2VuZCB5b3Ugb3VyIHBhY2thZ2UsIHByaWNpbmcgYW5kIHBh
+c3Qgd29yayBkZXRhaWxzLCBpZiAgDQp5b3UmIzM5O2QgbGlrZSB0byBhc3Nlc3Mgb3VyIHdvcmsu
+DQoNClBsZWFzZSBsZXQgdXMga25vdyBpbiBjYXNlIHlvdSBhcmUgaW50ZXJlc3RlZC4NCg0KQXdh
+aXRpbmcgeW91ciByZXNwb25zZSBhbmQgbG9va2luZyBmb3J3YXJkIHRvIGEgbG9uZyB0ZXJtIGFz
+c29jaWF0aW9uIHdpdGggIA0KeW91Lg0KDQpUaGFua3MgYW5kIFJlZ2FyZHMsDQpKZW5uaWZlcg0K
+QnVzaW5lc3MgRGV2ZWxvcG1lbnQgRXhlY3V0aXZlDQoNCg0KDQpHb29nbGUgRm9ybXM6IENyZWF0
+ZSBhbmQgYW5hbHl6ZSBzdXJ2ZXlzLg0K
+--001a11419856dea74505636c222e
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><body style=3D"font-family: Roboto,Helvetica,Arial,sans-serif; margin=
+: 0; padding: 0; height: 100%; width: 100%;"><table border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" style=3D"background-color:rgb(103, 58, 183);" wid=
+th=3D"100%" role=3D"presentation"><tbody><tr height=3D"64px"><td style=3D"p=
+adding-left: 24px"><img alt=3D"Google Forms" height=3D"26px" style=3D"displ=
+ay: inline-block; margin: 0; vertical-align: middle;" width=3D"143px" src=
+=3D"https://www.gstatic.com/docs/forms/google_forms_logo_lockup_white_2x.pn=
+g"></td></tr></tbody></table><div style=3D"padding: 24px; background-color:=
+rgb(237, 231, 246)"><div align=3D"center" style=3D"background-color: #fff; =
+border-bottom: 1px solid #e0e0e0; margin: 0 auto; max-width: 624px; min-wid=
+th: 154px; padding: 0 24px;"><table align=3D"center" cellpadding=3D"0" cell=
+spacing=3D"0" style=3D"background-color: #fff;" width=3D"100%" role=3D"pres=
+entation"><tbody><tr height=3D"24px"><td></td></tr><tr><td><span style=3D"d=
+isplay: table-cell; vertical-align: top; font-size: 13px; line-height: 18px=
+; color: #424242;">Hello,<br> <br>Greetings for the day!!<br> <br>I hope yo=
+u are doing well and have time to read my proposal=E2=80=A6<br> <br>My name=
+ is Jennifer, business development professional for a leading =E2=80=9CWeb =
+and Mobile Development Company=E2=80=9D based in India. We are one stop sho=
+p for all kind of software development needs at affordable price without co=
+mpromising with the quality of the work.<br> <br>We offer following Service=
+s at Much Lower Cost:- <br> <br>0.  Logo Designing<br>1. E-Commerce Solutio=
+ns =E2=80=93 Magneto, ECommerce, big Commerce, <br>2. Open Source Solutions=
+ - Word Press, Word Press Theme and Joomla + Virtumart etc<br>3. Customize =
+web application development in open PHP<br>4. Payment Gateway Integration -=
+ Pay Pal, EBS, Google Checkout, Word Pay, Miners, Sage Pay etc<br>5. Design=
+s =E2=80=93 Creative layouts, high quality graphic designs etc.<br>6. PSD t=
+o Xhtml conversion - SEO Semantic, W3C and Jigsaw validated Xhtml conversio=
+n to boost ranking in Sees.<br>7. Accessibility Guidelines 2.0<br> <br>I&#3=
+9;d be happy to send you our package, pricing and past work details, if you=
+&#39;d like to assess our work.<br> <br>Please let us know in case you are =
+interested.<br> <br>Awaiting your response and looking forward to a long te=
+rm association with you.<br> <br>Thanks and Regards,<br>Jennifer<br>Busines=
+s Development Executive<br> <br></span></td></tr><tr height=3D"20px"><td></=
+tr><tr style=3D"font-size: 20px; line-height: 24px;"><td><span style=3D"dis=
+play: table-cell;"><a href=3D"https://docs.google.com/forms/d/e/1FAIpQLSf5e=
+nm3n7VJXAkaR4YkUE1-pRNYwiQBr7hkcnZqTkymPM85Cg/viewform?c=3D0&amp;w=3D1&amp;=
+usp=3Dmail_form_link" style=3D"color: rgb(103, 58, 183); text-decoration: n=
+one; vertical-align: middle; font-weight: 500">Untitled form</a><div itempr=
+op=3D"action" itemscope itemtype=3D"http://schema.org/ViewAction"><meta ite=
+mprop=3D"url" content=3D"https://docs.google.com/forms/d/e/1FAIpQLSf5enm3n7=
+VJXAkaR4YkUE1-pRNYwiQBr7hkcnZqTkymPM85Cg/viewform?c=3D0&amp;w=3D1&amp;usp=
+=3Dmail_goto_form"><meta itemprop=3D"name" content=3D"Fill out form"></div>=
+</span></td></tr><tr height=3D"24px"></tr><tr><td><table border=3D"0" cellp=
+adding=3D"0" cellspacing=3D"0" width=3D"100%"><tbody><tr><td><a href=3D"htt=
+ps://docs.google.com/forms/d/e/1FAIpQLSf5enm3n7VJXAkaR4YkUE1-pRNYwiQBr7hkcn=
+ZqTkymPM85Cg/viewform?c=3D0&amp;w=3D1&amp;usp=3Dmail_form_link" style=3D"bo=
+rder-radius: 3px; box-sizing: border-box; display: inline-block; font-size:=
+ 13px; font-weight: 700; height: 40px; line-height: 40px; padding: 0 24px; =
+text-align: center; text-decoration: none; text-transform: uppercase; verti=
+cal-align: middle; color: #fff; background-color: rgb(103, 58, 183);" targe=
+t=3D"_blank" rel=3D"noopener">Fill out form</a></td></tr></tbody></table></=
+td></tr><tr height=3D"24px"></tr></tbody></table></div><table align=3D"cent=
+er" cellpadding=3D"0" cellspacing=3D"0" style=3D"max-width: 672px; min-widt=
+h: 154px;" width=3D"100%" role=3D"presentation"><tbody><tr height=3D"24px">=
+<td></td></tr><tr><td><a href=3D"https://docs.google.com/forms?usp=3Dmail_f=
+orm_link" style=3D"color: #616161; font-size: 13px;">Create your own Google=
+ Form</a></td></tr></tbody></table></div></body></html>
+--001a11419856dea74505636c222e--

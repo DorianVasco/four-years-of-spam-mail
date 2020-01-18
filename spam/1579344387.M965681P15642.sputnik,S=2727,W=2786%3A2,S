@@ -1,0 +1,59 @@
+Return-Path: <info@karggo.ru>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id D410FC7849
+	for <mail@dorianvasco.de>; Mon,  4 Feb 2019 18:08:10 +0100 (CET)
+Authentication-Results: v22014122474822114.stilfilm.com; dkim=pass
+	reason="2048-bit key; insecure key"
+	header.d=karggo.ru header.i=@karggo.ru header.b=ElxaC4nN;
+	dkim-adsp=pass; dkim-atps=neutral
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 6.648
+X-Spam-Level: ******
+X-Spam-Status: Yes, score=6.648 required=5.5 tests=[DKIM_SIGNED=0.1,
+	DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1, FSL_BULK_SIG=0.641,
+	HTML_MESSAGE=0.001, RAZOR2_CF_RANGE_51_100=2.43, RAZOR2_CHECK=1.729,
+	SPF_HELO_PASS=-0.001, SPF_PASS=-0.001, URIBL_ABUSE_SURBL=1.948,
+	URIBL_BLOCKED=0.001] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id fiNVrK53-fcn for <mail@dorianvasco.de>;
+	Mon,  4 Feb 2019 18:08:08 +0100 (CET)
+Received: from karggo.ru (karggo.ru [77.244.214.114])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 09190C4F72
+	for <mail@dorianvasco.de>; Mon,  4 Feb 2019 18:08:08 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=mail; d=karggo.ru;
+ h=Message-ID:From:To:Subject:Date:MIME-Version:Content-Type;
+ bh=4SHg1s287Q5Emou8TJEWV125mMI=;
+ b=ElxaC4nNP0Swp1FUvpcQ+ydm8LbmB45U56AI5pPLEc/JQHcGJnPpwVk5VZwW+u2qxiGnQQCPptGt
+   cXs3xcCYmUIqqwkJMqAk4rJHMTpBblkFHW0AauYiBJpfMRW+tAqUdVoh5TGLwuGp1Lu0AhWlVaqm
+   9eJ6LDIoClB4sPcUgjyMvSfEd+pioZzMDqxhEn7Z0xoBrLl9k+//hzAROHtGsycbb1558RpiHeCO
+   p6acJxQUGxQb/dQWTb7qNKBYJ0HPMhW+7kiP5eGGBCFHIb+EzYW8idkVHgAk5tnu7OVpujK00VT3
+   ghrQpV+JNK7uXufuu01zNB13jVQsH5CUq9QuKw==
+Message-ID: <82723b88a2c5efe62a2f9935d3d7fde9c9bc1d@karggo.ru>
+From: "Smiley Boy Jewel" <info@karggo.ru>
+To: <mail@dorianvasco.de>
+Subject: HM Habibullah Biddut Gustavo Garcez de Albuquerque
+Date: Mon, 4 Feb 2019 20:06:26 +0300
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="83792f5d1acee102dedb922c08dcee003b4d"
+
+--83792f5d1acee102dedb922c08dcee003b4d
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+=C2=A0Carl Lloyd Saddam Simigumy http://WCDVW.TK
+
+--83792f5d1acee102dedb922c08dcee003b4d
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<HTML><HEAD>
+<META http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+</HEAD>
+<BODY bgColor=3D#ffffff>
+<DIV align=3Dleft>&nbsp;Carl Lloyd Saddam Simigumy=20
+http://WCDVW.TK</DIV></BODY></HTML>
+
+--83792f5d1acee102dedb922c08dcee003b4d--

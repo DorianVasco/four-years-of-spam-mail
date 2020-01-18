@@ -1,0 +1,29 @@
+Return-Path: <infolike2787@tabkhmachine.com>
+Delivered-To: mail@stilfilm.com
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id BFE2BD0F73
+	for <mail@stilfilm.com>; Sun, 28 Oct 2018 08:29:39 +0100 (CET)
+X-Quarantine-ID: <VbkgAJTy8BMu>
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Amavis-Alert: BAD HEADER SECTION, Missing required header field: "Date"
+X-Spam-Flag: YES
+X-Spam-Score: 5.758
+X-Spam-Level: *****
+X-Spam-Status: Yes, score=5.758 required=5.5 tests=[HTML_MESSAGE=0.001,
+	HTML_MIME_NO_HTML_TAG=0.635, MIME_HTML_ONLY=1.105, MISSING_DATE=1.396,
+	MISSING_HEADERS=1.207, MISSING_MID=0.14, RDNS_NONE=1.274] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id VbkgAJTy8BMu for <mail@stilfilm.com>;
+	Sun, 28 Oct 2018 08:29:38 +0100 (CET)
+Received: from tabkhmachine.com (unknown [191.96.249.167])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id BFCE9C2449
+	for <rich@stilfilm.com>; Sun, 28 Oct 2018 08:29:35 +0100 (CET)
+From: "greymore" <infolike2787@tabkhmachine.com>
+Subject: hey hey
+MIME-Version: 1.0
+Content-Type: text/html
+Message-Id: <20181028072939.BFE2BD0F73@v22014122474822114.stilfilm.com>
+Date: Sun, 28 Oct 2018 08:29:39 +0100 (CET)
+
+ 

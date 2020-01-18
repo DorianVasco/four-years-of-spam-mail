@@ -1,0 +1,153 @@
+Return-Path: <MAILER-DAEMON>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 5AA79D3E5D
+	for <mail@dorianvasco.de>; Mon, 20 Mar 2017 08:45:36 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 9.95
+X-Spam-Level: *********
+X-Spam-Status: Yes, score=9.95 required=5.5 tests=[BAYES_50=0.8,
+	DIGEST_MULTIPLE=0.293, HTML_MESSAGE=0.001, PYZOR_CHECK=1.392,
+	RAZOR2_CF_RANGE_51_100=0.5, RAZOR2_CF_RANGE_E8_51_100=1.886,
+	RAZOR2_CHECK=0.922, RCVD_IN_BRBL_LASTEXT=1.449,
+	RCVD_IN_DNSWL_MED=-2.3, T_TVD_MIME_NO_HEADERS=0.01,
+	URIBL_BLOCKED=0.001, URIBL_DBL_ABUSE_SPAM=2, URI_WP_HACKED=2.996]
+	autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.yourvserver.net [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id iVxinBkyAiBc for <mail@dorianvasco.de>;
+	Mon, 20 Mar 2017 08:45:35 +0100 (CET)
+Received: from infngw.infn.it (infngw.infn.it [131.154.1.1])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id EB5DCD3E50
+	for <kontakt@dorianvasco.de>; Mon, 20 Mar 2017 08:45:34 +0100 (CET)
+Received: from localhost (localhost)
+	by infngw.infn.it (8.14.7/8.14.7) id v2K7jX8F006225;
+	Mon, 20 Mar 2017 08:45:33 +0100 (CET)
+	(envelope-from MAILER-DAEMON)
+Date: Mon, 20 Mar 2017 08:45:33 +0100 (CET)
+From: Mail Delivery Subsystem <MAILER-DAEMON@infn.it>
+Message-Id: <201703200745.v2K7jX8F006225@infngw.infn.it>
+To: <kontakt@dorianvasco.de>
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="v2K7jX8F006225.1489995933/infngw.infn.it"
+Subject: ***SPAM*** Returned mail: see transcript for details
+Auto-Submitted: auto-generated (failure)
+
+This is a MIME-encapsulated message
+
+--v2K7jX8F006225.1489995933/infngw.infn.it
+
+The original message was received at Mon, 20 Mar 2017 08:43:12 +0100 (CET)
+from [2.176.143.165]
+
+   ----- The following addresses had permanent fatal errors -----
+<cuomofnn@na.infn.it>
+    (reason: 550 5.1.1 <cuomofnn@na.infn.it>: Recipient address rejected: User unknown in local recipient table)
+
+   ----- Transcript of session follows -----
+... while talking to mx2.na.infn.it.:
+>>> DATA
+<<< 550 5.1.1 <cuomofnn@na.infn.it>: Recipient address rejected: User unknown in local recipient table
+550 5.1.1 <cuomofnn@na.infn.it>... User unknown
+<<< 554 5.5.1 Error: no valid recipients
+
+--v2K7jX8F006225.1489995933/infngw.infn.it
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; infngw.infn.it
+Received-From-MTA: DNS; [2.176.143.165]
+Arrival-Date: Mon, 20 Mar 2017 08:43:12 +0100 (CET)
+
+Final-Recipient: RFC822; cuomofnn@na.infn.it
+Action: failed
+Status: 5.1.1
+Remote-MTA: DNS; mx2.na.infn.it
+Diagnostic-Code: SMTP; 550 5.1.1 <cuomofnn@na.infn.it>: Recipient address rejected: User unknown in local recipient table
+Last-Attempt-Date: Mon, 20 Mar 2017 08:45:33 +0100 (CET)
+
+--v2K7jX8F006225.1489995933/infngw.infn.it
+Content-Type: message/rfc822
+
+Return-Path: <kontakt@dorianvasco.de>
+Received: from [2.176.143.165] ([2.176.143.165])
+	by infngw.infn.it (8.14.7/8.14.7) with ESMTP id v2K7h88F001488
+	for <cuomofnn@na.infn.it>; Mon, 20 Mar 2017 08:43:12 +0100 (CET)
+	(envelope-from kontakt@dorianvasco.de)
+Date: 19 Mar 2017 07:29:47 -1300
+From: <kontakt@dorianvasco.de>
+X-Priority: 3
+Message-ID: <124526394.201703190738@dorianvasco.de>
+To: <cuomofnn@na.infn.it>
+Subject: 
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----------B6D52CDFBA4F264"
+
+------------B6D52CDFBA4F264
+Content-Type: text/plain; charset="cp-850"
+Content-Transfer-Encoding: quoted-printable
+
+Ciao,
+
+Non voglio davvero disturbarti, ma devo condividere con te questo =
+piccolo segreto.
+Il mio pi&#249; caro amico Samuela Salas mi ha chiesto di condividere il =
+suo video.
+Tutti coloro che hanno visto quel video e hanno seguito le sue =
+istruzioni hanno iniziato a=20
+guadagnare circa 2.800 al giorno.
+
+Mica male, vero?
+
+ >> Guarda il suo video ora e garantisciti il tuo posto prima degli =
+altri.=20
+
+S&#236;, questo &#232; l'unico problema... il numero di posti &#232; =
+limitato.
+Ma ci&#242; non dovrebbe preoccuparti pi&#249; di tanto visto che ti =
+basta cliccare su=20
+>> questo link  per assicurati il tuo posto su Pattern Trader.
+
+Buona fortuna!
+------------B6D52CDFBA4F264
+Content-Type: text/html; charset="cp-850"
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><title></title>
+<META http-equiv=3DContent-Type content=3D"text/html; charset=3Dcp-850">
+</head>
+<body>
+Ciao,<br>
+<br>
+Non voglio davvero disturbarti, ma devo condividere con te questo =
+piccolo segreto.<br>
+Il mio pi&#249; caro amico Samuela Salas mi ha chiesto di condividere il =
+suo video.<br>
+Tutti coloro che hanno visto quel video e hanno seguito le sue =
+istruzioni hanno iniziato a <b>guadagnare circa 2.800 al giorno.</b><br>
+<br>
+Mica male, vero?<br>
+<b> >> <a =
+href=3D"http://semillastodoterreno.com/wp-content/uploads/2015/ad3d873943=
+.html">Guarda il suo video ora </a><< </b>e garantisciti il tuo posto =
+prima degli altri. <br>
+<br>
+S&#236;, questo &#232; l'unico problema... il numero di posti &#232; =
+limitato.<br>
+Ma ci&#242; non dovrebbe preoccuparti pi&#249; di tanto visto che ti =
+basta cliccare su <b>>> <a =
+href=3D"http://semillastodoterreno.com/wp-content/uploads/2015/ad3d873943=
+.html">questo link</a> << </b> per assicurati il tuo posto su Pattern =
+Trader.<br>
+<br>
+Buona fortuna!</body>
+------------B6D52CDFBA4F264--
+
+
+
+--v2K7jX8F006225.1489995933/infngw.infn.it--
+

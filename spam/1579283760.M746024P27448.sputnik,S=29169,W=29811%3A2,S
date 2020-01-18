@@ -1,0 +1,642 @@
+Return-Path: <return-a444-63414-63415-589bf19f=199990483=8@pixel-promarketing.de>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 7572AC4278
+	for <mail@dorianvasco.de>; Mon, 21 Oct 2019 17:19:34 +0200 (CEST)
+Authentication-Results: v22014122474822114.stilfilm.com; dkim=pass
+	reason="1024-bit key; insecure key"
+	header.d=pixel-promarketing.de header.i=@pixel-promarketing.de
+	header.b=PsoRnpTM; dkim-adsp=pass; dkim-atps=neutral
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: 1.902
+X-Spam-Level: *
+X-Spam-Status: No, score=1.902 required=5.5 tests=[BAYES_80=2,
+	DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	HTML_FONT_LOW_CONTRAST=0.001, HTML_MESSAGE=0.001]
+	autolearn=no autolearn_force=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id ZoD5lbUGBX2k for <mail@dorianvasco.de>;
+	Mon, 21 Oct 2019 17:19:30 +0200 (CEST)
+Received: from smtp7-125.newsletter-pixelpro.de (smtp7-125.newsletter-pixelpro.de [193.70.52.211])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id 5B69FC08A2
+	for <kontakt@dorianvasco.de>; Mon, 21 Oct 2019 17:19:27 +0200 (CEST)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; d=pixel-promarketing.de; s=ppm;
+ t=1571671164; bh=1rLrj/Lpi5br/XX1x9B1clRjmyE=;
+ h=Subject:From:To:Reply-To:Date:List-Unsubscribe:X-CampaignID:
+  Message-ID:X-Mailer-Info:MIME-Version:Content-Type;
+ b=PsoRnpTMqGx4oXASP+1bHVfFstgr9EEDUrSaZgd/IW/ewllDPaNK3q55r7uV/S/bb
+  8HLqHHWBXYLBKlp4FsLdxuaZOQ8/EaordtrsLRy3CwXHwMcgPIDFN7I/Nhiva95NQZ
+  aswzc04BNzJwVehCeQL7clZ/TXlBMv1AUrayjJWA=
+Subject: =?UTF-8?Q?=E2=98=85=20Top=2DQuoten=20zur=20K=C3=B6nigsklas?=
+ =?UTF-8?Q?se=20=E2=98=85?=
+From: =?UTF-8?B?RXJsZWJlIEZ1w59iYWxsIOKAkyBUaXBpY28=?= <mail@pixel-promarketing.de>
+To: kontakt@dorianvasco.de
+Reply-To: noreply@pixel-promarketing.de
+Date: 21 Oct 2019 15:19:24 -0000
+List-Unsubscribe: <http://pixel-promarketing.de/ga/unsubscribe/2-199990483-444-23548-63415-e04939885d24e4c-a47791fc8e?confirmed=1>,
+ <mailto:return-a444-63414-63415-589bf19f=199990483=8u@pixel-promarketing.de>
+X-CampaignID: s4:63414-55c4957441a46e5f
+Message-ID: <mid-e50d93b8991d9ea7914b4d2d6988eacc-33@pixel-promarketing.de>
+X-Mailer-Info: 8.QY0QDN.YzM0EDN.wav5GdhtGdAR2bylWYuZXYzN2buQWZ.xkTO5kDM0gzM.YzM0ETN
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="==a5d913e57a845483bd71298baeb48804"
+
+This is a multi-part message in MIME format.
+
+--==a5d913e57a845483bd71298baeb48804
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Jetzt Ihr Willkommens-Geschenk abholen
+
+Sollte Ihr Newsletter nicht korrekt dargestellt werden,
+klicken Sie bitte hier. ( http://pixel-promarketing.de/ga/webviews/4-199990=
+483-444-23548-25985-63415-e61522a0d2 )
+
+tipico ( http://pixel-promarketing.de/ga/click/2-199990483-444-23548-63415-=
+1911561-1f6b9e0b1b-a47791fc8e )
+
+Noch nicht bei Tipico?
+
+Dann gibt=E2=80=99s bis zu 100 =E2=82=AC geschenkt! ( http://pixel-promarke=
+ting.de/ga/click/2-199990483-444-23548-63415-1911561-1f6b9e0b1b-a47791fc8e )
+
+Exklusiv f=C3=BCr Neukunden. Streng
+limitiertes Angebot. ( http://pixel-promarketing.de/ga/click/2-199990483-44=
+4-23548-63415-1911561-1f6b9e0b1b-a47791fc8e )
+
+Jetzt Bonus sichern! ( http://pixel-promarketing.de/ga/click/2-199990483-44=
+4-23548-63415-1911561-1f6b9e0b1b-a47791fc8e )
+
+Warum Tipico?
+
+=E2=80=A2
+
+100 =E2=82=AC Neukundenbonus. Tipico
+verdoppelt Ihre erste Einzahlung bis zu 100 =E2=82=AC! Zahlen Sie
+beispielsweise 50 =E2=82=AC ein, schenkt Ihnen Tipico weitere 50 =E2=82=AC.
+
+=E2=80=A2
+
+5% mehr Gewinn. Holen Sie
+sich mehr Spannung und maximalen Gewinn. Denn bei Tipico.de
+zahlen Sie keine Wettgeb=C3=BChr!
+
+=E2=80=A2
+
+In sicheren H=C3=A4nden. Mehr als
+zwei Millionen Kunden vertrauen bereits heute Tipico. Ihre Spiel-
+und Kundendaten sind beim gr=C3=B6=C3=9Ften Sportwettenanbieter
+Deutschlands absolut sicher. Seit 2012 ist der Datenschutz von
+Tipico T=C3=9CV-zertifiziert.
+
+Jetzt registrieren und
+100 =E2=82=AC Bonus sichern! ( http://pixel-promarketing.de/ga/click/2-1999=
+90483-444-23548-63415-1911562-0d4ea00118-a47791fc8e )
+
+Es gelten die Bonusbedingungen ( http://pixel-promarketing.de/ga/click/2-19=
+9990483-444-23548-63415-1911563-ae2ef6833c-a47791fc8e ) f=C3=BCr Sportwette=
+n.
+
+Warum erhalte ich diese Nachricht?
+
+Sie erhalten diese Nachricht, da Sie an
+einem Angebot (zum Beispiel an einem Gewinnspiel einer
+Tageszeitung) teilgenommen haben.
+Dieses Angebot richtet sich nur an
+Neukunden von Tipico. Wenn Sie bereits Kunde von Tipico sind,
+ignorieren Sie diese E-Mail bitte.
+Es handelt sich bei dieser E-Mail nicht
+um den regul=C3=A4ren Newsletter von Tipico. Falls Sie diese E-Mail
+nicht mehr erhalten wollen,
+k=C3=B6nnen Sie sich nur unten in dieser
+E-Mail davon abmelden.
+
+mga
+
+18+
+
+Copyright =C2=A9
+Tipico Co. Ltd. Portomaso Business Tower
+St. Julians STJ 4011 Malta
+
+Gl=C3=BCcksspiel
+kann s=C3=BCchtig machen.
+
+Das Angebot ist eine kommerzielle Anzeige dieses Werbekunden,
+der allein f=C3=BCr den Inhalt verantwortlich ist.
+
+Verantwortlich f=C3=BCr den Versand der E-Mail ist:
+Ein Service von Pixel ProMarketing S.L. | Str Azor n5
+Mijas-Costa | E-29651 M=C3=A1laga
+
+Ihre Daten sind lediglich bei dem Versender gespeichert. Der
+Werbekunde hat daher keinen Einfluss auf dem Empf=C3=A4ngerkreis der
+E-Mail.
+Sofern Sie k=C3=BCnftig keinen Newsletter mehr erhalten m=C3=B6chten,
+wenden Sie sich bitte direkt an den Versender oder klicken auf
+folgenden Link: Abmelden ( http://pixel-promarketing.de/ga/unsubscribe/2-19=
+9990483-444-23548-63415-e04939885d24e4c-a47791fc8e )
+
+Haben Sie Verst=C3=A4ndnis, dass die Abmeldung bis zu 48 Stunden
+dauern kann. Direkte Antworten an die Absenderadresse k=C3=B6nnen
+nicht beantwortet werden.
+
+support(at)pixelpromarketing.com ( support@pixelpromarketing.com
+)
+Ihre Daten sind lediglich bei dem Versender gespeichert. Der
+Werbekunde hat daher keinen Einfluss auf den Empf=C3=A4ngerkreis der
+E-Mail.
+
+.=
+
+--==a5d913e57a845483bd71298baeb48804
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.=
+w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1.=
+0">
+
+    <meta name=3D"format-detection" content=3D"telephone=3Dno">
+    <meta name=3D"format-detection" content=3D"date=3Dno">
+    <meta name=3D"format-detection" content=3D"address=3Dno">
+    <meta name=3D"format-detection" content=3D"email=3Dno">
+
+    <title>100 Euro Bonus sichern</title>
+</head>
+<body style=3D"margin:0; height:100%; width:100%;"><!--Preheader--><table c=
+ellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"padding:0px;margin=
+:0px;width:100%;display:none;"><tr><td style=3D"padding:0px;margin:0px;font=
+-size:1px;line-height:1px;height:1px;text-align: left;background-color: #ff=
+ffff;" height=3D"1"><font color=3D"#ffffff">Jetzt Ihr Willkommens-Geschenk =
+abholen </font></td></tr></table>
+
+<style>
+    table{
+        border-collapse: collapse !important;
+    }
+
+    td{
+        border-collapse: collapse !important;
+    }
+
+   .greylink a:link  { color: #222222 !important; text-decoration:none !imp=
+ortant;}
+   .greylink a:visited { color: #222222 !important; text-decoration:none !i=
+mportant;}
+   .greylink a:focus   { color: #222222 !important; text-decoration:none !i=
+mportant;}
+   .greylink a:hover   { color: #222222 !important; text-decoration:none !i=
+mportant;}
+
+   .whitelink a:link  { color: #ffffff !important; text-decoration:none !im=
+portant;}
+   .whitelink a:visited { color: #ffffff !important; text-decoration:none !=
+important;}
+   .whitelink a:focus   { color: #ffffff !important; text-decoration:none !=
+important;}
+   .whitelink a:hover   { color: #ffffff !important; text-decoration:none !=
+important;}
+
+   .redlink a:link  { color: #C8102E !important; text-decoration:none !impo=
+rtant;}
+   .redlink a:visited { color: #C8102E !important; text-decoration:none !im=
+portant;}
+   .redlink a:focus   { color: #C8102E !important; text-decoration:none !im=
+portant;}
+   .redlink a:hover   { color: #C8102E !important; text-decoration:none !im=
+portant;}
+
+=20=20=20
+   .darklink a:link  { color: #666666 !important; text-decoration:none !imp=
+ortant;}
+   .darklink a:visited { color: #666666 !important; text-decoration:none !i=
+mportant;}
+   .darklink a:focus   { color: #666666 !important; text-decoration:none !i=
+mportant;}
+   .darklink a:hover   { color: #666666 !important; text-decoration:none !i=
+mportant;}
+
+
+@media only screen and (max-width: 620px) {
+
+    .mobile12{
+        font-size: 12px !important;
+    }
+
+    .mobile14{
+        font-size: 14px !important;
+    }
+
+    .mobile16{
+        font-size: 16px !important;
+    }
+
+    .mobile18{
+        font-size: 18px !important;
+    }
+
+    .mobile20{
+        font-size: 20px !important;
+    }
+
+    .mobile26{
+        font-size: 26px !important;
+    }
+
+    .mobile30{
+        font-size: 30px !important;
+    }
+
+    .mobiletable{
+        width: 100% !important;
+        max-width: 100% !important;
+    }
+
+}
+
+</style>
+<center>
+<span style=3D"font-size: 10px; line-height: 12px; color: #000000; font-fam=
+ily: 'Century Gothic', Tahoma, sans-serif;">Sollte Ihr Newsletter nicht kor=
+rekt dargestellt werden,<br /><a style=3D"color: #000000; text-decoration: =
+underline; font-weight: bold;" href=3D"http://pixel-promarketing.de/ga/webv=
+iews/4-199990483-444-23548-25985-63415-e61522a0d2" target=3D"_blank">klicke=
+n Sie bitte hier.</a></span>
+</center>
+<!-- CONTENT -->
+<table bgcolor=3D"#C8102E" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"=
+ style=3D"width:100%;border-collapse:collapse;">
+    <tr>
+        <td bgcolor=3D"#C8102E">&nbsp;</td>
+        <td width=3D"600" bgcolor=3D"#C8102E" style=3D"font-family: Arial, =
+Helvetica, sans-serif; border-collapse:collapse;"><center>
+            <table bgcolor=3D"#C8102E" align=3D"center" cellpadding=3D"0" c=
+ellspacing=3D"0" border=3D"0" style=3D"width:100%;border-collapse: collapse=
+;">
+                <tr>
+                    <td class=3D"greylink" bgcolor=3D"#ffffff" style=3D"col=
+or: #222222; font-family: Arial, Helvetica, sans-serif; font-size: 16px; bo=
+rder-collapse: collapse; text-align: center;">
+                        <a style=3D"text-decoration: none !important; color=
+: #222222 !important;" href=3D"http://pixel-promarketing.de/ga/click/2-1999=
+90483-444-23548-63415-1911561-1f6b9e0b1b-a47791fc8e" target=3D"_blank" titl=
+e=3D"" ><img src=3D"https://s3.eu-central-1.amazonaws.com/newsletter-e2/her=
+o_img_bonus_desktop.jpg" alt=3D"tipico" style=3D"width: 100%; max-width: 60=
+0px; min-width: 150px; height: auto; max-height: 276px; min-height: 69px; d=
+isplay: block; color: #222222; font-size: 26px; font-weight: bold;" width=
+=3D"600" height=3D"276"></a>
+                    </td>
+                </tr>
+                <tr>
+                    <td class=3D"whitelink" bgcolor=3D"#C8102E" style=3D"co=
+lor: #ffffff; padding:20px 10px 0px 10px; font-family: Arial, Helvetica, sa=
+ns-serif; font-size: 26px; text-align: left; line-height: 140%;">
+                            <a style=3D"text-decoration: none !important; c=
+olor: #ffffff !important;" href=3D"http://pixel-promarketing.de/ga/click/2-=
+199990483-444-23548-63415-1911561-1f6b9e0b1b-a47791fc8e" target=3D"_blank" =
+title=3D"" >
+                            Noch nicht bei Tipico?<br>
+                            Dann gibt=E2=80=99s bis zu 100&nbsp;&#8364; ges=
+chenkt!</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td class=3D"whitelink" bgcolor=3D"#C8102E" style=3D"co=
+lor: #ffffff; padding:10px 10px 20px 10px; font-family: Arial, Helvetica, s=
+ans-serif; font-size: 14px; text-align: left; line-height: 140%;">
+                        <a style=3D"text-decoration: none !important; color=
+: #ffffff !important;" href=3D"http://pixel-promarketing.de/ga/click/2-1999=
+90483-444-23548-63415-1911561-1f6b9e0b1b-a47791fc8e" target=3D"_blank" titl=
+e=3D"">Exklusiv f=C3=BCr Neukunden. Streng limitiertes Angebot. </a>
+                    </td>
+                </tr>
+                <tr>
+                    <td bgcolor=3D"#C8102E" style=3D"color: #ffffff; paddin=
+g:10px 10px 20px 10px; font-family: Arial, Helvetica, sans-serif; font-size=
+: 16px; text-align: center;">
+                        <table bgcolor=3D"#C8102E" align=3D"center" cellpad=
+ding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"border-collapse: collaps=
+e;" >
+                            <tr>
+                                <td class=3D"redlink" align=3D"center" styl=
+e=3D"-webkit-border-radius: 0px; -moz-border-radius: 0px; border-radius: 0p=
+x;" bgcolor=3D"#ffffff">
+                                    <a href=3D"http://pixel-promarketing.de=
+/ga/click/2-199990483-444-23548-63415-1911561-1f6b9e0b1b-a47791fc8e" target=
+=3D"_blank" title=3D"" style=3D"font-size: 16px; font-family: Arial, Helvet=
+ica, sans-serif; color: #C8102E; text-decoration: none; -webkit-border-radi=
+us: 0px; -moz-border-radius: 0px; border-radius: 0px; padding: 10px 10px; b=
+order-left: 1px solid #ffffff; border-top: 1px solid #ffffff; border-right:=
+ 1px solid #ffffff; border-bottom: 1x solid #ffffff; display: inline-block;=
+ text-transform: uppercase;"><font color=3D"#9A1915">&nbsp;Jetzt&nbsp;Bonus=
+&nbsp;sichern!</font></a>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+
+            </table>
+        </center></td>
+        <td bgcolor=3D"#C8102E">&nbsp;</td>
+    </tr>
+</table>
+<!-- END CONTENT -->
+
+<!-- CONTENT -->
+<table bgcolor=3D"#F5F5F5" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"=
+ style=3D"width:100%;border-collapse:collapse;">
+    <tr>
+        <td bgcolor=3D"#F5F5F5">&nbsp;</td>
+        <td width=3D"600" bgcolor=3D"#F5F5F5" style=3D"font-family: Arial, =
+Helvetica, sans-serif; border-collapse:collapse;"><center>
+            <table bgcolor=3D"#F5F5F5" align=3D"center" cellpadding=3D"0" c=
+ellspacing=3D"0" border=3D"0" style=3D"width:100%;border-collapse: collapse=
+;">
+                <tr>
+                    <td bgcolor=3D"#F5F5F5" style=3D"color: #222222; paddin=
+g:30px 10px 10px 10px; font-family: Arial, Helvetica, sans-serif; font-size=
+: 20px; text-align: left; line-height: 140%;">
+                        <span class=3D"mobile18">
+                            Warum Tipico?
+                        </span>
+                    </td>
+                </tr>
+                <tr>
+                    <td class=3D"greylink" bgcolor=3D"#F5F5F5" style=3D"col=
+or: #222222; padding:0px 10px 30px 10px; font-family: Arial, Helvetica, san=
+s-serif; font-size: 16px; text-align: left; line-height: 120%;">
+                        <table align=3D"center" cellpadding=3D"0" cellspaci=
+ng=3D"0" border=3D"0">
+                            <tr>
+                                <td width=3D"12" bgcolor=3D"#F5F5F5" valign=
+=3D"top" style=3D"padding: 5px 20px 20px 0px; vertical-align: top; color: #=
+222222; font-family: Arial, Helvetica, sans-serif; font-size: 16px; text-al=
+ign: left;">
+                                    <img src=3D"https://s3.eu-central-1.ama=
+zonaws.com/newsletter-e2/arrow.png" alt=3D"=E2=80=A2" style=3D"width: 12px;=
+ max-width: 12px; min-width: 12px; height: 12px; max-height: 12px; min-heig=
+ht: 12px; display: block; color: #222222; font-size: 16px;">
+                                </td>
+                                <td bgcolor=3D"#F5F5F5" valign=3D"top" styl=
+e=3D"padding: 0px 10px 20px 10px; color: #222222; font-family: Arial, Helve=
+tica, sans-serif; font-size: 14px; text-align: left; vertical-align: top;">
+                                    <b>100&nbsp;&#8364; Neukundenbonus.</b>=
+ Tipico verdoppelt Ihre erste Einzahlung bis zu 100&nbsp;&#8364;! Zahlen Si=
+e beispielsweise 50&nbsp;&#8364; ein, schenkt Ihnen Tipico weitere 50&nbsp;=
+&#8364;.
+                                </td>
+                            </tr>
+                            <tr>
+                                <td width=3D"12" bgcolor=3D"#F5F5F5" valign=
+=3D"top" style=3D"padding: 5px 20px 20px 0px; vertical-align: top; color: #=
+222222; font-family: Arial, Helvetica, sans-serif; font-size: 16px; text-al=
+ign: left;">
+                                    <img src=3D"https://s3.eu-central-1.ama=
+zonaws.com/newsletter-e2/arrow.png" alt=3D"=E2=80=A2" style=3D"width: 12px;=
+ max-width: 12px; min-width: 12px; height: 12px; max-height: 12px; min-heig=
+ht: 12px; display: block; color: #222222; font-size: 16px;">
+                                </td>
+                                <td bgcolor=3D"#F5F5F5" valign=3D"top" styl=
+e=3D"padding: 0px 10px 20px 10px; color: #222222; font-family: Arial, Helve=
+tica, sans-serif; font-size: 14px; text-align: left; vertical-align: top;">
+                                    <b>5% mehr Gewinn.</b> Holen Sie sich m=
+ehr Spannung und maximalen Gewinn. Denn bei Tipico.de zahlen Sie keine&nbsp=
+;Wettgeb=C3=BChr!
+                                </td>
+                            </tr>
+                            <tr>
+                                <td width=3D"12" bgcolor=3D"#F5F5F5" valign=
+=3D"top" style=3D"padding: 5px 20px 10px 0px; vertical-align: top; color: #=
+222222; font-family: Arial, Helvetica, sans-serif; font-size: 16px; text-al=
+ign: left;">
+                                    <img src=3D"https://s3.eu-central-1.ama=
+zonaws.com/newsletter-e2/arrow.png" alt=3D"=E2=80=A2" style=3D"width: 12px;=
+ max-width: 12px; min-width: 12px; height: 12px; max-height: 12px; min-heig=
+ht: 12px; display: block; color: #222222; font-size: 16px; vertical-align: =
+top;">
+                                </td>
+                                <td bgcolor=3D"#F5F5F5" valign=3D"top" styl=
+e=3D"padding: 0px 10px 10px 10px; color: #222222; font-family: Arial, Helve=
+tica, sans-serif; font-size: 14px; text-align: left; vertical-align: top;">
+                                    <b>In sicheren H=C3=A4nden.</b> Mehr al=
+s zwei Millionen Kunden vertrauen bereits heute Tipico. Ihre Spiel- und Kun=
+dendaten sind beim gr=C3=B6=C3=9Ften Sportwettenanbieter Deutschlands absol=
+ut sicher. Seit 2012 ist der Datenschutz von Tipico T=C3=9CV-zertifiziert.
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td bgcolor=3D"#F5F5F5" style=3D"color: #C8102E; paddin=
+g:0px 10px 10px 10px; font-family: Arial, Helvetica, sans-serif; font-size:=
+ 16px; text-align: center;">
+                        <table bgcolor=3D"#F5F5F5" align=3D"center" cellpad=
+ding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"border-collapse: collaps=
+e;" >
+                            <tr>
+                                <td class=3D"whitelink" align=3D"center" st=
+yle=3D"-webkit-border-radius: 0px; -moz-border-radius: 0px; border-radius: =
+0px; text-transform: uppercase;" bgcolor=3D"#C8102E">
+                                    <a href=3D"http://pixel-promarketing.de=
+/ga/click/2-199990483-444-23548-63415-1911562-0d4ea00118-a47791fc8e" target=
+=3D"_blank" title=3D"" style=3D"font-size: 16px; font-family: Arial, Helvet=
+ica, sans-serif; color: #ffffff; text-decoration: none; -webkit-border-radi=
+us: 0px; -moz-border-radius: 0px; border-radius: 0px; padding: 10px 10px; b=
+order-left: 1px solid #C8102E; border-top: 1px solid #C8102E; border-right:=
+ 1px solid #C8102E; border-bottom: 1x solid #C8102E; display: inline-block;=
+ text-transform: uppercase;"><font color=3D"#ffffff">&nbsp;Jetzt&nbsp;regis=
+trieren und 100&nbsp;&#8364;&nbsp;Bonus&nbsp;sichern!</font></a>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td class=3D"darklink" bgcolor=3D"#F5F5F5" style=3D"col=
+or: #222222; padding:0px 10px 20px 10px; font-family: Arial, Helvetica, san=
+s-serif; font-size: 11px; text-align: center; line-height: 120%;">
+                        Es gelten die <a style=3D"text-decoration: none !im=
+portant; color: #666666 !important;" href=3D"http://pixel-promarketing.de/g=
+a/click/2-199990483-444-23548-63415-1911563-ae2ef6833c-a47791fc8e" target=
+=3D"_blank" title=3D""><u><font color=3D"#666666">Bonusbedingungen</font></=
+u></a> f=C3=BCr Sportwetten.
+                    </td>
+                </tr>
+
+            </table>
+        </center></td>
+        <td bgcolor=3D"#F5F5F5">&nbsp;</td>
+    </tr>
+</table>
+<!-- END CONTENT -->
+
+<!-- CONTENT -->
+<table bgcolor=3D"#EBEBEB" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"=
+ style=3D"width:100%;border-collapse:collapse; border-top: 1px solid #39393=
+9;">
+    <tr>
+        <td bgcolor=3D"#EBEBEB">&nbsp;</td>
+        <td width=3D"600" bgcolor=3D"#EBEBEB" style=3D"font-family: Arial, =
+Helvetica, sans-serif; border-collapse:collapse;"><center>
+            <table bgcolor=3D"#EBEBEB" align=3D"center" cellpadding=3D"0" c=
+ellspacing=3D"0" border=3D"0" style=3D"width:100%;border-collapse: collapse=
+;">
+                <tr>
+                    <td bgcolor=3D"#EBEBEB" style=3D"color: #222222; paddin=
+g:30px 10px 0px 10px; font-family: Arial, Helvetica, sans-serif; font-size:=
+ 20px; text-align: left; line-height: 140%;">
+                        <span class=3D"mobile18">
+                            Warum erhalte ich diese Nachricht?
+                        </span>
+                    </td>
+                </tr>
+                <tr>
+                    <td bgcolor=3D"#EBEBEB" style=3D"color: #222222; paddin=
+g:10px 10px 30px 10px; font-family: Arial, Helvetica, sans-serif; font-size=
+: 14px; text-align: left; line-height: 140%;">
+                        Sie erhalten diese Nachricht, da Sie an einem Angeb=
+ot (zum Beispiel an einem Gewinnspiel einer Tageszeitung) teilgenommen habe=
+n.
+                        Dieses Angebot richtet sich nur an Neukunden von Ti=
+pico. Wenn Sie bereits Kunde von Tipico sind, ignorieren Sie diese E-Mail b=
+itte.
+                        Es handelt sich bei dieser E-Mail <b>nicht</b> um d=
+en regul=C3=A4ren Newsletter von Tipico. Falls Sie diese E-Mail nicht mehr =
+erhalten wollen,
+                        k=C3=B6nnen Sie sich <b>nur unten</b> in dieser E-M=
+ail davon abmelden.
+                    </td>
+                </tr>
+                <tr>
+                    <td align=3D"center" style=3D"background-color: #EBEBEB=
+; text-align: center; font-size: 0px; border-collapse: collapse;">
+                        <table style=3D"border-collapse: collapse; backgrou=
+nd-color: #EBEBEB;" width=3D"100%" border=3D"0" cellspacing=3D"0" cellpaddi=
+ng=3D"0" align=3D"center">
+                            <tr>
+                                <td>
+                                    <!--[IF mso]><center><table cellpadding=
+=3D"0" cellspacing=3D"0" border=3D"0" width=3D"600" bgcolor=3D"#EBEBEB"><tr=
+><td width=3D"160"><![ENDIF]-->
+                                    <center>
+                                    <div class=3D"mobiletable" style=3D"wid=
+th: 160px; max-width: 160px; display: inline-block; vertical-align: top; bo=
+rder-collapse: collapse;">
+                                        <table align=3D"center" style=3D"bo=
+rder-spacing: 0px; border-collapse: collapse; background-color: #ffffff;" w=
+idth=3D"160">
+                                            <tr>
+                                                <td class=3D"greylink" bgco=
+lor=3D"#EBEBEB" style=3D"padding-bottom: 10px; color: #222222; font-family:=
+ Arial, Helvetica, sans-serif; font-size: 16px; border-collapse: collapse; =
+text-align: center;" height=3D"32">
+                                                    <img src=3D"https://s3.=
+eu-central-1.amazonaws.com/newsletter-e2/mga_logo.png" alt=3D"mga" style=3D=
+"width: 45px; max-width: 45px; min-width: 45px; height: 18px; max-height: 1=
+8px; min-height: 18px; display: inline-block; color: #222222; font-size: 16=
+px;" width=3D"45" height=3D"18">
+                                                </td>
+                                                <td class=3D"greylink" bgco=
+lor=3D"#EBEBEB" style=3D"padding-bottom: 10px; color: #222222; font-family:=
+ Arial, Helvetica, sans-serif; font-size: 16px; border-collapse: collapse; =
+text-align: center;" height=3D"32">
+                                                    <img src=3D"https://s3.=
+eu-central-1.amazonaws.com/newsletter-e2/18-plus.png" alt=3D"18+" style=3D"=
+width: 32px; max-width: 32px; min-width: 32px; height: 32px; max-height: 32=
+px; min-height: 32px; display: inline-block; color: #222222; font-size: 16p=
+x;" width=3D"32" height=3D"32">
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </div>
+                                    <!--[IF mso]></td><td width=3D"430"><![=
+ENDIF]-->
+                                    <div class=3D"mobiletable" style=3D"wid=
+th: 100%; max-width: 430px; display: inline-block; vertical-align: top; bor=
+der-collapse: collapse;">
+                                        <table align=3D"center" style=3D"bo=
+rder-spacing: 0px; border-collapse: collapse; background-color: #EBEBEB;">
+                                            <tr>
+                                                <td height=3D"32" bgcolor=
+=3D"#EBEBEB" valign=3D"middle" style=3D"vertical-align: middle; color: #666=
+666; font-family: Arial, Helvetica, sans-serif; font-size: 11px; border-col=
+lapse: collapse; text-align: left;">
+                                                    Copyright =C2=A9 Tipico=
+ Co. Ltd.&nbsp;Portomaso&nbsp;Business&nbsp;Tower St.&nbsp;Julians&nbsp;STJ=
+&nbsp;4011&nbsp;Malta<br>
+                                                    Gl=C3=BCcksspiel kann s=
+=C3=BCchtig machen.
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </div>
+                                    </center>
+                                    <!--[IF mso]></td></tr></table></center=
+><![ENDIF]-->
+                                </td>
+                            </tr>=20=20
+                        </table>
+                    </td>
+                </tr>
+            </table>
+        </center></td>
+        <td bgcolor=3D"#EBEBEB">&nbsp;</td>
+    </tr>
+</table>
+<p align=3D"center">
+
+  <span style=3D"color: #808080; font-size: 12px;">Das Angebot ist eine kom=
+merzielle Anzeige dieses Werbekunden, der allein f&#252;r den Inhalt verant=
+wortlich ist.<br /></span><br /><span style=3D"color: #808080;font-size: 12=
+px;"> Verantwortlich f&#252;r den Versand der E-Mail ist:<br /> <span style=
+=3D"color: #808080;font-size: 12px;"> Ein Service von Pixel ProMarketing S.=
+L. &#160;&#160;|&#160;&#160; Str Azor n5 Mijas-Costa &#160;&#160;|&#160;&#1=
+60; E-29651 M&#225;laga</span><br /><br /> <span style=3D"color: #808080;fo=
+nt-size: 12px;"> Ihre Daten sind lediglich bei dem Versender gespeichert. D=
+er Werbekunde hat daher keinen Einfluss auf dem Empf&#228;ngerkreis der E-M=
+ail. </span><br /> Sofern Sie k&#252;nftig keinen Newsletter mehr erhalten =
+m&#246;chten, wenden Sie sich bitte direkt an den Versender oder klicken au=
+f folgenden Link: <a style=3D"font-weight: normal; text-decoration: underli=
+ne; color: #808080;" href=3D"http://pixel-promarketing.de/ga/unsubscribe/2-=
+199990483-444-23548-63415-e04939885d24e4c-a47791fc8e"> Abmelden</a> <br /> =
+</span><span style=3D"color: #808080;font-size: 12px;"><br />Haben Sie Vers=
+t&#228;ndnis, dass die Abmeldung bis zu 48 Stunden dauern kann. Direkte Ant=
+worten an die Absenderadresse k&#246;nnen nicht beantwortet werden. </span>=
+</p>
+<center><span style=3D"color: #808080;"><span style=3D"color: #808080; font=
+-size: 12px;"> <a style=3D"font-weight: normal; text-decoration: underline;=
+ color: #808080; text-align: center;" href=3D"mailto:support@pixelpromarket=
+ing.com">support(at)pixelpromarketing.com</a></span></span>
+<p><span style=3D"color: #808080;font-size: 12px;">Ihre Daten sind lediglic=
+h bei dem Versender gespeichert. Der Werbekunde hat daher keinen Einfluss a=
+uf den Empf&#228;ngerkreis der E-Mail.</span>
+=20=20
+</p>
+</center>
+
+<!-- END CONTENT -->
+
+<!-- zaehl pixel -->
+   <img src=3D"https://track.adform.net/adfserve/?bn=3D24239464;1x1inv=3D1;=
+srctype=3D3;ord=3D[timestamp]" border=3D"0" width=3D"1" height=3D"1"/>
+<img src=3D"https://www.p2tl.com/u0hxHkoP2TV.gif" width=3D"1" height=3D"1" =
+alt=3D"." style=3D"display: inline;"/>
+<img src=3D"http://pixel-promarketing.de/ga/open/2-199990483-444-23548-6341=
+5-a47791fc8e" height=3D"2" width=3D"3" alt=3D""></body>
+</html>
+
+--==a5d913e57a845483bd71298baeb48804--

@@ -1,0 +1,78 @@
+Return-Path: <ingeburg10rgwjespitznogle@asyillpg.com>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 76F5BC20DC
+	for <mail@dorianvasco.de>; Fri, 29 Dec 2017 17:08:18 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 14.885
+X-Spam-Level: **************
+X-Spam-Status: Yes, score=14.885 required=5.5 tests=[DIGEST_MULTIPLE=0.001,
+	DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	FSL_BULK_SIG=0.001, HTML_IMAGE_ONLY_20=0.7, HTML_MESSAGE=0.001,
+	HTML_SHORT_LINK_IMG_3=0.328, MIME_HTML_ONLY=1.105, PYZOR_CHECK=1.985,
+	RAZOR2_CF_RANGE_51_100=2.43, RAZOR2_CHECK=1.729, RDNS_NONE=1.274,
+	SPF_SOFTFAIL=0.972, T_REMOTE_IMAGE=0.01, URIBL_ABUSE_SURBL=1.948,
+	URIBL_BLOCKED=0.001, URIBL_DBL_SPAM=2.5] autolearn=unavailable
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 4AKeVGSN7jle for <mail@dorianvasco.de>;
+	Fri, 29 Dec 2017 17:08:16 +0100 (CET)
+Received: from same.asyillpg.com (unknown [207.150.183.102])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 54B26C20DB
+	for <mail@dorianvasco.de>; Fri, 29 Dec 2017 17:08:16 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=asyillpg.com;
+ h=Date:From:To:Subject:Message-ID:MIME-Version:Content-Type:Content-Transfer-Encoding; i=ingeburg10rgwjespitznogle@asyillpg.com;
+ bh=KrHUo+jMRxSLFvhftBOfnY+/b08=;
+ b=W1etGNxcjpIFOalrILDT7ijod9mkgpwYTsXccDvjMKgg9pWJ9EENqE5eTBuhN+k64YzbH5rqrnxG
+   SDaHIb3z1dpDVLU8+CDJM+AV7ttYRtiPoUdIFxowk1D3GO/J5HYKlrchClET9SRq+r6TNBfgln/A
+   1I/pnDfi7imyMXkODYo=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=asyillpg.com;
+ b=e5hvJ7XqB5yajDby4roYtyF3lPf8PHLS5VbWf1JqeW1/drhPX7znm002NL3SzcyhjtVqRumv3Dbi
+   iz/4nTpZ+/U9IGaRNBvlpSyKA+5ohaF3G3r5F8pWjWMp40vP2SkGZ4RMhsjB1fy/68L1pnI0utxF
+   NnI3L9U0lzNZyAGrySE=;
+Date: Fri, 29 Dec 2017 17:04:46 +0100
+From: =?UTF-8?Q?Ingeburg_Spitznogle?= <ingeburg10rgwjespitznogle@asyillpg.com>
+To:  <mail@dorianvasco.de>
+Subject: =?UTF-8?Q?Fu=C3=9Fspray_GEGEN_NAGELPILZ_-_bespr=C3=BChen_und_innerhalb_1_Woche_weg?=
+Message-ID: <dCB0B7gypc1lbbe7M.BAQQL@aa.asyillpg.com>
+MIME-Version: 1.0
+X-Mailer: KMail/1.9
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html>=0D
+<head>=0D
+</head><body>=0D
+<center>=0D
+Fu=C3=9Fspray GEGEN NAGELPILZ - bespr=C3=BChen und innerhalb 1 Woche weg<br=
+ /><a href=3D"http://kk.asyillpg.com/" style=3D"text-align:left; border-sty=
+le:none; border-top-color:#007700; text-decoration:none; margin-left:1px; "=
+><img style=3D"padding-top:auto; border-bottom:inset 2px #000000; white-spa=
+ce:normal; border-left-color:#007700; " src=3D"http://asyillpg.com/af568.jp=
+g" /></a>=0D
+<br /><a style=3D"font-weight:inherit; text-align:left; border-right:dotted=
+ 1px #000000; " href=3D"http://kk.asyillpg.com/">Befreit dich vom Nagelpilz=
+ - nur t=C3=A4glich 2-3-mal bespritzen</a>=0D
+<br /><br /><a href=3D"http://c3mc.asyillpg.com/" style=3D"margin-top:3px; =
+text-decoration:underline; font-style:normal; margin-right:3px; "><img src=
+=3D"http://c3mcb.asyillpg.com/00.jpg" /></a>=0D
+<br /><a style=3D"font-size:12px; text-align:left; white-space:normal; " hr=
+ef=3D"http://c3mc.asyillpg.com/">Details</a>=0D
+<br /><br /><a style=3D"padding-bottom:auto; border-style:none; margin-left=
+:2px; line-height:22px; font:16px Times New Roman, Times, serif italic bold=
+inherit; " href=3D"http://a4h.asyillpg.com/"><img style=3D"border-top-style=
+:dashed; border-right-color:#000000; " src=3D"http://a4hc.asyillpg.com/00.j=
+pg" /></a>=0D
+<br /><a href=3D"http://a4h.asyillpg.com/" style=3D"white-space:normal; tex=
+t-align:left; ">Details</a>=0D
+<br /><br /><div style=3D"border-bottom-style:inset;  width:100%; height:41=
+8;">>> Symptome vom Nagelpilz BESEITIGEN: neues Gegenmittel, schnelle Hilfe=
+<br /><br /></div><a href=3D"http://asyillpg.com/ub.php?p3=3Ddf2217908rnxgn=
+z8sp67d8j4cad81w84f" style=3D"font-size:12px;  background-color:#ffffff;">H=
+ier k=C3=B6nnen Sie sich problemlos abmelden.</a></center><br />> KEIN NAGE=
+LPILZ MEHR: Spray mit Spr=C3=BChpistole und in 1 Woche vorbei=0D
+<img src=3D"http://asyillpg.com/ob.php?pmz=3Ddf2217908rnxgnz8sp67d8j4cad81w=
+84f" />=0D
+</body>=0D
+</html>=

@@ -1,0 +1,523 @@
+Return-Path: <info@mjusgod.pw>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 98D0CD185C
+	for <mail@dorianvasco.de>; Mon, 18 Mar 2019 20:34:33 +0100 (CET)
+Authentication-Results: v22014122474822114.stilfilm.com; dkim=pass
+	reason="1024-bit key; insecure key"
+	header.d=mjusgod.pw header.i=@mjusgod.pw header.b=FJpsAOQS;
+	dkim-adsp=pass; dkim-atps=neutral
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 7.176
+X-Spam-Level: *******
+X-Spam-Status: Yes, score=7.176 required=5.5 tests=[BAYES_99=3.5,
+	BAYES_999=0.2, DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	HTML_MESSAGE=0.001, LOTS_OF_MONEY=0.001, MIME_HTML_ONLY=0.723,
+	PYZOR_CHECK=1.392, RDNS_NONE=0.793, SPF_SOFTFAIL=0.665,
+	UNPARSEABLE_RELAY=0.001] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id Wp4ZO1EPEa50 for <mail@dorianvasco.de>;
+	Mon, 18 Mar 2019 20:34:27 +0100 (CET)
+Received: from mail.b9bneu.org (unknown [222.139.218.85])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 25604C785F
+	for <mail@dorianvasco.de>; Mon, 18 Mar 2019 20:34:20 +0100 (CET)
+dkim-signature:v=1; c=relaxed/relaxed; h=to:subject:message-id:date:from:reply-to:mime-version:list-unsubscribe:content-type:content-transfer-encoding;
+ d=mjusgod.pw; s=default; a=rsa-sha256;
+ bh=E2B185hB3fh+Ti223O3ABTwnyowU5bqmlK0PTd0Cbo0=;
+ b=FJpsAOQSVeLWtqyPUkXmtbXb5YshRdDYGHWCGLJWUOOi+Y53d6EsxjjMj1KHAM3lE
+ V6yi1RMU5a9cfxuqDgJCQjzsOPYP99GiJrWuYtdgkfInTpcddTr6z3SFJC502/yAY/I
+ 6x1aXYAoBbDFVyAlMptJ3jFZDyXPYH+Yr4tEbmw=;
+Received: from ([127.0.0.1]) with MailEnable ESMTP; Mon, 18 Mar 2019 11:34:17 -0800
+To: mail@dorianvasco.de
+Subject: tec-group.org Final Notice
+Message-ID: <472e13cb7451f2fff1bdb3f35a4d104e@p0208.mjusgod.pw>
+Date: Fri, 15 Mar 2019 07:54:13 -0400
+From: "Domain Service" <info@mjusgod.pw>
+Reply-To: info@mjusgod.pw
+MIME-Version: 1.0
+X-Mailer-LID: 35
+List-Unsubscribe: <http://p0208.mjusgod.pw/em/unsubscribe.php?M=1201886&C=c0f395dd3678fbbfd649fa59f50e6b77&L=35&N=27>
+X-Mailer-RecptId: 1201886
+X-Mailer-SID: 27
+X-Mailer-Sent-By: 1
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+X-ME-Bayesian: 0.000000
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional //EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+  <head>
+    <title>Servicese</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=320,
+target-densitydpi=device-dpi">
+    <style type="text/css">
+      @media screen and (max-width: 660px) {
+        table[class=w0], td[class=w0] { width: 0 !important; }
+        table[class=w15], td[class=w15], img[class=w15] { width:5px
+!important; }
+        table[class=w30], td[class=w30], img[class=w30] { width:10px
+!important; }
+        table[class=w255], td[class=w255], img[class=w255] { width:185px
+!important; }
+        table[class=w325], td[class=w325], img[class=w325] { width:95px
+!important; }
+        table[class=w580], td[class=w580], img[class=w580] { width:280px
+!important; }
+        table[class=w640], td[class=w640], img[class=w640] { width:300px
+!important; }
+        #headline p { font-size: 30px !important; }
+        .primary-content, #left-sidebar{ -webkit-text-size-adjust: 90%
+!important; -ms-text-size-adjust: 90% !important; }
+        .header-content {-webkit-text-size-adjust: 80% !important;
+-ms-text-size-adjust: 80% !important;}
+        img { height: auto; line-height: 100%;}
+      }
+      body { width: 100% !important; background-color: #c7c7c7; margin: 0;
+padding: 0;}
+      img { outline: none; text-decoration: none; display: block;}
+      br, strong br, b br, em br, i br { line-height:100%; }
+      a { color: red !important; }
+      .domain a { color: blue !important; }
+      .black a { color: black !important; }
+      h1, h2, h3, h4, h5, h6 { line-height: 100% !important;
+-webkit-font-smoothing: antialiased; }
+      h1 a, h2 a, h3 a, h4 a, h5 a, h6 a { color: blue !important; }
+      h1 a:active, h2 a:active,  h3 a:active, h4 a:active, h5 a:active, h6
+a:active {	color: red !important; }
+      h1 a:visited, h2 a:visited,  h3 a:visited, h4 a:visited, h5
+a:visited, h6 a:visited { color: purple !important; }
+      table td, table tr { border-collapse: collapse; }
+      #background-table { background-color: #c7c7c7; }
+      #top-bar { border-radius:6px 6px 0px 0px; -moz-border-radius: 6px 6px
+0px 0px; -webkit-border-radius:6px 6px 0px 0px; -webkit-font-smoothing:
+antialiased; background-color: #2E2E2E; color: #888888; }
+      #top-bar a { font-weight: bold; color: #eeeeee; text-decoration:
+none;}
+      #footer { border-radius:0px 0px 6px 6px; -moz-border-radius: 0px 0px
+6px 6px; -webkit-border-radius:0px 0px 6px 6px; -webkit-font-smoothing:
+antialiased; }
+      body, td { font-family: HelveticaNeue, sans-serif; }
+      .header-content, .footer-content-right { -webkit-text-size-adjust:
+none; -ms-text-size-adjust: none; }
+      .header-content { font-size: 12px; color: #888888; }
+      .header-content a { font-weight: bold; color: #eeeeee;
+text-decoration: none; }
+      #headline p { color: #eeeeee; font-family: HelveticaNeue, sans-serif;
+font-size: 36px; text-align: center; margin-top:0px; margin-bottom:30px; }
+      #headline p a { color: #eeeeee; text-decoration: none; }
+      .primary-title { font-size: 18px; line-height:24px; color: #b0b0b0;
+font-weight:bold; margin-top:0px; margin-bottom:18px; font-family:
+HelveticaNeue, sans-serif; }
+      .primary-title a { color: #b0b0b0; text-decoration: none; }
+      .primary-title.with-meta {margin-bottom: 0;}
+      .primary-meta { font-size: 13px; line-height: 20px; color: #ccc;
+font-weight: bold; margin-top: 0;}
+      .primary-content { font-size: 13px; line-height: 18px; color:
+#444444; margin-top: 0px; margin-bottom: 18px; font-family: HelveticaNeue,
+sans-serif; }
+      .primary-content a { color: #2f82de; font-weight:bold;
+text-decoration:none; }
+      .primary-content img { max-width: 100% }
+      .primary-content ol, .primary-content ul { margin-top:0px;
+margin-bottom:18px; margin-left:19px; padding:0; }
+      .primary-content li { font-size: 13px; line-height: 18px; color:
+#444444; }
+      .primary-content li a { color: #2f82de; text-decoration:underline; }
+      .primary-content p {margin-bottom: 15px;}
+      .footer-content-right { font-size: 11px; line-height: 16px; color:
+#888888; margin-top: 0px; margin-bottom: 15px; }
+      .footer-content-right a { color: #eeeeee; font-weight: bold;
+text-decoration: none; }
+      #footer { color: #888888; }
+      #footer a { color: #eeeeee; text-decoration: none; font-weight: bold;
+}
+      #permission-reminder { white-space: normal; }
+      #street-address { color: #ffffff; white-space: normal; }
+    </style>
+    <!--[if gte mso 9]>
+    <style _tmplitem="402" >
+      .primary-content ol, .primary-content ul {
+        margin: 0 0 0 24px;
+        padding: 0;
+        list-style-position: inside;
+      }
+    </style>
+    <![endif]-->
+  </head>
+  <body>
+<table id="background-table" style="table-layout: fixed; width: 100%;"
+cellspacing="0" cellpadding="0" border="0" align="center">
+<tbody>
+<tr>
+<td bgcolor="#c7c7c7" align="center">
+<table class="w640" style="margin: 0px 10px; width: 640px;" cellspacing="0"
+cellpadding="0" border="0">
+<tbody>
+<tr>
+<td class="w640" width="640" height="20"></td>
+</tr>
+<tr>
+<td class="w640" width="640">
+<table class="w640" style="width: 640px;" cellspacing="0" cellpadding="0"
+border="0">
+<tbody>
+<tr>
+<td class="w15" width="15"></td>
+<td class="w325" width="350" valign="middle" align="left">
+<table class="w325" style="width: 350px;" cellspacing="0" cellpadding="0"
+border="0">
+<tbody>
+<tr>
+<td class="w325" width="350" height="8"></td>
+</tr>
+</tbody>
+</table>
+<div class="header-content"></div>
+<table class="w325" style="width: 350px;" cellspacing="0" cellpadding="0"
+border="0">
+<tbody>
+<tr>
+<td class="w325" width="350" height="8"></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td class="w30" width="30"></td>
+<td class="w255" width="255" valign="middle" align="right">
+<table class="w255" style="width: 255px;" cellspacing="0" cellpadding="0"
+border="0">
+<tbody>
+<tr>
+<td class="w255" width="255" height="8"></td>
+</tr>
+</tbody>
+</table>
+<table cellspacing="0" cellpadding="0" border="0">
+<tbody>
+<tr></tr>
+</tbody>
+</table>
+<table class="w255" style="width: 255px;" cellspacing="0" cellpadding="0"
+border="0">
+<tbody>
+<tr>
+<td class="w255" width="255" height="8"></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td class="w15" width="15"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td id="header" class="w640" width="640" align="center">
+<table class="w640" style="width: 640px;" cellspacing="0" cellpadding="0"
+border="0">
+<tbody>
+<tr>
+<td class="w30" width="30"></td>
+<td class="w580" width="580" height="30"></td>
+<td class="w30" width="30"></td>
+</tr>
+<tr>
+<td class="w30" width="30"></td>
+<td class="w580" width="580">
+<div id="headline" align="center"></div>
+</td>
+<td class="w30" width="30"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td class="w640" width="640" height="30" bgcolor="#ffffff"></td>
+</tr>
+<tr id="simple-content-row">
+<td class="w640" width="640" bgcolor="#ffffff">
+<table class="w640" style="width: 640px;" cellspacing="0" cellpadding="0"
+border="0" align="left">
+<tbody>
+<tr>
+<td class="w30" width="30"></td>
+<td class="w580" width="580"><repeater> <layout label="Text only">
+<table style="width: 580px;" cellspacing="0" cellpadding="0" border="0">
+<tbody>
+<tr>
+<td width="290"><multiline label="Description"><b><u>Important
+notice</u></b></multiline></td>
+<td width="290">
+<div class="primary-content" align="right"><multiline
+label="Description"><br /> <b>Notice#:</b> 915053<br /><b>Date:</b>
+03/14/2019</multiline></div>
+</td>
+</tr>
+</tbody>
+</table>
+</layout> <layout label="Text only">
+<table class="w580" style="width: 580px;" cellspacing="0" cellpadding="0"
+border="0">
+<tbody>
+<tr>
+<td class="w580" width="580">
+<div class="primary-content" align="center"><multiline
+label="Description">
+<p style="color: red; text-decoration: underline;">Expiration notice</p>
+</multiline></div>
+<div class="primary-content domain" align="center"><multiline
+label="Description">Domain: <u> tec-group.org</u><br /></multiline></div>
+<div class="primary-content" align="center"><multiline
+label="Description">
+<p style="text-decoration: underline;"><b> Expiration date:
+03/22/2019</b></p>
+</multiline></div>
+</td>
+</tr>
+<tr>
+<td class="w580" width="580" height="10"></td>
+</tr>
+</tbody>
+</table>
+</layout> <layout label="Text with full-width image">
+<table class="w580" style="width: 580px;" cellspacing="0" cellpadding="0"
+border="0">
+<tbody>
+<tr>
+<td class="w580" width="580">
+<div class="primary-content" align="left">
+<table style="width: 580px;" cellspacing="0" cellpadding="0" border="0">
+<tbody>
+<tr>
+<td width="290"><multiline label="Description"> To: DorianVasco Nagel,
+</multiline></td>
+<td width="145"></td>
+<td width="145"></td>
+</tr>
+<tr>
+<td width="290"><multiline label="Description"> Arndtstrasse 9
+</multiline></td>
+</tr>
+<tr>
+<td width="290"><multiline label="Description"> Hannover </multiline></td>
+<td width="145"></td>
+<td width="145"></td>
+</tr>
+<tr>
+<td width="290"><multiline label="Description"> , 30167
+DE</multiline></td>
+<td width="145"></td>
+<td width="145"></td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</layout> <layout label="Text with full-width image">
+<table class="w580" style="width: 580px;" cellspacing="0" cellpadding="0"
+border="0">
+<tbody>
+<tr>
+<td class="w580" width="580">
+<div class="primary-content" align="left">
+<table style="width: 580px;" cellspacing="0" cellpadding="0" border="0">
+<tbody>
+<tr>
+<td style="border: solid 2px #e9e9e9;" width="200"><multiline
+label="Description">
+<p style="text-decoration: underline;"><b>Domain Name:</b></p>
+</multiline></td>
+<td style="border: solid 2px #e9e9e9;" width="200"><multiline
+label="Description">
+<p style="text-decoration: underline;"><b>Registration Period:</b></p>
+</multiline></td>
+<td style="border: solid 2px #e9e9e9;" width="90"><multiline
+label="Description">
+<p style="text-decoration: underline;"><b>Amount:</b></p>
+</multiline></td>
+<td style="border: solid 2px #e9e9e9;" width="90"><multiline
+label="Description">
+<p style="text-decoration: underline;"><b>Term:</b></p>
+</multiline></td>
+</tr>
+<tr>
+<td class="domain" style="border: solid 2px #e9e9e9;"
+width="200"><multiline label="Description"> tec-group.org
+</multiline></td>
+<td style="border: solid 2px #e9e9e9;" width="200"><multiline
+label="Description"> 04/05/2019 to 04/04/2020 </multiline></td>
+<td style="border: solid 2px #e9e9e9;" width="90"><multiline
+label="Description"> $86.00 </multiline></td>
+<td style="border: solid 2px #e9e9e9;" width="90"><multiline
+label="Description"> 1 Year </multiline></td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+<tr>
+<td class="w580" width="580">
+<p class="primary-title" style="text-align: center; text-decoration:
+underline; background-color: #d3d3d3;" align="left"><singleline
+label="Title"><a
+href="http://p0208.mjusgod.pw/em/link.php?M=1201886&N=27&L=2&F=H">Secure
+Online Payment</a></singleline></p>
+</td>
+</tr>
+</tbody>
+</table>
+</layout> <layout label="Text with full-width image">
+<table class="w580" style="width: 580px;" cellspacing="0" cellpadding="0"
+border="0">
+<tbody>
+<tr>
+<td class="w580" width="580">
+<div class="primary-content domain" align="left"><multiline
+label="Description">Domain Name: tec-group.org <br /></multiline>
+<multiline label="Description">Attn: DorianVasco Nagel</multiline></div>
+</td>
+</tr>
+<tr>
+<td class="w580" width="580">
+<div class="primary-content domain" align="left"><multiline
+label="Description">This <u>important expiration notification</u> notifies
+you about the <u>expiration notice</u> of your domain registration for <u>
+tec-group.org</u> search engine optimization submission. The information in
+this <u>expiration notification</u> may contain legally privileged
+information from the notification processing department of the Domain Seo
+Service Registration to our search engine traffic generator. We do not
+register or renew domain names. We are selling traffic generator software
+tools. This information is intended for the use of the individual(s) named
+above.<br /></multiline> <multiline label="Description">If you fail to
+complete your domain name registration <u> tec-group.org</u> search engine
+optimization service by the expiration date, <u>may the dismissal of this
+search engine optimization domain name notification
+notice.</u></multiline></div>
+<div class="primary-content" align="center"><multiline
+label="Description"><b>Process</b>
+<p style="background-color: #d3d3d3;"><a
+href="http://p0208.mjusgod.pw/em/link.php?M=1201886&N=27&L=2&F=H"><b>Secure
+Online Payment</b></a></p>
+<b>to complete your payment.<b></b></b></multiline></div>
+</td>
+</tr>
+</tbody>
+</table>
+</layout> <layout label="Text with full-width image">
+<table class="w580" style="width: 580px;" cellspacing="0" cellpadding="0"
+border="0">
+<tbody>
+<tr>
+<td class="w580" width="580">
+<div class="primary-content domain" align="left"><multiline
+label="Description"><u>Failure</u> to complete your <u>seo domain name
+registration</u> <u> tec-group.org</u> search engine optimization service
+process may make it difficult for customers to find you on the
+web.</multiline></div>
+<div class="primary-content" align="center">
+<div style="width: 60%; background-color: #d3d3d3;"><multiline
+label="Description" style="color: red;"><b><u>Process Payment
+for</u></b><br /></multiline> <multiline label="Description"
+class="black"><b><u> tec-group.org </u></b><br /></multiline> <multiline
+label="Description"><b><u><a
+href="http://p0208.mjusgod.pw/em/link.php?M=1201886&N=27&L=2&F=H">Secure
+Online Payment</a></u></b></multiline></div>
+</div>
+<div class="primary-content" style="color: #ccac00;"
+align="center"><multiline label="Description">
+<p><b><u>Act immediately</u></b></p>
+</multiline></div>
+<div class="primary-content domain" style="color: #ccac00;"
+align="center"><multiline label="Description">
+<p><b>This domain seo registration for <u> tec-group.org</u> search engine
+service optimization notification will <u>expire 03/22/2019.</u></b></p>
+</multiline></div>
+<div style="border-top: solid 4px black;"></div>
+<div class="primary-content domain" style="color: #b5b5b5; font-size:
+10px;" align="left"><multiline label="Description">Instructions and Unlike
+Instructions from this Newsletter:<br /></multiline> <multiline
+label="Description">You have received this message because you elected to
+receive notification. If you no longer wish to receive our notifications,
+please <u><a
+href="http://p0208.mjusgod.pw/em/link.php?M=1201886&N=27&L=1&F=H"
+style="color: #b5b5b5 !important;">unlike here</a></u>. If you have
+multiple accounts with us, you must opt out for each one individually to
+unlike receiving notifications. We are a search engine optimization
+company. We do not directly register or renew domain names. This is not a
+bill. You are dont need to pay the amount unless you accept this
+notification. This message, which contains promotional material strictly
+along the guidelines of the Can-Spam act of 2003. We have clearly mentioned
+the source mail-id of this email, also clearly mentioned our subject lines
+and they are in no way misleading. Please do not reply to this email, as we
+are not able to respond to messages sent to this
+address.</multiline></div>
+</td>
+</tr>
+</tbody>
+</table>
+</layout> </repeater></td>
+<td class="w30" width="30"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td class="w640" width="640" height="15" bgcolor="#ffffff"></td>
+</tr>
+<tr>
+<td class="w640" width="640">
+<table id="footer" class="w640" style="width: 640px;" cellspacing="0"
+cellpadding="0" border="0">
+<tbody>
+<tr>
+<td class="w30" width="30"></td>
+<td class="w580 h0" width="360" height="30"></td>
+<td class="w0" width="60"></td>
+<td class="w0" width="160"></td>
+<td class="w30" width="30"></td>
+</tr>
+<tr>
+<td class="w30" width="30"></td>
+<td class="w580" width="360" valign="top"></td>
+<td class="hide w0" width="60"></td>
+<td class="hide w0" width="160" valign="top">
+<p id="street-address" class="footer-content-right" align="right"></p>
+</td>
+<td class="w30" width="30"></td>
+</tr>
+<tr>
+<td class="w30" width="30"></td>
+<td class="w580 h0" width="360" height="15"></td>
+<td class="w0" width="60"></td>
+<td class="w0" width="160"></td>
+<td class="w30" width="30"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td class="w640" width="640" height="60"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<img
+src="http://p0208.mjusgod.pw/em/open.php?M=1201886&L=35&N=27&F=H&image=.jpg"
+height="1" width="10"></body>
+</html>
+

@@ -1,0 +1,32 @@
+Return-Path: <info@alvedo-docvermittlung.de>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 01055D3112
+	for <mail@dorianvasco.de>; Tue, 12 Feb 2019 17:03:50 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: 3.806
+X-Spam-Level: ***
+X-Spam-Status: No, score=3.806 required=5.5
+	tests=[RCVD_IN_BL_SPAMCOP_NET=1.246, RCVD_IN_RP_RNBL=1.284,
+	RDNS_NONE=1.274, TVD_SPACE_RATIO=0.001, TVD_SPACE_RATIO_MINFP=0.001]
+	autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 9ZvgM27Ufk_g for <mail@dorianvasco.de>;
+	Tue, 12 Feb 2019 17:03:40 +0100 (CET)
+Received: from alvedo-docvermittlung.de (unknown [92.38.39.16])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 2C3AEC7867
+	for <mail@dorianvasco.de>; Tue, 12 Feb 2019 17:03:39 +0100 (CET)
+To: mail@dorianvasco.de
+From: Post <info@alvedo-docvermittlung.de>
+Subject: POSTMASTER
+Date: Tue, 12 Feb 2019 19:03:39 +0300
+Message-ID: <20190212_160339_053171.info@alvedo-docvermittlung.de>
+X-Mailer: QMAIL
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain; charset="utf-8"
+Mime-Version: 1.0
+
+Mail Delivered
+

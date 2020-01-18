@@ -1,0 +1,209 @@
+Return-Path: <mailer-daemon@news.up-leveled.com>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 6A1D1C20E4
+	for <mail@dorianvasco.de>; Fri, 30 Mar 2018 10:21:01 +0200 (CEST)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 7.939
+X-Spam-Level: *******
+X-Spam-Status: Yes, score=7.939 required=5.5 tests=[DKIM_SIGNED=0.1,
+	DKIM_VALID=-0.1, FROM_EXCESS_BASE64=0.105, HTML_MESSAGE=0.001,
+	RAZOR2_CF_RANGE_51_100=2.43, RAZOR2_CHECK=1.729,
+	RCVD_IN_DNSWL_NONE=-0.0001, RCVD_IN_IADB_DK=-0.223,
+	RCVD_IN_IADB_DOPTIN_LT50=-0.001, RCVD_IN_IADB_LISTED=-0.38,
+	RCVD_IN_IADB_RDNS=-0.167, RCVD_IN_IADB_SENDERID=-0.001,
+	RCVD_IN_IADB_SPF=-0.001, SPF_HELO_PASS=-0.001, SPF_PASS=-0.001,
+	URIBL_ABUSE_SURBL=1.948, URIBL_BLOCKED=0.001, URIBL_DBL_SPAM=2.5]
+	autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id QVCl_geh869h for <mail@dorianvasco.de>;
+	Fri, 30 Mar 2018 10:21:00 +0200 (CEST)
+Received: from bm38k.be-mail.it (bm38k.be-mail.it [185.153.111.38])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id 02675C0D4D
+	for <kontakt@dorianvasco.de>; Fri, 30 Mar 2018 10:20:59 +0200 (CEST)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/simple; d=up-leveled.com;
+	s=ketchup; t=1522398270; bh=94avgaVUa4+JtU93ND7h1VjuCeU=;
+	h=Date:From:To:Subject:MIME-Version:Content-Type:Precedence:
+	 Feedback-ID:X-Abuse:List-id:List-unsubscribe:List-Unsubscribe-Post:
+	 X-Mailer:X-IADB-IP:X-IADB-IP-REVERSE:X-IADB-URL:X-CSA-Complaints:
+	 Reply-To:Message-Id;
+	b=EcpJsX5zWKSoGbH9TtzGVQhzsXcC/58mGm2HxcIitQxrWhECZz7xow+tWL5tBMmLy
+	 APZzgmRwKpx9LIs2d5g9Yolht7EBbdC9p9YveSxhFt8pRWqMFp7FjdMNBVsCwrZC+j
+	 nWMOY3Gl+DM4cn7wg+gaQL1hjhkkHlIHUi0fVVAI=
+Date: Fri, 30 Mar 2018 10:24:29 +0200
+From: "=?UTF-8?B?w5xiZXJwcsO8ZmVuIFNpZSBoaWVyIA==?=" <noreply@news.up-leveled.com>
+To: "kontakt@dorianvasco.de" <kontakt@dorianvasco.de>
+Subject: =?UTF-8?B?U2llIHd1cmRlbiBhbHMgcG90ZW56aWVsbGVyIFByb2R1a3R0ZXN0ZXIgYXVzZ2U=?==?UTF-8?B?d8OkaGx0?=
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="_----------=_1522368375222240"
+Precedence: bulk
+Feedback-ID: 1174:200:1:.up-leveled.com
+X-Abuse: Please report abuse AT abusemail@be-mail.it
+List-id: <200.be-mail.it>
+List-unsubscribe: <http://unsubscribe.getaleks.com/l/200/1067244/b390da7333ac4b75d289e48ade8c3ca1/1174/>, <mailto:unsubscribe@be-mail.it?subject=http://unsubscribe.getaleks.com/l/200/1067244/b390da7333ac4b75d289e48ade8c3ca1/1174/>
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+X-Mailer: beMail
+X-IADB-IP: 185.153.111.38
+X-IADB-IP-REVERSE: bm38k.be-mail.it
+X-IADB-URL: http://www.isipp.com/iadb.php
+X-CSA-Complaints: whitelist-complaints@eco.de
+Reply-To: news@up-leveled.com
+Message-Id: <847159.200.1174.1067244@news.up-leveled.com>
+
+This is a multi-part message in MIME format.
+
+--_----------=_1522368375222240
+Date: Fri, 30 Mar 2018 02:06:15 +0200
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+
+
+Falls Sie also als m=C3=B6glicher Produkttester ausgew=C3=A4hlt wurden, hie=
+r nachsehen
+
+
+
+--_----------=_1522368375222240
+Date: Fri, 30 Mar 2018 02:06:15 +0200
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+
+
+<img src=3D"http://go.getaleks.com/200/1174/=
+1067244=
+/under.gif" width=3D=
+"1" height=3D"1" alt=3D"Abilita le immagini per vedere correttamente il mes=
+sagio">
+
+
+<!-- MIRROR -->
+<div style=3D"width:100%;text-align:center;margin: 20px 0; ">
+<div style=3D"max-width:700px;margin:auto;padding:15px;"><a href=3D"http://=
+static.getaleks.com/mirrorlink/=
+1067244=
+/1174/200/">Siehst du nicht die E=
+mail hier klicken</a>&nbsp;</div>
+
+<div style=3D"max-width:700px;margin:auto;padding:15px;"><span style=3D"col=
+or: rgb(85, 85, 85); font-family: 'Segoe UI', Tahoma, Helvetica, sans-serif=
+; font-size: 13px; background-color: rgb(255, 255, 255);">Wenn Sie glauben,=
+ diese unerw&uuml;nschte Nachricht dass,&nbsp;<a href=3D"http://unsubscribe=
+.getaleks.com/200/=
+1067244=
+/=
+b390da7333ac4b75d289e48ade8c3ca1=
+/1174/">Spam melden</a></span></di=
+v>
+</div>
+
+<div style=3D"clear:both;"><!-- --></div>
+<!-- /MIRROR -->
+<title>Vernel testen</title>
+<meta content=3D"text/html; charset=3Dutf-8" http-equiv=3D"Content-Type" />
+<center>
+ <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" id=3D"Tabelle_01" =
+style=3D"margin-top:10px;" width=3D"500">
+ <tbody>
+ <tr>
+ <td align=3D"left" height=3D"361" style=3D"font-family:Arial, Helvetica, s=
+ans-serif;font-size:15px;color:#000;background-color:#fff;" valign=3D"top" =
+width=3D"570">
+	<br>
+	<span style=3D"font-size:17px;"><b>Hallo <Vorname></b> ,</span><br />
+
+	<br>
+	Am 13.05.2017 haben wir Ihnen mitgeteilt, dass Sie als m=C3=B6glicher <br>=
+<b><a href=3D"http://go.getaleks.com/200/1174/8674/=
+1067244=
+/">Vernel Pro=
+dukttester</a> </b>ausgew=C3=A4hlt wurden.<br>
+	<br>
+	Bisher haben Sie diese einmalige Gelegenheit nicht genutzt. Besteht Ihrers=
+eits kein Interesse mehr?<br>
+	<br>
+	Das Angebot gilt nur noch 3 Tage!<br>
+	<br>
+	<a href=3D"http://go.getaleks.com/200/1174/8676/=
+1067244=
+/"><b>Hier bitt=
+e als Produkttester anmelden.</b></a><br>
+	<br>
+	Ihre Vorteile:<br>
+	<br><div style=3D"line-height: 17pt">
+	- gro=C3=9Fes Test-Paket<br>
+=09
+	- sofort, einfach und unverbindlich<br>
+=09
+	- 100% kostenlos<br>
+	</div>
+	<b><a href=3D"http://go.getaleks.com/200/1174/8678/=
+1067244=
+/">Falls Sie=
+ also als m=C3=B6glicher Produkttester ausgew=C3=A4hlt wurden, hier nachseh=
+en</a></b><br>
+	<br>
+	Mit freundlichen Gr&uuml;&szlig;en,<br>
+	<br>
+	Ihr Tester-Team<br>
+	</td>
+	</tr>
+	</tbody>
+	</table>
+	<img src=3D"http://tracking.devstormrnk.com/aff_i?offer_id=3D2090&aff_id=
+=3D2769&file_id=3D6094&aff_sub3=3Dalx" width=3D"1" height=3D"1" /><div styl=
+e=3D"clear:both;"><!-- --></div>
+
+<center>
+<div align=3D"center" style=3D"font-size:10px;line-height:16px;font-family:=
+Arial,Helvetica,sans-serif;text-align:center;color:#7c7b7b;max-width:600px;=
+">
+<table align=3D"center" cellpadding=3D"0" cellspacing=3D"0" style=3D"max-wi=
+dth:600px; border:none;">
+	<tbody>
+	<tr>
+	<td align=3D"left" colspan=3D"8" style=3D"vertical-align:top;color:#7c7b7b=
+;font-size:12px;padding: 2px;" valign=3D"top">
+	<div align=3D"center" style=3D"font-size:10px;line-height:16px;font-family=
+:Arial,Helvetica,sans-serif;text-align:center;color:#7c7b7b;max-width:600px=
+;">Sie sind mit der Adresse registriert: =
+kontakt@dorianvasco.de=
+<br />
+	Erhalten diese e-Mail, weil Sie abonniert sind die up-leveled, Sie haben z=
+ugestimmt, marketing-Materialien nach den italienischen Vorschriften gem&au=
+ml;&szlig; Gesetzesdekret 196/2003 (Datenschutzkodex) zu erhalten.<br />
+	Sie k&ouml;nnen unsere Datenschutzerkl&auml;rung hier einsehen<a href=3D"h=
+ttp://up-leveled.com/privacy-information-to-users">:http://up-leveled.com/p=
+rivacy-information-to-users</a><br />
+	Die verantwortliche Stelle ist Alexander adv doo Skopje, st.Petar Mlhov 26=
+-a Chair&nbsp;&nbsp;Skopje, Vat&nbsp;4082017520050, info@up-leveled.com<br =
+/>
+	Wenn Sie nicht mehr bitte unsere marketing-Mitteilungen erhalten m&ouml;ch=
+ten&nbsp;<span style=3D"color: rgb(85, 85, 85); font-family: 'Segoe UI', Ta=
+homa, Helvetica, sans-serif; font-size: 13px; background-color: rgb(255, 25=
+5, 255);"><a href=3D"http://unsubscribe.getaleks.com/200/=
+1067244=
+/=
+b390da7333ac4b75d289e48ade8c3ca1=
+/1174/"><span style=3D"font-size:10px;">abbestellen</span></a>&nbsp;</=
+span>und du sollst innerhalb von 24/48 Stunden abgemeldet haben.</div>
+
+	<div align=3D"center" style=3D"font-size:10px;line-height:16px;font-family=
+:Arial,Helvetica,sans-serif;text-align:center;color:#7c7b7b;max-width:600px=
+;">&nbsp;</div>
+	</td>
+	</tr>
+	</tbody>
+</table>
+</div>
+</center>
+
+
+--_----------=_1522368375222240--

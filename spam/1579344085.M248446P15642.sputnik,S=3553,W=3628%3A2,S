@@ -1,0 +1,75 @@
+Return-Path: <haydn_raginwald@colbanco.com>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 9E795C4448
+	for <mail@dorianvasco.de>; Sun,  5 Feb 2017 22:12:33 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 3.543
+X-Spam-Level: ***
+X-Spam-Status: Yes, score=3.543 required=2 tests=[BAYES_50=0.8,
+	DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	HTML_MESSAGE=0.001, PYZOR_CHECK=1.392, RCVD_IN_BRBL_LASTEXT=1.449,
+	URIBL_BLOCKED=0.001] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.yourvserver.net [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id BX0R1qBR7tOo for <mail@dorianvasco.de>;
+	Sun,  5 Feb 2017 22:12:32 +0100 (CET)
+Received: from cl727.mundiserver.com (cl727.mundiserver.com [176.31.115.8])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id 5B2ADC4447
+	for <kontakt@dorianvasco.de>; Sun,  5 Feb 2017 22:12:32 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=colbanco.com; s=default;
+	h=Content-Transfer-Encoding:Content-Type:MIME-Version:Message-ID:From:Date:Subject:To; bh=AW8ev7Efk1GDXY01TGwcS21urGnbJxw8Phb8nTYdvZs=;
+	b=RYWqt+4Pign3S7AzDTCtyQ1H6C5hCg3WrXwFLRqNKkLLqvgoYprgaRlqDZmu5DOlP3HaQ+WxfdMJEJNgkBMNFU8h0/RIjJLhClLAe2F/F+3lfLYbYJXlbqrSYi2AZOVk7kZ7GEQ/J5eRiDhTHAzzZNazZy6xEea5lLQLDX71yR0=;
+Received: from colbanco by cl727.mundiserver.com with local (Exim 4.82)
+	(envelope-from <haydn_raginwald@colbanco.com>)
+	id 1caU6p-00081q-3K
+	for kontakt@dorianvasco.de; Sun, 05 Feb 2017 22:12:31 +0100
+To: kontakt@dorianvasco.de
+Subject: ***SPAM***
+	=?utf-8?Q?Ich_tr=C3=A4ume_davon,_Sex_mit_2_M=C3=A4nnern_mal_auszuprobiere?=
+	 =?utf-8?Q?n?=
+Date: Sun, 5 Feb 2017 22:12:31 +0100
+From: Haydn Raginwald <haydn_raginwald@colbanco.com>
+Message-ID: <ee1de6ef82d7e1578fc97685b1b36256@colbanco.com>
+X-Priority: 3
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_ee1de6ef82d7e1578fc97685b1b36256"
+Content-Transfer-Encoding: 8bit
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - cl727.mundiserver.com
+X-AntiAbuse: Original Domain - dorianvasco.de
+X-AntiAbuse: Originator/Caller UID/GID - [20029 20029] / [47 12]
+X-AntiAbuse: Sender Address Domain - colbanco.com
+X-Get-Message-Sender-Via: cl727.mundiserver.com: authenticated_id: colbanco/from_h
+
+--b1_ee1de6ef82d7e1578fc97685b1b36256
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+Das Ehepaar sucht eine Frau für Freundschaft, Kommunikation und Sex.
+Meine Frau sieht wie Model aus, und ich habe eine sportliche Figur!
+Wir möchten eine ständige Freundin und Liebhaberin finden.
+[ http://colbanco.com/moment.php?o=136&6ovt5=MQfBAXXuEYUzL5NcJx1k&3AJ=JQk&4wwWZ=v ] Hier ist unser Profil
+
+
+--b1_ee1de6ef82d7e1578fc97685b1b36256
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+<html>
+<body>
+Das Ehepaar sucht eine Frau für Freundschaft, Kommunikation und Sex.<br>
+Meine Frau sieht wie Model aus, und ich habe eine sportliche Figur!<br>
+Wir möchten eine ständige Freundin und Liebhaberin finden.<br>
+<a href="http://colbanco.com/moment.php?o=136&6ovt5=MQfBAXXuEYUzL5NcJx1k&3AJ=JQk&4wwWZ=v">Hier ist unser Profil</a><br>
+</body>
+</html>
+
+
+
+--b1_ee1de6ef82d7e1578fc97685b1b36256--
+

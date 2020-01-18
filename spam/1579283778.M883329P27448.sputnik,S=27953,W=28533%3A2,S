@@ -1,0 +1,580 @@
+Return-Path: <return-a444-64119-64133-589bf19f=199990483=8@pixelprodeals.de>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id CB8DAC439C
+	for <mail@dorianvasco.de>; Fri, 15 Nov 2019 14:36:02 +0100 (CET)
+Authentication-Results: v22014122474822114.stilfilm.com; dkim=pass
+	reason="1024-bit key; insecure key"
+	header.d=pixelprodeals.de header.i=@pixelprodeals.de
+	header.b=a7iW6ghX; dkim-adsp=pass; dkim-atps=neutral
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 6.41
+X-Spam-Level: ******
+X-Spam-Status: Yes, score=6.41 required=4.5 tests=[BAYES_99=3.5,
+	BAYES_999=0.2, DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	HTML_IMAGE_RATIO_08=0.001, HTML_MESSAGE=0.001,
+	RAZOR2_CF_RANGE_51_100=1.886, RAZOR2_CHECK=0.922]
+	autolearn=no autolearn_force=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 0P5qEKUj5mrL for <mail@dorianvasco.de>;
+	Fri, 15 Nov 2019 14:35:59 +0100 (CET)
+Received: from smtp7-125.newsletter-pixelpro.de (smtp7-125.newsletter-pixelpro.de [193.70.52.211])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id F392EC1824
+	for <kontakt@dorianvasco.de>; Fri, 15 Nov 2019 14:35:54 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; d=pixelprodeals.de; s=ppm; t=1573824949;
+ bh=XMRnjU9l99y1GlrwoqPlU4LsIvI=;
+ h=Subject:From:To:Reply-To:Date:List-Unsubscribe:X-CampaignID:
+  Message-ID:X-Mailer-Info:MIME-Version:Content-Type;
+ b=a7iW6ghXR6HCXki9DTc7dVGArFrhyAnCCZJl/jL7U7NaDPdxbBHoYTEztJ+5hg042
+  2K+xd0hJoggzSKOi8C4EYNSSSERwZr6QEPXBdxQ2ZKYdC8z2E5L23E/H+XNVm4lPcq
+  StXY0xLQQmLqePppFvrLB+R7AjBgyIok2PXjKZZY=
+Subject: =?UTF-8?Q?El=20Gordo=20kommt=21=20Sichere=20dir=20f=C3=BCr=20k?=
+ =?UTF-8?Q?urze=20Zeit=20dein=20Los=20zum=20Sonderpreis=20von=201=2C9?=
+ =?UTF-8?Q?9=20Euro?=
+From: "Niklas Holler" <mail@pixelprodeals.de>
+To: kontakt@dorianvasco.de
+Reply-To: noreply@pixelprodeals.de
+Date: 15 Nov 2019 13:35:49 -0000
+List-Unsubscribe: <http://pixelprodeals.de/ga/unsubscribe/2-199990483-444-23939-64133-e04939885d24e4c-7006b6dd11?confirmed=1>,
+ <mailto:return-a444-64119-64133-589bf19f=199990483=8u@pixelprodeals.de>
+X-CampaignID: s4:64119-979733095a004ca3
+Message-ID: <mid-52eb2ee251bd0b52b039777248e71e4d-33@pixelprodeals.de>
+X-Mailer-Info: 8.QY0QDN.YDNxETO.wav5GdhtGdAR2bylWYuZXYzN2buQWZ.xkTO5kDM0gzM.YDNxMzM
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="==b545433d54b3de6134d54619ec0ddedb"
+
+This is a multi-part message in MIME format.
+
+--==b545433d54b3de6134d54619ec0ddedb
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Der fr=C3=BChe Vogel f=C3=A4ngt die Millionen... Die spanische
+Weichnachtslotterie mit 2,3 Mrd. Euro Gesamtgewinn ist bald
+wieder da!
+
+=EF=BB=BFIm Browser ansehen ( http://pixelprodeals.de/ga/webviews/4-1999904=
+83-444-23939-26393-64133-db120c5892 ) | Abmelden (
+http://pixelprodeals.de/ga/unsubscribe/2-199990483-444-23939-64133-e0493988=
+5d24e4c-7006b6dd11 )
+
+Lottoland ( http://pixelprodeals.de/ga/click/2-199990483-444-23939-64133-19=
+14488-7494d0fe4e-7006b6dd11 )
+
+1/100 Los f=C3=BCr
+( http://pixelprodeals.de/ga/click/2-199990483-444-23939-64133-1914488-7494=
+d0fe4e-7006b6dd11 )
+
+nur 1,99=E2=82=AC 4,99=E2=82=AC! ( http://pixelprodeals.de/ga/click/2-19999=
+0483-444-23939-64133-1914488-7494d0fe4e-7006b6dd11 )
+
+jetzt los sichern
+( http://pixelprodeals.de/ga/click/2-199990483-444-23939-64133-1914488-7494=
+d0fe4e-7006b6dd11 )
+
+Warte nicht bis
+Weihnachten - Die beste Bescherung findet schon jetzt statt!
+
+Bei der spanischen Weihnachtslotterie warten Gesamtgewinne im
+Wert von 2,3 Mrd.=E2=82=AC! Sichere dir schon jetzt dein 1/100 Los f=C3=BCr
+El Gordo und spare dich gl=C3=BCcklich! Nutze unser Early-Bird Angebot
+und kaufe dir dein Anteilslos f=C3=BCr nur 1,99=E2=82=AC!
+
+jetzt los sichern
+( http://pixelprodeals.de/ga/click/2-199990483-444-23939-64133-1914488-7494=
+d0fe4e-7006b6dd11 )
+
+Kundenbewertung: Sehr gut ( http://pixelprodeals.de/ga/click/2-199990483-44=
+4-23939-64133-1914488-7494d0fe4e-7006b6dd11 )
+
+G=C3=BCnstiger, besser,
+zufriedener!
+
+In branchenweiten Studien ist
+das Lottoland zum g=C3=BCnstigsten und besten
+=C3=BCberregionalen Lottoanbieter
+ausgezeichnet worden. Besonders freuen wir uns =C3=BCber
+tausende Empfehlungen unserer
+Spieler.
+
+=C2=A9 2019 Lottoland.com
+
+Bitte beachte, dass diese E-Mail
+nicht vom Lottoland direkt versendet worden ist und es keinen
+Einfluss auf den Empf=C3=A4ngerkreis hat. M=C3=B6chtest du dich aus diesem
+Verteiler abmelden, wende dich bitte direkt an den Absender.
+
+Ab 18! Angebot g=C3=BCltig f=C3=BCr
+Neuspieler. Gewinnchance 1:95 Mio. Suchtgefahr. Info:
+bzga.de. ( http://pixelprodeals.de/ga/click/2-199990483-444-23939-64133-191=
+4489-53b4e27dfc-7006b6dd11 )
+
+Das Angebot ist eine kommerzielle Anzeige dieses Werbekunden,
+der allein f=C3=BCr den Inhalt verantwortlich ist.
+
+Verantwortlich f=C3=BCr den Versand der E-Mail ist:
+Ein Service von Pixel ProMarketing S.L. | Str Azor n5
+Mijas-Costa | E-29651 M=C3=A1laga
+
+Ihre Daten sind lediglich bei dem Versender gespeichert. Der
+Werbekunde hat daher keinen Einfluss auf dem Empf=C3=A4ngerkreis der
+E-Mail.
+Sofern Sie k=C3=BCnftig keinen Newsletter mehr erhalten m=C3=B6chten,
+wenden Sie sich bitte direkt an den Versender oder klicken auf
+folgenden Link: Abmelden ( http://pixelprodeals.de/ga/unsubscribe/2-1999904=
+83-444-23939-64133-e04939885d24e4c-7006b6dd11 )
+
+Haben Sie Verst=C3=A4ndnis, dass die Abmeldung bis zu 48 Stunden
+dauern kann. Direkte Antworten an die Absenderadresse k=C3=B6nnen
+nicht beantwortet werden.
+
+support(at)pixelpromarketing.com ( support@pixelpromarketing.com
+)
+Ihre Daten sind lediglich bei dem Versender gespeichert. Der
+Werbekunde hat daher keinen Einfluss auf den Empf=C3=A4ngerkreis der
+E-Mail.=
+
+--==b545433d54b3de6134d54619ec0ddedb
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html
+    PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/x=
+html1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+
+<head>
+    <title>Jetzt bei Lottoland abr&auml;umen!</title>
+    <meta content=3D"text/html; charset=3DUTF-8" http-equiv=3D"Content-Type=
+" />
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1.0" />
+
+    <!-- MS ENHANCEMENT -->
+    <!--[if !mso]><!-->
+    <meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge" />
+    <!--<![endif]-->
+
+    <!-- APPLE ENHANCEMENT -->
+    <style type=3D"text/css">
+        a[x-apple-data-detectors] {
+            color: inherit !important;
+            text-decoration: none !important;
+            font-size: inherit !important;
+            font-family: inherit !important;
+            font-weight: inherit !important;
+            line-height: inherit !important;
+        }
+
+        @media only screen and (max-width: 600px) {
+            .jackpotAmount { font-size: 90px !important; line-height: 50px =
+!important}
+            .jackpotText { font-size: 60px !important; line-height: 50px !i=
+mportant}
+            .normalText { font-size: 30px !important; line-height: 30px !im=
+portant}
+            .eyecatcher { width: 100% !important; height: auto !important;}
+        }
+    </style>
+</head>
+
+<body style=3D"padding:0px;margin:0px;height:100%;width:100%;background-col=
+or:#f6f6f6;">
+
+    <div
+        style=3D"display: none; font-size: 1px; color: #d42015; line-height=
+: 1px; max-height: 0px; max-width: 0px; opacity: 0; overflow: hidden;">
+        <!--PreHead-->Der fr&uuml;he Vogel f&auml;ngt die Millionen... Die =
+spanische Weichnachtslotterie mit 2,3 Mrd. Euro Gesamtgewinn ist bald wiede=
+r da!</div>
+<center>
+<div style=3D"text-align: center; width: 100%; max-width: 590px;"><a style=
+=3D"text-decoration: none; color: #000000;" href=3D"http://pixelprodeals.de=
+/ga/webviews/4-199990483-444-23939-26393-64133-db120c5892">&#65279;Im Brows=
+er ansehen</a> | <a style=3D"text-decoration: none; color: #000000;" href=
+=3D"http://pixelprodeals.de/ga/unsubscribe/2-199990483-444-23939-64133-e049=
+39885d24e4c-7006b6dd11">Abmelden</a></div>
+</center>
+
+
+    <!-- START CONTENT LIQUID WRAPPER -->
+    <table style=3D"padding: 0px; margin: 0px; width: 100%; background-colo=
+r: #ffe000;" cellspacing=3D"0" cellpadding=3D"0"
+        border=3D"0">
+        <tbody>
+            <tr>
+                <td style=3D"padding: 0px; margin: 0px; background-color: #=
+ffe000;">&nbsp;</td>
+                <td style=3D"padding: 0px; margin: 0px; background-color: #=
+ffe000;" width=3D"500">
+                    <!-- START CONTENT -->
+                    <table style=3D"padding: 0px; margin: 0px; width: 100%;=
+" cellspacing=3D"0" cellpadding=3D"0" border=3D"0">
+                        <!-- LOGO -->
+                        <tbody>
+                            <tr>
+                                <td style=3D"padding: 0px; margin: 0px; fon=
+t-size: 20px; height: 20px; line-height: 20px;"
+                                    height=3D"20">&nbsp;</td>
+                            </tr>
+                            <tr>
+                                <td align=3D"center" style=3D"padding: 0px;=
+ margin: 0px; text-align: center;">
+                                    <a id=3D"Logo" target=3D"_blank" href=
+=3D"http://pixelprodeals.de/ga/click/2-199990483-444-23939-64133-1914488-74=
+94d0fe4e-7006b6dd11">
+                                        <img src=3D"https://llcrm.s3.amazon=
+aws.com/content-aq/Emails/LL_Logo_172x55.png"
+                                            alt=3D"Lottoland"
+                                            style=3D"padding: 0px; margin: =
+0px; display: inline-block; width: 172px; height: 55px; font-size: 15px; fo=
+nt-family: Arial,Helvetica,sans-serif; font-weight: 800; color: #000000;"
+                                            border=3D"0" />
+                                    </a>
+                                </td>
+                            </tr>
+                            <!-- TEASER TEXT -->
+                            <tr>
+                                <td style=3D"padding: 0px; margin: 0px; fon=
+t-size: 40px; height: 40px; line-height: 40px;"
+                                    height=3D"40">&nbsp;</td>
+                            </tr>
+                            <tr>
+                                <td style=3D"padding: 0px; margin: 0px;">
+                                    <center>
+                                        <a id=3D"Headline" target=3D"_blank"
+                                            href=3D"http://pixelprodeals.de=
+/ga/click/2-199990483-444-23939-64133-1914488-7494d0fe4e-7006b6dd11"
+                                            style=3D"font-size: 39px; font-=
+family: Arial,Helvetica,sans-serif; color: #333333; text-decoration: none;">
+                                        <span style=3D"font-size: 39px; fon=
+t-family: Arial,Helvetica,sans-serif; color: #333333; text-decoration: none=
+;">
+                                        <b>1/100 Los f&uuml;r </b>
+                                        </span>
+                                        </a>
+                                    </center>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style=3D"padding: 0px; margin: 0px;">
+                                    <center><a id=3D"TeaserLotto6aus49" tar=
+get=3D"_blank"
+                                            href=3D"http://pixelprodeals.de=
+/ga/click/2-199990483-444-23939-64133-1914488-7494d0fe4e-7006b6dd11"
+                                            style=3D"font-size: 39px; font-=
+family: Arial,Helvetica,sans-serif; color: #d42015; text-decoration: none;"=
+><span
+                                                style=3D"font-size: 39px; f=
+ont-family: Arial,Helvetica,sans-serif; color: #d42015; text-decoration: no=
+ne;"><b>
+                                        nur 1,99&euro; <s>4,99&euro;!</s></=
+b></span></a></center>
+                                </td>
+                            </tr>
+                            <!-- TEASER CTA -->
+                            <tr>
+                                <td style=3D"padding: 0px; margin: 0px; fon=
+t-size: 40px; height: 40px; line-height: 40px;"
+                                    height=3D"40">&nbsp;</td>
+                            </tr>
+                            <tr>
+                                <td style=3D"padding: 0px; margin: 0px;">
+                                    <center><a id=3D"TeaserCTA" target=3D"_=
+blank"
+                                            href=3D"http://pixelprodeals.de=
+/ga/click/2-199990483-444-23939-64133-1914488-7494d0fe4e-7006b6dd11"
+                                            style=3D"display: inline-block;=
+ font-size: 20px; font-family: Arial,Helvetica,sans-serif; color: #d42015; =
+text-decoration: none; text-transform: none;"><span
+                                                style=3D"display: inline-bl=
+ock; background-color: #81bc1b; font-size: 20px; font-family: Arial,Helveti=
+ca,sans-serif; color: #ffffff; text-decoration: none; border-top: 15px soli=
+d #81bc1b; border-bottom: 15px solid #81bc1b; border-left: 25px solid #81bc=
+1b; border-right: 25px solid #81bc1b; border-radius: 10px; -webkit-border-r=
+adius: 10px; -moz-border-radius: 10px;text-transform: uppercase">
+                                                jetzt los sichern</span></a=
+></center>
+                                </td>
+                            </tr>
+                            <!-- TEASER IMAGE -->
+                            <tr>
+                                <td style=3D"padding: 0px; margin: 0px; fon=
+t-size: 20px; height: 20px; line-height: 20px;"
+                                    height=3D"20">&nbsp;</td>
+                            </tr>
+                            <tr>
+                                <td align=3D"center" style=3D"padding: 0px;=
+ margin: 0px;">
+                                    <table align=3D"center" border=3D"0" ce=
+llpadding=3D"0" cellspacing=3D"0" role=3D"presentation" width=3D"100%" styl=
+e=3D"max-width: 100%; vertical-align: middle">
+                                        <tbody>
+                                            <tr>
+                                                <!-- Change image src here =
+-->
+                                                <td align=3D"center" valign=
+=3D"top">
+                                                    <a href=3D"http://pixel=
+prodeals.de/ga/click/2-199990483-444-23939-64133-1914488-7494d0fe4e-7006b6d=
+d11"><img src=3D"https://llcrm.s3.eu-west-1.amazonaws.com/Acq_DACH/DE_AT_El=
+Gordo_title_600x80.jpg" alt=3D"" width=3D"600" height=3D"80" class=3D"eyeca=
+tcher"></a>
+                                                </td>
+                                            </tr>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                                            <tr>
+                                                <!-- Change image src here =
+-->
+                                                <td align=3D"center" valign=
+=3D"top">
+                                                    <a href=3D"http://pixel=
+prodeals.de/ga/click/2-199990483-444-23939-64133-1914488-7494d0fe4e-7006b6d=
+d11"><img src=3D"https://llcrm.s3.eu-west-1.amazonaws.com/Acq_DACH/DE_AT_El=
+Gordo_single_600x350.jpg" alt=3D"" width=3D"600" height=3D"350" class=3D"ey=
+ecatcher"></a>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </td>
+                            </tr>
+                            <!-- TEXT -->
+                            <tr>
+                                <td style=3D"padding: 0px; margin: 0px; fon=
+t-size: 40px; height: 40px; line-height: 40px;"
+                                    height=3D"40">&nbsp;</td>
+                            </tr>
+                            <tr>
+                                <td
+                                    style=3D"padding: 0px; margin: 0px; fon=
+t-size: 16px; font-family: Arial,Helvetica,sans-serif; color: #333333;">
+                                    <center>
+                                        Warte nicht bis Weihnachten - Die b=
+este Bescherung findet schon jetzt statt!</center>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style=3D"padding: 0px; margin: 0px; fon=
+t-size: 10px; height: 10px; line-height: 10px;"
+                                    height=3D"10">&nbsp;</td>
+                            </tr>
+                            <tr>
+                                <td
+                                    style=3D"padding: 0px; margin: 0px; fon=
+t-size: 16px; font-family: Arial,Helvetica,sans-serif; color: #333333;">
+                                    <center>
+Bei der spanischen Weihnachtslotterie warten Gesamtgewinne im Wert von 2,3&=
+nbsp;Mrd.&euro;! Sichere dir schon jetzt dein 1/100&nbsp;Los f&uuml;r El&nb=
+sp;Gordo und spare dich gl&uuml;cklich! Nutze unser Early-Bird&nbsp;Angebot=
+ und kaufe dir dein Anteilslos f&uuml;r nur 1,99&euro;!</center>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style=3D"padding: 0px; margin: 0px; fon=
+t-size: 10px; height: 10px; line-height: 10px;"
+                                    height=3D"10">&nbsp;</td>
+                            </tr>
+
+                            <!-- CTA -->
+                            <tr>
+                                <td style=3D"padding: 0px; margin: 0px; fon=
+t-size: 40px; height: 40px; line-height: 40px;"
+                                    height=3D"40">&nbsp;</td>
+                            </tr>
+                            <tr>
+                                <td style=3D"padding: 0px; margin: 0px;">
+                                    <center><a id=3D"CTA" target=3D"_blank"
+                                            href=3D"http://pixelprodeals.de=
+/ga/click/2-199990483-444-23939-64133-1914488-7494d0fe4e-7006b6dd11"
+                                            style=3D"display: inline-block;=
+ font-size: 20px; font-family: Arial,Helvetica,sans-serif; color: #d42015; =
+text-decoration: none; text-transform: none;"><span
+                                                style=3D"display: inline-bl=
+ock; background-color: #81bc1b; font-size: 20px; font-family: Arial,Helveti=
+ca,sans-serif; color: #ffffff; text-decoration: none; border-top: 15px soli=
+d #81bc1b; border-bottom: 15px solid #81bc1b; border-left: 25px solid #81bc=
+1b; border-right: 25px solid #81bc1b; border-radius: 10px; -webkit-border-r=
+adius: 10px; -moz-border-radius: 10px;text-transform: uppercase">
+                                                jetzt los sichern</span></a=
+></center>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style=3D"padding: 0px; margin: 0px; fon=
+t-size: 40px; height: 40px; line-height: 40px;"
+                                    height=3D"40">&nbsp;</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <!-- END CONTENT -->
+                </td>
+                <td style=3D"padding: 0px; margin: 0px; background-color: #=
+ffe000;">&nbsp;</td>
+            </tr>
+        </tbody>
+    </table>
+    <!-- END CONTENT LIQUID WRAPPER -->
+    <!-- START FOOTER LIQUID WRAPPER -->
+    <table style=3D"padding: 0px; margin: 0px; width: 100%;" cellspacing=3D=
+"0" cellpadding=3D"0" border=3D"0">
+        <tbody>
+            <tr>
+                <td style=3D"padding: 0px; margin: 0px;">&nbsp;</td>
+                <td style=3D"padding: 0px; margin: 0px;" width=3D"500">
+                    <!-- START CONTENT -->
+                    <table style=3D"padding: 0px; margin: 0px; width: 100%;=
+" cellspacing=3D"0" cellpadding=3D"0" border=3D"0">
+                        <!-- SIGNET -->
+                        <tbody>
+                            <tr>
+                                <td style=3D"padding: 0px; margin: 0px; fon=
+t-size: 40px; height: 40px; line-height: 40px;"
+                                    height=3D"40">&nbsp;</td>
+                            </tr>
+                            <tr>
+                            <td align=3D"center" style=3D"padding: 0px; mar=
+gin: 0px; text-align: center;">
+                                    <center><a target=3D"_blank" href=3D"ht=
+tp://pixelprodeals.de/ga/click/2-199990483-444-23939-64133-1914488-7494d0fe=
+4e-7006b6dd11">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20
+                                   <img src=3D"https://llcrm.s3.amazonaws.c=
+om/content-aq/Emails/trustedshops473.jpg" alt=3D"Kundenbewertung: Sehr gut"=
+ style=3D"padding: 0px; margin: 0px; display: block; width: 190px; height: =
+191px;" border=3D"0" />
+                                </a> </center>
+
+                            </td>
+                            </tr>
+                            <!-- TEXT -->
+                            <tr>
+                                <td style=3D"padding: 0px; margin: 0px; fon=
+t-size: 20px; height: 20px; line-height: 20px;"
+                                    height=3D"20">&nbsp;</td>
+                            </tr>
+                            <tr>
+                                <td
+                                    style=3D"padding: 0px; margin: 0px; fon=
+t-size: 20px; font-family: Arial,Helvetica,sans-serif; font-weight: 400; co=
+lor: #5f5f5f; text-align: center;">
+                                    <span>G&uuml;nstiger, besser, zufrieden=
+er!</span>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style=3D"padding: 0px; margin: 0px; fon=
+t-size: 20px; height: 20px; line-height: 20px;"
+                                    height=3D"20">&nbsp;</td>
+                            </tr>
+                            <tr>
+                                <td
+                                    style=3D"padding: 0px; margin: 0px; fon=
+t-size: 14px; line-height: 18px; font-family: Arial,Helvetica,sans-serif; f=
+ont-weight: 400; color: #5f5f5f; text-align: center;">
+                                    In branchenweiten Studien ist das Lotto=
+land zum g&uuml;nstigsten und besten
+                                    &uuml;berregionalen Lottoanbieter ausge=
+zeichnet worden. Besonders freuen wir uns &uuml;ber
+                                    tausende Empfehlungen unserer Spieler.
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style=3D"padding: 0px; margin: 0px; fon=
+t-size: 20px; height: 20px; line-height: 20px;"
+                                    height=3D"20">&nbsp;</td>
+                            </tr>
+                            <tr>
+                                <td
+                                    style=3D"padding: 0px; margin: 0px; fon=
+t-size: 14px; line-height: 18px; font-family: Arial,Helvetica,sans-serif; f=
+ont-weight: 400; color: #5f5f5f; text-align: center;">
+                                    =C2=A9 2019 Lottoland.com
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style=3D"padding: 0px; margin: 0px; fon=
+t-size: 20px; height: 20px; line-height: 20px;"
+                                    height=3D"20">&nbsp;</td>
+                            </tr>
+                            <tr>
+                                <td align=3D"center" style=3D"padding: 0px;=
+ margin: 0px; font-size: 12px; font-family: Arial,Helvetica,sans-serif; col=
+or: #5f5f5f; text-align: center;">Bitte beachte, dass diese E-Mail nicht vo=
+m Lottoland direkt versendet worden ist und es keinen Einfluss auf den Empf=
+&auml;ngerkreis hat. M&ouml;chtest du dich aus diesem Verteiler abmelden, w=
+ende dich bitte direkt an den Absender.
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style=3D"padding: 0px; margin: 0px; fon=
+t-size: 20px; height: 20px; line-height: 20px;"
+                                    height=3D"20">&nbsp;</td>
+                            </tr>
+                             <tr>
+                                 <td align=3D"center" style=3D"padding: 0px=
+; margin: 0px; font-size: 12px; font-family: Arial,Helvetica,sans-serif; co=
+lor: #5f5f5f; text-align: center;">Ab 18! Angebot g&uuml;ltig f&uuml;r Neus=
+pieler. Gewinnchance 1:95 Mio. Suchtgefahr. Info:=20=20
+                                     <a href=3D"http://pixelprodeals.de/ga/=
+click/2-199990483-444-23939-64133-1914489-53b4e27dfc-7006b6dd11">bzga.de.</=
+a>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style=3D"padding: 0px; margin: 0px; fon=
+t-size: 20px; height: 20px; line-height: 20px;"
+                                    height=3D"20">&nbsp;</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <!-- END CONTENT -->
+                </td>
+                <td style=3D"padding: 0px; margin: 0px;">&nbsp;</td>
+            </tr>
+        </tbody>
+    </table>
+
+<p align=3D"center">
+
+  <span style=3D"color: #808080; font-size: 12px;">Das Angebot ist eine kom=
+merzielle Anzeige dieses Werbekunden, der allein f&#252;r den Inhalt verant=
+wortlich ist.<br /></span><br /><span style=3D"color: #808080;font-size: 12=
+px;"> Verantwortlich f&#252;r den Versand der E-Mail ist:<br /> <span style=
+=3D"color: #808080;font-size: 12px;"> Ein Service von Pixel ProMarketing S.=
+L. &#160;&#160;|&#160;&#160; Str Azor n5 Mijas-Costa &#160;&#160;|&#160;&#1=
+60; E-29651 M&#225;laga</span><br /><br /> <span style=3D"color: #808080;fo=
+nt-size: 12px;"> Ihre Daten sind lediglich bei dem Versender gespeichert. D=
+er Werbekunde hat daher keinen Einfluss auf dem Empf&#228;ngerkreis der E-M=
+ail. </span><br /> Sofern Sie k&#252;nftig keinen Newsletter mehr erhalten =
+m&#246;chten, wenden Sie sich bitte direkt an den Versender oder klicken au=
+f folgenden Link: <a style=3D"font-weight: normal; text-decoration: underli=
+ne; color: #808080;" href=3D"http://pixelprodeals.de/ga/unsubscribe/2-19999=
+0483-444-23939-64133-e04939885d24e4c-7006b6dd11"> Abmelden</a> <br /> </spa=
+n><span style=3D"color: #808080;font-size: 12px;"><br />Haben Sie Verst&#22=
+8;ndnis, dass die Abmeldung bis zu 48 Stunden dauern kann. Direkte Antworte=
+n an die Absenderadresse k&#246;nnen nicht beantwortet werden. </span></p>
+<center><span style=3D"color: #808080;"><span style=3D"color: #808080; font=
+-size: 12px;"> <a style=3D"font-weight: normal; text-decoration: underline;=
+ color: #808080; text-align: center;" href=3D"mailto:support@pixelpromarket=
+ing.com">support(at)pixelpromarketing.com</a></span></span>
+<p><span style=3D"color: #808080;font-size: 12px;">Ihre Daten sind lediglic=
+h bei dem Versender gespeichert. Der Werbekunde hat daher keinen Einfluss a=
+uf den Empf&#228;ngerkreis der E-Mail.</span>
+=20=20
+</p>
+</center>
+
+=20=20=20=20
+<img src=3D"http://pixelprodeals.de/ga/open/2-199990483-444-23939-64133-700=
+6b6dd11" height=3D"2" width=3D"3" alt=3D""></body>
+</html>=
+
+--==b545433d54b3de6134d54619ec0ddedb--

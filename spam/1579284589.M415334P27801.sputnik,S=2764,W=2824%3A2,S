@@ -1,0 +1,60 @@
+Return-Path: <info3@e-werbung24.de>
+Delivered-To: mail@elementk.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 30EA7C12A7
+	for <mail@elementk.de>; Wed,  4 Dec 2019 12:33:26 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 4.961
+X-Spam-Level: ****
+X-Spam-Status: Yes, score=4.961 required=4.5 tests=[BAYES_50=0.8,
+	HTML_IMAGE_ONLY_04=1.172, HTML_MESSAGE=0.001,
+	HTML_MIME_NO_HTML_TAG=0.377, HTML_SHORT_LINK_IMG_1=0.001,
+	MIME_HTML_ONLY=0.1, TVD_SPACE_RATIO=0.001,
+	TVD_SPACE_RATIO_MINFP=2.499, T_REMOTE_IMAGE=0.01]
+	autolearn=no autolearn_force=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id FhkWFnhMScRD for <mail@elementk.de>;
+	Wed,  4 Dec 2019 12:33:24 +0100 (CET)
+Received: from mxwn16.webd.pl (mxwn16.webd.pl [194.181.228.82])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id 37CD4C128B
+	for <mail@elementk.de>; Wed,  4 Dec 2019 12:33:19 +0100 (CET)
+Received: from wn16.int.webd ([192.168.101.116] helo=wn16.webd.pl)
+	by mxn01.webd.pl with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.92)
+	(envelope-from <info3@e-werbung24.de>)
+	id 1icSu7-0001br-8G
+	for mail@elementk.de; Wed, 04 Dec 2019 12:33:11 +0100
+Received: from mxn01.int.webd ([192.168.101.41]:41746 helo=localhost)
+	by wn16.webd.pl with esmtp (Exim 4.92)
+	(envelope-from <info3@e-werbung24.de>)
+	id 1icSu7-0001fs-5U
+	for mail@elementk.de; Wed, 04 Dec 2019 12:33:11 +0100
+X-Quarantine-ID: <uAnmRpUWDCOH>
+X-Virus-Scanned: amavisd-new at mxwn16.webd.pl
+Received: from wn16.webd.pl ([192.168.101.116])
+	by localhost (mxwn16.webd.pl [192.168.101.41]) (amavisd-new, port 10164)
+	with ESMTP id uAnmRpUWDCOH for <mail@elementk.de>;
+	Wed,  4 Dec 2019 12:33:07 +0100 (CET)
+Received: from [31.42.3.207] (port=54034 helo=VINAO-KOPIA-DWA)
+	by wn16.webd.pl with esmtpa (Exim 4.92)
+	(envelope-from <info3@e-werbung24.de>)
+	id 1icSu3-0001Tz-4E
+	for mail@elementk.de; Wed, 04 Dec 2019 12:33:07 +0100
+MIME-Version: 1.0
+From: "info3@e-werbung24.de" <info3@e-werbung24.de>
+To: mail@elementk.de
+Date: 4 Dec 2019 12:33:07 +0100
+Subject: Spanndecken als praktisches Designelement. www spanndecken-expert.de
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: base64
+Message-Id: <E1icSu7-0001br-8G@mxn01.webd.pl>
+
+PHAgYWxpZ249ImNlbnRlciI+PGEgaHJlZj0iaHR0cDovL3NwYW5uZGVja2VuLWV4cGVy
+dC5kZSI+PGltZyBib3JkZXI9IjAiIHNyYz0iaHR0cDovL3NwYW5uZGVja2VuLWV4cGVy
+dC5kZS93eXN5bGthLmpwZyIgd2lkdGg9IjEzOTYiIGhlaWdodD0iODQ4Ij48L2E+PC9w
+Pg0K
+

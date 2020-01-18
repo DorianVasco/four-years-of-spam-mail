@@ -1,0 +1,141 @@
+Received: from localhost by v22014122474822114.stilfilm.com
+	with SpamAssassin (version 3.3.2);
+	Wed, 22 Nov 2017 21:04:52 +0100
+From: Thomas Schmidt <info@top-kontakt.net>
+To: info@dorianvasco.de
+Subject: *****SPAM***** ***SPAM*** FW: Neukunden.
+Date: Thu, 7 Sep 2017 07:24:08 +0000
+Message-Id: <20170907_072408_053188.info@top-kontakt.net>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	v22014122474822114.stilfilm.com
+X-Spam-Flag: YES
+X-Spam-Level: ***********
+X-Spam-Status: Yes, score=11.6 required=5.0 tests=DIGEST_MULTIPLE,PYZOR_CHECK,
+	RAZOR2_CF_RANGE_51_100,RAZOR2_CHECK,RCVD_IN_BRBL_LASTEXT,RDNS_NONE,
+	SPF_HELO_FAIL,URIBL_BLOCKED,URIBL_DBL_SPAM autolearn=no version=3.3.2
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----------=_5A15D864.67E77210"
+
+This is a multi-part message in MIME format.
+
+------------=_5A15D864.67E77210
+Content-Type: text/plain; charset=iso-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+
+Software zur Erkennung von "Spam" auf dem Rechner
+
+    v22014122474822114.stilfilm.com
+
+hat die eingegangene E-mail als mögliche "Spam"-Nachricht identifiziert.
+Die ursprüngliche Nachricht wurde an diesen Bericht angehängt, so dass
+Sie sie anschauen können (falls es doch eine legitime E-Mail ist) oder
+ähnliche unerwünschte Nachrichten in Zukunft markieren können.
+Bei Fragen zu diesem Vorgang wenden Sie sich bitte an
+
+    the administrator of that system
+
+Vorschau: Sehr geehrte Damen und Herren, nach unserem Besuch Ihrer Homepage
+   mÃ¶chten wir Ihnen ein Angebot von Produkten vorstellen, das Ihnen ermÃ¶glichen
+   wird, den Verkauf Ihrer Produkte sowie Dienstleistungen deutlich zu erhÃ¶hen.
+   [...] 
+
+Inhaltsanalyse im Detail:   (11.6 Punkte, 5.0 benötigt)
+
+Pkte Regelname              Beschreibung
+---- ---------------------- --------------------------------------------------
+ 1.6 RCVD_IN_BRBL_LASTEXT   RBL: RCVD_IN_BRBL_LASTEXT
+                            [5.79.70.92 listed in bb.barracudacentral.org]
+ 2.5 URIBL_DBL_SPAM         Contains a spam URL listed in the DBL blocklist
+                            [URIs: top-kontakt.net]
+ 0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+                            See
+                            http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                             for more information.
+                            [URIs: top-kontakt.net]
+ 0.0 SPF_HELO_FAIL          HELO-Name entspricht nicht SPF-Datensatz (fail)
+[SPF failed: Please see http://www.openspf.net/Why?s=helo;id=top-kontakt.net;ip=5.79.70.92;r=v22014122474822114.stilfilm.com]
+ 2.4 RAZOR2_CF_RANGE_51_100 Razor2 Spam-Bewertung liegt zwischen 51 und
+                            100
+                            [cf: 100]
+ 1.7 RAZOR2_CHECK           Gelistet im "Razor2"-System (http://razor.sf.net/)
+ 2.0 PYZOR_CHECK            Gelistet im Pyzor-System (http://pyzor.sf.net/)
+ 0.0 DIGEST_MULTIPLE        Mehrere Internettests (Razor, DCC, Pyzor, etc.)
+                            treffen zu
+ 1.3 RDNS_NONE              Delivered to internal network by a host with no rDNS
+
+
+
+------------=_5A15D864.67E77210
+Content-Type: message/rfc822; x-spam-type=original
+Content-Description: original message before SpamAssassin
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+
+Return-Path: <info@top-kontakt.net>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id A8EDED4A5A
+	for <mail@dorianvasco.de>; Thu,  7 Sep 2017 09:24:12 +0200 (CEST)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 11.753
+X-Spam-Level: ***********
+X-Spam-Status: Yes, score=11.753 required=5.5 tests=[BAYES_99=3.5,
+	BAYES_999=0.2, RAZOR2_CF_RANGE_51_100=0.5,
+	RAZOR2_CF_RANGE_E8_51_100=1.886, RAZOR2_CHECK=0.922,
+	RCVD_IN_BRBL_LASTEXT=1.449, RDNS_NONE=0.793, SPF_FAIL=0.001,
+	SPF_HELO_FAIL=0.001, URIBL_BLOCKED=0.001, URIBL_DBL_SPAM=2.5]
+	autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 8ZP-YoQqz_B2 for <mail@dorianvasco.de>;
+	Thu,  7 Sep 2017 09:24:10 +0200 (CEST)
+Received: from top-kontakt.net (unknown [5.79.70.92])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id A839CC1BE8
+	for <info@dorianvasco.de>; Thu,  7 Sep 2017 09:24:10 +0200 (CEST)
+To: info@dorianvasco.de
+From: Thomas Schmidt <info@top-kontakt.net>
+Subject: ***SPAM*** FW: Neukunden.
+Date: Thu, 7 Sep 2017 07:24:08 +0000
+Message-ID: <20170907_072408_053188.info@top-kontakt.net>
+X-Mailer: TM
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain; charset="utf-8"
+Mime-Version: 1.0
+
+Sehr geehrte Damen und Herren, 
+
+nach unserem Besuch Ihrer Homepage mÃ¶chten wir Ihnen ein Angebot von Produkten vorstellen, das Ihnen
+ermÃ¶glichen wird, den Verkauf Ihrer Produkte sowie Dienstleistungen deutlich zu erhÃ¶hen.
+
+Unser Angebot beinhaltet Datenbanken mit den Adressen deutscher Firmen, respektive potentiellen
+Kunden fÃ¼r Ihr Unternehmen.
+
+Die Datenbanken der Firmen sind in fÃ¼r Sie interessante und relevante Zielgruppen untergliedert.
+
+Die Firmenangaben beinhalten:
+Name der Firma, Ansprechpartner, E-mail Adresse, Tel. + Fax-Nr., PLZ, Ort, StraÃŸe etc.
+
+*** Firmenadressen 2017! Aktionspreis - bis zum 07.09.2017 
+
+1. Gesamtpaket 2017 DE 1 Mio. Firmenadressen ( 1 241 451 ) - 190 EUR ( bis zum 07.09.2017 )
+2. Gesamtpaket 2017 DE,AT,CH ( 1 641 451 ) - 240 EUR ( bis zum 07.09.2017 ) 
+3. Europa 2017 (DE, AT, CH, UK, FR, IT, ES) ( 3 631 561 ) - 390 EUR ( bis zum 29.07.2017 ) 
+
+http://www.top-kontakt.net/?page=1
+
+Die VerwendungsmÃ¶glichkeiten der Datenbanken sind praktisch unbegrenzt und Sie kÃ¶nnen durch Verwendun
+g der von uns entwickelten Programme des personalisierten Versendens von Angeboten u.Ã¤. mittels
+E-mailing bzw. Fax effektive und sichere Werbekampagnen damit durchfÃ¼hren.
+Bitte informieren Sie sich Ã¼ber die weiteren Details einmal unverbindlich auf unseren Webseite:
+
+http://www.top-kontakt.net/?page=1
+
+MfG
+GC-Team.
+
+
+
+------------=_5A15D864.67E77210--
+

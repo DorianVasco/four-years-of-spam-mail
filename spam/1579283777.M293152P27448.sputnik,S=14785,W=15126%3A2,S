@@ -1,0 +1,341 @@
+Return-Path: <gurpreet@consagous.tech>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 5BC16D1B90
+	for <mail@dorianvasco.de>; Wed, 13 Nov 2019 14:23:28 +0100 (CET)
+Authentication-Results: v22014122474822114.stilfilm.com; dkim=pass
+	reason="2048-bit key; insecure key"
+	header.d=consagous.tech header.i=@consagous.tech header.b=sqQhTwRb;
+	dkim-adsp=pass; dkim-atps=neutral
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: 2.203
+X-Spam-Level: **
+X-Spam-Status: No, score=2.203 required=5.5 tests=[BAYES_05=-0.5,
+	DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	HTML_MESSAGE=0.001, ONLINE_MKTG_CNSLT=2.8, RCVD_IN_DNSWL_NONE=-0.0001,
+	RCVD_IN_MSPIKE_H3=0.001, RCVD_IN_MSPIKE_WL=0.001, SPF_HELO_NONE=0.001,
+	SPF_PASS=-0.001] autolearn=no autolearn_force=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id WbsTxOwmmIh8 for <mail@dorianvasco.de>;
+	Wed, 13 Nov 2019 14:23:23 +0100 (CET)
+Received: from mail-pf1-f193.google.com (mail-pf1-f193.google.com [209.85.210.193])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id 12409C6CA1
+	for <mail@dorianvasco.de>; Wed, 13 Nov 2019 14:23:21 +0100 (CET)
+Received: by mail-pf1-f193.google.com with SMTP id r4so1664342pfl.7
+        for <mail@dorianvasco.de>; Wed, 13 Nov 2019 05:23:21 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=consagous.tech; s=google;
+        h=from:to:subject:date:message-id:mime-version:thread-index
+         :content-language;
+        bh=qF1iDPYoenVVUQvSkHL1pfhxf3tiZJdlOuweXCNgZv8=;
+        b=sqQhTwRbYpMaMKQas4gIcE8ZQ9IgX2Q4kp8YueDuJsRL3PXGng8CqhR7KJdh8nG1tz
+         LTHbWGSxs3ShNQNb+zfBUFbCxzEh1RDhS7pjEPCDvwkWlM8+yGcwJTTEh6mFet5/Z2kT
+         H0fbk3z3Ul1NNIEhycXpRP9S4j8iK7ZpD5acnxJ3b+dDNv9GfXZdQeaM+5WZSrpH+/Pr
+         4CWXcsFydAhLWq3YMK8liCg3DD4J/AiPrnaiC+ohta1X0dGIqC3dNk9lc+WgGagCwRRe
+         S1KHk5QUYnWU7cUHMoiFi6yQS03G/hriJ06XEp2c4QxeMU3dgnq6TuPAIMwQdiV2C2uD
+         4/tw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:from:to:subject:date:message-id:mime-version
+         :thread-index:content-language;
+        bh=qF1iDPYoenVVUQvSkHL1pfhxf3tiZJdlOuweXCNgZv8=;
+        b=iiihWv79ZdXMXAK7ue50BZEeXleV9MqKV6aT9ckkLgeBvrtqQwkl2j0o+g1fM4mltH
+         GAbgGFxYrkCQ5+6j2joxLvj0v2KbgVtCj5gMaFrWSkkhKOKhGveSE9gdTCioXJLnb9Q5
+         /as2Lv1tk/8+DqY7MVpSsXzFe1dZgCn+OcdeDthaGXlJUZ9Dd4DCcYcYxgg9NBKxFvhK
+         BTzDdhHdnWiXYZit9J1VAvXTMnSCM/Ji5kN22AIAkkdX96Nzw6YTx+hxkiVhtoFFaOb5
+         o/5EvAn3cEUGOoA4w1oGvDFhYpB350EnwNvNGM91kDjCHjecJFFnu5a+ubEs7lZE2Jsz
+         lMJQ==
+X-Gm-Message-State: APjAAAUJNIomG0Wgz4xnX5lqITuUYUxhmMMOGAIKFJ4qnWqTWsUl0DHW
+	BGvQvvkRGxF2qjSNeN66AYG4qDpIK4M=
+X-Google-Smtp-Source: APXvYqzLb6ttLh07Y+9oYi9vkqWeotPeA7AkEyThUJC5Z6+aMnHsdwIBsIEMDOlbeJtHEDDXG1K9Vw==
+X-Received: by 2002:a17:90b:30d7:: with SMTP id hi23mr4870486pjb.10.1573651397737;
+        Wed, 13 Nov 2019 05:23:17 -0800 (PST)
+Received: from mmPC ([163.53.85.209])
+        by smtp.gmail.com with ESMTPSA id j14sm2463150pfi.168.2019.11.13.05.23.16
+        for <mail@dorianvasco.de>
+        (version=TLS1 cipher=ECDHE-RSA-AES128-SHA bits=128/128);
+        Wed, 13 Nov 2019 05:23:17 -0800 (PST)
+From: "Gurpreet" <gurpreet@consagous.tech>
+To: <mail@dorianvasco.de>
+Subject: Online Marketing Consultant
+Date: Wed, 13 Nov 2019 18:47:11 +0530
+Message-ID: <14aa01d59a25$80ed4b00$82c7e100$@tech>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_14AB_01D59A53.9AA58700"
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-Index: AdWZ8q2daeDNu9EEQ3CIwn9kw83yzw==
+Content-Language: en-us
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_14AB_01D59A53.9AA58700
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+Hello DorianVasco Nagel,
+
+My Name is Gurpreet,  (Business Consultant).
+
+                        
+
+I found your web contact email from INTERNET "mail@dorianvasco.de". I would
+like to discuss a business opportunity with you.     
+
+ 
+
+Off-Page work activities "Monthly Task and responsibilities"
+
+1.  150 Directory submissions
+
+2.  60 Social Book marking Submissions
+
+3.  20 Article Submissions (1 article x 20 article websites)
+
+4.  10 Press Release Submissions (1 press release x 10 press release
+websites)
+
+5.  10 Blog Comments
+
+6.  1 unique, 400 word article written
+
+7.  1 unique, 400 word press releases
+
+8.  10 Search Engine Submissions
+
+9.  20+ One Way Directory Link
+
+ 
+
+On-Page work activities "Follow only first month"
+
+1.  Meta tags/Title tag changes
+
+2.  Keyword research/Analysis
+
+3.  Competitor Analysis
+
+4.  Heading tag changes
+
+5.  Alt tag changes
+
+6.  Interlinking wherever required.
+
+7.  Keyword density in site content.
+
+ 8.  HTML Site Map
+
+9.  XML site map and Submission in webmaster tool
+
+10. Ror.XML File creation
+
+11. Robots.Txt File creation Extra work activities
+
+12. Google Webmaster tool
+
+13. Google Analytics
+
+ 
+
+Do let me know if you are interested and I would be happy to share our past
+work details and client Testimonials and Prices.
+
+ 
+
+Regards,
+
+Gurpreet,
+
+Online Marketing Consultant
+
+ 
+
+
+------=_NextPart_000_14AB_01D59A53.9AA58700
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40"><head><META =
+HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html; =
+charset=3Dus-ascii"><meta name=3DGenerator content=3D"Microsoft Word 12 =
+(filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+p
+	{mso-style-priority:99;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+span.apple-converted-space
+	{mso-style-name:apple-converted-space;}
+.MsoChpDefault
+	{mso-style-type:export-only;}
+.MsoPapDefault
+	{mso-style-type:export-only;
+	margin-bottom:10.0pt;
+	line-height:115%;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DEN-US link=3Dblue =
+vlink=3Dpurple><div class=3DWordSection1><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;background:wh=
+ite'><span style=3D'color:#222222'>Hello DorianVasco =
+Nagel,<o:p></o:p></span></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;background:wh=
+ite'><span style=3D'color:#222222'>My Name =
+is&nbsp;<b>Gurpreet,&nbsp;&nbsp;</b>(Business =
+Consultant).<o:p></o:p></span></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;background:wh=
+ite'><span =
+style=3D'color:#222222'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;<o:p></o:p></span></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;background:wh=
+ite'><span style=3D'color:#222222'>I found your web contact email from =
+INTERNET &#8220;<span =
+style=3D'background:aqua'>mail@dorianvasco.de</span>&#8221;. I would =
+like to discuss a business opportunity with =
+you.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<o:p></o:p></span></p><p =
+class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;background:wh=
+ite'><span style=3D'color:#222222'>&nbsp;<o:p></o:p></span></p><p =
+class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;background:wh=
+ite'><span style=3D'color:#222222'>Off-Page work activities =
+&quot;Monthly Task and responsibilities&quot;<o:p></o:p></span></p><p =
+class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;background:wh=
+ite'><span style=3D'color:#222222'>1.&nbsp; 150 Directory =
+submissions<o:p></o:p></span></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;background:wh=
+ite'><span style=3D'color:#222222'>2.&nbsp; 60 Social Book marking =
+Submissions<o:p></o:p></span></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;background:wh=
+ite'><span style=3D'color:#222222'>3.&nbsp; 20 Article Submissions (1 =
+article x 20 article websites)<o:p></o:p></span></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;background:wh=
+ite'><span style=3D'color:#222222'>4.&nbsp; 10 Press Release Submissions =
+(1 press release x 10 press release websites)<o:p></o:p></span></p><p =
+class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;background:wh=
+ite'><span style=3D'color:#222222'>5.&nbsp; 10 Blog =
+Comments<o:p></o:p></span></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;background:wh=
+ite'><span style=3D'color:#222222'>6.&nbsp; 1 unique, 400 word article =
+written<o:p></o:p></span></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;background:wh=
+ite'><span style=3D'color:#222222'>7.&nbsp; 1 unique, 400 word press =
+releases<o:p></o:p></span></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;background:wh=
+ite'><span style=3D'color:#222222'>8.&nbsp; 10 Search Engine =
+Submissions<o:p></o:p></span></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;background:wh=
+ite'><span style=3D'color:#222222'>9.&nbsp; 20+ One Way Directory =
+Link<o:p></o:p></span></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;background:wh=
+ite'><span style=3D'color:#222222'>&nbsp;<o:p></o:p></span></p><p =
+class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;background:wh=
+ite'><span style=3D'color:#222222'>On-Page work activities &quot;Follow =
+only first month&quot;<o:p></o:p></span></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;background:wh=
+ite'><span style=3D'color:#222222'>1.&nbsp; Meta tags/Title tag =
+changes<o:p></o:p></span></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;background:wh=
+ite'><span style=3D'color:#222222'>2.&nbsp; Keyword =
+research/Analysis<o:p></o:p></span></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;background:wh=
+ite'><span style=3D'color:#222222'>3.&nbsp; Competitor =
+Analysis<o:p></o:p></span></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;background:wh=
+ite'><span style=3D'color:#222222'>4.&nbsp; Heading tag =
+changes<o:p></o:p></span></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;background:wh=
+ite'><span style=3D'color:#222222'>5.&nbsp; Alt tag =
+changes<o:p></o:p></span></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;background:wh=
+ite'><span style=3D'color:#222222'>6.&nbsp; Interlinking wherever =
+required.<o:p></o:p></span></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;background:wh=
+ite'><span style=3D'color:#222222'>7.&nbsp; Keyword density in site =
+content.<o:p></o:p></span></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;background:wh=
+ite'><span style=3D'color:#222222'>&nbsp;8.&nbsp; HTML Site =
+Map<o:p></o:p></span></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;background:wh=
+ite'><span style=3D'color:#222222'>9.&nbsp; XML site map and Submission =
+in webmaster tool<o:p></o:p></span></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;background:wh=
+ite'><span style=3D'color:#222222'>10. Ror.XML File =
+creation<o:p></o:p></span></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;background:wh=
+ite'><span style=3D'color:#222222'>11. Robots.Txt File creation Extra =
+work activities<o:p></o:p></span></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;background:wh=
+ite'><span style=3D'color:#222222'>12. Google Webmaster =
+tool<o:p></o:p></span></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;background:wh=
+ite'><span style=3D'color:#222222'>13. Google =
+Analytics<o:p></o:p></span></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;background:wh=
+ite'><span style=3D'color:#222222'>&nbsp;<o:p></o:p></span></p><p =
+class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;background:wh=
+ite'><span style=3D'color:#222222'>Do let me know if you are interested =
+and I would be happy to share our past work details and client =
+Testimonials and Prices.<o:p></o:p></span></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;background:wh=
+ite'><span style=3D'color:#222222'>&nbsp;<o:p></o:p></span></p><p =
+class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;background:wh=
+ite'><span style=3D'color:#222222'>Regards,<o:p></o:p></span></p><p =
+class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;background:wh=
+ite'><b><span style=3D'color:#222222'>Gurpreet</span></b><span =
+style=3D'color:#222222'>,<o:p></o:p></span></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;background:wh=
+ite'><span style=3D'color:#222222'>Online Marketing =
+Consultant<o:p></o:p></span></p><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p></div></body></html>
+------=_NextPart_000_14AB_01D59A53.9AA58700--
+

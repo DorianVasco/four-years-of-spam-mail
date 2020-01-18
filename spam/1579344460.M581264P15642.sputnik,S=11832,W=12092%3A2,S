@@ -1,0 +1,260 @@
+Return-Path: <aryan@easyglobalsearch.online>
+Delivered-To: mail@stilfilm.com
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 020FFC7986
+	for <mail@stilfilm.com>; Mon,  8 Apr 2019 08:35:13 +0200 (CEST)
+Authentication-Results: v22014122474822114.stilfilm.com; dkim=pass
+	reason="2048-bit key; insecure key"
+	header.d=easyglobalsearch-online.20150623.gappssmtp.com header.i=@easyglobalsearch-online.20150623.gappssmtp.com
+	header.b=yZI9BwWl; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: 2.002
+X-Spam-Level: **
+X-Spam-Status: No, score=2.002 required=5.5 tests=[BAYES_80=2,
+	DKIM_SIGNED=0.1, DKIM_VALID=-0.1, HTML_MESSAGE=0.001,
+	RCVD_IN_DNSWL_NONE=-0.0001, SPF_FAIL=0.001] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id ISeZCBifR0qQ for <mail@stilfilm.com>;
+	Mon,  8 Apr 2019 08:35:05 +0200 (CEST)
+Received: from mail-pg1-f193.google.com (mail-pg1-f193.google.com [209.85.215.193])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id D6294C4415
+	for <mail@stilfilm.com>; Mon,  8 Apr 2019 08:34:56 +0200 (CEST)
+Received: by mail-pg1-f193.google.com with SMTP id z9so3779554pgu.10
+        for <mail@stilfilm.com>; Sun, 07 Apr 2019 23:34:56 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=easyglobalsearch-online.20150623.gappssmtp.com; s=20150623;
+        h=from:to:subject:date:message-id:mime-version:thread-index
+         :content-language;
+        bh=myfEayESoK9DnbHXjgYwRrYfS/HVlYXUJFYEQhhVtHw=;
+        b=yZI9BwWlHuqKNALdYItkSywgcCrHPKWkKEh0Z1q886v4uCImWytLCJi9zQkGbh/UHI
+         RCfenhcVbiGiZ7ARau7OhDV4nqHsbb2miy7mVCMi+rv6ZJHGezhb2YdWA0pGPLnwIrVd
+         6Yl622U7eaFAspfuSGFSl6FTVzT9N8yEpjRttDxTcpAGALkhQ7LuOheXt1oBrumnayYp
+         fXEwrQVLLl+DltSUWEtJvqkm3kxD1sB7FmEhh9WuGH9i8OS/zS+bhikX60L+TYK1Hj+9
+         x6f7Dj+b6KiqLxKKPs2iCUCCl3AsueDvxOJaqCfKI7CQsfth6XorXFM/p3g5v9l0LUU5
+         mBnQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:from:to:subject:date:message-id:mime-version
+         :thread-index:content-language;
+        bh=myfEayESoK9DnbHXjgYwRrYfS/HVlYXUJFYEQhhVtHw=;
+        b=gmxO5UHP9MQhvfnWVBYPicahZ8I+kYjULnXAOGz+8OCiAqOHi781xiZYNy53Z826jc
+         yygURd/XVicq4+QnDvXcNwqd1ZY30TDTMmNIfL/1XkNCv3bRjfpNzy6h9gIJjnueAC0o
+         ta6+yO+JtdaCkoxlItfl/giftszYBZOO6BC0s09IU8fsxsskKWkshhC922Q5zOhmD4uq
+         FlzC1yXZ+BC6HXVurKhnSRNiyFm916PXWkXmmbVebPJX7weogJueAAhbSLXidvwmR4fz
+         BWniNTwwkOkeaH9qoKdSXi20s0l4o1ke/YDaU4GeAswaJBocuDRGltHtzgiI7wKt/fB9
+         el4Q==
+X-Gm-Message-State: APjAAAUnHz3dFVP6W8AN2Jw6+z1L3r/XLTkRm5r92Ut5SBvst4UTxT7z
+	UAF8f1Ex33E9Q3HQ10pKQ3GQgV2gQIQ=
+X-Google-Smtp-Source: APXvYqz07FAJwWsX6emMIISaD/8m82c50rE58eTDUiJhxapascV73ukS4TL0XawblGvnxLJsefoCDA==
+X-Received: by 2002:a62:19c3:: with SMTP id 186mr28545034pfz.172.1554705293392;
+        Sun, 07 Apr 2019 23:34:53 -0700 (PDT)
+Received: from DESKTOPHLK6A6T ([103.72.8.122])
+        by smtp.gmail.com with ESMTPSA id v43sm11270576pgn.57.2019.04.07.23.34.51
+        for <mail@stilfilm.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Sun, 07 Apr 2019 23:34:52 -0700 (PDT)
+From: "Aryan" <aryan@easyglobalsearch.online>
+To: <mail@stilfilm.com>
+Subject: Proposal.....!!
+Date: Mon, 8 Apr 2019 12:04:43 +0530
+Message-ID: <1bd501d4edd5$2a7318b0$7f594a10$@online>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_1BD6_01D4EE03.442B54B0"
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-Index: AdTt1Q+MpUAJQ1hRQLGmMNX8Xk+zyw==
+Content-Language: en-us
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_1BD6_01D4EE03.442B54B0
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+Hi ,
+
+I hope you are doing well!
+
+I'm Heena; we are offering Website Design & Development with PHP Development
+and Mobile Application Development services at modest rate. We have a
+dedicated team of more than 150 professional designers and developers with
+over 8 years of experience & 1600+ satisfied clients and we thrive on the
+idea that design makes a difference with very lowest prices.
+ 
+Our services at a glance: -
+ 
+  1.  Website Development (Custom Website Development, PHP, Java, .Net
+Development, Ajax Programming,
+
+
+  2.  Website Designing (Logo Design, HTML designing, corporate website
+design, PSD to XHTML/HTML,
+
+
+  3.  Open source customization/ CMS (Joomla, Drupal, Wordpress,
+
+
+  4.  eCommerce website development (Magento, OS Commerce, Zen Cart
+integration etc.
+
+
+  5.  Web Programming Services (PHP MySQL Development, PHP Frameworks,
+JavaScript Frameworks etc
+
+
+  6.  Mobile Applications (Android, IOS, I-Phone, etc.
+
+We believe in quality work and customer satisfaction, hence we offer a set
+of flexible pricing models to our customers. So that they can select the
+best as per their business requirements.
+If you are interested. Please share your proper requirement so we could send
+you best proposal accordingly.
+
+
+Please Share your contact details (Skype ID or Phone Number) so we can
+schedule a Skype / phone call for further discussion.
+
+ 
+
+I'm waiting for your reply.
+                
+Kind Regards
+
+Aryan,
+
+Online Marketing Executive (INDIA)
+
+ 
+
+
+------=_NextPart_000_1BD6_01D4EE03.442B54B0
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40"><head><META =
+HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html; =
+charset=3Dus-ascii"><meta name=3DGenerator content=3D"Microsoft Word 12 =
+(filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+.MsoChpDefault
+	{mso-style-type:export-only;}
+.MsoPapDefault
+	{mso-style-type:export-only;
+	margin-bottom:10.0pt;
+	line-height:115%;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DEN-US><div =
+class=3DWordSection1><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto'><font size=3D3 color=3D"#000099" =
+face=3DArial><span =
+style=3D'font-size:11.5pt;font-family:"Arial","sans-serif";color:#000099'=
+>Hi ,<br><br>I hope you are doing well!<br><br>I&#8217;m Heena; =
+we&nbsp;are offering Website Design &amp; Development with PHP =
+Development and Mobile Application Development services at modest rate. =
+We have a dedicated team of more than 150 professional designers and =
+developers with over 8 years of experience &amp; 1600+ satisfied clients =
+and we thrive on the idea that design makes a difference with very =
+lowest prices.<br>&nbsp;<br><b><span style=3D'font-weight:bold'>Our =
+services at a glance: -</span></b><br>&nbsp;<br></span></font><font =
+color=3Dred face=3DArial><span =
+style=3D'font-family:"Arial","sans-serif";color:red'>&nbsp; 1.&nbsp; =
+Website Development&nbsp;(Custom Website Development, PHP, Java, .Net =
+Development, Ajax Programming,</span></font></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto'><font size=3D3 color=3Dred =
+face=3DArial><span =
+style=3D'font-size:12.0pt;font-family:"Arial","sans-serif";color:red'><br=
+>&nbsp; 2.&nbsp; Website Designing&nbsp;(Logo Design, HTML designing, =
+corporate website design, PSD to XHTML/HTML,</span></font></p><p =
+class=3DMsoNormal style=3D'mso-margin-top-alt:auto'><font size=3D3 =
+color=3Dred face=3DArial><span =
+style=3D'font-size:12.0pt;font-family:"Arial","sans-serif";color:red'><br=
+>&nbsp; 3.&nbsp; Open source customization/ CMS&nbsp;(Joomla, Drupal, =
+Wordpress,</span></font></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto'><font size=3D3 color=3Dred =
+face=3DArial><span =
+style=3D'font-size:12.0pt;font-family:"Arial","sans-serif";color:red'><br=
+>&nbsp; 4.&nbsp; eCommerce website development&nbsp;(Magento, OS =
+Commerce, Zen Cart integration etc.</span></font></p><p =
+class=3DMsoNormal style=3D'mso-margin-top-alt:auto'><font size=3D3 =
+color=3Dred face=3DArial><span =
+style=3D'font-size:12.0pt;font-family:"Arial","sans-serif";color:red'><br=
+>&nbsp; 5.&nbsp; Web Programming Services&nbsp;(PHP MySQL Development, =
+PHP Frameworks, JavaScript Frameworks etc</span></font></p><p =
+class=3DMsoNormal style=3D'mso-margin-top-alt:auto'><font size=3D3 =
+color=3Dred face=3DArial><span =
+style=3D'font-size:12.0pt;font-family:"Arial","sans-serif";color:red'><br=
+>&nbsp;&nbsp;6.&nbsp; Mobile Applications&nbsp;(Android, IOS, I-Phone, =
+etc.</span></font><font size=3D3 color=3D"#000099" face=3DArial><span =
+style=3D'font-size:11.5pt;font-family:"Arial","sans-serif";color:#000099'=
+><br><br><b><span style=3D'font-weight:bold'>We believe in quality work =
+and customer satisfaction, hence we offer a set of flexible pricing =
+models to our customers. So that they can select the best as per their =
+business re<a =
+name=3D"14f3f5c5526af36f_14f3b61a7bba9690_14e0a5"></a>quirements.<br>If =
+you are interested. Please share your proper requirement so we could =
+send you best proposal accordingly.</span></b></span></font></p><p =
+class=3DMsoNormal style=3D'mso-margin-top-alt:auto'><font size=3D3 =
+color=3D"#000099" face=3DArial><span =
+style=3D'font-size:11.5pt;font-family:"Arial","sans-serif";color:#000099'=
+><br></span></font><b><font color=3D"#000099"><span =
+style=3D'color:#000099;font-weight:bold'>Please Share your contact =
+details (Skype ID or Phone Number) so we can schedule a Skype / phone =
+call for further discussion.</span></font></b></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto'><font size=3D3 color=3D"#000099" =
+face=3DArial><span =
+style=3D'font-size:11.5pt;font-family:"Arial","sans-serif";color:#000099'=
+>&nbsp;</span></font></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto'><font size=3D3 color=3D"#000099" =
+face=3DArial><span =
+style=3D'font-size:11.5pt;font-family:"Arial","sans-serif";color:#000099'=
+>I&#8217;m waiting for your =
+reply.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><b><span =
+style=3D'font-weight:bold'>Kind Regards</span></b></span></font></p><p =
+class=3DMsoNormal style=3D'mso-margin-top-alt:auto'><font size=3D3 =
+color=3D"#000099" face=3DArial><span =
+style=3D'font-size:11.5pt;font-family:"Arial","sans-serif";color:#000099'=
+>Aryan,</span></font></p><p class=3DMsoNormal =
+style=3D'mso-margin-top-alt:auto'><b><font size=3D3 color=3D"#000099" =
+face=3DArial><span =
+style=3D'font-size:11.5pt;font-family:"Arial","sans-serif";color:#000099;=
+font-weight:bold'>Online Mar<i><span =
+style=3D'font-style:italic'>ketin</span></i>g Executive =
+(INDIA)</span></font></b></p><p class=3DMsoNormal><font size=3D3 =
+face=3D"Times New Roman"><span =
+style=3D'font-size:12.0pt'><o:p>&nbsp;</o:p></span></font></p></div></bod=
+y></html>
+------=_NextPart_000_1BD6_01D4EE03.442B54B0--
+

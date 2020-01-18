@@ -1,0 +1,187 @@
+Return-Path: <member@eeejournal.org>
+Delivered-To: mail@stilfilm.com
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 73D71C2FCE
+	for <mail@stilfilm.com>; Sat, 19 May 2018 07:02:40 +0200 (CEST)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: 4.171
+X-Spam-Level: ****
+X-Spam-Status: No, score=4.171 required=5.5 tests=[DKIM_SIGNED=0.1,
+	DKIM_VALID=-0.1, HTML_MESSAGE=0.001, RAZOR2_CF_RANGE_51_100=2.43,
+	RAZOR2_CHECK=1.729, RCVD_IN_DNSWL_NONE=-0.0001, T_REMOTE_IMAGE=0.01,
+	URIBL_BLOCKED=0.001] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id BlqL6KQyFfos for <mail@stilfilm.com>;
+	Sat, 19 May 2018 07:02:36 +0200 (CEST)
+Received: from mail-ua0-f193.google.com (mail-ua0-f193.google.com [209.85.217.193])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id 8B481C08B0
+	for <mail@stilfilm.com>; Sat, 19 May 2018 07:02:30 +0200 (CEST)
+Received: by mail-ua0-f193.google.com with SMTP id f3-v6so6716453uan.9
+        for <mail@stilfilm.com>; Fri, 18 May 2018 22:08:30 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=eeejournal-org.20150623.gappssmtp.com; s=20150623;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=+mKvIqfXvr6lGPYzPtU9WG8UDoBQXnco8/vG40U2/vs=;
+        b=vdAkrZyDp6TkV1SvvVBPIefitdlmueKeHDgpQxg1fMz7Tc5gK5nJggyjb8i6+VEQXU
+         twh9/jgfvlpaONAFXNAskKRzGv9D6/CJ1FECHubC6vQ5RO8XdwM1z6k1PyEc0KyWIos7
+         HCXqERdQapZlYwQYG8xTtB9rCZyeJDKfZGlVDE/QYymhQNDjr/F4O6EtaG9vVYzYolMl
+         NLW672x0WQrI2VnijsOMinpw2tnWypNoYsyl4OJcY2uB8QZBUjIjBnbaScuEUYNTxT+l
+         E1yBb+ALV1+jFAIBHKc0YnrjBEgQw2zYexB5dC6DDq3GP4sNFvAeO7OcGYv8ux/Ea1dw
+         fPJg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=+mKvIqfXvr6lGPYzPtU9WG8UDoBQXnco8/vG40U2/vs=;
+        b=gZywyB0oWZoj3TwhEfU4h/KTGT6QPbeCKOdXcDA0zVccczdDmxVPAi6WR4lS5cBtCf
+         7+KXBE22qoQJ29fZAv90eKY7aBWcxW/FQlubejdqg2pCkglptQP3vh75becDrU53xb3/
+         uWfCHl8Ema5XWpDkZFlLLBBNLQ40fHKtHk5OT6/pq1AisNxYTqT4uibUxqbDtUcZcxp1
+         rjalNv9vobMfKWn4dkSKOoFKbUh9kEl4/FW4yExeDgv6UHUIJGILdzoOHlhBZEjW7SlH
+         v08leXv358/i5kGcH291VA45yNx9rbkr30Kb30BchwB84SL0QTX4PXOv4z/0j6mX3fy1
+         jqrg==
+X-Gm-Message-State: ALKqPwdLtbptM7Th1JywzSm2Q/VMjH/9WKWl0aPUEatOArMX+XPRxk4l
+	yOYkvFbX+byIQaDB6AbLEaQVLSjnPDSyYBak8XMTXu35
+X-Google-Smtp-Source: AB8JxZo13zBlIfRMvxZhsYESNFV46JIZh5ZCzKlbeImntLKmUqECOxjqrA7J4d6wUGo/CdiukpCRt/4Gc0PBE2HBTS8=
+X-Received: by 2002:ab0:1014:: with SMTP id f20-v6mr9206567uab.141.1526706508807;
+ Fri, 18 May 2018 22:08:28 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 10.103.75.199 with HTTP; Fri, 18 May 2018 22:08:28 -0700 (PDT)
+From: Journal JEEE <member@eeejournal.org>
+Date: Sat, 19 May 2018 13:08:28 +0800
+Message-ID: <CAMNBojMfk5WscCSBr_0RCLx_iAKCf5HR388Z-A6kDy8eYrxLSA@mail.gmail.com>
+Subject: Submit manuscript and Join Our Journal
+To: mail@stilfilm.com
+Content-Type: multipart/alternative; boundary="0000000000002256c7056c880f34"
+
+--0000000000002256c7056c880f34
+Content-Type: text/plain; charset="UTF-8"
+
+<http://www.ijefm.org/home>
+Dear Scholar or Author,
+We publish peer-reviewed international academic journals devoted to the
+advancement of innovative science and technology. Now we sincerely invite
+scholars and researchers to submit papers to the journals or to join in the
+editorial board/reviewer team.
+Invite to Apply to Be an Editorial Member or a Reviewer
+For purpose of fulfilling the expansion of our editorial board and reviewer
+group, we would like to invite you to be the editorial member or reviewer
+of our journals with great sincerity. If you want to know more information
+about the Benefits and Responsibilities of the editorial member or
+reviewer, please feel free to click the following link:
+http://www.ijefm.org/journals
+Contributing Your New Manuscripts
+We have journals with an editorial team comprising many of the world's
+leading researchers. If you have burst out some new ideas in your
+interested field, welcome to submit your papers to the corresponding
+Journals or Special Issues so as to share your ideas with people around the
+world.
+
+   1. American Journal of Physical Chemistry
+   2. International Journal of Language and Linguistics
+   3. International Journal of Sustainable Development Research
+   4. American Journal of Life Sciences
+   5. American Journal of Psychiatry and Neuroscience
+   6. American Journal of Environmental Protection
+   7. International Journal of Information and Communication Sciences
+   8. Science Journal of Business and Management
+
+Advantages of the Journals
+
+   - 1. OA Policy
+   Open Access policy is applied to each journal, all readers can view and
+   download the full text of the article online for free.
+   - 2. 30-60 Days Fast Publication
+   Fast publication not only brings new discoveries and innovation to the
+   science quickly but also accelerates research process. Papers submitted to
+   our journals can be published within 40-60 days from submission provided
+   that the paper is of good quality and the authors' response is prompt.
+   - 3. Indexing
+   The majority of our journals can be indexed by JournalSeek, Electronic
+   Journals Library (EJL), WorldCat, CrossRef, Zeitschriftendatenbank, EZB,
+   Academickeys, ResearchBib, Polish Scholarly Bibliography,
+   Wissenschaftszentrum Berlin, CNKI, etc.
+
+--0000000000002256c7056c880f34
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">
+<br><br><div style=3D"padding:20px 0px;width:100%;color:rgb(33,33,33);line-=
+height:22px;font-family:&quot;Arial&quot;;font-size:13px;background-color:r=
+gb(223,223,223)"> 	<div style=3D"margin:0px 0px 0px 20px;width:730px;backgr=
+ound-color:rgb(255,255,255)"><div style=3D"background:rgb(0,138,204) none r=
+epeat scroll 0% 0%;padding:20px 30px;border-bottom:2px solid rgb(0,153,204)=
+"><a href=3D"http://www.ijefm.org/home" target=3D"_blank" border=3D"0"><img=
+ src=3D"http://img.ijefm.org/logo/r516243814659.png" border=3D"0"></a></div=
+><div style=3D"margin:22px 0px;background-color:rgb(255,255,255)"><div styl=
+e=3D"border-bottom:5px solid rgb(221,221,221)"><div style=3D"margin:0px 30p=
+x"><div><div style=3D"margin-bottom:8px">Dear Scholar or Author,</div><div =
+style=3D"line-height:22px">We publish peer-reviewed international academic =
+journals devoted to the advancement of innovative science and technology. N=
+ow we sincerely invite scholars and researchers to submit papers to the jou=
+rnals or to join in the editorial board/reviewer team.</div></div><div styl=
+e=3D"padding:15px 0px"><div style=3D"padding-bottom:15px"><div style=3D"pad=
+ding:5px 10px;color:rgb(1,63,158);font-family:&quot;Times New Roman&quot;;f=
+ont-size:20px;font-weight:bold;margin-bottom:10px;border-left:3px solid rgb=
+(3,65,158);background-color:rgb(217,238,247)">Invite to Apply to Be an Edit=
+orial Member or a Reviewer</div><div style=3D"line-height:22px">For purpose=
+ of fulfilling the expansion of our editorial board and reviewer group, we =
+would like to invite you to be the editorial member or reviewer of our jour=
+nals with great sincerity. If you want to know more information about the B=
+enefits and Responsibilities of the editorial member or reviewer, please fe=
+el free to click the following link:  <a style=3D"color:rgb(0,0,255);font-w=
+eight:bold;text-decoration:none;white-space:nowrap" href=3D"http://www.ijef=
+m.org/journals" target=3D"_blank">http://www.ijefm.org/journals</a></div></=
+div><div><div style=3D"padding:5px 10px;color:rgb(1,63,158);font-family:&qu=
+ot;Times New Roman&quot;;font-size:20px;font-weight:bold;margin-bottom:10px=
+;border-left:3px solid rgb(3,65,158);background-color:rgb(217,238,247)">Con=
+tributing Your New Manuscripts</div><div style=3D"line-height:22px">We have=
+ journals with an editorial team comprising many of the world&#39;s leading=
+ researchers. If you have burst out some new ideas in your interested field=
+, welcome to submit your papers to the corresponding Journals or Special Is=
+sues so as to share your ideas with people around the world.</div><ol style=
+=3D"margin:10px 0px 0px 10px;padding:0px;color:rgb(3,65,158);line-height:24=
+px;list-style-type:square"><li><span style=3D"color:rgb(33,33,33)">American=
+ Journal of Physical Chemistry</span></li><li><span style=3D"color:rgb(33,3=
+3,33)">International Journal of Language and Linguistics</span></li><li><sp=
+an style=3D"color:rgb(33,33,33)">International Journal of Sustainable Devel=
+opment Research</span></li><li><span style=3D"color:rgb(33,33,33)">American=
+ Journal of Life Sciences</span></li><li><span style=3D"color:rgb(33,33,33)=
+">American Journal of Psychiatry and Neuroscience</span></li><li><span styl=
+e=3D"color:rgb(33,33,33)">American Journal of Environmental Protection</spa=
+n></li><li><span style=3D"color:rgb(33,33,33)">International Journal of Inf=
+ormation and Communication Sciences</span></li><li><span style=3D"color:rgb=
+(33,33,33)">Science Journal of Business and Management</span></li></ol></di=
+v></div></div></div><div style=3D"margin:20px 30px 0px"><div style=3D"paddi=
+ng:5px 10px;font-family:&quot;Times New Roman&quot;;font-size:22px;font-wei=
+ght:bold;margin-bottom:10px;border-left:3px solid rgb(3,65,158);background-=
+color:rgb(217,238,247)">Advantages of the Journals</div><ul style=3D"list-s=
+tyle:outside none none;margin:0px;padding:0px"><li style=3D"width:190px;flo=
+at:left"><div style=3D"color:rgb(32,32,32);line-height:26px;font-size:16px;=
+font-weight:bold"><span style=3D"color:rgb(51,51,51);font-size:18px;font-st=
+yle:italic">1. </span>OA Policy</div><span style=3D"line-height:25px">Open =
+Access policy is applied to each journal, all readers can view and download=
+ the full text of the article online for free.</span> 					</li><li style=
+=3D"width:240px;padding-left:10px;float:left"><div style=3D"color:rgb(32,32=
+,32);line-height:26px;font-size:16px;font-weight:bold"><span style=3D"color=
+:rgb(51,51,51);font-size:18px;font-style:italic">2. </span>30-60 Days Fast =
+Publication</div><span style=3D"line-height:25px">Fast publication not only=
+ brings new discoveries and innovation to the science quickly but also acce=
+lerates research process. Papers submitted to our journals can be published=
+ within 40-60 days from submission provided that the paper is of good quali=
+ty and the authors&#39; response is prompt. </span> 					</li><li style=3D"=
+width:220px;padding-left:10px;float:left"><div style=3D"color:rgb(32,32,32)=
+;line-height:26px;font-size:16px;font-weight:bold"><span style=3D"color:rgb=
+(51,51,51);font-size:18px;font-style:italic">3. </span>Indexing</div><span =
+style=3D"line-height:25px">The majority of our journals can be indexed by J=
+ournalSeek, Electronic Journals Library (EJL), WorldCat, CrossRef, Zeitschr=
+iftendatenbank, EZB, Academickeys, ResearchBib, Polish Scholarly Bibliograp=
+hy, Wissenschaftszentrum Berlin, CNKI, etc.</span> 					</li><div style=3D"=
+height:0px;overflow:hidden;clear:both"></div></ul></div></div><div style=3D=
+"height:22px;background-color:rgb(0,112,166)">=C2=A0</div></div></div><br><=
+/div>
+
+--0000000000002256c7056c880f34--

@@ -1,0 +1,93 @@
+Return-Path: <test@delibitesconceptscorporation.com>
+Delivered-To: mail@stilfilm.com
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id F312FD18F7
+	for <mail@stilfilm.com>; Sun, 19 May 2019 17:07:35 +0200 (CEST)
+Authentication-Results: v22014122474822114.stilfilm.com; dkim=permerror
+	reason="verification error: unknown key version; insecure key"
+	header.d=delibitesconceptscorporation.com header.i=@delibitesconceptscorporation.com
+	header.b=Dv7FcvXe; dkim-adsp=unknown (insecure policy);
+	dkim-atps=neutral
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 12.991
+X-Spam-Level: ************
+X-Spam-Status: Yes, score=12.991 required=5.5
+	tests=[ADVANCE_FEE_3_NEW_MONEY=2.699,
+	AXB_XMAILER_MIMEOLE_OL_024C2=0.001, BAYES_80=2, DKIM_INVALID=0.1,
+	DKIM_SIGNED=0.1, FORGED_MUA_OUTLOOK=1.927, FORGED_OUTLOOK_HTML=0.021,
+	FORGED_OUTLOOK_TAGS=0.052, FROM_MISSPACED=0.001,
+	FROM_MISSP_MSFT=0.001, FROM_MISSP_USER=0.001, FROM_MISSP_XPRIO=0.001,
+	FSL_CTYPE_WIN1251=0.001, FSL_NEW_HELO_USER=0.001, HTML_MESSAGE=0.001,
+	LOTS_OF_MONEY=0.001, MIME_HTML_ONLY=0.723, MISSING_HEADERS=1.021,
+	MONEY_FORM_SHORT=0.001, MONEY_FROM_MISSP=0.001,
+	NSL_RCVD_FROM_USER=0.001, RCVD_IN_BL_SPAMCOP_NET=1.347,
+	RDNS_NONE=0.793, REPLYTO_WITHOUT_TO_CC=1.552, SPF_HELO_PASS=-0.001,
+	SPF_PASS=-0.001, TO_NO_BRKTS_FROM_MSSP=0.636,
+	T_FILL_THIS_FORM_SHORT=0.01] autolearn=spam
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id wWZVlZSuiAqI for <mail@stilfilm.com>;
+	Sun, 19 May 2019 17:07:23 +0200 (CEST)
+Received: from webmail.delibitesconceptscorporation.com (unknown [199.195.118.76])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id 4BEE9CAF29
+	for <mail@stilfilm.com>; Sun, 19 May 2019 17:07:13 +0200 (CEST)
+dkim-signature:v=1; c=relaxed/relaxed; h=reply-to:from:subject:date:mime-version:content-type:content-transfer-encoding:message-id;
+ d=delibitesconceptscorporation.com; s=default; a=rsa-sha256;
+ bh=onX8cScT9czzzEKZvte3I5+9xNWs+9VG7/4lHWwDOa4=;
+ b=Dv7FcvXe65qvQjKjTSs+6ZexT0CHyIFryAIMJqQRoPxRFsJcsfE6Kmau0pzybl7Ne
+ y6kc3M+WFjG0Xs5Doukb7eG0Vkmw6yiPeWrMYrj97ceKuZtj06AjCRGx/fYDxuGm6Vx
+ kGojVvooaAQr/5R49kP9P5orZD0yciaH5jmlLnc=;
+Received: from User ([103.133.109.99]) by delibitesconceptscorporation.com with MailEnable ESMTPA; Sun, 19 May 2019 14:13:23 +0800
+Reply-To: <msg04agent@gmail.com>
+From: "INFO"<test@delibitesconceptscorporation.com>
+Subject: INFO
+Date: Sat, 18 May 2019 23:11:53 -0700
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-ID: <F9FEB04DD18842BB80F35C8F149AA94E.MAI@delibitesconceptscorporation.com>
+
+<HTML><HEAD><TITLE></TITLE>
+</HEAD>
+<BODY bgcolor=#FFFFFF leftmargin=5 topmargin=5 rightmargin=5 bottommargin=5>
+<FONT size=2 color=#000000 face="Arial">
+<DIV>
+Dear ,</DIV>
+<DIV>
+I apologise for sending an unexpected message. I am Ken Herazo,I am Lawyer.</DIV>
+<DIV>
+A deceased client of mine that shares the same last name as yours,</DIV>
+<DIV>
+lost his life in an auto crash. He was from your country, and was a</DIV>
+<DIV>
+Gold/Diamond dealer here in Benin Republic. Now I seek your consent to</DIV>
+<DIV>
+present you to the bank as a close relative of my Client so that the</DIV>
+<DIV>
+proceeds of his account valued at 2.5 Million Euros can be paid to</DIV>
+<DIV>
+your account for our mutual benefit before they are seized by the bank</DIV>
+<DIV>
+here.</DIV>
+<DIV>
+Please email me your full address, age and phone numbers so that I can</DIV>
+<DIV>
+send you more details for procedures and better understanding; and it</DIV>
+<DIV>
+must remain confidential.</DIV>
+<DIV>
+&nbsp;</DIV>
+<DIV>
+Thank You,</DIV>
+<DIV>
+Ken Herazo</DIV>
+</FONT>
+</BODY></HTML>

@@ -1,0 +1,76 @@
+Return-Path: <nicloabanks@btinternet.com>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 1E020D489E
+	for <mail@dorianvasco.de>; Sun,  6 Aug 2017 04:47:54 +0200 (CEST)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 6.113
+X-Spam-Level: ******
+X-Spam-Status: Yes, score=6.113 required=5.5 tests=[BAYES_20=-0.001,
+	DATE_IN_FUTURE_06_12=1.947, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, HTML_MESSAGE=0.001, PYZOR_CHECK=1.392,
+	RCVD_IN_DNSWL_NONE=-0.0001, SPF_PASS=-0.001, TVD_SPACE_RATIO=0.001,
+	URIBL_ABUSE_SURBL=1.25, URIBL_BLOCKED=0.001, URIBL_SBL=1.623]
+	autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id u9x83UwS9mtu for <mail@dorianvasco.de>;
+	Sun,  6 Aug 2017 04:47:53 +0200 (CEST)
+Received: from nm38.bullet.mail.ir2.yahoo.com (nm38.bullet.mail.ir2.yahoo.com [212.82.96.63])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id D920BC222D
+	for <mail@dorianvasco.de>; Sun,  6 Aug 2017 04:47:52 +0200 (CEST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=btinternet.com; s=s2048; t=1501987673; bh=QDs54or9mtTuWmHH2t6UafLurKLmFZ87GzNu+vdcARw=; h=From:Subject:Date:To:From:Subject; b=TxkcyLQwGngpOZAzK+DcBMAmGS4zZ4DfDq4AWZ0+wvB3j6THYhCGfu+XIZ53znj+TWfKypBxHjyjYDZ53oPzCvjEte4SONItyrQrQpCiYdkXoLa8H3+9Y79D3y52xRIPExp28HrkF4MgxpIezN0CUMXaJFze0EvHZZtoDfPFA7ZIp/Jt2YW/M3ktkpxPw+dLbcYnUB2MWVQM9OpTwiLq3hirZwdFp5sFX3QwdeSlcnAfCDuqGj5xG/jtGOKP9ocCS0bSxNtfKpWZlcKr1Ri3QkCXBmCDF5BAEkEk8LD9qJn6UnL8u3bTAYRd4pCylljXWV8STEuE6V90u4gqoNTZjA==
+Received: from [212.82.98.56] by nm38.bullet.mail.ir2.yahoo.com with NNFMP; 06 Aug 2017 02:47:53 -0000
+Received: from [46.228.39.107] by tm9.bullet.mail.ir2.yahoo.com with NNFMP; 06 Aug 2017 02:47:53 -0000
+Received: from [127.0.0.1] by smtp144.mail.ir2.yahoo.com with NNFMP; 06 Aug 2017 02:47:53 -0000
+X-Yahoo-Newman-Id: 14064.43812.bm@smtp144.mail.ir2.yahoo.com
+X-Yahoo-Newman-Property: ymail-3
+X-YMail-OSG: 7y7rEzYVM1ncfQCDmKg2fvCgbxZsQWCYGHVBHgo.8gBmO.j
+ 3hYoAjh4zeuBTmONup1.q9eZl.d2RsPo9QlVrgF.vnzW5dPH2HQr3zxX8uiB
+ 8wRqs45HhJB84hwa_VjNHPTUgUJnyEQvfAbOKjUIsKUwUmS13kaXDqcwsSVH
+ EN1LMoTR4Td38NlHuE5LgCzC5qEUbQviiXyO.A9sAmUJAi_76eMHJzJwN1fQ
+ aYGZ2oDNhT3zEo5pZEYuj5j0fjpf_xuZ8DcH5oPxIFHi.asEEUQ5JPsIjU3R
+ fyD7i08to53109HdU6FZJtBajBUzPfxEqJnWQ1g1fX_iixScZkjNidiQ5v7V
+ XB0gDzeeyxmtMBH3gFeHjRQhNk13U5zMY3i6TyZUfz6WJw0GdmKLGHLLsoYl
+ UCALBwJYwKbYk.SE9xrjOeuZD_z1L6tcKkSR9iss0pH3sadB08FLdg7go4jt
+ EPqW6GxY1mzriDK50CIG02Tvh.d_1rOcwBXtt2EdotKky5MPk1rj.CCqK5Wc
+ LZJkR3gTQwjjtXqPUZkjM1401f090Jvmi
+X-Yahoo-SMTP: .PoL1yWswBAlbT_VgbnOL1JakGhqQ1Et4.ukmNgZt5qsS5d0iZuZ
+From: nicolasroesener <nicloabanks@btinternet.com>
+Content-Type: multipart/alternative;
+ boundary="Apple-Mail=_BA05E1B1-B262-4586-B9BF-3C48CD1477DC"
+Mime-Version: 1.0 (Mac OS X Mail 10.2 \(3259\))
+Subject: ***SPAM*** Re:nicloabanks
+Message-Id: <FBC4F121-428F-4A56-BB7C-615B421AEAA8@btinternet.com>
+Date: Sun, 6 Aug 2017 00:41:51 -0900
+To: "Dorian Vasco Nagel" <mail@dorianvasco.de>
+X-Mailer: Apple Mail (2.3259)
+
+
+--Apple-Mail=_BA05E1B1-B262-4586-B9BF-3C48CD1477DC
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain;
+	charset=us-ascii
+
+
+http://pat993-reassure993.tk <http://pat993-reassure993.tk/> 
+
+Nicolasroesener@yahoo.com
+
+
+
+
+--Apple-Mail=_BA05E1B1-B262-4586-B9BF-3C48CD1477DC
+Content-Transfer-Encoding: 7bit
+Content-Type: text/html;
+	charset=us-ascii
+
+<html><head><meta http-equiv="Content-Type" content="text/html charset=us-ascii"></head><body style="word-wrap: break-word; -webkit-nbsp-mode: space; -webkit-line-break: after-white-space;" class=""><meta http-equiv="Content-Type" content="text/html charset=us-ascii" class=""><div style="word-wrap: break-word; -webkit-nbsp-mode: space; -webkit-line-break: after-white-space;" class=""><div class=""><font size="1" class=""><br class=""></font></div><a href="http://pat993-reassure993.tk/" class="">http://pat993-reassure993.tk</a><font size="1" class="">&nbsp;</font><div class=""><font size="1" class=""><b class=""><br class=""></b></font><div class="">
+<div style="color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-caps: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px;" class="">Nicolasroesener@yahoo.com</div><div style="font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-caps: normal; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px;" class=""><b class=""><br class=""></b></div><b class=""><br class="Apple-interchange-newline">
+
+</b></div>
+<br class=""></div></div></body></html>
+--Apple-Mail=_BA05E1B1-B262-4586-B9BF-3C48CD1477DC--

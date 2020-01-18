@@ -1,0 +1,569 @@
+Return-Path: <return-a444-63250-63546-589bf19f=199990483=8@pixel-promarketing.de>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id F140CCBF8B
+	for <mail@dorianvasco.de>; Thu, 24 Oct 2019 11:51:57 +0200 (CEST)
+Authentication-Results: v22014122474822114.stilfilm.com; dkim=pass
+	reason="1024-bit key; insecure key"
+	header.d=pixel-promarketing.de header.i=@pixel-promarketing.de
+	header.b=Pl/dwOxj; dkim-adsp=pass; dkim-atps=neutral
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: 0.702
+X-Spam-Level:
+X-Spam-Status: No, score=0.702 required=5.5 tests=[BAYES_50=0.8,
+	DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	HTML_IMAGE_RATIO_04=0.001, HTML_MESSAGE=0.001]
+	autolearn=ham autolearn_force=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id cJUb5GHpFnep for <mail@dorianvasco.de>;
+	Thu, 24 Oct 2019 11:51:55 +0200 (CEST)
+Received: from smtp7-134.pixel-promarketing.de (smtp7-134.pixel-promarketing.de [193.70.52.220])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id AE15AC3F7D
+	for <kontakt@dorianvasco.de>; Thu, 24 Oct 2019 11:51:52 +0200 (CEST)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; d=pixel-promarketing.de; s=ppm;
+ t=1571910711; bh=rJ/V4BZWfReWYPTpG1e+GZ5YqJo=;
+ h=Subject:From:To:Reply-To:Date:List-Unsubscribe:X-CampaignID:
+  Message-ID:X-Mailer-Info:MIME-Version:Content-Type;
+ b=Pl/dwOxjag5GWZC+j1HS6oJbQo/byii98gBx5qVpv6UyeRbz8a8m6VGSrmSLS//0W
+  XIApL1aaZGA9wwFZjd04YnDWnH7AfXP0TJQZdVCKQL/1m2iBw6yrIKBJ3LPgYiZaz3
+  wg23xZeovI29k1I4CwMoeNwL9RJbSvW3uQNPMcqU=
+Subject: FRI:DAY Autoversicherung - spare bis zu 41%
+From: "Die digitale Autoversicherung" <mail@pixel-promarketing.de>
+To: kontakt@dorianvasco.de
+Reply-To: noreply@pixel-promarketing.de
+Date: 24 Oct 2019 09:51:51 -0000
+List-Unsubscribe: <http://pixel-promarketing.de/ga/unsubscribe/2-199990483-444-23448-63546-e04939885d24e4c-0cba9cd5c0?confirmed=1>,
+ <mailto:return-a444-63250-63546-589bf19f=199990483=8u@pixel-promarketing.de>
+X-CampaignID: s4:63250-2083dca50a63e5e4
+Message-ID: <mid-8133f453088dab25223411dab12a4654-33@pixel-promarketing.de>
+X-Mailer-Info: 8.QY0QDN.YzMyUDM.wav5GdhtGdAR2bylWYuZXYzN2buQWZ.xkTO5kDM0gzM.YzM1QjN
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="==6c0e2df8a7bb99a383505cef38c6c7a3"
+
+This is a multi-part message in MIME format.
+
+--==6c0e2df8a7bb99a383505cef38c6c7a3
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Pixel ProMarketing empfiehlt:
+
+Sollte Ihr Newsletter nicht korrekt dargestellt werden,
+klicken Sie bitte hier. ( http://pixel-promarketing.de/ga/webviews/4-199990=
+483-444-23448-25886-63546-59c97814b7 )
+
+FRI:DAY Autoversicherung:
+Zahl pro Kilometer - Zahl nie zuviel ( http://pixel-promarketing.de/ga/clic=
+k/2-199990483-444-23448-63546-1912089-4aaf94b34f-0cba9cd5c0 )
+
+Versichere dein Auto jetzt schon ab 1 Cent pro Kilometer und
+spare bis zu 41% im Vergleich zu anderen Autoversicherungen!
+
+Nur FRIDAY Zahl-pro-Kilometer bietet dir die erste Versicherung
+mit kilometergenauer Abrechnung.
+
+Versichere dich noch heute bei FRIDAY =E2=80=93 du erh=C3=A4ltst einen 15 E=
+uro
+Amazon-Gutschein dazu!
+
+15 Euro Amazon Gutschein ( http://pixel-promarketing.de/ga/click/2-19999048=
+3-444-23448-63546-1912089-4aaf94b34f-0cba9cd5c0 )
+Aktion l=C3=A4uft bis 31.10.2019*
+
+Und das alles bei
+Top-Leistungen:
+
+Checkbox
+
+Partner im
+gleichen Haushalt immer mitversichert
+
+Checkbox
+
+Alle Tiersch=C3=A4den
+(in Teil- und Vollkasko) versichert
+
+Checkbox
+
+Schaden-Hotline
+rund um die Uhr
+
+Jetzt Angebot
+berechnen ( http://pixel-promarketing.de/ga/click/2-199990483-444-23448-635=
+46-1912089-4aaf94b34f-0cba9cd5c0 )
+
+Tests best=C3=A4tigen:
+FRIDAY bietet Top-Leistung zum fairen Preis.
+
+FRIDAY bietet Top-Leistung zum fairen
+Preis. ( http://pixel-promarketing.de/ga/click/2-199990483-444-23448-63546-=
+1912089-4aaf94b34f-0cba9cd5c0 )
+
+FRI:DAY Autoversicherung:
+Zahl pro Kilometer - Zahl nie zuviel. Jetzt berechnen ( http://pixel-promar=
+keting.de/ga/click/2-199990483-444-23448-63546-1912089-4aaf94b34f-0cba9cd5c=
+0 )
+
+*Bedingungen auf
+happy.friday.de/lp/yob19/quarter1/epn15
+
+Das Angebot ist eine kommerzielle Anzeige dieses Werbekunden,
+der allein f=C3=BCr den Inhalt verantwortlich ist.
+
+Verantwortlich f=C3=BCr den Versand der E-Mail ist:
+Ein Service von Pixel ProMarketing S.L. | Str Azor n5
+Mijas-Costa | E-29651 M=C3=A1laga
+
+Ihre Daten sind lediglich bei dem Versender gespeichert. Der
+Werbekunde hat daher keinen Einfluss auf dem Empf=C3=A4ngerkreis der
+E-Mail.
+Sofern Sie k=C3=BCnftig keinen Newsletter mehr erhalten m=C3=B6chten,
+wenden Sie sich bitte direkt an den Versender oder klicken auf
+folgenden Link: Abmelden ( http://pixel-promarketing.de/ga/unsubscribe/2-19=
+9990483-444-23448-63546-e04939885d24e4c-0cba9cd5c0 )
+
+Haben Sie Verst=C3=A4ndnis, dass die Abmeldung bis zu 48 Stunden
+dauern kann. Direkte Antworten an die Absenderadresse k=C3=B6nnen
+nicht beantwortet werden.
+
+support(at)pixelpromarketing.com ( support@pixelpromarketing.com
+)
+Ihre Daten sind lediglich bei dem Versender gespeichert. Der
+Werbekunde hat daher keinen Einfluss auf den Empf=C3=A4ngerkreis der
+E-Mail.=
+
+--==6c0e2df8a7bb99a383505cef38c6c7a3
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+    <head>
+        <meta content=3D"text/html; charset=3Dutf-8" http-equiv=3D"Content-=
+Type" />
+        <meta content=3D"telephone=3Dno" name=3D"format-detection" />
+        <meta content=3D"date=3Dno" name=3D"format-detection" />
+        <meta content=3D"address=3Dno" name=3D"format-detection" />
+        <meta content=3D"email=3Dno" name=3D"format-detection" />
+        <meta content=3D"width=3Ddevice-width, initial-scale=3D1.0" name=3D=
+"viewport" />
+        <title>=20
+            FRI:DAY Autoversicherung: Zahl pro Kilometer - Zahl nie zuviel
+        </title>
+        <style type=3D"text/css">
+            body#body a[x-apple-data-detectors],=20=20
+            body#body a[href^=3Dtel],
+            body#body a[href] {
+              color: inherit !important;
+              text-decoration: none !important;
+              font-size: inherit !important;
+              font-family: inherit !important;
+              font-weight: inherit !important;
+              line-height: inherit !important;
+            }
+
+            @media only screen and (max-width: 480px) {
+                table[class=3Dmaintable] {
+                    width: 100% !important;
+                }
+
+                table[class=3Dinnertable] {
+                    width:calc(100% - 20px) !important;
+                }
+
+                table[class=3Dlisttable] {
+                    width:calc(100% - 32px) !important;
+                    margin: 0 auto !important;
+                }
+
+                table[class=3Dcontenttable],
+                table[class=3Dcontenttable] tr td {
+                    width:100% !important;
+                    text-align:center !important;
+                }
+
+                table[class=3Dfirst],
+                table[class=3Dfirst] tr td {
+                    width:100% !important;
+                    text-align:justify !important;
+                    -webkit-hyphens: auto;
+                    -ms-hyphens: auto;
+                    hyphens: auto;
+                }
+
+                table[class=3Dincentivetable] {
+                    width:100% !important;
+                    text-align:center !important;
+                    margin: 20px 0px !important;
+                }
+
+                table[class=3Dincentivetable] img[class=3Dimage] {
+                    width:170px !important;
+                    height:auto !important;
+                }
+
+                table[class=3D"rowtable"] {
+                    display:block !important;
+                    width:100% !important;
+                    text-align:center !important;
+                }
+
+                td[class=3Dfontnormalleft] {
+                    text-align:center !important;
+                }
+
+                tr[class=3Dherospacer] td {
+                    height:0px !important;
+                }
+
+                table[class=3Drowtable] img {
+                    display:block !important;
+                    margin-bottom:30px !important;
+                }
+
+                img[class=3D"image"] {
+                    max-width:480px !important;
+                    width:100% !important;
+                    height:auto !important;
+                }
+
+                *[class=3D"mobileshow"] {
+                    display:inline-block !important;
+                    width:auto !important;
+                    height:auto !important;
+                    overflow:visible !important;
+                    float:none !important;
+                    visibility:visible !important;
+                    border:none !important;
+                    max-height: none !important;
+                }
+                *[class=3D"mobilehide"] {
+                    display:none !important;
+                    width:0 !important;
+                    height:0 !important;
+                    overflow:hidden !important;
+                    float:none !important;
+                    visibility:hidden !important;
+                    border:none !important;
+                    max-height:0px !important;
+                }
+            }
+        </style>
+    </head>
+    <body id=3D"body" bgcolor=3D"#fbfafd" style=3D"margin: 0;padding: 0;bac=
+kground-color: #fbfafd;-ms-text-size-adjust: 100%;-webkit-text-size-adjust:=
+ 100%;-webkit-font-smoothing: antialiased;font-family: Arial, Helvetica, sa=
+ns-serif;visibility: visible;min-width: 100%!important;">
+ <center>=20=20
+<span style=3D"font-family: sans-serif; color: #000000; font-size: 18px;"> =
+Pixel ProMarketing empfiehlt:</span><BR/>
+
+<center>
+<span style=3D"font-size: 10px; line-height: 12px; color: #000000; font-fam=
+ily: 'Century Gothic', Tahoma, sans-serif;">Sollte Ihr Newsletter nicht kor=
+rekt dargestellt werden,<br /><a style=3D"color: #000000; text-decoration: =
+underline; font-weight: bold;" href=3D"http://pixel-promarketing.de/ga/webv=
+iews/4-199990483-444-23448-25886-63546-59c97814b7" target=3D"_blank">klicke=
+n Sie bitte hier.</a></span>
+</center>
+
+        <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" width=3D"100%" class=3D"outertable" bgcolor=3D"#fbfafd" style=3D"bac=
+kground-color:#fbfafd;">
+        <tr class=3D"herospacer"><td height=3D"30" bgcolor=3D"#fbfafd" styl=
+e=3D"background-color:#fbfafd;"></td></tr><tr><td>
+        <center>
+            <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspac=
+ing=3D"0" width=3D"600" class=3D"maintable" bgcolor=3D"#ffffff" style=3D"ba=
+ckground-color:#ffffff;">
+                <tr>
+                    <td>
+                        <table width=3D"100%" border=3D"0" cellpadding=3D"0=
+" cellspacing=3D"0">
+                            <tr>
+                                <td>
+                                    <a class=3D"linkimage" href=3D"http://p=
+ixel-promarketing.de/ga/click/2-199990483-444-23448-63546-1912089-4aaf94b34=
+f-0cba9cd5c0" target=3D"_blank" style=3D"display: inline-block;outline: non=
+e !important;border: none !important;"><img class=3D"image" src=3D"https://=
+files.friday.de/2019/quarter4/email/header-1019-pros-ppkm-auto-v2.png" widt=
+h=3D"600" height=3D"464" style=3D"display: block;margin: 0px auto;outline: =
+none !important;border: none !important;border-style: none !important;" alt=
+=3D"FRI:DAY Autoversicherung: Zahl pro Kilometer - Zahl nie zuviel" /></a>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+                <tr><td height=3D"30"></td></tr>
+                <tr>
+                    <td>
+                        <center>
+                            <table align=3D"center" width=3D"540" border=3D=
+"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"innertable">
+                                <tr>
+                                    <td>
+                                        <table align=3D"center" border=3D"0=
+" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" class=3D"innertable">
+                                            <tr>
+                                                <td valign=3D"top">
+                                                    <table align=3D"left" b=
+order=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"360" class=3D"firs=
+t">
+                                                        <tr>
+                                                            <td class=3D"fo=
+ntnormal" style=3D"padding-bottom: 20px;font-family: Arial, Helvetica, sans=
+-serif;font-size: 16px;color: #363145;line-height: 22px;font-weight: normal=
+;text-align:left;">Versichere dein Auto jetzt schon ab 1 Cent pro Kilometer=
+ und spare bis zu 41% im Vergleich zu anderen Autoversicherungen!<br /><br =
+/>Nur <strong>FRIDAY Zahl-pro-Kilometer</strong> bietet dir die erste Versi=
+cherung mit kilometergenauer Abrechnung.<br /><br /><strong>Versichere dich=
+ noch heute bei FRIDAY =E2=80=93 du erh=C3=A4ltst einen 15 Euro Amazon-Guts=
+chein dazu!</strong>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                    <table align=3D"right" =
+border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"150" class=3D"inc=
+entivetable">
+                                                        <tr>
+                                                            <td class=3D"fo=
+ntsmall" width=3D"155" valign=3D"top" style=3D"font-family: Arial, Helvetic=
+a, sans-serif;font-size: 14px;color: #363145;line-height: 16px;font-weight:=
+ normal;"><center><a class=3D"linkimage" href=3D"http://pixel-promarketing.=
+de/ga/click/2-199990483-444-23448-63546-1912089-4aaf94b34f-0cba9cd5c0" targ=
+et=3D"_blank" style=3D"display: inline-block;outline: none !important;borde=
+r: none !important;"><img class=3D"image" height=3D"92" width=3D"150" src=
+=3D"https://files.friday.de/ad_creatives/mailing_18/Amazon_15_Euro.jpg" sty=
+le=3D"display: block;margin: 0px auto;outline: none !important;border: none=
+ !important;border-style: none !important;padding: 0px 0px 15px 0px;" alt=
+=3D"15 Euro Amazon Gutschein" /></a><br /><span>Aktion l=C3=A4uft bis 31.10=
+.2019*</span></center></td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                                <!--[if !mso]><!-->
+                                <tr>
+                                    <td class=3D"mobileshow" style=3D"displ=
+ay:none;width:0;height:0;overflow:hidden;float:left;visibility:hidden;borde=
+r:none;max-height:0;mso-hide:all">
+                                        <table width=3D"100%" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0">
+                                            <tr>
+                                                <td height=3D"10"></td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                                <!--<![endif]-->
+                                <tr>
+                                    <td>
+                                        <table width=3D"100%" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0" class=3D"listtable">
+                                            <tr>
+                                                <td colspan=3D"2" style=3D"=
+font-family: Arial, Helvetica, sans-serif;font-size: 16px;color: #363145;li=
+ne-height: 24px;font-weight: normal;">Und das alles bei Top-Leistungen:</td>
+                                            </tr>
+                                            <tr><td colspan=3D"2" height=3D=
+"15"></td></tr>
+                                            <tr>
+                                                <td height=3D"28" width=3D"=
+30" valign=3D"top" align=3D"left" style=3D"line-height: 25px;">
+                                                    <img class=3D"icon" hei=
+ght=3D"20" src=3D"https://files.friday.de/ad_creatives/mailing_18/checkbox_=
+@2x.png" width=3D"20" style=3D"display: inline-block;margin: 0px auto;outli=
+ne: none !important;border: none !important;border-style: none !important;"=
+ alt=3D"Checkbox" />
+                                                </td>
+                                                <td align=3D"left" class=3D=
+"fontinlist" height=3D"28" valign=3D"top" style=3D"font-family: Arial, Helv=
+etica, sans-serif;font-size: 16px;color: #363145;line-height: 24px;font-wei=
+ght: normal;">Partner im gleichen Haushalt immer mitversichert
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td height=3D"28" valign=3D=
+"middle" width=3D"30" align=3D"left" style=3D"line-height: 25px;">
+                                                    <img class=3D"icon" hei=
+ght=3D"20" src=3D"https://files.friday.de/ad_creatives/mailing_18/checkbox_=
+@2x.png" width=3D"20" style=3D"display: inline-block;margin: 0px auto;outli=
+ne: none !important;border: none !important;border-style: none !important;"=
+ alt=3D"Checkbox" />
+                                                </td>
+                                                <td align=3D"left" class=3D=
+"fontinlist" height=3D"28" valign=3D"middle" style=3D"font-family: Arial, H=
+elvetica, sans-serif;font-size: 16px;color: #363145;line-height: 24px;font-=
+weight: normal;">Alle Tiersch=C3=A4den (in Teil- und Vollkasko) versichert
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td height=3D"28" valign=3D=
+"middle" width=3D"30" align=3D"left" style=3D"line-height: 25px;">
+                                                    <img class=3D"icon" hei=
+ght=3D"20" src=3D"https://files.friday.de/ad_creatives/mailing_18/checkbox_=
+@2x.png" width=3D"20" style=3D"display: inline-block;margin: 0px auto;outli=
+ne: none !important;border: none !important;border-style: none !important;"=
+ alt=3D"Checkbox" />
+                                                </td>
+                                                <td align=3D"left" class=3D=
+"fontinlist" height=3D"28" valign=3D"middle" style=3D"font-family: Arial, H=
+elvetica, sans-serif;font-size: 16px;color: #363145;line-height: 24px;font-=
+weight: normal;">Schaden-Hotline rund um die Uhr
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                                <!--[if !mso]><!-->
+                                <!-- CTA mobile -->
+                                <tr>
+                                    <td class=3D"mobileshow" style=3D"displ=
+ay:none;width:0;height:0;overflow:hidden;float:left;visibility:hidden;borde=
+r:none;max-height:0;mso-hide:all">
+                                        <table width=3D"100%" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0">
+                                            <tr>
+                                                <td height=3D"30"></td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td class=3D"mobileshow" style=3D"displ=
+ay:none;width:0;height:0;overflow:hidden;float:left;visibility:hidden;borde=
+r:none;max-height:0;mso-hide:all">
+                                        <table width=3D"100%" border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0">
+                                            <tr>
+                                                <td align=3D"center">
+                                                    <a href=3D"http://pixel=
+-promarketing.de/ga/click/2-199990483-444-23448-63546-1912089-4aaf94b34f-0c=
+ba9cd5c0" class=3D"linkimage" target=3D"_blank" style=3D"display: inline-bl=
+ock;outline: none !important;border: none !important;text-align: center;"><=
+img src=3D"https://files.friday.de/ad_creatives/2018/07/cta_jetzt_berechnen=
+_1018@2x.png" width=3D"320" height=3D"51" class=3D"image" style=3D"display:=
+ block;margin: 0px auto;outline: none !important;border: none !important;bo=
+rder-style: none !important;" alt=3D"Jetzt Angebot berechnen" /></a>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                                <!--<![endif]-->
+                            </table><!--/innertable-->
+                        </center>
+                    </td>
+                </tr>
+                <tr><td height=3D"30"></td></tr>
+                <tr>
+                    <td>
+                        <img class=3D"image" src=3D"https://files.friday.de=
+/ad_creatives/2018/12/border.png" width=3D"600" height=3D"13" style=3D"disp=
+lay: block;margin: 0px auto;outline: none !important;border: none !importan=
+t;border-style: none !important;" />
+                    </td>
+                </tr>
+                <tr><td height=3D"30"></td></tr>
+                <tr>
+                    <td class=3D"fontnormal" style=3D"font-family: Arial, H=
+elvetica, sans-serif;font-size: 16px;color: #363145;line-height: 22px;font-=
+weight: normal;text-align:center;"><strong>Tests best=C3=A4tigen:</strong><=
+br />FRIDAY bietet Top-Leistung zum fairen Preis.=20
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <a class=3D"linkimage" href=3D"http://pixel-promark=
+eting.de/ga/click/2-199990483-444-23448-63546-1912089-4aaf94b34f-0cba9cd5c0=
+" target=3D"_blank" style=3D"display: inline-block;outline: none !important=
+;border: none !important;"><img class=3D"image" src=3D"https://files.friday=
+.de/2019/quarter4/email/siegel-leiste-1019-epn.png" width=3D"600" height=3D=
+"200" style=3D"display: block;margin: 0px auto;outline: none !important;bor=
+der: none !important;border-style: none !important;" alt=3D"FRIDAY bietet T=
+op-Leistung zum fairen Preis." /></a>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <table width=3D"100%" border=3D"0" cellpadding=3D"0=
+" cellspacing=3D"0" bgcolor=3D"#ffffff">
+                            <tr>
+                                <td>
+                                    <a class=3D"linkimage" href=3D"http://p=
+ixel-promarketing.de/ga/click/2-199990483-444-23448-63546-1912089-4aaf94b34=
+f-0cba9cd5c0" target=3D"_blank" style=3D"display: inline-block;outline: non=
+e !important;border: none !important;">
+                                        <img class=3D"image" src=3D"https:/=
+/files.friday.de/2019/quarter4/email/footer-1019-pros-ppkm-auto.png" width=
+=3D"600" height=3D"250" style=3D"display: block;margin: 0px auto;outline: n=
+one !important;border: none !important;border-style: none !important;" alt=
+=3D"FRI:DAY Autoversicherung: Zahl pro Kilometer - Zahl nie zuviel. Jetzt b=
+erechnen" /></a>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+                <tr><td height=3D"10" bgcolor=3D"#fbfafd" style=3D"backgrou=
+nd-color:#fbfafd;"></td></tr>
+                <tr>
+                    <td class=3D"fontsmallx" align=3D"left" bgcolor=3D"#fbf=
+afd" valign=3D"top" style=3D"background-color:#fbfafd;font-family: Arial, H=
+elvetica, sans-serif;font-size: 11px;color: #363145;line-height: 16px;font-=
+weight: normal;">
+                        *Bedingungen auf happy.friday.de/lp/yob19/quarter1/=
+epn15
+                    </td>
+                </tr>
+                <tr><td height=3D"30" bgcolor=3D"#fbfafd" style=3D"backgrou=
+nd-color:#fbfafd;"></td></tr>
+            </table>
+        </center>
+        </td></tr></table>
+<p align=3D"center">
+
+  <span style=3D"color: #808080; font-size: 12px;">Das Angebot ist eine kom=
+merzielle Anzeige dieses Werbekunden, der allein f&#252;r den Inhalt verant=
+wortlich ist.<br /></span><br /><span style=3D"color: #808080;font-size: 12=
+px;"> Verantwortlich f&#252;r den Versand der E-Mail ist:<br /> <span style=
+=3D"color: #808080;font-size: 12px;"> Ein Service von Pixel ProMarketing S.=
+L. &#160;&#160;|&#160;&#160; Str Azor n5 Mijas-Costa &#160;&#160;|&#160;&#1=
+60; E-29651 M&#225;laga</span><br /><br /> <span style=3D"color: #808080;fo=
+nt-size: 12px;"> Ihre Daten sind lediglich bei dem Versender gespeichert. D=
+er Werbekunde hat daher keinen Einfluss auf dem Empf&#228;ngerkreis der E-M=
+ail. </span><br /> Sofern Sie k&#252;nftig keinen Newsletter mehr erhalten =
+m&#246;chten, wenden Sie sich bitte direkt an den Versender oder klicken au=
+f folgenden Link: <a style=3D"font-weight: normal; text-decoration: underli=
+ne; color: #808080;" href=3D"http://pixel-promarketing.de/ga/unsubscribe/2-=
+199990483-444-23448-63546-e04939885d24e4c-0cba9cd5c0"> Abmelden</a> <br /> =
+</span><span style=3D"color: #808080;font-size: 12px;"><br />Haben Sie Vers=
+t&#228;ndnis, dass die Abmeldung bis zu 48 Stunden dauern kann. Direkte Ant=
+worten an die Absenderadresse k&#246;nnen nicht beantwortet werden. </span>=
+</p>
+<center><span style=3D"color: #808080;"><span style=3D"color: #808080; font=
+-size: 12px;"> <a style=3D"font-weight: normal; text-decoration: underline;=
+ color: #808080; text-align: center;" href=3D"mailto:support@pixelpromarket=
+ing.com">support(at)pixelpromarketing.com</a></span></span>
+<p><span style=3D"color: #808080;font-size: 12px;">Ihre Daten sind lediglic=
+h bei dem Versender gespeichert. Der Werbekunde hat daher keinen Einfluss a=
+uf den Empf&#228;ngerkreis der E-Mail.</span>
+=20=20
+</p>
+</center>
+
+    <img src=3D"http://pixel-promarketing.de/ga/open/2-199990483-444-23448-=
+63546-0cba9cd5c0" height=3D"2" width=3D"3" alt=3D""></body>
+</html>=
+
+--==6c0e2df8a7bb99a383505cef38c6c7a3--

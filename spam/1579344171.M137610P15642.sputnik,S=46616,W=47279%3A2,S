@@ -1,0 +1,663 @@
+Return-Path: <suite22@edm.skypixel.com>
+Delivered-To: mail@elementk.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 90235D5990
+	for <mail@elementk.de>; Wed,  6 Dec 2017 12:42:24 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: 0.627
+X-Spam-Level:
+X-Spam-Status: No, score=0.627 required=5.5 tests=[DKIM_SIGNED=0.1,
+	DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1, HTML_MESSAGE=0.001,
+	LOTS_OF_MONEY=0.001, MIME_HTML_MOSTLY=0.001, MPART_ALT_DIFF=0.724,
+	RCVD_IN_DNSWL_NONE=-0.0001, SPF_PASS=-0.001, URIBL_BLOCKED=0.001]
+	autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id NR5ZiJLzE83H for <mail@elementk.de>;
+	Wed,  6 Dec 2017 12:42:23 +0100 (CET)
+X-Greylist: delayed 601 seconds by postgrey-1.34 at v22014122474822114; Wed, 06 Dec 2017 12:42:23 CET
+Received: from uspmta120197.emarsys.net (uspmta120197.emarsys.net [185.4.120.197])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id 1907EC342C
+	for <mail@elementk.de>; Wed,  6 Dec 2017 12:42:22 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=key2; d=edm.skypixel.com;
+ h=To:Subject:From:MIME-Version:List-Id:List-Unsubscribe:Content-Type:Message-ID:Date; i=enews@edm.skypixel.com;
+ bh=lCYo7sf/zc1U5b+tqckVXVxOPDkDIxgfxNa+NwgsXwE=;
+ b=qSG59yduPb9+t2QN0py/t5FgSyOQJMCaQMlgOwwAEj7PeYoOqSB8i+/poMfzvglTFL2nKvrR9fTw
+   CTyPL3pWC3C5j8dpyONt6SVKkZcpaGSrR+zGGl1QqZkMv+FCHLRGbj3a3yJFAsiAejxRO3bD52PY
+   AlbZfxbpuatN//DOxAE=
+Received: from (10.33.0.185) by uspmta120197.emarsys.net id h4vbpu16nmcc for <mail@elementk.de>; Wed, 6 Dec 2017 12:32:22 +0100 (envelope-from <suite22@edm.skypixel.com>)
+To: mail@elementk.de
+Subject: Enter to Win the DJI Zenmuse X7, iPhone X, and More!
+X-Mailer: class SMTPMail
+From: "SKYPIXEL" <enews@edm.skypixel.com>
+MIME-Version: 1.0
+List-Id: 783893639 <SKYPIXEL>
+X-EMarSys-Identify: 783893639_15249_98627
+X-EMarSys-Environment: suite22
+X-Report-Abuse: Please report abuse here: abuse-report@emarsys.com
+X-CSA-Complaints: whitelist-complaints@eco.de
+List-Unsubscribe: <mailto:list-unsubscribe+783893639_15249_98627_478elfWw2h@emarsys.net>, <https://list-unsubscribe.eservice.emarsys.net/api/unsubscribe/783893639_15249_98627_478elfWw2h>
+Content-Type: multipart/alternative;
+ boundary="--=_---NextPart--=_-P7sQ8GObrl"
+Message-ID: <0.0.9.B3E.1D36E85E2303670.0@uspmta120197.emarsys.net>
+Date: Wed, 6 Dec 2017 12:32:22 +0100
+
+
+----=_---NextPart--=_-P7sQ8GObrl
+Content-Type: text/plain; charset=utf-8
+Content-transfer-encoding: quoted-printable
+
+
+----=_---NextPart--=_-P7sQ8GObrl
+Content-Type: text/html; charset=utf-8
+Content-transfer-encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional //EN" "http://www=
+.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns=3D"http://www.w3=
+.org/1999/xhtml" xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:s=
+chemas-microsoft-com:office:office"><head> <!--[if gte mso 9]><xml> <o:Offi=
+ceDocumentSettings> <o:AllowPNG/> <o:PixelsPerInch>96</o:PixelsPerInch> </o=
+:OfficeDocumentSettings> </xml><![endif]--> <meta http-equiv=3D"Content-Typ=
+e" content=3D"text/html; charset=3Dutf-8"> <meta name=3D"viewport" content=
+=3D"width=3Ddevice-width"> <!--[if !mso]><!--><meta http-equiv=3D"X-UA-Comp=
+atible" content=3D"IE=3Dedge"><!--<![endif]--> <title>Enter to Win the DJI =
+Zenmuse X7, iPhone X, and More!</title> <!--[if !mso]><!-- -->=09<link href=
+=3D"https://fonts.googleapis.com/css?family=3DOpen+Sans" rel=3D"stylesheet"=
+ type=3D"text/css">=09<!--<![endif]--> <style type=3D"text/css" id=3D"media=
+-query"> body { margin: 0; padding: 0; }
+table, tr, td { vertical-align: top; border-collapse: collapse; }
+.ie-browser table, .mso-container table { table-layout: fixed; }
+* { line-height: inherit; }
+a[x-apple-data-detectors=3Dtrue] { color: inherit !important; text-decorati=
+on: none !important; }
+[owa] .img-container div, [owa] .img-container button { display: block !imp=
+ortant; }
+[owa] .fullwidth button { width: 100% !important; }
+[owa] .block-grid .col { display: table-cell; float: none !important; verti=
+cal-align: top; }
+.ie-browser .num12, .ie-browser .block-grid, [owa] .num12, [owa] .block-gri=
+d { width: 650px !important; }
+.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font,=
+ .ExternalClass td, .ExternalClass div { line-height: 100%; }
+.ie-browser .mixed-two-up .num4, [owa] .mixed-two-up .num4 { width: 216px !=
+important; }
+.ie-browser .mixed-two-up .num8, [owa] .mixed-two-up .num8 { width: 432px !=
+important; }
+.ie-browser .block-grid.two-up .col, [owa] .block-grid.two-up .col { width:=
+ 325px !important; }
+.ie-browser .block-grid.three-up .col, [owa] .block-grid.three-up .col { wi=
+dth: 216px !important; }
+.ie-browser .block-grid.four-up .col, [owa] .block-grid.four-up .col { widt=
+h: 162px !important; }
+.ie-browser .block-grid.five-up .col, [owa] .block-grid.five-up .col { widt=
+h: 130px !important; }
+.ie-browser .block-grid.six-up .col, [owa] .block-grid.six-up .col { width:=
+ 108px !important; }
+.ie-browser .block-grid.seven-up .col, [owa] .block-grid.seven-up .col { wi=
+dth: 92px !important; }
+.ie-browser .block-grid.eight-up .col, [owa] .block-grid.eight-up .col { wi=
+dth: 81px !important; }
+.ie-browser .block-grid.nine-up .col, [owa] .block-grid.nine-up .col { widt=
+h: 72px !important; }
+.ie-browser .block-grid.ten-up .col, [owa] .block-grid.ten-up .col { width:=
+ 65px !important; }
+.ie-browser .block-grid.eleven-up .col, [owa] .block-grid.eleven-up .col { =
+width: 59px !important; }
+.ie-browser .block-grid.twelve-up .col, [owa] .block-grid.twelve-up .col { =
+width: 54px !important; }
+@media only screen and (min-width: 670px) { .block-grid { width: 650px !imp=
+ortant; } .block-grid .col { vertical-align: top; } .block-grid .col.num12 =
+{ width: 650px !important; } .block-grid.mixed-two-up .col.num4 { width: 21=
+6px !important; } .block-grid.mixed-two-up .col.num8 { width: 432px !import=
+ant; } .block-grid.two-up .col { width: 325px !important; } .block-grid.thr=
+ee-up .col { width: 216px !important; } .block-grid.four-up .col { width: 1=
+62px !important; } .block-grid.five-up .col { width: 130px !important; } .b=
+lock-grid.six-up .col { width: 108px !important; } .block-grid.seven-up .co=
+l { width: 92px !important; } .block-grid.eight-up .col { width: 81px !impo=
+rtant; } .block-grid.nine-up .col { width: 72px !important; } .block-grid.t=
+en-up .col { width: 65px !important; } .block-grid.eleven-up .col { width: =
+59px !important; } .block-grid.twelve-up .col { width: 54px !important; } }
+@media (max-width: 670px) { .block-grid, .col { min-width: 320px !important=
+; max-width: 100% !important; display: block !important; } .block-grid { wi=
+dth: calc(100% - 40px) !important; } .col { width: 100% !important; } .col =
+> div { margin: 0 auto; } img.fullwidth, img.fullwidthOnMobile { max-width:=
+ 100% !important; } .no-stack .col { min-width: 0 !important; display: tabl=
+e-cell !important; } .no-stack.two-up .col { width: 50% !important; } .no-s=
+tack.mixed-two-up .col.num4 { width: 33% !important; } .no-stack.mixed-two-=
+up .col.num8 { width: 66% !important; } .no-stack.three-up .col.num4 { widt=
+h: 33% !important; } .no-stack.four-up .col.num3 { width: 25% !important; }=
+ } </style>
+</head>
+<body class=3D"clean-body" style=3D"margin: 0;padding: 0;-webkit-text-size-=
+adjust: 100%;background-color: #F1F2F3"> <style type=3D"text/css" id=3D"med=
+ia-query-bodytag"> @media (max-width: 520px) { .block-grid { min-width: 320=
+px!important; max-width: 100%!important; width: 100%!important; display: bl=
+ock!important; } .col { min-width: 320px!important; max-width: 100%!importa=
+nt; width: 100%!important; display: block!important; } .col > div { margin:=
+ 0 auto; } img.fullwidth { max-width: 100%!important; }=09img.fullwidthOnMo=
+bile { max-width: 100%!important; } .no-stack .col {=09min-width: 0!importa=
+nt;=09display: table-cell!important;=09}=09.no-stack.two-up .col {=09width:=
+ 50%!important;=09}=09.no-stack.mixed-two-up .col.num4 {=09width: 33%!impor=
+tant;=09}=09.no-stack.mixed-two-up .col.num8 {=09width: 66%!important;=09}=
+=09.no-stack.three-up .col.num4 {=09width: 33%!important=09}=09.no-stack.fo=
+ur-up .col.num3 {=09width: 25%!important=09} } </style> <!--[if IE]><div cl=
+ass=3D"ie-browser"><![endif]--> <!--[if mso]><div class=3D"mso-container"><=
+![endif]--> <table class=3D"nl-container" style=3D"border-collapse: collaps=
+e;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rsp=
+ace: 0pt;vertical-align: top;min-width: 320px;Margin: 0 auto;background-col=
+or: #F1F2F3;width: 100%" cellpadding=3D"0" cellspacing=3D"0">=09<tr style=
+=3D"vertical-align: top">=09<td style=3D"word-break: break-word;border-coll=
+apse: collapse !important;vertical-align: top"> <!--[if (mso)|(IE)]><table =
+width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td ali=
+gn=3D"center" style=3D"background-color: #F1F2F3;"><![endif]--> <div style=
+=3D"background-color:transparent;"> <div style=3D"Margin: 0 auto;min-width:=
+ 320px;max-width: 650px;overflow-wrap: break-word;word-wrap: break-word;wor=
+d-break: break-word;background-color: #F1F2F3;" class=3D"block-grid "> <div=
+ style=3D"border-collapse: collapse;display: table;width: 100%;background-c=
+olor:#F1F2F3;"> <!--[if (mso)|(IE)]><table width=3D"100%" cellpadding=3D"0"=
+ cellspacing=3D"0" border=3D"0"><tr><td style=3D"background-color:transpare=
+nt;" align=3D"center"><table cellpadding=3D"0" cellspacing=3D"0" border=3D"=
+0" style=3D"width: 650px;"><tr class=3D"layout-full-width" style=3D"backgro=
+und-color:#F1F2F3;"><![endif]--> <!--[if (mso)|(IE)]><td align=3D"center" w=
+idth=3D"650" style=3D" width:650px; padding-right: 0px; padding-left: 0px; =
+padding-top:0px; padding-bottom:0px; border-top: 0px solid transparent; bor=
+der-left: 0px solid transparent; border-bottom: 0px solid transparent; bord=
+er-right: 0px solid transparent;" valign=3D"top"><![endif]--> <div class=3D=
+"col num12" style=3D"min-width: 320px;max-width: 650px;display: table-cell;=
+vertical-align: top;"> <div style=3D"background-color: transparent; width: =
+100% !important;"> <!--[if (!mso)&(!IE)]><!--><div style=3D"border-top: 0px=
+ solid transparent; border-left: 0px solid transparent; border-bottom: 0px =
+solid transparent; border-right: 0px solid transparent; padding-top:0px; pa=
+dding-bottom:0px; padding-right: 0px; padding-left: 0px;"><!--<![endif]--> =
+<!--[if mso]><table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" bord=
+er=3D"0"><tr><td style=3D"padding-right: 10px; padding-left: 10px; padding-=
+top: 10px; padding-bottom: 5px;"><![endif]-->
+<div style=3D"font-family:'Open Sans', 'Helvetica Neue', Helvetica, Arial, =
+sans-serif;line-height:120%;color:#707473; padding-right: 10px; padding-lef=
+t: 10px; padding-top: 10px; padding-bottom: 5px;">=09<div style=3D"font-siz=
+e:12px;line-height:14px;font-family:'Open Sans', 'Helvetica Neue', Helvetic=
+a, Arial, sans-serif;color:#707473;text-align:left;"><p style=3D"margin: 0;=
+font-size: 12px;line-height: 14px;text-align: center"><span style=3D"font-s=
+ize: 12px; line-height: 14px;">Join the 2017 SkyPixel Photo Contest Now!</s=
+pan></p></div>
+</div>
+<!--[if mso]></td></tr></table><![endif]--> <!--[if (!mso)&(!IE)]><!--></di=
+v><!--<![endif]--> </div> </div> <!--[if (mso)|(IE)]></td></tr></table></td=
+></tr></table><![endif]--> </div> </div> </div> <div style=3D"background-co=
+lor:transparent;"> <div style=3D"Margin: 0 auto;min-width: 320px;max-width:=
+ 650px;overflow-wrap: break-word;word-wrap: break-word;word-break: break-wo=
+rd;background-color: #F1F2F3;" class=3D"block-grid "> <div style=3D"border-=
+collapse: collapse;display: table;width: 100%;background-color:#F1F2F3;"> <=
+!--[if (mso)|(IE)]><table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0=
+" border=3D"0"><tr><td style=3D"background-color:transparent;" align=3D"cen=
+ter"><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"width=
+: 650px;"><tr class=3D"layout-full-width" style=3D"background-color:#F1F2F3=
+;"><![endif]--> <!--[if (mso)|(IE)]><td align=3D"center" width=3D"650" styl=
+e=3D" width:650px; padding-right: 0px; padding-left: 0px; padding-top:0px; =
+padding-bottom:0px; border-top: 0px solid transparent; border-left: 0px sol=
+id transparent; border-bottom: 0px solid transparent; border-right: 0px sol=
+id transparent;" valign=3D"top"><![endif]--> <div class=3D"col num12" style=
+=3D"min-width: 320px;max-width: 650px;display: table-cell;vertical-align: t=
+op;"> <div style=3D"background-color: transparent; width: 100% !important;"=
+> <!--[if (!mso)&(!IE)]><!--><div style=3D"border-top: 0px solid transparen=
+t; border-left: 0px solid transparent; border-bottom: 0px solid transparent=
+; border-right: 0px solid transparent; padding-top:0px; padding-bottom:0px;=
+ padding-right: 0px; padding-left: 0px;"><!--<![endif]--> <!--[if mso]><tab=
+le width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td =
+style=3D"padding-right: 10px; padding-left: 10px; padding-top: 5px; padding=
+-bottom: 10px;"><![endif]-->
+<div style=3D"font-family:'Open Sans', 'Helvetica Neue', Helvetica, Arial, =
+sans-serif;line-height:120%;color:#707473; padding-right: 10px; padding-lef=
+t: 10px; padding-top: 5px; padding-bottom: 10px;">=09<div style=3D"font-siz=
+e:12px;line-height:14px;font-family:'Open Sans', 'Helvetica Neue', Helvetic=
+a, Arial, sans-serif;color:#707473;text-align:left;"><p style=3D"margin: 0;=
+font-size: 14px;line-height: 17px;text-align: center"><span style=3D"line-h=
+eight: 14px; color: rgb(112, 116, 115); font-size: 12px;">=EF=BB=BF<a style=
+=3D"color:#44a8f2;text-decoration: underline; color: rgb(112, 116, 115);" h=
+ref=3D"http://link.skypixel.com/u/gm.php?prm=3D478elfWw2h_783893639_15249_9=
+8627" target=3D"_blank" rel=3D"noopener noreferrer">View in browser</a></sp=
+an><br></p></div>
+</div>
+<!--[if mso]></td></tr></table><![endif]--> <!--[if (!mso)&(!IE)]><!--></di=
+v><!--<![endif]--> </div> </div> <!--[if (mso)|(IE)]></td></tr></table></td=
+></tr></table><![endif]--> </div> </div> </div> <div style=3D"background-co=
+lor:transparent;"> <div style=3D"Margin: 0 auto;min-width: 320px;max-width:=
+ 650px;overflow-wrap: break-word;word-wrap: break-word;word-break: break-wo=
+rd;background-color: #F1F2F3;" class=3D"block-grid "> <div style=3D"border-=
+collapse: collapse;display: table;width: 100%;background-color:#F1F2F3;"> <=
+!--[if (mso)|(IE)]><table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0=
+" border=3D"0"><tr><td style=3D"background-color:transparent;" align=3D"cen=
+ter"><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"width=
+: 650px;"><tr class=3D"layout-full-width" style=3D"background-color:#F1F2F3=
+;"><![endif]--> <!--[if (mso)|(IE)]><td align=3D"center" width=3D"650" styl=
+e=3D" width:650px; padding-right: 0px; padding-left: 0px; padding-top:0px; =
+padding-bottom:0px; border-top: 0px solid transparent; border-left: 0px sol=
+id transparent; border-bottom: 0px solid transparent; border-right: 0px sol=
+id transparent;" valign=3D"top"><![endif]--> <div class=3D"col num12" style=
+=3D"min-width: 320px;max-width: 650px;display: table-cell;vertical-align: t=
+op;"> <div style=3D"background-color: transparent; width: 100% !important;"=
+> <!--[if (!mso)&(!IE)]><!--><div style=3D"border-top: 0px solid transparen=
+t; border-left: 0px solid transparent; border-bottom: 0px solid transparent=
+; border-right: 0px solid transparent; padding-top:0px; padding-bottom:0px;=
+ padding-right: 0px; padding-left: 0px;"><!--<![endif]--> <div align=3D"cen=
+ter" class=3D"img-container center autowidth fullwidth" style=3D"padding-ri=
+ght: 0px; padding-left: 0px;">
+<!--[if mso]><table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" bord=
+er=3D"0"><tr><td style=3D"padding-right: 0px; padding-left: 0px;" align=3D"=
+center"><![endif]--> <a href=3D"http://link.skypixel.com//u/nrd.php?p=3D478=
+elfWw2h_98627_15249_1_23&ems_l=3D11769" target=3D"_blank"> <img class=3D"ce=
+nter autowidth fullwidth" align=3D"center" border=3D"0" src=3D"http://link.=
+dji.com/custloads/290636680/md_832284.jpg" alt=3D"DJI" title=3D"DJI" style=
+=3D"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;cle=
+ar: both;display: block !important;border: none;height: auto;float: none;wi=
+dth: 100%;max-width: 650px" width=3D"650"> </a>
+<!--[if mso]></td></tr></table><![endif]-->
+</div> <div align=3D"center" class=3D"img-container center autowidth fullwi=
+dth" style=3D"padding-right: 0px; padding-left: 0px;">
+<!--[if mso]><table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" bord=
+er=3D"0"><tr><td style=3D"padding-right: 0px; padding-left: 0px;" align=3D"=
+center"><![endif]--> <a href=3D"http://link.skypixel.com//u/nrd.php?p=3D478=
+elfWw2h_98627_15249_1_24&ems_l=3D11769" target=3D"_blank"> <img class=3D"ce=
+nter autowidth fullwidth" align=3D"center" border=3D"0" src=3D"http://link.=
+dji.com/custloads/290636680/md_829743.jpg" alt=3D"$90,000 in prizes, enter =
+today!" title=3D"$90,000 in prizes, enter today!" style=3D"outline: none;te=
+xt-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: bl=
+ock !important;border: none;height: auto;float: none;width: 100%;max-width:=
+ 650px" width=3D"650"> </a>
+<!--[if mso]></td></tr></table><![endif]-->
+</div> <!--[if (!mso)&(!IE)]><!--></div><!--<![endif]--> </div> </div> <!--=
+[if (mso)|(IE)]></td></tr></table></td></tr></table><![endif]--> </div> </d=
+iv> </div> <div style=3D"background-color:transparent;"> <div style=3D"Marg=
+in: 0 auto;min-width: 320px;max-width: 650px;overflow-wrap: break-word;word=
+-wrap: break-word;word-break: break-word;background-color: #ffffff;" class=
+=3D"block-grid "> <div style=3D"border-collapse: collapse;display: table;wi=
+dth: 100%;background-color:#ffffff;"> <!--[if (mso)|(IE)]><table width=3D"1=
+00%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td style=3D"back=
+ground-color:transparent;" align=3D"center"><table cellpadding=3D"0" cellsp=
+acing=3D"0" border=3D"0" style=3D"width: 650px;"><tr class=3D"layout-full-w=
+idth" style=3D"background-color:#ffffff;"><![endif]--> <!--[if (mso)|(IE)]>=
+<td align=3D"center" width=3D"650" style=3D" width:650px; padding-right: 0p=
+x; padding-left: 0px; padding-top:0px; padding-bottom:30px; border-top: 0px=
+ solid transparent; border-left: 0px solid transparent; border-bottom: 0px =
+solid transparent; border-right: 0px solid transparent;" valign=3D"top"><![=
+endif]--> <div class=3D"col num12" style=3D"min-width: 320px;max-width: 650=
+px;display: table-cell;vertical-align: top;"> <div style=3D"background-colo=
+r: transparent; width: 100% !important;"> <!--[if (!mso)&(!IE)]><!--><div s=
+tyle=3D"border-top: 0px solid transparent; border-left: 0px solid transpare=
+nt; border-bottom: 0px solid transparent; border-right: 0px solid transpare=
+nt; padding-top:0px; padding-bottom:30px; padding-right: 0px; padding-left:=
+ 0px;"><!--<![endif]--> <!--[if mso]><table width=3D"100%" cellpadding=3D"0=
+" cellspacing=3D"0" border=3D"0"><tr><td style=3D"padding-right: 30px; padd=
+ing-left: 30px; padding-top: 30px; padding-bottom: 25px;"><![endif]-->
+<div style=3D"font-family:'Open Sans', 'Helvetica Neue', Helvetica, Arial, =
+sans-serif;line-height:200%;color:#555555; padding-right: 30px; padding-lef=
+t: 30px; padding-top: 30px; padding-bottom: 25px;">=09<div style=3D"font-si=
+ze:12px;line-height:24px;color:#555555;font-family:'Open Sans', 'Helvetica =
+Neue', Helvetica, Arial, sans-serif;text-align:left;"><p style=3D"margin: 0=
+;font-size: 14px;line-height: 28px;text-align: left"><span style=3D"font-si=
+ze: 14px; line-height: 28px;">Aerial photography inspires us to explore the=
+ unknown world and create unique works of art from a new perspective. Found=
+ed three years ago, SkyPixel is now one of the premier aerial photography c=
+ommunities in the world with over six million registered professionals and =
+enthusiasts. </span><br><br><span style=3D"font-size: 14px; line-height: 28=
+px;">The 2017 SkyPixel Photo Contest is the most prominent aerial photograp=
+hy contest worldwide, and we have added a new Story category as well as a p=
+rize for nominated entrants in this year's competition. Exciting prizes wit=
+h a total value of $90,000 are waiting for you, so enter now to win a DJI Z=
+enmuse X7, Nikon D850, iPhone X, and more!</span></p></div>
+</div>
+<!--[if mso]></td></tr></table><![endif]-->
+<div align=3D"center" class=3D"button-container center" style=3D"padding-ri=
+ght: 10px; padding-left: 10px; padding-top:10px; padding-bottom:10px;"> <!-=
+-[if mso]><table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0" style=3D"border-spacing: 0; border-collapse: collapse; mso-table-lsp=
+ace:0pt; mso-table-rspace:0pt;"><tr><td style=3D"padding-right: 10px; paddi=
+ng-left: 10px; padding-top:10px; padding-bottom:10px;" align=3D"center"><v:=
+roundrect xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:w=3D"urn:schemas-=
+microsoft-com:office:word" href=3D"https://www.skypixel.com/events/photocon=
+test2017?utm_source=3Dnewsletter&utm_medium=3Dedm&utm_campaign=3Dphotoconte=
+st2017" style=3D"height:38px; v-text-anchor:middle; width:146px;" arcsize=
+=3D"6%" strokecolor=3D"#44a8f2" fillcolor=3D"#44a8f2"><w:anchorlock/><cente=
+r style=3D"color:#ffffff; font-family:'Open Sans', 'Helvetica Neue', Helvet=
+ica, Arial, sans-serif; font-size:16px;"><![endif]--> <a href=3D"http://lin=
+k.skypixel.com//u/nrd.php?p=3D478elfWw2h_98627_15249_1_25&ems_l=3D11769" ta=
+rget=3D"_blank" style=3D"display: block;text-decoration: none;-webkit-text-=
+size-adjust: none;text-align: center;color: #ffffff; background-color: #44a=
+8f2; border-radius: 2px; -webkit-border-radius: 2px; -moz-border-radius: 2p=
+x; max-width: 146px; width: 116px;width: auto; border-top: 0px solid transp=
+arent; border-right: 0px solid transparent; border-bottom: 0px solid transp=
+arent; border-left: 0px solid transparent; padding-top: 5px; padding-right:=
+ 15px; padding-bottom: 5px; padding-left: 15px; font-family: 'Open Sans', '=
+Helvetica Neue', Helvetica, Arial, sans-serif;mso-border-alt: none"> <span =
+style=3D"font-size:16px;line-height:28px;">ENTER TO WIN</span> </a> <!--[if=
+ mso]></center></v:roundrect></td></tr></table><![endif]-->
+</div> <!--[if (!mso)&(!IE)]><!--></div><!--<![endif]--> </div> </div> <!--=
+[if (mso)|(IE)]></td></tr></table></td></tr></table><![endif]--> </div> </d=
+iv> </div> <div style=3D"background-color:transparent;"> <div style=3D"Marg=
+in: 0 auto;min-width: 320px;max-width: 650px;overflow-wrap: break-word;word=
+-wrap: break-word;word-break: break-word;background-color: #ffffff;" class=
+=3D"block-grid "> <div style=3D"border-collapse: collapse;display: table;wi=
+dth: 100%;background-color:#ffffff;"> <!--[if (mso)|(IE)]><table width=3D"1=
+00%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td style=3D"back=
+ground-color:transparent;" align=3D"center"><table cellpadding=3D"0" cellsp=
+acing=3D"0" border=3D"0" style=3D"width: 650px;"><tr class=3D"layout-full-w=
+idth" style=3D"background-color:#ffffff;"><![endif]--> <!--[if (mso)|(IE)]>=
+<td align=3D"center" width=3D"650" style=3D" width:650px; padding-right: 0p=
+x; padding-left: 0px; padding-top:0px; padding-bottom:0px; border-top: 0px =
+solid #F1F2F3; border-left: 0px solid #F1F2F3; border-bottom: 0px solid #F1=
+F2F3; border-right: 0px solid #F1F2F3;" valign=3D"top"><![endif]--> <div cl=
+ass=3D"col num12" style=3D"min-width: 320px;max-width: 650px;display: table=
+-cell;vertical-align: top;"> <div style=3D"background-color: transparent; w=
+idth: 100% !important;"> <!--[if (!mso)&(!IE)]><!--><div style=3D"border-to=
+p: 0px solid #F1F2F3; border-left: 0px solid #F1F2F3; border-bottom: 0px so=
+lid #F1F2F3; border-right: 0px solid #F1F2F3; padding-top:0px; padding-bott=
+om:0px; padding-right: 0px; padding-left: 0px;"><!--<![endif]--> <div align=
+=3D"center" class=3D"img-container center autowidth fullwidth" style=3D"pad=
+ding-right: 0px; padding-left: 0px;">
+<!--[if mso]><table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" bord=
+er=3D"0"><tr><td style=3D"padding-right: 0px; padding-left: 0px;" align=3D"=
+center"><![endif]--> <img class=3D"center autowidth fullwidth" align=3D"cen=
+ter" border=3D"0" src=3D"http://link.dji.com/custloads/290636680/md_829744.=
+jpg" alt=3D"2017 SkyPixel Photo Contest Highlights" title=3D"2017 SkyPixel =
+Photo Contest Highlights" style=3D"outline: none;text-decoration: none;-ms-=
+interpolation-mode: bicubic;clear: both;display: block !important;border: 0=
+;height: auto;float: none;width: 100%;max-width: 650px" width=3D"650">
+<!--[if mso]></td></tr></table><![endif]-->
+</div> <!--[if (!mso)&(!IE)]><!--></div><!--<![endif]--> </div> </div> <!--=
+[if (mso)|(IE)]></td></tr></table></td></tr></table><![endif]--> </div> </d=
+iv> </div> <div style=3D"background-color:transparent;"> <div style=3D"Marg=
+in: 0 auto;min-width: 320px;max-width: 650px;overflow-wrap: break-word;word=
+-wrap: break-word;word-break: break-word;background-color: #ffffff;" class=
+=3D"block-grid "> <div style=3D"border-collapse: collapse;display: table;wi=
+dth: 100%;background-color:#ffffff;"> <!--[if (mso)|(IE)]><table width=3D"1=
+00%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td style=3D"back=
+ground-color:transparent;" align=3D"center"><table cellpadding=3D"0" cellsp=
+acing=3D"0" border=3D"0" style=3D"width: 650px;"><tr class=3D"layout-full-w=
+idth" style=3D"background-color:#ffffff;"><![endif]--> <!--[if (mso)|(IE)]>=
+<td align=3D"center" width=3D"650" style=3D" width:650px; padding-right: 0p=
+x; padding-left: 0px; padding-top:0px; padding-bottom:35px; border-top: 0px=
+ solid transparent; border-left: 0px solid transparent; border-bottom: 0px =
+solid transparent; border-right: 0px solid transparent;" valign=3D"top"><![=
+endif]--> <div class=3D"col num12" style=3D"min-width: 320px;max-width: 650=
+px;display: table-cell;vertical-align: top;"> <div style=3D"background-colo=
+r: transparent; width: 100% !important;"> <!--[if (!mso)&(!IE)]><!--><div s=
+tyle=3D"border-top: 0px solid transparent; border-left: 0px solid transpare=
+nt; border-bottom: 0px solid transparent; border-right: 0px solid transpare=
+nt; padding-top:0px; padding-bottom:35px; padding-right: 0px; padding-left:=
+ 0px;"><!--<![endif]--> <!--[if mso]><table width=3D"100%" cellpadding=3D"0=
+" cellspacing=3D"0" border=3D"0"><tr><td style=3D"padding-right: 30px; padd=
+ing-left: 30px; padding-top: 30px; padding-bottom: 25px;"><![endif]-->
+<div style=3D"font-family:'Open Sans', 'Helvetica Neue', Helvetica, Arial, =
+sans-serif;line-height:200%;color:#555555; padding-right: 30px; padding-lef=
+t: 30px; padding-top: 30px; padding-bottom: 25px;">=09<div style=3D"font-si=
+ze:12px;line-height:24px;color:#555555;font-family:'Open Sans', 'Helvetica =
+Neue', Helvetica, Arial, sans-serif;text-align:left;"><p style=3D"margin: 0=
+;font-size: 14px;line-height: 28px;text-align: left"><span style=3D"font-si=
+ze: 14px; line-height: 28px;">The 2017 contest opened on October 26, and in=
+ just one week we have already received 3000 high-quality submissions from =
+enthusiasts and professionals alike. Please enjoy these 10 standout images,=
+ which we hope will motivate you to capture and share your unique perspecti=
+ve.</span><br><br><span style=3D"font-size: 14px; line-height: 28px;">Photo=
+graphers from all backgrounds are welcome to join this contest. Entrants wi=
+ll be organized into two groups =E2=80=94 Enthusiast and Professional =E2=
+=80=94 and may submit images in the Landscape, Portrait, or Story categorie=
+s. </span><br><br><span style=3D"font-size: 14px; line-height: 28px;">A spe=
+cial newcomer to this year=E2=80=99s contest, the Story category aims to en=
+courage our growing aerial photography community to share not only the vivi=
+d pictures they take, but the adventures they want to share. If a picture i=
+s worth a thousand words, we can=E2=80=99t wait to see what your Story will=
+ tell.</span></p></div>
+</div>
+<!--[if mso]></td></tr></table><![endif]-->
+<div align=3D"center" class=3D"button-container center" style=3D"padding-ri=
+ght: 10px; padding-left: 10px; padding-top:10px; padding-bottom:10px;"> <!-=
+-[if mso]><table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0" style=3D"border-spacing: 0; border-collapse: collapse; mso-table-lsp=
+ace:0pt; mso-table-rspace:0pt;"><tr><td style=3D"padding-right: 10px; paddi=
+ng-left: 10px; padding-top:10px; padding-bottom:10px;" align=3D"center"><v:=
+roundrect xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:w=3D"urn:schemas-=
+microsoft-com:office:word" href=3D"https://www.skypixel.com/editor/weekly/7=
+9?utm_source=3Dnewsletter&utm_medium=3Dedm&utm_campaign=3Dphotocontest2017"=
+ style=3D"height:38px; v-text-anchor:middle; width:184px;" arcsize=3D"6%" s=
+trokecolor=3D"#44a8f2" fillcolor=3D"#44a8f2"><w:anchorlock/><center style=
+=3D"color:#ffffff; font-family:'Open Sans', 'Helvetica Neue', Helvetica, Ar=
+ial, sans-serif; font-size:16px;"><![endif]--> <a href=3D"http://link.skypi=
+xel.com//u/nrd.php?p=3D478elfWw2h_98627_15249_1_26&ems_l=3D11769" target=3D=
+"_blank" style=3D"display: block;text-decoration: none;-webkit-text-size-ad=
+just: none;text-align: center;color: #ffffff; background-color: #44a8f2; bo=
+rder-radius: 2px; -webkit-border-radius: 2px; -moz-border-radius: 2px; max-=
+width: 184px; width: 154px;width: auto; border-top: 0px solid transparent; =
+border-right: 0px solid transparent; border-bottom: 0px solid transparent; =
+border-left: 0px solid transparent; padding-top: 5px; padding-right: 15px; =
+padding-bottom: 5px; padding-left: 15px; font-family: 'Open Sans', 'Helveti=
+ca Neue', Helvetica, Arial, sans-serif;mso-border-alt: none"> <span style=
+=3D"font-size:16px;line-height:28px;">CHECK IT OUT NOW</span> </a> <!--[if =
+mso]></center></v:roundrect></td></tr></table><![endif]-->
+</div> <!--[if (!mso)&(!IE)]><!--></div><!--<![endif]--> </div> </div> <!--=
+[if (mso)|(IE)]></td></tr></table></td></tr></table><![endif]--> </div> </d=
+iv> </div> <div style=3D"background-color:transparent;"> <div style=3D"Marg=
+in: 0 auto;min-width: 320px;max-width: 650px;width: 650px;width: calc(34000=
+% - 227150px);overflow-wrap: break-word;word-wrap: break-word;word-break: b=
+reak-word;background-color: #F1F2F3;" class=3D"block-grid "> <div style=3D"=
+border-collapse: collapse;display: table;width: 100%;"> <!--[if (mso)|(IE)]=
+><table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr=
+><td style=3D"background-color:transparent;" align=3D"center"><table cellpa=
+dding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"width: 650px;"><tr clas=
+s=3D"layout-full-width" style=3D"background-color:#F1F2F3;"><![endif]--> <!=
+--[if (mso)|(IE)]><td align=3D"center" width=3D"650" style=3D" width:650px;=
+ padding-right: 0px; padding-left: 0px; padding-top:10px; padding-bottom:5p=
+x; border-top: 0px solid transparent; border-left: 0px solid transparent; b=
+order-bottom: 0px solid transparent; border-right: 0px solid transparent;" =
+valign=3D"top"><![endif]--> <div class=3D"col num12" style=3D"min-width: 32=
+0px;max-width: 650px;width: 650px;width: calc(33000% - 213850px);background=
+-color: #F1F2F3;"> <div style=3D"background-color: transparent; width: 100%=
+ !important;"> <!--[if (!mso)&(!IE)]><!--><div style=3D"border-top: 0px sol=
+id transparent; border-left: 0px solid transparent; border-bottom: 0px soli=
+d transparent; border-right: 0px solid transparent; padding-top:10px; paddi=
+ng-bottom:5px; padding-right: 0px; padding-left: 0px;"><!--<![endif]-->
+<div align=3D"center" style=3D"Margin-right: 10px; Margin-left: 10px; Margi=
+n-bottom: 10px;"> <div style=3D"line-height:10px;font-size:1px">&nbsp;</div=
+> <div style=3D"display: table; max-width:245px;"> <!--[if (mso)|(IE)]><tab=
+le width=3D"245" align=3D"center" cellpadding=3D"0" cellspacing=3D"0" borde=
+r=3D"0" style=3D"border-collapse:collapse; mso-table-lspace: 0pt;mso-table-=
+rspace: 0pt; width:245px;"><tr><td width=3D"47" style=3D"width:47px;" valig=
+n=3D"top"><![endif]--> <table align=3D"left" border=3D"0" cellspacing=3D"0"=
+ cellpadding=3D"0" width=3D"32" height=3D"32" style=3D"border-collapse: col=
+lapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table=
+-rspace: 0pt;vertical-align: top;Margin-right: 15px"> <tr style=3D"vertical=
+-align: top"><td align=3D"left" valign=3D"middle" style=3D"word-break: brea=
+k-word;border-collapse: collapse !important;vertical-align: top"> <a href=
+=3D"http://link.skypixel.com//u/nrd.php?p=3D478elfWw2h_98627_15249_1_27&ems=
+_l=3D11769" title=3D"Facebook" target=3D"_blank"> <img src=3D"http://link.d=
+ji.com/custloads/290636680/md_672931.png" alt=3D"Facebook" title=3D"Faceboo=
+k" width=3D"32" style=3D"outline: none;text-decoration: none;-ms-interpolat=
+ion-mode: bicubic;clear: both;display: block;border: none;height: auto;max-=
+width: 32px !important"> </a> <div style=3D"line-height:5px;font-size:1px">=
+&nbsp;</div> </td></tr> </table> <!--[if (mso)|(IE)]></td><td width=3D"47" =
+style=3D"width:47px;" valign=3D"top"><![endif]--> <table align=3D"left" bor=
+der=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"32" height=3D"32" st=
+yle=3D"border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-=
+table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;Margin-right: 1=
+5px"> <tr style=3D"vertical-align: top"><td align=3D"left" valign=3D"middle=
+" style=3D"word-break: break-word;border-collapse: collapse !important;vert=
+ical-align: top"> <a href=3D"http://link.skypixel.com//u/nrd.php?p=3D478elf=
+Ww2h_98627_15249_1_28&ems_l=3D11769" title=3D"Twitter" target=3D"_blank"> <=
+img src=3D"http://link.dji.com/custloads/290636680/md_672934.png" alt=3D"Tw=
+itter" title=3D"Twitter" width=3D"32" style=3D"outline: none;text-decoratio=
+n: none;-ms-interpolation-mode: bicubic;clear: both;display: block;border: =
+none;height: auto;max-width: 32px !important"> </a> <div style=3D"line-heig=
+ht:5px;font-size:1px">&nbsp;</div> </td></tr> </table> <!--[if (mso)|(IE)]>=
+</td><td width=3D"47" style=3D"width:47px;" valign=3D"top"><![endif]--> <ta=
+ble align=3D"left" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=
+=3D"32" height=3D"32" style=3D"border-collapse: collapse;table-layout: fixe=
+d;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-al=
+ign: top;Margin-right: 15px"> <tr style=3D"vertical-align: top"><td align=
+=3D"left" valign=3D"middle" style=3D"word-break: break-word;border-collapse=
+: collapse !important;vertical-align: top"> <a href=3D"http://link.skypixel=
+.com//u/nrd.php?p=3D478elfWw2h_98627_15249_1_29&ems_l=3D11769" title=3D"You=
+Tube" target=3D"_blank"> <img src=3D"http://link.dji.com/custloads/29063668=
+0/md_672935.png" alt=3D"YouTube" title=3D"YouTube" width=3D"32" style=3D"ou=
+tline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: bo=
+th;display: block;border: none;height: auto;max-width: 32px !important"> </=
+a> <div style=3D"line-height:5px;font-size:1px">&nbsp;</div> </td></tr> </t=
+able> <!--[if (mso)|(IE)]></td><td width=3D"47" style=3D"width:47px;" valig=
+n=3D"top"><![endif]--> <table align=3D"left" border=3D"0" cellspacing=3D"0"=
+ cellpadding=3D"0" width=3D"32" height=3D"32" style=3D"border-collapse: col=
+lapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table=
+-rspace: 0pt;vertical-align: top;Margin-right: 15px"> <tr style=3D"vertical=
+-align: top"><td align=3D"left" valign=3D"middle" style=3D"word-break: brea=
+k-word;border-collapse: collapse !important;vertical-align: top"> <a href=
+=3D"http://link.skypixel.com//u/nrd.php?p=3D478elfWw2h_98627_15249_1_30&ems=
+_l=3D11769" title=3D"Instagram" target=3D"_blank"> <img src=3D"http://link.=
+dji.com/custloads/290636680/md_673739.png" alt=3D"Instagram" title=3D"Insta=
+gram" width=3D"32" style=3D"outline: none;text-decoration: none;-ms-interpo=
+lation-mode: bicubic;clear: both;display: block;border: none;height: auto;m=
+ax-width: 32px !important"> </a> <div style=3D"line-height:5px;font-size:1p=
+x">&nbsp;</div> </td></tr> </table> <!--[if (mso)|(IE)]></td><td width=3D"4=
+7" style=3D"width:47px;" valign=3D"top"><![endif]--> <table align=3D"left" =
+border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"32" height=3D"32"=
+ style=3D"border-collapse: collapse;table-layout: fixed;border-spacing: 0;m=
+so-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;Margin-right=
+: 0"> <tr style=3D"vertical-align: top"><td align=3D"left" valign=3D"middle=
+" style=3D"word-break: break-word;border-collapse: collapse !important;vert=
+ical-align: top"> <a href=3D"http://link.skypixel.com//u/nrd.php?p=3D478elf=
+Ww2h_98627_15249_1_31&ems_l=3D11769" title=3D"skypixel" target=3D"_blank"> =
+<img src=3D"http://link.dji.com/custloads/290636680/md_672933.png" alt=3D"S=
+kypixel" title=3D"Skypixel" width=3D"32" style=3D"outline: none;text-decora=
+tion: none;-ms-interpolation-mode: bicubic;clear: both;display: block;borde=
+r: none;height: auto;max-width: 32px !important"> </a> <div style=3D"line-h=
+eight:5px;font-size:1px">&nbsp;</div> </td></tr> </table> <!--[if (mso)|(IE=
+)]></td></tr></table><table width=3D"100%" cellpadding=3D"0" cellspacing=3D=
+"0" border=3D"0"><tr><td>&nbsp;</td></tr></table><![endif]--> </div>
+</div> <!--[if (!mso)&(!IE)]><!--></div><!--<![endif]--> </div> </div> <!--=
+[if (mso)|(IE)]></td></tr></table></td></tr></table><![endif]--> </div> </d=
+iv> </div> <div style=3D"background-color:transparent;"> <div style=3D"Marg=
+in: 0 auto;min-width: 320px;max-width: 650px;width: 650px;width: calc(34000=
+% - 227150px);overflow-wrap: break-word;word-wrap: break-word;word-break: b=
+reak-word;background-color: #F1F2F3;" class=3D"block-grid "> <div style=3D"=
+border-collapse: collapse;display: table;width: 100%;"> <!--[if (mso)|(IE)]=
+><table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr=
+><td style=3D"background-color:transparent;" align=3D"center"><table cellpa=
+dding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"width: 650px;"><tr clas=
+s=3D"layout-full-width" style=3D"background-color:#F1F2F3;"><![endif]--> <!=
+--[if (mso)|(IE)]><td align=3D"center" width=3D"650" style=3D" width:650px;=
+ padding-right: 0px; padding-left: 0px; padding-top:0px; padding-bottom:5px=
+; border-top: 0px solid transparent; border-left: 0px solid transparent; bo=
+rder-bottom: 0px solid transparent; border-right: 0px solid transparent;" v=
+align=3D"top"><![endif]--> <div class=3D"col num12" style=3D"min-width: 320=
+px;max-width: 650px;width: 650px;width: calc(33000% - 213850px);background-=
+color: #F1F2F3;"> <div style=3D"background-color: transparent; width: 100% =
+!important;"> <!--[if (!mso)&(!IE)]><!--><div style=3D"border-top: 0px soli=
+d transparent; border-left: 0px solid transparent; border-bottom: 0px solid=
+ transparent; border-right: 0px solid transparent; padding-top:0px; padding=
+-bottom:5px; padding-right: 0px; padding-left: 0px;"><!--<![endif]--> <div =
+style=3D"padding-right: 25px; padding-left: 25px; padding-top: 0px; padding=
+-bottom: 5px;"> <!--[if (mso)]><table width=3D"100%" cellpadding=3D"0" cell=
+spacing=3D"0" border=3D"0"><tr><td style=3D"padding-right: 25px;padding-lef=
+t: 25px; padding-top: 0px; padding-bottom: 5px;"><table width=3D"100%" alig=
+n=3D"center" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td><![en=
+dif]--> <div align=3D"center"><div style=3D"border-top: 1px solid #d8d8d8; =
+width:100%;">&nbsp;</div></div> <!--[if (mso)]></td></tr></table></td></tr>=
+</table><![endif]-->
+</div> <!--[if (!mso)&(!IE)]><!--></div><!--<![endif]--> </div> </div> <!--=
+[if (mso)|(IE)]></td></tr></table></td></tr></table><![endif]--> </div> </d=
+iv> </div> <div style=3D"background-color:transparent;"> <div style=3D"Marg=
+in: 0 auto;min-width: 320px;max-width: 650px;width: 650px;width: calc(34000=
+% - 227150px);overflow-wrap: break-word;word-wrap: break-word;word-break: b=
+reak-word;background-color: #F1F2F3;" class=3D"block-grid "> <div style=3D"=
+border-collapse: collapse;display: table;width: 100%;"> <!--[if (mso)|(IE)]=
+><table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr=
+><td style=3D"background-color:transparent;" align=3D"center"><table cellpa=
+dding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"width: 650px;"><tr clas=
+s=3D"layout-full-width" style=3D"background-color:#F1F2F3;"><![endif]--> <!=
+--[if (mso)|(IE)]><td align=3D"center" width=3D"650" style=3D"background-co=
+lor:#F1F2F3; width:650px; padding-right: 30px; padding-left: 30px; padding-=
+top:0px; padding-bottom:15px; border-top: 0px solid transparent; border-lef=
+t: 0px solid transparent; border-bottom: 0px solid transparent; border-righ=
+t: 0px solid transparent;" valign=3D"top"><![endif]--> <div class=3D"col nu=
+m12" style=3D"min-width: 320px;max-width: 650px;width: 650px;width: calc(33=
+000% - 213850px);background-color: #F1F2F3;"> <div style=3D"background-colo=
+r: #F1F2F3; width: 100% !important;"> <!--[if (!mso)&(!IE)]><!--><div style=
+=3D"border-top: 0px solid transparent; border-left: 0px solid transparent; =
+border-bottom: 0px solid transparent; border-right: 0px solid transparent; =
+padding-top:0px; padding-bottom:15px; padding-right: 30px; padding-left: 30=
+px;"><!--<![endif]--> <!--[if mso]><table width=3D"100%" cellpadding=3D"0" =
+cellspacing=3D"0" border=3D"0"><tr><td style=3D"padding-right: 10px; paddin=
+g-left: 10px; padding-top: 15px; padding-bottom: 10px;"><![endif]-->
+<div style=3D"padding-right: 10px; padding-left: 10px; padding-top: 15px; p=
+adding-bottom: 10px;">=09<div style=3D"font-size:12px;line-height:18px;font=
+-family:'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;color:#=
+707473;text-align:left;"><p style=3D"margin: 0;font-size: 12px;line-height:=
+ 18px;text-align: left"><span style=3D"font-size: 12px; line-height: 18px; =
+color: rgb(153, 153, 153);">You are receiving this email because you're a m=
+ember of SkyPixel. Please reach <span style=3D"color: rgb(68, 168, 242); li=
+ne-height: 18px; font-size: 12px;"><a style=3D"color:#44a8f2;color:#44a8f2;=
+color:#44a8f2;color:#44a8f2;color:#44a8f2;color:#44a8f2;color:#44a8f2;color=
+:#44a8f2;color:#44a8f2;color:#44a8f2;color:#44a8f2;color:#44a8f2;text-decor=
+ation: underline;" href=3D"mailto:contact@skypixel.com" target=3D"_blank" r=
+el=3D"noopener noreferrer">contact@skypixel.com</a></span> if you have any =
+questions.</span></p></div>
+</div>
+<!--[if mso]></td></tr></table><![endif]--> <!--[if mso]><table width=3D"10=
+0%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td style=3D"paddi=
+ng-right: 10px; padding-left: 10px; padding-top: 10px; padding-bottom: 15px=
+;"><![endif]-->
+<div style=3D"padding-right: 10px; padding-left: 10px; padding-top: 10px; p=
+adding-bottom: 15px;">=09<div style=3D"font-size:12px;line-height:18px;colo=
+r:#707473;font-family:'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans=
+-serif;text-align:left;"><p style=3D"margin: 0;font-size: 12px;line-height:=
+ 18px;text-align: left"><span style=3D"font-size: 12px; line-height: 18px; =
+color: rgb(153, 153, 153);">If you believe that this email is an error, or =
+you no longer wish to receive e-mail from SkyPixel, please unsubscribe <spa=
+n style=3D"color: rgb(68, 168, 242); line-height: 18px; font-size: 12px;"><=
+a style=3D"color:#44a8f2;text-decoration: underline; color: rgb(68, 168, 24=
+2);" href=3D"http://link.skypixel.com/u/un.php?par=3D478elfWw2h_15249_98627=
+_1" target=3D"_blank" rel=3D"noopener noreferrer">here</a></span>.</span></=
+p></div>
+</div>
+<!--[if mso]></td></tr></table><![endif]--> <div style=3D"padding-right: 0p=
+x; padding-left: 0px; padding-top: 15px; padding-bottom: 0px;"> <!--[if (ms=
+o)]><table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0">=
+<tr><td style=3D"padding-right: 0px;padding-left: 0px; padding-top: 15px; p=
+adding-bottom: 0px;"><table width=3D"100%" align=3D"center" cellpadding=3D"=
+0" cellspacing=3D"0" border=3D"0"><tr><td><![endif]--> <div align=3D"center=
+"><div style=3D"border-top: 1px solid #d8d8d8; width:100%;">&nbsp;</div></d=
+iv> <!--[if (mso)]></td></tr></table></td></tr></table><![endif]-->
+</div> <!--[if mso]><table width=3D"100%" cellpadding=3D"0" cellspacing=3D"=
+0" border=3D"0"><tr><td style=3D"padding-right: 10px; padding-left: 10px; p=
+adding-top: 10px; padding-bottom: 30px;"><![endif]-->
+<div style=3D"padding-right: 10px; padding-left: 10px; padding-top: 10px; p=
+adding-bottom: 30px;">=09<div style=3D"font-size:12px;line-height:14px;font=
+-family:'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;color:#=
+707473;text-align:left;"><p style=3D"margin: 0;font-size: 12px;line-height:=
+ 14px;text-align: center"><span style=3D"font-size: 12px; line-height: 14px=
+;"><span style=3D"color: rgb(0, 204, 255); line-height: 14px; font-size: 12=
+px;">&nbsp;</span><span style=3D"color: rgb(0, 204, 255); line-height: 14px=
+; font-size: 12px;"><span style=3D"color: rgb(68, 168, 242); line-height: 1=
+4px; font-size: 12px;"> </span> <span style=3D"color: rgb(112, 116, 115); l=
+ine-height: 14px; font-size: 12px;"></span> <span style=3D"color: rgb(68, 1=
+68, 242); line-height: 14px; font-size: 12px;"><a style=3D"color:#44a8f2;te=
+xt-decoration: underline; color: rgb(68, 168, 242);" href=3D"http://link.sk=
+ypixel.com//u/nrd.php?p=3D478elfWw2h_98627_15249_1_32&ems_l=3D11769" target=
+=3D"_blank" rel=3D"noopener noreferrer">Privacy Policy</a></span> <span sty=
+le=3D"color: rgb(112, 116, 115); line-height: 14px; font-size: 12px;">|</sp=
+an> <span style=3D"color: rgb(68, 168, 242); line-height: 14px; font-size: =
+12px;"><a style=3D"color:#44a8f2;text-decoration: underline; color: rgb(68,=
+ 168, 242);" href=3D"http://link.skypixel.com//u/nrd.php?p=3D478elfWw2h_986=
+27_15249_1_33&ems_l=3D11769" target=3D"_blank" rel=3D"noopener noreferrer">=
+Terms and Conditions</a></span> <span style=3D"color: rgb(112, 116, 115); l=
+ine-height: 14px; font-size: 12px;"></span> <span style=3D"color: rgb(68, 1=
+68, 242); line-height: 14px; font-size: 12px;"></span></span></span></p></d=
+iv>
+</div>
+<!--[if mso]></td></tr></table><![endif]--> <!--[if (!mso)&(!IE)]><!--></di=
+v><!--<![endif]--> </div> </div> <!--[if (mso)|(IE)]></td></tr></table></td=
+></tr></table><![endif]--> </div> </div> </div> <!--[if (mso)|(IE)]></td></=
+tr></table><![endif]--> </div>
+<img src=3D"http://link.skypixel.com//mo/478elfWw2h_783893639_15249_98627_1=
+1769.gif" height=3D"2" width=3D"2" border=3D"0"></body></html>
+----=_---NextPart--=_-P7sQ8GObrl--
+

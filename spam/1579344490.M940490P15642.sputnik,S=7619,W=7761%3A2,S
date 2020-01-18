@@ -1,0 +1,142 @@
+Return-Path: <skltd35@hotmail.com>
+Delivered-To: mail@stilfilm.com
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 7303CC321B
+	for <mail@stilfilm.com>; Wed, 21 Aug 2019 02:43:18 +0200 (CEST)
+Authentication-Results: v22014122474822114.stilfilm.com; dkim=pass
+	reason="2048-bit key; insecure key"
+	header.d=hotmail.com header.i=@hotmail.com header.b=mPAtsdCn;
+	dkim-adsp=pass; dkim-atps=neutral
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: 0.145
+X-Spam-Level:
+X-Spam-Status: No, score=0.145 required=5.5 tests=[BAYES_00=-1.9,
+	DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	FORGED_HOTMAIL_RCVD2=0.874, FREEMAIL_ENVFROM_END_DIGIT=0.25,
+	FREEMAIL_FROM=0.001, HTML_MESSAGE=0.001, MISSING_HEADERS=1.021,
+	RCVD_IN_DNSWL_NONE=-0.0001, SPF_HELO_PASS=-0.001, SPF_PASS=-0.001]
+	autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id aXba0JKUFivE for <mail@stilfilm.com>;
+	Wed, 21 Aug 2019 02:43:16 +0200 (CEST)
+Received: from APC01-PU1-obe.outbound.protection.outlook.com (mail-oln040092254021.outbound.protection.outlook.com [40.92.254.21])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id A1443C30E2
+	for <mail@stilfilm.com>; Wed, 21 Aug 2019 02:43:10 +0200 (CEST)
+ARC-Seal: i=1; a=rsa-sha256; s=arcselector9901; d=microsoft.com; cv=none;
+ b=VfXTV4/dlxzL1BKYCZW/SJbT6OaYJCu3WtymZ+WjIp8JAkQ5OCYANt+9BR/tOQVrbvygp/pHnTCq1RS1iKwtVPdtklfGlIShUwBJkznB88+Xqt/WZ1L3k/4tOiXBoenRIeR0y8tOZ/wRJ/z2PSVjDn39jklwg41SUQ5G2ireo97oxj5Tggjwsd0Wwyw/KfU0G4Z22Y76q6sdAHDqmCzPRmDEa6EghE0MX/ZSqkC6ghgv+F6o6jiC62voz2UNwzRQUfqgu1acksg6d670Bn7+3aDUfuynUyP0SLeLL7b2ohJb7BAwTQqHDIlL5RAuaP1oskXZSBc1f16iyCzfJ4iwdg==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector9901;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=eYmKyQxaObOUZJD+RMF3AKoNmQ3uMK4bBs/2yInjYO4=;
+ b=WyUaJVMrknTZBK7fqxPHg+j5Cx7fz/vR8UJw4laHqa+RtTqnqZwltSvr9P/8wlF50BWSU4NRVBF0JaNUenlID++dHAv/ggKA7ro0HzS186gH34UgaC2PWWlUn3OBv/j3A8KhSp1bfgHLXf2fOBu4myZa27OeRziNqEnYJtkkxGc/esJ3R43e3DybNqS8O961M4KkJadCjgitoGk8VqqAZlXNw17I9DZDAnIEs6rGv+4wYb3tMaTFFwuJb5tL+zxlyiwhGxo4wlGUHSXngyiURQ9x+okxAR22lJqmOCMD1HiG2kC2qboH5wd8cNBXKjpEl0QaJE/rWQQ2B7Q2Et5MGw==
+ARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=none; dmarc=none;
+ dkim=none; arc=none
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=hotmail.com;
+ s=selector1;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=eYmKyQxaObOUZJD+RMF3AKoNmQ3uMK4bBs/2yInjYO4=;
+ b=mPAtsdCnYs30ItOS392xLkj6dIHAZYz72N40yZGrLloGH9rjYvS4CYlw9mDtQRBB2M918yzr5My40a+pyebgezU4MkjTZa+M9xgOwttfqfzXNNxcfGhGA6Wd9d3d1h10yT9YE+VWMezt9SHHha6AoVMNQR9KKFor2Q3BH4JQ0SHmrcZYHYGGwEbdTD7x7xb6SFYDYCWO3HtWfe8RXS8AnXCQT7cg0YPdVN7YvlMXumGB4sO9r5cxDXPKLzjBJOIKWUSV+KsTdvmRBeX+vMYh/a3mu4mL/F0yDVUTTn94tVNL4PTTfgZqNzdY0uHkgZF9M/r5QUA+duqbQcyQfH5nGg==
+Received: from PU1APC01FT020.eop-APC01.prod.protection.outlook.com
+ (10.152.252.56) by PU1APC01HT160.eop-APC01.prod.protection.outlook.com
+ (10.152.252.87) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384) id 15.20.2178.16; Wed, 21 Aug
+ 2019 00:42:48 +0000
+Received: from HK0PR03MB3107.apcprd03.prod.outlook.com (10.152.252.60) by
+ PU1APC01FT020.mail.protection.outlook.com (10.152.252.217) with Microsoft
+ SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384) id
+ 15.20.2178.16 via Frontend Transport; Wed, 21 Aug 2019 00:42:48 +0000
+Received: from HK0PR03MB3107.apcprd03.prod.outlook.com
+ ([fe80::c496:be8e:9b6f:fb15]) by HK0PR03MB3107.apcprd03.prod.outlook.com
+ ([fe80::c496:be8e:9b6f:fb15%7]) with mapi id 15.20.2199.011; Wed, 21 Aug 2019
+ 00:42:48 +0000
+From: S K <skltd35@hotmail.com>
+Subject: Medal Manufacturer
+Thread-Topic: Medal Manufacturer
+Thread-Index: AQHVV7laAcEc26ydj0CB4YhOJsfAAg==
+Date: Wed, 21 Aug 2019 00:42:47 +0000
+Message-ID:
+ <HK0PR03MB31078CC5CE7E97CC49039B7FADAA0@HK0PR03MB3107.apcprd03.prod.outlook.com>
+Accept-Language: zh-CN, en-US
+Content-Language: zh-CN
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-incomingtopheadermarker:
+ OriginalChecksum:F87699215EEB6966CE559F87A6A0B8C55E29B799EC5E2442432224B4DED81259;UpperCasedChecksum:2CC89485BA00EAEB487DD9C44C0A8A457B7DA174E9BE45AF88FFDEA13CA696AB;SizeAsReceived:12396;Count:39
+x-tmn: [4arAo2OMMcMB0No0vq0rvV3EpDgoV0Sq]
+x-ms-publictraffictype: Email
+x-incomingheadercount: 39
+x-eopattributedmessage: 0
+x-microsoft-antispam:
+ BCL:0;PCL:0;RULEID:(2390118)(5050001)(7020095)(20181119110)(201702061078)(5061506573)(5061507331)(1603103135)(2017031320274)(9118020)(2017031322404)(2017031323274)(2017031324274)(1601125500)(1603101475)(1701031045);SRVR:PU1APC01HT160;
+x-ms-traffictypediagnostic: PU1APC01HT160:
+x-microsoft-antispam-message-info:
+ 50n4CLositSj0OCkrSOnIwmT3LBkJp97Ix4tqXYh0GGIolUue9LbE/RFkrm4+xnlroLIO3TBFMWypMZUkFHMTdjNVOvBhbbF1HU4vEDmJLvQ6g+UlS9rdP00p0HPbcN70A07lXqAgc2m3LyUoeJPSnQYysYbvmlsDvI7ezwnVM/9Or6AtO3xEx2dfhYFpSem
+x-ms-exchange-transport-forked: True
+Content-Type: multipart/alternative;
+	boundary="_000_HK0PR03MB31078CC5CE7E97CC49039B7FADAA0HK0PR03MB3107apcp_"
+MIME-Version: 1.0
+X-OriginatorOrg: hotmail.com
+X-MS-Exchange-CrossTenant-RMS-PersistedConsumerOrg: 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-CrossTenant-Network-Message-Id: 023bf660-20fc-4866-0499-08d725d07d37
+X-MS-Exchange-CrossTenant-rms-persistedconsumerorg: 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-CrossTenant-originalarrivaltime: 21 Aug 2019 00:42:47.9148
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Internet
+X-MS-Exchange-CrossTenant-id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: PU1APC01HT160
+
+--_000_HK0PR03MB31078CC5CE7E97CC49039B7FADAA0HK0PR03MB3107apcp_
+Content-Type: text/plain; charset="gb2312"
+Content-Transfer-Encoding: base64
+
+SGVsbG8uDQpOaWNlIGRheSENClRoaXMgaXMgU2hhbmdLdW4gQ3JhZnQgQ29tcGFueQ0KMSwgMTMg
+eWVhcnMgZXhwZXJpZW5jZWQgZmFjdG9yeSBvZiBNZWRhbC4NCjIsIE9FTS9PRE0gaXMgYWNjZXB0
+YWJsZQ0KMywgQmVzdCBRdWFsaXR5JiBMb3cgTU9RDQpQbGVhc2Ugc2VudCBwdXJjaGFzZSBkZXRh
+aWwgaW5mbyhhcyBkZXNpZ24vc3BlY2lmaWNhdGlvbnMgRWN0KS50aGVuIHdlIHdpbGwgZ2l2ZSB1
+IGJlc3QgcHJpY2UuDQpIb3BlIHdlIGNhbiBoYXZlIHdpbi13aW4gY29ycG9yYXRpb24uDQpXYWl0
+aW5nIGZvciB5b3VyIHJlcGx5IQ0KQmVzdCBSZWdhcmRzDQpBbmR5DQo=
+
+--_000_HK0PR03MB31078CC5CE7E97CC49039B7FADAA0HK0PR03MB3107apcp_
+Content-Type: text/html; charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dgb2312">
+<style type=3D"text/css" style=3D"display:none;"> P {margin-top:0;margin-bo=
+ttom:0;} </style>
+</head>
+<body dir=3D"ltr">
+<div style=3D"font-family: Calibri, Arial, Helvetica, sans-serif; font-size=
+: 12pt; color: rgb(0, 0, 0);">
+<span>Hello.<br>
+</span>
+<div>Nice day!<br>
+</div>
+<div>This is ShangKun Craft Company<br>
+</div>
+<div>1, 13 years experienced factory of Medal.<br>
+</div>
+<div>2, OEM/ODM is acceptable<br>
+</div>
+<div>3, Best Quality&amp; Low MOQ<br>
+</div>
+<div>Please sent purchase detail info(as design/specifications Ect).then we=
+ will give u best price.<br>
+</div>
+<div>Hope we can have win-win corporation.<br>
+</div>
+<div>Waiting for your reply!<br>
+</div>
+<div>Best Regards<br>
+</div>
+<span>Andy</span><br>
+</div>
+</body>
+</html>
+
+--_000_HK0PR03MB31078CC5CE7E97CC49039B7FADAA0HK0PR03MB3107apcp_--

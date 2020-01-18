@@ -1,0 +1,78 @@
+Return-Path: <sylvie.lemonnier-morel@utc.fr>
+Delivered-To: mail@elementk.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 5FD39C212D
+	for <mail@elementk.de>; Fri,  9 Feb 2018 03:52:42 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: 2.802
+X-Spam-Level: **
+X-Spam-Status: No, score=2.802 required=5.5 tests=[HTML_MESSAGE=0.001,
+	LOTS_OF_MONEY=0.001, RCVD_NUMERIC_HELO=0.865,
+	REPLYTO_WITHOUT_TO_CC=1.946, SPF_PASS=-0.001, T_RP_MATCHES_RCVD=-0.01]
+	autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id Du71qQZ_hRLS for <mail@elementk.de>;
+	Fri,  9 Feb 2018 03:52:40 +0100 (CET)
+Received: from mxo.utc.fr (mxo-out2.utc.fr [195.83.155.129])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id BCD18C09C3
+	for <mail@elementk.de>; Fri,  9 Feb 2018 03:52:40 +0100 (CET)
+Received: from mxo.utc.fr (localhost [127.0.0.1])
+	by mxo.utc.fr (Postfix) with ESMTP id F221B41613;
+	Fri,  9 Feb 2018 03:52:49 +0100 (CET)
+Received: from template-debian8-amd64.utc (webmail1.int.utc.fr [172.16.130.58])
+	by mxo.utc.fr (Postfix) with ESMTP id 81C34A0307;
+	Fri,  9 Feb 2018 03:52:48 +0100 (CET)
+Received: by template-debian8-amd64.utc (Postfix, from userid 33)
+	id 2B53D405B7; Fri,  9 Feb 2018 03:52:48 +0100 (CET)
+Received: from 160.152.24.224 (160.152.24.224 [160.152.24.224]) by
+ webmail.utc.fr (Horde Framework) with HTTPS; Fri, 09 Feb 2018 02:52:48 +0000
+Date: Fri, 09 Feb 2018 02:52:48 +0000
+Message-ID: <20180209025248.Horde.klGvvN7FVEt1t-U4hw62aw8@webmail.utc.fr>
+From: Friedrich Mayrhofer <sylvie.lemonnier-morel@utc.fr>
+To: 
+Subject: I Hope You Get My Message This Time
+Reply-to: friedrichmayrhofer200@gmail.com
+User-Agent: Horde Application Framework 5
+Content-Type: multipart/alternative; boundary="=_z4AJ6pxqco7849gVhRViauR"
+MIME-Version: 1.0
+
+This message is in MIME format.
+
+--=_z4AJ6pxqco7849gVhRViauR
+Content-Type: text/plain; charset=utf-8; format=flowed; DelSp=Yes
+Content-Description: Plaintext Message
+Content-Disposition: inline
+
+
+-- 
+--
+This is the second time i am sending you this mail.I, Friedrich  
+Mayrhofer Donate $ 1,000,000.00 to You, Email Me personally for more  
+details.
+
+Regards.
+Friedrich Mayrhofer
+
+--=_z4AJ6pxqco7849gVhRViauR
+Content-Type: text/html; charset=utf-8
+Content-Description: HTML Message
+Content-Disposition: inline
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"
+"http://www.w3.org/TR/REC-html40/loose.dtd">
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<title></title>
+</head>
+<body style="font-family:Arial;font-size:14px">
+<div>--<br>
+This is the second time i am sending you this mail.I, Friedrich Mayrhofer Donate $ 1,000,000.00 to You, Email Me personally for more details.<br>
+<br>
+Regards.<br>
+Friedrich Mayrhofer</div>
+</body>
+</html>
+--=_z4AJ6pxqco7849gVhRViauR--

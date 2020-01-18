@@ -1,0 +1,97 @@
+Return-Path: <zuhausearmnhxkmagazin@elevotal.com>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 9CF4CC3BD8
+	for <mail@dorianvasco.de>; Mon,  6 Jan 2020 04:16:17 +0100 (CET)
+Authentication-Results: v22014122474822114.stilfilm.com; dkim=pass
+	reason="1024-bit key; insecure key"
+	header.d=elevotal.com header.i=zuhausearmnhxkmagazin@elevotal.com
+	header.b=iDl3C0vq; dkim-adsp=pass; dkim-atps=neutral
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: 3.797
+X-Spam-Level: ***
+X-Spam-Status: No, score=3.797 required=4.5 tests=[BAYES_80=2,
+	DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	HTML_IMAGE_ONLY_16=1.092, HTML_MESSAGE=0.001,
+	HTML_SHORT_LINK_IMG_2=0.001, RDNS_NONE=0.793, T_REMOTE_IMAGE=0.01]
+	autolearn=no autolearn_force=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 4kNguPviO3sP for <mail@dorianvasco.de>;
+	Mon,  6 Jan 2020 04:16:16 +0100 (CET)
+Received: from grubby.elevotal.com (unknown [139.28.223.210])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 1E998C3BB6
+	for <kontakt@dorianvasco.de>; Mon,  6 Jan 2020 04:16:13 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=elevotal.com;
+ h=Date:To:List-Unsubscribe:From:Message-ID:Subject:MIME-Version:Content-Type:Content-Transfer-Encoding; i=zuhausearmnhxkmagazin@elevotal.com;
+ bh=W4UnupOswJcoSX4r8/ApYPypoSk=;
+ b=iDl3C0vqKDJIzBrT4mQ0iBnpK+hqw/9gDCbqs1cEt+UOZpp+gyg4G1djiGqvmf8kdcoDo0p3u33g
+   WDPHJdoo2ZMfoX8k260JAmO8Bba5J/WNl3fH2jy8AblfXHVwCVaWG9KVHlYsHWnqseRSA/7wbBI1
+   BxirNHKksaetOTAgyb8=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=elevotal.com;
+ b=3RTTaV1q/Nul8Kf3jZcpZz0B3iw7pN7m/fkyR1Xnkmr5tPEpUL56g4lyR0h6YrPc/F7oWJK8waYO
+   Xy4IzRsVIlwNWY3Y32XJA3q1E2nrG0LFwucI2LsnD7YG+DdF6/Jiv6vWLd8acO7x5LOvMDUAL1rs
+   slTFxPHvzbGR5CNVWVc=;
+Date: Mon, 6 Jan 2020 04:16:12 +0100
+To:  <kontakt@dorianvasco.de>
+List-Unsubscribe:  <http://elevotal.com/ub.php?b=s2l4511290810tn6y8776d1swaecqschrbun>
+From: =?UTF-8?Q?ZUHAUSE_Magazin?= <zuhausearmnhxkmagazin@elevotal.com>
+Message-ID: <3552814104twtwyveyilxsjceqcxdoagkzpkiezxw@hyfrp.elevotal.com>
+Subject: =?UTF-8?Q?Brauchst_du_schnell_Warmwasser=3F_Mit_Durchlauferhitzer_Armatur_sofort_hast_du=C2=A0?=
+X-Report-Abuse:  <http://elevotal.com/aa.php?a=s2l4511290810tn6y8776d1swaecqschrbun>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary=b1_r54korj91mkxkc3dbide6zjdf1cjw.k29Y0zVX1j; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+--b1_r54korj91mkxkc3dbide6zjdf1cjw.k29Y0zVX1j
+Content-Type: text/plain; format=flowed; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+
+=0D
+Warmwasser schnell aus? Wassererhitzer Armatur mit digitalem Thermometer:=0D
+=0D
+http://g-6p9.elevotal.com=0D
+=0D
+=0D
+=0D
+Hier k=C3=B6nnen Sie sich abmelden:=0D
+http://elevotal.com/ub.php?n=3Ds2l4511290810tn6y8776d1swaecqschrbun=0D
+=0D
+Wie machst du Warmwasser? Digitale=C2=A0Durchlauferhitzer=C2=A0Armatur, koc=
+ht sofort=
+
+
+--b1_r54korj91mkxkc3dbide6zjdf1cjw.k29Y0zVX1j
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+
+<!DOCTYPE html><head><meta name=3D"charset" content=3D"utf-8"><meta charset=
+=3D"utf-8"><title></title></head><body>=0D
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" st=
+yle=3D"width:650px;margin:0 auto;"><tbody><tr><td>Stockt die Versorgung? Mi=
+t instant Wassererhitzer Armatur sofort Warmwasser<br></td></tr><tr><td>
+<p style=3D"line-height:22px;font-size:14px;"><a style=3D"font-size:16px; b=
+order-top-color:#007700; " href=3D"http://g-6p9.elevotal.com/phe:s2l4511290=
+810tn6y8776d1swaecqschrbun"><img alt=3D"Warmwasser innerhalb von 3 Sekunden=
+: Durchlauferhitzer Armatur, LCD-Display" src=3D"http://refxy.elevotal.com/=
+00.jpg" style=3D"border-bottom:ridge 0px #cc0000; border-color:#cc0000; " /=
+></a>=0D
+<br><a style=3D"border-left-width:0px; margin:2px; height:auto; " href=3D"h=
+ttp://g-6p9.elevotal.com/tgy:s2l4511290810tn6y8776d1swaecqschrbun">Wie mach=
+st du Warmwasser? Digitale=C2=A0Durchlauferhitzer=C2=A0Armatur, kocht sofor=
+t</a>=0D
+<br></p></td></tr></tbody></table><br>=C3=96ffne den Wasserhahn und hast Wa=
+rmwasser - Durchlauferhitzer mit Temperaturanzeige<br><div style=3D"text-al=
+ign:center;"><a style=3D"background-color:#ffffff; text-indent:0px; border-=
+left:inset 3px #ffffff; border-top-style:groove;  font-size:12px;" href=3D"=
+http://elevotal.com/ub.php?fh1=3Ds2l4511290810tn6y8776d1swaecqschrbun">Hier=
+ a bmelden</a></div>=0D
+<img src=3D"http://elevotal.com/ob.php?n=3Ds2l4511290810tn6y8776d1swaecqsch=
+rbun" alt=3D"Boiler kaputt? Mit dieser Armatur SOFORT Warmwasser">=0D
+Stockt die Versorgung? Mit Durchlauferhitzer sofort Warmwasser</body></html=
+>=
+
+--b1_r54korj91mkxkc3dbide6zjdf1cjw.k29Y0zVX1j--

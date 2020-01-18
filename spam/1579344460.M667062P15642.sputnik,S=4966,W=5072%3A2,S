@@ -1,0 +1,106 @@
+Return-Path: <mrtzum@contraloria.gob.gt>
+Delivered-To: mail@stilfilm.com
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 418BBD32D1
+	for <mail@stilfilm.com>; Sat,  6 Apr 2019 02:17:57 +0200 (CEST)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: 1.594
+X-Spam-Level: *
+X-Spam-Status: No, score=1.594 required=5.5 tests=[BAYES_50=0.8,
+	HTML_MESSAGE=0.001, LOTS_OF_MONEY=0.001, RDNS_NONE=0.793,
+	SPF_PASS=-0.001] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 7MJJik5s2c3C for <mail@stilfilm.com>;
+	Sat,  6 Apr 2019 02:17:52 +0200 (CEST)
+Received: from mta.contraloria.gob.gt (unknown [181.174.92.188])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id 759A7D32C6
+	for <mail@stilfilm.com>; Sat,  6 Apr 2019 02:17:41 +0200 (CEST)
+Received: from mta.contraloria.gob.gt (unknown [127.0.0.1])
+	by IMSVA (Postfix) with ESMTP id AEB1713685D;
+	Fri,  5 Apr 2019 18:02:24 -0600 (CST)
+Received: from mta.contraloria.gob.gt (unknown [127.0.0.1])
+	by IMSVA (Postfix) with ESMTP id 9C00E136852;
+	Fri,  5 Apr 2019 18:02:24 -0600 (CST)
+Received: from zcs.contraloria.gob.gt (unknown [10.10.8.6])
+	by mta.contraloria.gob.gt (Postfix) with ESMTPS;
+	Fri,  5 Apr 2019 18:02:24 -0600 (CST)
+Received: from zcs.contraloria.gob.gt (localhost [127.0.0.1])
+	by zcs.contraloria.gob.gt (Postfix) with ESMTPS id 0761810063A51F;
+	Fri,  5 Apr 2019 18:02:20 -0600 (CST)
+Received: from localhost (localhost [127.0.0.1])
+	by zcs.contraloria.gob.gt (Postfix) with ESMTP id C38F5100398812;
+	Fri,  5 Apr 2019 18:02:19 -0600 (CST)
+Received: from zcs.contraloria.gob.gt ([127.0.0.1])
+	by localhost (zcs.contraloria.gob.gt [127.0.0.1]) (amavisd-new, port 10026)
+	with ESMTP id oeSFh4zTYtfG; Fri,  5 Apr 2019 18:02:19 -0600 (CST)
+Received: from zcs.contraloria.gob.gt (mail.contraloria.gob.gt [10.10.8.6])
+	by zcs.contraloria.gob.gt (Postfix) with ESMTP id A84CC1002CAF57;
+	Fri,  5 Apr 2019 18:02:15 -0600 (CST)
+Date: Fri, 5 Apr 2019 18:02:15 -0600 (CST)
+From: Anna Ryan Grahem <mrtzum@contraloria.gob.gt>
+Reply-To: Anna Ryan Grahem <ryangrahem2215@gmail.com>
+Message-ID: <2004876425.745706.1554508935637.JavaMail.zimbra@contraloria.gob.gt>
+Subject: RE
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="=_67963a80-02eb-4719-8503-38e13fa3c31a"
+Thread-Index: jw22Nya+Bdruvu6xpu3SL5knnprHqQ==
+Thread-Topic: RE
+To: undisclosed-recipients:;
+X-TM-AS-GCONF: 11111111
+X-TM-AS-SMTP: 
+	1.0 emNzLmNvbnRyYWxvcmlhLmdvYi5ndA== bXJ0enVtQGNvbnRyYWxvcmlhLmdvYi5ndA==
+X-TM-AS-ERS: 10.10.8.6-127.5.254.253
+X-TM-AS-Product-Ver: IMSVA-9.1.0.1600-8.2.0.1013-24534.003
+X-TM-AS-Result: No-2.986-5.0-31-10
+X-imss-scan-details: No-2.986-5.0-31-10;No-2.986-4.5-31-10
+X-TM-AS-User-Approved-Sender: No
+X-TM-AS-Result-Xfilter: Match text exemption rules:No
+X-TMASE-Version: IMSVA-9.1.0.1600-8.2.1013-24534.003
+X-TMASE-Result: 10-2.985900-10.000000
+X-TMASE-MatchedRID: iXsy2IE4RBGNwkTyE4pSqfQajs/Ywumpcwt7HEyiIImItURL6MN7XTqF
+	UYmS/ka0nFXah67Pa+GYa7H4ZMtmPGRUlA4elo8FaDgPZBX/bMuuiAW0p38/t/k3SjZMcZFkF3b
+	nWDikvDq3knsvkbHmmYiJWsrft4Ycf14J/RG1AltB6yOrxc8xu6sFO9Xc69Er58PIs6wvkdWMVM
+	afRq5diRK0pvWG4JQR/76CM4Z/MGYi8AQ8v+uCU54CIKY/Hg3AaZGo0EeYG94s9RiuVJL/jn80h
+	a4Dx1t6TL1Cva2KfGtQSpLfxZGQcl8vMu11r33KavP8b9lJtWqD7RFrz+xexY04hXdrBJJ4+0jO
+	rhSLZs0+pgxpS0+IMDVFItAsgN5ThCJXIjjH9DCrDlZiIdCu9blqmYXGcvwDIZyQwM5TdXUG2bN
+	mKNagzRBRKr+sAkp1InLHg2aRFRwTVadgyucov8NiGiFfLp0/5ijswIStzzAOBAIBgdDTK7Dwkx
+	ApaJ1b2XlT+Rl2ra3ZD9YP0lodhcPINhwTXBeZ
+X-TMASE-SNAP-Result: 1.821001.0001-0-1-12:0,22:0,33:0,34:0-0
+
+--=_67963a80-02eb-4719-8503-38e13fa3c31a
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+
+
+
+Sie wurden ausgew=C3=A4hlt, um eine Spende von 950 000,00 GBP durch die UN =
+zu erhalten. Antworten Sie auf weitere Informationen und Anspr=C3=BCche.
+Senden Sie Ihre Informationen unten
+Vollst=C3=A4ndiger Name:
+Adresse:
+Geburtsdatum:
+Land:
+Handynummer:
+Gl=C3=BCckw=C3=BCnsche im Namen der Stiftung.
+Dein,
+Anna Ryan
+--=_67963a80-02eb-4719-8503-38e13fa3c31a
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><style> body {height: 100%; color:#000000; font-size:12pt; font=
+-family:arial, helvetica, sans-serif;}</style></head><body><div><br></div><=
+div><br></div><div><br></div><div>Sie wurden ausgew=C3=A4hlt, um eine Spend=
+e von 950 000,00 GBP durch die UN zu erhalten. Antworten Sie auf weitere In=
+formationen und Anspr=C3=BCche.<br>Senden Sie Ihre Informationen unten<br>V=
+ollst=C3=A4ndiger Name:<br>Adresse:<br>Geburtsdatum:<br>Land:<br>Handynumme=
+r:<br>Gl=C3=BCckw=C3=BCnsche im Namen der Stiftung.<br>Dein,<br>Anna Ryan</=
+div></body></html>
+--=_67963a80-02eb-4719-8503-38e13fa3c31a--
+

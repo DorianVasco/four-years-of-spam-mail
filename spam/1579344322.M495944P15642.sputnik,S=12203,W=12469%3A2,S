@@ -1,0 +1,266 @@
+Return-Path: <lsp8@icicc.co.in>
+Delivered-To: mail@stilfilm.com
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id B48D7C3C7B
+	for <mail@stilfilm.com>; Fri, 13 Jul 2018 13:38:09 +0200 (CEST)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: 4.271
+X-Spam-Level: ****
+X-Spam-Status: No, score=4.271 required=5.5 tests=[DKIM_SIGNED=0.1,
+	HTML_MESSAGE=0.001, RAZOR2_CF_RANGE_51_100=2.43, RAZOR2_CHECK=1.729,
+	T_DKIM_INVALID=0.01, URIBL_BLOCKED=0.001] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id K9qCthWZfloc for <mail@stilfilm.com>;
+	Fri, 13 Jul 2018 13:38:01 +0200 (CEST)
+Received: from mail-it0-f65.google.com (mail-it0-f65.google.com [209.85.214.65])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id 47D57C04DA
+	for <mail@stilfilm.com>; Fri, 13 Jul 2018 13:38:00 +0200 (CEST)
+Received: by mail-it0-f65.google.com with SMTP id s7-v6so11125008itb.4
+        for <mail@stilfilm.com>; Fri, 13 Jul 2018 04:46:48 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=icicc.co.in; s=google;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=GbIqW83f47ZiAlD80yQ4SAMJqg191wG0LF1R2yBFKW4=;
+        b=eZ+QZNQdGQWkHPUIAUdFTgg4RLbCBLiGBqbhRMIymU+x7f94HHZNz2FMZSKAhA6JFj
+         w3ib0TiXSHr9gduxbRfQxh7MiKTqVRCLWGac254G7X0EjoXMoWw5NBKXh7xb/F/Tia3L
+         7qovQYGVncx1lqmKqivVgGRKHQdRAp+n/v78EilY/HrfsaVWg3B8jEEf7v64wVRiEMxi
+         aU6vBgsv/CkHuF19baP8k/siobKfaC9BLrpE50pVsQNbqWnSoG/1YfKTNkcZnM18TQk2
+         bf5aIXG/hh90wQIXfLaNLIzJdhMqOKpom1ZVnaBs6CcGZ6MYLV15WrKsHaXkwVQc8YBh
+         C1wA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=GbIqW83f47ZiAlD80yQ4SAMJqg191wG0LF1R2yBFKW4=;
+        b=LShX9FzzwiKmqQcbfsHfAsxkH+OkBAO8vqwcLFiZffaDrAuRTF2wCzgB8pEY5mnQvv
+         +tqqDkhxH9H8AmHLE/96Jdw8L+wVMrT4yE33LrVGvh3tocnvgQUHz83pvDplw8Qgb3Aq
+         vkbGUucFxp0KQoEHG3xOloON0pmW2zicrpM+tvktqiPKVAg3pZ4/NovpJjnp/f5LsoDa
+         tsy3bSGanD5u/hxea7tqMHA8lrISVWzFsKZWeyix5RK1gy4qW+YXzLjiDdKyTkChoQ9i
+         tb1wtFw3FXDF4ZF1PkWnCDJRAdfsyM+6yAsSlgVLzyDjDppAe8m26+SPl9WG4V5TDWFj
+         3RBA==
+X-Gm-Message-State: AOUpUlFFLtlr1bJa2lJd/u0DousZK7I0OtuwIJ8p+qdWJCjHme28Bl6j
+	NfiOktU0NxGPvAHRiBpc10cNwiO23dggsYShhqB5pcp41du1SXz0/NI7DhTasWNTqnAMGELpU3q
+	+p3ab92JblGruDFSlI8o=
+X-Google-Smtp-Source: AAOMgpeeXGn9D5pWeevHEAX4RGezYx/nEVApmc4zaQplu80KmfqkBY6oU6Zu/ug/rmWC/A8eAz5/UcKg1VWC71QQn/4=
+X-Received: by 2002:a02:45cd:: with SMTP id o74-v6mr4713916jad.43.1531482406522;
+ Fri, 13 Jul 2018 04:46:46 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 2002:a02:b18d:0:0:0:0:0 with HTTP; Fri, 13 Jul 2018 04:46:45
+ -0700 (PDT)
+From: Usha T <lsp8@icicc.co.in>
+Date: Fri, 13 Jul 2018 17:16:45 +0530
+Message-ID: <CAJx4SHOVKPwremhMxwcV9rumiSq0W4zLXpSKrA3_B_=3kK4VeQ@mail.gmail.com>
+Subject: 
+To: mohana@rieece.org
+Content-Type: multipart/alternative; boundary="000000000000d235770570e008de"
+
+--000000000000d235770570e008de
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+*Respected Author(s), **(I.E.E.E approved-conference at Bhubaneswar, India)=
+*
+
+
+
+IEEESB-K.I.I.T is organizing an International Conference on Recent
+Innovations in Electrical, Electronics and Communication
+Engineering*-(RIEECE-2018)
+during 27th and 28th July 2018 in Bhubaneswar, Odisha, India.*
+
+
+
+*Last Intimation:  Today also you can submit the paper*
+
+
+
+All Accepted Papers will be submitted for Inclusion in IEEE Xplore Digital
+Library and submitted to SCOPUS for indexing.
+
+
+
+Interested authors can till submit the paper(s), we are allowing the paper
+submission from well known researchers. The date will not be extended,
+hence, please share your paper as soon as possible.
+
+
+
+MoreInformationaboutconference:* http://firsturl.net/Rv665eP
+<http://firsturl.net/Rv665eP>*
+
+
+
+Note*: We are also providing the facility to present the paper through
+online for the authors who are unable to attend the conference.
+
+--=20
+Disclaimer: This email and any file(s) transmitted with it are confidential=
+=20
+and intended solely for the use of the individual or entity to whom they=20
+are addressed.=C2=A0
+This message contains confidential information and is=20
+intended only for the individual named.=C2=A0
+If you are not the named addressee=20
+you should not disseminate, distribute or copy this e-mail.
+This message=20
+has been sent as a part of discussion between [Sender=E2=80=99s name] and t=
+he=20
+addressee whose name is specified above
+Please notify the sender=20
+immediately by e-mail if you have received this e-mail by mistake and=20
+delete this e-mail from your system.=C2=A0
+If you are not the intended recipient=20
+you are notified that disclosing, copying, distributing or taking any=20
+action in reliance on the contents of this information is strictly=20
+prohibited.
+
+
+
+--000000000000d235770570e008de
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 6pt;text-align:justify;line-=
+height:115%;font-size:11pt;font-family:Calibri,sans-serif"><b><span style=
+=3D"font-size:12pt;line-height:115%;font-family:Batang,serif;color:rgb(36,6=
+4,97)">Respected Author(s), </span></b><i><span style=3D"font-size:12pt;lin=
+e-height:115%;font-family:Batang,serif;color:rgb(112,48,160);background:yel=
+low">(I.E.E.E approved-conference at
+Bhubaneswar, India)</span></i><span style=3D"font-size:12pt;line-height:115=
+%;font-family:Batang,serif;color:red;background:yellow"> </span><b><span st=
+yle=3D"font-size:12pt;line-height:115%;font-family:Batang,serif;color:rgb(3=
+6,64,97)"><span></span></span></b></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 6pt;text-align:justify;line-=
+height:115%;font-size:11pt;font-family:Calibri,sans-serif"><b><i><u><span s=
+tyle=3D"font-size:12pt;line-height:115%;font-family:Batang,serif"><span><sp=
+an style=3D"text-decoration:none">=C2=A0</span></span></span></u></i></b></=
+p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 6pt;text-align:justify;line-=
+height:115%;font-size:11pt;font-family:Calibri,sans-serif"><span style=3D"f=
+ont-size:12pt;line-height:115%;font-family:Batang,serif">IEEESB-K.I.I.T
+is organizing an International Conference on Recent Innovations in Electric=
+al,
+Electronics and Communication Engineering<b><span style=3D"color:red">-(RIE=
+ECE-2018) during 27<sup>th</sup> and 28<sup>th</sup>
+July 2018 in Bhubaneswar, Odisha, India.</span></b><span style=3D"color:red=
+"> <span></span></span></span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 6pt;line-height:115%;font-si=
+ze:11pt;font-family:Calibri,sans-serif"><span style=3D"font-size:12pt;line-=
+height:115%;font-family:Batang,serif;color:red"><span>=C2=A0</span></span><=
+/p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 6pt;line-height:115%;font-si=
+ze:11pt;font-family:Calibri,sans-serif"><b><i><u><span style=3D"font-size:1=
+2pt;line-height:115%;font-family:Batang,serif;background:lime">Last
+Intimation: <span>=C2=A0</span>Today also you can submit
+the paper</span></u></i></b><b><i><u><span style=3D"font-size:12pt;line-hei=
+ght:115%;font-family:Batang,serif"><span></span></span></u></i></b></p>
+
+<p class=3D"MsoNormal" align=3D"center" style=3D"margin:0in 0in 6pt;text-al=
+ign:center;line-height:115%;font-size:11pt;font-family:Calibri,sans-serif">=
+<b><i><u><span style=3D"font-size:12pt;line-height:115%;font-family:Batang,=
+serif"><span><span style=3D"text-decoration:none">=C2=A0</span></span></spa=
+n></u></i></b></p>
+
+<p class=3D"MsoNormal" align=3D"center" style=3D"margin:0in 0in 6pt;text-al=
+ign:center;line-height:115%;font-size:11pt;font-family:Calibri,sans-serif">=
+<span style=3D"font-size:12pt;line-height:115%;font-family:Batang,serif;bac=
+kground:silver">All Accepted Papers will be submitted for Inclusion in
+IEEE Xplore Digital Library and submitted to SCOPUS for indexing.</span><b>=
+<i><u><span style=3D"font-size:12pt;line-height:115%;font-family:Batang,ser=
+if"><span></span></span></u></i></b></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 6pt;text-align:justify;line-=
+height:115%;font-size:11pt;font-family:Calibri,sans-serif"><span style=3D"f=
+ont-size:12pt;line-height:115%;font-family:Batang,serif;color:red"><span>=
+=C2=A0</span></span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 6pt;text-align:justify;line-=
+height:115%;font-size:11pt;font-family:Calibri,sans-serif"><span style=3D"f=
+ont-size:12pt;line-height:115%;font-family:Batang,serif;color:rgb(33,88,104=
+)">Interested authors can
+till submit the paper(s), we are allowing the paper submission from well kn=
+own
+researchers. The date will not be extended, hence, please share your paper =
+as
+soon as possible. <span></span></span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 6pt;text-align:justify;line-=
+height:115%;font-size:11pt;font-family:Calibri,sans-serif"><span style=3D"f=
+ont-size:12pt;line-height:115%;font-family:Batang,serif"><span>=C2=A0</span=
+></span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 6pt;text-align:justify;line-=
+height:115%;font-size:11pt;font-family:Calibri,sans-serif"><span style=3D"f=
+ont-size:12pt;line-height:115%;font-family:Batang,serif">MoreInformationabo=
+utconference:<b> <a href=3D"http://firsturl.net/Rv665eP" style=3D"color:blu=
+e;text-decoration:underline">http://firsturl.net/Rv665eP</a><span></span></=
+b></span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 6pt;text-align:justify;line-=
+height:115%;font-size:11pt;font-family:Calibri,sans-serif"><b><span style=
+=3D"font-size:12pt;line-height:115%;font-family:Batang,serif"><span>=C2=A0<=
+/span></span></b></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 6pt;text-align:justify;line-=
+height:115%;font-size:11pt;font-family:Calibri,sans-serif"><span style=3D"f=
+ont-size:12pt;line-height:115%;font-family:Batang,serif;color:rgb(152,72,6)=
+;background:yellow">Note*:</span><span style=3D"font-size:12pt;line-height:=
+115%;font-family:Batang,serif;color:red"> We are also providing the facilit=
+y to present the paper
+through online for the authors who are unable to attend the conference.</sp=
+an><span style=3D"font-size:12pt;line-height:115%;font-family:Batang,serif;=
+color:rgb(0,112,192)"> <span></span></span></p>
+
+
+
+
+
+<br></div>
+
+<br>
+<div><font face=3D"Arial, Helvetica, sans-serif"><span style=3D"font-size:1=
+3px">Disclaimer: This email and any file(s) transmitted with it are confide=
+ntial and intended solely for the use of the individual or entity to whom t=
+hey are addressed.=C2=A0</span></font></div><div><font face=3D"Arial, Helve=
+tica, sans-serif"><span style=3D"font-size:13px">This message contains conf=
+idential information and is intended only for the individual named.=C2=A0</=
+span></font></div><div><font face=3D"Arial, Helvetica, sans-serif"><span st=
+yle=3D"font-size:13px">If you are not the named addressee you should not di=
+sseminate, distribute or copy this e-mail.</span></font></div><div><font fa=
+ce=3D"Arial, Helvetica, sans-serif"><span style=3D"font-size:13px">This mes=
+sage has been sent as a part of discussion between [Sender=E2=80=99s name] =
+and the addressee whose name is specified above</span></font></div><div><fo=
+nt face=3D"Arial, Helvetica, sans-serif"><span style=3D"font-size:13px">Ple=
+ase notify the sender immediately by e-mail if you have received this e-mai=
+l by mistake and delete this e-mail from your system.=C2=A0</span></font></=
+div><div><font face=3D"Arial, Helvetica, sans-serif"><span style=3D"font-si=
+ze:13px">If you are not the intended recipient you are notified that disclo=
+sing, copying, distributing or taking any action in reliance on the content=
+s of this information is strictly prohibited.</span></font></div><div style=
+=3D"font-family:Arial,Helvetica,sans-serif;font-size:1.3em"><br></div>
+--000000000000d235770570e008de--

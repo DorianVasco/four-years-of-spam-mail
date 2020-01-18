@@ -1,0 +1,1403 @@
+Return-Path: <noreply@yoorshop.com>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 99049C1469
+	for <mail@dorianvasco.de>; Thu, 27 Sep 2018 09:57:00 +0200 (CEST)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 9.272
+X-Spam-Level: *********
+X-Spam-Status: Yes, score=9.272 required=5.5 tests=[DKIM_ADSP_ALL=1.1,
+	DKIM_INVALID=0.1, DKIM_SIGNED=0.1, HS_BODY_289=5,
+	HTML_IMAGE_RATIO_06=0.001, HTML_MESSAGE=0.001,
+	HTML_MIME_NO_HTML_TAG=0.635, MIME_HTML_ONLY=1.105,
+	NO_DNS_FOR_FROM=0.379, PRICES_ARE_AFFORDABLE=0.851] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id YmR3JHfUmLYW for <mail@dorianvasco.de>;
+	Thu, 27 Sep 2018 09:56:40 +0200 (CEST)
+Received: from yoorshop.com (mail154.yoorshop.com [145.239.34.87])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id C9C4DC0890
+	for <mail@dorianvasco.de>; Thu, 27 Sep 2018 09:56:39 +0200 (CEST)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed;
+	d=yoorshop.com; s=default; h=Content-Transfer-Encoding:Content-Type:
+	MIME-Version:To:From:Subject:Date:Message-ID:Sender:Reply-To:Cc:Content-ID:
+	Content-Description:Resent-Date:Resent-From:Resent-Sender:Resent-To:Resent-Cc
+	:Resent-Message-ID:In-Reply-To:References:List-Id:List-Help:List-Unsubscribe:
+	List-Subscribe:List-Post:List-Owner:List-Archive;
+	bh=veOJDIGpcUDPXceC6RnEPCics6BdO6M+6pKWXqwc0mU=; b=wsQ9/bT0bqqysGu1yzkhjr3870
+	jc02dkA42RPD0ihN+cIF/qc+FJBLQOF8362npMDgbR0bi0WVxYRS6l3EJgNpUiKCiiHEr9qPHi/PF
+	lbBV5YvMbdWeGyxfkoxmOkymou/yil7F8wHiyakdeBTkaFZhIFrK8E4h/jSfez/FxG+pNvSgMWbUO
+	cEXd4KYTSsTlOofhLoLuYcG72Vt+XweRZYykLjzDjUUYB6+HnbAjb8uN2QIc8gE64J1ze7+NefKMu
+	fMsSevHLHL0YCudyQ0i/hDwV7yNxux3CgCLbuUwMTz+IhK2TFKXT4nyKRrCWcjca/eUfy+FqtjLWJ
+	APPqdJ5w==;
+Received: from sales.yoorshop.net ([213.32.98.88]:36464 helo=[127.0.0.1])
+	by rep1.hosting1976.fr with esmtpsa (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.91)
+	(envelope-from <noreply@yoorshop.com>)
+	id 1g5RAY-0001mq-59
+	for mail@dorianvasco.de; Thu, 27 Sep 2018 09:57:06 +0200
+Message-ID: <bd9ed058048cc3ab194a10a344bf3048@swift.generated>
+Date: Thu, 27 Sep 2018 07:57:06 +0000
+Subject: Your website could load faster with YOORshop hosting services...
+From: YOORshop Hosting <noreply@yoorshop.com>
+To: mail@dorianvasco.de
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+X-YOORshopSAS-MailScanner-Information: Please contact the ISP for more information
+X-YOORshopSAS-MailScanner-ID: 1g5RAY-0001mq-59
+X-YOORshopSAS-MailScanner: Found to be clean
+X-YOORshopSAS-MailScanner-SpamCheck: 
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - rep1.hosting1976.fr
+X-AntiAbuse: Original Domain - dorianvasco.de
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - yoorshop.com
+X-Get-Message-Sender-Via: rep1.hosting1976.fr: authenticated_id: sales.dept@yoorshop.com
+X-Authenticated-Sender: rep1.hosting1976.fr: sales.dept@yoorshop.com
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+
+<!-- [if mso]>
+<style type=3D=E2=80=9Dtext/css=E2=80=9D>
+.ptext {
+font-family: Arial, sans-serif !important;
+}
+
+</style>
+<![endif]--><!--Full width table start-->
+<table style=3D"background-color: #f7f7f9;" border=3D"0" width=3D"100%" cel=
+lspacing=3D"0" cellpadding=3D"0" align=3D"center">
+<tbody>
+<tr>
+<td align=3D"center" valign=3D"top">
+<table class=3D"em_main_table" style=3D"table-layout: fixed;" border=3D"0" =
+width=3D"650" cellspacing=3D"0" cellpadding=3D"0" align=3D"center" bgcolor=
+=3D"#ffffff">
+<tbody>
+<tr>
+<td class=3D"em_hide" style=3D"line-height: 1px; min-width: 650px;" bgcolor=
+=3D"#f7f7f9"><img style=3D"max-height: 1px; min-height: 1px; display: block=
+; width: 650px; min-width: 650px;" src=3D"https://www.yoorshop.eu/mailing/p=
+ics/26b2d283-3f1c-476b-b776-687199068145.gif" width=3D"650" height=3D"1" bo=
+rder=3D"0" /></td>
+</tr>
+<!-- =3D=3D=3D=3D=3D SINGLE COLUMN SECTION =3D=3D=3D=3D=3D -->
+<tr>
+<td style=3D"border-bottom: 1px solid #dadada;" bgcolor=3D"#f7f7f9">
+<table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td>
+<table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td>
+<table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td class=3D"em_hide" width=3D"30">&nbsp;</td>
+<td class=3D"em_side_space">
+<table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td style=3D"line-height: 10px; font-size: 1px;" height=3D"1">&nbsp;</td>
+</tr>
+<tr>
+<td class=3D"ptext" style=3D"font-family: Arial, sans-serif,Open sans; font=
+-size: 11px; text-align: center; color: #6c6c6c; line-height: 15px;">Troubl=
+e viewing this email ? <a style=3D"color: #3575b9; text-decoration: none;" =
+href=3D"https://www.yoorshop.eu/webversionuk">Click here to view in browser=
+</a>.</td>
+</tr>
+<tr>
+<td style=3D"line-height: 10px;" height=3D"15">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td class=3D"em_hide" width=3D"30">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<!-- =3D=3D=3D=3D=3D //SINGLE COLUMN SECTION =3D=3D=3D=3D=3D --> <!-- =3D=
+=3D=3D=3D=3D TWO COLUMN SECTION(with image) =3D=3D=3D=3D=3D -->
+<tr>
+<td style=3D"border-bottom: 1px solid #dadada;" bgcolor=3D"#f7f7f9">
+<table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td>
+<table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td class=3D"em_hide" width=3D"30">&nbsp;</td>
+<td>
+<table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td>
+<table class=3D"em_wrapper" border=3D"0" width=3D"280" cellspacing=3D"0" ce=
+llpadding=3D"0" align=3D"left">
+<tbody>
+<tr>
+<td>
+<table border=3D"0" width=3D"280" cellspacing=3D"0" cellpadding=3D"0" align=
+=3D"center">
+<tbody>
+<tr>
+<td style=3D"line-height: 20px;" height=3D"20">&nbsp;</td>
+</tr>
+<tr>
+<td><a href=3D"https://www.yoorshop.eu/english" target=3D"_blank" rel=3D"no=
+opener"><img style=3D"display: block; max-width: 280px;" src=3D"https://www=
+.yoorshop.eu/mailing/pics/logo.png" alt=3D"Logo YOORshop" border=3D"0" /></=
+a></td>
+</tr>
+<tr>
+<td class=3D"em_hide" style=3D"line-height: 20px;" height=3D"20">&nbsp;</td=
+>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table class=3D"em_wrapper" border=3D"0" width=3D"280" cellspacing=3D"0" ce=
+llpadding=3D"0" align=3D"right">
+<tbody>
+<tr>
+<td class=3D"em_pad_top">
+<table border=3D"0" width=3D"280" cellspacing=3D"0" cellpadding=3D"0" align=
+=3D"center">
+<tbody>
+<tr>
+<td class=3D"em_hide" style=3D"line-height: 20px;" height=3D"20">&nbsp;</td=
+>
+</tr>
+<tr>
+<td><img style=3D"display: block; max-width: 280px;" src=3D"https://www.yoo=
+rshop.eu/mailing/pics/star_rating.png" alt=3D"Star Rating" width=3D"280" he=
+ight=3D"30" border=3D"0" /></td>
+</tr>
+<tr>
+<center>
+<td class=3D"ptext" style=3D"font-family: Arial, sans-serif,Open Sans; font=
+-size: 11px; text-align: center; color: #6d869c; line-height: 18px; font-we=
+ight: bold;"><a href=3D"https://www.yoorshop.eu/reviews" target=3D"_blank" =
+style=3D"color:#6c6c6c">4.91/5 (168 reviews)</a></td>
+</tr>
+</center>
+<tr>
+<td style=3D"line-height: 20px;" height=3D"20">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td class=3D"em_hide" width=3D"30">&nbsp;<a href=3D"https://www.yoorshop.eu=
+/mailing/webversionfr.html" rel=3D"noopener"><img src=3D"https://www.yoorsh=
+op.eu/mailing/pics/France-Flag-20.png" alt=3D"English version" width=3D"20"=
+ height=3D"20" /></a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<!-- =3D=3D=3D=3D=3D TWO COLUMN SECTION(with image) =3D=3D=3D=3D=3D --> <!-=
+- =3D=3D=3D=3D=3D SINGLE COLUMN SECTION =3D=3D=3D=3D=3D -->
+<tr>
+<td bgcolor=3D"#317dc8">
+<table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td>
+<table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td>
+<table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td class=3D"em_hide" width=3D"30">&nbsp;</td>
+<td class=3D"em_side_space">
+<table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td style=3D"line-height: 10px;" height=3D"10">&nbsp;</td>
+</tr>
+<tr>
+<td class=3D"ptext" style=3D"font-family: Arial, sans-serif,Open Sans; font=
+-size: 18px; text-align: center; color: #ffffff; line-height: 20px; font-we=
+ight: 600;"><em>Just Turbo Hosting...</em></td>
+</tr>
+<tr>
+<td style=3D"line-height: 0px; font-size: 1px;" height=3D"10">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td class=3D"em_hide" width=3D"30">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<!-- =3D=3D=3D=3D=3D //SINGLE COLUMN SECTION =3D=3D=3D=3D=3D --> <!-- =3D=
+=3D=3D=3D=3D SINGLE COLUMN SECTION =3D=3D=3D=3D=3D -->
+<tr>
+<td>
+<table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td>
+<table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td>
+<table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td class=3D"em_hide" width=3D"30">&nbsp;</td>
+<td class=3D"em_side_space">
+<table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td style=3D"line-height: 20px;" height=3D"20">&nbsp;</td>
+</tr>
+<tr>
+<td class=3D"ptext" style=3D"font-family: Arial, sans-serif,Open Sans; font=
+-size: 14px; text-align: left; color: #6c6c6c; line-height: 20px;">Dear web=
+site Owner,<br />&nbsp;</td>
+</tr>
+<tr>
+<td style=3D"line-height: 20px; font-size: 1px;" height=3D"20">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td class=3D"em_hide" width=3D"30">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<!-- =3D=3D=3D=3D=3D //SINGLE COLUMN SECTION =3D=3D=3D=3D=3D --> <!-- =3D=
+=3D=3D=3D=3D LEFT CONTENT(with bullet point) + RIGHT IMAGE =3D=3D=3D=3D=3D =
+-->
+<tr>
+<td>
+<table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td>
+<table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td class=3D"em_hide" width=3D"30">&nbsp;</td>
+<td>
+<table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td>
+<table class=3D"em_wrapper" border=3D"0" width=3D"280" cellspacing=3D"0" ce=
+llpadding=3D"0" align=3D"right">
+<tbody>
+<tr>
+<td>
+<table border=3D"0" width=3D"280" cellspacing=3D"0" cellpadding=3D"0" align=
+=3D"center">
+<tbody>
+<tr>
+<td><a href=3D"https://www.yoorshop.eu/speed" target=3D"_blank" rel=3D"noop=
+ener"><img style=3D"display: block; max-width: 280px;" src=3D"https://www.y=
+oorshop.eu/mailing/pics/website_speed.png" alt=3D"Image" width=3D"280" heig=
+ht=3D"210" border=3D"0" /></a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table class=3D"em_wrapper" border=3D"0" width=3D"270" cellspacing=3D"0" ce=
+llpadding=3D"0" align=3D"left">
+<tbody>
+<tr>
+<td class=3D"em_side_space">
+<table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td class=3D"em_pad_top">
+<table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td class=3D"ptext" style=3D"font-family: Arial, sans-serif,Open Sans,Lato;=
+ font-size: 13px; text-align: left; color: #6c6c6c; line-height: 18px;">We =
+are contacting you to propose our high performances hosting services for yo=
+ur website at affordable prices... Due to high competition these days, it i=
+s crucial <strong>that your website loads as fast as possible for your onli=
+ne success</strong> : more sales and better ranking.<br /> <strong>Reminder=
+ of important Google ranking criterias</strong>, country domain extension :=
+ 10/200, speed : 23/200, presence of SSL certificate : 71/200, server IP lo=
+calization: 143/200).&nbsp;</td>
+</tr>
+<tr>
+<td style=3D"line-height: 15px;" height=3D"15">&nbsp;</td>
+</tr>
+<tr>
+<td>
+<table class=3D"em_wrapper" border=3D"0" width=3D"240" cellspacing=3D"0" ce=
+llpadding=3D"0" align=3D"left">
+<tbody>
+<tr>
+<td>
+<table border=3D"0" width=3D"240" cellspacing=3D"0" cellpadding=3D"0" align=
+=3D"left">
+<tbody>
+<tr>
+<td class=3D"ptext" style=3D"font-family: Arial, sans-serif,Open Sans; font=
+-size: 14px; text-align: center; border-radius: 4px; color: #ffffff;" valig=
+n=3D"middle" bgcolor=3D"#3575b9" height=3D"35"><a style=3D"text-decoration:=
+ none; color: #ffffff; display: block;" href=3D"https://www.yoorshop.eu/spe=
+ed" target=3D"_blank" rel=3D"noopener">Read the Article</a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td class=3D"em_hide" width=3D"30">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style=3D"line-height: 20px;" height=3D"20">&nbsp;</td>
+</tr>
+<!-- =3D=3D=3D=3D=3D //LEFT CONTENT(with bullet point) + RIGHT IMAGE =3D=3D=
+=3D=3D=3D --> <!-- =3D=3D=3D=3D=3D SINGLE COLUMN SECTION =3D=3D=3D=3D=3D --=
+>
+<tr>
+<td>
+<table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td>
+<table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td>
+<table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td class=3D"em_hide" width=3D"30">&nbsp;</td>
+<td class=3D"em_side_space" bgcolor=3D"#f4f4f7">
+<table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td class=3D"em_hide" width=3D"20">&nbsp;</td>
+<td class=3D"ptext" style=3D"font-family: Arial, sans-serif,Open Sans; font=
+-size: 13px; text-align: left; padding-top: 10px; padding-bottom: 10px; col=
+or: #6c6c6c; line-height: 20px;">
+<p><strong>To get a fast loading website, you need to meet both requirement=
+s :</strong></p>
+<p><strong style=3D"color: #3575b9;">Condition 1 :</strong> High performanc=
+e and optimized hosting service with a server located on the continent wher=
+e you target the market<br /> (Just moving your website to us will make it =
+load faster, it was the case for 95% of clients)</p>
+<p><strong style=3D"color: #3575b9;">Condition 2 :</strong> Your website sh=
+ould be optimized as much as possible and use PHP7<br /> (if can't be more =
+optimized, only server can make a difference by its speed and optimizers)</=
+p>
+</td>
+<td class=3D"em_hide" width=3D"20">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td class=3D"em_hide" width=3D"30">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<!-- =3D=3D=3D=3D=3D //SINGLE COLUMN SECTION =3D=3D=3D=3D=3D --> <!-- =3D=
+=3D=3D=3D=3D LEFT IMAGE + RIGHT CONTENT(with bullet point) =3D=3D=3D=3D=3D =
+-->
+<tr>
+<td style=3D"line-height: 20px;" height=3D"20">&nbsp;</td>
+</tr>
+<tr>
+<td>
+<table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td>
+<table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td class=3D"em_hide" width=3D"30">&nbsp;</td>
+<td>
+<table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td>
+<table class=3D"em_wrapper" border=3D"0" width=3D"240" cellspacing=3D"0" ce=
+llpadding=3D"0" align=3D"left">
+<tbody>
+<tr>
+<td>
+<table border=3D"0" width=3D"240" cellspacing=3D"0" cellpadding=3D"0" align=
+=3D"center">
+<tbody>
+<tr>
+<td><img style=3D"display: block; max-width: 240px;" src=3D"https://www.yoo=
+rshop.eu/mailing/pics/load_3sec.png" alt=3D"Image" width=3D"240" height=3D"=
+179" border=3D"0" /></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table class=3D"em_wrapper" border=3D"0" width=3D"310" cellspacing=3D"0" ce=
+llpadding=3D"0" align=3D"right">
+<tbody>
+<tr>
+<td class=3D"em_side_space">
+<table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td class=3D"em_pad_top">
+<table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td class=3D"ptext" style=3D"font-family: Arial, sans-serif,Open Sans,Lato;=
+ font-size: 13px; text-align: left; color: #6c6c6c; line-height: 19px;"><st=
+rong>Your website should not exceed 2 sec/page on average</strong>, and fas=
+ter is always better... Homepage speed is not the most important, instead, =
+all other pages where client spend time are much more...<br /> We have buil=
+t a comprehensive knowledge base so that to help you to understand the subt=
+leties and technical aspects of assessing properly server speed, website op=
+timization, and simulate the reality of user's experience on your website.<=
+/td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td class=3D"em_hide" width=3D"30">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<!-- =3D=3D=3D=3D=3D //LEFT IMAGE + RIGHT CONTENT(with bullet point) =3D=3D=
+=3D=3D=3D --> <!-- =3D=3D=3D=3D=3D SINGLE COLUMN SECTION =3D=3D=3D=3D=3D --=
+>
+<tr>
+<td>
+<table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td>
+<table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td>
+<table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td class=3D"em_hide" width=3D"30">&nbsp;</td>
+<td class=3D"em_side_space">
+<table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td style=3D"line-height: 20px;" height=3D"20">&nbsp;</td>
+</tr>
+<tr>
+<td class=3D"ptext" style=3D"font-family: Arial, sans-serif, 'Open Sans'; f=
+ont-size: 13px; color: #6c6c6c; line-height: 18px; text-align: center;">Ple=
+ase check one of these articles to learn more : <a style=3D"color: #3575b9;=
+ text-decoration: underline;" href=3D"https://www.yoorshop.eu/optimization-=
+prestashop">Prestashop</a> | <a style=3D"color: #3575b9; text-decoration: u=
+nderline;" href=3D"https://www.yoorshop.eu/">Wordpress</a></td>
+</tr>
+<tr>
+<td style=3D"line-height: 20px; font-size: 1px;" height=3D"20">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td class=3D"em_hide" width=3D"30">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style=3D"line-height: 20px;" height=3D"20">&nbsp;</td>
+</tr>
+<!-- =3D=3D=3D=3D=3D //SINGLE COLUMN SECTION =3D=3D=3D=3D=3D --> <!-- =3D=
+=3D=3D=3D=3D LEFT IMAGE + RIGHT CONTENT(SALE) =3D=3D=3D=3D=3D -->
+<tr>
+<td>
+<table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td bgcolor=3D"#1a516a">
+<table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td>
+<table class=3D"em_wrapper" border=3D"0" width=3D"363" cellspacing=3D"0" ce=
+llpadding=3D"0" align=3D"left">
+<tbody>
+<tr>
+<td>
+<table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td><a href=3D"https://www.yoorshop.eu/nvme-ssd" target=3D"_blank" rel=3D"n=
+oopener"><img class=3D"em_full_width" style=3D"display: block; max-width: 3=
+63px;" src=3D"https://www.yoorshop.eu/mailing/pics/bgheader-news2letter.jpg=
+" alt=3D"Image" width=3D"354" height=3D"330" border=3D"0" /></a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table class=3D"em_wrapper" border=3D"0" width=3D"246" cellspacing=3D"0" ce=
+llpadding=3D"0" align=3D"right">
+<tbody>
+<tr>
+<td class=3D"em_pad_top">
+<table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td class=3D"em_side_space">
+<table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td class=3D"em_hide" height=3D"40">&nbsp;</td>
+</tr>
+<tr>
+<td class=3D"ptext" style=3D"font-family: Arial, sans-serif,Open Sans; font=
+-size: 24px; color: #ffffff; text-align: left; line-height: 30px;">Thanks t=
+o our experience and latest technologies, we know we can hold our promises.=
+..</td>
+</tr>
+<tr>
+<td style=3D"line-height: 20px;" height=3D"20">&nbsp;</td>
+</tr>
+<tr>
+<td>
+<table class=3D"em_wrapper" border=3D"0" width=3D"161" cellspacing=3D"0" ce=
+llpadding=3D"0" align=3D"left">
+<tbody>
+<tr>
+<td class=3D"em_pad_btm">
+<table style=3D"margin-left: auto; margin-right: auto;" border=3D"0" width=
+=3D"161" cellspacing=3D"0" cellpadding=3D"0" align=3D"left">
+<tbody>
+<tr>
+<td class=3D"ptext" style=3D"font-family: Arial, sans-serif; font-size: 16p=
+x; text-align: center; border-radius: 4px; color: #1a516a;" valign=3D"middl=
+e" bgcolor=3D"#ffffff" height=3D"43"><a style=3D"text-decoration: none; col=
+or: #1a516a; display: block;" href=3D"https://www.yoorshop.eu/nvme-ssd" tar=
+get=3D"_blank" rel=3D"noopener">Know More</a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td class=3D"em_hide" width=3D"10">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style=3D"line-height: 20px;" height=3D"20">&nbsp;</td>
+</tr>
+<!-- =3D=3D=3D=3D=3D //LEFT IMAGE + RIGHT CONTENT(SALE) =3D=3D=3D=3D=3D -->=
+ <!-- =3D=3D=3D=3D=3D LEFT CONTENT(with bullet point) + RIGHT IMAGE =3D=3D=
+=3D=3D=3D -->
+<tr>
+<td>
+<table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td>
+<table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td class=3D"em_hide" width=3D"30">&nbsp;</td>
+<td>
+<table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td>
+<table class=3D"em_wrapper" border=3D"0" width=3D"240" cellspacing=3D"0" ce=
+llpadding=3D"0" align=3D"right">
+<tbody>
+<tr>
+<td>
+<table border=3D"0" width=3D"240" cellspacing=3D"0" cellpadding=3D"0" align=
+=3D"center">
+<tbody>
+<tr>
+<td><a href=3D"https://www.yoorshop.eu/evaluations" target=3D"_blank" rel=
+=3D"noopener"><img style=3D"display: block; max-width: 240px;" src=3D"https=
+://www.yoorshop.eu/mailing/pics/people.png" alt=3D"Customer" width=3D"240" =
+height=3D"160" border=3D"0" /></a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table class=3D"em_wrapper" border=3D"0" width=3D"310" cellspacing=3D"0" ce=
+llpadding=3D"0" align=3D"left">
+<tbody>
+<tr>
+<td class=3D"em_side_space">
+<table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td class=3D"em_pad_top">
+<table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td class=3D"ptext" style=3D"font-family: Arial, sans-serif,Open Sans,Lato;=
+ font-size: 14px; padding-top: 15px; padding-bottom: 10px; text-align: left=
+; color: #6c6c6c; line-height: 18px;">Most of our clients came from other w=
+eb hosts.<br /> They came to Us for performance, not for fun, their conclus=
+ion has been very clear :<br /> <strong>"in 95% of the cases, clients said =
+that the loading speed of their website increased as soon as their website =
+started loading from our servers..."</strong></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td class=3D"em_hide" width=3D"30">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<!-- =3D=3D=3D=3D=3D //LEFT CONTENT(with bullet point) + RIGHT IMAGE =3D=3D=
+=3D=3D=3D --> <!-- =3D=3D=3D=3D=3D SINGLE COLUMN SECTION =3D=3D=3D=3D=3D --=
+>
+<tr>
+<td>
+<table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td>
+<table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td>
+<table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td class=3D"em_hide" width=3D"30">&nbsp;</td>
+<td class=3D"em_side_space">
+<table style=3D"height: 75px;" border=3D"0" width=3D"580" cellspacing=3D"0"=
+ cellpadding=3D"0">
+<tbody>
+<tr>
+<td style=3D"line-height: 30px; width: 578.021px;" height=3D"30">&nbsp;</td=
+>
+</tr>
+<tr>
+<td class=3D"ptext" style=3D"font-family: Arial, sans-serif, 'Open Sans'; f=
+ont-size: 22px; text-align: center; color: #6c6c6c; line-height: 26px; widt=
+h: 578.021px;">You will benefit of an optimized hosting service delivering =
+extreme performances and best features :</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td class=3D"em_hide" width=3D"30">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style=3D"line-height: 20px;" height=3D"20">&nbsp;</td>
+</tr>
+<!-- =3D=3D=3D=3D=3D //SINGLE COLUMN SECTION =3D=3D=3D=3D=3D --> <!-- =3D=
+=3D=3D=3D=3D TWO COLUMN SECTION(with image) =3D=3D=3D=3D=3D -->
+<tr>
+<td>
+<table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td>
+<table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td class=3D"em_hide" width=3D"30">&nbsp;</td>
+<td>
+<table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td>
+<table class=3D"em_wrapper" border=3D"0" width=3D"280" cellspacing=3D"0" ce=
+llpadding=3D"0" align=3D"left">
+<tbody>
+<tr>
+<td>
+<table border=3D"0" width=3D"280" cellspacing=3D"0" cellpadding=3D"0" align=
+=3D"center">
+<tbody>
+<tr>
+<td><img style=3D"display: block; max-width: 280px;" src=3D"https://www.yoo=
+rshop.eu/mailing/pics/fimg1.png" alt=3D"No contract commitments" width=3D"2=
+80" height=3D"200" border=3D"0" /></td>
+</tr>
+<tr>
+<td style=3D"line-height: 20px;" height=3D"20">&nbsp;</td>
+</tr>
+<tr>
+<td>
+<table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td class=3D"em_hide" width=3D"20">&nbsp;</td>
+<td class=3D"ptext" style=3D"font-family: Arial, sans-serif,Open Sans; font=
+-size: 11px; text-align: center; color: #6c6c6c; line-height: 18px; font-we=
+ight: bold;" valign=3D"top" width=3D"20">&diams;</td>
+<td class=3D"ptext" style=3D"font-family: Arial, sans-serif,Open Sans; font=
+-size: 14px; text-align: left; color: #6c6c6c; line-height: 18px;">No contr=
+act commitment</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style=3D"line-height: 10px;" height=3D"10">&nbsp;</td>
+</tr>
+<tr>
+<td>
+<table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td class=3D"em_hide" width=3D"20">&nbsp;</td>
+<td class=3D"ptext" style=3D"font-family: Arial, sans-serif,Open Sans; font=
+-size: 11px; text-align: center; color: #6c6c6c; line-height: 18px; font-we=
+ight: bold;" valign=3D"top" width=3D"20">&diams;</td>
+<td class=3D"ptext" style=3D"font-family: Arial, sans-serif,Open Sans; font=
+-size: 14px; text-align: left; color: #6c6c6c; line-height: 18px;">Servers =
+located in Europe in 13 countries, and in USA Canada</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style=3D"line-height: 10px;" height=3D"10">&nbsp;</td>
+</tr>
+<tr>
+<td>
+<table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td class=3D"em_hide" width=3D"20">&nbsp;</td>
+<td class=3D"ptext" style=3D"font-family: Arial, sans-serif,Open Sans; font=
+-size: 11px; text-align: center; color: #6c6c6c; line-height: 18px; font-we=
+ight: bold;" valign=3D"top" width=3D"20">&diams;</td>
+<td class=3D"ptext" style=3D"font-family: Arial, sans-serif,Open Sans; font=
+-size: 14px; text-align: left; color: #6c6c6c; line-height: 18px;">100% NVM=
+e SSD servers</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style=3D"line-height: 10px;" height=3D"10">&nbsp;</td>
+</tr>
+<tr>
+<td>
+<table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td class=3D"em_hide" width=3D"20">&nbsp;</td>
+<td class=3D"ptext" style=3D"font-family: Arial, sans-serif,Open Sans; font=
+-size: 11px; text-align: center; color: #6c6c6c; line-height: 18px; font-we=
+ight: bold;" valign=3D"top" width=3D"20">&diams;</td>
+<td class=3D"ptext" style=3D"font-family: Arial, sans-serif,Open Sans; font=
+-size: 14px; text-align: left; color: #6c6c6c; line-height: 18px;">Help des=
+k, average response time : 30 min</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style=3D"line-height: 10px;" height=3D"10">&nbsp;</td>
+</tr>
+<tr>
+<td>
+<table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td class=3D"em_hide" width=3D"20">&nbsp;</td>
+<td class=3D"ptext" style=3D"font-family: Arial, sans-serif,Open Sans; font=
+-size: 11px; text-align: center; color: #6c6c6c; line-height: 18px; font-we=
+ight: bold;" valign=3D"top" width=3D"20">&diams;</td>
+<td class=3D"ptext" style=3D"font-family: Arial, sans-serif,Open Sans; font=
+-size: 14px; text-align: left; color: #6c6c6c; line-height: 18px;">SSL cert=
+ificate : Free and Unlimited</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style=3D"line-height: 10px;" height=3D"10">&nbsp;</td>
+</tr>
+<tr>
+<td>
+<table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td class=3D"em_hide" width=3D"20">&nbsp;</td>
+<td class=3D"ptext" style=3D"font-family: Arial, sans-serif,Open Sans; font=
+-size: 11px; text-align: center; color: #6c6c6c; line-height: 18px; font-we=
+ight: bold;" valign=3D"top" width=3D"20">&diams;</td>
+<td class=3D"ptext" style=3D"font-family: Arial, sans-serif,Open Sans; font=
+-size: 14px; text-align: left; color: #6c6c6c; line-height: 18px;">Backups =
+: last 10 days</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table class=3D"em_wrapper" border=3D"0" width=3D"280" cellspacing=3D"0" ce=
+llpadding=3D"0" align=3D"right">
+<tbody>
+<tr>
+<td class=3D"em_pad_top">
+<table border=3D"0" width=3D"280" cellspacing=3D"0" cellpadding=3D"0" align=
+=3D"center">
+<tbody>
+<tr>
+<td><img style=3D"display: block; max-width: 280px;" src=3D"https://www.yoo=
+rshop.eu/mailing/pics/fimg2.png" alt=3D"No contract commitments" width=3D"2=
+80" height=3D"200" border=3D"0" /></td>
+</tr>
+<tr>
+<td style=3D"line-height: 20px;" height=3D"20">&nbsp;</td>
+</tr>
+<tr>
+<td>
+<table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td class=3D"em_hide" width=3D"20">&nbsp;</td>
+<td class=3D"ptext" style=3D"font-family: Arial, sans-serif,Open Sans; font=
+-size: 11px; text-align: center; color: #6c6c6c; line-height: 18px; font-we=
+ight: bold;" valign=3D"top" width=3D"20">&diams;</td>
+<td class=3D"ptext" style=3D"font-family: Arial, sans-serif,Open Sans; font=
+-size: 14px; text-align: left; color: #6c6c6c; line-height: 18px;">Pagespee=
+d module (to help optimize your loading speed)</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style=3D"line-height: 10px;" height=3D"10">&nbsp;</td>
+</tr>
+<tr>
+<td>
+<table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td class=3D"em_hide" width=3D"20">&nbsp;</td>
+<td class=3D"ptext" style=3D"font-family: Arial, sans-serif,Open Sans; font=
+-size: 11px; text-align: center; color: #6c6c6c; line-height: 18px; font-we=
+ight: bold;" valign=3D"top" width=3D"20">&diams;</td>
+<td class=3D"ptext" style=3D"font-family: Arial, sans-serif,Open Sans; font=
+-size: 14px; text-align: left; color: #6c6c6c; line-height: 18px;">Optimize=
+d database server MariaDB</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style=3D"line-height: 10px;" height=3D"10">&nbsp;</td>
+</tr>
+<tr>
+<td>
+<table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td class=3D"em_hide" width=3D"20">&nbsp;</td>
+<td class=3D"ptext" style=3D"font-family: Arial, sans-serif,Open Sans; font=
+-size: 11px; text-align: center; color: #6c6c6c; line-height: 18px; font-we=
+ight: bold;" valign=3D"top" width=3D"20">&diams;</td>
+<td class=3D"ptext" style=3D"font-family: Arial, sans-serif,Open Sans; font=
+-size: 14px; text-align: left; color: #6c6c6c; line-height: 18px;">Cache en=
+abled by default : Opcache</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style=3D"line-height: 10px;" height=3D"10">&nbsp;</td>
+</tr>
+<tr>
+<td>
+<table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td class=3D"em_hide" width=3D"20">&nbsp;</td>
+<td class=3D"ptext" style=3D"font-family: Arial, sans-serif,Open Sans; font=
+-size: 11px; text-align: center; color: #6c6c6c; line-height: 18px; font-we=
+ight: bold;" valign=3D"top" width=3D"20">&diams;</td>
+<td class=3D"ptext" style=3D"font-family: Arial, sans-serif,Open Sans; font=
+-size: 14px; text-align: left; color: #6c6c6c; line-height: 18px;">HTTP2 (u=
+se SSL)</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style=3D"line-height: 10px;" height=3D"10">&nbsp;</td>
+</tr>
+<tr>
+<td>
+<table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td class=3D"em_hide" width=3D"20">&nbsp;</td>
+<td class=3D"ptext" style=3D"font-family: Arial, sans-serif,Open Sans; font=
+-size: 11px; text-align: center; color: #6c6c6c; line-height: 18px; font-we=
+ight: bold;" valign=3D"top" width=3D"20">&diams;</td>
+<td class=3D"ptext" style=3D"font-family: Arial, sans-serif,Open Sans; font=
+-size: 14px; text-align: left; color: #6c6c6c; line-height: 18px;">Nginx se=
+rver with LiteSpeed PHP</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style=3D"line-height: 10px;" height=3D"10">&nbsp;</td>
+</tr>
+<tr>
+<td>
+<table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td class=3D"em_hide" width=3D"20">&nbsp;</td>
+<td class=3D"ptext" style=3D"font-family: Arial, sans-serif,Open Sans; font=
+-size: 11px; text-align: center; color: #6c6c6c; line-height: 18px; font-we=
+ight: bold;" valign=3D"top" width=3D"20">&diams;</td>
+<td class=3D"ptext" style=3D"font-family: Arial, sans-serif,Open Sans; font=
+-size: 14px; text-align: left; color: #6c6c6c; line-height: 18px;">Brotli c=
+ompression</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td class=3D"em_hide" width=3D"30">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style=3D"line-height: 10px;" height=3D"10">&nbsp;</td>
+</tr>
+<!-- =3D=3D=3D=3D=3D TWO COLUMN SECTION(with image) =3D=3D=3D=3D=3D --> <!-=
+- =3D=3D=3D=3D=3D SINGLE COLUMN SECTION =3D=3D=3D=3D=3D -->
+<tr>
+<td>
+<table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td>
+<table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td>
+<table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td class=3D"em_hide" width=3D"30">&nbsp;</td>
+<td class=3D"em_side_space">
+<table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td>
+<table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td class=3D"em_hide" width=3D"20">&nbsp;</td>
+<td class=3D"ptext" style=3D"font-family: Arial, sans-serif,Open Sans; font=
+-size: 11px; text-align: center; color: #6c6c6c; line-height: 18px; font-we=
+ight: bold;" valign=3D"top" width=3D"20">&diams;</td>
+<td class=3D"ptext" style=3D"font-family: Arial, sans-serif,Open Sans; font=
+-size: 14px; text-align: left; color: #6c6c6c; line-height: 18px;">Advanced=
+ website threat protection + Free VPN access !</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style=3D"line-height: 25px;" height=3D"25">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td class=3D"em_hide" width=3D"30">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<!-- =3D=3D=3D=3D=3D //SINGLE COLUMN SECTION =3D=3D=3D=3D=3D --> <!-- =3D=
+=3D=3D=3D=3D BANNER WITH CONTENT & CTA =3D=3D=3D=3D=3D -->
+<tr>
+<td>
+<table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td class=3D"em_hide" width=3D"30">&nbsp;</td>
+<td class=3D"em_side_space" valign=3D"top">
+<table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td><a href=3D"https://www.yoorshop.eu/ssd-offer" target=3D"_blank" rel=3D"=
+noopener"><img class=3D"em_full_width" style=3D"display: block; max-width: =
+590px;" src=3D"https://www.yoorshop.eu/mailing/pics/freeweb.png" alt=3D"Fre=
+e website migration + 30 day moneyback" width=3D"590" height=3D"105" border=
+=3D"0" /></a></td>
+</tr>
+<tr>
+<td style=3D"line-height: 10px;" height=3D"10">&nbsp;</td>
+</tr>
+<tr>
+<td><a href=3D"https://www.yoorshop.eu/ssd-offer" target=3D"_blank" rel=3D"=
+noopener"><img class=3D"em_full_width" style=3D"display: block; max-width: =
+590px;" src=3D"https://www.yoorshop.eu/mailing/pics/coupon_code.png" alt=3D=
+"5% discount coupon" width=3D"590" height=3D"115" border=3D"0" /></a></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td class=3D"em_hide" width=3D"30">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<!-- =3D=3D=3D=3D=3D //BANNER WITH CONTENT & CTA =3D=3D=3D=3D=3D --> <!-- =
+=3D=3D=3D=3D=3D SINGLE COLUMN SECTION =3D=3D=3D=3D=3D -->
+<tr>
+<td style=3D"line-height: 20px; font-size: 1px;" height=3D"20">&nbsp;</td>
+</tr>
+<tr>
+<td>
+<table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td>
+<table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td>
+<table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td class=3D"em_hide" width=3D"30">&nbsp;</td>
+<td class=3D"em_side_space">
+<table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td class=3D"ptext" style=3D"font-family: Arial, sans-serif,Open Sans; font=
+-size: 13px; text-align: left; color: #6c6c6c; line-height: 18px;">If you h=
+ave any questions, please use our contact form <a style=3D"color: #3575b9; =
+text-decoration: underline;" href=3D"https://www.yoorshop.eu/contact">here<=
+/a></td>
+</tr>
+<tr>
+<td style=3D"line-height: 10px; font-size: 1px;" height=3D"10">&nbsp;</td>
+</tr>
+<tr>
+<td class=3D"ptext" style=3D"font-family: Arial, sans-serif,Open Sans; font=
+-size: 13px; text-align: left; color: #6c6c6c; line-height: 18px;">
+<p>Thank you for your attention,<br /> Yours faithfully,<br /> Daniel - Cus=
+tomer service YOORshop<br /> YOORshop SAS - 52 route du clos, 69700 Montagn=
+y, France - DUNS 267747610</p>
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td class=3D"em_hide" width=3D"30">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style=3D"line-height: 20px;" height=3D"20">&nbsp;</td>
+</tr>
+<!-- =3D=3D=3D=3D=3D //SINGLE COLUMN SECTION =3D=3D=3D=3D=3D --> <!-- =3D=
+=3D=3D=3D=3D SINGLE COLUMN SECTION =3D=3D=3D=3D=3D -->
+<tr>
+<td bgcolor=3D"#f7f7f9">
+<table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td>
+<table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td>
+<table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td class=3D"em_hide" width=3D"30">&nbsp;</td>
+<td class=3D"em_side_space">
+<table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td style=3D"line-height: 15px; font-size: 1px;" height=3D"1">&nbsp;</td>
+</tr>
+<tr>
+<td class=3D"ptext" style=3D"font-family: Arial, sans-serif,Open Sans; font=
+-size: 11px; text-align: center; color: #6c6c6c; line-height: 18px;">NB : t=
+his is a one time email only which means you will not be contacted again, a=
+nd you're not registered actually on a mailing list. We must anyway show yo=
+u an unsubscribe link legally here below :<br /> <a style=3D"color: #6c6c6c=
+; text-decoration: underline;" href=3D"mailto:unsubscribe@yoorshop.eu?subje=
+ct=3Dremove">Click here to unsubscribe</a></td>
+</tr>
+<tr>
+<td style=3D"line-height: 15px;" height=3D"15">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td class=3D"em_hide" width=3D"30">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<!-- =3D=3D=3D=3D=3D //SINGLE COLUMN SECTION =3D=3D=3D=3D=3D --></tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--Full width table End-->
+<div style=3D"display: none; white-space: nowrap; font: 20px courier; color=
+: #f7f7f9; background-color: #f7f7f9;">- - - - - - - - - - - - - - - - - - =
+- - - - -</div>
+

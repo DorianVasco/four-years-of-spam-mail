@@ -1,0 +1,236 @@
+Return-Path: <menkawebsaluction@hotmail.com>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id E2C36D590D
+	for <mail@dorianvasco.de>; Wed, 20 Dec 2017 07:40:51 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: 2.294
+X-Spam-Level: **
+X-Spam-Status: No, score=2.294 required=5.5 tests=[DKIM_SIGNED=0.1,
+	DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1, FORGED_HOTMAIL_RCVD2=1.187,
+	FREEMAIL_FROM=0.001, HTML_MESSAGE=0.001, MISSING_HEADERS=1.207,
+	RCVD_IN_DNSWL_NONE=-0.0001, SPF_HELO_PASS=-0.001, SPF_PASS=-0.001]
+	autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id lb47rqGiuAHA for <mail@dorianvasco.de>;
+	Wed, 20 Dec 2017 07:40:50 +0100 (CET)
+Received: from APC01-HK2-obe.outbound.protection.outlook.com (mail-oln040092255070.outbound.protection.outlook.com [40.92.255.70])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id 8CF80C1DB4
+	for <mail@dorianvasco.de>; Wed, 20 Dec 2017 07:40:49 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=hotmail.com;
+ s=selector1; h=From:Date:Subject:Message-ID:Content-Type:MIME-Version;
+ bh=R0drtsgYlQkF3kiPCWqCZ8t7cRsDM+1oJWL9IJSA+qA=;
+ b=OBYismN04SDDIMsXvzwmW5XYoZslqc9pIbPNBWd9WGSZpk0bDlL+YT/zZ/nkwD0DWC68pn08b9XH0Xv9oc7QMtFWI+//XPa8nsotzW32bPBI8qOJTnegYxneJQfEU9Hy1shiJPQjyuyVMvPHmd8akL02ZmYXf92v+6WlTNQOBFUvyLmrwZ3X36URlS7bjXzeeVZxHwpouj+UW7O8I6Y6UwmiLtpDV+EtFZZJZzC4x5+fgYTFxM46wK7XOeLRd2QC2NmGfi6S5wAldvPtaPWqURkGlOhb3gHXVPBiIC1GU/gZJeRKozyio7shu4po+27aGxrgNHJF/9Cl2URej+dkrg==
+Received: from HK2APC01FT025.eop-APC01.prod.protection.outlook.com
+ (10.152.248.52) by HK2APC01HT239.eop-APC01.prod.protection.outlook.com
+ (10.152.248.241) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id 15.20.302.6; Wed, 20
+ Dec 2017 06:40:12 +0000
+Received: from SG2PR02MB1183.apcprd02.prod.outlook.com (10.152.248.60) by
+ HK2APC01FT025.mail.protection.outlook.com (10.152.248.170) with Microsoft
+ SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256_P256) id 15.20.302.6 via
+ Frontend Transport; Wed, 20 Dec 2017 06:40:11 +0000
+Received: from SG2PR02MB1183.apcprd02.prod.outlook.com
+ ([fe80::e46c:ea6:fa86:3236]) by SG2PR02MB1183.apcprd02.prod.outlook.com
+ ([fe80::e46c:ea6:fa86:3236%13]) with mapi id 15.20.0323.018; Wed, 20 Dec 2017
+ 06:40:11 +0000
+From: Menka Malik <menkawebsaluction@hotmail.com>
+Subject: Proposal
+Thread-Topic: Proposal
+Thread-Index: AQHTeVz2CFMc1cU9hEi+Q8I5q2DFmQ==
+Date: Wed, 20 Dec 2017 06:40:11 +0000
+Message-ID: <SG2PR02MB1183379F03F1EEBDAF8E7138A70C0@SG2PR02MB1183.apcprd02.prod.outlook.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-incomingtopheadermarker: OriginalChecksum:2C6BCFFAE496F8719361ECB3703F2BC50956A66BFD8F9A3575189691AAD57FAA;UpperCasedChecksum:FB393052C809A9D0521CA3A7864A574F23807B25B5BCA9F075D89B61E39F04C7;SizeAsReceived:16820;Count:42
+x-tmn: [g35d7CqQu2bVpXgvjEUqzi8mopbrrh/87ZcG8NsNwYg=]
+x-ms-publictraffictype: Email
+x-microsoft-exchange-diagnostics: 1;HK2APC01HT239;6:PaW8tjC8NjTO9vl+op6a2o6bJ6nCjM/aidN3tTf5OeuwMqaqRIDU//9E4teFWDbnChkkMP9RgITLaTo6T8eGbd0j7xLRwrG+tkcSb0kXxO4WHFwuhOASu5g/NXQm9OvW+GLWqbs7OvVtyKx/RdJbweE2/C9IT6DZ+jbAamf91HKYiDORExULBjsbxk/GwK0bEs6YtgRo6Hw9GPY2nQUo4BU8G/OgW8Xg7CE81l5tyu58fZmwKb6IxD7uYnQa69BoyUSS88oCMUEwDCXYECLuNUtWk+Hb3IhaOdE1EdKx7p432yT/q2H+w0hbHbE23naXm5/rvfAFwQgX5/sg/CKbM5+r5GK5+L4I/fcnFe0HWyI=;5:m+yVwAq8rUtlG91ZhOFueGJ3MvLlZaT7rKB2Ao5JrNFbzQdnPma6SCC8FHU5dYFMvdnJYcApVSWw+I3o96kEZ86w9qp9IZGNnnH3mz+hYDxKlfuDqgD/GygzpAjFEEuQbIWGA4RgCFXFcgg2363NuKyS0Rv4S2VvSsQCyOY19Sc=;24:DBQOMcsS2aVvjbsdg/5jmEjv9vre9yKgio5q4YXkw3AX0EWcwhBXz5KbjcKZI7fI2DNBkTTBvrptN1rjTkBnNoQ6OgPHJ5OW8F3pi8BVb1E=;7:3Ev23wwVBe/LUwxcZYhwPE8VZOJovKduKPoTxorOPmA3T1/9hKLq0t4Nd/oPsZiaiF8HW+JsMM9EdhpTgbf0iSTHefVz1/kLmTOd9j0zH/YKghciIAoH/GF6V94bqV96B5avajeTgj1R3hlyBrZcU9ukXd1ux7uNtzEWI/yu9FjoY3UUFrdgTJpDQilPgrASooHtnOTKwPpOJ9AWTKfkONEaCwStCz8hIDAGNguZp/SQOYOII6JKoKW6XRlOPdZZ
+x-incomingheadercount: 42
+x-eopattributedmessage: 0
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(201702061074)(5061506573)(5061507331)(1603103135)(2017031320274)(2017031324274)(2017031323274)(201702181274)(2017031322404)(1601125374)(1603101448)(1701031045);SRVR:HK2APC01HT239;
+x-ms-exchange-slblob-mailprops: aVwBqh5jh9uMgZ8cUy5f2W5w73OqGLaUmnfIM/ZR1oC8CYokvsO5cLvrcZaJL6+EhFIsqKsWz/XiHnrcbiYUp2Mys7m9pvbKK/slh4FkPmzVkEblwccHwUK5CN505e2ytTuwzl93a0nLGzxgIRh4OZbN+OfqW1tkcRXIyX7KwOwt5HObRo2ge1LExYnYoddCAKQu9RLjwdp0sG2MxIKbdyoFXbcLBT91dcfb0YWlQnqLM02wiasrtkvAFYwHXuUFUCaftqwY27dz47aU9fl+DGUPWFzXUY6kU6yAQA9E0uRmx0MnPT6bIiJphI9Fo9BG3UrhW9JEELAhlp6JE76gGgn3n6FMTAF6Dv07oSARLr/hu+veyZiJxxXq6qzQ9c/T3+wm7Q/qpse0YuF+zFsghiklZXva8Puj8xXsRmagCCXhaUxvCwStePzr/8Q+Skdd6fiLrxkbr06Rhs+QudP4TmAmd41dNhDvzajZPpHvowEEeev9IJmP2uL206IpehEP6cdZEgojrWJsHPJlOARBetFeyNk261tYhLfM1Vft3/wcfnOe3ZnrF8N9Uv4bF/08ZJMArp2nSENWrU0e8m0QfA==
+x-ms-traffictypediagnostic: HK2APC01HT239:
+x-ms-office365-filtering-correlation-id: ef064176-051c-45f4-960d-08d54774850b
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(444000031);SRVR:HK2APC01HT239;BCL:0;PCL:0;RULEID:(100000803101)(100110400095);SRVR:HK2APC01HT239;
+x-forefront-prvs: 0527DFA348
+x-forefront-antispam-report: SFV:NSPM;SFS:(7070007)(98901004);DIR:OUT;SFP:1901;SCL:1;SRVR:HK2APC01HT239;H:SG2PR02MB1183.apcprd02.prod.outlook.com;FPR:;SPF:None;LANG:;
+spamdiagnosticoutput: 1:99
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/alternative;
+	boundary="_000_SG2PR02MB1183379F03F1EEBDAF8E7138A70C0SG2PR02MB1183apcp_"
+MIME-Version: 1.0
+X-OriginatorOrg: hotmail.com
+X-MS-Exchange-CrossTenant-Network-Message-Id: ef064176-051c-45f4-960d-08d54774850b
+X-MS-Exchange-CrossTenant-originalarrivaltime: 20 Dec 2017 06:40:11.5138
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Internet
+X-MS-Exchange-CrossTenant-id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: HK2APC01HT239
+
+--_000_SG2PR02MB1183379F03F1EEBDAF8E7138A70C0SG2PR02MB1183apcp_
+Content-Type: text/plain; charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+Hi,
+
+I am Menka SEO Consultant.
+
+I hope you are doing well and have time to read my proposal.
+
+Advertising in the online world is one of the most inexpensive and highly e=
+ffective methods of promoting a business.
+
+We are a Leading Indian Based SEO & Web Development Company and one of the =
+very few companies which offer organic SEO Services with a full range of su=
+pporting services such as one way
+
+Ethical SEO -> Better Traffic -> Higher Sales ->1st Page In Google.
+
+We are a team of 85+ professionals which includes 28 full time SEO experts.=
+ We are proud to inform you that our team handled 180+ SEO projects and obt=
+ained 100000+ manually built links in the past 1 year.
+
+Let me know if you are interested and I=92ll present you with a proposal th=
+at would not only improve sales of your company but also brand your product=
+s.
+
+
+Feel free to contact me in case of any enquiry.
+
+
+Kind Regards
+
+Menka
+Online SEO Consultant
+Noida(U.P) India
+
+
+
+--_000_SG2PR02MB1183379F03F1EEBDAF8E7138A70C0SG2PR02MB1183apcp_
+Content-Type: text/html; charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DWindows-1=
+252">
+<style type=3D"text/css" style=3D"display:none;"><!-- P {margin-top:0;margi=
+n-bottom:0;} --></style>
+</head>
+<body dir=3D"ltr">
+<div id=3D"divtagdefaultwrapper" style=3D"font-size:12pt;color:#000000;font=
+-family:Calibri,Helvetica,sans-serif;" dir=3D"ltr">
+<p style=3D"margin-top:0;margin-bottom:0"></p>
+<div id=3D"divtagdefaultwrapper" style=3D"font-size: 12pt; color: rgb(0, 0,=
+ 0); font-family: Calibri, Helvetica, sans-serif, EmojiFont, &quot;Apple Co=
+lor Emoji&quot;, &quot;Segoe UI Emoji&quot;, NotoColorEmoji, &quot;Segoe UI=
+ Symbol&quot;, &quot;Android Emoji&quot;, EmojiSymbols;" dir=3D"ltr">
+<p style=3D"margin-top:0;margin-bottom:0"></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Ve=
+rdana&quot;,&quot;sans-serif&quot;;=0A=
+color:#0000CC">Hi,</span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Ve=
+rdana&quot;,&quot;sans-serif&quot;;=0A=
+color:#0000CC">&nbsp;</span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Ve=
+rdana&quot;,&quot;sans-serif&quot;;=0A=
+color:#0000CC">I am&nbsp;<span style=3D"color: rgb(0, 0, 204); font-family:=
+ Verdana, sans-serif; font-size: 13.3333px;">Menka</span>&nbsp;SEO Consulta=
+nt.</span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Ve=
+rdana&quot;,&quot;sans-serif&quot;;=0A=
+color:#0000CC">&nbsp;</span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Ve=
+rdana&quot;,&quot;sans-serif&quot;;=0A=
+color:#0000CC">I hope you are doing well and have time to read my proposal.=
+</span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Ve=
+rdana&quot;,&quot;sans-serif&quot;;=0A=
+color:#0000CC">&nbsp;</span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Ve=
+rdana&quot;,&quot;sans-serif&quot;;=0A=
+color:#0000CC">Advertising in the online world is one of the most inexpensi=
+ve and highly effective methods of promoting a business.</span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Ve=
+rdana&quot;,&quot;sans-serif&quot;;=0A=
+color:#0000CC">&nbsp;</span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Ve=
+rdana&quot;,&quot;sans-serif&quot;;=0A=
+color:#0000CC">We are a Leading Indian Based SEO &amp; Web Development Comp=
+any and one of the very few companies which offer organic SEO Services with=
+ a full range of supporting
+ services such as one way</span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Ve=
+rdana&quot;,&quot;sans-serif&quot;;=0A=
+color:#0000CC">&nbsp;</span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Ve=
+rdana&quot;,&quot;sans-serif&quot;;=0A=
+color:#0000CC">Ethical SEO -&gt; Better Traffic -&gt; Higher Sales -&gt;1st=
+ Page In Google.</span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Ve=
+rdana&quot;,&quot;sans-serif&quot;;=0A=
+color:#0000CC">&nbsp;</span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Ve=
+rdana&quot;,&quot;sans-serif&quot;;=0A=
+color:#0000CC">We are a team of 85&#43; professionals which includes 28 ful=
+l time SEO experts. We are proud to inform you that our team handled 180&#4=
+3; SEO projects and obtained
+ 100000&#43; manually built links in the past 1 year.</span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Ve=
+rdana&quot;,&quot;sans-serif&quot;;=0A=
+color:#0000CC">&nbsp;</span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Ve=
+rdana&quot;,&quot;sans-serif&quot;;=0A=
+color:#0000CC">Let me know if you are interested and I=92ll present you wit=
+h a proposal that would not only improve sales of your company but also bra=
+nd your products.</span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Ve=
+rdana&quot;,&quot;sans-serif&quot;;=0A=
+color:#0000CC">&nbsp;</span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Ve=
+rdana&quot;,&quot;sans-serif&quot;;=0A=
+color:#0000CC">&nbsp;</span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Ve=
+rdana&quot;,&quot;sans-serif&quot;;=0A=
+color:#0000CC">Feel free to contact me in case of any enquiry.</span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Ve=
+rdana&quot;,&quot;sans-serif&quot;;=0A=
+color:#0000CC">&nbsp;</span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Ve=
+rdana&quot;,&quot;sans-serif&quot;;=0A=
+color:#0000CC">&nbsp;</span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Ve=
+rdana&quot;,&quot;sans-serif&quot;;=0A=
+color:#0000CC">Kind Regards</span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Ve=
+rdana&quot;,&quot;sans-serif&quot;;=0A=
+color:#0000CC">&nbsp;</span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Ve=
+rdana&quot;,&quot;sans-serif&quot;;=0A=
+color:#0000CC">Menka</span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Ve=
+rdana&quot;,&quot;sans-serif&quot;;=0A=
+color:#0000CC">Online SEO Consultant</span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Ve=
+rdana&quot;,&quot;sans-serif&quot;;=0A=
+color:#0000CC">Noida(U.P) India</span></p>
+<p class=3D"MsoNormal"><span style=3D"font-size:10.0pt;font-family:&quot;Ve=
+rdana&quot;,&quot;sans-serif&quot;;=0A=
+color:#0000CC">&nbsp;</span></p>
+<br>
+<p></p>
+</div>
+<p></p>
+</div>
+</body>
+</html>
+
+--_000_SG2PR02MB1183379F03F1EEBDAF8E7138A70C0SG2PR02MB1183apcp_--

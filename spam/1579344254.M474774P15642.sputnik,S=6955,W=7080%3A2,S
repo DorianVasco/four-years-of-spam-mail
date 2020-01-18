@@ -1,0 +1,125 @@
+Return-Path: <dummy@livingston.de>
+Delivered-To: mail@elementk.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 58775C15D4
+	for <mail@elementk.de>; Tue, 10 Apr 2018 02:28:42 +0200 (CEST)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: 3.96
+X-Spam-Level: ***
+X-Spam-Status: No, score=3.96 required=5.5 tests=[FREEMAIL_REPLYTO=1,
+	HTML_MESSAGE=0.001, LOTS_OF_MONEY=0.001, PYZOR_CHECK=1.985,
+	RCVD_IN_DNSWL_NONE=-0.0001, SPF_SOFTFAIL=0.972, URIBL_BLOCKED=0.001]
+	autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id rrDYg2CaQUqw for <mail@elementk.de>;
+	Tue, 10 Apr 2018 02:28:41 +0200 (CEST)
+Received: from mail1.bemta6.messagelabs.com (mail1.bemta6.messagelabs.com [193.109.254.106])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 351C0C053A
+	for <mail@elementk.de>; Tue, 10 Apr 2018 02:28:41 +0200 (CEST)
+Received: from [194.106.220.51] (using TLSv1.2 with cipher DHE-RSA-AES256-GCM-SHA384 (256 bits))
+	by server-2.bemta-6.messagelabs.com id 7D/D0-31746-B260CCA5; Tue, 10 Apr 2018 00:32:43 +0000
+X-Brightmail-Tracker: H4sIAAAAAAAAA+NgFupjk+JIrShJLcpLzFFi42K5urnNUVeL7Uy
+  UwaYP6hanV75jtljZdIbRYlF7K6PF64+r2S1uPj/AZLF13VRmiysXt7NY7P6+iMni3LQFzBaL
+  +u6xWRy/MZ/RYvu6u6wWy2fYWsz6pWFx/NUyNosFOz8xW+x8eYPN4sUTM4tnzY9ZLebNOczqI
+  OLRMj/Qo6PnIJvHk65ZjB53F99k9Fi89ie7R8urSWweH782s3qs7ljI7vF97RFWjz9/H7J7rL
+  97jsXjx5Qd7B7vnn9i9LjQuYnd442fx6bdh1kCRKJYM/OS8isSWDPa9rQyFuyTrvjx6D57A+M
+  x8S5GLg4hgYWMEkd+zGHvYuTkYBbwltjU95MNxOYVEJQ4OfMJC4gtLGArsfnOJyYQW0RARWLz
+  tzVgNhuQ/eX0a0YQm0VAVWL52ffMILaQgKzE+8bjTBBz7CUavvYxTWDknIVkxSwkKyDiehI3p
+  k7BIq4tsWzha+ZZjBxAtprE164SiLCuxIx/h1iIUL6AkWsVo0ZxalFZapGukYVeUlFmekZJbm
+  Jmjq6hgZlebmpxcWJ6ak5iUrFecn7uJkZgjDMAwQ7G82sDDzFKcjApifJu6zkdJcSXlJ9SmZF
+  YnBFfVJqTWnyIUYODQ6Blzq1HjFIsefl5qUoSvH9ZzkQJCRalpqdWpGXmAJMQTKkEB4+SCK8t
+  K1Cat7ggMbc4Mx0idYrRm+NMW08PM8cdMPkBTJ57PwVIHvgAIjf8BZJCYBukxHlZQUYIgIzIK
+  M2DWwBLppcYZaWEeRmBzhfiKUgtys0sQZV/xSjOwagkzMsDMoUnM68E7o5XQCcyAZ34KeEEyI
+  kliQgpqQbGFUpJl1KevrlktfW24OvFv3YmvgnUOdrQ4nh7j1CZltukmQuC6xgS29d/PRj1zft
+  L0/dKDynbGo1LCz5I7F80Z29JvIF3XFDjk69hK2/t2bKu8xPDxpWOd//Z3l1y9JHcrrzJ2dLa
+  rE/9VPssV/6bvNf1zb8nD9u9PgltN/pV/Lk4qnjL4shF/5RYijMSDbWYi4oTAbDsgkehAwAA
+X-Env-Sender: dummy@livingston.de
+X-Msg-Ref: server-7.tower-92.messagelabs.com!1523320362!95463973!1
+X-Originating-IP: [213.179.134.65]
+X-SYMC-ESS-Client-Auth: outbound-route-from=fail
+X-StarScan-Received:
+X-StarScan-Version: 9.9.15; banners=-,-,-
+X-VirusChecked: Checked
+Received: (qmail 6055 invoked from network); 10 Apr 2018 00:32:42 -0000
+Received: from host-213-179-134-65.customer.m-online.net (HELO susemail.livingston.de) (213.179.134.65)
+  by server-7.tower-92.messagelabs.com with SMTP; 10 Apr 2018 00:32:42 -0000
+Received: from [192.168.0.101] (unknown [185.13.106.221])
+	by susemail.livingston.de (Postfix) with ESMTP id 0716BBB8F7F;
+	Tue, 10 Apr 2018 02:32:41 +0200 (CEST)
+Content-Type: multipart/alternative; boundary="===============1762158632=="
+MIME-Version: 1.0
+Subject: Schonen Sie bitte Ihre Zeit in dieser Angelegenheit 
+To: Recipients <dummy@livingston.de>
+From: "Miller" <dummy@livingston.de>
+Date: Tue, 10 Apr 2018 02:30:28 +0200
+Reply-To: mjmillar@uymail.com
+Message-Id: <20180410003241.0716BBB8F7F@susemail.livingston.de>
+
+You will not see this in a MIME-aware mail reader.
+--===============1762158632==
+Content-Type: text/plain; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+Ich bin John Miller, der zurzeit bei der US Army arbeitet Als amerikanische=
+r Major wurde ich wegen des Krieges / Terrorismus nach Afghanistan delegier=
+t. Ich bin seit einiger Zeit in Afghanistan. Ich habe mich entschieden, Sie=
+ wegen meines pers=F6nlichen Interesses zu kontaktieren, von dem Sie auch p=
+rofitieren werden. Ich entscheide mich, meinem Lebensverm=F6gen in deine Ha=
+nd zu vertrauen. Im Moment bin ich in einer Position von 12 Millionen Verei=
+nigten Staaten Dollar. W=E4hrend einer unserer Operationen in Afghanistan h=
+aben ich und mein Team einige verlassene Sch=E4tze entdeckt. (Rohgold, Stei=
+ne usw.) Tats=E4chlich teilten ich und meine Kameraden diese Kartons durch =
+Abstimmung. Als ich nach Hause kam und meine eigene Schachtel =F6ffnete, en=
+tdeckte ich, dass sie Bargeld von 12 Millionen US-Dollar enthielt. Seitdem =
+habe ich diese Kiste in einer Sicherheitsfirma deponiert. Obwohl die Sicher=
+heitsfirma den wirklichen Inhalt meiner Box sowieso nicht kennt, bin ich de=
+nnoch besorgt, diese Box wegen meiner st=E4ndigen Tr=E4ume usw. neu zu posi=
+tionieren. Ich f=FChlte mich jedes Mal, wenn ich mich an deinen Namen erinn=
+erte, bequemer und entspannter. Ich habe mich jedoch entschieden, das Risik=
+o einzugehen, dieses Geld bei Ihnen zu behalten, bis ich aus meiner milit=
+=E4rischen Arbeit ausgeschieden bin. Wir werden bald =FCber Bedingungen spr=
+echen, da ich Ihre Antwort habe. Bitte antworten Sie auf jn.millar@usa.com =
+Ich bleibe John Miller
+--===============1762158632==
+Content-Type: text/html; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3Diso-8859-1"/></head>Ich bin John Miller, der zurzeit bei der US Army arb=
+eitet
+Als amerikanischer Major wurde ich wegen des Krieges / Terrorismus nach Afg=
+hanistan delegiert. Ich bin seit einiger Zeit in Afghanistan.
+
+Ich habe mich entschieden, Sie wegen meines pers=F6nlichen Interesses zu ko=
+ntaktieren, von dem Sie auch profitieren werden. Ich entscheide mich, meine=
+m Lebensverm=F6gen in deine Hand zu vertrauen. Im Moment bin ich in einer P=
+osition von 12 Millionen Vereinigten Staaten Dollar.
+
+W=E4hrend einer unserer Operationen in Afghanistan haben ich und mein Team =
+einige verlassene Sch=E4tze entdeckt. (Rohgold, Steine usw.) Tats=E4chlich =
+teilten ich und meine Kameraden diese Kartons durch Abstimmung. Als ich nac=
+h Hause kam und meine eigene Schachtel =F6ffnete, entdeckte ich, dass sie B=
+argeld von 12 Millionen US-Dollar enthielt.
+
+Seitdem habe ich diese Kiste in einer Sicherheitsfirma deponiert. Obwohl di=
+e Sicherheitsfirma den wirklichen Inhalt meiner Box sowieso nicht kennt, bi=
+n ich dennoch besorgt, diese Box wegen meiner st=E4ndigen Tr=E4ume usw. neu=
+ zu positionieren.
+Ich f=FChlte mich jedes Mal, wenn ich mich an deinen Namen erinnerte, beque=
+mer und entspannter. Ich habe mich jedoch entschieden, das Risiko einzugehe=
+n, dieses Geld bei Ihnen zu behalten, bis ich aus meiner milit=E4rischen Ar=
+beit ausgeschieden bin.
+
+Wir werden bald =FCber Bedingungen sprechen, da ich Ihre Antwort habe. Bitt=
+e antworten Sie auf jn.millar@usa.com
+ =
+
+Ich bleibe John Miller</html>
+--===============1762158632==--
+

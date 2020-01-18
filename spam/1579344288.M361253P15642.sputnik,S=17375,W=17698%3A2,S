@@ -1,0 +1,323 @@
+Return-Path: <taipeidesignaward@gmail.com>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 5C3C0C2BD7
+	for <mail@dorianvasco.de>; Thu,  5 Jul 2018 08:36:16 +0200 (CEST)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: -0.098
+X-Spam-Level:
+X-Spam-Status: No, score=-0.098 required=5.5 tests=[DKIM_SIGNED=0.1,
+	DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1, FREEMAIL_FROM=0.001,
+	HTML_MESSAGE=0.001, SPF_PASS=-0.001, URIBL_BLOCKED=0.001]
+	autolearn=unavailable
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id iiMwEiOR3rtd for <mail@dorianvasco.de>;
+	Thu,  5 Jul 2018 08:36:11 +0200 (CEST)
+Received: from mail-oi0-f68.google.com (mail-oi0-f68.google.com [209.85.218.68])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id DE5A5C1313
+	for <mail@dorianvasco.de>; Thu,  5 Jul 2018 08:36:09 +0200 (CEST)
+Received: by mail-oi0-f68.google.com with SMTP id y207-v6so14759621oie.13
+        for <mail@dorianvasco.de>; Wed, 04 Jul 2018 23:44:32 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=GeQuJKDknX8xpjDCqi6S0oPqq0b+jqdNY4s2DCeVEs0=;
+        b=VAbIy8Bpvv/YT+na5r7o0kIiAo7iG4hrrP3n8OG4oAoqFI1c+jkpu8ZqQRYwZsyWYK
+         e9Oj1zCjSJz1yEta8t1NuDms7lYPoMwMin4N4KzQRxyBYqUxXpcb+XUoRJQ9uUpDCq34
+         ABU+qi3qgtGd0Xn8qbhoPkZX9G6YDPhFpP253X1UHutxzmXTYlSFNatz5jmi9IdnGZjy
+         Au2VQfx651Qa5pIxVmSSq4JMfU3vjL0zbJaKA8Zox1KohINVnKlVyoheDPd5m1r4wr5j
+         bQUT7LWwzfc06M3s5IdcX6/Pk4Y71VbPMva8EHLlOVYK1Kpy38hepH92tSrugtdE0zkh
+         wwNQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=GeQuJKDknX8xpjDCqi6S0oPqq0b+jqdNY4s2DCeVEs0=;
+        b=taaUaM2ZhWSD3m4OtWfpzcqLU4usfTXkEdinCnEMm/AmdmNk/GknIiSXosgVNf3FNJ
+         XzezV8EsuBr4B7mw7fG2M9C3CqwR7W0r4rMCsfGSDfffUSwnWhCt6z8sdfyApYUCImLl
+         J4WVfwUkhPdP4Q9bqcc7jKjwWSqzdiZF1ybzONCkQr602Xd93rbsOE0qNGhWbZxQNdgF
+         apLedhr81i9Oh8BSfkxMhZM0fxCpRDZzvRUrpedFzQ+K6erK+7F1Urr6tUQ1Olr17ddC
+         8q0LnAosLwKbsBJM2NRGjrFh+Wvx+omdM4Y9NjpD9c6YJvdRPkUEJamttZngJSzDeBmk
+         9hng==
+X-Gm-Message-State: APt69E2agE+7hrrwih96cbaRYktIbk2RV7epyZ1DF49xmPObCfTMtwKk
+	jSlI3ryS7w4EkiIjR/immLms4Ye5h5wioypH1jlwbg==
+X-Google-Smtp-Source: AAOMgpeQtyX/rX6OEo+igaN2E+UbX3Xg86lYiuLpe7E1x77ya5+S36HAHru9FfbTncmJXGNucOC6WP4D9Gjo9glFCu4=
+X-Received: by 2002:aca:acc8:: with SMTP id v191-v6mr4910737oie.354.1530773071458;
+ Wed, 04 Jul 2018 23:44:31 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 2002:ac9:3d04:0:0:0:0:0 with HTTP; Wed, 4 Jul 2018 23:43:51 -0700 (PDT)
+From: TIDA <taipeidesignaward@gmail.com>
+Date: Thu, 5 Jul 2018 14:43:51 +0800
+Message-ID: <CAEJ3yFGkGk9=cUg9n6LCY9Bz4XJqhuVhJFbyK7EnN-Twkesu2Q@mail.gmail.com>
+Subject: 2018 Taipei International Design Award invitation
+To: mail@dorianvasco.de
+Content-Type: multipart/alternative; boundary="00000000000027f4f505703ae1be"
+
+--00000000000027f4f505703ae1be
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello designer,
+
+It's TIDA, we are holding an award competition in designing, with three
+categories:
+
+Visual Communication design, public space design, industrial design.
+
+With no quantities limitation , a group maximum for 5 people
+
+Sincerely invite all of you to participate.
+
+Also you are welcome to share this information to anyone, anywhere.
+
+Note: If you are not interested, please email with the subject line "No"
+and I will be happy to update my data base.
+
+
+[image: 2018TIDA]
+
+
+
+*2018 TIDA *
+
+*website <http://www.taipeidaward.taipei/en/index2.aspx>*
+
+*facebook <https://www.facebook.com/TIDA.org.tw>*
+
+
+*2018 Taipei International Design workgroup*
+
+*Debby Chen*
+
+
+Creative Services Promotion Department,
+
+Creativity and Innovation Business Division
+
+China Productivity Center <http://www.cpc.org.tw/en-us>
+
+2F, No.79, Xintai 5th Rd.,Sec.1, Xizhi Dist., New Taipei City 22101, Taiwan
+
+TEL=EF=BC=9A+886-2-2698-2989 ext. 2999
+
+FAX=EF=BC=9A+886-2-2698-9335
+
+Email: 2999@cpc.org.tw
+
+Website: www.cpc.org.tw
+
+--00000000000027f4f505703ae1be
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div class=3D"gmail_quote"><div dir=3D"ltr"><div class=3D"=
+gmail_quote"><div dir=3D"ltr"><div class=3D"gmail_quote"><div dir=3D"ltr"><=
+div class=3D"gmail_quote"><div dir=3D"ltr"><div class=3D"gmail_quote"><div =
+dir=3D"ltr"><div class=3D"gmail_quote"><div dir=3D"ltr"><div class=3D"gmail=
+_quote"><div dir=3D"ltr"><div class=3D"gmail_quote"><br><div dir=3D"ltr"><d=
+iv class=3D"gmail_quote"><div dir=3D"ltr"><div class=3D"gmail_quote"><div d=
+ir=3D"ltr"><div><span style=3D"font-weight:bold">Hello designer,</span><br>=
+</div><div class=3D"gmail_quote"><div dir=3D"ltr"><div class=3D"gmail_quote=
+"><div dir=3D"ltr"><div class=3D"gmail_quote"><div dir=3D"ltr"><div><div cl=
+ass=3D"m_-1004266313595864728m_-8468230331576111368m_-5527205003492769800m_=
+-7023048392945604368m_3567471797062100268m_-7748370384662078877m_-232224270=
+0199145799m_4623268115892414228m_1687740704029380959m_6616924416221073334m_=
+3861489175036840185m_-6623345819959408167m_-5670481637723697168gmail_signat=
+ure" data-smartmail=3D"gmail_signature"><div dir=3D"ltr"><div dir=3D"ltr"><=
+div dir=3D"ltr"><div dir=3D"ltr"><font size=3D"2"><p style=3D"color:rgb(68,=
+68,68);font-family:&quot;microsoft jhenghei&quot;,sans-serif;font-weight:bo=
+ld">It&#39;s TIDA, we are holding an award competition in designing, with t=
+hree categories:</p><p style=3D"color:rgb(68,68,68);font-family:&quot;micro=
+soft jhenghei&quot;,sans-serif;font-weight:bold">Visual Communication desig=
+n, public space design, industrial design.</p><p style=3D"color:rgb(68,68,6=
+8);font-family:&quot;microsoft jhenghei&quot;,sans-serif;font-weight:bold">=
+With no quantities limitation , a group maximum for 5 people</p><p style=3D=
+"color:rgb(68,68,68);font-family:&quot;microsoft jhenghei&quot;,sans-serif;=
+font-weight:bold">Sincerely invite all of you to participate.</p><p style=
+=3D"color:rgb(68,68,68);font-family:&quot;microsoft jhenghei&quot;,sans-ser=
+if;font-weight:bold">Also you are welcome to share this information to anyo=
+ne, anywhere.</p><p style=3D"color:rgb(68,68,68);font-family:&quot;microsof=
+t jhenghei&quot;,sans-serif">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span lang=3D"EN-US" style=3D"font-family:Arial,sans-serif">Note: If you ar=
+e not interested, please email with the subject line
+&quot;No&quot; and I will be happy to update my data base.</span>
+
+
+
+<br></p><p style=3D"color:rgb(68,68,68);font-family:&quot;microsoft jhenghe=
+i&quot;,sans-serif;font-weight:bold"><br></p></font></div></div></div></div=
+></div></div><div class=3D"gmail_quote"><div lang=3D"ZH-TW" vlink=3D"purple=
+" link=3D"blue"><div class=3D"m_-1004266313595864728m_-8468230331576111368m=
+_-5527205003492769800m_-7023048392945604368m_3567471797062100268m_-77483703=
+84662078877m_-2322242700199145799m_4623268115892414228m_1687740704029380959=
+m_6616924416221073334m_3861489175036840185m_-6623345819959408167m_-56704816=
+37723697168m_665107739885835998WordSection1"><div>
+</div>
+<div>
+<p align=3D"center" class=3D"MsoNormal" style=3D"text-align:center"><span l=
+ang=3D"EN-US"><map name=3D"m_-1004266313595864728_m_-8468230331576111368_m_=
+-5527205003492769800_m_-7023048392945604368_m_3567471797062100268_m_-774837=
+0384662078877_m_-2322242700199145799_m_4623268115892414228_m_16877407040293=
+80959_m_6616924416221073334_m_3861489175036840185_m_-6623345819959408167_m_=
+-5670481637723697168_m_665107739885835998_MicrosoftOfficeMap0"><area href=
+=3D"http://www.taipeidaward.taipei/en/" shape=3D"Rect" coords=3D"115, 951, =
+254, 1007" target=3D"_blank"><area href=3D"http://www.taipeidaward.taipei/e=
+n/mem_login.aspx" shape=3D"Rect" coords=3D"266, 953, 407, 1006" target=3D"_=
+blank"><area href=3D"https://www.facebook.com/TIDA.org.tw/" shape=3D"Rect" =
+coords=3D"419, 952, 563, 1009" target=3D"_blank"><area href=3D"http://www.t=
+aipeidaward.taipei/en/download.aspx" shape=3D"Rect" coords=3D"570, 952, 713=
+, 1009" target=3D"_blank"></map><img width=3D"825" id=3D"m_-100426631359586=
+4728m_-8468230331576111368m_-5527205003492769800m_-7023048392945604368m_356=
+7471797062100268m_-7748370384662078877m_-2322242700199145799m_4623268115892=
+414228m_1687740704029380959m_6616924416221073334m_3861489175036840185m_-662=
+3345819959408167m_-5670481637723697168m_665107739885835998_x0000_i1025" alt=
+=3D"2018TIDA" src=3D"http://mymkc.com/pubfiles/images/2J170/TIDA/2018/2018t=
+ida_edm-en.jpg" border=3D"0" usemap=3D"#m_-1004266313595864728_m_-846823033=
+1576111368_m_-5527205003492769800_m_-7023048392945604368_m_3567471797062100=
+268_m_-7748370384662078877_m_-2322242700199145799_m_4623268115892414228_m_1=
+687740704029380959_m_6616924416221073334_m_3861489175036840185_m_-662334581=
+9959408167_m_-5670481637723697168_m_665107739885835998_MicrosoftOfficeMap0"=
+><u></u><u></u></span></p>
+</div>
+</div>
+</div>
+
+</div><br><div><br></div><div>
+
+<div style=3D"color:rgb(34,34,34);text-transform:none;text-indent:0px;lette=
+r-spacing:normal;font-family:arial,sans-serif;font-size:small;font-style:no=
+rmal;font-weight:400;word-spacing:0px;white-space:normal;text-decoration-st=
+yle:initial;text-decoration-color:initial;font-variant-ligatures:normal;fon=
+t-variant-caps:normal"><div class=3D"m_-1004266313595864728m_-8468230331576=
+111368m_-5527205003492769800m_-7023048392945604368m_3567471797062100268m_-7=
+748370384662078877m_-2322242700199145799m_4623268115892414228m_168774070402=
+9380959m_6616924416221073334m_3861489175036840185m_-6623345819959408167m_-5=
+670481637723697168gmail_signature"><div dir=3D"ltr"><div><div dir=3D"ltr"><=
+div><div dir=3D"ltr"><div><div dir=3D"ltr"><div><font size=3D"2"><div><p st=
+yle=3D"color:rgb(68,68,68);font-family:&quot;microsoft jhenghei&quot;,sans-=
+serif;font-weight:bold"><b><span lang=3D"EN-US"><br class=3D"m_-10042663135=
+95864728m_-8468230331576111368m_-5527205003492769800m_-7023048392945604368m=
+_3567471797062100268m_-7748370384662078877m_-2322242700199145799m_462326811=
+5892414228m_1687740704029380959m_6616924416221073334m_3861489175036840185m_=
+-6623345819959408167m_-5670481637723697168gmail-Apple-interchange-newline">=
+2018 TIDA=C2=A0</span></b></p><p style=3D"color:rgb(68,68,68);font-family:&=
+quot;microsoft jhenghei&quot;,sans-serif;font-weight:bold"><b><span lang=3D=
+"EN-US"><a style=3D"color:rgb(17,85,204)" href=3D"http://www.taipeidaward.t=
+aipei/en/index2.aspx" target=3D"_blank">website</a></span></b></p><p style=
+=3D"color:rgb(68,68,68);font-family:&quot;microsoft jhenghei&quot;,sans-ser=
+if;font-weight:bold"><b><span lang=3D"EN-US"><a style=3D"color:rgb(17,85,20=
+4)" href=3D"https://www.facebook.com/TIDA.org.tw" target=3D"_blank">faceboo=
+k</a></span></b></p><p style=3D"color:rgb(68,68,68);font-family:&quot;micro=
+soft jhenghei&quot;,sans-serif;font-weight:bold"><a name=3D"m_-100426631359=
+5864728_m_-8468230331576111368_m_-5527205003492769800_m_-702304839294560436=
+8_m_3567471797062100268_m_-7748370384662078877_m_-2322242700199145799_m_462=
+3268115892414228_m_1687740704029380959_m_6616924416221073334_m_386148917503=
+6840185_m_-6623345819959408167_m_-5670481637723697168_UNIQUE_ID_SafeHtmlFil=
+ter__MailAutoSig" style=3D"color:rgb(34,34,34)"><b><span lang=3D"EN-US"><br=
+></span></b></a></p><p><a name=3D"m_-1004266313595864728_m_-846823033157611=
+1368_m_-5527205003492769800_m_-7023048392945604368_m_3567471797062100268_m_=
+-7748370384662078877_m_-2322242700199145799_m_4623268115892414228_m_1687740=
+704029380959_m_6616924416221073334_m_3861489175036840185_m_-662334581995940=
+8167_m_-5670481637723697168_UNIQUE_ID_SafeHtmlFilter__MailAutoSig" style=3D=
+"color:rgb(34,34,34)"><span lang=3D"EN-US"><font color=3D"#444444" face=3D"=
+microsoft jhenghei, sans-serif"><b>2018 Taipei International Design workgro=
+up</b></font><br></span></a></p><p style=3D"color:rgb(68,68,68);font-family=
+:&quot;microsoft jhenghei&quot;,sans-serif;font-weight:bold"><a name=3D"m_-=
+1004266313595864728_m_-8468230331576111368_m_-5527205003492769800_m_-702304=
+8392945604368_m_3567471797062100268_m_-7748370384662078877_m_-2322242700199=
+145799_m_4623268115892414228_m_1687740704029380959_m_6616924416221073334_m_=
+3861489175036840185_m_-6623345819959408167_m_-5670481637723697168_UNIQUE_ID=
+_SafeHtmlFilter__MailAutoSig" style=3D"color:rgb(34,34,34)"><b><span lang=
+=3D"EN-US">Debby Chen<span style=3D"color:rgb(31,73,125)"></span></span></b=
+></a></p><p style=3D"color:rgb(68,68,68);font-family:&quot;microsoft jhengh=
+ei&quot;,sans-serif;font-weight:bold"><a name=3D"m_-1004266313595864728_m_-=
+8468230331576111368_m_-5527205003492769800_m_-7023048392945604368_m_3567471=
+797062100268_m_-7748370384662078877_m_-2322242700199145799_m_46232681158924=
+14228_m_1687740704029380959_m_6616924416221073334_m_3861489175036840185_m_-=
+6623345819959408167_m_-5670481637723697168_UNIQUE_ID_SafeHtmlFilter__MailAu=
+toSig" style=3D"color:rgb(34,34,34)"><b><span lang=3D"EN-US"><br></span></b=
+></a></p><p style=3D"color:rgb(68,68,68);font-family:&quot;microsoft jhengh=
+ei&quot;,sans-serif;font-weight:bold"><span lang=3D"EN-US" style=3D"font-si=
+ze:10pt">Creative Services Promotion Department,</span></p><p style=3D"colo=
+r:rgb(68,68,68);font-family:&quot;microsoft jhenghei&quot;,sans-serif;font-=
+weight:bold"><span lang=3D"EN-US" style=3D"font-size:10pt">Creativity and I=
+nnovation Business Division</span></p><p style=3D"color:rgb(68,68,68);font-=
+family:&quot;microsoft jhenghei&quot;,sans-serif;font-weight:bold"><a style=
+=3D"color:rgb(17,85,204)" href=3D"http://www.cpc.org.tw/en-us" target=3D"_b=
+lank"><span lang=3D"EN-US" style=3D"color:blue;font-size:10pt">China Produc=
+tivity Center</span></a><span lang=3D"EN-US" style=3D"font-size:10pt"></spa=
+n></p><p style=3D"color:rgb(68,68,68);font-family:&quot;microsoft jhenghei&=
+quot;,sans-serif;font-weight:bold"><span lang=3D"EN-US" style=3D"font-size:=
+10pt">2F, No.79, Xintai 5th Rd.,Sec.1, Xizhi Dist., New Taipei City 22101, =
+Taiwan</span></p><p style=3D"color:rgb(68,68,68);font-family:&quot;microsof=
+t jhenghei&quot;,sans-serif;font-weight:bold"><span lang=3D"EN-US" style=3D=
+"font-size:10pt">TEL</span><span style=3D"font-family:=E6=96=B0=E7=B4=B0=E6=
+=98=8E=E9=AB=94,serif;font-size:10pt">=EF=BC=9A</span><span lang=3D"EN-US" =
+style=3D"font-size:10pt">+886-2-2698-2989 ext. 2999</span></p><p style=3D"c=
+olor:rgb(68,68,68);font-family:&quot;microsoft jhenghei&quot;,sans-serif;fo=
+nt-weight:bold"><span lang=3D"EN-US" style=3D"font-size:10pt">FAX</span><sp=
+an style=3D"font-family:=E6=96=B0=E7=B4=B0=E6=98=8E=E9=AB=94,serif;font-siz=
+e:10pt">=EF=BC=9A</span><span lang=3D"EN-US" style=3D"font-size:10pt">+886-=
+2-2698-9335=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0<wbr=
+>=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0</span></p><p style=3D"color:rgb(68,68,68);font-family:&quot;mi=
+crosoft jhenghei&quot;,sans-serif;font-weight:bold"><span lang=3D"EN-US" st=
+yle=3D"font-size:10pt">Email:<span>=C2=A0</span></span><a style=3D"color:rg=
+b(17,85,204)" href=3D"mailto:2999@cpc.org.tw" target=3D"_blank"><span lang=
+=3D"EN-US" style=3D"color:blue;font-size:10pt">2999@cpc.org.tw</span></a><s=
+pan lang=3D"EN-US" style=3D"font-size:10pt"></span></p><p style=3D"color:rg=
+b(68,68,68);font-family:&quot;microsoft jhenghei&quot;,sans-serif;font-weig=
+ht:bold"><span lang=3D"EN-US" style=3D"font-size:10pt">Website:<span>=C2=A0=
+</span></span><a style=3D"color:rgb(17,85,204)" href=3D"http://www.cpc.org.=
+tw/" target=3D"_blank"><span lang=3D"EN-US" style=3D"color:blue;font-size:1=
+0pt">www.cpc.org.tw</span></a><span lang=3D"EN-US" style=3D"font-size:10pt"=
+></span></p></div></font></div></div></div></div></div></div></div></div></=
+div></div><div class=3D"gmail_quote" style=3D"color:rgb(34,34,34);text-tran=
+sform:none;text-indent:0px;letter-spacing:normal;font-family:arial,sans-ser=
+if;font-size:small;font-style:normal;font-weight:400;word-spacing:0px;white=
+-space:normal;text-decoration-style:initial;text-decoration-color:initial;f=
+ont-variant-ligatures:normal;font-variant-caps:normal"><div lang=3D"ZH-TW">=
+<div class=3D"m_-1004266313595864728m_-8468230331576111368m_-55272050034927=
+69800m_-7023048392945604368m_3567471797062100268m_-7748370384662078877m_-23=
+22242700199145799m_4623268115892414228m_1687740704029380959m_66169244162210=
+73334m_3861489175036840185m_-6623345819959408167m_-5670481637723697168gmail=
+-m_665107739885835998WordSection1"><p class=3D"MsoNormal" style=3D"margin:0=
+px"><br></p><div><p class=3D"MsoNormal" style=3D"margin:0px"><span lang=3D"=
+EN-US">=C2=A0</span></p></div></div></div></div>
+
+<br></div><div><br></div><div><br></div><div><br></div><div><br></div><div>=
+<br></div></div>
+</div><br></div>
+</div><br></div>
+</div><br></div>
+</div><br></div>
+</div><br></div>
+</div><br></div>
+</div><br></div>
+</div><br></div>
+</div><br></div>
+</div><br></div>
+</div><br></div>
+</div><br></div>
+</div><br></div>
+
+--00000000000027f4f505703ae1be--

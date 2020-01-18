@@ -1,0 +1,153 @@
+Return-Path: <dssg@asctet.co.in>
+Delivered-To: mail@stilfilm.com
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 1D9A4D1F74
+	for <mail@stilfilm.com>; Fri, 17 Feb 2017 10:39:11 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 3.12
+X-Spam-Level: ***
+X-Spam-Status: Yes, score=3.12 required=2 tests=[BAYES_50=0.8,
+	DKIM_SIGNED=0.1, DKIM_VALID=-0.1, HTML_MESSAGE=0.001,
+	HTML_OBFUSCATE_05_10=0.26, PYZOR_CHECK=1.392,
+	RCVD_IN_DNSWL_BLOCKED=0.001, SPF_SOFTFAIL=0.665, URIBL_BLOCKED=0.001]
+	autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.yourvserver.net [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id xyRGD06LayVa for <mail@stilfilm.com>;
+	Fri, 17 Feb 2017 10:39:09 +0100 (CET)
+Received: from mail-lf0-f42.google.com (mail-lf0-f42.google.com [209.85.215.42])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id B4CCDD1EDF
+	for <mail@stilfilm.com>; Fri, 17 Feb 2017 10:39:09 +0100 (CET)
+Received: by mail-lf0-f42.google.com with SMTP id z134so20010737lff.3
+        for <mail@stilfilm.com>; Fri, 17 Feb 2017 01:39:09 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=asctet-co-in.20150623.gappssmtp.com; s=20150623;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=zXLpM2yAaCC9ugcdOpob94X9C7P8gIpJk+7e7Rh07ac=;
+        b=UdsfHW5P6L3Mi1jSQRCeiy5mHxA6d3vQHzyPQO6P+YlxMOclhJZqObURP2b6VXZjbN
+         gracx+Q3oBI54s4+IPf20YV9cdXQJDM0Iux2xDxMkZNweyxQFhO60MdpDNZAkBlAVEUu
+         KO7AWAHCIVD0acQxi//bIRe4mMJXRqx0tpoxepHB29YIrCfZBsSj8EItnANc3R5lVbS1
+         3i4/Gsepar4/fDCiUrsPXaRZKOLhDjZVe894jWDKs4v9V0HANPLZd0oMFaqQ6YrOaj5/
+         wczls7dJ9AWqSF6P9CKWb1mSa73w5iS3rKv48P0sxsqUR5DvEc/TqaCFZ9V1QGXYux2m
+         Fq4Q==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=zXLpM2yAaCC9ugcdOpob94X9C7P8gIpJk+7e7Rh07ac=;
+        b=GYUV7DgN5/xKM7qUqkVkCzbe6Uks+v/CuYh1gDxQNGsEh5ZuC9xzRN9naVUoCVdXGw
+         TXnBo38S5+bJWulqkPh5eeIGJ3qceOXu3KpAaI3K46DMW+CSdktgYogf+64NIJCP08Vx
+         r88QYc/o6/neegqbVzngWsbNuggkyskCC9wfK/kLa+Rp4Styq0yn2m9u5PTU6Yp2Yzn0
+         mBaZdFT2wMCAg55szCqYH570r38/WTq9BqqmbZ24e1YyVmh7Ko6gI4wgC0paN2hAOw6o
+         wYDaTYA5IPHH7OZtOo//FAiGZIOBmZE23KRr+oOIk7p1XFc5fHtRcCk3B3GFhnO6dqRS
+         HTEg==
+X-Gm-Message-State: AMke39l5UarOvsAm9YdPuOiKYNwGzmLlv2ajzxtaYiEYHh41xtMOyAF/ZNFn19k/snnNj81H0j7BmCl6S6xgbw==
+X-Received: by 10.25.193.70 with SMTP id r67mr1889700lff.148.1487324348947;
+ Fri, 17 Feb 2017 01:39:08 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.25.155.194 with HTTP; Fri, 17 Feb 2017 01:39:08 -0800 (PST)
+From: A Swaroop <dssg@asctet.co.in>
+Date: Fri, 17 Feb 2017 15:09:08 +0530
+Message-ID: <CAJTf=QeWwRr_bLuuQNhTdr15RU5pj9bPsycfHRKvCsK=LZFpfg@mail.gmail.com>
+Subject: ***SPAM*** 
+To: fcsptc@outlook.com
+Content-Type: multipart/alternative; boundary=94eb2c0c88f27c68ce0548b6afb3
+
+--94eb2c0c88f27c68ce0548b6afb3
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+*Respected Authors,*
+
+We hope this meeting provides an interdisciplinary platform for all the
+students, faculty and research workers to empower their knowledge. This
+event may help you in your future works and innovations. =E2=80=9CInternati=
+onal
+Conference on Functional Materials, Characterization, Solid State Physics,
+Power, Thermal and Combustion Energy=E2=80=9D at Ramachandra College of eng=
+ineering in
+Eluru, Andhra Pradesh, India during 7-8th April 2017 (FCSPTC-2017).
+
+ *Key dates:*
+
+Last date of Paper Submission for the Second phase: 23rd February 2017
+
+ Notification of acceptance: 6th March 2017
+
+
+
+ FCSPTC- proceedings will be published by "AIP: Proceedings (Scopus
+Indexed)"
+
+ *For more inquiry: **www.ow.ly/5mkv3095wlk <http://www.ow.ly/5mkv3095wlk>*
+
+--94eb2c0c88f27c68ce0548b6afb3
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><p class=3D"MsoNormal"><b><span style=3D"font-family:garam=
+ond,serif">Respected
+Authors,<span></span></span></b></p>
+
+<p class=3D"MsoNormal"><span style=3D"font-family:garamond,serif">We hope t=
+his meeting provides an interdisciplinary platform for all the
+students, faculty and research workers to empower their knowledge. This eve=
+nt
+may help you in your future works and innovations.=C2=A0=E2=80=9CInternatio=
+nal
+Conference on Functional Materials, Characterization, Solid State Physics,
+Power, Thermal and Combustion Energy=E2=80=9D at<span class=3D"gmail-apple-=
+converted-space">=C2=A0</span>Ramachandra College of engineering<span class=
+=3D"gmail-apple-converted-space">=C2=A0</span>in Eluru, Andhra Pradesh,=C2=
+=A0India
+during=C2=A07-8<sup>th</sup> April 2017=C2=A0(FCSPTC-2017).<span></span></s=
+pan></p>
+
+<p class=3D"MsoNormal"><span style=3D"font-family:garamond,serif">=C2=A0<b>=
+Key dates:<span></span></b></span></p>
+
+<table class=3D"gmail-MsoTableGrid" border=3D"1" cellspacing=3D"0" cellpadd=
+ing=3D"0" style=3D"margin-left:9.9pt;border-collapse:collapse;border:none">
+ <tbody><tr style=3D"height:12.45pt">
+  <td width=3D"462" valign=3D"top" style=3D"width:346.25pt;border:1pt solid=
+ black;padding:0in 5.4pt;height:12.45pt">
+  <p class=3D"MsoNormal" style=3D"margin-bottom:0.0001pt;line-height:normal=
+"><span style=3D"font-family:garamond,serif">Last date of Paper Submission =
+for the Second phase:<span class=3D"gmail-apple-converted-space">=C2=A0</sp=
+an>23<sup>rd</sup><span class=3D"gmail-apple-converted-space">=C2=A0</span>=
+February
+  2017<span></span></span></p>
+  </td>
+ </tr>
+ <tr style=3D"height:13pt">
+  <td width=3D"462" valign=3D"top" style=3D"width:346.25pt;border-right:1pt=
+ solid black;border-bottom:1pt solid black;border-left:1pt solid black;bord=
+er-top:none;padding:0in 5.4pt;height:13pt">
+  <p class=3D"MsoNormal" style=3D"margin-bottom:0.0001pt;line-height:normal=
+"><span style=3D"font-family:garamond,serif">=C2=A0</span><span style=3D"fo=
+nt-family:garamond,serif">Notification of acceptance:<span class=3D"gmail-a=
+pple-converted-space">=C2=A0</span>6<sup>th</sup><span class=3D"gmail-apple=
+-converted-space">=C2=A0</span>March 2017<span></span></span></p>
+  </td>
+ </tr>
+</tbody></table>
+
+<p class=3D"MsoNormal"><span style=3D"font-family:garamond,serif"><span>=C2=
+=A0</span></span></p>
+
+<p class=3D"MsoNormal"><span style=3D"font-family:garamond,serif">=C2=A0FCS=
+PTC- proceedings will be published by <span style=3D"background-image:initi=
+al;background-position:initial;background-size:initial;background-repeat:in=
+itial;background-origin:initial;background-clip:initial;background-color:ye=
+llow">&quot;AIP: Proceedings (Scopus Indexed)&quot;</span><span></span></sp=
+an></p>
+
+<p class=3D"MsoNormal"><span style=3D"font-family:garamond,serif">=C2=A0<b>=
+For more inquiry:<span class=3D"gmail-apple-converted-space">=C2=A0</span><=
+/b></span><b><span style=3D"color:black"><a href=3D"http://www.ow.ly/5mkv30=
+95wlk">www.ow.ly/5mkv3095wlk</a></span></b><span style=3D"color:black"> <sp=
+an></span></span></p></div>
+
+--94eb2c0c88f27c68ce0548b6afb3--

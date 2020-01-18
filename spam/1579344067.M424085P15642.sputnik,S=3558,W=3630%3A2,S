@@ -1,0 +1,72 @@
+Return-Path: <christiane_gerlach@houseofyuen.com>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 5D316D1B0C
+	for <mail@dorianvasco.de>; Wed, 25 Jan 2017 01:18:47 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 11.03
+X-Spam-Level: ***********
+X-Spam-Status: Yes, score=11.03 required=2 tests=[BAYES_99=3.5, BAYES_999=0.2,
+	DATE_IN_FUTURE_06_12=1.947, DKIM_SIGNED=0.1, HTML_MESSAGE=0.001,
+	PYZOR_CHECK=1.392, RCVD_IN_BRBL_LASTEXT=1.449,
+	RCVD_IN_SORBS_DUL=0.001, RCVD_IN_XBL=0.375, RDNS_NONE=0.793,
+	SPF_HELO_PASS=-0.001, SPF_PASS=-0.001, T_DKIM_INVALID=0.01,
+	URIBL_BLOCKED=0.001, URIBL_CR_SURBL=1.263] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.yourvserver.net [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id PAO7PrpZZyNW for <mail@dorianvasco.de>;
+	Wed, 25 Jan 2017 01:18:45 +0100 (CET)
+Received: from houseofyuen.com (unknown [122.129.112.212])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id A44CDC3008
+	for <kontakt@dorianvasco.de>; Wed, 25 Jan 2017 01:18:44 +0100 (CET)
+Comment: DomainKeys? See http://domainkeys.sourceforge.net/
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=private; d=houseofyuen.com;
+  b=E1zImO+YKZsD32gtzN/XsWpajFS8IwtAC4kcVFDW7jqjhUgdZeKjN+K6D8fjT7BxYzK6etzTd2qk9E3StLrt+PbO4+cVJ8d+1596vEG8pwODs3B7+zdqp0alGPY/X/BArPGMJ5RN+1FS8MbRq92Apr36TX6r/AJJM8DOlGCZDr0=;
+  h=Received:To:Subject:Date:From:Message-ID:X-Priority:MIME-Version:Content-Type:Content-Transfer-Encoding;
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=houseofyuen.com; h=to
+	:subject:date:from:message-id:mime-version:content-type
+	:content-transfer-encoding; s=private; bh=do83BSXOBWu7KYJPmITyZ/
+	JgTyM=; b=GzwTwD5BVs56D43IUaGzRi610j70uQyNpeyaMfQHeHDRZsJ8aQTaPY
+	85CiTnpFLpGtoOKEc5qu9LDAiF/rtsI0l/R8xEIdS/sClhrHfMg7P9FWUU+k84J+
+	fg5vSS7t0ZZLiTK86nV3hAzQ9AlYxUTjlcB2b5vxYoyK0AY/EgFbo=
+Received: (qmail 968 invoked by uid 7800); 25 Jan 2017 07:14:56 -0000
+To: kontakt@dorianvasco.de
+Subject: ***SPAM*** =?utf-8?Q?Sch=C3=B6ne_Rothaarige_sucht_einen_Liebhaber?=
+Date: Wed, 25 Jan 2017 07:14:56 +0000
+From: Christiane Gerlach <christiane_gerlach@houseofyuen.com>
+Message-ID: <c9c3ee3c8e13a62a87c66b0944b740fd@houseofyuen.com>
+X-Priority: 3
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_c9c3ee3c8e13a62a87c66b0944b740fd"
+Content-Transfer-Encoding: 8bit
+
+--b1_c9c3ee3c8e13a62a87c66b0944b740fd
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+Nette Hausfrau sucht den Liebhaber für Sextreffen. Absolute Vertraulichkeit der Beziehung wird garantiert. Stehe auf Hardcore-Sex und bin bereit, Sklavin zu sein.
+
+[ http://pureportugal.pt/user.php?j=136&6ovt5M=QfBAXXuEYUzL5NcJx1k&3AJ=2N2&3V=bxAc ] Finde mich im Bereich mit Hausfrauen, hier ist mein Profil
+
+
+--b1_c9c3ee3c8e13a62a87c66b0944b740fd
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+<html>
+<body>
+Nette Hausfrau sucht den Liebhaber für Sextreffen. Absolute Vertraulichkeit der Beziehung wird garantiert. Stehe auf Hardcore-Sex und bin bereit, Sklavin zu sein.<br>
+<br>
+<a href="http://pureportugal.pt/user.php?j=136&6ovt5M=QfBAXXuEYUzL5NcJx1k&3AJ=2N2&3V=bxAc">Finde mich im Bereich mit Hausfrauen, hier ist mein Profil</a>
+</body>
+</html>
+
+
+
+--b1_c9c3ee3c8e13a62a87c66b0944b740fd--
+

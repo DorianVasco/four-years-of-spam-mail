@@ -1,0 +1,29 @@
+Return-Path: <infolike5771@syusya.com>
+Delivered-To: mail@stilfilm.com
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id DC5B9D15B5
+	for <mail@stilfilm.com>; Thu,  1 Nov 2018 10:10:22 +0100 (CET)
+X-Quarantine-ID: <GyIprgtCqt7t>
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Amavis-Alert: BAD HEADER SECTION, Missing required header field: "Date"
+X-Spam-Flag: YES
+X-Spam-Score: 5.758
+X-Spam-Level: *****
+X-Spam-Status: Yes, score=5.758 required=5.5 tests=[HTML_MESSAGE=0.001,
+	HTML_MIME_NO_HTML_TAG=0.635, MIME_HTML_ONLY=1.105, MISSING_DATE=1.396,
+	MISSING_HEADERS=1.207, MISSING_MID=0.14, RDNS_NONE=1.274] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id GyIprgtCqt7t for <mail@stilfilm.com>;
+	Thu,  1 Nov 2018 10:10:21 +0100 (CET)
+Received: from syusya.com (unknown [191.96.249.167])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 43049C1642
+	for <jermain@stilfilm.com>; Thu,  1 Nov 2018 10:10:18 +0100 (CET)
+From: "google" <infolike5771@syusya.com>
+Subject: hey hey
+MIME-Version: 1.0
+Content-Type: text/html
+Message-Id: <20181101091022.DC5B9D15B5@v22014122474822114.stilfilm.com>
+Date: Thu,  1 Nov 2018 10:10:22 +0100 (CET)
+
+ 

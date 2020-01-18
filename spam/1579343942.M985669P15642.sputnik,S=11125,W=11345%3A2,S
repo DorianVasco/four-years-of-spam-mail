@@ -1,0 +1,220 @@
+Return-Path: <tejalseoservice@hotmail.com>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id C6B5DD511A
+	for <mail@dorianvasco.de>; Mon, 27 Nov 2017 11:23:59 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: 0.921
+X-Spam-Level:
+X-Spam-Status: No, score=0.921 required=5.5 tests=[DKIM_SIGNED=0.1,
+	DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1, FREEMAIL_FROM=0.001,
+	HTML_MESSAGE=0.001, MISSING_HEADERS=1.021, RCVD_IN_DNSWL_NONE=-0.0001,
+	RP_MATCHES_RCVD=-0.001, SPF_PASS=-0.001] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 9A4Fl1Xr5KzC for <mail@dorianvasco.de>;
+	Mon, 27 Nov 2017 11:23:57 +0100 (CET)
+Received: from BLU004-OMC1S5.hotmail.com (blu004-omc1s5.hotmail.com [65.55.116.16])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id 800DDC2E61
+	for <mail@dorianvasco.de>; Mon, 27 Nov 2017 11:23:57 +0100 (CET)
+Received: from IND01-MA1-obe.outbound.protection.outlook.com ([65.55.116.7]) by BLU004-OMC1S5.hotmail.com over TLS secured channel with Microsoft SMTPSVC(7.5.7601.23008);
+	 Mon, 27 Nov 2017 02:23:57 -0800
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=hotmail.com;
+ s=selector1; h=From:Date:Subject:Message-ID:Content-Type:MIME-Version;
+ bh=wraeIa7BKR4MLYh7jh0Cwi+1DKU20H10degj9kWObrE=;
+ b=tH0FDi/VDX2EYYv6ecrQTnvJREHtsvPFXf5tUkaHQlmeAUkeNPsNdTNQiD5Rtkavlgc89gGgCtMuwnmylV16nJhqO3B4srZQHbg2+0ZWCd2FHqcEBJnwagE89V/2FwvelRU2e0srpfVpQ02gLI1QYDuYgbT63rEeU6Rk26npC8lcpkWSU54kXr98qtKglho5RYrC3HWHGXfAlcLTZ/KyIhiEKyYqLKgWQmweNgR//WUMKt+cBc93naa0OJFdnSrnJkJ6a2yBtiAvHsnfbifT5tV/HdlM0f7eZ8T+rklXBsDG1GAsA/OBKrrBMd8n801mW3jPF5FnauDjWmXG4Wm9aw==
+Received: from MA1IND01FT003.eop-IND01.prod.protection.outlook.com
+ (10.152.200.59) by MA1IND01HT006.eop-IND01.prod.protection.outlook.com
+ (10.152.200.136) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id 15.20.239.4; Mon, 27
+ Nov 2017 10:23:11 +0000
+Received: from PN1PR0101MB1789.INDPRD01.PROD.OUTLOOK.COM (10.152.200.53) by
+ MA1IND01FT003.mail.protection.outlook.com (10.152.200.70) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256_P256) id
+ 15.20.239.4 via Frontend Transport; Mon, 27 Nov 2017 10:23:10 +0000
+Received: from PN1PR0101MB1789.INDPRD01.PROD.OUTLOOK.COM
+ ([fe80::dd8c:4218:db70:b2d1]) by PN1PR0101MB1789.INDPRD01.PROD.OUTLOOK.COM
+ ([fe80::dd8c:4218:db70:b2d1%15]) with mapi id 15.20.0260.006; Mon, 27 Nov
+ 2017 10:23:10 +0000
+From: Tejal Verma <tejalseoservice@hotmail.com>
+Subject: Re: Website Development Proposal
+Thread-Topic: Website Development Proposal
+Thread-Index: AQHTSoKDqfm2G4bApkSPFu8LsogqZKMoPmUY
+Date: Mon, 27 Nov 2017 10:23:10 +0000
+Message-ID: <PN1PR0101MB17895B4FBCE200112BCE5F70BD250@PN1PR0101MB1789.INDPRD01.PROD.OUTLOOK.COM>
+References: <PN1PR0101MB178975DEC5BBD2C8D099723CBD400@PN1PR0101MB1789.INDPRD01.PROD.OUTLOOK.COM>
+In-Reply-To: <PN1PR0101MB178975DEC5BBD2C8D099723CBD400@PN1PR0101MB1789.INDPRD01.PROD.OUTLOOK.COM>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-incomingtopheadermarker: OriginalChecksum:94CAFD079EB40AD56F42BEF6E7885192927545B7ACC8118A651DD3D49FBE5617;UpperCasedChecksum:EA19BAC703A20826F915758D433E8F2E820B20647A7C8E4DF34529CEEB89AF77;SizeAsReceived:14854;Count:45
+x-ms-exchange-messagesentrepresentingtype: 1
+x-tmn: [K9xPCs06NntQOm8oNgdahkMQDqb2SYWC]
+x-ms-publictraffictype: Email
+x-microsoft-exchange-diagnostics: 1;MA1IND01HT006;6:rX0+sdFXiJt6g1QznqkteLUA4BlZVgJQQo2PKtPwrQI/CIYpXTvXLuSPb4wPkban1p/4WqT5BeXGMqSLB3kFsbzHYSSlae9IPIMzMWg10C1nH8Lh7C5bLhbnGJFI2vNOyNF18FBZh6T4jF9ssuf+6AUDTsLwcNQwqZSYdGFFEEIVXcNGqUR1e1DLYmC2bLOhvX2XmliAMosrmovRHIGMiv6sj6r9kekE0Aw7qr138E2V8hrIq9VWILeAPsJrjNfMzn5Bvs87QBciE6RJpnF8vtuPv6E8U3L1513fwYgRTNVzU8tqtzRtNu6HQlaTecnCzvrHTwS81UpbRp86uqsbcGvMoMdem8+7P1ba0lhmqlQ=;5:/zRl6FsN0f92IobqsoqNUwhRsSUBzCsEIrStSXy2CJXP26Gq/elV9E5BRTB0agwqcyzbSYmfIQ0TbNxQjtmYp3O5lxZmKQ+HGEHOMuSa668hqa8MHYqngD6llXawDBZ3A8MdrqF3zrFOSMJyDfiuKRCu2dYOdftWdS3t37ph2i0=;24:HVLoUuV6qSLeSC01dqFCe92vkwfPP3Yh0p+/YE3cpu67ncv4VZAdYjKJIqxmS1p1ja8pD2y/f1fuB5g/DrBvfU1aho77NHkbAn/hE/WnltQ=;7:gFPhifI7PiVLqdxf76wr3PfKxaFl3m7wSAIgn+YQsCHyKANTH6XrSP61ah3s8osrHWEAhEJF9pS4REGoC/8h2sKhbUCoMSoDFsLB7ovGvDdgBM4wAR/MpqcJ5/JuvLL4M9gx3qA/A/+1z93E0XPANwmtPYHACCkSC2ylK2sY7N0G9iCLrlLWmarHrYiDFUxCdRmG8IGXYVIT1tvWQ8xL3x13jE0RBjjVDTMxiQfQlIwYpm6N2QeAyQWUX6Oaa7IG
+x-incomingheadercount: 45
+x-eopattributedmessage: 0
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(201702061074)(5061506573)(5061507331)(1603103135)(2017031320274)(2017031324274)(2017031323274)(201702181274)(2017031322404)(1601125374)(1603101448)(1701031045);SRVR:MA1IND01HT006;
+x-ms-exchange-slblob-mailprops: wFHlV0EOAy1Yum4Y3dTfe/GqAQfWMP+LDY51ZrNwHfi/B05aqa3c6Lg8/lyyo8xjFwA8h5eokdOlM5G6Y6InDgd3EHBcrSFKVqCjcHHOZNfwFlTB324iOt2xQn27cPWMdlv20YZoVm5x86DHgGHXneREmXGxFtgeQ4k/cGX0YvLV8CszXiaZU+bCEijftqcxFxMwoMdgm3flu0o+45J5YH/8iaFQt9hODI8UTue1E5ZJzTTbQyQpFKs1BSczieeqRi3/VWiqYE7Djg0elFnxoBpXw91bxXxy5gENqwlktB5a+vWfGsle0mY5Ezj9nndel97U4ad0fMEHk4QWGjNKT7lOTvUeOMiTJ381QG9Mj1+lT7pt4KXaYgD/5twh5OtXSeIZqWVp57TXpdnodoCtL7fr2J1xwww2UwEn9XXFq9a7Z/vOX4EX8krAjqU2Cdk7N0SpAO2TVFbClm1Qj6I6RO2WYFOxiIp4g/PTIrm6Q9thiOY3dSR9/iDlG1qmCnv5cIoKF7+8LaDs6h/Myd/aESNcz7IjUNQzbd9AJ+gyvvi9QjkS/cZiPpIoi3L/PyzhIvDP1xhg+EL9wLzFWntkZA==
+x-ms-traffictypediagnostic: MA1IND01HT006:
+x-ms-office365-filtering-correlation-id: eafcc7bd-52d6-471d-fc8b-08d53580dc1f
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(432015464)(444000031);SRVR:MA1IND01HT006;BCL:0;PCL:0;RULEID:(100000803101)(100110400095);SRVR:MA1IND01HT006;
+x-forefront-prvs: 0504F29D72
+x-forefront-antispam-report: SFV:NSPM;SFS:(10019020)(98901004);DIR:OUT;SFP:1102;SCL:1;SRVR:MA1IND01HT006;H:PN1PR0101MB1789.INDPRD01.PROD.OUTLOOK.COM;FPR:;SPF:None;LANG:;
+spamdiagnosticoutput: 1:99
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/alternative;
+	boundary="_000_PN1PR0101MB17895B4FBCE200112BCE5F70BD250PN1PR0101MB1789_"
+MIME-Version: 1.0
+X-OriginatorOrg: hotmail.com
+X-MS-Exchange-CrossTenant-Network-Message-Id: eafcc7bd-52d6-471d-fc8b-08d53580dc1f
+X-MS-Exchange-CrossTenant-originalarrivaltime: 27 Nov 2017 10:23:10.6556
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Internet
+X-MS-Exchange-CrossTenant-id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: MA1IND01HT006
+X-OriginalArrivalTime: 27 Nov 2017 10:23:57.0226 (UTC) FILETIME=[D55598A0:01D36769]
+
+--_000_PN1PR0101MB17895B4FBCE200112BCE5F70BD250PN1PR0101MB1789_
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Hi,
+
+Hope you are doing well.
+Just wanted to check, have you checked my previous e-mail? Do let me know i=
+f you would like to discuss a Redesign/Re-Development of your website, SEO,=
+ Mobile Apps then I can send you our Portfolio/Packages/Company information=
+ and time frame.  I have best offer you.
+
+Thanks & Regards
+
+Tejal Verma
+Business Development Executive
+Services:- Website Design/Redesign & Development
+
+
+
+
+________________________________
+From: Tejal Verma <tejalseoservice@hotmail.com>
+Sent: Saturday, October 21, 2017 9:07 PM
+Subject: Website Development Proposal
+
+
+Hi,
+
+I am Web Development Manager, and I work with experienced IT professionals =
+who are into:
+
+      1. Website Designing
+      2. Web Development
+      3. Responsive Websites
+      4. Wordpress CMS
+      5. Magento Development
+      6. PHP Development
+      7. E-Commerce Solutions
+
+May I know if you are interested in any of these services?
+
+If you are interested, then I can send you our past work details, company i=
+nformation and an affordable quotation with the best offer.
+
+Thanks & Regards,
+Tejal Verma
+Web Development Manager
+
+
+
+--_000_PN1PR0101MB17895B4FBCE200112BCE5F70BD250PN1PR0101MB1789_
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+<style type=3D"text/css" style=3D"display:none;"><!-- P {margin-top:0;margi=
+n-bottom:0;} --></style>
+</head>
+<body dir=3D"ltr">
+<div id=3D"divtagdefaultwrapper" style=3D"font-size: 12pt; color: rgb(0, 0,=
+ 0); font-family: Calibri, Helvetica, sans-serif, EmojiFont, &quot;Apple Co=
+lor Emoji&quot;, &quot;Segoe UI Emoji&quot;, NotoColorEmoji, &quot;Segoe UI=
+ Symbol&quot;, &quot;Android Emoji&quot;, EmojiSymbols;" dir=3D"ltr">
+<p style=3D"margin-top:0;margin-bottom:0"></p>
+<div>Hi,&nbsp;</div>
+<div><br>
+</div>
+<div>Hope you are doing well.&nbsp;</div>
+<div>Just wanted to check, have you checked my previous e-mail? Do let me k=
+now if you would like to discuss a Redesign/Re-Development of your website,=
+ SEO, Mobile Apps then I can send you our Portfolio/Packages/Company inform=
+ation and time frame.&nbsp; I have best
+ offer you.</div>
+<div><br>
+</div>
+<div>Thanks &amp; Regards</div>
+<div><br>
+</div>
+<div>Tejal Verma</div>
+<div>Business Development Executive</div>
+<div>Services:- Website Design/Redesign &amp; Development</div>
+<div><br>
+</div>
+<br>
+<p></p>
+<br>
+<br>
+<div style=3D"color: rgb(0, 0, 0);">
+<hr style=3D"display:inline-block;width:98%" tabindex=3D"-1">
+<div id=3D"divRplyFwdMsg" dir=3D"ltr"><font face=3D"Calibri, sans-serif" st=
+yle=3D"font-size:11pt" color=3D"#000000"><b>From:</b> Tejal Verma &lt;tejal=
+seoservice@hotmail.com&gt;<br>
+<b>Sent:</b> Saturday, October 21, 2017 9:07 PM<br>
+<b>Subject:</b> Website Development Proposal</font>
+<div>&nbsp;</div>
+</div>
+<div dir=3D"ltr">
+<div id=3D"x_divtagdefaultwrapper" dir=3D"ltr" style=3D"font-size: 12pt; co=
+lor: rgb(0, 0, 0); font-family: Calibri, Helvetica, sans-serif, EmojiFont, =
+&quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, NotoColorEmoji, =
+&quot;Segoe UI Symbol&quot;, &quot;Android Emoji&quot;, EmojiSymbols;">
+<p></p>
+<div>Hi,</div>
+<div>&nbsp;</div>
+<div>I am Web Development Manager, and I work with experienced IT professio=
+nals who are into:</div>
+<div>&nbsp;</div>
+<div>&nbsp; &nbsp; &nbsp; 1. Website Designing</div>
+<div>&nbsp; &nbsp; &nbsp; 2. Web Development</div>
+<div>&nbsp; &nbsp; &nbsp; 3. Responsive Websites</div>
+<div>&nbsp; &nbsp; &nbsp; 4. Wordpress CMS&nbsp;</div>
+<div>&nbsp; &nbsp; &nbsp; 5. Magento Development</div>
+<div>&nbsp; &nbsp; &nbsp; 6. PHP Development</div>
+<div>&nbsp; &nbsp; &nbsp; 7. E-Commerce Solutions</div>
+<div>&nbsp;</div>
+<div>May I know if you are interested in any of these services?</div>
+<div>&nbsp;</div>
+<div>If you are interested, then I can send you our past work details, comp=
+any information and an affordable quotation with the best offer.</div>
+<div>&nbsp;&nbsp;</div>
+<div>Thanks &amp; Regards,</div>
+<div>Tejal Verma</div>
+<div>Web Development Manager</div>
+<div><br>
+</div>
+<br>
+<p></p>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>
+
+--_000_PN1PR0101MB17895B4FBCE200112BCE5F70BD250PN1PR0101MB1789_--

@@ -1,0 +1,1705 @@
+Return-Path: <mirko.boeddecker@fotoimpex.de>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 57A83C173A
+	for <mail@dorianvasco.de>; Sat,  9 Mar 2019 04:36:59 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 5.964
+X-Spam-Level: *****
+X-Spam-Status: Yes, score=5.964 required=5.5 tests=[BAYES_50=0.8,
+	HELO_DYNAMIC_IPADDR=1.951, HTML_MESSAGE=0.001, MIME_HTML_ONLY=0.723,
+	RDNS_DYNAMIC=0.982, SUBJ_ALL_CAPS=1.506, URIBL_BLOCKED=0.001]
+	autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id FvaiyXrwKtUE for <mail@dorianvasco.de>;
+	Sat,  9 Mar 2019 04:36:46 +0100 (CET)
+Received: from m07s4-3-24da.ispgateway.de (m07s4-3-24da.ispgateway.de [134.119.247.192])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id D44E1C16ED
+	for <mail@dorianvasco.de>; Sat,  9 Mar 2019 04:36:42 +0100 (CET)
+Received: (qmail 8190 invoked from network); 9 Mar 2019 03:36:41 -0000
+Received: from unknown (HELO m07s4-3-24da.ispgateway.de) (127.0.0.1)
+  by localhost with SMTP; 9 Mar 2019 03:36:41 -0000
+Received: (from u496424@localhost)
+	by m07s4-3-24da.ispgateway.de (8.14.9/8.13.6/Submit) id x293aTJG007779;
+	Sat, 9 Mar 2019 04:36:29 +0100
+To: mail@dorianvasco.de
+Subject: =?UTF-8?Q?FOTOIMPEX_NEWSLETTER_N=C2=B0_13?=
+X-DFOptimize: BUFfRE5PRAUeExweGB51Gx8fGBwFXU9IWU9DXk9EBV1dXQRMRV5FQ0daT1IETk8FXU9IWUNeTwVdWgdDRElGX05PWQVJRktZWQdaQlpHS0NGT1gEWkJa
+Date: Sat, 9 Mar 2019 03:36:29 +0000
+From: Fotoimpex GmbH <newsletter@fotoimpex.de>
+Reply-To: bounce@fotoimpex.de
+Message-ID: <8faca3a1c3df6b582fa3d09fc5b42464@www.fotoimpex.de>
+X-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)
+List-Unsubscribe: <https://www.fotoimpex.de/website/?na=u&nk=52326-20c6651064&nek=1-c3fec45daa>
+Precedence: bulk
+X-Newsletter-Email-Id: 1
+X-Auto-Response-Suppress: OOF, AutoReply
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Newsletter</title>
+<meta charset=3D"utf-8">
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1"=
+>
+<meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">
+<style type=3D"text/css">/* CLIENT-SPECIFIC STYLES */
+#outlook a{padding:0;} /* Force Outlook to provide a "view in browser" mess=
+age */
+.ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to d=
+isplay emails at full width */
+.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font,=
+ .ExternalClass td, .ExternalClass div {line-height: 100%;} /* Force Hotmai=
+l to display normal line spacing */
+body, table, td, a{-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%=
+;} /* Prevent WebKit and Windows mobile changing default text sizes */
+table, td{mso-table-lspace:0pt; mso-table-rspace:0pt;} /* Remove spacing be=
+tween tables in Outlook 2007 and up */
+img{-ms-interpolation-mode:bicubic;} /* Allow smoother rendering of resized=
+ image in Internet Explorer */
+
+/* RESET STYLES */
+body{margin:0; padding:0; height:100% !important; margin:0; padding:0; widt=
+h:100% !important;}
+img{border:0; height:auto; line-height:100%; outline:none; text-decoration:=
+none; max-width: 100%!important}
+table{border-collapse:collapse !important;}
+
+
+/* MOBILE STYLES */
+@media screen and (max-width: 525px) {
+
+    /* ALLOWS FOR FLUID TABLES */
+    table[class=3D"wrapper"]{
+        width:100% !important;
+    }
+
+    /* ADJUSTS LAYOUT OF LOGO IMAGE */
+    td[class=3D"logo"]{
+        text-align: left;
+        padding: 20px 0 20px 0 !important;
+    }
+
+    td[class=3D"logo"] img{
+        margin:0 auto!important;
+    }
+
+    /* USE THESE CLASSES TO HIDE CONTENT ON MOBILE */
+    td[class=3D"mobile-hide"]{
+        display:none;}
+
+    img[class=3D"mobile-hide"]{
+        display: none !important;
+    }
+
+    img[class=3D"img-max"]{
+        max-width: 100% !important;
+        /*width: 100% !important;*/
+        height:auto !important;
+    }
+
+    /* FULL-WIDTH TABLES */
+    table[class=3D"responsive-table"]{
+        width:100%!important;
+    }
+
+    /* UTILITY CLASSES FOR ADJUSTING PADDING ON MOBILE */
+    td[class=3D"padding"]{
+        padding: 10px 5% 15px 5% !important;
+    }
+
+    td[class=3D"padding-copy"]{
+        padding: 10px 5% 10px 5% !important;
+        text-align: center;
+    }
+
+    td[class=3D"padding-meta"]{
+        padding: 30px 5% 0px 5% !important;
+        text-align: center;
+    }
+
+    td[class=3D"no-pad"]{
+        padding: 0 0 20px 0 !important;
+    }
+
+    td[class=3D"no-padding"]{
+        padding: 0 !important;
+    }
+
+    td[class=3D"section-padding"]{
+        padding: 50px 15px 50px 15px !important;
+    }
+
+    td[class=3D"section-padding-bottom-image"]{
+        padding: 50px 15px 0 15px !important;
+    }
+
+    /* ADJUST BUTTONS ON MOBILE */
+    td[class=3D"mobile-wrapper"]{
+        padding: 10px 5% 15px 5% !important;
+    }
+
+    table[class=3D"mobile-button-container"]{
+        margin:0 auto;
+        width:100% !important;
+    }
+
+    a[class=3D"mobile-button"]{
+        width:80% !important;
+        padding: 15px !important;
+        border: 0 !important;
+        font-size: 16px !important;
+    }
+
+}
+
+/* A single full post */
+@media all and (max-width: 480px) {
+    .single-post-gallery img {
+        max-width: 40%;
+    }
+}
+
+
+
+/* List */
+@media all and (max-width: 480px) {
+    .list-text .mobile {
+        font-size: 20px;
+    }
+}
+
+
+
+/* Gallery */
+.gallery-medium {
+        box-sizing: border-box;
+        width: 280px;
+        height: 200px;
+        max-width: 100%!important;
+        overflow: hidden;
+        display: inline-block;
+        text-align: center;
+        padding: 0;
+        margin: 5px;
+    }
+@media all and (max-width: 480px) {
+    .gallery-thumbnail-img {
+        max-width: 45%;
+    }
+    .gallery-medium {
+        max-width: 100%!important;
+        height: auto;
+        display: block;
+        margin-bottom: 10px;
+    }
+}
+
+
+/* Last posts */
+@media all and (max-width: 525px) {
+    .hero-table {
+        width: 100%!important;
+        max-width: 100%!important;
+    }
+
+    .hero-table-right {
+        margin-top: 20px;
+    }
+}</style></head>
+<body style=3D"margin: 0; padding: 0;">
+
+
+           =20
+
+
+           =20
+
+
+           =20
+
+
+           =20
+
+
+           =20
+
+
+           =20
+
+
+           =20
+
+
+           =20
+
+
+           =20
+
+
+           =20
+
+
+           =20
+
+
+           =20
+
+
+           =20
+
+
+           =20
+
+
+           =20
+
+
+           =20
+
+
+           =20
+
+
+           =20
+
+
+           =20
+
+
+           =20
+
+
+           =20
+
+
+           =20
+
+
+           =20
+
+
+           =20
+
+
+           =20
+
+
+           =20
+
+
+           =20
+
+
+           =20
+
+
+           =20
+
+
+           =20
+
+
+           =20
+
+
+           =20
+
+
+           =20
+
+
+            <table style=3D"border-collapse: collapse; width: 100%;" class=
+=3D"tnpc-row tnpc-row-block ui-sortable-handle" data-id=3D"preheader" width=
+=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center"=
+><tbody><tr><td data-options=3D"options[text]=3DDer%20FOTOIMPEX%20Newslette=
+r%20N%C2%B013&amp;options[view]=3DIm%20Browser%20lesen&amp;options[font_fam=
+ily]=3DHelvetica%2C%20Arial%2C%20sans-serif&amp;options[font_size]=3D13&amp=
+;options[font_weight]=3DNormal&amp;options[font_color]=3D%23999999&amp;opti=
+ons[block_background]=3D%23ffffff&amp;" style=3D"padding: 0; font-family: H=
+elvetica, Arial, sans-serif;" class=3D"edit-block" align=3D"center"><!--[if=
+ mso]><table border=3D"0" cellpadding=3D"0" align=3D"center" cellspacing=3D=
+"0" width=3D"600"><tr><td width=3D"600"><![endif]-->
+<table style=3D"width: 100%!important; max-width: 600px!important" width=3D=
+"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center">
+<tbody><tr>
+<td style=3D"text-align: center; padding-top: 15px; padding-left: 0px; padd=
+ing-right: 0px; padding-bottom: 15px; background-color: #ffffff;" width=3D"=
+100%" bgcolor=3D"#ffffff" align=3D"center">
+<table style=3D"width: 100%!important border: 0; border-collapse: collapse;=
+" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"=
+center">
+    <tbody><tr>
+        <td class=3D"preheader-link" style=3D"padding: 10px; text-align: ce=
+nter; font-size: 13px; font-family: Helvetica, Arial, sans-serif; font-weig=
+ht: Normal; color: #999999;" width=3D"50%" valign=3D"top" align=3D"center">
+            Der FOTOIMPEX Newsletter N=C2=B013        </td>
+        <td class=3D"preheader-link" style=3D"padding: 10px; text-align: ce=
+nter; font-size: 13px; font-family: Helvetica, Arial, sans-serif; font-weig=
+ht: Normal; color: #999999;" width=3D"50%" valign=3D"top" align=3D"center">
+            <a href=3D"https://www.fotoimpex.de/website/?nltr=3DMTs1MjMyNjt=
+odHRwczovL3d3dy5mb3RvaW1wZXguZGUvd2Vic2l0ZS8%2FbmE9diZuaz01MjMyNi0yMGM2NjUx=
+MDY0JmlkPTE7O2NmZTY5YmVhYmUzM2ZiNmMzYTE1NGQyOThjYjQ0YTdl" target=3D"_blank"=
+ rel=3D"noopener" class=3D"preheader-view-link" style=3D"font-size: 13px; f=
+ont-family: Helvetica, Arial, sans-serif; font-weight: Normal; color: #9999=
+99; text-decoration: none;">Im Browser lesen</a>
+        </td>
+    </tr>
+</tbody></table></td>
+</tr>
+</tbody></table><!--[if mso]></td></tr></table><![endif]--></td></tr></tbod=
+y></table><table style=3D"border-collapse: collapse; width: 100%; position:=
+ relative; opacity: 1; left: 0px; top: 0px;" class=3D"tnpc-row ui-sortable-=
+handle" data-id=3D"header-01-header.block" width=3D"100%" cellspacing=3D"0"=
+ cellpadding=3D"0" border=3D"0" align=3D"center">
+<tbody><tr>
+<td style=3D"padding: 0;" align=3D"center">
+<!--[if mso]><table border=3D"0" cellpadding=3D"0" align=3D"center" cellspa=
+cing=3D"0" width=3D"600"><tr><td width=3D"600"><![endif]-->
+<table style=3D"width: 100%!important; max-width: 600px!important" width=3D=
+"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center">
+<tbody><tr>
+<td class=3D"edit-block" style=3D"text-align: center; padding: 15px 0px; ba=
+ckground-color: rgb(254, 62, 61);" width=3D"100%" bgcolor=3D"#333333" align=
+=3D"center">
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" alig=
+n=3D"center">
+    <tbody><tr>
+        <td style=3D"padding: 0px 15px 0px 15px;" align=3D"center">
+           =20
+                <table class=3D"wrapper" width=3D"500" cellspacing=3D"0" ce=
+llpadding=3D"0" border=3D"0">
+                    <!-- LOGO/PREHEADER TEXT -->
+                    <tbody><tr>
+                        <td style=3D"padding: 20px 0px 30px 0px;" class=3D"=
+logo">
+                            <table width=3D"100%" cellspacing=3D"0" cellpad=
+ding=3D"0" border=3D"0">
+                                <tbody><tr>
+                                    <td class=3D"tnpc-row-edit" data-type=
+=3D"image" width=3D"100" align=3D"left">
+                                        <a href=3D"#" target=3D"_blank">
+                                            <img alt=3D"Fotoimpex" src=3D"h=
+ttps://www.fotoimpex.de/website/wp-content/uploads/2019/02/Impex_Blende_wei=
+ss_transparent.png" style=3D"display: block; width: 180px;" width=3D"" bord=
+er=3D"0">
+                                        </a>
+                                    </td>
+                                    <td class=3D"mobile-hide" width=3D"400"=
+ align=3D"right">
+                                        <table cellspacing=3D"0" cellpaddin=
+g=3D"0" border=3D"0">
+                                            <tbody><tr>
+                                                <td style=3D"padding: 0 0 5=
+px 0; font-size: 14px; font-family: Arial, sans-serif; color: #666666; text=
+-decoration: none;" class=3D"tnpc-row-edit" data-type=3D"text" align=3D"rig=
+ht"><span style=3D"font-size: 14pt; color: #ffffff;"><strong><span style=3D=
+"text-decoration: none; font-family: arial, helvetica, sans-serifArial Blac=
+k;">Alles f=C3=BCr die analoge Fotografie seit 1992<br></span></strong></sp=
+an>
+</td>
+                                            </tr>
+                                        </tbody></table>
+                                    </td>
+                                </tr>
+                            </tbody></table>
+                        </td>
+                    </tr>
+                </tbody></table>
+          =20
+        </td>
+    </tr>
+</tbody></table></td>
+</tr>
+</tbody></table><!--[if mso]></td></tr></table><![endif]-->
+</td>
+</tr></tbody></table><table style=3D"border-collapse: collapse; width: 100%=
+;" class=3D"tnpc-row ui-sortable-handle" data-id=3D"content-05-imageblock" =
+width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"ce=
+nter">
+<tbody><tr>
+<td style=3D"padding: 0;" align=3D"center">
+<!--[if mso]><table border=3D"0" cellpadding=3D"0" align=3D"center" cellspa=
+cing=3D"0" width=3D"600"><tr><td width=3D"600"><![endif]-->
+<table style=3D"width: 100%!important; max-width: 600px!important" width=3D=
+"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center">
+<tbody><tr>
+<td class=3D"edit-block" style=3D"text-align: center; padding-top: 15px; pa=
+dding-left: 0px; padding-right: 0px; padding-bottom: 15px; background-color=
+: #ffffff;" width=3D"100%" bgcolor=3D"#ffffff" align=3D"center">
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" alig=
+n=3D"center">
+    <tbody><tr>
+        <td style=3D"padding: 0;" bgcolor=3D"#ffffff" align=3D"center">
+           =20
+            <div class=3D"tnpc-row-edit" data-type=3D"image">
+                <a href=3D"https://www.fotoimpex.de/website/?nltr=3DMTs1MjM=
+yNjtodHRwczovL3d3dy5mb3RvaW1wZXguZGUvc2hvcC90YXNjaGVuLXVuZC1rYW1lcmFndXJ0ZS=
+87OzU0N2ZkZDBmOGMyNjZlN2M4MDhlOGI1NDhmZjNhMzU4" target=3D"_blank">
+                    <img src=3D"https://www.fotoimpex.de/website/wp-content=
+/uploads/2019/03/adox_filmtasche_web.jpg" alt=3D"Insert alt text here" styl=
+e=3D"max-width: 100%!important; height: auto!important;display: block;" cla=
+ss=3D"img-max" width=3D"" border=3D"0">
+                </a>
+            </div>
+           =20
+        </td>
+    </tr>
+</tbody></table></td>
+</tr>
+</tbody></table><!--[if mso]></td></tr></table><![endif]-->
+</td>
+</tr></tbody></table>
+
+<table style=3D"border-collapse: collapse; width: 100%; position: relative;=
+ opacity: 1; left: 0px; top: 0px;" class=3D"tnpc-row ui-sortable-handle" da=
+ta-id=3D"content-03-textblock" width=3D"100%" cellspacing=3D"0" cellpadding=
+=3D"0" border=3D"0" align=3D"center">
+<tbody><tr>
+<td style=3D"padding: 0;" align=3D"center">
+<!--[if mso]><table border=3D"0" cellpadding=3D"0" align=3D"center" cellspa=
+cing=3D"0" width=3D"600"><tr><td width=3D"600"><![endif]-->
+<table style=3D"width: 100%!important; max-width: 600px!important" width=3D=
+"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center">
+<tbody><tr>
+<td class=3D"edit-block" style=3D"text-align: center; padding-top: 15px; pa=
+dding-left: 0px; padding-right: 0px; padding-bottom: 15px; background-color=
+: #ffffff;" width=3D"100%" bgcolor=3D"#ffffff" align=3D"center">
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" alig=
+n=3D"center">
+    <tbody><tr>
+        <td style=3D"padding: 20px 15px 20px 15px;" align=3D"center">
+           =20
+            <table class=3D"responsive-table" style=3D"width: 100%!importan=
+t" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0">
+                <tbody><tr>
+                    <td style=3D"text-align: left; padding: 0 0 0 0; font-s=
+ize: 16px; line-height: 25px; color: #666666; font-family: Helvetica, Arial=
+, sans-serif;" class=3D"padding-copy tnpc-row-edit" data-type=3D"text" alig=
+n=3D"left"><span style=3D"font-family: arial, helvetica, sans-serifArial Bl=
+ack; color: #333333;"><strong>Liebe(r) </strong></span><span style=3D"font-=
+family: arial, helvetica, sans-serifArial Black; color: #333333;"><strong><=
+span style=3D"font-family: arial, helvetica, sans-serifArial Black; color: =
+#333333;"><strong>Dorian-Vasco&nbsp;</strong></span></strong></span><span s=
+tyle=3D"font-family: arial, helvetica, sans-serifArial Black; color: #33333=
+3;"><strong><span style=3D"font-family: arial, helvetica, sans-serifArial B=
+lack; color: #333333;"><strong><span style=3D"font-family: arial, helvetica=
+, sans-serifArial Black; color: #333333;"><strong><strong>Nagel</strong></s=
+trong></span></strong></span>,</strong></span><br><br>Der Fr=C3=BChling kom=
+mt und es ist genau die richtige Zeit f=C3=BCr unsere neue, in Italien hand=
+gefertigte, <a href=3D"https://www.fotoimpex.de/website/?nltr=3DMTs1MjMyNjt=
+odHRwczovL3d3dy5mb3RvaW1wZXguZGUvc2hvcC90YXNjaGVuLXVuZC1rYW1lcmFndXJ0ZS9hZG=
+94LWZpbG10YXNjaGUtc2Nod2FyemVzLWxlZGVyLmh0bWw7O2IxMjM3ZjljODlhNjZhNjI0YWQ2O=
+Tg3NjQ4OTc4ZDMw">Leder-Filmg=C3=BCrteltasche</a>. Ihr k=C3=B6nnt f=C3=BCnf =
+Roll- oder Kleinbildfilme darin mitnehmen und diese mit nur einer Hand hera=
+usholen (und den vollen Film wieder einlegen).<br>Wer seine Bilder danach g=
+leich selber entwickeln m=C3=B6chte, f=C3=BCr den haben wir dem <a href=3D"=
+https://www.fotoimpex.de/website/?nltr=3DMTs1MjMyNjtodHRwczovL3d3dy5mb3RvaW=
+1wZXguZGUvc2hvcC9hbmFsb2ctc3RhcnRzZXRzL2ZvdG9pbXBleC1zdGFydGVyLXNldC1maWxtL=
+WJhc2ljLmh0bWw7OzVjNDJjZTEwODJkYjM5MmM2MmQ1N2U4ZDlhN2YxMzRm">Analog Starter=
+ Kit</a> jetzt einen Messbecher und einen vormarkierten Messzylinder spendi=
+ert. Einfach mit Rodinal im Zylinder und Becher bis zur ersten Markierung f=
+=C3=BCllen und ihr habt alles f=C3=BCr einen Kleinbildfilm abgemessen. <br>=
+Auch neu ist eine bebilderte Anleitung welche jedem Kit beigelegt wird.</td=
+>
+                </tr>
+            </tbody></table>
+           =20
+        </td>
+    </tr>
+</tbody></table></td>
+</tr>
+</tbody></table><!--[if mso]></td></tr></table><![endif]-->
+</td>
+</tr></tbody></table><table style=3D"border-collapse: collapse; width: 100%=
+; position: relative; opacity: 1; left: 0px; top: 0px;" class=3D"tnpc-row t=
+npc-row-block ui-sortable-handle" data-id=3D"cta" width=3D"100%" cellspacin=
+g=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center"><tbody><tr><td data=
+-options=3D"options[text]=3DFilmtaschen&amp;options[url]=3Dhttps%3A%2F%2Fww=
+w.fotoimpex.de%2Fshop%2Ftaschen-und-kameragurte%2Fadox-filmtasche-schwarzes=
+-leder.html&amp;options[background]=3D%23fe3e3d&amp;options[color]=3D%23fff=
+fff&amp;options[font_family]=3DHelvetica%2C%20Arial%2C%20sans-serif&amp;opt=
+ions[font_size]=3D16&amp;options[font_weight]=3DNormal&amp;options[font_col=
+or]=3D&amp;options[width]=3D200&amp;options[block_background]=3D%23ffffff&a=
+mp;options[block_padding_top]=3D15&amp;options[block_padding_bottom]=3D15&a=
+mp;" style=3D"padding: 0; font-family: Helvetica, Arial, sans-serif;" class=
+=3D"edit-block" align=3D"center"><!--[if mso]><table border=3D"0" cellpaddi=
+ng=3D"0" align=3D"center" cellspacing=3D"0" width=3D"600"><tr><td width=3D"=
+600"><![endif]-->
+<table style=3D"width: 100%!important; max-width: 600px!important" width=3D=
+"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center">
+<tbody><tr>
+<td style=3D"text-align: center; padding-top: 15px; padding-left: 0px; padd=
+ing-right: 0px; padding-bottom: 15px; background-color: #ffffff;" width=3D"=
+100%" bgcolor=3D"#ffffff" align=3D"center">
+<a href=3D"https://www.fotoimpex.de/website/?nltr=3DMTs1MjMyNjtodHRwczovL3d=
+3dy5mb3RvaW1wZXguZGUvc2hvcC90YXNjaGVuLXVuZC1rYW1lcmFndXJ0ZS9hZG94LWZpbG10YX=
+NjaGUtc2Nod2FyemVzLWxlZGVyLmh0bWw7O2IxMjM3ZjljODlhNjZhNjI0YWQ2OTg3NjQ4OTc4Z=
+DMw" target=3D"_blank" rel=3D"noopener" style=3D"line-height: normal; font-=
+size: 16px; font-family: Helvetica, Arial, sans-serif; font-weight: Normal;=
+ color: #ffffff; text-decoration: none; background-color: #fe3e3d; border-t=
+op: 15px solid #fe3e3d; border-bottom: 15px solid #fe3e3d; border-left: 25p=
+x solid #fe3e3d; border-right: 25px solid #fe3e3d; width: 200px; max-width:=
+ 100%; box-sizing: border-box; border-radius: 3px; -webkit-border-radius: 3=
+px; -moz-border-radius: 3px; display: inline-block;">Filmtaschen</a>
+
+<div itemscope=3D"" itemtype=3D"http://schema.org/EmailMessage">
+    <div itemprop=3D"potentialAction" itemscope=3D"" itemtype=3D"http://sch=
+ema.org/ViewAction">
+        <meta itemprop=3D"url" content=3D"https://www.fotoimpex.de/shop/tas=
+chen-und-kameragurte/adox-filmtasche-schwarzes-leder.html">
+        <meta itemprop=3D"name" content=3D"Filmtaschen">
+    </div>
+    <meta itemprop=3D"description" content=3D"Filmtaschen">
+</div></td>
+</tr>
+</tbody></table><!--[if mso]></td></tr></table><![endif]--></td></tr></tbod=
+y></table><table style=3D"border-collapse: collapse; width: 100%;" class=3D=
+"tnpc-row ui-sortable-handle" data-id=3D"content-03-textblock" width=3D"100=
+%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center">
+<tbody><tr>
+<td style=3D"padding: 0;" align=3D"center">
+<!--[if mso]><table border=3D"0" cellpadding=3D"0" align=3D"center" cellspa=
+cing=3D"0" width=3D"600"><tr><td width=3D"600"><![endif]-->
+<table style=3D"width: 100%!important; max-width: 600px!important" width=3D=
+"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center">
+<tbody><tr>
+<td class=3D"edit-block" style=3D"text-align: center; padding-top: 15px; pa=
+dding-left: 0px; padding-right: 0px; padding-bottom: 15px; background-color=
+: #ffffff;" width=3D"100%" bgcolor=3D"#ffffff" align=3D"center">
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" alig=
+n=3D"center">
+    <tbody><tr>
+        <td style=3D"padding: 20px 15px 20px 15px;" align=3D"center">
+           =20
+            <table class=3D"responsive-table" style=3D"width: 100%!importan=
+t" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0">
+                <tbody><tr>
+                    <td style=3D"text-align: left; padding: 0 0 0 0; font-s=
+ize: 16px; line-height: 25px; color: #666666; font-family: Helvetica, Arial=
+, sans-serif;" class=3D"padding-copy tnpc-row-edit" data-type=3D"text" alig=
+n=3D"left"><span style=3D"font-family: arial, helvetica, sans-serifArial Bl=
+ack; color: #333333;"><strong>Dear </strong></span><span style=3D"font-fami=
+ly: arial, helvetica, sans-serifArial Black; color: #333333;"><strong><span=
+ style=3D"font-family: arial, helvetica, sans-serifArial Black; color: #333=
+333;"><strong>Dorian-Vasco&nbsp;</strong></span></strong></span><span style=
+=3D"font-family: arial, helvetica, sans-serifArial Black; color: #333333;">=
+<strong><span style=3D"font-family: arial, helvetica, sans-serifArial Black=
+; color: #333333;"><strong><span style=3D"font-family: arial, helvetica, sa=
+ns-serifArial Black; color: #333333;"><strong><strong>Nagel</strong></stron=
+g></span></strong></span>,</strong></span><br><br>spring is in the air and =
+this will be just the right time for our new italian handcrafted <a href=3D=
+"https://www.fotoimpex.de/website/?nltr=3DMTs1MjMyNjtodHRwczovL3d3dy5mb3Rva=
+W1wZXguY29tL3Bob3RvLWJhZ3Mtc3RyYXBzL2Fkb3gtbGVhdGhlci1maWxtY2FzZS1ibGFjay5o=
+dG1sOzthMGE3YWUxZWI5ZTY1MGQ1ZDMyYzlhMjU3MTc1OGY2Mg%3D%3D">leather film-belt=
+-pocket</a>. You can insert up to five 35mm or 120 films, take them out wit=
+h just one hand and place them back in after shooting.<br>If you want to de=
+velop your pictures afterwards we improved our <a href=3D"https://www.fotoi=
+mpex.de/website/?nltr=3DMTs1MjMyNjtodHRwczovL3d3dy5mb3RvaW1wZXguY29tL2FuYWx=
+vZy1zdGFydGVyLWtpdHMvZm90b2ltcGV4LXN0YXJ0ZXIta2l0LWZpbG0tYmFzaWMuaHRtbDs7ZG=
+Q3M2FiNGE1ZDYzMmI1MTc5ZDVkZDEyNzY1MWE3MGU%3D">analog starter kit</a> with a=
+ measuring beaker and a premarked cylinder for each one 35mm or one 120 fil=
+m to be developed in Rodinal. It now ships with a high quality multi color =
+printed instructions in english and german (allow some time for dealer stoc=
+ks to be penetrated).</td>
+                </tr>
+            </tbody></table>
+           =20
+        </td>
+    </tr>
+</tbody></table></td>
+</tr>
+</tbody></table><!--[if mso]></td></tr></table><![endif]-->
+</td>
+</tr></tbody></table><table style=3D"border-collapse: collapse; width: 100%=
+;" class=3D"tnpc-row tnpc-row-block ui-sortable-handle" data-id=3D"cta" wid=
+th=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"cente=
+r"><tbody><tr><td data-options=3D"options[text]=3DLeather%20Film%20Pouch&am=
+p;options[url]=3Dhttps%3A%2F%2Fwww.fotoimpex.com%2Fphoto-bags-straps%2Fadox=
+-leather-filmcase-black.html&amp;options[background]=3D%23fe3e3d&amp;option=
+s[color]=3D%23ffffff&amp;options[font_family]=3DHelvetica%2C%20Arial%2C%20s=
+ans-serif&amp;options[font_size]=3D16&amp;options[font_weight]=3DNormal&amp=
+;options[font_color]=3D&amp;options[width]=3D200&amp;options[block_backgrou=
+nd]=3D%23ffffff&amp;options[block_padding_top]=3D15&amp;options[block_paddi=
+ng_bottom]=3D15&amp;" style=3D"padding: 0; font-family: Helvetica, Arial, s=
+ans-serif;" class=3D"edit-block" align=3D"center"><!--[if mso]><table borde=
+r=3D"0" cellpadding=3D"0" align=3D"center" cellspacing=3D"0" width=3D"600">=
+<tr><td width=3D"600"><![endif]-->
+<table style=3D"width: 100%!important; max-width: 600px!important" width=3D=
+"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center">
+<tbody><tr>
+<td style=3D"text-align: center; padding-top: 15px; padding-left: 0px; padd=
+ing-right: 0px; padding-bottom: 15px; background-color: #ffffff;" width=3D"=
+100%" bgcolor=3D"#ffffff" align=3D"center">
+<a href=3D"https://www.fotoimpex.de/website/?nltr=3DMTs1MjMyNjtodHRwczovL3d=
+3dy5mb3RvaW1wZXguY29tL3Bob3RvLWJhZ3Mtc3RyYXBzL2Fkb3gtbGVhdGhlci1maWxtY2FzZS=
+1ibGFjay5odG1sOzthMGE3YWUxZWI5ZTY1MGQ1ZDMyYzlhMjU3MTc1OGY2Mg%3D%3D" target=
+=3D"_blank" rel=3D"noopener" style=3D"line-height: normal; font-size: 16px;=
+ font-family: Helvetica, Arial, sans-serif; font-weight: Normal; color: #ff=
+ffff; text-decoration: none; background-color: #fe3e3d; border-top: 15px so=
+lid #fe3e3d; border-bottom: 15px solid #fe3e3d; border-left: 25px solid #fe=
+3e3d; border-right: 25px solid #fe3e3d; width: 200px; max-width: 100%; box-=
+sizing: border-box; border-radius: 3px; -webkit-border-radius: 3px; -moz-bo=
+rder-radius: 3px; display: inline-block;">Leather Film Pouch</a>
+
+<div itemscope=3D"" itemtype=3D"http://schema.org/EmailMessage">
+    <div itemprop=3D"potentialAction" itemscope=3D"" itemtype=3D"http://sch=
+ema.org/ViewAction">
+        <meta itemprop=3D"url" content=3D"https://www.fotoimpex.com/photo-b=
+ags-straps/adox-leather-filmcase-black.html">
+        <meta itemprop=3D"name" content=3D"Leather Film Pouch">
+    </div>
+    <meta itemprop=3D"description" content=3D"Leather Film Pouch">
+</div></td>
+</tr>
+</tbody></table><!--[if mso]></td></tr></table><![endif]--></td></tr></tbod=
+y></table><table style=3D"border-collapse: collapse; width: 100%;" class=3D=
+"tnpc-row ui-sortable-handle" data-id=3D"content-05-imageblock" width=3D"10=
+0%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center">
+<tbody><tr>
+<td style=3D"padding: 0;" align=3D"center">
+<!--[if mso]><table border=3D"0" cellpadding=3D"0" align=3D"center" cellspa=
+cing=3D"0" width=3D"600"><tr><td width=3D"600"><![endif]-->
+<table style=3D"width: 100%!important; max-width: 600px!important" width=3D=
+"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center">
+<tbody><tr>
+<td class=3D"edit-block" style=3D"text-align: center; padding-top: 15px; pa=
+dding-left: 0px; padding-right: 0px; padding-bottom: 15px; background-color=
+: #ffffff;" width=3D"100%" bgcolor=3D"#ffffff" align=3D"center">
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" alig=
+n=3D"center">
+    <tbody><tr>
+        <td style=3D"padding: 0;" bgcolor=3D"#ffffff" align=3D"center">
+           =20
+            <div class=3D"tnpc-row-edit" data-type=3D"image">
+                <a href=3D"https://www.fotoimpex.de/website/?nltr=3DMTs1MjM=
+yNjtodHRwczovL3d3dy5mb3RvaW1wZXguZGUvc2hvcC90YXNjaGVuLXVuZC1rYW1lcmFndXJ0ZS=
+9hZG94LWZpbG10YXNjaGUtc2Nod2FyemVzLWxlZGVyLmh0bWw7O2IxMjM3ZjljODlhNjZhNjI0Y=
+WQ2OTg3NjQ4OTc4ZDMw" target=3D"_blank">
+                    <img src=3D"https://www.fotoimpex.de/website/wp-content=
+/uploads/2019/03/adox_filmtaschen.jpg" alt=3D"Insert alt text here" style=
+=3D"max-width: 100%!important; height: auto!important;display: block;" clas=
+s=3D"img-max" width=3D"" border=3D"0">
+                </a>
+            </div>
+           =20
+        </td>
+    </tr>
+</tbody></table></td>
+</tr>
+</tbody></table><!--[if mso]></td></tr></table><![endif]-->
+</td>
+</tr></tbody></table><table style=3D"border-collapse: collapse; width: 100%=
+;" class=3D"tnpc-row tnpc-row-block ui-sortable-handle" data-id=3D"separato=
+r" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=3D=
+"center"><tbody><tr><td data-options=3D"options[color]=3D%23fd3e3d&amp;opti=
+ons[height]=3D1&amp;" style=3D"padding: 0; font-family: Helvetica, Arial, s=
+ans-serif;" class=3D"edit-block" align=3D"center"><!--[if mso]><table borde=
+r=3D"0" cellpadding=3D"0" align=3D"center" cellspacing=3D"0" width=3D"600">=
+<tr><td width=3D"600"><![endif]-->
+<table style=3D"width: 100%!important; max-width: 600px!important" width=3D=
+"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center">
+<tbody><tr>
+<td style=3D"text-align: center; padding-top: 15px; padding-left: 0px; padd=
+ing-right: 0px; padding-bottom: 15px; background-color: #ffffff;" width=3D"=
+100%" bgcolor=3D"#ffffff" align=3D"center">
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" alig=
+n=3D"center">
+    <tbody><tr>
+        <td style=3D"border-bottom: 1px solid #fd3e3d;"></td>
+    </tr>
+</tbody></table></td>
+</tr>
+</tbody></table><!--[if mso]></td></tr></table><![endif]--></td></tr></tbod=
+y></table><table style=3D"border-collapse: collapse; width: 100%;" class=3D=
+"tnpc-row ui-sortable-handle" data-id=3D"content-02-headingblock" width=3D"=
+100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center">
+<tbody><tr>
+<td style=3D"padding: 0;" align=3D"center">
+<!--[if mso]><table border=3D"0" cellpadding=3D"0" align=3D"center" cellspa=
+cing=3D"0" width=3D"600"><tr><td width=3D"600"><![endif]-->
+<table style=3D"width: 100%!important; max-width: 600px!important" width=3D=
+"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center">
+<tbody><tr>
+<td class=3D"edit-block" style=3D"text-align: center; padding-top: 15px; pa=
+dding-left: 0px; padding-right: 0px; padding-bottom: 15px; background-color=
+: #ffffff;" width=3D"100%" bgcolor=3D"#ffffff" align=3D"center">
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" alig=
+n=3D"center">
+    <tbody><tr>
+        <td style=3D"padding: 15px;" align=3D"center">
+
+            <div style=3D"line-height: normal; font-size: 25px; font-family=
+: Helvetica; color: #333333; text-align: center; border: 0; width: 100%!imp=
+ortant; display: block; background-color: transparent" class=3D"tnpc-row-ed=
+it" data-type=3D"title">NEUER ADOX SCALA 50</div>
+
+        </td>
+    </tr>
+</tbody></table></td>
+</tr>
+</tbody></table><!--[if mso]></td></tr></table><![endif]-->
+</td>
+</tr></tbody></table><table style=3D"border-collapse: collapse; width: 100%=
+; position: relative; opacity: 1; left: 0px; top: 0px;" class=3D"tnpc-row t=
+npc-row-block ui-sortable-handle" data-id=3D"gallery" width=3D"100%" cellsp=
+acing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center"><tbody><tr><td =
+data-options=3D"options[layout]=3D1&amp;options[url]=3Dhttps%3A%2F%2Fwww.fo=
+toimpex.de%2Fshop%2Ffilme%2Fadox-scala-50-bw-13536.html&amp;options[image_1=
+][id]=3D965&amp;options[image_1][url]=3Dhttps%3A%2F%2Fwww.fotoimpex.de%2Fwe=
+bsite%2Fwp-content%2Fuploads%2F2019%2F03%2FADOX_Scala_50.jpg&amp;options[im=
+age_2][id]=3D964&amp;options[image_2][url]=3Dhttps%3A%2F%2Fwww.fotoimpex.de=
+%2Fwebsite%2Fwp-content%2Fuploads%2F2019%2F03%2Fadox_diakit02-1.jpg&amp;opt=
+ions[image_3][id]=3D0&amp;options[image_3][url]=3D&amp;options[image_4][id]=
+=3D0&amp;options[image_4][url]=3D&amp;options[image_5][id]=3D0&amp;options[=
+image_5][url]=3D&amp;options[image_6][id]=3D0&amp;options[image_6][url]=3D&=
+amp;options[image_7][id]=3D0&amp;options[image_7][url]=3D&amp;options[image=
+_8][id]=3D0&amp;options[image_8][url]=3D&amp;" style=3D"padding: 0; font-fa=
+mily: Helvetica, Arial, sans-serif;" class=3D"edit-block" align=3D"center">=
+<!--[if mso]><table border=3D"0" cellpadding=3D"0" align=3D"center" cellspa=
+cing=3D"0" width=3D"600"><tr><td width=3D"600"><![endif]-->
+<table style=3D"width: 100%!important; max-width: 600px!important" width=3D=
+"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center">
+<tbody><tr>
+<td style=3D"text-align: center; padding-top: 15px; padding-left: 0px; padd=
+ing-right: 0px; padding-bottom: 15px; background-color: #ffffff;" width=3D"=
+100%" bgcolor=3D"#ffffff" align=3D"center">
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" alig=
+n=3D"center">
+    <tbody><tr>
+        <td style=3D"padding: 15px 20px">
+                                                <table width=3D"100%" cells=
+pacing=3D"0" cellpadding=3D"0" border=3D"0">
+                        <tbody><tr>
+                            <td style=3D"text-align: center" align=3D"cente=
+r">
+                                                                    <span c=
+lass=3D"tnpc-row-edit gallery-thumbnail-img" data-type=3D"image" style=3D"d=
+isplay: inline-block;">
+                                        <a href=3D"https://www.fotoimpex.de=
+/website/?nltr=3DMTs1MjMyNjtodHRwczovL3d3dy5mb3RvaW1wZXguZGUvc2hvcC9maWxtZS=
+9hZG94LXNjYWxhLTUwLWJ3LTEzNTM2Lmh0bWw7O2JjNjBiYWIyZjQ1ZjY1OTQwZGUyMDYzODQzM=
+GEzY2My" target=3D"_blank"><img src=3D"https://www.fotoimpex.de/website/wp-=
+content/uploads/2019/03/ADOX_Scala_50-150x150.jpg"></a>
+                                    </span>
+                                                                    <span c=
+lass=3D"tnpc-row-edit gallery-thumbnail-img" data-type=3D"image" style=3D"d=
+isplay: inline-block;">
+                                        <a href=3D"https://www.fotoimpex.de=
+/website/?nltr=3DMTs1MjMyNjtodHRwczovL3d3dy5mb3RvaW1wZXguZGUvc2hvcC9maWxtZS=
+9hZG94LXNjYWxhLTUwLWJ3LTEzNTM2Lmh0bWw7O2JjNjBiYWIyZjQ1ZjY1OTQwZGUyMDYzODQzM=
+GEzY2My" target=3D"_blank"><img src=3D"https://www.fotoimpex.de/website/wp-=
+content/uploads/2019/03/adox_diakit02-1-150x150.jpg" alt=3D"" width=3D""></=
+a>
+                                    </span>
+                                                            </td>
+                        </tr>
+                    </tbody></table>
+               =20
+               =20
+
+
+           =20
+        </td>
+    </tr>
+</tbody></table></td>
+</tr>
+</tbody></table><!--[if mso]></td></tr></table><![endif]--></td></tr></tbod=
+y></table><table style=3D"border-collapse: collapse; width: 100%;" class=3D=
+"tnpc-row ui-sortable-handle" data-id=3D"content-03-textblock" width=3D"100=
+%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center">
+<tbody><tr>
+<td style=3D"padding: 0;" align=3D"center">
+<!--[if mso]><table border=3D"0" cellpadding=3D"0" align=3D"center" cellspa=
+cing=3D"0" width=3D"600"><tr><td width=3D"600"><![endif]-->
+<table style=3D"width: 100%!important; max-width: 600px!important" width=3D=
+"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center">
+<tbody><tr>
+<td class=3D"edit-block" style=3D"text-align: center; padding-top: 15px; pa=
+dding-left: 0px; padding-right: 0px; padding-bottom: 15px; background-color=
+: #ffffff;" width=3D"100%" bgcolor=3D"#ffffff" align=3D"center">
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" alig=
+n=3D"center">
+    <tbody><tr>
+        <td style=3D"padding: 20px 15px 20px 15px;" align=3D"center">
+           =20
+            <table class=3D"responsive-table" style=3D"width: 100%!importan=
+t" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0">
+                <tbody><tr>
+                    <td style=3D"text-align: left; padding: 0 0 0 0; font-s=
+ize: 16px; line-height: 25px; color: #666666; font-family: Helvetica, Arial=
+, sans-serif;" class=3D"padding-copy tnpc-row-edit" data-type=3D"text" alig=
+n=3D"left">Der neue ADOX SCALA 50 ist ein hochaufl=C3=B6sender S/W Diafilm =
+mit sehr gutem Kopierumfang, niedrigem DMIN und hohem DMAX.<br>Der ADOX SCA=
+LA 50 ist auf glasklares PET gegossen und basiert auf dem HR-50 mit "SPEED =
+BOOST" Technologie.<br>Er kann im neuen ADOX Umkehrkit (voraussichtlich lie=
+ferbar ab April) oder bei <a href=3D"https://www.fotoimpex.de/website/?nltr=
+=3DMTs1MjMyNjtodHRwOi8vd3d3LmFkb3guZGUvUGhvdG8vaHItNTAtYmVpLXN0dWRpby0xMy1p=
+bi1kZXItc2NhbGEtZW50d2lja2x1bmcvOztkYmM1Y2FiNzU0NmI2M2FiMTc1MDM2OGJjNDU1MWZ=
+jNw%3D%3D">Fotostudio 13 in Stuttgart</a> entwickelt werden. Im ADOX Kit ko=
+mmt er neutralschwarz. <br>Die Markteinf=C3=BChrung der Rollfilmvariante is=
+t ebenfalls zeitnah geplant.</td>
+                </tr>
+            </tbody></table>
+           =20
+        </td>
+    </tr>
+</tbody></table></td>
+</tr>
+</tbody></table><!--[if mso]></td></tr></table><![endif]-->
+</td>
+</tr></tbody></table><table style=3D"border-collapse: collapse; width: 100%=
+;" class=3D"tnpc-row tnpc-row-block ui-sortable-handle" data-id=3D"cta" wid=
+th=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"cente=
+r"><tbody><tr><td data-options=3D"options[text]=3DSCALA%2050%20KAUFEN&amp;o=
+ptions[url]=3Dhttps%3A%2F%2Fwww.fotoimpex.de%2Fshop%2Ffilme%2Fadox-scala-50=
+-bw-13536.html&amp;options[background]=3D%23fe3e3d&amp;options[color]=3D%23=
+ffffff&amp;options[font_family]=3DHelvetica%2C%20Arial%2C%20sans-serif&amp;=
+options[font_size]=3D16&amp;options[font_weight]=3DNormal&amp;options[font_=
+color]=3D%23fe3e3d&amp;options[width]=3D200&amp;options[block_background]=
+=3D%23ffffff&amp;options[block_padding_top]=3D15&amp;options[block_padding_=
+bottom]=3D15&amp;" style=3D"padding: 0; font-family: Helvetica, Arial, sans=
+-serif;" class=3D"edit-block" align=3D"center"><!--[if mso]><table border=
+=3D"0" cellpadding=3D"0" align=3D"center" cellspacing=3D"0" width=3D"600"><=
+tr><td width=3D"600"><![endif]-->
+<table style=3D"width: 100%!important; max-width: 600px!important" width=3D=
+"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center">
+<tbody><tr>
+<td style=3D"text-align: center; padding-top: 15px; padding-left: 0px; padd=
+ing-right: 0px; padding-bottom: 15px; background-color: #ffffff;" width=3D"=
+100%" bgcolor=3D"#ffffff" align=3D"center">
+<a href=3D"https://www.fotoimpex.de/website/?nltr=3DMTs1MjMyNjtodHRwczovL3d=
+3dy5mb3RvaW1wZXguZGUvc2hvcC9maWxtZS9hZG94LXNjYWxhLTUwLWJ3LTEzNTM2Lmh0bWw7O2=
+JjNjBiYWIyZjQ1ZjY1OTQwZGUyMDYzODQzMGEzY2My" target=3D"_blank" rel=3D"noopen=
+er" style=3D"line-height: normal; font-size: 16px; font-family: Helvetica, =
+Arial, sans-serif; font-weight: Normal; color: #ffffff; text-decoration: no=
+ne; background-color: #fe3e3d; border-top: 15px solid #fe3e3d; border-botto=
+m: 15px solid #fe3e3d; border-left: 25px solid #fe3e3d; border-right: 25px =
+solid #fe3e3d; width: 200px; max-width: 100%; box-sizing: border-box; borde=
+r-radius: 3px; -webkit-border-radius: 3px; -moz-border-radius: 3px; display=
+: inline-block;">SCALA 50 KAUFEN</a>
+
+<div itemscope=3D"" itemtype=3D"http://schema.org/EmailMessage">
+    <div itemprop=3D"potentialAction" itemscope=3D"" itemtype=3D"http://sch=
+ema.org/ViewAction">
+        <meta itemprop=3D"url" content=3D"https://www.fotoimpex.de/shop/fil=
+me/adox-scala-50-bw-13536.html">
+        <meta itemprop=3D"name" content=3D"SCALA 50 KAUFEN">
+    </div>
+    <meta itemprop=3D"description" content=3D"SCALA 50 KAUFEN">
+</div></td>
+</tr>
+</tbody></table><!--[if mso]></td></tr></table><![endif]--></td></tr></tbod=
+y></table><table style=3D"border-collapse: collapse; width: 100%;" class=3D=
+"tnpc-row ui-sortable-handle" data-id=3D"content-03-textblock" width=3D"100=
+%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center">
+<tbody><tr>
+<td style=3D"padding: 0;" align=3D"center">
+<!--[if mso]><table border=3D"0" cellpadding=3D"0" align=3D"center" cellspa=
+cing=3D"0" width=3D"600"><tr><td width=3D"600"><![endif]-->
+<table style=3D"width: 100%!important; max-width: 600px!important" width=3D=
+"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center">
+<tbody><tr>
+<td class=3D"edit-block" style=3D"text-align: center; padding-top: 15px; pa=
+dding-left: 0px; padding-right: 0px; padding-bottom: 15px; background-color=
+: #ffffff;" width=3D"100%" bgcolor=3D"#ffffff" align=3D"center">
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" alig=
+n=3D"center">
+    <tbody><tr>
+        <td style=3D"padding: 20px 15px 20px 15px;" align=3D"center">
+           =20
+            <table class=3D"responsive-table" style=3D"width: 100%!importan=
+t" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0">
+                <tbody><tr>
+                    <td style=3D"text-align: left; padding: 0 0 0 0; font-s=
+ize: 16px; line-height: 25px; color: #666666; font-family: Helvetica, Arial=
+, sans-serif;" class=3D"padding-copy tnpc-row-edit" data-type=3D"text" alig=
+n=3D"left"><br>The new ADOX SCALA 50 is a high resolution B/W slide film wi=
+th a high copy range, low DMIN and very good DMAX. It is coated onto a clea=
+r PET base. The films is based on ADOX HR-50 with "SPEED BOOST" technology.=
+<br>The new ADOX SCALA 50 can be reversal developed in the new ADOX reversa=
+l kit with neutral image tones (ships after April 1st) or alternatively <a =
+href=3D"https://www.fotoimpex.de/website/?nltr=3DMTs1MjMyNjtodHRwOi8vd3d3Lm=
+Fkb3guZGUvUGhvdG8vYWRveC1oci01MC1zY2FsYS01MC1pbi10aGUtcmV2ZXJzYWwtZGV2ZWxvc=
+G1lbnQtc3R1ZGlvMTMtc3R1dHRnYXJ0Lzs7YTBkOWUzYjMzZmZjNjIzZGVjNzhjZjI2ODE1MjY5=
+NjQ%3D">with Studio 13 in Stuttgart</a> yielding a slightly warmer tone.<br=
+>The market introduction of the 120 version is planned in short time now.</=
+td>
+                </tr>
+            </tbody></table>
+           =20
+        </td>
+    </tr>
+</tbody></table></td>
+</tr>
+</tbody></table><!--[if mso]></td></tr></table><![endif]-->
+</td>
+</tr></tbody></table><table style=3D"border-collapse: collapse; width: 100%=
+; position: relative; opacity: 1; left: 0px; top: 0px;" class=3D"tnpc-row t=
+npc-row-block ui-sortable-handle" data-id=3D"cta" width=3D"100%" cellspacin=
+g=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center"><tbody><tr><td data=
+-options=3D"options[text]=3DBuy%20SCALA%2050&amp;options[url]=3Dhttps%3A%2F=
+%2Fwww.fotoimpex.com%2Ffilms%2Fadox-scala-50-bw-13536.html&amp;options[back=
+ground]=3D%23fe3e3d&amp;options[color]=3D%23ffffff&amp;options[font_family]=
+=3DHelvetica%2C%20Arial%2C%20sans-serif&amp;options[font_size]=3D16&amp;opt=
+ions[font_weight]=3DNormal&amp;options[font_color]=3D&amp;options[width]=3D=
+200&amp;options[block_background]=3D%23ffffff&amp;options[block_padding_top=
+]=3D15&amp;options[block_padding_bottom]=3D15&amp;" style=3D"padding: 0; fo=
+nt-family: Helvetica, Arial, sans-serif;" class=3D"edit-block" align=3D"cen=
+ter"><!--[if mso]><table border=3D"0" cellpadding=3D"0" align=3D"center" ce=
+llspacing=3D"0" width=3D"600"><tr><td width=3D"600"><![endif]-->
+<table style=3D"width: 100%!important; max-width: 600px!important" width=3D=
+"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center">
+<tbody><tr>
+<td style=3D"text-align: center; padding-top: 15px; padding-left: 0px; padd=
+ing-right: 0px; padding-bottom: 15px; background-color: #ffffff;" width=3D"=
+100%" bgcolor=3D"#ffffff" align=3D"center">
+<a href=3D"https://www.fotoimpex.de/website/?nltr=3DMTs1MjMyNjtodHRwczovL3d=
+3dy5mb3RvaW1wZXguY29tL2ZpbG1zL2Fkb3gtc2NhbGEtNTAtYnctMTM1MzYuaHRtbDs7MjQ0Y2=
+VjZDE3MzYzZDY1MTJhNWYwNzBhM2UyY2UxZDE%3D" target=3D"_blank" rel=3D"noopener=
+" style=3D"line-height: normal; font-size: 16px; font-family: Helvetica, Ar=
+ial, sans-serif; font-weight: Normal; color: #ffffff; text-decoration: none=
+; background-color: #fe3e3d; border-top: 15px solid #fe3e3d; border-bottom:=
+ 15px solid #fe3e3d; border-left: 25px solid #fe3e3d; border-right: 25px so=
+lid #fe3e3d; width: 200px; max-width: 100%; box-sizing: border-box; border-=
+radius: 3px; -webkit-border-radius: 3px; -moz-border-radius: 3px; display: =
+inline-block;">Buy SCALA 50</a>
+
+<div itemscope=3D"" itemtype=3D"http://schema.org/EmailMessage">
+    <div itemprop=3D"potentialAction" itemscope=3D"" itemtype=3D"http://sch=
+ema.org/ViewAction">
+        <meta itemprop=3D"url" content=3D"https://www.fotoimpex.com/films/a=
+dox-scala-50-bw-13536.html">
+        <meta itemprop=3D"name" content=3D"Buy SCALA 50">
+    </div>
+    <meta itemprop=3D"description" content=3D"Buy SCALA 50">
+</div></td>
+</tr>
+</tbody></table><!--[if mso]></td></tr></table><![endif]--></td></tr></tbod=
+y></table><table style=3D"border-collapse: collapse; width: 100%; position:=
+ relative; opacity: 1; left: 0px; top: 0px;" class=3D"tnpc-row tnpc-row-blo=
+ck ui-sortable-handle" data-id=3D"separator" width=3D"100%" cellspacing=3D"=
+0" cellpadding=3D"0" border=3D"0" align=3D"center"><tbody><tr><td data-opti=
+ons=3D"options[color]=3D%23fe3e3d&amp;options[height]=3D1&amp;" style=3D"pa=
+dding: 0; font-family: Helvetica, Arial, sans-serif;" class=3D"edit-block" =
+align=3D"center"><!--[if mso]><table border=3D"0" cellpadding=3D"0" align=
+=3D"center" cellspacing=3D"0" width=3D"600"><tr><td width=3D"600"><![endif]=
+-->
+<table style=3D"width: 100%!important; max-width: 600px!important" width=3D=
+"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center">
+<tbody><tr>
+<td style=3D"text-align: center; padding-top: 15px; padding-left: 0px; padd=
+ing-right: 0px; padding-bottom: 15px; background-color: #ffffff;" width=3D"=
+100%" bgcolor=3D"#ffffff" align=3D"center">
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" alig=
+n=3D"center">
+    <tbody><tr>
+        <td style=3D"border-bottom: 1px solid #fe3e3d;"></td>
+    </tr>
+</tbody></table></td>
+</tr>
+</tbody></table><!--[if mso]></td></tr></table><![endif]--></td></tr></tbod=
+y></table><table style=3D"border-collapse: collapse; width: 100%; position:=
+ relative; opacity: 1; left: 0px; top: 0px;" class=3D"tnpc-row ui-sortable-=
+handle" data-id=3D"content-02-headingblock" width=3D"100%" cellspacing=3D"0=
+" cellpadding=3D"0" border=3D"0" align=3D"center">
+<tbody><tr>
+<td style=3D"padding: 0;" align=3D"center">
+<!--[if mso]><table border=3D"0" cellpadding=3D"0" align=3D"center" cellspa=
+cing=3D"0" width=3D"600"><tr><td width=3D"600"><![endif]-->
+<table style=3D"width: 100%!important; max-width: 600px!important" width=3D=
+"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center">
+<tbody><tr>
+<td class=3D"edit-block" style=3D"text-align: center; padding-top: 15px; pa=
+dding-left: 0px; padding-right: 0px; padding-bottom: 15px; background-color=
+: #ffffff;" width=3D"100%" bgcolor=3D"#ffffff" align=3D"center">
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" alig=
+n=3D"center">
+    <tbody><tr>
+        <td style=3D"padding: 15px;" align=3D"center">
+
+            <div style=3D"line-height: normal; font-size: 25px; font-family=
+: Helvetica; color: #333333; text-align: center; border: 0; width: 100%!imp=
+ortant; display: block; background-color: transparent" class=3D"tnpc-row-ed=
+it" data-type=3D"title">NEU APOTHEKERFLASCHEN</div>
+
+        </td>
+    </tr>
+</tbody></table></td>
+</tr>
+</tbody></table><!--[if mso]></td></tr></table><![endif]-->
+</td>
+</tr></tbody></table><table style=3D"border-collapse: collapse; width: 100%=
+; position: relative; opacity: 1; left: 0px; top: 0px;" class=3D"tnpc-row u=
+i-sortable-handle" data-id=3D"content-05-imageblock" width=3D"100%" cellspa=
+cing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center">
+<tbody><tr>
+<td style=3D"padding: 0;" align=3D"center">
+<!--[if mso]><table border=3D"0" cellpadding=3D"0" align=3D"center" cellspa=
+cing=3D"0" width=3D"600"><tr><td width=3D"600"><![endif]-->
+<table style=3D"width: 100%!important; max-width: 600px!important" width=3D=
+"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center">
+<tbody><tr>
+<td class=3D"edit-block" style=3D"text-align: center; padding-top: 15px; pa=
+dding-left: 0px; padding-right: 0px; padding-bottom: 15px; background-color=
+: #ffffff;" width=3D"100%" bgcolor=3D"#ffffff" align=3D"center">
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" alig=
+n=3D"center">
+    <tbody><tr>
+        <td style=3D"padding: 0;" bgcolor=3D"#ffffff" align=3D"center">
+           =20
+            <div class=3D"tnpc-row-edit" data-type=3D"image">
+                <a href=3D"https://www.fotoimpex.de/website/?nltr=3DMTs1MjM=
+yNjtodHRwczovL3d3dy5mb3RvaW1wZXguZGUvc2hvcC9mb3RvbGFib3IvZm90b2ltcGV4LWFwb3=
+RoZWtlcmZsYXNjaGUtZ2xhcy13ZWl0aGFscy1icmF1bi0xMDAwLW1sLmh0bWw7OzI2MTI4NWJkO=
+WMxMzlkODc5ODM4YmRlOTJiNzk3ZTIy" target=3D"_blank">
+                    <img src=3D"https://www.fotoimpex.de/website/wp-content=
+/uploads/2019/03/laborflaschen.jpg" alt=3D"Insert alt text here" style=3D"m=
+ax-width: 100%!important; height: auto!important;display: block;" class=3D"=
+img-max" width=3D"" border=3D"0">
+                </a>
+            </div>
+           =20
+        </td>
+    </tr>
+</tbody></table></td>
+</tr>
+</tbody></table><!--[if mso]></td></tr></table><![endif]-->
+</td>
+</tr></tbody></table><table style=3D"border-collapse: collapse; width: 100%=
+; position: relative; opacity: 1; left: 0px; top: 0px;" class=3D"tnpc-row u=
+i-sortable-handle" data-id=3D"content-03-textblock" width=3D"100%" cellspac=
+ing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center">
+<tbody><tr>
+<td style=3D"padding: 0;" align=3D"center">
+<!--[if mso]><table border=3D"0" cellpadding=3D"0" align=3D"center" cellspa=
+cing=3D"0" width=3D"600"><tr><td width=3D"600"><![endif]-->
+<table style=3D"width: 100%!important; max-width: 600px!important" width=3D=
+"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center">
+<tbody><tr>
+<td class=3D"edit-block" style=3D"text-align: center; padding-top: 15px; pa=
+dding-left: 0px; padding-right: 0px; padding-bottom: 15px; background-color=
+: #ffffff;" width=3D"100%" bgcolor=3D"#ffffff" align=3D"center">
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" alig=
+n=3D"center">
+    <tbody><tr>
+        <td style=3D"padding: 20px 15px 20px 15px;" align=3D"center">
+           =20
+            <table class=3D"responsive-table" style=3D"width: 100%!importan=
+t" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0">
+                <tbody><tr>
+                    <td style=3D"text-align: left; padding: 0 0 0 0; font-s=
+ize: 16px; line-height: 25px; color: #666666; font-family: Helvetica, Arial=
+, sans-serif;" class=3D"padding-copy tnpc-row-edit" data-type=3D"text" alig=
+n=3D"left">Das beste was ihrem Chemieansatz passieren kann, ist die Aufbewa=
+hrung in einer dunklen Glasflasche.<br>Durch den Weithals ist das bef=C3=
+=BCllen, entleeren und Reinigen der Flaschen kinderleicht.<br>Wenn sie nich=
+t zerbricht, h=C3=A4lt so eine Flasche Jahrzente. <br>Gefahr droht h=C3=
+=B6chstens von der Partnerin/dem Partner. Es sind schon diverse F=C3=A4lle =
+bekannt geworden wo anst=C3=A4ndige Chemikalienflaschen zu Blumenvasen degr=
+adiert worden sind!<br>Daher bieten wir sie im preiswerten 5er Pack ab 1,99=
+ an.</td>
+                </tr>
+            </tbody></table>
+           =20
+        </td>
+    </tr>
+</tbody></table></td>
+</tr>
+</tbody></table><!--[if mso]></td></tr></table><![endif]-->
+</td>
+</tr></tbody></table><table style=3D"border-collapse: collapse; width: 100%=
+; position: relative; opacity: 1; left: 0px; top: 0px;" class=3D"tnpc-row t=
+npc-row-block ui-sortable-handle" data-id=3D"cta" width=3D"100%" cellspacin=
+g=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center"><tbody><tr><td data=
+-options=3D"options[text]=3DSch%C3%B6ne%20Flaschen&amp;options[url]=3Dhttps=
+%3A%2F%2Fwww.fotoimpex.de%2Fshop%2Ffotolabor%2Ffotoimpex-apothekerflasche-g=
+las-weithals-braun-500-ml.html&amp;options[background]=3D%23fe3e3d&amp;opti=
+ons[color]=3D%23ffffff&amp;options[font_family]=3DHelvetica%2C%20Arial%2C%2=
+0sans-serif&amp;options[font_size]=3D16&amp;options[font_weight]=3DNormal&a=
+mp;options[font_color]=3D&amp;options[width]=3D200&amp;options[block_backgr=
+ound]=3D%23ffffff&amp;options[block_padding_top]=3D15&amp;options[block_pad=
+ding_bottom]=3D15&amp;" style=3D"padding: 0; font-family: Helvetica, Arial,=
+ sans-serif;" class=3D"edit-block" align=3D"center"><!--[if mso]><table bor=
+der=3D"0" cellpadding=3D"0" align=3D"center" cellspacing=3D"0" width=3D"600=
+"><tr><td width=3D"600"><![endif]-->
+<table style=3D"width: 100%!important; max-width: 600px!important" width=3D=
+"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center">
+<tbody><tr>
+<td style=3D"text-align: center; padding-top: 15px; padding-left: 0px; padd=
+ing-right: 0px; padding-bottom: 15px; background-color: #ffffff;" width=3D"=
+100%" bgcolor=3D"#ffffff" align=3D"center">
+<a href=3D"https://www.fotoimpex.de/website/?nltr=3DMTs1MjMyNjtodHRwczovL3d=
+3dy5mb3RvaW1wZXguZGUvc2hvcC9mb3RvbGFib3IvZm90b2ltcGV4LWFwb3RoZWtlcmZsYXNjaG=
+UtZ2xhcy13ZWl0aGFscy1icmF1bi01MDAtbWwuaHRtbDs7YmMzOGQyOTc2MGFmOTFlZWJlNDc4N=
+zRkZDliZjA2MjY%3D" target=3D"_blank" rel=3D"noopener" style=3D"line-height:=
+ normal; font-size: 16px; font-family: Helvetica, Arial, sans-serif; font-w=
+eight: Normal; color: #ffffff; text-decoration: none; background-color: #fe=
+3e3d; border-top: 15px solid #fe3e3d; border-bottom: 15px solid #fe3e3d; bo=
+rder-left: 25px solid #fe3e3d; border-right: 25px solid #fe3e3d; width: 200=
+px; max-width: 100%; box-sizing: border-box; border-radius: 3px; -webkit-bo=
+rder-radius: 3px; -moz-border-radius: 3px; display: inline-block;">Sch=
+=C3=B6ne Flaschen</a>
+
+<div itemscope=3D"" itemtype=3D"http://schema.org/EmailMessage">
+    <div itemprop=3D"potentialAction" itemscope=3D"" itemtype=3D"http://sch=
+ema.org/ViewAction">
+        <meta itemprop=3D"url" content=3D"https://www.fotoimpex.de/shop/fot=
+olabor/fotoimpex-apothekerflasche-glas-weithals-braun-500-ml.html">
+        <meta itemprop=3D"name" content=3D"Sch=C3=B6ne Flaschen">
+    </div>
+    <meta itemprop=3D"description" content=3D"Sch=C3=B6ne Flaschen">
+</div></td>
+</tr>
+</tbody></table><!--[if mso]></td></tr></table><![endif]--></td></tr></tbod=
+y></table><table style=3D"border-collapse: collapse; width: 100%; position:=
+ relative; opacity: 1; left: 0px; top: 0px;" class=3D"tnpc-row ui-sortable-=
+handle" data-id=3D"content-03-textblock" width=3D"100%" cellspacing=3D"0" c=
+ellpadding=3D"0" border=3D"0" align=3D"center">
+<tbody><tr>
+<td style=3D"padding: 0;" align=3D"center">
+<!--[if mso]><table border=3D"0" cellpadding=3D"0" align=3D"center" cellspa=
+cing=3D"0" width=3D"600"><tr><td width=3D"600"><![endif]-->
+<table style=3D"width: 100%!important; max-width: 600px!important" width=3D=
+"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center">
+<tbody><tr>
+<td class=3D"edit-block" style=3D"text-align: center; padding-top: 15px; pa=
+dding-left: 0px; padding-right: 0px; padding-bottom: 15px; background-color=
+: #ffffff;" width=3D"100%" bgcolor=3D"#ffffff" align=3D"center">
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" alig=
+n=3D"center">
+    <tbody><tr>
+        <td style=3D"padding: 20px 15px 20px 15px;" align=3D"center">
+           =20
+            <table class=3D"responsive-table" style=3D"width: 100%!importan=
+t" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0">
+                <tbody><tr>
+                    <td style=3D"text-align: left; padding: 0 0 0 0; font-s=
+ize: 16px; line-height: 25px; color: #666666; font-family: Helvetica, Arial=
+, sans-serif;" class=3D"padding-copy tnpc-row-edit" data-type=3D"text" alig=
+n=3D"left">The best thing which can happen to a chemical mixing is to be st=
+ored in a glass bottle.<br>Chemistry will last much longer than in a PE bot=
+tle. Our brown chemical bottles feature a wide mouth so you can easily pour=
+ in, out or clean them.<br>These bottles will last a lifetime if they do no=
+t fall down and break. <br>The true danger is your partner stealing them fr=
+om the laboratory to downgrade a proud chemical bottle to a flower vase.<br=
+>That=C2=B4s why we made bundles of five at a discounted price.<br>Starting=
+ at 1,99 EUR=C2=B4s.</td>
+                </tr>
+            </tbody></table>
+           =20
+        </td>
+    </tr>
+</tbody></table></td>
+</tr>
+</tbody></table><!--[if mso]></td></tr></table><![endif]-->
+</td>
+</tr></tbody></table><table style=3D"border-collapse: collapse; width: 100%=
+; position: relative; opacity: 1; left: 0px; top: 0px;" class=3D"tnpc-row t=
+npc-row-block ui-sortable-handle" data-id=3D"cta" width=3D"100%" cellspacin=
+g=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center"><tbody><tr><td data=
+-options=3D"options[text]=3DBeautiful%20Bottles&amp;options[url]=3Dhttps%3A=
+%2F%2Fwww.fotoimpex.com%2Fdarkroom%2Ffotoimpex-apothekerflasche-glas-weitha=
+ls-braun-500-ml.html&amp;options[background]=3D%23fe3e3d&amp;options[color]=
+=3D%23ffffff&amp;options[font_family]=3DHelvetica%2C%20Arial%2C%20sans-seri=
+f&amp;options[font_size]=3D16&amp;options[font_weight]=3DNormal&amp;options=
+[font_color]=3D&amp;options[width]=3D200&amp;options[block_background]=3D%2=
+3ffffff&amp;options[block_padding_top]=3D15&amp;options[block_padding_botto=
+m]=3D15&amp;" style=3D"padding: 0; font-family: Helvetica, Arial, sans-seri=
+f;" class=3D"edit-block" align=3D"center"><!--[if mso]><table border=3D"0" =
+cellpadding=3D"0" align=3D"center" cellspacing=3D"0" width=3D"600"><tr><td =
+width=3D"600"><![endif]-->
+<table style=3D"width: 100%!important; max-width: 600px!important" width=3D=
+"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center">
+<tbody><tr>
+<td style=3D"text-align: center; padding-top: 15px; padding-left: 0px; padd=
+ing-right: 0px; padding-bottom: 15px; background-color: #ffffff;" width=3D"=
+100%" bgcolor=3D"#ffffff" align=3D"center">
+<a href=3D"https://www.fotoimpex.de/website/?nltr=3DMTs1MjMyNjtodHRwczovL3d=
+3dy5mb3RvaW1wZXguY29tL2Rhcmtyb29tL2ZvdG9pbXBleC1hcG90aGVrZXJmbGFzY2hlLWdsYX=
+Mtd2VpdGhhbHMtYnJhdW4tNTAwLW1sLmh0bWw7OzI4NTlhMjJkNGU1NzdmZmVlNjU1ODNjNGZjM=
+zFkM2Jl" target=3D"_blank" rel=3D"noopener" style=3D"line-height: normal; f=
+ont-size: 16px; font-family: Helvetica, Arial, sans-serif; font-weight: Nor=
+mal; color: #ffffff; text-decoration: none; background-color: #fe3e3d; bord=
+er-top: 15px solid #fe3e3d; border-bottom: 15px solid #fe3e3d; border-left:=
+ 25px solid #fe3e3d; border-right: 25px solid #fe3e3d; width: 200px; max-wi=
+dth: 100%; box-sizing: border-box; border-radius: 3px; -webkit-border-radiu=
+s: 3px; -moz-border-radius: 3px; display: inline-block;">Beautiful Bottles<=
+/a>
+
+<div itemscope=3D"" itemtype=3D"http://schema.org/EmailMessage">
+    <div itemprop=3D"potentialAction" itemscope=3D"" itemtype=3D"http://sch=
+ema.org/ViewAction">
+        <meta itemprop=3D"url" content=3D"https://www.fotoimpex.com/darkroo=
+m/fotoimpex-apothekerflasche-glas-weithals-braun-500-ml.html">
+        <meta itemprop=3D"name" content=3D"Beautiful Bottles">
+    </div>
+    <meta itemprop=3D"description" content=3D"Beautiful Bottles">
+</div></td>
+</tr>
+</tbody></table><!--[if mso]></td></tr></table><![endif]--></td></tr></tbod=
+y></table><table style=3D"border-collapse: collapse; width: 100%; position:=
+ relative; opacity: 1; left: 0px; top: 0px;" class=3D"tnpc-row tnpc-row-blo=
+ck ui-sortable-handle" data-id=3D"separator" width=3D"100%" cellspacing=3D"=
+0" cellpadding=3D"0" border=3D"0" align=3D"center"><tbody><tr><td data-opti=
+ons=3D"options[color]=3D%23fe3e3d&amp;options[height]=3D1&amp;" style=3D"pa=
+dding: 0; font-family: Helvetica, Arial, sans-serif;" class=3D"edit-block" =
+align=3D"center"><!--[if mso]><table border=3D"0" cellpadding=3D"0" align=
+=3D"center" cellspacing=3D"0" width=3D"600"><tr><td width=3D"600"><![endif]=
+-->
+<table style=3D"width: 100%!important; max-width: 600px!important" width=3D=
+"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center">
+<tbody><tr>
+<td style=3D"text-align: center; padding-top: 15px; padding-left: 0px; padd=
+ing-right: 0px; padding-bottom: 15px; background-color: #ffffff;" width=3D"=
+100%" bgcolor=3D"#ffffff" align=3D"center">
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" alig=
+n=3D"center">
+    <tbody><tr>
+        <td style=3D"border-bottom: 1px solid #fe3e3d;"></td>
+    </tr>
+</tbody></table></td>
+</tr>
+</tbody></table><!--[if mso]></td></tr></table><![endif]--></td></tr></tbod=
+y></table><table style=3D"border-collapse: collapse; width: 100%;" class=3D=
+"tnpc-row ui-sortable-handle" data-id=3D"content-05-imageblock" width=3D"10=
+0%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center">
+<tbody><tr>
+<td style=3D"padding: 0;" align=3D"center">
+<!--[if mso]><table border=3D"0" cellpadding=3D"0" align=3D"center" cellspa=
+cing=3D"0" width=3D"600"><tr><td width=3D"600"><![endif]-->
+<table style=3D"width: 100%!important; max-width: 600px!important" width=3D=
+"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center">
+<tbody><tr>
+<td class=3D"edit-block" style=3D"text-align: center; padding-top: 15px; pa=
+dding-left: 0px; padding-right: 0px; padding-bottom: 15px; background-color=
+: #ffffff;" width=3D"100%" bgcolor=3D"#ffffff" align=3D"center">
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" alig=
+n=3D"center">
+    <tbody><tr>
+        <td style=3D"padding: 0;" bgcolor=3D"#ffffff" align=3D"center">
+           =20
+            <div class=3D"tnpc-row-edit" data-type=3D"image">
+                <a href=3D"https://www.fotoimpex.de/website/?nltr=3DMTs1MjM=
+yNjtodHRwczovL3d3dy5mb3RvaW1wZXguZGUvc2hvcC9mb3RvbGFib3IvYWRveC1tZXNzYmVjaG=
+VyLTEwMDAtbWwuaHRtbDs7ZTMzODBiNzliOGM4NWM1MjZlOTZkMzE1NmM1N2QxN2E%3D" targe=
+t=3D"_blank">
+                    <img src=3D"https://www.fotoimpex.de/website/wp-content=
+/uploads/2019/03/Fotoimpex_Messbecher_1000ml.jpg" alt=3D"Insert alt text he=
+re" style=3D"max-width: 100%!important; height: auto!important;display: blo=
+ck;" class=3D"img-max" width=3D"" border=3D"0">
+                </a>
+            </div>
+           =20
+        </td>
+    </tr>
+</tbody></table></td>
+</tr>
+</tbody></table><!--[if mso]></td></tr></table><![endif]-->
+</td>
+</tr></tbody></table><table style=3D"border-collapse: collapse; width: 100%=
+;" class=3D"tnpc-row ui-sortable-handle" data-id=3D"content-03-textblock" w=
+idth=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"cen=
+ter">
+<tbody><tr>
+<td style=3D"padding: 0;" align=3D"center">
+<!--[if mso]><table border=3D"0" cellpadding=3D"0" align=3D"center" cellspa=
+cing=3D"0" width=3D"600"><tr><td width=3D"600"><![endif]-->
+<table style=3D"width: 100%!important; max-width: 600px!important" width=3D=
+"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center">
+<tbody><tr>
+<td class=3D"edit-block" style=3D"text-align: center; padding-top: 15px; pa=
+dding-left: 0px; padding-right: 0px; padding-bottom: 15px; background-color=
+: #ffffff;" width=3D"100%" bgcolor=3D"#ffffff" align=3D"center">
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" alig=
+n=3D"center">
+    <tbody><tr>
+        <td style=3D"padding: 20px 15px 20px 15px;" align=3D"center">
+           =20
+            <table class=3D"responsive-table" style=3D"width: 100%!importan=
+t" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0">
+                <tbody><tr>
+                    <td style=3D"text-align: left; padding: 0 0 0 0; font-s=
+ize: 16px; line-height: 25px; color: #666666; font-family: Helvetica, Arial=
+, sans-serif;" class=3D"padding-copy tnpc-row-edit" data-type=3D"text" alig=
+n=3D"left">Der neue ADOX Messbecher hat ein paar Arbeitserleichterungen ein=
+gebaut.<br>F=C3=BCr die Standard Chemie sind die Mischverh=C3=A4ltnisse auf=
+gedruckt und es gibt jeweils eine Auff=C3=BCllmarkierung f=C3=BCr Kleinbild=
+filme, Rollfilme und den Standard ein- Liter Ansatz.</td>
+                </tr>
+            </tbody></table>
+           =20
+        </td>
+    </tr>
+</tbody></table></td>
+</tr>
+</tbody></table><!--[if mso]></td></tr></table><![endif]-->
+</td>
+</tr></tbody></table><table style=3D"border-collapse: collapse; width: 100%=
+; position: relative; opacity: 1; left: 0px; top: 0px;" class=3D"tnpc-row u=
+i-sortable-handle" data-id=3D"content-03-textblock" width=3D"100%" cellspac=
+ing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center">
+<tbody><tr>
+<td style=3D"padding: 0;" align=3D"center">
+<!--[if mso]><table border=3D"0" cellpadding=3D"0" align=3D"center" cellspa=
+cing=3D"0" width=3D"600"><tr><td width=3D"600"><![endif]-->
+<table style=3D"width: 100%!important; max-width: 600px!important" width=3D=
+"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center">
+<tbody><tr>
+<td class=3D"edit-block" style=3D"text-align: center; padding-top: 15px; pa=
+dding-left: 0px; padding-right: 0px; padding-bottom: 15px; background-color=
+: #ffffff;" width=3D"100%" bgcolor=3D"#ffffff" align=3D"center">
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" alig=
+n=3D"center">
+    <tbody><tr>
+        <td style=3D"padding: 20px 15px 20px 15px;" align=3D"center">
+           =20
+            <table class=3D"responsive-table" style=3D"width: 100%!importan=
+t" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0">
+                <tbody><tr>
+                    <td style=3D"text-align: left; padding: 0 0 0 0; font-s=
+ize: 16px; line-height: 25px; color: #666666; font-family: Helvetica, Arial=
+, sans-serif;" class=3D"padding-copy tnpc-row-edit" data-type=3D"text" alig=
+n=3D"left">The new ADOX measuring cup has a few inbuilt working eases like =
+a mixing table and markings for one roll of 35mm, 120 or the regular fill u=
+p to 1 Liter.</td>
+                </tr>
+            </tbody></table>
+           =20
+        </td>
+    </tr>
+</tbody></table></td>
+</tr>
+</tbody></table><!--[if mso]></td></tr></table><![endif]-->
+</td>
+</tr></tbody></table><table style=3D"border-collapse: collapse; width: 100%=
+;" class=3D"tnpc-row tnpc-row-block ui-sortable-handle" data-id=3D"cta" wid=
+th=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"cente=
+r"><tbody><tr><td data-options=3D"options[text]=3DMessbecher&amp;options[ur=
+l]=3Dhttps%3A%2F%2Fwww.fotoimpex.de%2Fshop%2Ffotolabor%2Fadox-messbecher-10=
+00-ml.html&amp;options[background]=3D%23fe3e3d&amp;options[color]=3D%23ffff=
+ff&amp;options[font_family]=3DHelvetica%2C%20Arial%2C%20sans-serif&amp;opti=
+ons[font_size]=3D16&amp;options[font_weight]=3DNormal&amp;options[font_colo=
+r]=3D&amp;options[width]=3D200&amp;options[block_background]=3D%23ffffff&am=
+p;options[block_padding_top]=3D15&amp;options[block_padding_bottom]=3D15&am=
+p;" style=3D"padding: 0; font-family: Helvetica, Arial, sans-serif;" class=
+=3D"edit-block" align=3D"center"><!--[if mso]><table border=3D"0" cellpaddi=
+ng=3D"0" align=3D"center" cellspacing=3D"0" width=3D"600"><tr><td width=3D"=
+600"><![endif]-->
+<table style=3D"width: 100%!important; max-width: 600px!important" width=3D=
+"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center">
+<tbody><tr>
+<td style=3D"text-align: center; padding-top: 15px; padding-left: 0px; padd=
+ing-right: 0px; padding-bottom: 15px; background-color: #ffffff;" width=3D"=
+100%" bgcolor=3D"#ffffff" align=3D"center">
+<a href=3D"https://www.fotoimpex.de/website/?nltr=3DMTs1MjMyNjtodHRwczovL3d=
+3dy5mb3RvaW1wZXguZGUvc2hvcC9mb3RvbGFib3IvYWRveC1tZXNzYmVjaGVyLTEwMDAtbWwuaH=
+RtbDs7ZTMzODBiNzliOGM4NWM1MjZlOTZkMzE1NmM1N2QxN2E%3D" target=3D"_blank" rel=
+=3D"noopener" style=3D"line-height: normal; font-size: 16px; font-family: H=
+elvetica, Arial, sans-serif; font-weight: Normal; color: #ffffff; text-deco=
+ration: none; background-color: #fe3e3d; border-top: 15px solid #fe3e3d; bo=
+rder-bottom: 15px solid #fe3e3d; border-left: 25px solid #fe3e3d; border-ri=
+ght: 25px solid #fe3e3d; width: 200px; max-width: 100%; box-sizing: border-=
+box; border-radius: 3px; -webkit-border-radius: 3px; -moz-border-radius: 3p=
+x; display: inline-block;">Messbecher</a>
+
+<div itemscope=3D"" itemtype=3D"http://schema.org/EmailMessage">
+    <div itemprop=3D"potentialAction" itemscope=3D"" itemtype=3D"http://sch=
+ema.org/ViewAction">
+        <meta itemprop=3D"url" content=3D"https://www.fotoimpex.de/shop/fot=
+olabor/adox-messbecher-1000-ml.html">
+        <meta itemprop=3D"name" content=3D"Messbecher">
+    </div>
+    <meta itemprop=3D"description" content=3D"Messbecher">
+</div></td>
+</tr>
+</tbody></table><!--[if mso]></td></tr></table><![endif]--></td></tr></tbod=
+y></table><table style=3D"border-collapse: collapse; width: 100%; position:=
+ relative; opacity: 1; left: 0px; top: 0px;" class=3D"tnpc-row tnpc-row-blo=
+ck ui-sortable-handle" data-id=3D"cta" width=3D"100%" cellspacing=3D"0" cel=
+lpadding=3D"0" border=3D"0" align=3D"center"><tbody><tr><td data-options=3D=
+"options[text]=3DMeasuring%20Cups&amp;options[url]=3Dhttps%3A%2F%2Fwww.foto=
+impex.com%2Fdarkroom%2Fadox-measuring-cup-1000-ml.html&amp;options[backgrou=
+nd]=3D%23fe3e3d&amp;options[color]=3D%23ffffff&amp;options[font_family]=3DH=
+elvetica%2C%20Arial%2C%20sans-serif&amp;options[font_size]=3D16&amp;options=
+[font_weight]=3DNormal&amp;options[font_color]=3D&amp;options[width]=3D200&=
+amp;options[block_background]=3D%23ffffff&amp;options[block_padding_top]=3D=
+15&amp;options[block_padding_bottom]=3D15&amp;" style=3D"padding: 0; font-f=
+amily: Helvetica, Arial, sans-serif;" class=3D"edit-block" align=3D"center"=
+><!--[if mso]><table border=3D"0" cellpadding=3D"0" align=3D"center" cellsp=
+acing=3D"0" width=3D"600"><tr><td width=3D"600"><![endif]-->
+<table style=3D"width: 100%!important; max-width: 600px!important" width=3D=
+"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center">
+<tbody><tr>
+<td style=3D"text-align: center; padding-top: 15px; padding-left: 0px; padd=
+ing-right: 0px; padding-bottom: 15px; background-color: #ffffff;" width=3D"=
+100%" bgcolor=3D"#ffffff" align=3D"center">
+<a href=3D"https://www.fotoimpex.de/website/?nltr=3DMTs1MjMyNjtodHRwczovL3d=
+3dy5mb3RvaW1wZXguY29tL2Rhcmtyb29tL2Fkb3gtbWVhc3VyaW5nLWN1cC0xMDAwLW1sLmh0bW=
+w7OzM2OGYzYzkxYzYwMTMzMjBjNDExNTQ4OWM5ZmU3Zjg1" target=3D"_blank" rel=3D"no=
+opener" style=3D"line-height: normal; font-size: 16px; font-family: Helveti=
+ca, Arial, sans-serif; font-weight: Normal; color: #ffffff; text-decoration=
+: none; background-color: #fe3e3d; border-top: 15px solid #fe3e3d; border-b=
+ottom: 15px solid #fe3e3d; border-left: 25px solid #fe3e3d; border-right: 2=
+5px solid #fe3e3d; width: 200px; max-width: 100%; box-sizing: border-box; b=
+order-radius: 3px; -webkit-border-radius: 3px; -moz-border-radius: 3px; dis=
+play: inline-block;">Measuring Cups</a>
+
+<div itemscope=3D"" itemtype=3D"http://schema.org/EmailMessage">
+    <div itemprop=3D"potentialAction" itemscope=3D"" itemtype=3D"http://sch=
+ema.org/ViewAction">
+        <meta itemprop=3D"url" content=3D"https://www.fotoimpex.com/darkroo=
+m/adox-measuring-cup-1000-ml.html">
+        <meta itemprop=3D"name" content=3D"Measuring Cups">
+    </div>
+    <meta itemprop=3D"description" content=3D"Measuring Cups">
+</div></td>
+</tr>
+</tbody></table><!--[if mso]></td></tr></table><![endif]--></td></tr></tbod=
+y></table><table style=3D"border-collapse: collapse; width: 100%; position:=
+ relative; opacity: 1; left: 0px; top: 0px;" class=3D"tnpc-row tnpc-row-blo=
+ck ui-sortable-handle" data-id=3D"separator" width=3D"100%" cellspacing=3D"=
+0" cellpadding=3D"0" border=3D"0" align=3D"center"><tbody><tr><td data-opti=
+ons=3D"options[color]=3D%23dddddd&amp;options[height]=3D1&amp;" style=3D"pa=
+dding: 0; font-family: Helvetica, Arial, sans-serif;" class=3D"edit-block" =
+align=3D"center"><!--[if mso]><table border=3D"0" cellpadding=3D"0" align=
+=3D"center" cellspacing=3D"0" width=3D"600"><tr><td width=3D"600"><![endif]=
+-->
+<table style=3D"width: 100%!important; max-width: 600px!important" width=3D=
+"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center">
+<tbody><tr>
+<td style=3D"text-align: center; padding-top: 15px; padding-left: 0px; padd=
+ing-right: 0px; padding-bottom: 15px; background-color: #ffffff;" width=3D"=
+100%" bgcolor=3D"#ffffff" align=3D"center">
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" alig=
+n=3D"center">
+    <tbody><tr>
+        <td style=3D"border-bottom: 1px solid #dddddd;"></td>
+    </tr>
+</tbody></table></td>
+</tr>
+</tbody></table><!--[if mso]></td></tr></table><![endif]--></td></tr></tbod=
+y></table><table style=3D"border-collapse: collapse; width: 100%;" class=3D=
+"tnpc-row ui-sortable-handle" data-id=3D"footer-02-canspam.block" width=3D"=
+100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center">
+<tbody><tr>
+<td style=3D"padding: 0;" align=3D"center">
+<!--[if mso]><table border=3D"0" cellpadding=3D"0" align=3D"center" cellspa=
+cing=3D"0" width=3D"600"><tr><td width=3D"600"><![endif]-->
+<table style=3D"width: 100%!important; max-width: 600px!important" width=3D=
+"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center">
+<tbody><tr>
+<td class=3D"edit-block" style=3D"text-align: center; padding-top: 15px; pa=
+dding-left: 0px; padding-right: 0px; padding-bottom: 15px; background-color=
+: #ffffff;" width=3D"100%" bgcolor=3D"#ffffff" align=3D"center">
+<table style=3D"width: 100%!important" class=3D"responsive-table" width=3D"=
+100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center">
+    <tbody><tr>
+        <td style=3D"padding: 20px 15px 20px 15px; font-size: 12px; line-he=
+ight: 18px; font-family: Helvetica, Arial, sans-serif; color:#666666;" alig=
+n=3D"center">
+            <div class=3D"tnpc-row-edit" data-type=3D"text" style=3D"color:=
+#666666;">FOTOIMPEX GMBH<br>Pieskower Stra=C3=9Fe 30A<br>15526 Bad Saarow<b=
+r><a href=3D"https://www.fotoimpex.de/website/?nltr=3DMTs1MjMyNjtodHRwczovL=
+3d3dy5mb3RvaW1wZXguZGUvc2hvcC9pbXByZXNzdW0uaHRtbDs7NGM0NmU0MGFmZTJiYzYyMmEy=
+ZTVlMjYwYWVkOGRhZDk%3D">Impressum</a><br><em><br></em></div>
+        </td>
+    </tr>
+</tbody></table></td>
+</tr>
+</tbody></table><!--[if mso]></td></tr></table><![endif]-->
+</td>
+</tr></tbody></table>
+
+<table style=3D"border-collapse: collapse; width: 100%;" class=3D"tnpc-row =
+ui-sortable-handle" data-id=3D"footer-01-footer.block" width=3D"100%" cells=
+pacing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center">
+<tbody><tr>
+<td style=3D"padding: 0;" align=3D"center">
+<!--[if mso]><table border=3D"0" cellpadding=3D"0" align=3D"center" cellspa=
+cing=3D"0" width=3D"600"><tr><td width=3D"600"><![endif]-->
+<table style=3D"width: 100%!important; max-width: 600px!important" width=3D=
+"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center">
+<tbody><tr>
+<td class=3D"edit-block" style=3D"text-align: center; padding-top: 15px; pa=
+dding-left: 0px; padding-right: 0px; padding-bottom: 15px; background-color=
+: #ffffff;" width=3D"100%" bgcolor=3D"#ffffff" align=3D"center">
+<!-- FOOTER -->
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0">
+    <tbody><tr>
+        <td style=3D"padding: 20px 0px;" align=3D"center">
+
+            <table class=3D"responsive-table" width=3D"500" cellspacing=3D"=
+0" cellpadding=3D"0" border=3D"0" align=3D"center">
+                <tbody><tr>
+                    <td style=3D"font-size: 12px; line-height: 18px; font-f=
+amily: Helvetica, Arial, sans-serif; color:#666666;" align=3D"center">
+
+                        <a class=3D"original-only tnpc-row-edit" data-type=
+=3D"link" style=3D"color: #666666; text-decoration: none;" href=3D"https://=
+www.fotoimpex.de/website/?nltr=3DMTs1MjMyNjtodHRwczovL3d3dy5mb3RvaW1wZXguZG=
+Uvc2hvcC9zeXN0ZW0vP3BsdWdpbj1uZXdzbGV0dGVyJjs7NzIzMWEyMWE2YjY5YjJlZmE1OTg0M=
+WNlODZiMzJhNDI%3D">=C3=84ndere Dein Abonnement</a>
+
+                        <span class=3D"original-only" style=3D"font-family:=
+ Arial, sans-serif; font-size: 12px; color: #444444;">&nbsp;&nbsp;&nbsp;|&n=
+bsp;&nbsp;&nbsp;</span>
+
+                        <a style=3D"color: #666666; text-decoration: none;"=
+ href=3D"https://www.fotoimpex.de/website/?nltr=3DMTs1MjMyNjtodHRwczovL3d3d=
+y5mb3RvaW1wZXguZGUvd2Vic2l0ZS8%2FbmE9diZuaz01MjMyNi0yMGM2NjUxMDY0JmlkPTE7O2=
+NmZTY5YmVhYmUzM2ZiNmMzYTE1NGQyOThjYjQ0YTdl" class=3D"tnpc-row-edit" data-ty=
+pe=3D"link">Online ansehen</a>
+ =20
+                    </td>
+                </tr>
+            </tbody></table>
+           =20
+        </td>
+    </tr>
+</tbody></table>
+<!-- /FOOTER --></td>
+</tr>
+</tbody></table><!--[if mso]></td></tr></table><![endif]-->
+</td>
+</tr></tbody></table>
+
+
+       =20
+
+       =20
+
+        <table style=3D"border-collapse: collapse; width: 100%;" class=3D"t=
+npc-row ui-sortable-handle" data-id=3D"footer-03-socialblock" width=3D"100%=
+" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center">
+<tbody><tr>
+<td style=3D"padding: 0;" align=3D"center">
+<!--[if mso]><table border=3D"0" cellpadding=3D"0" align=3D"center" cellspa=
+cing=3D"0" width=3D"600"><tr><td width=3D"600"><![endif]-->
+<table style=3D"width: 100%!important; max-width: 600px!important" width=3D=
+"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center">
+<tbody><tr>
+<td class=3D"edit-block" style=3D"text-align: center; padding-top: 15px; pa=
+dding-left: 0px; padding-right: 0px; padding-bottom: 15px; background-color=
+: #ffffff;" width=3D"100%" bgcolor=3D"#ffffff" align=3D"center">
+<table style=3D"width: 100%!important; max-width: 600px!important" width=3D=
+"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center">
+    <tbody><tr>
+        <td style=3D"padding: 20px 15px 20px 15px;" class=3D"section-paddin=
+g edit-block" bgcolor=3D"#ffffff" align=3D"center">
+
+            <table class=3D"responsive-table" cellspacing=3D"0" cellpadding=
+=3D"0" border=3D"0" align=3D"center">
+                <tbody><tr>
+                    <td style=3D"font-size: 12px; line-height: 18px; font-f=
+amily: Helvetica, Arial, sans-serif; color:#666666;" align=3D"center">
+                                                    <span class=3D"tnpc-row=
+-edit" data-type=3D"image">
+                                <a href=3D"https://www.fotoimpex.de/website=
+/?nltr=3DMTs1MjMyNjtodHRwczovL3d3dy5mYWNlYm9vay5jb20vRk9UT0lNUEVYOzs5ZDNhZT=
+hmMDA2OGU5Nzc0NmRkNGQyY2ZlYTZiZGJmMA%3D%3D"><img src=3D"https://www.fotoimp=
+ex.de/website/wp-content/plugins/newsletter/emails/themes/default/images/fa=
+cebook.png" alt=3D""></a>
+                            </span>
+                                                                           =
+                                                                           =
+                                              <span class=3D"tnpc-row-edit"=
+ data-type=3D"image">
+                                <a href=3D"https://www.fotoimpex.de/website=
+/?nltr=3DMTs1MjMyNjtodHRwczovL3d3dy55b3V0dWJlLmNvbS9jaGFubmVsL1VDLWZIVE05Zm=
+FjWWFqLUVkSUJuc1BjQTs7ODE5ZjJkNDA5NjUzNTczOTUwNDI0YjA4MDY0ZmUwMTY%3D"><img =
+src=3D"https://www.fotoimpex.de/website/wp-content/plugins/newsletter/email=
+s/themes/default/images/youtube.png" alt=3D"Youtube"></a>
+                            </span>
+                                                                           =
+                         <span class=3D"tnpc-row-edit" data-type=3D"image">
+                                <a href=3D"https://www.fotoimpex.de/website=
+/?nltr=3DMTs1MjMyNjtodHRwczovL3d3dy5pbnN0YWdyYW0uY29tL0ZPVE9JTVBFWC87OzRkZD=
+cyMTZkYjQ4YjZlNDAzNzcxNTY1YTM5ZDg4ZTgy"><img src=3D"https://www.fotoimpex.d=
+e/website/wp-content/plugins/newsletter/emails/themes/default/images/instag=
+ram.png" alt=3D"Instagram"></a>
+                            </span>
+                                                                           =
+                 </td>
+                </tr>
+            </tbody></table>
+        </td>
+    </tr>
+</tbody></table></td>
+</tr>
+</tbody></table><!--[if mso]></td></tr></table><![endif]-->
+</td>
+</tr></tbody></table>
+
+       =20
+
+       =20
+
+       =20
+
+       =20
+
+       =20
+
+       =20
+
+       =20
+
+       =20
+
+       =20
+
+       =20
+
+       =20
+
+       =20
+
+       =20
+
+       =20
+
+       =20
+
+       =20
+
+       =20
+
+       =20
+
+       =20
+
+       =20
+
+       =20
+
+       =20
+
+       =20
+
+       =20
+
+       =20
+
+       =20
+
+       =20
+
+       =20
+
+       =20
+
+       =20
+
+       =20
+<img width=3D"1" height=3D"1" alt=3D"" src=3D"https://www.fotoimpex.de/webs=
+ite/?noti=3DMTs1MjMyNjs2ZjE2NjM1OTVlZTI2MjFhMWUwMDM4MDVlMDE0NWU1MA%3D%3D"/>=
+</body>
+</html>

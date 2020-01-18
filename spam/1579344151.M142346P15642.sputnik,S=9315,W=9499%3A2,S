@@ -1,0 +1,184 @@
+Return-Path: <tn19@icesit.co.in>
+Delivered-To: mail@stilfilm.com
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 6C2ADC9AD9
+	for <mail@stilfilm.com>; Wed,  4 Jan 2017 13:07:20 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 2.227
+X-Spam-Level: **
+X-Spam-Status: Yes, score=2.227 required=2 tests=[BAYES_50=0.8,
+	DKIM_SIGNED=0.1, DKIM_VALID=-0.1, HTML_MESSAGE=0.001,
+	HTML_OBFUSCATE_05_10=0.26, RCVD_IN_SORBS_SPAM=0.5, SPF_SOFTFAIL=0.665,
+	URIBL_BLOCKED=0.001] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.yourvserver.net [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id CKlTFlBFvwU5 for <mail@stilfilm.com>;
+	Wed,  4 Jan 2017 13:07:19 +0100 (CET)
+Received: from mail-oi0-f49.google.com (mail-oi0-f49.google.com [209.85.218.49])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id D04C4C6D3D
+	for <mail@stilfilm.com>; Wed,  4 Jan 2017 13:07:18 +0100 (CET)
+Received: by mail-oi0-f49.google.com with SMTP id b126so540978262oia.2
+        for <mail@stilfilm.com>; Wed, 04 Jan 2017 04:07:18 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=icesit-co-in.20150623.gappssmtp.com; s=20150623;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=daK3jSltFi+55f6pgykwOgaii+1SuxORX6q/pU3AziE=;
+        b=J1q7gs5fpHgdXDRAdyjspDe1Nv+wm3amYAzsVbywaYBoW/b7jU6SQ5gm5Dh0/24F7M
+         LxGf99qZV5NcjaW5ByhL7exXLWinvvchCAWBPs6JMUDKhsvx0nqm23T15tw5RKZLq0nz
+         h9hon1Y2OR2GF9LZKGWN4faVXjI3NYNsPJIViAbVZI+hOtBVpiQ/ce5EIm/xXxFevU34
+         oloChf8Gt0UFB05ld8Rp5PcnfzkOSIKtaf383bbXnsvFqRZxmptVyhInEC8dv2/BT03Y
+         1tPopPD6nKUm6CLkicRDkVB/jsmnGcsa60YzVxkniZg7y+ANv6Db6r25n86QG1JKvRRV
+         L8Zg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=daK3jSltFi+55f6pgykwOgaii+1SuxORX6q/pU3AziE=;
+        b=B5Z2c1vW0gGanpVcDiEHaif43XwDsZazsX3r8/N7IJM1a6HNt4qtsv7ZOQMWHMHZH+
+         1T5xfzWz12TWaMRFYY8VfhgfNUCAl705fb7OgmxW5ueeOufpVhINTinj4hTvAJviarPI
+         nA6xwcgBdh7RJy9gKioTEvbcHoNrQPF05v9zuixwrrEl/z22GRxrJNe6fLVZkCg4IGAO
+         UsVE1mjpkNXr/MCcIEkHR6iym0dJP7uVvQKQ9wKhC55IaQzlq8HrjTuhQ/NqkFfUpVso
+         xEoG2X/4NXp01LWVPa0oYTC5dcexZj6GezBnP3tZ/0v3GHTTp2Eic3mrVE9yUYS0vRma
+         RIDQ==
+X-Gm-Message-State: AIkVDXJgMJ3Q9t6VdR0HtcuIhoJuxXSmubSAoC479ly2S3CXhmycPzrKMCFmXVX823oWisWPySv7543kj2+sBg==
+X-Received: by 10.157.11.124 with SMTP id p57mr30985636otd.76.1483531636881;
+ Wed, 04 Jan 2017 04:07:16 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.157.12.245 with HTTP; Wed, 4 Jan 2017 04:07:15 -0800 (PST)
+From: Simhadri V <tn19@icesit.co.in>
+Date: Wed, 4 Jan 2017 17:37:15 +0530
+Message-ID: <CAMxmz=HX4xzqFg==87-6dBpsLk=D34QdMKBhuum+d9C2fX9gQg@mail.gmail.com>
+Subject: ***SPAM*** 
+To: contact@cspid.org
+Content-Type: multipart/alternative; boundary=001a113d14063ad8b6054543a076
+
+--001a113d14063ad8b6054543a076
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Respected Professors /Researchers,
+
+Greetings from committee members of =E2=80=9CCurrent Research on Network Th=
+eory
+(CRNT-2017)=E2=80=9D. You are cordially invited to submit your research pap=
+er to
+the conference CRNT-2017. The conference is calling papers from the
+following specializations:
+
+=C3=98  Combinatorial Network Theory
+
+=C3=98  Generating Networks With a Desired Degree Distribution
+
+=C3=98  Network Theorems
+
+=C3=98  Network Properties
+
+=C3=98  Network Theory Applications
+
+=C3=98  Networks With Certain Properties
+
+The accepted papers will be submitted to =E2=80=9C*Elsevier: Journal of =E2=
+=80=9CAKCE
+International Journal of Graphs and Combinatorics*=E2=80=9D for possible
+publication.
+
+The last date of paper submission: 5th Jan. 2017.
+
+For more details, please go to: http://ow.ly/8Dec307FQb9 (or) contact:
+contact@cspid.org
+
+--001a113d14063ad8b6054543a076
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><p class=3D"MsoNormal" style=3D"margin-left:0.5in;text-ali=
+gn:justify"><span style=3D"font-size:12pt;line-height:115%;font-family:&quo=
+t;times new roman&quot;,serif">Respected Professors /Researchers, <span></s=
+pan></span></p>
+
+<p class=3D"MsoNormal" style=3D"margin-left:0.5in;text-align:justify"><span=
+ style=3D"font-size:12pt;line-height:115%;font-family:&quot;times new roman=
+&quot;,serif">Greetings from committee members of =E2=80=9CCurrent
+Research on Network Theory (CRNT-2017)=E2=80=9D. You are cordially invited =
+to submit
+your research paper to the conference CRNT-2017. The conference is calling
+papers from the following specializations:<span></span></span></p>
+
+<p class=3D"gmail-MsoListParagraphCxSpFirst" style=3D"margin-left:1in;text-=
+align:justify"><span style=3D"font-size:12pt;line-height:115%;font-family:w=
+ingdings">=C3=98<span style=3D"font-variant-numeric:normal;font-stretch:nor=
+mal;font-size:7pt;line-height:normal;font-family:&quot;times new roman&quot=
+;">=C2=A0
+</span></span><span style=3D"font-size:12pt;line-height:115%;font-family:&q=
+uot;times new roman&quot;,serif">Combinatorial Network Theory <span></span>=
+</span></p>
+
+<p class=3D"gmail-MsoListParagraphCxSpMiddle" style=3D"margin-left:1in;text=
+-align:justify"><span style=3D"font-size:12pt;line-height:115%;font-family:=
+wingdings">=C3=98<span style=3D"font-variant-numeric:normal;font-stretch:no=
+rmal;font-size:7pt;line-height:normal;font-family:&quot;times new roman&quo=
+t;">=C2=A0 </span></span><span style=3D"font-size:12pt;line-height:115%;fon=
+t-family:&quot;times new roman&quot;,serif">Generating
+Networks With a Desired Degree Distribution <span></span></span></p>
+
+<p class=3D"gmail-MsoListParagraphCxSpMiddle" style=3D"margin-left:1in;text=
+-align:justify"><span style=3D"font-size:12pt;line-height:115%;font-family:=
+wingdings">=C3=98<span style=3D"font-variant-numeric:normal;font-stretch:no=
+rmal;font-size:7pt;line-height:normal;font-family:&quot;times new roman&quo=
+t;">=C2=A0 </span></span><span style=3D"font-size:12pt;line-height:115%;fon=
+t-family:&quot;times new roman&quot;,serif">Network
+Theorems <span></span></span></p>
+
+<p class=3D"gmail-MsoListParagraphCxSpMiddle" style=3D"margin-left:1in;text=
+-align:justify"><span style=3D"font-size:12pt;line-height:115%;font-family:=
+wingdings">=C3=98<span style=3D"font-variant-numeric:normal;font-stretch:no=
+rmal;font-size:7pt;line-height:normal;font-family:&quot;times new roman&quo=
+t;">=C2=A0 </span></span><span style=3D"font-size:12pt;line-height:115%;fon=
+t-family:&quot;times new roman&quot;,serif">Network
+Properties <span></span></span></p>
+
+<p class=3D"gmail-MsoListParagraphCxSpMiddle" style=3D"margin-left:1in;text=
+-align:justify"><span style=3D"font-size:12pt;line-height:115%;font-family:=
+wingdings">=C3=98<span style=3D"font-variant-numeric:normal;font-stretch:no=
+rmal;font-size:7pt;line-height:normal;font-family:&quot;times new roman&quo=
+t;">=C2=A0 </span></span><span style=3D"font-size:12pt;line-height:115%;fon=
+t-family:&quot;times new roman&quot;,serif">Network
+Theory Applications<span></span></span></p>
+
+<p class=3D"gmail-MsoListParagraphCxSpLast" style=3D"margin-left:1in;text-a=
+lign:justify"><span style=3D"font-size:12pt;line-height:115%;font-family:wi=
+ngdings">=C3=98<span style=3D"font-variant-numeric:normal;font-stretch:norm=
+al;font-size:7pt;line-height:normal;font-family:&quot;times new roman&quot;=
+">=C2=A0
+</span></span><span style=3D"font-size:12pt;line-height:115%;font-family:&q=
+uot;times new roman&quot;,serif">Networks With Certain Properties<span></sp=
+an></span></p>
+
+<p class=3D"MsoNormal" style=3D"margin-left:0.5in;text-align:justify"><span=
+ style=3D"font-size:12pt;line-height:115%;font-family:&quot;times new roman=
+&quot;,serif">The accepted papers will be submitted to =E2=80=9C<b><span st=
+yle=3D"color:red">Elsevier: Journal
+of =E2=80=9CAKCE International Journal of Graphs and Combinatorics</span></=
+b>=E2=80=9D for
+possible publication.<span></span></span></p>
+
+<p class=3D"MsoNormal" style=3D"margin-left:0.5in;text-align:justify"><span=
+ style=3D"font-size:12pt;line-height:115%;font-family:&quot;times new roman=
+&quot;,serif">The last date of paper submission: 5<sup>th</sup>
+Jan. 2017.<span></span></span></p>
+
+<p class=3D"MsoNormal" style=3D"margin-left:0.5in;text-align:justify"><span=
+ style=3D"font-size:12pt;line-height:115%;font-family:&quot;times new roman=
+&quot;,serif">For more details, please go to: </span><a href=3D"http://ow.l=
+y/8Dec307FQb9">http://ow.ly/8Dec307FQb9</a><span style=3D"line-height:115%"=
+> </span><span style=3D"font-size:12pt;line-height:115%;font-family:&quot;t=
+imes new roman&quot;,serif">(or)
+contact: </span><a href=3D"mailto:contact@cspid.org"><span style=3D"font-si=
+ze:12pt;line-height:115%;font-family:&quot;times new roman&quot;,serif">con=
+tact@cspid.org</span></a><span style=3D"font-size:12pt;line-height:115%;fon=
+t-family:&quot;times new roman&quot;,serif">
+</span><span style=3D"line-height:115%"><span></span></span></p></div>
+
+--001a113d14063ad8b6054543a076--

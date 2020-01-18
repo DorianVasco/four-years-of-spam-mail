@@ -1,0 +1,399 @@
+Return-Path: <info@fastadwords.com>
+Delivered-To: mail@stilfilm.com
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 1AA4ED1BAB
+	for <mail@stilfilm.com>; Sat,  9 Nov 2019 09:51:39 +0100 (CET)
+Authentication-Results: v22014122474822114.stilfilm.com; dkim=pass
+	reason="1024-bit key; insecure key"
+	header.d=fastadwords.com header.i=info@fastadwords.com
+	header.b=NJ0hgHrb; dkim-adsp=pass; dkim-atps=neutral
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: 2.643
+X-Spam-Level: **
+X-Spam-Status: No, score=2.643 required=5.5 tests=[BAYES_50=0.8,
+	DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	HTML_MESSAGE=0.001, MAILING_LIST_MULTI=-1, PYZOR_CHECK=1.392,
+	REMOVE_BEFORE_LINK=0.1, SPF_HELO_NONE=0.001, SPF_PASS=-0.001,
+	URIBL_ABUSE_SURBL=1.25, URIBL_CSS=0.1, URIBL_CSS_A=0.1]
+	autolearn=no autolearn_force=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 8ds12KXZd7lU for <mail@stilfilm.com>;
+	Sat,  9 Nov 2019 09:51:34 +0100 (CET)
+Received: from esd.leadsmessenger.com (esd.leadsmessenger.com [93.157.62.38])
+	(using TLSv1 with cipher ECDHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id B3F00D1910
+	for <info@stilfilm.com>; Sat,  9 Nov 2019 09:51:33 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=fastadwords.com;
+ h=Message-ID:Date:Subject:From:Reply-To:To:MIME-Version:Content-Type:List-Unsubscribe:List-Id; i=info@fastadwords.com;
+ bh=imzk7gYG+em666ycAWgGCRepwpQ=;
+ b=NJ0hgHrb46xgiyLVDrr3dpSdqIwW5Y/Od/KzMTK/WH2EJNd7vK0K5gMw+1ta/Ei1oWmrIjh3untF
+   SpxEKQ/tLOZxmWUjU9O4ZjtxxbsHundTkTCvs7ZeRykuy5oKrs7+331kh2GRlLFMnjo8baRVxze2
+   kuCuKmkz4gSEKy/U/uw=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=fastadwords.com;
+ b=UxySWMII8K035qGHi2kHq80z91qByj7HclC5RN2BSED3lq58+hBC3hLnkH8ysT/OAe85zoyCbcVH
+   Ynk5fyrxbqfufvaUY8W+uCirW1pck+dxVNhYIMW7MoanundZms/FiLwnkrYY+3kInoJ9wMyjA3mP
+   Q8eiFuYvwjfgr9B+3as=;
+Message-ID: <a59a9c34b3b793363ac840dd9787fe42@fastadwords.com>
+Date: Sat, 09 Nov 2019 08:51:30 +0000
+Subject: Marketing Shifts Further to Digital - Google Ads Tool Identifies
+ Leads in Real-Time
+From: "Rasmus, Fastbase Inc" <info@fastadwords.com>
+Reply-To: "Rasmus, Fastbase Inc" <info@fastadwords.com>
+To: "info@stilfilm.com" <info@stilfilm.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_v4_1573289490_9f076f5749ceceb8ec41267a9a5f6c05_=_"
+X-Sender: info@fastadwords.com
+X-Report-Abuse: Please report abuse for this campaign here:
+ http://exp.expertdia.com/index.php/campaigns/tj928gky0w8c2/report-abuse/nh2310hrdl59d/ss258ev6e69ad
+X-Receiver: info@stilfilm.com
+X-Fxyn-Tracking-Did: 0
+X-Fxyn-Subscriber-Uid: ss258ev6e69ad
+X-Fxyn-Mailer: SwiftMailer - 5.4.x
+X-Fxyn-EBS: http://exp.expertdia.com/index.php/lists/block-address
+X-Fxyn-Delivery-Sid: 26
+X-Fxyn-Customer-Uid: vd904vhnbjcc7
+X-Fxyn-Customer-Gid: 0
+X-Fxyn-Campaign-Uid: tj928gky0w8c2
+Precedence: bulk
+List-Unsubscribe: <http://exp.expertdia.com/index.php/lists/nh2310hrdl59d/unsubscribe/ss258ev6e69ad/tj928gky0w8c2/unsubscribe-direct?source=email-client-unsubscribe-button>,
+ <mailto:info@expertdia.com?subject=Campaign-Uid:tj928gky0w8c2 /
+ Subscriber-Uid:ss258ev6e69ad - Unsubscribe request&body=Please unsubscribe
+ me!>
+List-Id: nh2310hrdl59d <Google_analytics_Emails_chunk18_chunk4>
+Feedback-ID: tj928gky0w8c2:ss258ev6e69ad:nh2310hrdl59d:vd904vhnbjcc7
+
+
+--_=_swift_v4_1573289490_9f076f5749ceceb8ec41267a9a5f6c05_=_
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+=C2=A0
+Marketing Shifts Further to Digital - Google Ads Tool Identifies L=
+eads
+in Real-Time
+=C2=A0
+According to the Gartner CMO Spend Survey 20=
+18-19, 29% of budget is
+devoted marketing technology and the three tried-=
+and-true digital
+media categories =E2=80=94 paid and organic search, webs=
+ite and email =E2=80=94
+represent 25% of the average marketing expense bu=
+dget. Currently over
+four million advertisers are using Google Ads and ov=
+er five million
+businesses advertising on Facebook each month as companie=
+s reallocate
+marketing dollars to digital.
+=C2=A0
+According to Deloit=
+te=E2=80=99s most recent biannual CMO Survey,
+conducted by Duke Universit=
+y=E2=80=99s Fuqua School of Business, respondees
+are keen to get more ana=
+lytics: over the next three years, spending on
+marketing analytics as a s=
+hare of overall marketing budgets is
+forecast to increase by more than 20=
+0 percent. As businesses spend
+more advertising online, it only makes sen=
+se to invest in marketing
+analytics to track and measure the impact of di=
+gital marketing by
+linking individual purchases and leads back to a campa=
+ign.
+=C2=A0
+Tools such as the Google Ads Click Identifier, help compani=
+es
+identify the businesses that are clicking through their Google Ads
+c=
+ampaigns in real-time. As mentioned in the Wall Street Journal
+report, CM=
+Os to Double Down on Marketing Analytics, =E2=80=9CCustomers
+typically ma=
+ke instantaneous decisions these days, so companies need
+tools that can h=
+elp them act as quickly. A sales organization for
+example, can build a sy=
+stem that enables its professionals to predict
+which prospects are likely=
+ to convert and which are likely to
+churn.=E2=80=9D
+=C2=A0
+=C2=A0
+S=
+ign in with Google Analytics
+http://exp.expertdia.com/index.php/campaigns=
+/tj928gky0w8c2/track-url/ss258ev6e69ad/cb98e7873244cddc993d23e3e419aee17114=
+81fa
+=C2=A0
+=C2=A0
+Using the Ads Click Identifier, businesses are now=
+ able to act on
+hot leads even quicker because they are analyzing and opt=
+imizing their
+best performing ads and contacting the companies that have =
+shown an
+interest in real-time. The Ads Click Identifier was developed us=
+ing
+Fastbase's proprietary business data, which was also used to develop=
+
+the popular Add-on to Google Analytics
+http://exp.expertdia.com/index.=
+php/campaigns/tj928gky0w8c2/track-url/ss258ev6e69ad/5c1bcee0d5b21ac99fbe2bc=
+a8e5d89d6f925ac04
+that's used daily by over a million companies and inter=
+national top
+brands. The new tool not only reveals such detailed informat=
+ion as
+company name, address, phone number, website, contact and email
+=
+information, but also identifies the exact keywords and advertisements
+th=
+at were clicked on by each visitor.
+=C2=A0
+The Ads Click Identifier com=
+petitive monthly subscription starts at
+US$39 and is available to all Goo=
+gle Ads users with access to Google
+Analytics Google Ads Click Identifier=
+
+http://exp.expertdia.com/index.php/campaigns/tj928gky0w8c2/track-url/ss2=
+58ev6e69ad/86d4aa585dcbb78a0ffb2e7dab57f40de6b32cad
+=C2=A0
+=C2=A0
+Uns=
+ubscribe here
+http://exp.expertdia.com/index.php/campaigns/tj928gky0w8c2/=
+track-url/ss258ev6e69ad/35abfd641ed802f90dd6a66d70b24ec816a2af68
+If you w=
+ant to stop further correspondence with FastBase Inc.=C2=A0
+
+--_=_swift_v4_1573289490_9f076f5749ceceb8ec41267a9a5f6c05_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xmlns:o=3D"urn:schemas-microso=
+ft-com:office:office" xmlns:v=3D"urn:schemas-microsoft-com:vml">
+<head><!--[if gte mso 9]><xml>
+ <o:OfficeDocumentSettings>
+  <o:AllowPNG/>
+  <o:PixelsPerInch>96</o:PixelsPerInch>
+ </o:OfficeDocumentSettings>
+</xml><![endif]--><meta http-equiv=3D"Content-Type" content=3D"text/html; c=
+harset=3Dutf-8" /><meta name=3D"viewport" content=3D"width=3Ddevice-width, =
+initial-scale=3D1, maximum-scale=3D1, user-scalable=3Dno">
+=09<title>:: Fastbase Email ::</title>
+=09<style type=3D"text/css">@media only screen and (max-device-width: 767px=
+) {
+.mainbody {
+width:100% !important;
+}
+}
+@media only screen and (max-device-width: 480px) {
+.mainbody {
+width:100% !important;
+}
+.mb_pad1 {
+padding-left: 20px !important;
+padding-right: 20px !important;
+}
+.mb-title1 {
+font-size:18px !important;
+font-weight:600;
+line-height:27px;
+}
+}
+=09</style>
+</head>
+<body bgcolor=3D"#fafafa" bottommargin=3D"0" leftmargin=3D"0" rightmargin=
+=3D"0" topmargin=3D"0">
+<center>=C2=A0</center>
+
+<table align=3D"center" bgcolor=3D"#fafafa" border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0" class=3D"mainbody" style=3D"width:100%!important; padding=
+-bottom:0px; padding-top:0px; padding-left:0px; margin:0px auto; line-heigh=
+t:100%!important; padding-right:0px; background-color:#fafafa; font-family:=
+Arial,sans-serif;">
+=09<tbody>
+=09=09<tr>
+=09=09=09<td align=3D"center" valign=3D"top">
+=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"m=
+ainbody" style=3D"max-width:650px; padding-bottom:0px; padding-top:0px; pad=
+ding-left:0px; margin:0px auto; line-height:100%!important; padding-right:0=
+px" width=3D"650">
+=09=09=09=09<tbody>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td valign=3D"top">
+=09=09=09=09=09=09<table bgcolor=3D"#8bc750" border=3D"0" cellpadding=3D"0"=
+ cellspacing=3D"0" style=3D"width:100%!important; border-collapse:collapse;=
+ padding-bottom:0px; padding-top:0px; padding-left:0px; margin:0px auto; li=
+ne-height:100%!important; padding-right:0px" width=3D"100%">
+=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09<td align=3D"left" bgcolor=3D"#4285f4" class=3D"=
+mb_pad1" style=3D"padding-bottom:30px; text-align:left; padding-top:20px; p=
+adding-left:40px; padding-right:40px" valign=3D"bottom">
+=09=09=09=09=09=09=09=09=09<p class=3D"mb_mrg1" style=3D"font-size:24px; ma=
+rgin:10px 0; line-height:1.1em"><a href=3D"#" style=3D"text-decoration:none=
+" target=3D"_blank"><font class=3D"mb-title1" face=3D"arial, sans-serif" st=
+yle=3D"font-family:Arial,sans-serif!important; color:#ffffff; text-decorati=
+on:none; letter-spacing:1px; line-height:30px">Marketing Shifts Further to =
+Digital - Google Ads Tool Identifies Leads in Real-Time</font></a></p>
+=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09</table>
+=09=09=09=09=09=09</td>
+=09=09=09=09=09</tr>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td align=3D"center" valign=3D"top">
+=09=09=09=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" s=
+tyle=3D"border-top:#e0dede 1px solid; border-right:#e0dede 1px solid; borde=
+r-bottom:#e0dede 1px solid; border-left:#e0dede 1px solid">
+=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09<td align=3D"left" class=3D"mb_pad1" style=3D"pa=
+dding-bottom:20px; padding-top:20px; padding-left:40px; padding-right:40px;=
+ background-color:#fff">
+=09=09=09=09=09=09=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacin=
+g=3D"0" width=3D"100%">
+=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<td>=C2=A0</td>
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<td><font class=3D"font1" color=3D"#3a3=
+32b" style=3D"font-size:14px; font-family:Arial,sans-serif; padding-bottom:=
+0px; padding-top:0px; padding-left:0px; margin:0px; line-height:24px!import=
+ant; padding-right:0px">According to the Gartner CMO Spend Survey 2018-19, =
+29% of budget is devoted marketing technology and the three tried-and-true =
+digital media categories =E2=80=94 paid and organic search, website and ema=
+il =E2=80=94 represent 25% of the average marketing expense budget. Current=
+ly over four million advertisers are using Google Ads and over five million=
+ businesses advertising on Facebook each month as companies reallocate mark=
+eting dollars to digital. </font></td>
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<td>=C2=A0</td>
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<td><font class=3D"font1" color=3D"#3a3=
+32b" style=3D"font-size:14px; font-family:Arial,sans-serif; padding-bottom:=
+0px; padding-top:0px; padding-left:0px; margin:0px; line-height:24px!import=
+ant; padding-right:0px">According to Deloitte=E2=80=99s most recent biannua=
+l CMO Survey, conducted by Duke University=E2=80=99s Fuqua School of Busine=
+ss, respondees are keen to get more analytics: over the next three years, s=
+pending on marketing analytics as a share of overall marketing budgets is f=
+orecast to increase by more than 200 percent. As businesses spend more adve=
+rtising online, it only makes sense to invest in marketing analytics to tra=
+ck and measure the impact of digital marketing by linking individual purcha=
+ses and leads back to a campaign.</font></td>
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<td>=C2=A0</td>
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<td><font class=3D"font1" color=3D"#3a3=
+32b" style=3D"font-size:14px; font-family:Arial,sans-serif; padding-bottom:=
+0px; padding-top:0px; padding-left:0px; margin:0px; line-height:24px!import=
+ant; padding-right:0px">Tools such as the Google Ads Click Identifier, help=
+ companies identify the businesses that are clicking through their Google A=
+ds campaigns in real-time. As mentioned in the Wall Street Journal report, =
+CMOs to Double Down on Marketing Analytics, =E2=80=9CCustomers typically ma=
+ke instantaneous decisions these days, so companies need tools that can hel=
+p them act as quickly. A sales organization for example, can build a system=
+ that enables its professionals to predict which prospects are likely to co=
+nvert and which are likely to churn.=E2=80=9D</font></td>
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<td>=C2=A0</td>
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<td>=C2=A0</td>
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<td align=3D"center"><a href=3D"http://=
+exp.expertdia.com/index.php/campaigns/tj928gky0w8c2/track-url/ss258ev6e69ad=
+/cb98e7873244cddc993d23e3e419aee1711481fa" style=3D"font-family: Arial;font=
+-weight: bold;color: #ffffff;font-size: 16px;                              =
+      background: #4285f4;letter-spacing: 1px;padding: 14px 20px 14px 20px;=
+text-decoration: none;border-radius: 3px;" target=3D"_blank">Sign in with G=
+oogle Analytics</a></td>
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<td>=C2=A0</td>
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<td>=C2=A0</td>
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<td><font class=3D"font1" color=3D"#3a3=
+32b" style=3D"font-size:14px; font-family:Arial,sans-serif; padding-bottom:=
+0px; padding-top:0px; padding-left:0px; margin:0px; line-height:24px!import=
+ant; padding-right:0px">Using the Ads Click Identifier, businesses are now =
+able to act on hot leads even quicker because they are analyzing and optimi=
+zing their best performing ads and contacting the companies that have shown=
+ an interest in real-time. The Ads Click Identifier was developed using Fas=
+tbase's proprietary business data, which was also used to develop the popul=
+ar <a href=3D"http://exp.expertdia.com/index.php/campaigns/tj928gky0w8c2/tr=
+ack-url/ss258ev6e69ad/5c1bcee0d5b21ac99fbe2bca8e5d89d6f925ac04" target=3D"_=
+blank">Add-on to Google Analytics</a> that's used daily by over a million c=
+ompanies and international top brands. The new tool not only reveals such d=
+etailed information as company name, address, phone number, website, contac=
+t and email information, but also identifies the exact keywords and adverti=
+sements that were clicked on by each visitor.</font></td>
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<td>=C2=A0</td>
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<td><font class=3D"font1" color=3D"#3a3=
+32b" style=3D"font-size:14px; font-family:Arial,sans-serif; padding-bottom:=
+0px; padding-top:0px; padding-left:0px; margin:0px; line-height:24px!import=
+ant; padding-right:0px">The Ads Click Identifier competitive monthly subscr=
+iption starts at US$39 and is available to all Google Ads users with access=
+ to Google Analytics <a href=3D"http://exp.expertdia.com/index.php/campaign=
+s/tj928gky0w8c2/track-url/ss258ev6e69ad/86d4aa585dcbb78a0ffb2e7dab57f40de6b=
+32cad" target=3D"_blank">Google Ads Click Identifier</a> </font></td>
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<td>=C2=A0</td>
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<td>=C2=A0</td>
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09</table>
+
+=09=09=09=09=09=09<center style=3D"font-size: 10px;"><a data-unsubtag=3D"_U=
+NSUBSCRIBE_URL_" href=3D"http://exp.expertdia.com/index.php/campaigns/tj928=
+gky0w8c2/track-url/ss258ev6e69ad/35abfd641ed802f90dd6a66d70b24ec816a2af68" =
+style=3D"color:#4285f4;font-family:Arial,sans-serif;">Unsubscribe here</a> =
+If you want to stop further correspondence with FastBase Inc.=C2=A0</center=
+>
+=09=09=09=09=09=09</td>
+=09=09=09=09=09</tr>
+=09=09=09=09</tbody>
+=09=09=09</table>
+=09=09=09</td>
+=09=09</tr>
+=09</tbody>
+</table>
+<img width=3D"1" height=3D"1" src=3D"http://exp.expertdia.com/index.php/cam=
+paigns/tj928gky0w8c2/track-opening/ss258ev6e69ad" alt=3D"" />
+</body>
+</html>
+
+--_=_swift_v4_1573289490_9f076f5749ceceb8ec41267a9a5f6c05_=_--
+

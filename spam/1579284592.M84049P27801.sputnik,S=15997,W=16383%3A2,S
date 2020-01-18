@@ -1,0 +1,386 @@
+Return-Path: <mia@nitroinfotech.info>
+Delivered-To: mail@elementk.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id F1BB4C262B
+	for <mail@elementk.de>; Mon, 16 Dec 2019 10:40:14 +0100 (CET)
+Authentication-Results: v22014122474822114.stilfilm.com; dkim=pass
+	reason="2048-bit key; insecure key"
+	header.d=nitroinfotech.info header.i=@nitroinfotech.info
+	header.b=asTkMwrl; dkim-adsp=pass; dkim-atps=neutral
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: -0.599
+X-Spam-Level:
+X-Spam-Status: No, score=-0.599 required=4.5 tests=[BAYES_05=-0.5,
+	DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	HTML_MESSAGE=0.001] autolearn=ham autolearn_force=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id AGmRNHsPDpHq for <mail@elementk.de>;
+	Mon, 16 Dec 2019 10:40:10 +0100 (CET)
+Received: from mail-pl1-f196.google.com (mail-pl1-f196.google.com [209.85.214.196])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id E9044C1322
+	for <mail@elementk.de>; Mon, 16 Dec 2019 10:40:02 +0100 (CET)
+Received: by mail-pl1-f196.google.com with SMTP id z3so2690222plk.6
+        for <mail@elementk.de>; Mon, 16 Dec 2019 01:40:02 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=nitroinfotech.info; s=google;
+        h=from:to:subject:date:message-id:mime-version:thread-index
+         :content-language;
+        bh=LrJ87gBwT1R5Uf8x0ikU8K6wzAxNRHNMYFF8TXK+wYg=;
+        b=asTkMwrlQKk/H8QWG5LV+C/ar7SWtrgQXR1uc+LYD/Q5vHmaeQ6KGV6i3YSg+PaLAo
+         wuCB+04h1FtLZVuXXo6omcaEGuJcMCtc5x8WUEAYs3X6gPENqOjQZmObIoC7GivSsfNT
+         9b3Ii/sgjjVyMa/W2MgE/R9AOANJKuwlv27F3WRmldKl3RcyXb4eCZT2EawtLy7OCgLl
+         DRsBP+2zYH6PVQrOpx5O5bynSXnh8sxoen0+I/YbEZZKwol+iCJZjw5imXwpKShnFTgF
+         i3NldT0BAgjmFXCPi0QOygAdV0bc/PXpzr0amO2xcPc+tFPq1x0LvHkihfg9Rix6Sesd
+         jPUg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:from:to:subject:date:message-id:mime-version
+         :thread-index:content-language;
+        bh=LrJ87gBwT1R5Uf8x0ikU8K6wzAxNRHNMYFF8TXK+wYg=;
+        b=e1Q5LlGGlzq6uoHFQ7DTiK/wbi/Xe1MRCNpogLgBeGOtlD4utQ7Cozv/NCA5jSGY4w
+         Rw6Ymv0tFkoW9piImbT27R0WVQJ73TLa6wyNHRBpE0f8RV1uISq8BEdIqwToM3hQ4iOX
+         iYy5RVbqOqb6IgG221i3Hgo+J47Ew30vxwHDgJ9FWrEALzMbQi2PXON5j3pd2EVZ8D+c
+         g+sZiWb1Cg2JaabCjrpfmXM6BVIOWj04kZqsG3xTuOpQjXhsa80dYZOdqZj3vcZjkfaS
+         MzUDiPlJdvYzX/9vhHpWdOkPXocVnVxTLH1ntSPjPXJdqAoy0ljr/wSNUZiDcnDTEGjq
+         dUmA==
+X-Gm-Message-State: APjAAAVeTBHIymr9PaYa3vXwXMvP6jfr2t0ejIwu5s94XaTX+1Uww4XA
+	lvrm3NLe+iKxjvzZXw7Smlc6UtjkRSE=
+X-Google-Smtp-Source: APXvYqwcbt5i0EQON7t9IptbdAfCVPvNr/ultmu8CzdxM+PJGVfq3OLCwbCEAHqmicS3heKaaE6FPg==
+X-Received: by 2002:a17:902:bccc:: with SMTP id o12mr560020pls.247.1576489200062;
+        Mon, 16 Dec 2019 01:40:00 -0800 (PST)
+Received: from AkkiJanya ([122.177.83.107])
+        by smtp.gmail.com with ESMTPSA id e7sm21443207pfe.168.2019.12.16.01.39.58
+        for <mail@elementk.de>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-SHA bits=128/128);
+        Mon, 16 Dec 2019 01:39:59 -0800 (PST)
+From: "Mia" <mia@nitroinfotech.info>
+To: <mail@elementk.de>
+Subject: 1st Page On Google
+Date: Mon, 16 Dec 2019 14:50:55 +0530
+Message-ID: <2d09b01d5b3f4$c835f870$58a1e950$@info>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_2D09C_01D5B422.E1EE3470"
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-Index: AdWz0FNYq4SUjwJxQ+CCoqfgRSD9Wg==
+Content-Language: en-in
+X-Antivirus: Avast (VPS 191214-0, 14-12-2019), Outbound message
+X-Antivirus-Status: Clean
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_2D09C_01D5B422.E1EE3470
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+Hi,  
+
+I found your web contact email mail@elementk.de. I would like to discuss a
+business opportunity with you.
+
+I hope you are doing well. I am Business Development Manager at an India
+based IT firm. We are the group of 100+experienced IT professionals who are
+into: Website Designing/Redesigning, Web Development, responsive websites,
+PHP development, e-commerce services, SEO Services, Content Writing Services
+and Mobile Applications development. 
+
+Our main services are listed here:
+
+A.      Full SEO package (with plan and activities)
+
+B.      SMO (Facebook, Twitter, LinkedIn, etc).
+
+C.      Website Designing Services.
+
+D.      Website Development Services    
+
+E.       Website Re-Designing Services
+
+F.       CMS website
+
+G.     iPhone and Android App Development
+
+H.      PPC (Pay per Click) 
+
+If you are interested in any of our services, please let us know your
+requirement. I would be happy to provide you our company information and a
+competitive quote. I look forward to your reply. 
+
+Note-:-Please Share your contact details (Skype ID or Phone Number) and let
+us know your convenient time for the call/call so our seniors can contact
+you directly for further discussion.
+
+
+
+Thanks & Regards 
+Mia
+Business Consultant
+Services:- SEO | SMO | PPC |
+Website Design | Development | Mobile Application
+
+ 
+
+
+------=_NextPart_000_2D09C_01D5B422.E1EE3470
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40"><head><META =
+HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html; =
+charset=3Dus-ascii"><meta name=3DGenerator content=3D"Microsoft Word 12 =
+(filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:10.0pt;
+	margin-left:0cm;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{mso-style-priority:34;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:10.0pt;
+	margin-left:36.0pt;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, =
+div.MsoListParagraphCxSpFirst
+	{mso-style-priority:34;
+	mso-style-type:export-only;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, =
+div.MsoListParagraphCxSpMiddle
+	{mso-style-priority:34;
+	mso-style-type:export-only;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, =
+div.MsoListParagraphCxSpLast
+	{mso-style-priority:34;
+	mso-style-type:export-only;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:10.0pt;
+	margin-left:36.0pt;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+.MsoChpDefault
+	{mso-style-type:export-only;}
+.MsoPapDefault
+	{mso-style-type:export-only;
+	margin-bottom:10.0pt;
+	line-height:115%;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:72.0pt 72.0pt 72.0pt 72.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+/* List Definitions */
+@list l0
+	{mso-list-id:674651643;
+	mso-list-type:hybrid;
+	mso-list-template-ids:1675161412 67698689 67698691 67698693 67698689 =
+67698691 67698693 67698689 67698691 67698693;}
+@list l0:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:54.0pt;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l1
+	{mso-list-id:1111781044;
+	mso-list-template-ids:-1205847804;}
+@list l1:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l2
+	{mso-list-id:1177617568;
+	mso-list-type:hybrid;
+	mso-list-template-ids:731140092 67698697 67698691 67698693 67698689 =
+67698691 67698693 67698689 67698691 67698693;}
+@list l2:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F076;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l3
+	{mso-list-id:1454860479;
+	mso-list-type:hybrid;
+	mso-list-template-ids:1170767234 1074331669 1074331673 1074331675 =
+1074331663 1074331673 1074331675 1074331663 1074331673 1074331675;}
+@list l3:level1
+	{mso-level-number-format:alpha-upper;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:54.0pt;
+	text-indent:-18.0pt;}
+ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DEN-IN><div =
+class=3DWordSection1><p class=3DMsoNormal><strong><span lang=3DEN-US =
+style=3D'font-family:"Calibri","sans-serif";color:#002060;font-weight:nor=
+mal'>Hi,&nbsp;</span></strong><span lang=3DEN-US =
+style=3D'color:#002060'> <o:p></o:p></span></p><p =
+class=3DMsoNormal><strong><span lang=3DEN-US =
+style=3D'font-family:"Calibri","sans-serif";color:#002060;font-weight:nor=
+mal'>I found your web contact email </span></strong><span lang=3DEN-US =
+style=3D'color:#002060'>mail@elementk.de</span><strong><span =
+lang=3DEN-US =
+style=3D'font-family:"Calibri","sans-serif";color:#002060;font-weight:nor=
+mal'>. I would like to discuss a business opportunity with =
+you.<o:p></o:p></span></strong></p><p class=3DMsoNormal><strong><span =
+lang=3DEN-US =
+style=3D'font-family:"Calibri","sans-serif";color:#002060;font-weight:nor=
+mal'>I hope you are doing well. I am Business Development Manager at an =
+India based IT firm. We are the group of 100+experienced IT =
+professionals who are into: Website Designing/Redesigning, Web =
+Development, responsive websites, PHP development, e-commerce services, =
+SEO Services, Content Writing Services and Mobile Applications =
+development.&nbsp;<o:p></o:p></span></strong></p><p =
+class=3DMsoNormal><strong><span lang=3DEN-US =
+style=3D'font-family:"Calibri","sans-serif";color:#002060'>Our main =
+services are listed here:<o:p></o:p></span></strong></p><p =
+class=3DMsoListParagraphCxSpFirst =
+style=3D'margin-left:54.0pt;text-indent:-18.0pt;mso-list:l3 level1 =
+lfo4'><![if !supportLists]><span lang=3DEN-US =
+style=3D'color:#002060'><span style=3D'mso-list:Ignore'>A.<span =
+style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =
+</span></span></span><![endif]><span lang=3DEN-US =
+style=3D'color:#002060'>Full SEO package (with plan and =
+activities)</span><span lang=3DEN-US =
+style=3D'color:#002060'><o:p></o:p></span></p><p =
+class=3DMsoListParagraphCxSpMiddle =
+style=3D'margin-left:54.0pt;text-indent:-18.0pt;mso-list:l3 level1 =
+lfo4'><![if !supportLists]><span lang=3DEN-US =
+style=3D'color:#002060'><span style=3D'mso-list:Ignore'>B.<span =
+style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =
+</span></span></span><![endif]><span lang=3DEN-US =
+style=3D'color:#002060'>SMO (Facebook, Twitter, LinkedIn, =
+etc).</span><span lang=3DEN-US =
+style=3D'color:#002060'><o:p></o:p></span></p><p =
+class=3DMsoListParagraphCxSpMiddle =
+style=3D'margin-left:54.0pt;text-indent:-18.0pt;mso-list:l3 level1 =
+lfo4'><![if !supportLists]><span lang=3DEN-US =
+style=3D'color:#002060'><span style=3D'mso-list:Ignore'>C.<span =
+style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =
+</span></span></span><![endif]><span lang=3DEN-US =
+style=3D'color:#002060'>Website Designing Services.</span><span =
+lang=3DEN-US style=3D'color:#002060'><o:p></o:p></span></p><p =
+class=3DMsoListParagraphCxSpMiddle =
+style=3D'margin-left:54.0pt;text-indent:-18.0pt;mso-list:l3 level1 =
+lfo4'><![if !supportLists]><span lang=3DEN-US =
+style=3D'color:#002060'><span style=3D'mso-list:Ignore'>D.<span =
+style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =
+</span></span></span><![endif]><span lang=3DEN-US =
+style=3D'color:#002060'>Website Development Services&nbsp;&nbsp;&nbsp; =
+</span><span lang=3DEN-US =
+style=3D'color:#002060'><o:p></o:p></span></p><p =
+class=3DMsoListParagraphCxSpMiddle =
+style=3D'margin-left:54.0pt;text-indent:-18.0pt;mso-list:l3 level1 =
+lfo4'><![if !supportLists]><span lang=3DEN-US =
+style=3D'color:#002060'><span style=3D'mso-list:Ignore'>E.<span =
+style=3D'font:7.0pt "Times New =
+Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =
+</span></span></span><![endif]><span lang=3DEN-US =
+style=3D'color:#002060'>Website Re-Designing Services</span><span =
+lang=3DEN-US style=3D'color:#002060'><o:p></o:p></span></p><p =
+class=3DMsoListParagraphCxSpMiddle =
+style=3D'margin-left:54.0pt;text-indent:-18.0pt;mso-list:l3 level1 =
+lfo4'><![if !supportLists]><span lang=3DEN-US =
+style=3D'color:#002060'><span style=3D'mso-list:Ignore'>F.<span =
+style=3D'font:7.0pt "Times New =
+Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =
+</span></span></span><![endif]><span lang=3DEN-US =
+style=3D'color:#002060'>CMS website</span><span lang=3DEN-US =
+style=3D'color:#002060'><o:p></o:p></span></p><p =
+class=3DMsoListParagraphCxSpMiddle =
+style=3D'margin-left:54.0pt;text-indent:-18.0pt;mso-list:l3 level1 =
+lfo4'><![if !supportLists]><span lang=3DEN-US =
+style=3D'color:#002060'><span style=3D'mso-list:Ignore'>G.<span =
+style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; =
+</span></span></span><![endif]><span lang=3DEN-US =
+style=3D'color:#002060'>iPhone and Android App =
+Development<o:p></o:p></span></p><p class=3DMsoListParagraphCxSpLast =
+style=3D'margin-left:54.0pt;text-indent:-18.0pt;mso-list:l3 level1 =
+lfo4'><![if !supportLists]><span lang=3DEN-US =
+style=3D'color:#002060'><span style=3D'mso-list:Ignore'>H.<span =
+style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =
+</span></span></span><![endif]><span lang=3DEN-US =
+style=3D'color:#002060'>PPC (Pay per Click)<strong><span =
+style=3D'font-family:"Calibri","sans-serif";font-weight:normal'>&nbsp;</s=
+pan></strong></span><span lang=3DEN-US =
+style=3D'color:#002060'><o:p></o:p></span></p><p =
+class=3DMsoNormal><strong><span lang=3DEN-US =
+style=3D'font-family:"Calibri","sans-serif";color:#002060'>If you are =
+interested in any of our services, please let us know your requirement. =
+I would be happy to provide you our company information and a =
+competitive quote. I look forward to your =
+reply.</span></strong><strong><span lang=3DEN-US =
+style=3D'font-family:"Calibri","sans-serif";color:#002060;font-weight:nor=
+mal'>&nbsp;<br><br>Note-:-Please Share your contact details (Skype ID or =
+Phone Number) and let us know your convenient time for the call/call so =
+our seniors can contact you directly for further =
+discussion.<br><br></span></strong><span lang=3DEN-US =
+style=3D'color:#002060'><o:p></o:p></span></p><p =
+class=3DMsoNormal><strong><span lang=3DEN-US =
+style=3D'font-family:"Calibri","sans-serif";color:#002060;font-weight:nor=
+mal'>Thanks &amp; Regards <br>Mia<br>Business Consultant<br>Services:- =
+SEO | SMO | PPC |<br>Website Design | Development | Mobile =
+Application<o:p></o:p></span></strong></p><p class=3DMsoNormal><span =
+lang=3DEN-US><o:p>&nbsp;</o:p></span></p></div></body></html>
+------=_NextPart_000_2D09C_01D5B422.E1EE3470--
+

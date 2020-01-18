@@ -1,0 +1,63 @@
+Return-Path: <info@med-compense.ru>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 20471D1633
+	for <mail@dorianvasco.de>; Fri,  9 Nov 2018 10:16:00 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: 1.174
+X-Spam-Level: *
+X-Spam-Status: No, score=1.174 required=5.5 tests=[DKIM_SIGNED=0.1,
+	DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1, HTML_MESSAGE=0.001,
+	RDNS_NONE=1.274, SPF_HELO_PASS=-0.001, SPF_PASS=-0.001,
+	URIBL_BLOCKED=0.001] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id BdA_0j4A8ALS for <mail@dorianvasco.de>;
+	Fri,  9 Nov 2018 10:15:58 +0100 (CET)
+Received: from med-compense.ru (unknown [188.246.227.82])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id D1FBAD1632
+	for <mail@dorianvasco.de>; Fri,  9 Nov 2018 10:15:58 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=key1; d=med-compense.ru;
+ h=Message-ID:Reply-To:From:To:Subject:Date:MIME-Version:Content-Type; i=info@med-compense.ru;
+ bh=HxWETap+MdH6nuHGQaMxB8Kq3Lk=;
+ b=K31OeuJjXHAHMGtCgj/E/7+AhDG9x+3kYqeUi+FzjV1yp4lB82YsOU1SacsBD1lbulcLCopza0DQ
+   fNXuv38W8qeNPhIV3E+U4Eimxd3WG1QxWktnHxXFqqQ2ept++J9dTwrr1QiwZsXQJnWDb7OvnE/L
+   Nfg5uefwJKKexebkFL4=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=key1; d=med-compense.ru;
+ b=QmqG0IFv2lXPnOJsdxn86kgOK4NehGhP1BlPdJ+dvaVVvI2QQ91nDzPjHvGYS7AnKzLYgQNPhgL4
+   Ghq4Y2XyUUQbGEUxdVNh3IrN/NhADCf0mhR1Lo9adIj9EIcP90XYs6tACWPK1FrWLuY1kK2YF604
+   SKJhSUpRGJh9YxPpbpE=;
+Message-ID: <26a2449f6bb20585a6597f2c27f3c83417e6a055d3@med-compense.ru>
+Reply-To: "Dikkerson Uil'yam" <bounce@med-compense.ru>
+From: "Dikkerson Uil'yam" <info@med-compense.ru>
+To: <mail@dorianvasco.de>
+Subject: Behold is    a good   offering
+Date: Fri, 9 Nov 2018 12:17:27 +0300
+Organization: Dennis Bleyz
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="8acd84254c143e377b7ec86481a58f88c1a4f4"
+X-Priority: 1
+
+--8acd84254c143e377b7ec86481a58f88c1a4f4
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+=C2=A0Hey=C2=A0=C2=A0Good news ! =C2=A0 an interesting offers To qualify =
+click on the link below
+
+--8acd84254c143e377b7ec86481a58f88c1a4f4
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<HTML><HEAD>
+<META http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+</HEAD>
+<BODY bgColor=3D#ffffff>
+<DIV align=3Dleft><A=20
+href=3D"https://drive.google.com/file/d/1vt5ekhPGyDWHhvSqb429z1zgDJcFMMdj=
+/preview">&nbsp;Hey&nbsp;&nbsp;Good news ! &nbsp;=20
+an interesting offers To qualify click on the link below =20
+</A></DIV></BODY></HTML>
+
+--8acd84254c143e377b7ec86481a58f88c1a4f4--

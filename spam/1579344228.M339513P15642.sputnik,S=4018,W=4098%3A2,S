@@ -1,0 +1,80 @@
+Return-Path: <d.vanyshina@cdek.ru>
+Delivered-To: mail@elementk.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 125F0C302A
+	for <mail@elementk.de>; Tue, 13 Feb 2018 04:35:45 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 5.648
+X-Spam-Level: *****
+X-Spam-Status: Yes, score=5.648 required=5.5 tests=[DEAR_FRIEND=2.604,
+	DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	HTML_MESSAGE=0.001, MISSING_HEADERS=1.207,
+	REPLYTO_WITHOUT_TO_CC=1.946, SPF_PASS=-0.001, T_RP_MATCHES_RCVD=-0.01,
+	URIBL_BLOCKED=0.001] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id ieInau_ky5r9 for <mail@elementk.de>;
+	Tue, 13 Feb 2018 04:35:43 +0100 (CET)
+Received: from mail.cdek.ru (mx.cdek.ru [195.189.222.60])
+	(using TLSv1.2 with cipher AECDH-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id 2A0D6C211C
+	for <mail@elementk.de>; Tue, 13 Feb 2018 04:35:43 +0100 (CET)
+Received: from localhost (localhost [127.0.0.1])
+	by mail.cdek.ru (Postfix) with ESMTP id 2DA4D3C78AA;
+	Tue, 13 Feb 2018 10:34:01 +0700 (+07)
+Received: from mail.cdek.ru ([127.0.0.1])
+	by localhost (mail.cdek.ru [127.0.0.1]) (amavisd-new, port 10032)
+	with ESMTP id aiQVHtK8kppQ; Tue, 13 Feb 2018 10:34:00 +0700 (+07)
+Received: from localhost (localhost [127.0.0.1])
+	by mail.cdek.ru (Postfix) with ESMTP id 266843C7E63;
+	Tue, 13 Feb 2018 10:33:59 +0700 (+07)
+DKIM-Filter: OpenDKIM Filter v2.9.2 mail.cdek.ru 266843C7E63
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=cdek.ru;
+	s=F1A561F6-774B-11E7-9FC3-DCE1B9FC1F56; t=1518492839;
+	bh=r1baVZVDDR65A1PLnjZ8Lo3Xw7zpS79/sKS3Ts8/yXE=;
+	h=Date:From:Reply-To:Message-ID:Subject:MIME-Version:Content-Type;
+	b=GKf4BCkMZOEdgA3ojazoXCc5cPU00f80aWMzJMsalq2Rd8h0H/l4CRl24tzLOQ3r6
+	 JibOC04BYCzYn1VWIx5i1IBPX3OaK64mClq0cVSRJRFQoX0Viq642zD5N3jle6VUiu
+	 zmkw8kOGp8wiDhLAdTsO1z8QLLdwutp9SDy4XEFc=
+X-Virus-Scanned: amavisd-new at cdek.ru
+Received: from mail.cdek.ru ([127.0.0.1])
+	by localhost (mail.cdek.ru [127.0.0.1]) (amavisd-new, port 10026)
+	with ESMTP id HWheHn0KlmnM; Tue, 13 Feb 2018 10:33:58 +0700 (+07)
+Received: from mail.cdek.ru (mail.cdek.ru [192.168.0.60])
+	by mail.cdek.ru (Postfix) with ESMTP id 07E443C7BBD;
+	Tue, 13 Feb 2018 10:33:56 +0700 (+07)
+Date: Tue, 13 Feb 2018 09:33:55 +0600 (NOVT)
+From: Adrien Saif <d.vanyshina@cdek.ru>
+Reply-To: Adrien Saif <adriensaif200@gmail.com>
+Message-ID: <941684673.5487214.1518492835841.JavaMail.zimbra@cdek.ru>
+Subject: Lucrative Business Proposal
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_5487213_1347389839.1518492835839"
+X-Mailer: Zimbra 8.6.0_GA_1153 (zclient/8.6.0_GA_1153)
+Thread-Topic: Lucrative Business Proposal
+Thread-Index: gHTPYcGUgcD9MQrm9PZg8BCti7/gaw==
+
+------=_Part_5487213_1347389839.1518492835839
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+
+
+
+-- 
+Dear Friend,
+
+I would like to discuss a very important issue with you. I am writing to find out if this is your valid email. Please, let me know if this email is valid
+
+Kind regards
+Adrien Saif
+Attorney to Quatif Group of Companies
+------=_Part_5487213_1347389839.1518492835839
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<html><head><style> body {height: 100%; color:#000000; font-size:12pt; font-family:arial, helvetica, sans-serif;}</style></head><body><div><br></div><div><br></div><div><br>-- <br></div><div>Dear Friend,<br></div><div><br></div><div>I would like to discuss a very important issue with you. I am writing to find out if this is your valid email. Please, let me know if this email is valid<br></div><div><br></div><div>Kind regards<br>Adrien Saif<br>Attorney to Quatif Group of Companies</div></body></html>
+------=_Part_5487213_1347389839.1518492835839--

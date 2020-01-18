@@ -1,0 +1,30 @@
+Return-Path: <infolike2732@winningatmarketing.com>
+Delivered-To: mail@stilfilm.com
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 8B34DD1636
+	for <mail@stilfilm.com>; Sat,  3 Nov 2018 15:27:22 +0100 (CET)
+X-Quarantine-ID: <eQHfw5AlvaOO>
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Amavis-Alert: BAD HEADER SECTION, Missing required header field: "Date"
+X-Spam-Flag: YES
+X-Spam-Score: 5.759
+X-Spam-Level: *****
+X-Spam-Status: Yes, score=5.759 required=5.5 tests=[HTML_MESSAGE=0.001,
+	HTML_MIME_NO_HTML_TAG=0.635, MIME_HTML_ONLY=1.105, MISSING_DATE=1.396,
+	MISSING_HEADERS=1.207, MISSING_MID=0.14, RCVD_IN_DNSWL_BLOCKED=0.001,
+	RDNS_NONE=1.274] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id eQHfw5AlvaOO for <mail@stilfilm.com>;
+	Sat,  3 Nov 2018 15:27:21 +0100 (CET)
+Received: from winningatmarketing.com (unknown [191.96.249.167])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 01E87C21E1
+	for <ollie@stilfilm.com>; Sat,  3 Nov 2018 15:27:20 +0100 (CET)
+From: "Superman" <infolike2732@winningatmarketing.com>
+Subject: sup sup
+MIME-Version: 1.0
+Content-Type: text/html
+Message-Id: <20181103142722.8B34DD1636@v22014122474822114.stilfilm.com>
+Date: Sat,  3 Nov 2018 15:27:22 +0100 (CET)
+
+ 

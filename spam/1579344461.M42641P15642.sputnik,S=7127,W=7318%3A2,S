@@ -1,0 +1,191 @@
+Return-Path: <mark@tender247.net>
+Delivered-To: mail@stilfilm.com
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 6A70ACBDFB
+	for <mail@stilfilm.com>; Thu,  2 May 2019 11:54:33 +0200 (CEST)
+Authentication-Results: v22014122474822114.stilfilm.com; dkim=pass
+	reason="1024-bit key; insecure key/testing"
+	header.d=rediffmailpro.com header.i=@rediffmailpro.com
+	header.b=DbRbTdDP; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: 0.811
+X-Spam-Level:
+X-Spam-Status: No, score=0.811 required=5.5 tests=[BAYES_50=0.8,
+	DKIM_SIGNED=0.1, DKIM_VALID=-0.1, HTML_MESSAGE=0.001,
+	T_FILL_THIS_FORM_SHORT=0.01] autolearn=ham
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id jX4AoVljqvc4 for <mail@stilfilm.com>;
+	Thu,  2 May 2019 11:54:29 +0200 (CEST)
+Received: from pro152-35.mxout.rediffmailpro.com (pro152-35.mxout.rediffmailpro.com [119.252.152.35])
+	(using TLSv1.2 with cipher AECDH-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id 23A87CB02A
+	for <mail@stilfilm.com>; Thu,  2 May 2019 11:54:23 +0200 (CEST)
+Received: from rediffmailpro.com (unknown [10.50.252.5])
+	by pro152-35.mxout.rediffmailpro.com (Postfix) with ESMTP id 32CAA1E09A8
+	for <mail@stilfilm.com>; Thu,  2 May 2019 15:24:21 +0530 (IST)
+X-REDIFF-Delivered-Remotely-To: mail@stilfilm.com
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=rediffmailpro.com;
+	s=epro; t=1556790854;
+	bh=Jsq9AN/wREZSA1ZakaXtELd8DYittyT1andkxHH3vMU=;
+	h=MIME-Version:From:Date:Message-ID:Subject:To;
+	b=DbRbTdDPM2tcdKzwJXByrWAWUG8ziBy8PwRVYZDwdg/D5aZnUxPN/Rf4Gs7iy+kIK
+	 +iHQQj2IdgTH+6faQWgQhApTMsqh5a2r1wymXdwMr8LKaPO2Awx4tJbtd0jH01d7cd
+	 IFKE9QnioSMC5Zl6cLAAY+psaqhOPTH+hzLqniGs=
+Received: (qmail 32436 invoked from network); 2 May 2019 09:54:14 -0000
+x-m-msg: a460b052a65f964fc617a87023007d9b; a6da7d6asas6dasd77; 5dad65ad5sd;
+X-OUT-VDRT-SpamState: 1\SPAM
+X-OUT-VDRT-SpamScore: 540
+X-OUT-VDRT-SpamCause: gggruggvucftvghtrhhoucdtuddrgeduuddrieelgddvudcutefuodetggdotefrodftvfcurfhrohhfihhlvgemucggtfgfnhhsuhgsshgtrhhisggvnecuuegrihhlohhuthemuceftddtnecuoghunhguihhstghlohhsvgguucdlgedtmdenogfhohhrsghiugguvghnrfhhohhnvgculdehtddtmdenucfjughrpefhuffkffgfgggtsegrtderredtfeejnecuhfhrohhmpeforghrkhcuhfhrrghntghishcuoehmrghrkhesthgvnhguvghrvdegjedrnhgvtheqnecuffhomhgrihhnpehtvghnuggvrhdvgeejrdgtohhmnecukfhppeegledrvdegkedrudduuddruddtnecurfgrrhgrmhepmhhouggvpehsmhhtphhouhhtnecuvehluhhsthgvrhfuihiivgeptd
+X-Dedup-Identifier: 1556790854_32098_31989_pro-236-109
+Received: from unknown (HELO ?192.168.0.116?) (49.248.111.10)
+  by mailserver with SMTP; 2 May 2019 09:54:11 -0000
+From: Mark Francis <mark@tender247.net>
+Subject: Win International and Local Tenders - Tender247
+Message-ID: <e2f789b2-55e7-e32f-af7b-8ac9d2e10b5a@tender247.net>
+Date: Thu, 2 May 2019 15:07:51 +0530
+User-Agent: Mozilla/5.0 (Windows NT 6.3; rv:52.0) Gecko/20100101
+ Thunderbird/52.4.0
+MIME-Version: 1.0
+To: undisclosed-recipients: ;
+Content-Type: multipart/alternative;
+ boundary="------------B9984F552BA20814DBB1A7B6"
+Content-Language: en-US
+
+This is a multi-part message in MIME format.
+--------------B9984F552BA20814DBB1A7B6
+Content-Type: text/plain; charset=utf-8; format=flowed
+Content-Transfer-Encoding: 7bit
+
+Hello,
+
+Greetings from Tender247.
+
+I hope you are receiving daily tender summary alerts from our side.
+
+In case the tenders is not relevant or if you are not receiving email 
+alerts kindly provide us below details :
+
+Keywords of your product and services
+
+	
+
+
+Region from where you are looking for tenders
+
+	
+
+
+Company website and contact details
+
+	
+
+
+Waiting for your reply.
+
+-- 
+Thanks & Regards,
+Mark Francis
+Marketing Executive (International Business Division)
+i-Sourcing Technologies Pvt. Ltd.
+Email :mark@tender247.net  
+Contact : +91 9699483500
+Website:www.tender247.com
+
+EUROPEAN HEADQUARTER:
+
+Geerdinkhof 331
+1103 RB Amsterdam,
+Netherlands.
+
+UNSUBSCRIBE <http://tender247.com/UNSUBSCRIBE>
+
+
+--------------B9984F552BA20814DBB1A7B6
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <head>
+
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  </head>
+  <body text="#000000" bgcolor="#FFFFFF">
+    <pre class="moz-signature" cols="72">
+</pre>
+    <div class="moz-text-html" lang="x-unicode">
+      <p style="margin-bottom:12.0pt">Hello,<br>
+        <br>
+        Greetings from Tender247.<br>
+        <br>
+        I hope you are receiving daily tender summary alerts from our
+        side.<br>
+        <br>
+        In case the tenders is not relevant or if you are not receiving
+        email alerts kindly provide us below details :</p>
+      <table class="MsoNormalTable" style="width:60.0%" cellpadding="0"
+        width="60%" border="1">
+        <tbody>
+          <tr>
+            <td style="width:50.0%;padding:5.0pt 5.0pt 5.0pt 5.0pt"
+              valign="top" width="50%">
+              <p class="MsoNormal">Keywords of your product and services</p>
+            </td>
+            <td style="width:50.0%;padding:5.0pt 5.0pt 5.0pt 5.0pt"
+              valign="top" width="50%">
+              <p class="MsoNormal"><span style="color:#1F497D"><br>
+                </span></p>
+            </td>
+          </tr>
+          <tr>
+            <td style="width:50.0%;padding:5.0pt 5.0pt 5.0pt 5.0pt"
+              valign="top" width="50%">
+              <p class="MsoNormal">Region from where you are looking for
+                tenders</p>
+            </td>
+            <td style="width:50.0%;padding:5.0pt 5.0pt 5.0pt 5.0pt"
+              valign="top" width="50%">
+              <p class="MsoNormal"><span style="color:#1F497D"><br>
+                </span></p>
+            </td>
+          </tr>
+          <tr>
+            <td style="width:50.0%;padding:5.0pt 5.0pt 5.0pt 5.0pt"
+              valign="top" width="50%">
+              <p class="MsoNormal">Company website and contact details</p>
+            </td>
+            <td style="width:50.0%;padding:5.0pt 5.0pt 5.0pt 5.0pt"
+              valign="top" width="50%"><br>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      <br>
+      Waiting for your reply.
+      <pre class="moz-signature" cols="72">-- 
+Thanks &amp; Regards,
+Mark Francis
+Marketing Executive (International Business Division)
+i-Sourcing Technologies Pvt. Ltd.
+Email : <a class="moz-txt-link-abbreviated" href="mailto:mark@tender247.net">mark@tender247.net</a> 
+Contact : +91 9699483500
+Website: <a class="moz-txt-link-abbreviated" href="http://www.tender247.com">www.tender247.com</a>
+
+EUROPEAN HEADQUARTER:
+
+Geerdinkhof 331
+1103 RB Amsterdam,
+Netherlands.
+
+<pre><font color="#000066"><font color="#000099"><font color="#000066"><a href="http://tender247.com/UNSUBSCRIBE">UNSUBSCRIBE</a></font></font></font>
+</pre></pre>
+    </div>
+    <pre class="moz-signature" cols="72">
+</pre>
+  </body>
+</html>
+
+--------------B9984F552BA20814DBB1A7B6--

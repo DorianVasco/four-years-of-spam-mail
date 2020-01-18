@@ -1,0 +1,31 @@
+Return-Path: <infolike3704@squeeze-miura.com>
+Delivered-To: mail@stilfilm.com
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id A4FA8D1634
+	for <mail@stilfilm.com>; Sun, 11 Nov 2018 00:23:24 +0100 (CET)
+X-Quarantine-ID: <YtxQFdWJ8e4h>
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Amavis-Alert: BAD HEADER SECTION, Missing required header field: "Date"
+X-Spam-Flag: YES
+X-Spam-Score: 7.627
+X-Spam-Level: *******
+X-Spam-Status: Yes, score=7.627 required=5.5 tests=[HTML_MESSAGE=0.001,
+	HTML_MIME_NO_HTML_TAG=0.635, MIME_HTML_ONLY=1.105, MISSING_DATE=1.396,
+	MISSING_HEADERS=1.207, MISSING_MID=0.14, RDNS_NONE=1.274,
+	SPF_HELO_SOFTFAIL=0.896, SPF_SOFTFAIL=0.972, TVD_SPACE_RATIO=0.001]
+	autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id YtxQFdWJ8e4h for <mail@stilfilm.com>;
+	Sun, 11 Nov 2018 00:23:22 +0100 (CET)
+Received: from squeeze-miura.com (unknown [191.96.249.167])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 3AE2AD1628
+	for <waldo@stilfilm.com>; Sun, 11 Nov 2018 00:23:21 +0100 (CET)
+From: "facebook" <infolike3704@squeeze-miura.com>
+Subject: Verifi
+MIME-Version: 1.0
+Content-Type: text/html
+Message-Id: <20181110232324.A4FA8D1634@v22014122474822114.stilfilm.com>
+Date: Sun, 11 Nov 2018 00:23:24 +0100 (CET)
+
+ 

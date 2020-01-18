@@ -1,0 +1,806 @@
+Return-Path: <mail-mail=dorianvasco.de@bounce.fastwebleads.com>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id B9A55C20E8
+	for <mail@dorianvasco.de>; Thu, 22 Jun 2017 06:17:56 +0200 (CEST)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 6.509
+X-Spam-Level: ******
+X-Spam-Status: Yes, score=6.509 required=5.5 tests=[BAYES_50=0.8,
+	DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	HTML_MESSAGE=0.001, RAZOR2_CF_RANGE_51_100=0.5,
+	RAZOR2_CF_RANGE_E8_51_100=1.886, RAZOR2_CHECK=0.922, SPF_PASS=-0.001,
+	URIBL_BLOCKED=0.001, URIBL_DBL_SPAM=2.5] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 7NnRPO4AF0Xd for <mail@dorianvasco.de>;
+	Thu, 22 Jun 2017 06:17:54 +0200 (CEST)
+Received: from mta14.leadsin.com (mta14.leadsin.com [103.216.106.119])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id BB6C8C20E4
+	for <mail@dorianvasco.de>; Thu, 22 Jun 2017 06:17:53 +0200 (CEST)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=1494952583.mail; d=leadsin.com;
+ h=Message-ID:Date:Subject:From:To:MIME-Version:Content-Type;
+ bh=fuHU9Rqk7RnJNjo65QS7PFgTuK0=;
+ b=oDAAyKP4gNsr65lV5CC5BnttBBOA8+4hy3DYfF3DSPSK3vCahErNllL2BGspZV3XXkf+cqZfQJQr
+   Y3ZaZlTBeg/PeyuVAmMPKq2G+o3GVtACQg67yjAFwjoNwGz2f+5GbjPXtB1qOuHAnpMoaSxBs7T7
+   S/n+crDeheUIFCf4uU4=
+DKIM-Signature: v=1; a=rsa-sha1; bh=fuHU9Rqk7RnJNjo65QS7PFgTuK0=;
+ d=fastwebleads.com; h=Message-ID: Date: Subject: From: To: MIME-Version:
+ Content-Type: Precedence: Feedback-ID; i=@fastwebleads.com; s=mail;
+ c=relaxed/relaxed; t=1498105054;
+ b=EtOUsUFx4vXkrdyhb4XoXcd9KF6nOQKeMBm4YGS704GeTolkGj41Yk2w7CWUOxthyQUEXHxjJ
+ kVN8Rk79uMkwOymZIwp2nO7DaOWjFJk/eWW0X0qFObP1CKAF9JIriKI2q0xV7VseAqmkvPFXo
+ igEPyLZp+NMabfbBM2AJbPqjI=
+Message-ID: <549a4d3b758924dc86d67ea76d97508b@bounce.fastwebleads.com>
+Date: Thu, 22 Jun 2017 04:17:32 +0000
+Subject: ***SPAM*** Announcing Google Analytics add-on
+From: Analytics Webleads <analytics@fastwebleads.com>
+To: "mail@dorianvasco.de" <mail@dorianvasco.de>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_v4_1498105052_83b0a36586dfafd168883982eaf94a78_=_"
+X-Subscriber-Uid: nb930zx1x23d7
+X-Mailer: SwiftMailer - 5.4.x
+X-Campaign-Uid: cg1619lkzz39a
+Precedence: bulk
+Feedback-ID: cg1619lkzz39a:nb930zx1x23d7:vc2606ltw009f:hw486ha30gfa3
+
+
+--_=_swift_v4_1498105052_83b0a36586dfafd168883982eaf94a78_=_
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+ You now have access to Webleads for Google Analytics. Instantly
+access i=
+nformation about your website=E2=80=99s visitors including their
+Linkedin=
+ profile, email & phone=20
+
+ =09=09=C2=A0
+
+ =09=09=C2=A0
+
+ =09=09=
+=C2=A0
+
+ view on your browser
+http://tracking.fastwebleads.com/campai=
+gns/cg1619lkzz39a/track-url/nb930zx1x23d7/76ba93a291a1d585c61fa886c5a0fa922=
+27a8b2b
+ unsubscribe
+http://tracking.fastwebleads.com/campaigns/cg1619l=
+kzz39a/track-url/nb930zx1x23d7/f39039b9dc5c1d8445ee717ba358602a1f83a695
+=
+
+
+ =09=09=C2=A0
+
+ =09=09=C2=A0
+
+ =C2=A0=20
+
+Premium Webleads=
+
+http://tracking.fastwebleads.com/campaigns/cg1619lkzz39a/track-url/nb930=
+zx1x23d7/34d0515ed264c13e5215a001f88c416a55a54d4c
+ =C2=A0=20
+
+DESIGNED =
+FOR
+ Google Analytics=20
+
+ =09=09=C2=A0
+
+ =09=09=C2=A0
+
+ =09=09=
+=C2=A0
+
+ =09=09=C2=A0
+
+ The new premium add-on for Google Analytics=
+ is a welcome addition for
+business owners that track their company=
+=E2=80=99s health and productivity
+on the success of their online presenc=
+e.=C2=A0 Save time and resources by
+working smarter, not harder by using =
+the information presented in the
+new Fastbase Webleads add-on to streamli=
+ne your marketing and sales
+strategies.
+
+ With features that identify=
+ the exact companies and clients that are
+visiting your company=E2=80=
+=99s website, blind guesswork is eliminated and
+leads are clearly identif=
+ied.
+
+ The premium add-on provides 90 days of information that is
+dow=
+nloadable to Excel or in CSV-format.=C2=A0
+
+ Sign-in to start using the=
+ add-on with your Google Analytics account.
+
+
+ =09=09=C2=A0
+
+ =09=
+=09Sign in with Google
+http://tracking.fastwebleads.com/campaigns/cg1619l=
+kzz39a/track-url/nb930zx1x23d7/b2e2cf6ec57b2ef52bf7a8f86d7c114a905c33b2
+=
+
+ =09=09=C2=A0
+
+ =09=09=C2=A0
+
+ Questions and support is availabl=
+e by phone or through our live chat.
+
+ Fastbase.com
+ Support +45 33 1=
+1 11 13=20
+
+ =09=09=C2=A0
+
+ =09=09=C2=A0
+
+ This email was sent to=
+ mail@dorianvasco.de because you indicated that
+you'd like to receive occ=
+asional messages from FastBase Inc.
+
+ View this email on your browser=
+
+http://tracking.fastwebleads.com/campaigns/cg1619lkzz39a/track-url/nb930=
+zx1x23d7/76ba93a291a1d585c61fa886c5a0fa92227a8b2b
+ If you no longer wish =
+to receive emails please Unsubscribe
+http://tracking.fastwebleads.com/cam=
+paigns/cg1619lkzz39a/track-url/nb930zx1x23d7/f39039b9dc5c1d8445ee717ba35860=
+2a1f83a695
+
+ Report abuse
+http://tracking.fastwebleads.com/campaigns/=
+cg1619lkzz39a/track-url/nb930zx1x23d7/651b9ffcf3d2fef4340b65077e637c7739a83=
+2c7
+
+
+ =09=09=C2=A0
+
+ =09=09=C2=A0
+
+ =09=09=C2=A0
+
+ =09=
+=09=C2=A0
+
+=20
+
+--_=_swift_v4_1498105052_83b0a36586dfafd168883982eaf94a78_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns:o=3D"urn:schemas-microsoft-com:office:office" xmlns:v=3D"urn:sc=
+hemas-microsoft-com:vml">
+<head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf=
+-8"><meta name=3D"viewport" content=3D"width=3Ddevice-width, maximum-scale=
+=3D1">
+=09<title>Premium Webleads add-on for Google Analytics</title>
+=09<link href=3D"https://fonts.googleapis.com/css?family=3DOpen+Sans:400,40=
+0italic,700&subset=3Dlatin,cyrillic" rel=3D"stylesheet" type=3D"text/css" /=
+>
+=09<link href=3D"https://fonts.googleapis.com/css?family=3DPoppins:400,700"=
+ rel=3D"stylesheet" type=3D"text/css" />
+=09<link href=3D"https://fonts.googleapis.com/css?family=3DPrompt:700,400" =
+rel=3D"stylesheet" type=3D"text/css" />
+=09<link href=3D"https://fonts.googleapis.com/css?family=3DOleo+Script+Swas=
+h+Caps" rel=3D"stylesheet" type=3D"text/css" />
+=09<link href=3D"https://fonts.googleapis.com/css?family=3DPalanquin+Dark:4=
+00,700" rel=3D"stylesheet" type=3D"text/css" />
+=09<style media=3D"all" type=3D"text/css">*
+    {
+        -webkit-text-size-adjust:none;
+        -ms-text-size-adjust:none
+    }
+    html
+    {
+        width:100%
+    }
+    body
+    {
+        width:100%;
+        background-color:#ececec;
+        height:100%;
+        margin:0;
+        padding:0;
+        -webkit-font-smoothing:antialiased
+    }
+    p
+    {
+        margin:0
+    }
+    a
+    {
+        color:inherit
+    }
+    a[x-apple-data-detectors]
+    {
+        color:inherit!important;
+        text-decoration:inherit!important
+    }
+    .full-image img
+    {
+        width:100%!important
+    }
+=09</style>
+=09<style type=3D"text/css">@media only screen and (max-width: 768px) {
+        .main-table
+        {
+            width:100%!important;
+            clear:both;
+            min-width:0!important
+        }      =20
+        .image img
+        {
+            width:100%!important;
+            height:auto!important
+        }
+    }
+    @media only screen and (max-width: 640px) {
+        .container
+        {
+            width:320px!important;
+            min-width:0!important
+        }      =20
+        .m-cell
+        {
+            display:block!important;
+            float:left!important;
+            width:100%!important;
+            max-width:none!important;
+            min-width:0!important
+        }      =20
+        .stripes
+        {
+            border:0 none!important
+        }      =20
+        .stripes-top
+        {
+            border-bottom:0 none!important
+        }      =20
+        .m-w100,.full-width
+        {
+            width:100%!important;
+            max-width:none!important
+        }      =20
+        .col-sm
+        {
+            width:180px!important
+        }      =20
+        .inner
+        {
+            width:280px!important
+        }      =20
+        .tbl-sm
+        {
+            width:220px!important
+        }      =20
+        .img-bg
+        {
+            background-size:cover
+        }      =20
+        .nav
+        {
+            width:100%!important;
+            clear:both;
+            text-align:center
+        }      =20
+        .nav .text
+        {
+            width:31%
+        }      =20
+        .mw-auto
+        {
+            width:auto!important
+        }      =20
+        .mb-auto
+        {
+            height:auto!important
+        }      =20
+        .h1
+        {
+            font-size:34px!important
+        }      =20
+        .h1-2,.h1-4
+        {
+            font-size:40px!important
+        }      =20
+        .h2
+        {
+            font-size:28px!important
+        }      =20
+        .h4
+        {
+            font-size:16px!important
+        }      =20
+        .h80
+        {
+            height:75px!important;
+            line-height:75px!important
+        }      =20
+        .h50
+        {
+            height:50px!important;
+            line-height:50px!important
+        }      =20
+        .h40
+        {
+            height:40px!important;
+            line-height:40px!important
+        }      =20
+        .h0
+        {
+            display:none!important
+        }      =20
+        .m-sp
+        {
+            background:none!important;
+            height:15px!important
+        }      =20
+        .btn td,.btn-1 td,.btn-2 td,.btn-3 td,.btn-4 td,.btn-5 td,.btn-7 td=
+,.btn-8 td,.btn-9 td,.btn-10 td
+        {
+            padding:0!important
+        }      =20
+        .btn td a,.btn-2 td a
+        {
+            display:block;
+            padding:14px 22px
+        }      =20
+        .btn-1 td a
+        {
+            display:block;
+            padding:13px 20px
+        }      =20
+        .btn-3 td a,.btn-5 td a
+        {
+            display:block;
+            padding:14px 30px
+        }      =20
+        .btn-4 td a
+        {
+            display:block;
+            padding:13px 30px
+        }      =20
+        .btn-7 td a,.btn-8 td a
+        {
+            display:block;
+            padding:9px 20px
+        }      =20
+        .btn-9 td a
+        {
+            display:block;
+            padding:13px 35px
+        }      =20
+        .btn-10 td a
+        {
+            display:block;
+            padding:11px 33px
+        }      =20
+        .image img,.timer img
+        {
+            width:100%!important;
+            height:auto!important
+        }      =20
+        .m-left
+        {
+            text-align:left!important
+        }      =20
+        .footer .text,.m-center
+        {
+            text-align:center!important
+        }
+    }
+    @media only screen and (max-width: 380px) {
+        .container
+        {
+            width:280px!important
+        }      =20
+        .inner
+        {
+            width:240px!important
+        }
+    }
+    @media only screen and (max-width: 350px) {
+        .container
+        {
+            width:240px!important
+        }      =20
+        .inner
+        {
+            width:200px!important
+        }
+    }
+=09</style>
+<style type=3D"text/css">span.preheader{display:none!important;mso-hide:all=
+;}</style></head>
+<body style=3D"-webkit-text-size-adjust: none; margin: 0; padding: 0; font-=
+family: 'Open Sans', Arial, sans-serif; background-color: #ececec; color: #=
+494848;"><span class=3D"preheader" style=3D"display:none!important;mso-hide=
+:all;">You now have access to Webleads for Google Analytics. Instantly acce=
+ss information about your website=E2=80=99s visitors including their Linked=
+in profile, email & phone</span>
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" st=
+yle=3D"background-color: #ececec;" width=3D"100%"><!-- Spacer -->
+=09<tbody>
+=09=09<tr>
+=09=09=09<td class=3D"h0" height=3D"20" style=3D"font-size: 1px; line-heigh=
+t: 20px;">=C2=A0</td>
+=09=09</tr>
+=09=09<!-- End Spacer -->
+=09=09<tr>
+=09=09=09<td align=3D"center"><!--[if (gte mso 9)|(IE)]>     <table width=
+=3D"800" align=3D"center" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" =
+style=3D"width: 800px;">       <tr>         <td align=3D"center" valign=3D"=
+top">     <![endif]-->
+=09=09=09<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" class=3D"main-table" style=3D"max-width: 800px; min-width: 700px;" w=
+idth=3D"100%">
+=09=09=09=09<tbody>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td align=3D"center" class=3D"layouts-here"><!-- top head=
+er start -->
+=09=09=09=09=09=09<table align=3D"center" border=3D"0" cellpadding=3D"0" ce=
+llspacing=3D"0" class=3D"full-width" style=3D"width: 560px;" width=3D"560">
+=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09<td align=3D"center" class=3D"color-bg" style=3D=
+"background-color: #4285f4; border-width: 0px 0px 0px; border-style: solid =
+solid none; border-color: #e0e0e0 #e0e0e0 -moz-use-text-color; -moz-border-=
+top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors=
+: none; -moz-border-left-colors: none; border-image: none; border-radius: 7=
+px 7px 0px 0px;">
+=09=09=09=09=09=09=09=09=09<table align=3D"center" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" class=3D"container" style=3D"width: 480px;" width=
+=3D"480">
+=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"spacer" height=3D"20" styl=
+e=3D"font-size: 1px; line-height: 20px;">=C2=A0</td>
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<td>
+=09=09=09=09=09=09=09=09=09=09=09=09<table align=3D"center" border=3D"0" ce=
+llpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<th align=3D"left" class=3D"m-=
+cell" style=3D"font-weight: 400; padding: 0; vertical-align: middle;"><!-- =
+Logo --><!-- End Logo --></th>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<th align=3D"left" class=3D"m-=
+cell" height=3D"10" style=3D"font-weight: 400; padding: 0; vertical-align: =
+top; width: 20px; line-height: 10px;" width=3D"20">=C2=A0</th>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<th align=3D"right" class=3D"m=
+-cell" style=3D"font-weight: 400; padding: 0; vertical-align: middle;" widt=
+h=3D"320">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<table border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" class=3D"m-w100" style=3D"border-collapse: collap=
+se; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"text m-c=
+enter" style=3D"color: #ffffff; font-family: 'Open Sans',Arial,sans-serif; =
+font-size: 12px; line-height: 18px; text-align: right;">view on your <a hre=
+f=3D"http://tracking.fastwebleads.com/campaigns/cg1619lkzz39a/track-url/nb9=
+30zx1x23d7/76ba93a291a1d585c61fa886c5a0fa92227a8b2b" style=3D"text-decorati=
+on: underline; color: #ffffff; font-weight: bold;">browser</a><br />
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<a data-unsubtag=3D"_=
+DIRECT_UNSUBSCRIBE_URL_" href=3D"http://tracking.fastwebleads.com/campaigns=
+/cg1619lkzz39a/track-url/nb930zx1x23d7/f39039b9dc5c1d8445ee717ba358602a1f83=
+a695" style=3D"text-decoration: underline; color: #ffffff; font-weight: nor=
+mal;">unsubscribe</a></td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</th>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"spacer" height=3D"20" styl=
+e=3D"font-size: 1px; line-height: 20px;">=C2=A0</td>
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09</table>
+=09=09=09=09=09=09<!-- top header end --><!-- Layout 59 Notification (Heade=
+r - logo and text) -->
+
+=09=09=09=09=09=09<table align=3D"center" border=3D"0" cellpadding=3D"0" ce=
+llspacing=3D"0" class=3D"full-width" style=3D"width: 560px;" width=3D"560">
+=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09<td align=3D"center" class=3D"color-bg" style=3D=
+"background-color: #4285f4; border-width: 0px 0px; border-style: none solid=
+; border-color: -moz-use-text-color #e0e0e0; -moz-border-top-colors: none; =
+-moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-borde=
+r-left-colors: none; border-image: none;">
+=09=09=09=09=09=09=09=09=09<table align=3D"center" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" class=3D"container" style=3D"width: 480px;" width=
+=3D"480">
+=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"spacer" height=3D"24" styl=
+e=3D"font-size: 1px; line-height: 24px;">=C2=A0</td>
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09<!-- title -->
+=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"h2-4">=C2=A0
+=09=09=09=09=09=09=09=09=09=09=09=09<p><a href=3D"http://tracking.fastweble=
+ads.com/campaigns/cg1619lkzz39a/track-url/nb930zx1x23d7/34d0515ed264c13e521=
+5a001f88c416a55a54d4c" style=3D"font-family: Arial,sans-serif; font-size: 3=
+2px; line-height: 1.2; color: #ffffff; font-weight: 100; text-align: left; =
+text-decoration:none;"><strong>Premium</strong> Webleads</a><br />
+=09=09=09=09=09=09=09=09=09=09=09=09=C2=A0</p>
+
+=09=09=09=09=09=09=09=09=09=09=09=09<p><a href=3D"http://tracking.fastweble=
+ads.com/campaigns/cg1619lkzz39a/track-url/nb930zx1x23d7/34d0515ed264c13e521=
+5a001f88c416a55a54d4c" style=3D"font-family: Arial,sans-serif; font-size: 2=
+8px; line-height: 1.2; color: #ffffff; font-weight: 100; text-align: left; =
+text-decoration:none;"><span style=3D"font-size: 14px">DESIGNED FOR</span><=
+br />
+=09=09=09=09=09=09=09=09=09=09=09=09Google Analytics</a></p>
+=09=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09<!-- end title -->
+=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"spacer" height=3D"22" styl=
+e=3D"font-size: 1px; line-height: 22px;">=C2=A0</td>
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09</table>
+=09=09=09=09=09=09<!-- End Layout 59 Notification (Header - left logo, righ=
+t text) --><!-- Layout 60 Notification (Text block with image and button) -=
+->
+
+=09=09=09=09=09=09<table align=3D"center" border=3D"0" cellpadding=3D"0" ce=
+llspacing=3D"0" class=3D"full-width" style=3D"width: 560px;" width=3D"560">
+=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09<td align=3D"center" style=3D"background-color: =
+#ffffff; border: 1px solid #e0e0e0; border-top: 0 none; border-bottom: 0 no=
+ne;">
+=09=09=09=09=09=09=09=09=09<table align=3D"center" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" class=3D"container" style=3D"width: 480px;" width=
+=3D"480">
+=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"spacer" height=3D"10" styl=
+e=3D"font-size: 1px; line-height: 10px; height: 10px;">=C2=A0</td>
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09<!-- title -->
+=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"h2-4" style=3D"font-family=
+: 'Poppins',Arial,sans-serif; font-size: 28px; line-height: 1.2; color: #14=
+1414; font-weight: 700; text-align: center;">=C2=A0</td>
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09<!-- end title -->
+=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"spacer active" height=3D"1=
+0" style=3D"font-size: 1px; line-height: 10px; height: 10px;">=C2=A0</td>
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"text" style=3D"color: #494=
+848; font-family: 'Open Sans',Arial,sans-serif; font-size: 14px; line-heigh=
+t: 24px; text-align: left;">The new premium add-on for Google Analytics is =
+a welcome addition for business owners that track their company=E2=80=99s h=
+ealth and productivity on the success of their online presence.=C2=A0 Save =
+time and resources by working smarter, not harder by using the information =
+presented in the new Fastbase Webleads add-on to streamline your marketing =
+and sales strategies.<br />
+=09=09=09=09=09=09=09=09=09=09=09=09<br />
+=09=09=09=09=09=09=09=09=09=09=09=09With features that identify the exact c=
+ompanies and clients that are visiting your company=E2=80=99s website, blin=
+d guesswork is eliminated and leads are clearly identified.<br />
+=09=09=09=09=09=09=09=09=09=09=09=09<br />
+=09=09=09=09=09=09=09=09=09=09=09=09The premium add-on provides 90 days of =
+information that is downloadable to Excel or in CSV-format.=C2=A0<br />
+=09=09=09=09=09=09=09=09=09=09=09=09<br />
+=09=09=09=09=09=09=09=09=09=09=09=09Sign-in to start using the add-on with =
+your Google Analytics account.</td>
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"spacer" height=3D"40" styl=
+e=3D"font-size: 1px; line-height: 40px;">=C2=A0</td>
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<td align=3D"center"><!-- Button -->
+=09=09=09=09=09=09=09=09=09=09=09=09<table align=3D"left" border=3D"0" cell=
+padding=3D"0" cellspacing=3D"0" class=3D"btn-9" style=3D"min-width: 160px;"=
+>
+=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td style=3D"border-radius: 2p=
+x; font-family: Arial,sans-serif; font-size: 14px; font-weight: 700; line-h=
+eight: 1.08; padding: 13px 35px; text-align: center; background-color: #00c=
+853; color: #ffffff;"><a href=3D"http://tracking.fastwebleads.com/campaigns=
+/cg1619lkzz39a/track-url/nb930zx1x23d7/b2e2cf6ec57b2ef52bf7a8f86d7c114a905c=
+33b2" style=3D"text-decoration: none; color: #ffffff;">Sign in with Google<=
+/a></td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09=09=09=09<!-- End button --></td>
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"spacer" height=3D"10" styl=
+e=3D"font-size: 1px; line-height: 10px;">=C2=A0</td>
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09</table>
+=09=09=09=09=09=09<!-- End Layout 60 Notification (Text block with image an=
+d button) --><!-- Layout 57 Notification (Text block with button) --><!-- E=
+nd Layout 57 Notification (Text block with button) --><!-- Layout 57 Notifi=
+cation (Text block with button) -->
+
+=09=09=09=09=09=09<table align=3D"center" border=3D"0" cellpadding=3D"0" ce=
+llspacing=3D"0" class=3D"full-width" style=3D"width: 560px;" width=3D"560">
+=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09<td align=3D"center" style=3D"background-color: =
+#ffffff; border: 1px solid #e0e0e0; border-top: 0 none; border-bottom: 0 no=
+ne;">
+=09=09=09=09=09=09=09=09=09<table align=3D"center" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" class=3D"container" style=3D"width: 480px;" width=
+=3D"480">
+=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"spacer" height=3D"10" styl=
+e=3D"font-size: 1px; line-height: 10px;">=C2=A0</td>
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"text" style=3D"color: #494=
+848; font-family: 'Open Sans',Arial,sans-serif; font-size: 14px; line-heigh=
+t: 24px; text-align: left;">Questions and support is available by phone or =
+through our live chat.<br />
+=09=09=09=09=09=09=09=09=09=09=09=09<br />
+=09=09=09=09=09=09=09=09=09=09=09=09<strong>Fastbase.com</strong><br />
+=09=09=09=09=09=09=09=09=09=09=09=09Support +45 33 11 11 13</td>
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"spacer" height=3D"40" styl=
+e=3D"font-size: 1px; line-height: 40px;">=C2=A0</td>
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09</table>
+=09=09=09=09=09=09<!-- End Layout 57 Notification (Text block with button) =
+--><!-- Layout 58 Notification (Text and social icons) -->
+
+=09=09=09=09=09=09<table align=3D"center" border=3D"0" cellpadding=3D"0" ce=
+llspacing=3D"0" class=3D"full-width" style=3D"width: 560px;" width=3D"560">
+=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09<td align=3D"center" style=3D"background-color: =
+#f9f9f9; border: 1px solid #e0e0e0; border-radius: 0 0 7px 7px;">
+=09=09=09=09=09=09=09=09=09<table align=3D"center" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" class=3D"container" style=3D"width: 480px;" width=
+=3D"480">
+=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"spacer" height=3D"15" styl=
+e=3D"font-size: 1px; line-height: 15px;">=C2=A0</td>
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09<!-- title -->
+=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"text" style=3D"color: #494=
+848; font-family: 'Open Sans',Arial,sans-serif; font-size: 13px; line-heigh=
+t: 18px; text-align: left;">This email was sent to mail@dorianvasco.de beca=
+use you indicated that you'd like to receive occasional messages from FastB=
+ase Inc.<br />
+=09=09=09=09=09=09=09=09=09=09=09=09<br />
+=09=09=09=09=09=09=09=09=09=09=09=09View this email on your <a href=3D"http=
+://tracking.fastwebleads.com/campaigns/cg1619lkzz39a/track-url/nb930zx1x23d=
+7/76ba93a291a1d585c61fa886c5a0fa92227a8b2b" style=3D"text-decoration: under=
+line; color: #4285f4;">browser</a><br />
+=09=09=09=09=09=09=09=09=09=09=09=09If you no longer wish to receive emails=
+ please <a data-unsubtag=3D"_DIRECT_UNSUBSCRIBE_URL_" href=3D"http://tracki=
+ng.fastwebleads.com/campaigns/cg1619lkzz39a/track-url/nb930zx1x23d7/f39039b=
+9dc5c1d8445ee717ba358602a1f83a695" style=3D"text-decoration: underline; col=
+or: #4285f4;">Unsubscribe</a><br />
+=09=09=09=09=09=09=09=09=09=09=09=09<br />
+=09=09=09=09=09=09=09=09=09=09=09=09<a href=3D"http://tracking.fastwebleads=
+.com/campaigns/cg1619lkzz39a/track-url/nb930zx1x23d7/651b9ffcf3d2fef4340b65=
+077e637c7739a832c7" style=3D"text-decoration: underline; color: #4285f4;">R=
+eport abuse</a></td>
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<td align=3D"center"><!-- social icons =
+--><!-- end social icons --></td>
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"spacer" height=3D"17" styl=
+e=3D"font-size: 1px; line-height: 17px;">=C2=A0</td>
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09</table>
+=09=09=09=09=09=09<!-- End Layout 58 Notification (Text and social icons) -=
+-></td>
+=09=09=09=09=09</tr>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td><!-- Footer -->
+=09=09=09=09=09=09<table align=3D"center" border=3D"0" cellpadding=3D"0" ce=
+llspacing=3D"0" class=3D"footer" width=3D"100%">
+=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09<td align=3D"center">
+=09=09=09=09=09=09=09=09=09<table align=3D"center" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" class=3D"container" style=3D"width: 560px;" width=
+=3D"560"><!-- Spacer -->
+=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"spacer" height=3D"20" styl=
+e=3D"font-size: 1px; line-height: 20px;">=C2=A0</td>
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09<!-- End Spacer -->
+=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<td>=C2=A0</td>
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09<!-- Spacer -->
+=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"spacer" height=3D"20" styl=
+e=3D"font-size: 1px; line-height: 20px;">=C2=A0</td>
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09<!-- End Spacer -->
+=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09</table>
+=09=09=09=09=09=09<!-- End Footer --></td>
+=09=09=09=09=09</tr>
+=09=09=09=09</tbody>
+=09=09=09</table>
+=09=09=09<!--[if (gte mso 9)|(IE)]>     </td>     </tr>     </table>     <!=
+[endif]--></td>
+=09=09</tr>
+=09</tbody>
+</table>
+<img width=3D"1" height=3D"1" src=3D"http://tracking.fastwebleads.com/campa=
+igns/cg1619lkzz39a/track-opening/nb930zx1x23d7" alt=3D"" />
+</body>
+</html>
+
+
+--_=_swift_v4_1498105052_83b0a36586dfafd168883982eaf94a78_=_--
+

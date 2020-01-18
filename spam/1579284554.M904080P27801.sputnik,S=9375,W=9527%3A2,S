@@ -1,0 +1,152 @@
+Return-Path: <MAILER-DAEMON>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 1D03AD1908
+	for <mail@dorianvasco.de>; Tue, 17 Sep 2019 17:28:04 +0200 (CEST)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 7.07
+X-Spam-Level: *******
+X-Spam-Status: Yes, score=7.07 required=5.5 tests=[BAYES_99=3.5,
+	BAYES_999=0.2, DEAR_SOMETHING=1.973, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	FROM_NO_USER=0.798, HTML_MESSAGE=0.001, MISSING_MID=0.497,
+	SPF_HELO_NONE=0.001, TO_MALFORMED=0.1] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id i-Enm-c0FKWL for <mail@dorianvasco.de>;
+	Tue, 17 Sep 2019 17:28:01 +0200 (CEST)
+Received: from host.netwaveinteractive.com (host.netwaveinteractive.com [72.52.138.12])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id 86B40C147E
+	for <kontakt@dorianvasco.de>; Tue, 17 Sep 2019 17:27:59 +0200 (CEST)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed;
+	d=adagencynj.com; s=default; h=Reply-To:Date:From:To:Subject:MIME-Version:
+	Content-Type:Sender:Message-ID:Cc:Content-Transfer-Encoding:Content-ID:
+	Content-Description:Resent-Date:Resent-From:Resent-Sender:Resent-To:Resent-Cc
+	:Resent-Message-ID:In-Reply-To:References:List-Id:List-Help:List-Unsubscribe:
+	List-Subscribe:List-Post:List-Owner:List-Archive;
+	bh=dFXQCmLCJKD//P9fvyZT+y44L9GtAQ0pIYuJfM5xbyQ=; b=Sr6JVuF0LCDBi68QnoXMf3hZJG
+	Ha5vMx//K6KygaSECH6S+5mlmtdtET1gsC7s2AHDFt/hx41P7jH+7qjxT6CROZ4/Qb0GRujXclB4l
+	RYjI8IHcyFebVP7D5tNlBO1JA;
+Received: from [151.47.39.10] (port=58817 helo=[192.168.0.172])
+	by host.netwaveinteractive.com with esmtpa (Exim 4.92)
+	id 1iAFOQ-009DgC-3m; Tue, 17 Sep 2019 11:27:50 -0400
+Content-Type: multipart/alternative; boundary="===============0732516388=="
+MIME-Version: 1.0
+Subject: Dear Sir/Madam
+To: Recipients <>
+From: "F. Lister" <>
+Date: Tue, 17 Sep 2019 17:26:26 +0200
+Reply-To: infoservi@163.com
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - host.netwaveinteractive.com
+X-AntiAbuse: Original Domain - dorianvasco.de
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - 
+X-Get-Message-Sender-Via: host.netwaveinteractive.com: authenticated_id: sales@adagencynj.com
+X-Authenticated-Sender: host.netwaveinteractive.com: sales@adagencynj.com
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+Message-Id: <20190917152804.1D03AD1908@v22014122474822114.stilfilm.com>
+
+You will not see this in a MIME-aware mail reader.
+--===============0732516388==
+Content-Type: text/plain; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+  Sir/Madam,   My name is Mr E. Hagler, and I have an investment management=
+ proposal for you, for more details, reply to this email immediately.   Tha=
+nk you for your understanding.   Sincerely Yours,   Eugen Hagler
+--===============0732516388==
+Content-Type: text/html; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+<HTML><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3Diso-8859-1"/></head><BODY><SPAN style=3D"FONT-SIZE: 14px; FONT-FAMILY: L=
+ato; WHITE-SPACE: normal; TEXT-TRANSFORM: none; WORD-SPACING: 0px; FLOAT: n=
+one; FONT-WEIGHT: 400; COLOR: rgb(33,33,33); FONT-STYLE: normal; ORPHANS: 2=
+; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND=
+-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal;=
+ font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration=
+-style: initial; text-decoration-color: initial">
+<DIV style=3D"FONT-SIZE: 13px; FONT-FAMILY: 'Helvetica Neue', Helvetica, Ar=
+ial, sans-serif; WHITE-SPACE: normal; TEXT-TRANSFORM: none; WORD-SPACING: 0=
+px; FONT-WEIGHT: 400; COLOR: rgb(29,34,40); FONT-STYLE: normal; TEXT-ALIGN:=
+ left; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb=
+(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-varia=
+nt-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: ini=
+tial; text-decoration-color: initial" dir=3Dltr>
+<DIV style=3D"FONT-SIZE: 13px; FONT-FAMILY: 'Helvetica Neue', Helvetica, Ar=
+ial, sans-serif; WHITE-SPACE: normal; TEXT-TRANSFORM: none; WORD-SPACING: 0=
+px; FONT-WEIGHT: 400; COLOR: rgb(29,34,40); FONT-STYLE: normal; TEXT-ALIGN:=
+ left; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb=
+(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-varia=
+nt-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: ini=
+tial; text-decoration-color: initial">Sir/Madam,</DIV>
+<DIV style=3D"FONT-SIZE: 13px; FONT-FAMILY: 'Helvetica Neue', Helvetica, Ar=
+ial, sans-serif; WHITE-SPACE: normal; TEXT-TRANSFORM: none; WORD-SPACING: 0=
+px; FONT-WEIGHT: 400; COLOR: rgb(29,34,40); FONT-STYLE: normal; TEXT-ALIGN:=
+ left; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb=
+(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-varia=
+nt-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: ini=
+tial; text-decoration-color: initial">&nbsp;</DIV>
+<DIV style=3D"FONT-SIZE: 13px; FONT-FAMILY: 'Helvetica Neue', Helvetica, Ar=
+ial, sans-serif; WHITE-SPACE: normal; TEXT-TRANSFORM: none; WORD-SPACING: 0=
+px; FONT-WEIGHT: 400; COLOR: rgb(29,34,40); FONT-STYLE: normal; TEXT-ALIGN:=
+ left; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb=
+(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-varia=
+nt-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: ini=
+tial; text-decoration-color: initial">My name is Mr E. Hagler, and I have a=
+n investment management proposal for you, for more details, reply to this e=
+mail immediately.</DIV>
+<DIV style=3D"FONT-SIZE: 13px; FONT-FAMILY: 'Helvetica Neue', Helvetica, Ar=
+ial, sans-serif; WHITE-SPACE: normal; TEXT-TRANSFORM: none; WORD-SPACING: 0=
+px; FONT-WEIGHT: 400; COLOR: rgb(29,34,40); FONT-STYLE: normal; TEXT-ALIGN:=
+ left; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb=
+(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-varia=
+nt-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: ini=
+tial; text-decoration-color: initial">&nbsp;</DIV>
+<DIV style=3D"FONT-SIZE: 13px; FONT-FAMILY: 'Helvetica Neue', Helvetica, Ar=
+ial, sans-serif; WHITE-SPACE: normal; TEXT-TRANSFORM: none; WORD-SPACING: 0=
+px; FONT-WEIGHT: 400; COLOR: rgb(29,34,40); FONT-STYLE: normal; TEXT-ALIGN:=
+ left; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb=
+(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-varia=
+nt-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: ini=
+tial; text-decoration-color: initial">Thank you for your understanding.</DI=
+V>
+<DIV style=3D"FONT-SIZE: 13px; FONT-FAMILY: 'Helvetica Neue', Helvetica, Ar=
+ial, sans-serif; WHITE-SPACE: normal; TEXT-TRANSFORM: none; WORD-SPACING: 0=
+px; FONT-WEIGHT: 400; COLOR: rgb(29,34,40); FONT-STYLE: normal; TEXT-ALIGN:=
+ left; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb=
+(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-varia=
+nt-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: ini=
+tial; text-decoration-color: initial">&nbsp;</DIV>
+<DIV style=3D"FONT-SIZE: 13px; FONT-FAMILY: 'Helvetica Neue', Helvetica, Ar=
+ial, sans-serif; WHITE-SPACE: normal; TEXT-TRANSFORM: none; WORD-SPACING: 0=
+px; FONT-WEIGHT: 400; COLOR: rgb(29,34,40); FONT-STYLE: normal; TEXT-ALIGN:=
+ left; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb=
+(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-varia=
+nt-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: ini=
+tial; text-decoration-color: initial">Sincerely Yours,</DIV>
+<DIV style=3D"FONT-SIZE: 13px; FONT-FAMILY: 'Helvetica Neue', Helvetica, Ar=
+ial, sans-serif; WHITE-SPACE: normal; TEXT-TRANSFORM: none; WORD-SPACING: 0=
+px; FONT-WEIGHT: 400; COLOR: rgb(29,34,40); FONT-STYLE: normal; TEXT-ALIGN:=
+ left; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb=
+(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-varia=
+nt-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: ini=
+tial; text-decoration-color: initial">&nbsp;</DIV>
+<DIV style=3D"FONT-SIZE: 13px; FONT-FAMILY: 'Helvetica Neue', Helvetica, Ar=
+ial, sans-serif; WHITE-SPACE: normal; TEXT-TRANSFORM: none; WORD-SPACING: 0=
+px; FONT-WEIGHT: 400; COLOR: rgb(29,34,40); FONT-STYLE: normal; TEXT-ALIGN:=
+ left; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb=
+(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-varia=
+nt-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: ini=
+tial; text-decoration-color: initial">Eugen Hagler</DIV></DIV></SPAN></BODY=
+></HTML>
+--===============0732516388==--

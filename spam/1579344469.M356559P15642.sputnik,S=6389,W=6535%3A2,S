@@ -1,0 +1,146 @@
+Return-Path: <kontakt@dorianvasco.de>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 244A2D24FB
+	for <mail@dorianvasco.de>; Sun, 14 Jul 2019 02:55:13 +0200 (CEST)
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=dorianvasco.de;
+	s=mail; t=1563065713;
+	bh=s88STDTEA1AEbPnSZgfnXU4/sG/geV0vIBhHWKNxqvw=;
+	h=From:To:Subject:Date:From;
+	b=RxDY1ltA0dTQ4AzvYck4sxTqjTf/K6Qp7jeagHe0/7W3nEZ+mzTaLHAQi7TAbi1jA
+	 rNUIwttKVC7fMa2QfMGYAZeHdBdWIuVzRXesOJvh0740VHuOkmi3mk5iMeS9jsmJ+x
+	 U5Ui36E+MuBE4dmL+Ze5jqKJe7uyd8npKREnTzjc=
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 5.879
+X-Spam-Level: *****
+X-Spam-Status: Yes, score=5.879 required=5.5 tests=[BAYES_05=-0.5,
+	BITCOIN_SPAM_07=3.393, CK_HELO_GENERIC=0.001, HTML_MESSAGE=0.001,
+	RDNS_NONE=0.793, SPF_HELO_NONE=0.001, SPF_SOFTFAIL=0.665,
+	TO_EQ_FM_DIRECT_MX=1.525] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id P5d4UxSeWAAm for <mail@dorianvasco.de>;
+	Sun, 14 Jul 2019 02:55:04 +0200 (CEST)
+Received: from host-156.200.207.200-static.tedata.net (unknown [156.200.200.207])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id B4085C436A
+	for <kontakt@dorianvasco.de>; Sun, 14 Jul 2019 02:54:56 +0200 (CEST)
+Message-ID: <897725260215784159696662@dorianvasco.de>
+From: "nappy21" <kontakt@dorianvasco.de>
+To: <kontakt@dorianvasco.de>
+Subject: Jemand hat sich bei Ihrem Konto angemeldet. Du musst handeln.
+Date: 14 Jul 2019 03:16:46 +0100
+MIME-Version: 1.0
+Content-type: multipart/alternative;
+ boundary="---1582B38D2B24BC1582B38D2B24BC1582"
+X-Mailer: Kposth rkhlupu
+
+This is a multi-part message in MIME format.
+
+-----1582B38D2B24BC1582B38D2B24BC1582
+Content-type: text/plain;
+ charset="ibm852"
+Content-transfer-encoding: quoted-printable
+
+Hallo, sehr geehrter Nutzer von dorianvasco.de
+
+Wir haben eine RAT-Software in Ihrem Ger&#228;t installiert.=20
+In diesem Moment wird auch dein E-Mail-Konto gehackt.
+Ich kenne dein Passwort. Ich habe mich bei deinem Konto angemeldet und =
+diesen Brief von dort aus an dich geschrieben.
+
+Haben Sie Ihr Passwort ge&#228;ndert? Du machst das gro&#223;artig!
+Aber meine Software erkennt jede solche Aktion. Ich aktualisiere die =
+Passw&#246;rter!
+Ich bin immer einen Schritt voraus...
+
+Also.. Ich habe alle vertraulichen Informationen von Ihrem System =
+heruntergeladen und habe weitere Beweise erhalten.
+Der interessanteste Moment, den ich entdeckt habe, sind Videoaufnahmen, =
+in denen man masturbiert.
+
+Ich habe die EternalBlue Exploit Nachr&#252;stung auf der Pornoseite =
+ver&#246;ffentlicht, und dann hast du meinen b&#246;sartigen Code =
+(Trojaner) auf deinem Betriebssystem installiert.
+Als du auf die Schaltfl&#228;che Play on porn video geklickt hast, wurde =
+in diesem Moment mein Trojaner auf dein Ger&#228;t heruntergeladen.
+Nach der Installation nimmt Ihre Frontkamera jedes Mal, wenn Sie =
+masturbieren, Video auf, au&#223;erdem wird die Software mit dem von =
+Ihnen gew&#228;hlten Video synchronisiert.
+
+Im Moment hat die Software alle Ihre Kontaktinformationen aus sozialen =
+Netzwerken und E-Mail-Adressen gespeichert.
+Wenn Sie alle Ihre gesammelten Daten und Videos l&#246;schen =
+m&#252;ssen, senden Sie mir 300&#8364; in BTC (Krypto-W&#228;hrung).
+
+Dies ist meine Bitcoin Geldb&#246;rse: =
+1GtdpkxN7izueE1696LQUSRB72Mh71BeNh
+Du hast 48 Stunden Zeit, nachdem du diesen Brief gelesen hast.
+
+Nach Ihrer Transaktion werde ich alle Ihre Daten l&#246;schen.
+Andernfalls werde ich ein Video mit Ihren "Streiche" an alle Ihre =
+Kollegen, Freunde und Verwandten schicken.
+
+P.S. Ich bitte Sie, nicht auf diese E-Mail zu antworten, dies ist =
+unm&#246;glich (die Adresse des Absenders ist Ihre eigene Adresse).
+
+Und von nun an seid vorsichtiger!
+Bitte besuchen Sie nur sichere Seiten!
+Tsch&#252;ss..
+-----1582B38D2B24BC1582B38D2B24BC1582
+Content-type: text/html;
+ charset="ibm852"
+Content-transfer-encoding: quoted-printable
+
+<html><head><meta Http-Equiv=3Dcontent-type content=3D"text/html; =
+charset=3Dibm852"></head>
+<body>
+ Hallo, sehr geehrter Nutzer von dorianvasco.de<br>
+<br>
+Wir haben eine RAT-Software in Ihrem Ger&#228;t installiert. <br>
+In diesem Moment wird auch dein E-Mail-Konto gehackt.<br>
+Ich kenne dein Passwort. Ich habe mich bei deinem Konto angemeldet und =
+diesen Brief von dort aus an dich geschrieben.<br>
+<br>
+Haben Sie Ihr Passwort ge&#228;ndert? Du machst das gro&#223;artig!<br>
+Aber meine Software erkennt jede solche Aktion. Ich aktualisiere die =
+Passw&#246;rter!<br>
+Ich bin immer einen Schritt voraus...<br>
+<br>
+Also.. Ich habe alle vertraulichen Informationen von Ihrem System =
+heruntergeladen und habe weitere Beweise erhalten.<br>
+Der interessanteste Moment, den ich entdeckt habe, sind Videoaufnahmen, =
+in denen man masturbiert.<br>
+<br>
+Ich habe die EternalBlue Exploit Nachr&#252;stung auf der Pornoseite =
+ver&#246;ffentlicht, und dann hast du meinen b&#246;sartigen Code =
+(Trojaner) auf deinem Betriebssystem installiert.<br>
+Als du auf die Schaltfl&#228;che Play on porn video geklickt hast, wurde =
+in diesem Moment mein Trojaner auf dein Ger&#228;t heruntergeladen.<br>
+Nach der Installation nimmt Ihre Frontkamera jedes Mal, wenn Sie =
+masturbieren, Video auf, au&#223;erdem wird die Software mit dem von =
+Ihnen gew&#228;hlten Video synchronisiert.<br>
+<br>
+Im Moment hat die Software alle Ihre Kontaktinformationen aus sozialen =
+Netzwerken und E-Mail-Adressen gespeichert.<br>
+Wenn Sie alle Ihre gesammelten Daten und Videos l&#246;schen =
+m&#252;ssen, senden Sie mir 300&#8364; in BTC (Krypto-W&#228;hrung).<br>
+<br>
+Dies ist meine Bitcoin Geldb&#246;rse: =
+1GtdpkxN7izueE1696LQUSRB72Mh71BeNh<br>
+Du hast 48 Stunden Zeit, nachdem du diesen Brief gelesen hast.<br>
+<br>
+Nach Ihrer Transaktion werde ich alle Ihre Daten l&#246;schen.<br>
+Andernfalls werde ich ein Video mit Ihren "Streiche" an alle Ihre =
+Kollegen, Freunde und Verwandten schicken.<br>
+<br>
+P.S. Ich bitte Sie, nicht auf diese E-Mail zu antworten, dies ist =
+unm&#246;glich (die Adresse des Absenders ist Ihre eigene Adresse).<br>
+<br>
+Und von nun an seid vorsichtiger!<br>
+Bitte besuchen Sie nur sichere Seiten!<br>
+Tsch&#252;ss..
+ </body></html>
+-----1582B38D2B24BC1582B38D2B24BC1582--
+
+

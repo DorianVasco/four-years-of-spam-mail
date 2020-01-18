@@ -1,0 +1,31 @@
+Return-Path: <infolike7366@pravozona.com>
+Delivered-To: mail@stilfilm.com
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id CAC07C09AB
+	for <mail@stilfilm.com>; Sat,  3 Nov 2018 23:50:42 +0100 (CET)
+X-Quarantine-ID: <mA-oo8B0VEYv>
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Amavis-Alert: BAD HEADER SECTION, Missing required header field: "Date"
+X-Spam-Flag: YES
+X-Spam-Score: 7.627
+X-Spam-Level: *******
+X-Spam-Status: Yes, score=7.627 required=5.5 tests=[HTML_MESSAGE=0.001,
+	HTML_MIME_NO_HTML_TAG=0.635, MIME_HTML_ONLY=1.105, MISSING_DATE=1.396,
+	MISSING_HEADERS=1.207, MISSING_MID=0.14, RDNS_NONE=1.274,
+	SPF_HELO_SOFTFAIL=0.896, SPF_SOFTFAIL=0.972, TVD_SPACE_RATIO=0.001]
+	autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id mA-oo8B0VEYv for <mail@stilfilm.com>;
+	Sat,  3 Nov 2018 23:50:41 +0100 (CET)
+Received: from pravozona.com (unknown [191.96.249.167])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id B595DC0075
+	for <gregorius@stilfilm.com>; Sat,  3 Nov 2018 23:50:39 +0100 (CET)
+From: "greymore" <infolike7366@pravozona.com>
+Subject: Verifi
+MIME-Version: 1.0
+Content-Type: text/html
+Message-Id: <20181103225042.CAC07C09AB@v22014122474822114.stilfilm.com>
+Date: Sat,  3 Nov 2018 23:50:42 +0100 (CET)
+
+ 

@@ -1,0 +1,1321 @@
+Return-Path: <return-a444-64079-64211-589bf19f=199990483=8@pixel-promarketing.de>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 827E8D1620
+	for <mail@dorianvasco.de>; Mon, 18 Nov 2019 08:39:37 +0100 (CET)
+Authentication-Results: v22014122474822114.stilfilm.com; dkim=pass
+	reason="1024-bit key; insecure key"
+	header.d=pixel-promarketing.de header.i=@pixel-promarketing.de
+	header.b=S1sX4eBW; dkim-adsp=pass; dkim-atps=neutral
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: 3.601
+X-Spam-Level: ***
+X-Spam-Status: No, score=3.601 required=4.5 tests=[BAYES_99=3.5,
+	BAYES_999=0.2, DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	HTML_MESSAGE=0.001] autolearn=no autolearn_force=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id AbOJPguS01jn for <mail@dorianvasco.de>;
+	Mon, 18 Nov 2019 08:39:34 +0100 (CET)
+Received: from smtp7-131.newsletter-pixelpro.de (smtp7-131.newsletter-pixelpro.de [193.70.52.217])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id 6E4F8C088A
+	for <kontakt@dorianvasco.de>; Mon, 18 Nov 2019 08:39:33 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; d=pixel-promarketing.de; s=ppm;
+ t=1574062772; bh=xXYFELDWQ3X1eJCIDh4e2dr62LY=;
+ h=Subject:From:To:Reply-To:Date:List-Unsubscribe:X-CampaignID:
+  Message-ID:X-Mailer-Info:MIME-Version:Content-Type;
+ b=S1sX4eBW0dKmTKX31HDj6Dpp1npyF22x0CJKdnjvJlz3vvK9KGzRJg+/wdjCAoknR
+  dzMP5jR1tbO8hDH4KHkRbajjjJZoWOaVnSF5jcKuAcGvGHrvqwQD0OQjAV89+ruwEb
+  bbKdqrzUT4/8DzFdQDMZu8Be4rXAKTTiEFHrLe6I=
+Subject: =?UTF-8?Q?=C3=84gypten=3A=205=2A=2DWoche=20mit=20All=20Inclusi?=
+ =?UTF-8?Q?ve=2C=20ab=20549=2C=2D=E2=82=AC?=
+From: "Travelzoo - Reisen" <mail@pixel-promarketing.de>
+To: kontakt@dorianvasco.de
+Reply-To: noreply@pixel-promarketing.de
+Date: 18 Nov 2019 07:39:32 -0000
+List-Unsubscribe: <http://pixel-promarketing.de/ga/unsubscribe/2-199990483-444-23917-64211-e04939885d24e4c-1e6d0a8fd7?confirmed=1>,
+ <mailto:return-a444-64079-64211-589bf19f=199990483=8u@pixel-promarketing.de>
+X-CampaignID: s4:64079-9eedd2edafebd373
+Message-ID: <mid-690b084acc27569e41e980693e0d6a61-33@pixel-promarketing.de>
+X-Mailer-Info: 8.QY0QDN.YDNwcTO.wav5GdhtGdAR2bylWYuZXYzN2buQWZ.xkTO5kDM0gzM.YDNyETM
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="==3ae3aed332aadb6c6c777badcf6eb65f"
+
+This is a multi-part message in MIME format.
+
+--==3ae3aed332aadb6c6c777badcf6eb65f
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Im Browser ansehen ( http://pixel-promarketing.de/ga/webviews/4-199990483-4=
+44-23917-26371-64211-a9b7c757f0 ) | Abmelden (
+http://pixel-promarketing.de/ga/unsubscribe/2-199990483-444-23917-64211-e04=
+939885d24e4c-1e6d0a8fd7 )
+
+Travelzoo ( http://pixel-promarketing.de/ga/click/2-199990483-444-23917-642=
+11-1914767-b399ef6d8f-1e6d0a8fd7 )
+
+Travelzoo ( http://pixel-promarketing.de/ga/click/2-199990483-444-23917-642=
+11-1914767-b399ef6d8f-1e6d0a8fd7 )
+
+Erhalten Sie die besten w=C3=B6chentlichen
+Urlaubsschn=C3=A4ppchen bei Travelzoo!
+
+Los geht's!
+
+Los geht's! ( http://pixel-promarketing.de/ga/click/2-199990483-444-23917-6=
+4211-1914767-b399ef6d8f-1e6d0a8fd7 )
+
+Sehr Geehrte Damen und Herren
+
+Ihr n=C3=A4chster Urlaub ist nur einen Klick entfernt! Unsere
+Reise-Experten nehmen Ihnen die Suche nach den besten
+Reiseangeboten ab.
+
+Melden Sie sich jetzt kostenlos an und werden Sie eines von mehr
+als 28 Millionen Mitgliedern.
+
+Jetzt kostenlos anmelden!
+
+Jetzt kostenlos anmelden! ( http://pixel-promarketing.de/ga/click/2-1999904=
+83-444-23917-64211-1914767-b399ef6d8f-1e6d0a8fd7 )
+
+travel-01.jpg ( http://pixel-promarketing.de/ga/click/2-199990483-444-23917=
+-64211-1914768-3b5ad8e137-1e6d0a8fd7 )
+
+- =C3=84gypten -
+
+5*-Woche mit All Inclusive
+
+Rabatt -280 =E2=82=AC | ab 549 =E2=82=AC
+
+ZUM ANGEBOT
+
+ZUM ANGEBOT ( http://pixel-promarketing.de/ga/click/2-199990483-444-23917-6=
+4211-1914768-3b5ad8e137-1e6d0a8fd7 )
+
+travel-02.png ( http://pixel-promarketing.de/ga/click/2-199990483-444-23917=
+-64211-1914769-633c9dcb99-1e6d0a8fd7 )
+
+- Mallorca -
+
+Mandelbl=C3=BCte: Mallorca mit Flug, Auto & HP
+
+Rabatt -38% | ab 429 =E2=82=AC
+
+ZUM ANGEBOT
+
+ZUM ANGEBOT ( http://pixel-promarketing.de/ga/click/2-199990483-444-23917-6=
+4211-1914769-633c9dcb99-1e6d0a8fd7 )
+
+travel-03.png ( http://pixel-promarketing.de/ga/click/2-199990483-444-23917=
+-64211-1914770-f7cc583b0a-1e6d0a8fd7 )
+
+- Dublin -
+
+3 Tage im 4*-Hotel & Flug
+
+Rabatt -33% | ab 129 =E2=82=AC
+
+ZUM ANGEBOT
+
+ZUM ANGEBOT ( http://pixel-promarketing.de/ga/click/2-199990483-444-23917-6=
+4211-1914770-f7cc583b0a-1e6d0a8fd7 )
+
+travel-04.png ( http://pixel-promarketing.de/ga/click/2-199990483-444-23917=
+-64211-1914771-cdcb66712f-1e6d0a8fd7 )
+
+- Kanaren, Kapverden, Azoren -
+
+mit Mein Schiff
+
+Rabatt -50% | ab 649 =E2=82=AC
+
+ZUM ANGEBOT
+
+ZUM ANGEBOT ( http://pixel-promarketing.de/ga/click/2-199990483-444-23917-6=
+4211-1914771-cdcb66712f-1e6d0a8fd7 )
+
+Ist Ihr Reiseziel nicht dabei?
+
+Kein Problem.
+Travelzoo hat noch viele weitere Angebote
+f=C3=BCr Sie auf der ganzen Welt!
+
+Los geht's!
+
+Los geht's! ( http://pixel-promarketing.de/ga/click/2-199990483-444-23917-6=
+4211-1914767-b399ef6d8f-1e6d0a8fd7 )
+
+Travelzoo ( http://pixel-promarketing.de/ga/click/2-199990483-444-23917-642=
+11-1914767-b399ef6d8f-1e6d0a8fd7 )
+
+Das Angebot ist eine kommerzielle Anzeige dieses Werbekunden, der
+allein f=C3=BCr den Inhalt verantwortlich ist.
+
+Verantwortlich f=C3=BCr den Versand der E-Mail ist:
+Ein Service von Pixel ProMarketing S.L. | Str Azor n5
+Mijas-Costa | E-29651 M=C3=A1laga
+
+Ihre Daten sind lediglich bei dem Versender gespeichert. Der
+Werbekunde hat daher keinen Einfluss auf dem Empf=C3=A4ngerkreis der
+E-Mail.
+Sofern Sie k=C3=BCnftig keinen Newsletter mehr erhalten m=C3=B6chten,
+wenden Sie sich bitte direkt an den Versender oder klicken auf
+folgenden Link: Abmelden ( http://pixel-promarketing.de/ga/unsubscribe/2-19=
+9990483-444-23917-64211-e04939885d24e4c-1e6d0a8fd7 )
+
+Haben Sie Verst=C3=A4ndnis, dass die Abmeldung bis zu 48 Stunden
+dauern kann. Direkte Antworten an die Absenderadresse k=C3=B6nnen
+nicht beantwortet werden.
+
+support(at)pixelpromarketing.com ( support@pixelpromarketing.com
+)
+Ihre Daten sind lediglich bei dem Versender gespeichert. Der
+Werbekunde hat daher keinen Einfluss auf den Empf=C3=A4ngerkreis der
+E-Mail.=
+
+--==3ae3aed332aadb6c6c777badcf6eb65f
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8"/>
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1.=
+0"/>
+<meta name=3D"format-detection" content=3D"telephone=3Dno"/>
+<meta name=3D"format-detection" content=3D"date=3Dno"/>
+<meta name=3D"format-detection" content=3D"address=3Dno"/>
+<meta name=3D"format-detection" content=3D"email=3Dno"/>
+<meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge" />
+<title>Travelzoo</title>
+<style type=3D"text/css">
+			body	{Margin:0 auto; padding:0;}
+			img		{}
+			table	{border-spacing:0!important; border:none; cellpadding:0px; }
+			td		{cellpadding:0px; border-spacing:0px;}
+			tr		{cellpadding:0px; border-spacing:0px;}
+			/* Client-specific Styles */
+			#outlook a{padding:0;} /* Force Outlook to provide a "view in browser" m=
+essage */
+			.ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail t=
+o display emails at full width */
+			.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass fo=
+nt, .ExternalClass td, .ExternalClass div {line-height: 100%;} /* Force Hot=
+mail to display normal line spacing */
+			body, table, td, a{-webkit-text-size-adjust:100%; -ms-text-size-adjust:1=
+00%;} /* Prevent WebKit and Windows mobile changing default text sizes */
+			table, td{mso-table-lspace:0pt; mso-table-rspace:0pt;} /* Remove spacing=
+ between tables in Outlook 2007 and up */
+			img{-ms-interpolation-mode:bicubic;} /* Allow smoother rendering of resi=
+zed image in Internet Explorer */
+=20=20=20=20
+    @media (min-width: 600px){ .pad {padding: 10px 20px 15px 0px;}
+=20=20=20=20=20=20=20=20=20=20=20=20
+			}
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+@media (max-width: 599px){  .pad {padding: 10px 40px 15px 0px;}
+=20=20=20=20=20=20=20=20=20=09
+  }=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+</style>
+</head>
+
+<body bgcolor=3D"#f1f1f1">
+<center>
+<div style=3D"text-align: center; width: 100%; max-width: 590px;"><a style=
+=3D"text-decoration: none; color: #000000;" href=3D"http://pixel-promarketi=
+ng.de/ga/webviews/4-199990483-444-23917-26371-64211-a9b7c757f0">Im Browser =
+ansehen</a> | <a style=3D"text-decoration: none; color: #000000;" href=3D"h=
+ttp://pixel-promarketing.de/ga/unsubscribe/2-199990483-444-23917-64211-e049=
+39885d24e4c-1e6d0a8fd7">Abmelden</a></div>
+</center><!-- GK: container  -->
+<table style=3D"table-layout: fixed; width: 100%;" border=3D"0" cellspacing=
+=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td align=3D"center" valign=3D"top">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td align=3D"center" valign=3D"top" width=3D"600">
+<table style=3D"background-color: #ffffff; width: 100%;" border=3D"0" cells=
+pacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td style=3D"padding: 0 0px;" align=3D"center" valign=3D"top">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td style=3D"font-size: 1px; line-height: 1px; padding: 17px 0px;" align=3D=
+"center" valign=3D"middle" width=3D"246"><a style=3D"outline: 0;" href=3D"h=
+ttp://pixel-promarketing.de/ga/click/2-199990483-444-23917-64211-1914767-b3=
+99ef6d8f-1e6d0a8fd7" target=3D"_blank" rel=3D"noopener"><img style=3D"width=
+: 100%; max-width: 100%;" title=3D"Travelzoo" src=3D"https://sf22.sendsfx.c=
+om/admin/temp/newsletters/11814/travelzoo-logo.jpg" alt=3D"Travelzoo" borde=
+r=3D"0" /></a></td>
+</tr>
+</tbody>
+</table>
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td style=3D"font-size: 1px; line-height: 1px;" align=3D"center" valign=3D"=
+middle" width=3D"600"><a style=3D"outline: 0;" href=3D"http://pixel-promark=
+eting.de/ga/click/2-199990483-444-23917-64211-1914767-b399ef6d8f-1e6d0a8fd7=
+" target=3D"_blank" rel=3D"noopener"><img style=3D"width: 100%; max-width: =
+100%;" title=3D"Travelzoo" src=3D"https://sf22.sendsfx.com/admin/temp/newsl=
+etters/11948/top-travel.jpg" alt=3D"Travelzoo" border=3D"0" /></a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table style=3D"background-color: #ffffff; width: 100%;" border=3D"0" cells=
+pacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td style=3D"font-family: 'Open Sans', Arial, sans-serif; font-size: 27px; =
+font-weight: bold; line-height: 30px; color: #626262; min-height: 20px; mso=
+-line-height-rule: exactly; padding: 22px 10px 29px 10px;" align=3D"center"=
+ valign=3D"middle">Erhalten Sie die besten w&#246;chentlichen<br /> Urlaubs=
+schn&#228;ppchen bei Travelzoo!</td>
+</tr>
+</tbody>
+</table>
+<!--[if mso]>=09=09=20=20
+ <table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" sty=
+le=3D"background-color: #ffffff;">
+                          <tr>
+                           <td align=3D"center" valign=3D"top" >
+                               <table cellpadding=3D"0" cellspacing=3D"0" b=
+order=3D"0">
+                              <tr>
+                                  <td  align=3D"center" width=3D"292pt" val=
+ign=3D"top" style=3D"padding-bottom: 27px;">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=09=09=09=20
+<v:roundrect xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:w=3D"urn:schem=
+as-microsoft-com:office:word" href=3D"https://www.travelzoo.com/de/anmelden=
+/?source=3D-coo46epp&amp;utm_source=3Dcooper&amp;utm_medium=3Demail&amp;utm=
+_campaign=3Dmember-acquisition" style=3D"height:38pt; v-text-anchor:middle;=
+ width:292pt" arcsize=3D"10%; padding:5px 10px 16px 10px" strokecolor=3D"#0=
+276ef" fillcolor=3D"#0276ef" strokeweight=3D"0px">
+<w:anchorlock></w:anchorlock>
+<center style=3D"color:#ffffff; font-family:'Open Sans', Arial, sans-serif;=
+  font-size:21px;  font-weight:normal;  text-transform: uppercase;">Los geh=
+t's!</center>
+</v:roundrect>
+
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20
+                           </td>
+                                </tr>
+                              </table></td>
+                          </tr>
+                        </table>=20=20=20=20=20=20
+                             <![endif]--> <!--[if !mso]><!-- -->
+<table style=3D"width: 100%; background-color: #ffffff;" border=3D"0" cells=
+pacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td style=3D"mso-hide: all;" align=3D"center" valign=3D"top">
+<table style=3D"mso-hide: all;" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0">
+<tbody>
+<tr>
+<td style=3D"mso-hide: all; padding-bottom: 27px;" align=3D"center" valign=
+=3D"top" width=3D"390">
+<table style=3D"width: 100%;" border=3D"0" cellspacing=3D"0" cellpadding=3D=
+"0">
+<tbody>
+<tr>
+<td style=3D"mso-hide: all;" align=3D"center" valign=3D"middle" width=3D"39=
+0"><a style=3D"display: block; text-decoration: none; font-family: 'Open Sa=
+ns', Arial, sans-serif; font-size: 21px; font-weight: normal; mso-line-heig=
+ht-rule: exactly; line-height: 22px; color: #ffffff; mso-hide: all; border-=
+radius: 5px; background-color: #0276ef; padding: 14px 20px; text-transform:=
+ uppercase;" href=3D"http://pixel-promarketing.de/ga/click/2-199990483-444-=
+23917-64211-1914767-b399ef6d8f-1e6d0a8fd7" target=3D"_blank" rel=3D"noopene=
+r">Los geht's!</a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--<![endif]-->
+<table style=3D"width: 100%;" border=3D"0" cellspacing=3D"0" cellpadding=3D=
+"0">
+<tbody>
+<tr>
+<td style=3D"padding-top: 10px; line-height: 0px;">&#160;</td>
+</tr>
+</tbody>
+</table>
+<table style=3D"background-color: #ffffff; width: 100%;" border=3D"0" cells=
+pacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td style=3D"font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; =
+font-weight: normal; line-height: 22px; color: #626262; min-height: 20px; m=
+so-line-height-rule: exactly; padding: 38px 70px 27px 70px;" align=3D"cente=
+r" valign=3D"middle"><span style=3D"color: #000000; font-size: 18px; font-w=
+eight: bold;">Sehr Geehrte Damen und Herren&#160;</span><br /> <br /> Ihr n=
+&#228;chster Urlaub ist nur einen Klick entfernt! Unsere Reise-Experten neh=
+men Ihnen die Suche nach den besten Reiseangeboten ab.<br /> <br /> Melden =
+Sie sich jetzt kostenlos an und werden Sie eines von mehr als 28 Millionen =
+Mitgliedern.</td>
+</tr>
+</tbody>
+</table>
+<!--[if mso]>=09=09=20=20
+ <table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" sty=
+le=3D"background-color: #ffffff;">
+                          <tr>
+                           <td align=3D"center" valign=3D"top" >
+                               <table cellpadding=3D"0" cellspacing=3D"0" b=
+order=3D"0">
+                              <tr>
+                                  <td  align=3D"center" width=3D"292pt" val=
+ign=3D"top" style=3D"padding-bottom: 27px;">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=09=09=09=20
+<v:roundrect xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:w=3D"urn:schem=
+as-microsoft-com:office:word" href=3D"https://www.travelzoo.com/de/anmelden=
+/?source=3D-coo46epp&amp;utm_source=3Dcooper&amp;utm_medium=3Demail&amp;utm=
+_campaign=3Dmember-acquisition" style=3D"height:38pt; v-text-anchor:middle;=
+ width:292pt" arcsize=3D"10%; padding:5px 10px 16px 10px" strokecolor=3D"#f=
+5442d" fillcolor=3D"#f5442d" strokeweight=3D"0px">
+<w:anchorlock></w:anchorlock>
+<center style=3D"color:#ffffff; font-family:'Open Sans', Arial, sans-serif;=
+  font-size:21px;  font-weight:normal;  text-transform: uppercase;">Jetzt k=
+ostenlos anmelden!</center>
+</v:roundrect>
+
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20
+                           </td>
+                                </tr>
+                              </table></td>
+                          </tr>
+                        </table>=20=20=20=20=20=20
+                             <![endif]--> <!--[if !mso]><!-- -->
+<table style=3D"width: 100%; background-color: #ffffff;" border=3D"0" cells=
+pacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td style=3D"mso-hide: all;" align=3D"center" valign=3D"top">
+<table style=3D"mso-hide: all;" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0">
+<tbody>
+<tr>
+<td style=3D"mso-hide: all; padding-bottom: 27px;" align=3D"center" valign=
+=3D"top" width=3D"390">
+<table style=3D"width: 100%;" border=3D"0" cellspacing=3D"0" cellpadding=3D=
+"0">
+<tbody>
+<tr>
+<td style=3D"mso-hide: all;" align=3D"center" valign=3D"middle" width=3D"39=
+0"><a style=3D"display: block; text-decoration: none; font-family: 'Open Sa=
+ns', Arial, sans-serif; font-size: 21px; font-weight: normal; mso-line-heig=
+ht-rule: exactly; line-height: 22px; color: #ffffff; mso-hide: all; border-=
+radius: 5px; background-color: #f5442d; padding: 14px 20px; text-transform:=
+ uppercase;" href=3D"http://pixel-promarketing.de/ga/click/2-199990483-444-=
+23917-64211-1914767-b399ef6d8f-1e6d0a8fd7" target=3D"_blank" rel=3D"noopene=
+r">Jetzt kostenlos anmelden!</a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--<![endif]--> <!-- ****************************************** -->
+<table style=3D"width: 100%;" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td style=3D"padding-top: 34px; line-height: 1px;" valign=3D"middle">&#160;=
+</td>
+</tr>
+<tr>
+<td style=3D"padding: 0 0px;" align=3D"center" valign=3D"top">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td style=3D"font-size: 1px; line-height: 1px;" align=3D"center" valign=3D"=
+middle" width=3D"600"><a style=3D"outline: 0;" href=3D"http://pixel-promark=
+eting.de/ga/click/2-199990483-444-23917-64211-1914768-3b5ad8e137-1e6d0a8fd7=
+" target=3D"_blank" rel=3D"noopener"><img style=3D"width: 100%; max-width: =
+100%;" title=3D"travel-01.jpg" src=3D"https://sf22.sendsfx.com/admin/temp/n=
+ewsletters/11948/travel-001.jpg" alt=3D"travel-01.jpg" border=3D"0" /></a><=
+/td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table style=3D"background-color: #ffffff; width: 100%;" border=3D"0" cells=
+pacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td style=3D"font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; =
+font-weight: normal; line-height: 18px; color: #626262; min-height: 20px; m=
+so-line-height-rule: exactly; padding: 15px 70px 10px 70px;" align=3D"cente=
+r" valign=3D"middle"><!--[if (mso )]>
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" alig=
+n=3D"center">
+<tr>
+<td height=3D"90px" align=3D"center" valign=3D"middle">
+<![endif]--> <span style=3D"color: #0276ef; font-size: 22px; line-height: 2=
+5px; font-weight: bold;"> - &#196;gypten - </span><br /> <br /> 5*-Woche mi=
+t All Inclusive <!--[if (mso )]>
+       </td>
+</tr>
+</table>
+    <![endif]--></td>
+</tr>
+</tbody>
+</table>
+<table style=3D"width: 100%;" border=3D"0" cellspacing=3D"0" cellpadding=3D=
+"0">
+<tbody>
+<tr>
+<td style=3D"font-size: 0px !important; background-color: #ffffff;" align=
+=3D"center" valign=3D"top"><!--[if (gte mso 9)|(IE)]>
+																				<table width=3D"100%" border=3D"0" cellspacing=3D"0" ce=
+llpadding=3D"0" align=3D"center">
+																					<tr>
+																						<![endif]--> <!--[if (gte mso 9)|(IE)]>
+																						<td width=3D"250" align=3D"center" valign=3D"top" pad=
+ding: 8pt 20px 15px 0px;>
+																							<![endif]-->
+<div class=3D"block" style=3D"width: 100%; display: inline-block; vertical-=
+align: top; max-width: 300px;">
+<table style=3D"width: 100%;" border=3D"0" cellspacing=3D"0" cellpadding=3D=
+"0">
+<tbody>
+<tr>
+<td class=3D"pad" align=3D"center" valign=3D"top">
+<table style=3D"width: 100%;" border=3D"0" cellspacing=3D"0" cellpadding=3D=
+"0">
+<tbody>
+<tr>
+<td style=3D"font-family: 'Open Sans', Arial, sans-serif; font-size: 22px; =
+font-weight: bold; line-height: 26px; color: #f5442d; min-height: 20px; mso=
+-line-height-rule: exactly;" align=3D"right" valign=3D"middle">Rabatt -280 =
+&#8364; | ab 549 &#8364;</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if (gte mso 9)|(IE)]>
+																						</td>
+																						<![endif]--> <!--[if (gte mso 9)|(IE)]>
+																						<td width=3D"200" align=3D"center" valign=3D"top">
+																							<![endif]-->
+<div class=3D"block" style=3D"width: 100%; display: inline-block; vertical-=
+align: top; max-width: 180px;">
+<table style=3D"width: 100%;" border=3D"0" cellspacing=3D"0" cellpadding=3D=
+"0">
+<tbody>
+<tr>
+<td align=3D"center" valign=3D"top"><!--[if mso]>=09=09=20=20
+ <table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" sty=
+le=3D"background-color: #ffffff;">
+                          <tr>
+                           <td align=3D"center" valign=3D"top" >
+                               <table cellpadding=3D"0" cellspacing=3D"0" b=
+order=3D"0">
+                              <tr>
+                                  <td  align=3D"center" width=3D"113pt" val=
+ign=3D"top" style=3D"padding-bottom: 27px;">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=09=09=09=20
+<v:roundrect xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:w=3D"urn:schem=
+as-microsoft-com:office:word" href=3D"https://www.travelzoo.com/de/urlaubsr=
+eisen/afrika-orient/ab-549-%C3%84gypten-5-Woche-mit-All-Inclusive-280--2825=
+402/?ec=3D0&_noxout=3D1/?source=3D-coo46epp&utm_source=3Dcooper&utm_medium=
+=3Demail&utm_campaign=3Dmember-acquisition" style=3D"height:27pt; v-text-an=
+chor:middle; width:113pt" arcsize=3D"10%; padding:5px 10px 16px 10px" strok=
+ecolor=3D"#0276ef" fillcolor=3D"#0276ef" strokeweight=3D"0px">
+<w:anchorlock></w:anchorlock>
+<center style=3D"color:#ffffff; font-family:'Open Sans', Arial, sans-serif;=
+  font-size:17px;  font-weight:normal;  text-transform: uppercase;">ZUM ANG=
+EBOT</center>
+</v:roundrect>
+
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20
+                           </td>
+                                </tr>
+                              </table></td>
+                          </tr>
+                        </table>=20=20=20=20=20=20
+                             <![endif]--> <!--[if !mso]><!-- -->
+<table style=3D"width: 100%; background-color: #ffffff;" border=3D"0" cells=
+pacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td style=3D"mso-hide: all;" align=3D"center" valign=3D"top">
+<table style=3D"mso-hide: all;" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0">
+<tbody>
+<tr>
+<td style=3D"mso-hide: all; padding-bottom: 27px;" align=3D"center" valign=
+=3D"top" width=3D"151">
+<table style=3D"width: 100%;" border=3D"0" cellspacing=3D"0" cellpadding=3D=
+"0">
+<tbody>
+<tr>
+<td style=3D"mso-hide: all;" align=3D"center" valign=3D"middle" width=3D"15=
+1"><a style=3D"display: block; text-decoration: none; font-family: 'Open Sa=
+ns', Arial, sans-serif; font-size: 17px; font-weight: normal; mso-line-heig=
+ht-rule: exactly; line-height: 20px; color: #ffffff; mso-hide: all; border-=
+radius: 5px; background-color: #0276ef; padding: 10px 10px; text-transform:=
+ uppercase;" href=3D"http://pixel-promarketing.de/ga/click/2-199990483-444-=
+23917-64211-1914768-3b5ad8e137-1e6d0a8fd7" target=3D"_blank" rel=3D"noopene=
+r">ZUM ANGEBOT</a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--<![endif]--></td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if (gte mso 9)|(IE)]>
+																						</td>
+																						<![endif]--> <!--[if (gte mso 9)|(IE)]>
+																					</tr>
+																				</table>
+																				<![endif]--></td>
+</tr>
+</tbody>
+</table>
+<!-- ****************************************** --> <!-- ******************=
+************************ -->
+<table style=3D"width: 100%;" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td style=3D"padding-top: 24px; line-height: 1px;" valign=3D"middle">&#160;=
+</td>
+</tr>
+<tr>
+<td style=3D"padding: 0 0px;" align=3D"center" valign=3D"top">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td style=3D"font-size: 1px; line-height: 1px;" align=3D"center" valign=3D"=
+middle" width=3D"600"><a style=3D"outline: 0;" href=3D"http://pixel-promark=
+eting.de/ga/click/2-199990483-444-23917-64211-1914769-633c9dcb99-1e6d0a8fd7=
+" target=3D"_blank" rel=3D"noopener"><img style=3D"width: 100%; max-width: =
+100%;" title=3D"travel-02.png" src=3D"https://sf22.sendsfx.com/admin/temp/n=
+ewsletters/11948/travel-002.png" alt=3D"travel-02.png" border=3D"0" /></a><=
+/td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table style=3D"background-color: #ffffff; width: 100%;" border=3D"0" cells=
+pacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td style=3D"font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; =
+font-weight: normal; line-height: 18px; color: #626262; min-height: 20px; m=
+so-line-height-rule: exactly; padding: 15px 70px 10px 70px;" align=3D"cente=
+r" valign=3D"middle"><!--[if (mso )]>
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" alig=
+n=3D"center">
+<tr>
+<td height=3D"90px" align=3D"center" valign=3D"middle">
+<![endif]--> <span style=3D"color: #0276ef; font-size: 22px; line-height: 2=
+5px; font-weight: bold;"> - Mallorca - </span><br /> <br /> Mandelbl&#252;t=
+e: Mallorca mit Flug, Auto &amp; HP <!--[if (mso )]>
+       </td>
+</tr>
+</table>
+    <![endif]--></td>
+</tr>
+</tbody>
+</table>
+<table style=3D"width: 100%;" border=3D"0" cellspacing=3D"0" cellpadding=3D=
+"0">
+<tbody>
+<tr>
+<td style=3D"font-size: 0px !important; background-color: #ffffff;" align=
+=3D"center" valign=3D"top"><!--[if (gte mso 9)|(IE)]>
+																				<table width=3D"100%" border=3D"0" cellspacing=3D"0" ce=
+llpadding=3D"0" align=3D"center">
+																					<tr>
+																						<![endif]--> <!--[if (gte mso 9)|(IE)]>
+																						<td width=3D"250" align=3D"center" valign=3D"top">
+																							<![endif]-->
+<div class=3D"block" style=3D"width: 100%; display: inline-block; vertical-=
+align: top; max-width: 300px;">
+<table style=3D"width: 100%;" border=3D"0" cellspacing=3D"0" cellpadding=3D=
+"0">
+<tbody>
+<tr>
+<td class=3D"pad" align=3D"center" valign=3D"top">
+<table style=3D"width: 100%;" border=3D"0" cellspacing=3D"0" cellpadding=3D=
+"0">
+<tbody>
+<tr>
+<td style=3D"font-family: 'Open Sans', Arial, sans-serif; font-size: 22px; =
+font-weight: bold; line-height: 26px; color: #f5442d; min-height: 20px; mso=
+-line-height-rule: exactly;" align=3D"right" valign=3D"middle">Rabatt -38% =
+| ab 429 &#8364;</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if (gte mso 9)|(IE)]>
+																						</td>
+																						<![endif]--> <!--[if (gte mso 9)|(IE)]>
+																						<td width=3D"200" align=3D"center" valign=3D"top">
+																							<![endif]-->
+<div class=3D"block" style=3D"width: 100%; display: inline-block; vertical-=
+align: top; max-width: 180px;">
+<table style=3D"width: 100%;" border=3D"0" cellspacing=3D"0" cellpadding=3D=
+"0">
+<tbody>
+<tr>
+<td align=3D"center" valign=3D"top"><!--[if mso]>=09=09=20=20
+ <table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" sty=
+le=3D"background-color: #ffffff;">
+                          <tr>
+                           <td align=3D"center" valign=3D"top" >
+                               <table cellpadding=3D"0" cellspacing=3D"0" b=
+order=3D"0">
+                              <tr>
+                                  <td  align=3D"center" width=3D"113pt" val=
+ign=3D"top" style=3D"padding-bottom: 27px;">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=09=09=09=20
+<v:roundrect xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:w=3D"urn:schem=
+as-microsoft-com:office:word" href=3D"https://www.travelzoo.com/de/urlaubsr=
+eisen/italien-spanien/ab-429-Mandelbl%C3%BCte-Mallorca-mit-Flug-Auto-HP-38-=
+-2825337/?ec=3D0&_noxout=3D1/?source=3D-coo46epp&utm_source=3Dcooper&utm_me=
+dium=3Demail&utm_campaign=3Dmember-acquisition" style=3D"height:27pt; v-tex=
+t-anchor:middle; width:113pt" arcsize=3D"10%; padding:5px 10px 16px 10px" s=
+trokecolor=3D"#0276ef" fillcolor=3D"#0276ef" strokeweight=3D"0px">
+<w:anchorlock></w:anchorlock>
+<center style=3D"color:#ffffff; font-family:'Open Sans', Arial, sans-serif;=
+  font-size:17px;  font-weight:normal;  text-transform: uppercase;">ZUM ANG=
+EBOT</center>
+</v:roundrect>
+
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20
+                           </td>
+                                </tr>
+                              </table></td>
+                          </tr>
+                        </table>=20=20=20=20=20=20
+                             <![endif]--> <!--[if !mso]><!-- -->
+<table style=3D"width: 100%; background-color: #ffffff;" border=3D"0" cells=
+pacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td style=3D"mso-hide: all;" align=3D"center" valign=3D"top">
+<table style=3D"mso-hide: all;" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0">
+<tbody>
+<tr>
+<td style=3D"mso-hide: all; padding-bottom: 27px;" align=3D"center" valign=
+=3D"top" width=3D"151">
+<table style=3D"width: 100%;" border=3D"0" cellspacing=3D"0" cellpadding=3D=
+"0">
+<tbody>
+<tr>
+<td style=3D"mso-hide: all;" align=3D"center" valign=3D"middle" width=3D"15=
+1"><a style=3D"display: block; text-decoration: none; font-family: 'Open Sa=
+ns', Arial, sans-serif; font-size: 17px; font-weight: normal; mso-line-heig=
+ht-rule: exactly; line-height: 20px; color: #ffffff; mso-hide: all; border-=
+radius: 5px; background-color: #0276ef; padding: 10px 10px; text-transform:=
+ uppercase;" href=3D"http://pixel-promarketing.de/ga/click/2-199990483-444-=
+23917-64211-1914769-633c9dcb99-1e6d0a8fd7" target=3D"_blank" rel=3D"noopene=
+r">ZUM ANGEBOT</a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--<![endif]--></td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if (gte mso 9)|(IE)]>
+																						</td>
+																						<![endif]--> <!--[if (gte mso 9)|(IE)]>
+																					</tr>
+																				</table>
+																				<![endif]--></td>
+</tr>
+</tbody>
+</table>
+<!-- ****************************************** --> <!-- ******************=
+************************ -->
+<table style=3D"width: 100%;" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td style=3D"padding-top: 24px; line-height: 1px;" valign=3D"middle">&#160;=
+</td>
+</tr>
+<tr>
+<td style=3D"padding: 0 0px;" align=3D"center" valign=3D"top">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td style=3D"font-size: 1px; line-height: 1px;" align=3D"center" valign=3D"=
+middle" width=3D"600"><a style=3D"outline: 0;" href=3D"http://pixel-promark=
+eting.de/ga/click/2-199990483-444-23917-64211-1914770-f7cc583b0a-1e6d0a8fd7=
+" target=3D"_blank" rel=3D"noopener"><img style=3D"width: 100%; max-width: =
+100%;" title=3D"travel-03.png" src=3D"https://sf22.sendsfx.com/admin/temp/n=
+ewsletters/11948/travel-003.png" alt=3D"travel-03.png" border=3D"0" /></a><=
+/td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table style=3D"background-color: #ffffff; width: 100%;" border=3D"0" cells=
+pacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td style=3D"font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; =
+font-weight: normal; line-height: 18px; color: #626262; min-height: 20px; m=
+so-line-height-rule: exactly; padding: 15px 70px 10px 70px;" align=3D"cente=
+r" valign=3D"middle"><!--[if (mso )]>
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" alig=
+n=3D"center">
+<tr>
+<td height=3D"90px" align=3D"center" valign=3D"middle">
+<![endif]--> <span style=3D"color: #0276ef; font-size: 22px; line-height: 2=
+5px; font-weight: bold;"> - Dublin - </span><br /> <br /> 3 Tage im 4*-Hote=
+l &amp; Flug <!--[if (mso )]>
+       </td>
+</tr>
+</table>
+    <![endif]--></td>
+</tr>
+</tbody>
+</table>
+<table style=3D"width: 100%;" border=3D"0" cellspacing=3D"0" cellpadding=3D=
+"0">
+<tbody>
+<tr>
+<td style=3D"font-size: 0px !important; background-color: #ffffff;" align=
+=3D"center" valign=3D"top"><!--[if (gte mso 9)|(IE)]>
+																				<table width=3D"100%" border=3D"0" cellspacing=3D"0" ce=
+llpadding=3D"0" align=3D"center">
+																					<tr>
+																						<![endif]--> <!--[if (gte mso 9)|(IE)]>
+																						<td width=3D"250" align=3D"center" valign=3D"top">
+																							<![endif]-->
+<div class=3D"block" style=3D"width: 100%; display: inline-block; vertical-=
+align: top; max-width: 300px;">
+<table style=3D"width: 100%;" border=3D"0" cellspacing=3D"0" cellpadding=3D=
+"0">
+<tbody>
+<tr>
+<td class=3D"pad" align=3D"center" valign=3D"top">
+<table style=3D"width: 100%;" border=3D"0" cellspacing=3D"0" cellpadding=3D=
+"0">
+<tbody>
+<tr>
+<td style=3D"font-family: 'Open Sans', Arial, sans-serif; font-size: 22px; =
+font-weight: bold; line-height: 26px; color: #f5442d; min-height: 20px; mso=
+-line-height-rule: exactly;" align=3D"right" valign=3D"middle">Rabatt -33% =
+| ab 129 &#8364;</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if (gte mso 9)|(IE)]>
+																						</td>
+																						<![endif]--> <!--[if (gte mso 9)|(IE)]>
+																						<td width=3D"200" align=3D"center" valign=3D"top">
+																							<![endif]-->
+<div class=3D"block" style=3D"width: 100%; display: inline-block; vertical-=
+align: top; max-width: 180px;">
+<table style=3D"width: 100%;" border=3D"0" cellspacing=3D"0" cellpadding=3D=
+"0">
+<tbody>
+<tr>
+<td align=3D"center" valign=3D"top"><!--[if mso]>=09=09=20=20
+ <table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" sty=
+le=3D"background-color: #ffffff;">
+                          <tr>
+                           <td align=3D"center" valign=3D"top" >
+                               <table cellpadding=3D"0" cellspacing=3D"0" b=
+order=3D"0">
+                              <tr>
+                                  <td  align=3D"center" width=3D"113pt" val=
+ign=3D"top" style=3D"padding-bottom: 27px;">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=09=09=09=20
+<v:roundrect xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:w=3D"urn:schem=
+as-microsoft-com:office:word" href=3D"https://www.travelzoo.com/de/urlaubsr=
+eisen/Rundreisen/ab-129-Dublin-3-Tage-im-4-Hotel-Flug-33--2824081/?ec=3D0&_=
+noxout=3D1/?source=3D-coo46epp&utm_source=3Dcooper&utm_medium=3Demail&utm_c=
+ampaign=3Dmember-acquisition" style=3D"height:27pt; v-text-anchor:middle; w=
+idth:113pt" arcsize=3D"10%; padding:5px 10px 16px 10px" strokecolor=3D"#027=
+6ef" fillcolor=3D"#0276ef" strokeweight=3D"0px">
+<w:anchorlock></w:anchorlock>
+<center style=3D"color:#ffffff; font-family:'Open Sans', Arial, sans-serif;=
+  font-size:17px;  font-weight:normal;  text-transform: uppercase;">ZUM ANG=
+EBOT</center>
+</v:roundrect>
+
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20
+                           </td>
+                                </tr>
+                              </table></td>
+                          </tr>
+                        </table>=20=20=20=20=20=20
+                             <![endif]--> <!--[if !mso]><!-- -->
+<table style=3D"width: 100%; background-color: #ffffff;" border=3D"0" cells=
+pacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td style=3D"mso-hide: all;" align=3D"center" valign=3D"top">
+<table style=3D"mso-hide: all;" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0">
+<tbody>
+<tr>
+<td style=3D"mso-hide: all; padding-bottom: 27px;" align=3D"center" valign=
+=3D"top" width=3D"151">
+<table style=3D"width: 100%;" border=3D"0" cellspacing=3D"0" cellpadding=3D=
+"0">
+<tbody>
+<tr>
+<td style=3D"mso-hide: all;" align=3D"center" valign=3D"middle" width=3D"15=
+1"><a style=3D"display: block; text-decoration: none; font-family: 'Open Sa=
+ns', Arial, sans-serif; font-size: 17px; font-weight: normal; mso-line-heig=
+ht-rule: exactly; line-height: 20px; color: #ffffff; mso-hide: all; border-=
+radius: 5px; background-color: #0276ef; padding: 10px 10px; text-transform:=
+ uppercase;" href=3D"http://pixel-promarketing.de/ga/click/2-199990483-444-=
+23917-64211-1914770-f7cc583b0a-1e6d0a8fd7" target=3D"_blank" rel=3D"noopene=
+r">ZUM ANGEBOT</a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--<![endif]--></td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if (gte mso 9)|(IE)]>
+																						</td>
+																						<![endif]--> <!--[if (gte mso 9)|(IE)]>
+																					</tr>
+																				</table>
+																				<![endif]--></td>
+</tr>
+</tbody>
+</table>
+<!-- ****************************************** --> <!-- ******************=
+************************ -->
+<table style=3D"width: 100%;" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td style=3D"padding-top: 24px; line-height: 1px;" valign=3D"middle">&#160;=
+</td>
+</tr>
+<tr>
+<td style=3D"padding: 0 0px;" align=3D"center" valign=3D"top">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td style=3D"font-size: 1px; line-height: 1px;" align=3D"center" valign=3D"=
+middle" width=3D"600"><a style=3D"outline: 0;" href=3D"http://pixel-promark=
+eting.de/ga/click/2-199990483-444-23917-64211-1914771-cdcb66712f-1e6d0a8fd7=
+" target=3D"_blank" rel=3D"noopener"><img style=3D"width: 100%; max-width: =
+100%;" title=3D"travel-04.png" src=3D"https://sf22.sendsfx.com/admin/temp/n=
+ewsletters/11948/travel-004.png" alt=3D"travel-04.png" border=3D"0" /></a><=
+/td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table style=3D"background-color: #ffffff; width: 100%;" border=3D"0" cells=
+pacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td style=3D"font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; =
+font-weight: normal; line-height: 18px; color: #626262; min-height: 20px; m=
+so-line-height-rule: exactly; padding: 15px 70px 10px 70px;" align=3D"cente=
+r" valign=3D"middle"><!--[if (mso )]>
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" alig=
+n=3D"center">
+<tr>
+<td height=3D"90px" align=3D"center" valign=3D"middle">
+<![endif]--> <span style=3D"color: #0276ef; font-size: 22px; line-height: 2=
+5px; font-weight: bold;"> - Kanaren, Kapverden, Azoren - </span><br /> <br =
+/> mit Mein Schiff<!--[if (mso )]>
+       </td>
+</tr>
+</table>
+    <![endif]--></td>
+</tr>
+</tbody>
+</table>
+<table style=3D"width: 100%;" border=3D"0" cellspacing=3D"0" cellpadding=3D=
+"0">
+<tbody>
+<tr>
+<td style=3D"font-size: 0px !important; background-color: #ffffff;" align=
+=3D"center" valign=3D"top"><!--[if (gte mso 9)|(IE)]>
+																				<table width=3D"100%" border=3D"0" cellspacing=3D"0" ce=
+llpadding=3D"0" align=3D"center">
+																					<tr>
+																						<![endif]--> <!--[if (gte mso 9)|(IE)]>
+																						<td width=3D"250" align=3D"center" valign=3D"top">
+																							<![endif]-->
+<div class=3D"block" style=3D"width: 100%; display: inline-block; vertical-=
+align: top; max-width: 300px;">
+<table style=3D"width: 100%;" border=3D"0" cellspacing=3D"0" cellpadding=3D=
+"0">
+<tbody>
+<tr>
+<td class=3D"pad" align=3D"center" valign=3D"top">
+<table style=3D"width: 100%;" border=3D"0" cellspacing=3D"0" cellpadding=3D=
+"0">
+<tbody>
+<tr>
+<td style=3D"font-family: 'Open Sans', Arial, sans-serif; font-size: 22px; =
+font-weight: bold; line-height: 26px; color: #f5442d; min-height: 20px; mso=
+-line-height-rule: exactly;" align=3D"right" valign=3D"middle">Rabatt -50% =
+| ab 649 &#8364;</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if (gte mso 9)|(IE)]>
+																						</td>
+																						<![endif]--> <!--[if (gte mso 9)|(IE)]>
+																						<td width=3D"200" align=3D"center" valign=3D"top">
+																							<![endif]-->
+<div class=3D"block" style=3D"width: 100%; display: inline-block; vertical-=
+align: top; max-width: 180px;">
+<table style=3D"width: 100%;" border=3D"0" cellspacing=3D"0" cellpadding=3D=
+"0">
+<tbody>
+<tr>
+<td align=3D"center" valign=3D"top"><!--[if mso]>=09=09=20=20
+ <table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" sty=
+le=3D"background-color: #ffffff;">
+                          <tr>
+                           <td align=3D"center" valign=3D"top" >
+                               <table cellpadding=3D"0" cellspacing=3D"0" b=
+order=3D"0">
+                              <tr>
+                                  <td  align=3D"center" width=3D"113pt" val=
+ign=3D"top" style=3D"padding-bottom: 27px;">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=09=09=09=20
+<v:roundrect xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:w=3D"urn:schem=
+as-microsoft-com:office:word" href=3D"https://www.travelzoo.com/de/kreuzfah=
+rten/mittelmeer-kanaren/ab-649-Kanaren-Kapverden-Azoren-mit-Mein-Schiff-50-=
+-2825549/?ec=3D0&_noxout=3D1/?source=3D-coo46epp&utm_source=3Dcooper&utm_me=
+dium=3Demail&utm_campaign=3Dmember-acquisition" style=3D"height:27pt; v-tex=
+t-anchor:middle; width:113pt" arcsize=3D"10%; padding:5px 10px 16px 10px" s=
+trokecolor=3D"#0276ef" fillcolor=3D"#0276ef" strokeweight=3D"0px">
+<w:anchorlock></w:anchorlock>
+<center style=3D"color:#ffffff; font-family:'Open Sans', Arial, sans-serif;=
+  font-size:17px;  font-weight:normal;  text-transform: uppercase;">ZUM ANG=
+EBOT</center>
+</v:roundrect>
+
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20
+                           </td>
+                                </tr>
+                              </table></td>
+                          </tr>
+                        </table>=20=20=20=20=20=20
+                             <![endif]--> <!--[if !mso]><!-- -->
+<table style=3D"width: 100%; background-color: #ffffff;" border=3D"0" cells=
+pacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td style=3D"mso-hide: all;" align=3D"center" valign=3D"top">
+<table style=3D"mso-hide: all;" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0">
+<tbody>
+<tr>
+<td style=3D"mso-hide: all; padding-bottom: 27px;" align=3D"center" valign=
+=3D"top" width=3D"151">
+<table style=3D"width: 100%;" border=3D"0" cellspacing=3D"0" cellpadding=3D=
+"0">
+<tbody>
+<tr>
+<td style=3D"mso-hide: all;" align=3D"center" valign=3D"middle" width=3D"15=
+1"><a style=3D"display: block; text-decoration: none; font-family: 'Open Sa=
+ns', Arial, sans-serif; font-size: 17px; font-weight: normal; mso-line-heig=
+ht-rule: exactly; line-height: 20px; color: #ffffff; mso-hide: all; border-=
+radius: 5px; background-color: #0276ef; padding: 10px 10px; text-transform:=
+ uppercase;" href=3D"http://pixel-promarketing.de/ga/click/2-199990483-444-=
+23917-64211-1914771-cdcb66712f-1e6d0a8fd7" target=3D"_blank" rel=3D"noopene=
+r">ZUM ANGEBOT</a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--<![endif]--></td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if (gte mso 9)|(IE)]>
+																						</td>
+																						<![endif]--> <!--[if (gte mso 9)|(IE)]>
+																					</tr>
+																				</table>
+																				<![endif]--></td>
+</tr>
+</tbody>
+</table>
+<!-- ****************************************** -->
+<table style=3D"width: 100%;" border=3D"0" cellspacing=3D"0" cellpadding=3D=
+"0">
+<tbody>
+<tr>
+<td style=3D"font-family: 'Open Sans', Arial, sans-serif; font-size: 27px; =
+font-weight: bold; line-height: 30px; color: #626262; min-height: 20px; mso=
+-line-height-rule: exactly; padding: 49px 10px 10px 10px;" align=3D"center"=
+ valign=3D"middle">Ist Ihr Reiseziel nicht dabei?</td>
+</tr>
+<tr>
+<td style=3D"font-family: 'Open Sans', Arial, sans-serif; font-weight: bold=
+; line-height: 22px; color: #000000; font-size: 18px; min-height: 20px; mso=
+-line-height-rule: exactly; padding: 0px 10px 35px 10px;" align=3D"center" =
+valign=3D"middle">Kein Problem.<br /> Travelzoo hat noch viele weitere Ange=
+bote<br /> f&#252;r Sie auf der ganzen Welt!</td>
+</tr>
+</tbody>
+</table>
+<!--[if mso]>=09=09=20=20
+ <table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+                          <tr>
+                           <td align=3D"center" valign=3D"top" >
+                               <table cellpadding=3D"0" cellspacing=3D"0" b=
+order=3D"0">
+                              <tr>
+                                  <td  align=3D"center" width=3D"292pt" val=
+ign=3D"top" style=3D"padding-bottom: 27px;">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=09=09=09=20
+<v:roundrect xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:w=3D"urn:schem=
+as-microsoft-com:office:word" href=3D"https://www.travelzoo.com/de/anmelden=
+/?source=3D-coo46epp&amp;utm_source=3Dcooper&amp;utm_medium=3Demail&amp;utm=
+_campaign=3Dmember-acquisition" style=3D"height:38pt; v-text-anchor:middle;=
+ width:292pt" arcsize=3D"10%; padding:5px 10px 16px 10px" strokecolor=3D"#f=
+5442d" fillcolor=3D"#f5442d" strokeweight=3D"0px">
+<w:anchorlock></w:anchorlock>
+<center style=3D"color:#ffffff; font-family:'Open Sans', Arial, sans-serif;=
+  font-size:21px;  font-weight:normal;  text-transform: uppercase;">Los geh=
+t's!</center>
+</v:roundrect>
+
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20
+                           </td>
+                                </tr>
+                              </table></td>
+                          </tr>
+                        </table>=20=20=20=20=20=20
+                             <![endif]--> <!--[if !mso]><!-- -->
+<table style=3D"width: 100%;" border=3D"0" cellspacing=3D"0" cellpadding=3D=
+"0">
+<tbody>
+<tr>
+<td style=3D"mso-hide: all;" align=3D"center" valign=3D"top">
+<table style=3D"mso-hide: all;" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0">
+<tbody>
+<tr>
+<td style=3D"mso-hide: all; padding-bottom: 27px;" align=3D"center" valign=
+=3D"top" width=3D"390">
+<table style=3D"width: 100%;" border=3D"0" cellspacing=3D"0" cellpadding=3D=
+"0">
+<tbody>
+<tr>
+<td style=3D"mso-hide: all;" align=3D"center" valign=3D"middle" width=3D"39=
+0"><a style=3D"display: block; text-decoration: none; font-family: 'Open Sa=
+ns', Arial, sans-serif; font-size: 21px; font-weight: normal; mso-line-heig=
+ht-rule: exactly; line-height: 22px; color: #ffffff; mso-hide: all; border-=
+radius: 5px; background-color: #f5442d; padding: 14px 20px; text-transform:=
+ uppercase;" href=3D"http://pixel-promarketing.de/ga/click/2-199990483-444-=
+23917-64211-1914767-b399ef6d8f-1e6d0a8fd7" target=3D"_blank" rel=3D"noopene=
+r">Los geht's!</a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--<![endif]-->
+<table style=3D"width: 100%;" border=3D"0" cellspacing=3D"0" cellpadding=3D=
+"0">
+<tbody>
+<tr>
+<td style=3D"padding-top: 20px; line-height: 1px;" valign=3D"middle">&#160;=
+</td>
+</tr>
+<tr>
+<td style=3D"padding: 0 0px;" align=3D"center" valign=3D"top">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td style=3D"font-size: 1px; line-height: 1px;" align=3D"center" valign=3D"=
+middle" width=3D"600"><a style=3D"outline: 0;" href=3D"http://pixel-promark=
+eting.de/ga/click/2-199990483-444-23917-64211-1914767-b399ef6d8f-1e6d0a8fd7=
+" target=3D"_blank" rel=3D"noopener"><img style=3D"width: 100%; max-width: =
+100%;" title=3D"Travelzoo" src=3D"https://sf22.sendsfx.com/admin/temp/newsl=
+etters/11814/footer.jpg" alt=3D"Travelzoo" border=3D"0" /></a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<p style=3D"text-align: center;" align=3D"center"><span style=3D"color: #80=
+8080; font-size: 12px;">Das Angebot ist eine kommerzielle Anzeige dieses We=
+rbekunden, der allein f&#252;r den Inhalt verantwortlich ist.<br /></span><=
+br /><span style=3D"color: #808080; font-size: 12px;"> Verantwortlich f&#25=
+2;r den Versand der E-Mail ist:<br /> <span style=3D"color: #808080; font-s=
+ize: 12px;"> Ein Service von Pixel ProMarketing S.L. &#160;&#160;|&#160;&#1=
+60; Str Azor n5 Mijas-Costa &#160;&#160;|&#160;&#160; E-29651 M&#225;laga</=
+span><br /><br /> <span style=3D"color: #808080; font-size: 12px;"> Ihre Da=
+ten sind lediglich bei dem Versender gespeichert. Der Werbekunde hat daher =
+keinen Einfluss auf dem Empf&#228;ngerkreis der E-Mail. </span><br /> Sofer=
+n Sie k&#252;nftig keinen Newsletter mehr erhalten m&#246;chten, wenden Sie=
+ sich bitte direkt an den Versender oder klicken auf folgenden Link:<span s=
+tyle=3D"font-size: 12pt;"><strong><span style=3D"color: #000000;"> <a style=
+=3D"font-weight: normal; text-decoration: underline;" href=3D"http://pixel-=
+promarketing.de/ga/unsubscribe/2-199990483-444-23917-64211-e04939885d24e4c-=
+1e6d0a8fd7"> Abmelden</a> </span></strong></span><br /> </span><span style=
+=3D"color: #808080; font-size: 12px;"><br />Haben Sie Verst&#228;ndnis, das=
+s die Abmeldung bis zu 48 Stunden dauern kann. Direkte Antworten an die Abs=
+enderadresse k&#246;nnen nicht beantwortet werden. </span></p>
+<center><span style=3D"font-size: 12px;"><strong><span style=3D"color: #000=
+000;"> <a style=3D"font-weight: normal; text-decoration: underline; text-al=
+ign: center;" href=3D"mailto:support@pixelpromarketing.com">support(at)pixe=
+lpromarketing.com</a></span></strong></span>
+<p style=3D"text-align: center;"><span style=3D"color: #808080; font-size: =
+12px;">Ihre Daten sind lediglich bei dem Versender gespeichert. Der Werbeku=
+nde hat daher keinen Einfluss auf den Empf&#228;ngerkreis der E-Mail.</span=
+></p>
+</center><!-- GK: container  -->
+<img src=3D"http://pixel-promarketing.de/ga/open/2-199990483-444-23917-6421=
+1-1e6d0a8fd7" height=3D"2" width=3D"3" alt=3D""></body>
+</html>=
+
+--==3ae3aed332aadb6c6c777badcf6eb65f--
+

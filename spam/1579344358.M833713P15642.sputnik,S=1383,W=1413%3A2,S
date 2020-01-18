@@ -1,0 +1,30 @@
+Return-Path: <infolike5897@esmtest.com>
+Delivered-To: mail@stilfilm.com
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 799D2D1687
+	for <mail@stilfilm.com>; Mon,  5 Nov 2018 19:44:59 +0100 (CET)
+X-Quarantine-ID: <4_Kc7uJrpILE>
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Amavis-Alert: BAD HEADER SECTION, Missing required header field: "Date"
+X-Spam-Flag: YES
+X-Spam-Score: 5.759
+X-Spam-Level: *****
+X-Spam-Status: Yes, score=5.759 required=5.5 tests=[HTML_MESSAGE=0.001,
+	HTML_MIME_NO_HTML_TAG=0.635, MIME_HTML_ONLY=1.105, MISSING_DATE=1.396,
+	MISSING_HEADERS=1.207, MISSING_MID=0.14, RDNS_NONE=1.274,
+	TVD_SPACE_RATIO=0.001] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 4_Kc7uJrpILE for <mail@stilfilm.com>;
+	Mon,  5 Nov 2018 19:44:57 +0100 (CET)
+Received: from esmtest.com (unknown [191.96.249.167])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id CEEFAD1686
+	for <morse@stilfilm.com>; Mon,  5 Nov 2018 19:44:55 +0100 (CET)
+From: "Superman" <infolike5897@esmtest.com>
+Subject: Verifi
+MIME-Version: 1.0
+Content-Type: text/html
+Message-Id: <20181105184459.799D2D1687@v22014122474822114.stilfilm.com>
+Date: Mon,  5 Nov 2018 19:44:59 +0100 (CET)
+
+ 

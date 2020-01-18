@@ -1,0 +1,29 @@
+Return-Path: <infolike9078@curtain-sommelier.com>
+Delivered-To: mail@stilfilm.com
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 5FE7EC15A7
+	for <mail@stilfilm.com>; Sat, 20 Oct 2018 11:46:45 +0200 (CEST)
+X-Quarantine-ID: <OGg7TB-3uIi5>
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Amavis-Alert: BAD HEADER SECTION, Missing required header field: "Date"
+X-Spam-Flag: YES
+X-Spam-Score: 5.758
+X-Spam-Level: *****
+X-Spam-Status: Yes, score=5.758 required=5.5 tests=[HTML_MESSAGE=0.001,
+	HTML_MIME_NO_HTML_TAG=0.635, MIME_HTML_ONLY=1.105, MISSING_DATE=1.396,
+	MISSING_HEADERS=1.207, MISSING_MID=0.14, RDNS_NONE=1.274] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id OGg7TB-3uIi5 for <mail@stilfilm.com>;
+	Sat, 20 Oct 2018 11:46:43 +0200 (CEST)
+Received: from curtain-sommelier.com (unknown [191.96.249.167])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 735E6C15A3
+	for <stephen@stilfilm.com>; Sat, 20 Oct 2018 11:46:43 +0200 (CEST)
+From: "facebook" <infolike9078@curtain-sommelier.com>
+Subject: hey hey
+MIME-Version: 1.0
+Content-Type: text/html
+Message-Id: <20181020094645.5FE7EC15A7@v22014122474822114.stilfilm.com>
+Date: Sat, 20 Oct 2018 11:46:45 +0200 (CEST)
+
+ 

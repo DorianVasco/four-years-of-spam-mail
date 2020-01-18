@@ -1,0 +1,172 @@
+Return-Path: <swapnil_e@advids-online.co>
+Delivered-To: mail@stilfilm.com
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 47522D1E78
+	for <mail@stilfilm.com>; Thu, 23 Nov 2017 15:02:26 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: 4.96
+X-Spam-Level: ****
+X-Spam-Status: No, score=4.96 required=5.5 tests=[DKIM_SIGNED=0.1,
+	DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1, HTML_MESSAGE=0.001,
+	RAZOR2_CF_RANGE_51_100=0.5, RAZOR2_CF_RANGE_E8_51_100=1.886,
+	RAZOR2_CHECK=0.922, RCVD_IN_DNSWL_NONE=-0.0001,
+	RCVD_IN_SORBS_SPAM=0.5, SPF_PASS=-0.001, UNPARSEABLE_RELAY=0.001,
+	URIBL_ABUSE_SURBL=1.25, URIBL_BLOCKED=0.001] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id HurHYpD3yeMZ for <mail@stilfilm.com>;
+	Thu, 23 Nov 2017 15:02:24 +0100 (CET)
+Received: from mail-lf0-f68.google.com (mail-lf0-f68.google.com [209.85.215.68])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id B30B7C0896
+	for <DNagel@stilfilm.com>; Thu, 23 Nov 2017 15:02:24 +0100 (CET)
+Received: by mail-lf0-f68.google.com with SMTP id o41so22146649lfi.2
+        for <DNagel@stilfilm.com>; Thu, 23 Nov 2017 06:02:25 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=advids-online.co; s=google;
+        h=mime-version:sender:from:reply-to:date:message-id:subject:to;
+        bh=KWxheEgaYMh308ebpl/UEhGNcCWTGyeLoFUhQAlddho=;
+        b=RCE1IZHnKpBFXXtdP+1Yuw3DQLxEvWF1Lfw/IzqpxeOSBKdHvMyMHu7g2775i80HZc
+         gg48dge0oj8Q9CQ6Q3Ctcf31wslmzzYpcTTzAuOS3WeHQ8hSESfLbyQQRw0TdswjYUcL
+         jEXLGwLMrtkCGTwS9P3uvVF/pBCIJ+jAAwZdIzLoj9vFLMtKJ87JJXDYbsRdXNHdPwMJ
+         I06nt5NyqeW+bKQ+4xw/N1WI0EOZjpo38LBVjsKtt604QHQzu5kbSvumxyB1fyAk/XuU
+         3133KKhwpnDbTg8nLpwM9IlRHpYYcpqoqhyYShAC0sjJ91jfuQSLamM9gIfOHnBo+9o2
+         jJKg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:sender:from:reply-to:date
+         :message-id:subject:to;
+        bh=KWxheEgaYMh308ebpl/UEhGNcCWTGyeLoFUhQAlddho=;
+        b=okeCsF2WHVgCisTEySombhc+JTCdQDw8bAIgBtioEK3ZZSnCmISevYXccmtGxyHo/B
+         ioOvyxwHs/D2dw4UeGiCC6uulltyDSg7qNHK5XD0CB81KC1XBrBr4N8Hjo0k8PTpfSE6
+         nPCAlkoox7/y6iBu6repnPkkIjxeQ7kcrtAwGtRi12r4d2fyNreBSXDjU94UhV4eXSb+
+         OwrqykK5xkp8akZBw7HT0xHBBt2RRiQlXTHLVakXMBPtMNS1KIM93RiASZrzNbMcRxRg
+         qAPyyPAMQw7kQzrSev0az8i4lbKBzeYxSjG+5R2/mu2xzUUleSiGzReyByW9CXwKwXCF
+         6M9g==
+X-Gm-Message-State: AJaThX4Mb9+qcF87lp8wikAooo+XurUPhV1letDnmPtw5nZJPorNORDi
+	om2nRJ1tXk91K7/X8DV35qHpQpaLhH9MRkYi12l8CWjA
+X-Google-Smtp-Source: AGs4zMbRaMF8j5gMp06+b9AhrkyLu/HtZ3p4EvyFoctaO9LPclxgCgaNiE7n9iGAWhAVK+kuy7z66qaCAJe2jm/Igxo=
+X-Received: by 10.25.145.93 with SMTP id y29mr7462083lfj.135.1511445744534;
+ Thu, 23 Nov 2017 06:02:24 -0800 (PST)
+Received: from 223404411203 named unknown by gmailapi.google.com with
+ HTTPREST; Thu, 23 Nov 2017 06:02:24 -0800
+MIME-Version: 1.0
+Sender: Swapnil B <swapnil_e@advids-online.co>
+From: Swapnil B <swapnil_e@advids-online.co>
+Reply-To: swapnil_e@advids-online.co
+Date: Thu, 23 Nov 2017 06:02:24 -0800
+X-Google-Sender-Auth: CWvOAybfCpE7RF55Fd15nGPDK5Q
+Message-ID: <CAMh3TQm90NLnANbWDcbTpL-Oi80DxRJZSUPKzRqDo0Rd6G+dsg@mail.gmail.com>
+Subject: Stilfilm Video
+To: DNagel@stilfilm.com
+Content-Type: multipart/alternative; boundary="94eb2c1cd066b34bc8055ea6e20d"
+
+--94eb2c1cd066b34bc8055ea6e20d
+Content-Type: text/plain; charset="UTF-8"
+
+Hi Dorian-Vasco,
+
+My name is Swapnil and I'm Producer at Advids <http://advids-online.co/>. We
+are a Video Content creation solution that helps businesses create videos
+easily. I would like to invite you to checkout Advids
+<http://advids-online.co/>.
+
+Please review how you can easily produce quality videos to show or
+communicate more about Stilfilm. Would love to share details about the cost
+and sample videos we have created in similar industry. I look forward to
+hear your thoughts and ideas on creating video content.
+
+Thanks,
+
+Swapnil
+
+Director & Producer
+
+Advids
+
+Video Creation made easy
+
+PH +1 650-515-3363
+
+Fill Email To Unsubscribe <http://emailmanager12.com>
+
+--94eb2c1cd066b34bc8055ea6e20d
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><p dir=3D"ltr" style=3D"font-size:12.8px;margin-top:0pt;ma=
+rgin-bottom:0pt"><font style=3D"font-family:&quot;trebuchet ms&quot;,sans-s=
+erif;font-size:12.8px;line-height:1.38"><span style=3D"vertical-align:basel=
+ine;white-space:pre-wrap;background-color:transparent">H</span><span style=
+=3D"vertical-align:baseline;white-space:pre-wrap;background-color:transpare=
+nt">i </span></font><span style=3D"font-family:&quot;trebuchet ms&quot;,san=
+s-serif;font-size:12.8px;background-color:transparent;color:rgb(0,0,0);vert=
+ical-align:baseline;white-space:pre-wrap">Dorian-Vasco</span><span style=3D=
+"font-family:&quot;trebuchet ms&quot;,sans-serif;font-size:12.8px;backgroun=
+d-color:transparent;vertical-align:baseline;white-space:pre-wrap">,</span><=
+br></p><p dir=3D"ltr" style=3D"font-size:12.8px;margin-top:0pt;margin-botto=
+m:0pt"><font face=3D"trebuchet ms, sans-serif"><span style=3D"vertical-alig=
+n:baseline;white-space:pre-wrap;background-color:transparent">
+<span style=3D"line-height:1.38">My name is Swapnil and I&#39;m Producer at=
+ </span></span><a href=3D"http://advids-online.co/" style=3D"line-height:1.=
+38" target=3D"_blank"><span style=3D"vertical-align:baseline;white-space:pr=
+e-wrap;background-color:transparent">Advids</span></a><span style=3D"line-h=
+eight:1.38;vertical-align:baseline;white-space:pre-wrap;background-color:tr=
+ansparent">.
+</span><span style=3D"line-height:1.38;vertical-align:baseline;white-space:=
+pre-wrap;background-color:transparent">
+We are a Video Content creation solution that helps businesses create video=
+s easily. I would like to invite you to checkout </span><a href=3D"http://a=
+dvids-online.co/" style=3D"line-height:1.38" target=3D"_blank"><span style=
+=3D"vertical-align:baseline;white-space:pre-wrap;background-color:transpare=
+nt">Advids</span></a><span style=3D"line-height:1.38;vertical-align:baselin=
+e;white-space:pre-wrap;background-color:transparent">.</span></font></p><p =
+dir=3D"ltr" style=3D"font-size:12.8px;line-height:1.38;margin-top:0pt;margi=
+n-bottom:0pt"><font face=3D"trebuchet ms, sans-serif"><span style=3D"vertic=
+al-align:baseline;white-space:pre-wrap;background-color:transparent">
+</span></font></p><p dir=3D"ltr" style=3D"font-size:12.8px;line-height:1.38=
+;margin-top:0pt;margin-bottom:0pt"><font face=3D"trebuchet ms, sans-serif">=
+<span style=3D"vertical-align:baseline;white-space:pre-wrap;background-colo=
+r:transparent">Please review how you can easily produce quality videos to s=
+how or communicate more about </span><span style=3D"color:rgb(0,0,0);line-h=
+eight:17.48px;white-space:pre-wrap">Stilfilm</span><span style=3D"white-spa=
+ce:pre-wrap;line-height:1.38;background-color:transparent">.
+</span><span style=3D"line-height:1.38;white-space:pre-wrap;background-colo=
+r:transparent">
+Would love to share details about the cost and sample videos we have create=
+d in similar industry. I look forward to hear your thoughts and ideas on cr=
+eating video content.</span></font></p><p dir=3D"ltr" style=3D"font-size:12=
+.8px;line-height:1.38;margin-top:0pt;margin-bottom:0pt"><font face=3D"trebu=
+chet ms, sans-serif"><span style=3D"vertical-align:baseline;white-space:pre=
+-wrap;background-color:transparent">
+</span><span style=3D"line-height:17.48px;white-space:pre-wrap;background-c=
+olor:transparent">Thanks,<font face=3D"arial, sans-serif" style=3D"font-siz=
+e:small">
+
+</font></span></font></p><p style=3D"font-size:12.8px;line-height:1.38;marg=
+in-top:0pt;margin-bottom:0pt"><font face=3D"trebuchet ms, sans-serif"><span=
+ style=3D"white-space:pre-wrap">Swapnil</span></font></p><p dir=3D"ltr" sty=
+le=3D"font-size:12.8px;line-height:1.38;margin-top:0pt;margin-bottom:0pt"><=
+span style=3D"vertical-align:baseline;white-space:pre-wrap;background-color=
+:transparent"><font face=3D"trebuchet ms, sans-serif">Director &amp; Produc=
+er</font></span></p><p dir=3D"ltr" style=3D"font-size:12.8px;line-height:1.=
+38;margin-top:0pt;margin-bottom:0pt"><span style=3D"vertical-align:baseline=
+;white-space:pre-wrap;background-color:transparent"><font face=3D"trebuchet=
+ ms, sans-serif">Advids</font></span></p><p dir=3D"ltr" style=3D"font-size:=
+12.8px;line-height:1.38;margin-top:0pt;margin-bottom:0pt"><span style=3D"ve=
+rtical-align:baseline;white-space:pre-wrap;background-color:transparent"><f=
+ont face=3D"trebuchet ms, sans-serif">Video Creation made easy</font></span=
+></p><p dir=3D"ltr" style=3D"font-size:12.8px;line-height:1.38;margin-top:0=
+pt;margin-bottom:0pt"><span style=3D"vertical-align:baseline;white-space:pr=
+e-wrap;background-color:transparent"><font face=3D"trebuchet ms, sans-serif=
+">PH +1 650-515-3363</font></span></p><p dir=3D"ltr" style=3D"font-size:12.=
+8px;line-height:1.38;margin-top:0pt;margin-bottom:0pt"><a href=3D"http://em=
+ailmanager12.com" style=3D"line-height:normal;font-family:&quot;trebuchet m=
+s&quot;,sans-serif;font-size:12.8px" target=3D"_blank"><span style=3D"font-=
+size:10.6667px;color:rgb(0,0,0);vertical-align:baseline;white-space:pre-wra=
+p;background-color:transparent">Fill Email To Unsubscribe</span></a></p></d=
+iv>
+
+--94eb2c1cd066b34bc8055ea6e20d--

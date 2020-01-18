@@ -1,0 +1,106 @@
+Return-Path: <MAILER-DAEMON>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id B65B1D1E97
+	for <mail@dorianvasco.de>; Sun, 12 Feb 2017 12:08:55 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 6.606
+X-Spam-Level: ******
+X-Spam-Status: Yes, score=6.606 required=2 tests=[BAYES_50=0.8,
+	MISSING_MID=0.497, RAZOR2_CF_RANGE_51_100=0.5,
+	RAZOR2_CF_RANGE_E8_51_100=1.886, RAZOR2_CHECK=0.922,
+	URIBL_BLOCKED=0.001, URIBL_DBL_ABUSE_SPAM=2] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.yourvserver.net [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id qLSlaxQS3t6l for <mail@dorianvasco.de>;
+	Sun, 12 Feb 2017 12:08:54 +0100 (CET)
+Received: from telerete.it (mailsrv3.telerete.it [217.148.123.8])
+	by v22014122474822114.stilfilm.com (Postfix) with SMTP id 5F149D1B5D
+	for <kontakt@dorianvasco.de>; Sun, 12 Feb 2017 12:08:54 +0100 (CET)
+Received: (qmail 20694 invoked for bounce); 12 Feb 2017 11:08:49 -0000
+Date: 12 Feb 2017 11:08:49 -0000
+From: MAILER-DAEMON@telerete.it
+To: kontakt@dorianvasco.de
+Subject: ***SPAM*** failure notice
+Message-Id: <20170212110855.B65B1D1E97@v22014122474822114.stilfilm.com>
+
+Hi. This is the qmail-send program at telerete.it.
+I'm afraid I wasn't able to deliver your message to the following addresses.
+This is a permanent error; I've given up. Sorry it didn't work out.
+
+<a1bba6e08@trapanotto.it>:
+Sorry, no mailbox here by that name. (#5.1.1)
+
+--- Below this line is a copy of the message.
+
+Return-Path: <kontakt@dorianvasco.de>
+Received: (qmail 20691 invoked from network); 12 Feb 2017 11:08:49 -0000
+Received: from mailftr3.telerete.it (217.148.122.48)
+  by 0 with SMTP; 12 Feb 2017 11:08:49 -0000
+Received: from [5.239.159.222] ([5.239.159.222]) by mailftr3.telerete.it with ESMTP id 2kSxKCqhEWcQnB4a for <a1bba6e08@trapanotto.it>; Sun, 12 Feb 2017 12:08:47 +0100 (CET)
+Message-ID: <003b01d2853e$02354d0b$19e8059b@sashioqg>
+From: <kontakt@dorianvasco.de>
+To: <a1bba6e08@trapanotto.it>
+Subject: Re: Se vi interessa un guadagno extra ...
+Date: 12 Feb 2017 16:14:21 +0200
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0038_01D2853E.02313418"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+X-Virus-Scanned: by bsmtpd at telerete.it
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0038_01D2853E.02313418
+Content-Type: text/plain;
+	charset="cp-850"
+Content-Transfer-Encoding: quoted-printable
+
+Caro a1bba6e08,
+
+Io sono HR manager di una grande compagnia internazionale.
+La nostra azienda &#232; alla ricerca di collaboratori intraprendenti.
+
+Il stipendio possibile da 2500 a 5000 euro al mese.
+
+Se Le interessa nostra offerta - si prega di visitare il=20
+Nostro Sito
+
+Con i migliori saluti,
+HR Manager
+Ufficio Internazionale
+------=_NextPart_000_0038_01D2853E.02313418
+Content-Type: text/html;
+	charset="cp-850"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META http-equiv=3DContent-Type content=3D"text/html; charset=3Dcp-850">
+<META content=3D"MSHTML 6.00.2600.0000" name=3DGENERATOR>
+<STYLE></STYLE>
+</HEAD>
+<BODY bgColor=3D#ffffff>
+Caro a1bba6e08,<br>
+<br>
+Io sono HR manager di una grande compagnia internazionale.<br>
+La nostra azienda &#232; alla ricerca di collaboratori =
+intraprendenti.<br>
+<b>Il stipendio possibile da 2500 a 5000 euro al mese.</b><br>
+<br>
+
+Se Le interessa nostra offerta - si prega di visitare il <a =
+href=3D"http://hcgfoundation.org/components/com_allvideoshare/views/categ=
+ory/tmpl/"><b>Nostro Sito</b></a><br>
+
+<br>
+Con i migliori saluti,<br>
+HR Manager<br>
+Ufficio Internazionale<br></BODY></HTML>
+------=_NextPart_000_0038_01D2853E.02313418--
+
+

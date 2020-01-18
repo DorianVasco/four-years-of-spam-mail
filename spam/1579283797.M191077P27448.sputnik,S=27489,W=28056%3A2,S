@@ -1,0 +1,567 @@
+Return-Path: <return-a400-65254-65255-8a47c625=200437775=8@premium-media.net>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 685ADC24A0
+	for <mail@dorianvasco.de>; Sat, 21 Dec 2019 01:23:16 +0100 (CET)
+Authentication-Results: v22014122474822114.stilfilm.com; dkim=pass
+	reason="1024-bit key; insecure key"
+	header.d=myangebote.de header.i=@myangebote.de header.b=HZJDqt4m;
+	dkim-adsp=pass; dkim-atps=neutral
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: 3.76
+X-Spam-Level: ***
+X-Spam-Status: No, score=3.76 required=4.5 tests=[BAYES_50=0.8,
+	DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	HEADER_FROM_DIFFERENT_DOMAINS=0.25, HTML_IMAGE_RATIO_08=0.001,
+	HTML_MESSAGE=0.001, RAZOR2_CF_RANGE_51_100=1.886, RAZOR2_CHECK=0.922]
+	autolearn=no autolearn_force=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 1zNvksqlZld3 for <mail@dorianvasco.de>;
+	Sat, 21 Dec 2019 01:23:13 +0100 (CET)
+Received: from smtp7-144.performance-mediachannel.de (smtp7-144.performance-mediachannel.de [193.70.111.70])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id AC1D6C249A
+	for <kontakt@dorianvasco.de>; Sat, 21 Dec 2019 01:23:10 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; d=myangebote.de; s=premmail;
+ t=1576887790; bh=+jcVthwQHQ79OePzJybQMkO7YFM=;
+ h=Subject:From:To:Reply-To:Date:List-Unsubscribe:X-CampaignID:
+  Message-ID:X-Mailer-Info:MIME-Version:Content-Type;
+ b=HZJDqt4mAbDc+PDwKBlLY8EGIC641eBQFwJRaGZBhtbLyHW/5ciG98l1V6Jd9t/YQ
+  7+isAxD3pupYt1yvS+82m+R/pdFffUwxc9MrnRNzjMc5r+5hBQ1VuAxFLUOrZKAcFN
+  bG9a4M+vZQcJu+Z5iPGU1Pr+fPKsrjnShyAGPf9o=
+Subject: =?UTF-8?Q?Gesamtgewinne=20von=20=C3=BCber=202=2C3=20Milliarde?=
+ =?UTF-8?Q?n=20Euro=20bei=20El=20Gordo?=
+From: "Frank Hoffmann" <info@myangebote.de>
+To: kontakt@dorianvasco.de
+Reply-To: noreply@premium-media.net
+Date: 21 Dec 2019 00:23:10 -0000
+List-Unsubscribe: <http://premium-media.net/ga/unsubscribe/2-200437775-400-24556-65255-3dd7770685275ec-5e28fd30b4?confirmed=1>,
+ <mailto:return-a400-65254-65255-8a47c625=200437775=8u@premium-media.net>
+X-CampaignID: s4:65254-463f2a471402cc1e
+Message-ID: <mid-db1ad2dd265874614e711be014df2f2e-14@premium-media.net>
+X-Mailer-Info: 8.QY0ADM.YTNyUDN.wav5GdhtGdAR2bylWYuZXYzN2buQWZ.yADM0MzN3cTN.YTNyUTN
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="==7c7c1e91de2afd67da004db3fa355fc2"
+
+This is a multi-part message in MIME format.
+
+--==7c7c1e91de2afd67da004db3fa355fc2
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+=F0=9F=8E=84 El Waaaahnsinn! Jedes 6. Los gewinnt - 2,3 Mrd. Euro
+Gesamtgewinn in der spanischen Weihnachtslotterie!
+
+=EF=BB=BFIm Browser ansehen ( http://premium-media.net/ga/webviews/4-200437=
+775-400-24556-27022-65255-176745894a ) | Abmelden (
+http://premium-media.net/ga/unsubscribe/2-200437775-400-24556-65255-3dd7770=
+685275ec-5e28fd30b4 )
+
+Lottoland ( http://premium-media.net/ga/click/2-200437775-400-24556-65255-1=
+919090-d19beee69f-5e28fd30b4 )
+
+1/100 Los f=C3=BCr ( http://premium-media.net/ga/click/2-200437775-400-2455=
+6-65255-1919090-d19beee69f-5e28fd30b4 )
+
+nur 1,99=E2=82=AC 4,99=E2=82=AC! ( http://premium-media.net/ga/click/2-2004=
+37775-400-24556-65255-1919090-d19beee69f-5e28fd30b4 )
+
+jetzt los sichern ( http://premium-media.net/ga/click/2-200437775-400-24556=
+-65255-1919090-d19beee69f-5e28fd30b4 )
+
+Warte nicht bis Weihnachten - Die beste Bescherung findet schon
+jetzt statt!
+
+Bei der spanischen Weihnachtslotterie erwarten Dich Gesamtgewinne
+im Wert von 2,3 Mrd. =E2=82=AC! Sichere dir schon jetzt dein 1/100 Los
+f=C3=BCr El Gordo und spare dich gl=C3=BCcklich! Nutze unser
+Neukunden-Angebot und kaufe dir dein Anteilslos f=C3=BCr nur 1,99=E2=82=AC!
+
+jetzt los sichern ( http://premium-media.net/ga/click/2-200437775-400-24556=
+-65255-1919090-d19beee69f-5e28fd30b4 )
+
+Kundenbewertung: Sehr gut ( http://premium-media.net/ga/click/2-200437775-4=
+00-24556-65255-1919090-d19beee69f-5e28fd30b4 )
+
+G=C3=BCnstiger, besser, zufriedener!
+
+In branchenweiten Studien ist das Lottoland zum g=C3=BCnstigsten und
+besten =C3=BCberregionalen Lottoanbieter ausgezeichnet worden.
+Besonders freuen wir uns =C3=BCber tausende Empfehlungen unserer
+Spieler.
+
+=C2=A9 2019 Lottoland.com
+
+Bitte beachte, dass diese E-Mail nicht vom Lottoland direkt
+versendet worden ist und es keinen Einfluss auf den
+Empf=C3=A4ngerkreis hat. M=C3=B6chtest du dich aus diesem Verteiler
+abmelden, wende dich bitte direkt an den Absender.
+
+Ab 18! Angebot g=C3=BCltig f=C3=BCr Neuspieler. Gewinnchance Hauptpreis
+1:100.000. Suchtgefahr. Info: bzga.de. ( http://premium-media.net/ga/click/=
+2-200437775-400-24556-65255-1919091-6cc140924f-5e28fd30b4 )
+
+Sie erhalten diese E-Mail, weil Sie unsere Dienste in Anspruch
+nehmen oder an Gewinnspielen der Premium Performance Mail AG oder
+unserer Kooperationspartner teilgenommen haben.
+
+Die Angebote sind kommerzielle Anzeigen der jeweiligen
+Werbekunden, die f=C3=BCr den jeweiligen Inhalt verantwortlich sind.
+Bei Fragen zu den Angeboten haben, wenden Sie sich bitte an den
+in der Anzeige genannten Anbieter.
+
+Die Premium Performance Mail AG ist ausschlie=C3=9Flich Versender
+dieser Nachricht. Bitte antworten Sie nicht auf diese Mail. Um in
+Zukunft keine Informationen mehr von dieser Adresse zu erhalten,
+dann klicken Sie bitte hier ( http://premium-media.net/ga/unsubscribe/2-200=
+437775-400-24556-65255-3dd7770685275ec-5e28fd30b4 ), um sich
+abzumelden. Haben Sie Verst=C3=A4ndnis, dass die Abmeldung bis zu 48
+Stunden dauern kann.
+
+Director Caroline Wange
+The Picasso Building, Caldervale Road, Wakefield, West
+Yorkshire, United Kingdom.=
+
+--==7c7c1e91de2afd67da004db3fa355fc2
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+
+<!DOCTYPE html
+    PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/x=
+html1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+
+<head>
+    <title>Jetzt bei Lottoland abr&auml;umen!</title>
+    <meta content=3D"text/html; charset=3DUTF-8" http-equiv=3D"Content-Type=
+" />
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1.0" />
+
+    <!-- MS ENHANCEMENT -->
+    <!--[if !mso]><!-->
+    <meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge" />
+    <!--<![endif]-->
+
+    <!-- APPLE ENHANCEMENT -->
+    <style type=3D"text/css">
+        a[x-apple-data-detectors] {
+            color: inherit !important;
+            text-decoration: none !important;
+            font-size: inherit !important;
+            font-family: inherit !important;
+            font-weight: inherit !important;
+            line-height: inherit !important;
+        }
+
+        @media only screen and (max-width: 600px) {
+            .jackpotAmount { font-size: 90px !important; line-height: 50px =
+!important}
+            .jackpotText { font-size: 60px !important; line-height: 50px !i=
+mportant}
+            .normalText { font-size: 30px !important; line-height: 30px !im=
+portant}
+            .eyecatcher { width: 100% !important; height: auto !important;}
+        }
+    </style>
+</head>
+
+<body style=3D"padding:0px;margin:0px;height:100%;width:100%;background-col=
+or:#f6f6f6;">
+    <div
+        style=3D"display: none; font-size: 1px; color: #d42015; line-height=
+: 1px; max-height: 0px; max-width: 0px; opacity: 0; overflow: hidden;">
+        <!--PreHead-->=F0=9F=8E=84 El Waaaahnsinn! Jedes 6. Los gewinnt - 2=
+,3 Mrd. Euro Gesamtgewinn in der spanischen Weihnachtslotterie!</div>
+    <!-- START CONTENT LIQUID WRAPPER -->
+<center>
+<div style=3D"text-align: center; width: 100%; max-width: 590px;"><a style=
+=3D"text-decoration: none; color: #000000;" href=3D"http://premium-media.ne=
+t/ga/webviews/4-200437775-400-24556-27022-65255-176745894a">&#65279;Im Brow=
+ser ansehen</a> | <a style=3D"text-decoration: none; color: #000000;" href=
+=3D"http://premium-media.net/ga/unsubscribe/2-200437775-400-24556-65255-3dd=
+7770685275ec-5e28fd30b4">Abmelden</a></div>
+</center>
+
+
+
+    <table style=3D"padding: 0px; margin: 0px; width: 100%; background-colo=
+r: #ffe000;" cellspacing=3D"0" cellpadding=3D"0"
+        border=3D"0">
+        <tbody>
+            <tr>
+                <td style=3D"padding: 0px; margin: 0px; background-color: #=
+ffe000;">&nbsp;</td>
+                <td style=3D"padding: 0px; margin: 0px; background-color: #=
+ffe000;" width=3D"600">
+                    <!-- START CONTENT -->
+                    <table style=3D"padding: 0px; margin: 0px; width: 100%;=
+" cellspacing=3D"0" cellpadding=3D"0" border=3D"0">
+                        <!-- LOGO -->
+                        <tbody>
+                            <tr>
+                                <td style=3D"padding: 0px; margin: 0px; fon=
+t-size: 20px; height: 20px; line-height: 20px;"
+                                    height=3D"20">&nbsp;</td>
+                            </tr>
+                            <tr>
+                                <td align=3D"center" style=3D"padding: 0px;=
+ margin: 0px; text-align: center;">
+                                    <a id=3D"Logo" target=3D"_blank" href=
+=3D"http://premium-media.net/ga/click/2-200437775-400-24556-65255-1919090-d=
+19beee69f-5e28fd30b4">
+                                        <img src=3D"https://llcrm.s3.amazon=
+aws.com/content-aq/Emails/LL_Logo_172x55.png"
+                                            alt=3D"Lottoland"
+                                            style=3D"padding: 0px; margin: =
+0px; display: inline-block; width: 172px; height: 55px; font-size: 15px; fo=
+nt-family: Arial,Helvetica,sans-serif; font-weight: 800; color: #000000;"
+                                            border=3D"0" />
+                                    </a>
+                                </td>
+                            </tr>
+                            <!-- TEASER TEXT -->
+                            <tr>
+                                <td style=3D"padding: 0px; margin: 0px; fon=
+t-size: 40px; height: 40px; line-height: 40px;"
+                                    height=3D"40">&nbsp;</td>
+                            </tr>
+                            <tr>
+                                <td style=3D"padding: 0px; margin: 0px;">
+                                    <center>
+                                      <a id=3D"Headline" target=3D"_blank" =
+href=3D"http://premium-media.net/ga/click/2-200437775-400-24556-65255-19190=
+90-d19beee69f-5e28fd30b4" style=3D"font-size: 39px; font-family: Arial,Helv=
+etica,sans-serif; color: #333333; text-decoration: none;"> <span style=3D"f=
+ont-size: 39px; font-family: Arial,Helvetica,sans-serif; color: #333333; te=
+xt-decoration: none;"> <strong>1/100 Los f&uuml;r </strong> </span> </a>
+                                    </center>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style=3D"padding: 0px; margin: 0px;">
+                                    <center><a id=3D"TeaserLotto6aus49" tar=
+get=3D"_blank"
+                                            href=3D"http://premium-media.ne=
+t/ga/click/2-200437775-400-24556-65255-1919090-d19beee69f-5e28fd30b4"
+                                            style=3D"font-size: 39px; font-=
+family: Arial,Helvetica,sans-serif; color: #d42015; text-decoration: none;"=
+><span
+                                                style=3D"font-size: 39px; f=
+ont-family: Arial,Helvetica,sans-serif; color: #d42015; text-decoration: no=
+ne;"><b>nur 1,99&euro; <span style=3D"text-decoration:line-through">4,99&eu=
+ro;!</span></b></span></a></center>
+                                </td>
+                            </tr>
+                            <!-- TEASER CTA -->
+                            <tr>
+                                <td style=3D"padding: 0px; margin: 0px; fon=
+t-size: 40px; height: 40px; line-height: 40px;"
+                                    height=3D"40">&nbsp;</td>
+                            </tr>
+                            <tr>
+                                <td style=3D"padding: 0px; margin: 0px;">
+                                    <center><a id=3D"TeaserCTA" target=3D"_=
+blank"
+                                            href=3D"http://premium-media.ne=
+t/ga/click/2-200437775-400-24556-65255-1919090-d19beee69f-5e28fd30b4"
+                                            style=3D"display: inline-block;=
+ font-size: 20px; font-family: Arial,Helvetica,sans-serif; color: #d42015; =
+text-decoration: none; text-transform: none;"><span
+                                                style=3D"display: inline-bl=
+ock; background-color: #81bc1b; font-size: 20px; font-family: Arial,Helveti=
+ca,sans-serif; color: #ffffff; text-decoration: none; border-top: 15px soli=
+d #81bc1b; border-bottom: 15px solid #81bc1b; border-left: 25px solid #81bc=
+1b; border-right: 25px solid #81bc1b; border-radius: 10px; -webkit-border-r=
+adius: 10px; -moz-border-radius: 10px;text-transform: uppercase">
+                                                jetzt los sichern</span></a=
+></center>
+                                </td>
+                            </tr>
+                            <!-- TEASER IMAGE -->
+                            <tr>
+                                <td style=3D"padding: 0px; margin: 0px; fon=
+t-size: 20px; height: 20px; line-height: 20px;"
+                                    height=3D"20">&nbsp;</td>
+                            </tr>
+                            <tr>
+                                <td align=3D"center" style=3D"padding: 0px;=
+ margin: 0px;">
+                                    <table align=3D"center" border=3D"0" ce=
+llpadding=3D"0" cellspacing=3D"0" role=3D"presentation" width=3D"100%" styl=
+e=3D"max-width: 100%; vertical-align: middle">
+                                        <tbody>
+                                            <tr>
+                                                <!-- Change image src here =
+-->
+                                                <td align=3D"center" valign=
+=3D"top">
+													<a href=3D"http://premium-media.net/ga/click/2-200437775-400-2=
+4556-65255-1919090-d19beee69f-5e28fd30b4"><img src=3D"https://llcrm.s3.eu-w=
+est-1.amazonaws.com/Acq_DACH/DE_AT_ElGordo_title_600x80.jpg" alt=3D"" width=
+=3D"600" height=3D"80" class=3D"eyecatcher"></a>
+                                                </td>
+                                            </tr>
+=09=09=09=09=09=09=09=09=09=09=09
+											<tr>
+                                                <!-- Change image src here =
+-->
+                                                <td align=3D"center" valign=
+=3D"top">
+													<a href=3D"http://premium-media.net/ga/click/2-200437775-400-2=
+4556-65255-1919090-d19beee69f-5e28fd30b4"><img src=3D"https://llcrm.s3.eu-w=
+est-1.amazonaws.com/Acq_DACH/DE_AT_ElGordo_single_600x350.jpg" alt=3D"" wid=
+th=3D"600" height=3D"350" class=3D"eyecatcher"></a>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </td>
+                            </tr>
+                            <!-- TEXT -->
+                            <tr>
+                                <td style=3D"padding: 0px; margin: 0px; fon=
+t-size: 40px; height: 40px; line-height: 40px;"
+                                    height=3D"40">&nbsp;</td>
+                            </tr>
+                            <tr>
+                                <td
+                                    style=3D"padding: 0px; margin: 0px; fon=
+t-size: 16px; font-family: Arial,Helvetica,sans-serif; color: #333333;">
+                                    <center>
+										<strong>Warte nicht bis Weihnachten - Die beste Bescherung findet=
+ schon jetzt statt!</strong>
+									</center>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style=3D"padding: 0px; margin: 0px; fon=
+t-size: 10px; height: 10px; line-height: 10px;"
+                                    height=3D"10">&nbsp;</td>
+                            </tr>
+                            <tr>
+                                <td
+                                    style=3D"padding: 0px; margin: 0px; fon=
+t-size: 16px; line-height: 22px; font-family: Arial,Helvetica,sans-serif; c=
+olor: #333333;">
+                                    <center>
+										Bei der spanischen Weihnachtslotterie erwarten Dich <strong style=
+=3D"color:#d42015">Gesamtgewinne im Wert von 2,3 Mrd. &euro;</strong>! Sich=
+ere dir schon jetzt dein 1/100 Los f&uuml;r El Gordo und spare dich gl&uuml=
+;cklich! Nutze unser Neukunden-Angebot und kaufe dir dein Anteilslos f&uuml=
+;r nur 1,99&euro;!
+									</center>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style=3D"padding: 0px; margin: 0px; fon=
+t-size: 10px; height: 10px; line-height: 10px;"
+                                    height=3D"10">&nbsp;</td>
+                            </tr>
+
+                            <!-- CTA -->
+                            <tr>
+                                <td style=3D"padding: 0px; margin: 0px; fon=
+t-size: 40px; height: 40px; line-height: 40px;"
+                                    height=3D"40">&nbsp;</td>
+                            </tr>
+                            <tr>
+                                <td style=3D"padding: 0px; margin: 0px;">
+                                    <center><a id=3D"CTA" target=3D"_blank"
+                                            href=3D"http://premium-media.ne=
+t/ga/click/2-200437775-400-24556-65255-1919090-d19beee69f-5e28fd30b4"
+                                            style=3D"display: inline-block;=
+ font-size: 20px; font-family: Arial,Helvetica,sans-serif; color: #d42015; =
+text-decoration: none; text-transform: none;"><span
+                                                style=3D"display: inline-bl=
+ock; background-color: #81bc1b; font-size: 20px; font-family: Arial,Helveti=
+ca,sans-serif; color: #ffffff; text-decoration: none; border-top: 15px soli=
+d #81bc1b; border-bottom: 15px solid #81bc1b; border-left: 25px solid #81bc=
+1b; border-right: 25px solid #81bc1b; border-radius: 10px; -webkit-border-r=
+adius: 10px; -moz-border-radius: 10px;text-transform: uppercase">
+                                                jetzt los sichern</span></a=
+></center>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style=3D"padding: 0px; margin: 0px; fon=
+t-size: 40px; height: 40px; line-height: 40px;"
+                                    height=3D"40">&nbsp;</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <!-- END CONTENT -->
+                </td>
+                <td style=3D"padding: 0px; margin: 0px; background-color: #=
+ffe000;">&nbsp;</td>
+            </tr>
+        </tbody>
+    </table>
+    <!-- END CONTENT LIQUID WRAPPER -->
+    <!-- START FOOTER LIQUID WRAPPER -->
+    <table style=3D"padding: 0px; margin: 0px; width: 100%;" cellspacing=3D=
+"0" cellpadding=3D"0" border=3D"0">
+        <tbody>
+            <tr>
+                <td style=3D"padding: 0px; margin: 0px;">&nbsp;</td>
+                <td style=3D"padding: 0px; margin: 0px;" width=3D"600">
+                    <!-- START CONTENT -->
+                    <table style=3D"padding: 0px; margin: 0px; width: 100%;=
+" cellspacing=3D"0" cellpadding=3D"0" border=3D"0">
+                        <!-- SIGNET -->
+                        <tbody>
+                            <tr>
+                                <td style=3D"padding: 0px; margin: 0px; fon=
+t-size: 40px; height: 40px; line-height: 40px;"
+                                    height=3D"40">&nbsp;</td>
+                            </tr>
+                            <tr>
+                            <td align=3D"center" style=3D"padding: 0px; mar=
+gin: 0px; text-align: center;">
+                                    <center><a target=3D"_blank" href=3D"ht=
+tp://premium-media.net/ga/click/2-200437775-400-24556-65255-1919090-d19beee=
+69f-5e28fd30b4">
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20
+                                   <img src=3D"https://llcrm.s3.amazonaws.c=
+om/content-aq/Emails/trustedshops473.jpg" alt=3D"Kundenbewertung: Sehr gut"=
+ style=3D"padding: 0px; margin: 0px; display: block; width: 190px; height: =
+191px;" border=3D"0" />
+                                </a> </center>
+
+                            </td>
+                            </tr>
+                            <!-- TEXT -->
+                            <tr>
+                                <td style=3D"padding: 0px; margin: 0px; fon=
+t-size: 20px; height: 20px; line-height: 20px;"
+                                    height=3D"20">&nbsp;</td>
+                            </tr>
+                            <tr>
+                                <td
+                                    style=3D"padding: 0px; margin: 0px; fon=
+t-size: 20px; font-family: Arial,Helvetica,sans-serif; font-weight: 400; co=
+lor: #5f5f5f; text-align: center;">
+                                    <span>G&uuml;nstiger, besser, zufrieden=
+er!</span>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style=3D"padding: 0px; margin: 0px; fon=
+t-size: 20px; height: 20px; line-height: 20px;"
+                                    height=3D"20">&nbsp;</td>
+                            </tr>
+                            <tr>
+                                <td
+                                    style=3D"padding: 0px; margin: 0px; fon=
+t-size: 14px; line-height: 18px; font-family: Arial,Helvetica,sans-serif; f=
+ont-weight: 400; color: #5f5f5f; text-align: center;">
+                                    In branchenweiten Studien ist das Lotto=
+land zum g&uuml;nstigsten und besten
+                                    &uuml;berregionalen Lottoanbieter ausge=
+zeichnet worden. Besonders freuen wir uns &uuml;ber
+                                    tausende Empfehlungen unserer Spieler.
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style=3D"padding: 0px; margin: 0px; fon=
+t-size: 20px; height: 20px; line-height: 20px;"
+                                    height=3D"20">&nbsp;</td>
+                            </tr>
+                            <tr>
+                                <td
+                                    style=3D"padding: 0px; margin: 0px; fon=
+t-size: 14px; line-height: 18px; font-family: Arial,Helvetica,sans-serif; f=
+ont-weight: 400; color: #5f5f5f; text-align: center;">
+                                    =C2=A9 2019 Lottoland.com
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style=3D"padding: 0px; margin: 0px; fon=
+t-size: 20px; height: 20px; line-height: 20px;"
+                                    height=3D"20">&nbsp;</td>
+                            </tr>
+                            <tr>
+                                <td align=3D"center" style=3D"padding: 0px;=
+ margin: 0px; font-size: 12px; font-family: Arial,Helvetica,sans-serif; col=
+or: #5f5f5f; text-align: center;">Bitte beachte, dass diese E-Mail nicht vo=
+m Lottoland direkt versendet worden ist und es keinen Einfluss auf den Empf=
+&auml;ngerkreis hat. M&ouml;chtest du dich aus diesem Verteiler abmelden, w=
+ende dich bitte direkt an den Absender.
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style=3D"padding: 0px; margin: 0px; fon=
+t-size: 20px; height: 20px; line-height: 20px;"
+                                    height=3D"20">&nbsp;</td>
+                            </tr>
+							 <tr>
+								 <td align=3D"center" style=3D"padding: 0px; margin: 0px; font-size=
+: 12px; font-family: Arial,Helvetica,sans-serif; color: #5f5f5f; text-align=
+: center;">Ab 18! Angebot g&uuml;ltig f&uuml;r Neuspieler. Gewinnchance Hau=
+ptpreis 1:100.000. Suchtgefahr. Info:=20=09
+									 <a href=3D"http://premium-media.net/ga/click/2-200437775-400-2455=
+6-65255-1919091-6cc140924f-5e28fd30b4" style=3D"color: #666666; text-decora=
+tion: none">bzga.de.</a>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style=3D"padding: 0px; margin: 0px; fon=
+t-size: 20px; height: 20px; line-height: 20px;"
+                                    height=3D"20">&nbsp;</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <!-- END CONTENT -->
+                </td>
+                <td style=3D"padding: 0px; margin: 0px;">&nbsp;</td>
+            </tr>
+        </tbody>
+    </table>
+
+
+<center>
+<table style=3D"font-family: Arial, Helvetica, sans-serif; font-size: 10px;=
+ color: #ffffff; width: 700px; max-width: 600px; height: 294px;" border=3D"=
+0" cellspacing=3D"0" cellpadding=3D"5" align=3D"center">
+<tbody>
+<tr>
+<td style=3D"width: 588.008px;" align=3D"left">
+<p><span style=3D"color: #000000; font-family: Arial, Helvetica, sans-serif=
+; font-size: 10pt;"> Sie erhalten diese E-Mail, weil Sie unsere Dienste in =
+Anspruch nehmen oder an Gewinnspielen der Premium Performance Mail AG oder =
+unserer Kooperationspartner teilgenommen haben.</span></p>
+<p><span style=3D"color: #000000; font-family: Arial, Helvetica, sans-serif=
+; font-size: 10pt;"> Die Angebote sind kommerzielle Anzeigen der jeweiligen=
+ Werbekunden, die f&#252;r den jeweiligen Inhalt verantwortlich sind. Bei F=
+ragen zu den Angeboten haben, wenden Sie sich bitte an den in der Anzeige g=
+enannten Anbieter. </span></p>
+<p><span style=3D"color: #000000; font-family: Arial, Helvetica, sans-serif=
+; font-size: 10pt;">Die Premium Performance Mail AG ist ausschlie&#223;lich=
+ Versender dieser Nachricht. Bitte antworten Sie nicht auf diese Mail. Um i=
+n Zukunft keine Informationen mehr von dieser Adresse zu erhalten, dann kli=
+cken Sie bitte <a style=3D"text-decoration: none;" href=3D"http://premium-m=
+edia.net/ga/unsubscribe/2-200437775-400-24556-65255-3dd7770685275ec-5e28fd3=
+0b4" target=3D"_blank" rel=3D"noopener"><span style=3D"font-family: Arial, =
+Helvetica, sans-serif;"><strong>hier</strong></span></a>, um sich abzumelde=
+n. Haben Sie Verst&#228;ndnis, dass die Abmeldung bis zu 48 Stunden dauern =
+kann. </span></p>
+<p><span style=3D"color: #000000; font-family: Arial, Helvetica, sans-serif=
+; font-size: 10pt;"><br />Director Caroline Wange<br /> The Picasso Buildin=
+g, Caldervale Road, Wakefield, West Yorkshire, United Kingdom.</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+
+<img src=3D"http://premium-media.net/ga/open/2-200437775-400-24556-65255-5e=
+28fd30b4" height=3D"2" width=3D"3" alt=3D""></body>
+</html>=
+
+--==7c7c1e91de2afd67da004db3fa355fc2--

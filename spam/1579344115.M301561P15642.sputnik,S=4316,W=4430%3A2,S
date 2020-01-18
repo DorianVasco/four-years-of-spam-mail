@@ -1,0 +1,114 @@
+Return-Path: <sender-mail=dorianvasco.de@sayyoudo.info>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 0EC0CD2C8C
+	for <mail@dorianvasco.de>; Wed,  1 Mar 2017 09:55:20 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 6.876
+X-Spam-Level: ******
+X-Spam-Status: Yes, score=6.876 required=2 tests=[BAYES_40=-0.001,
+	DKIM_SIGNED=0.1, DKIM_VALID=-0.1, HTML_IMAGE_ONLY_12=2.059,
+	HTML_MESSAGE=0.001, HTML_OBFUSCATE_05_10=0.26,
+	RAZOR2_CF_RANGE_51_100=0.5, RAZOR2_CF_RANGE_E8_51_100=1.886,
+	RAZOR2_CHECK=0.922, RP_MATCHES_RCVD=-0.001, SPF_PASS=-0.001,
+	URIBL_ABUSE_SURBL=1.25, URIBL_BLOCKED=0.001] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.yourvserver.net [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id k_q31dW12u7b for <mail@dorianvasco.de>;
+	Wed,  1 Mar 2017 09:55:18 +0100 (CET)
+Received: from s6.sayyoudo.info (s6.sayyoudo.info [213.32.103.20])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 767B0D2B98
+	for <mail@dorianvasco.de>; Wed,  1 Mar 2017 09:55:18 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=hasman; d=sayyoudo.info;
+ h=Date:To:From:Reply-To:Subject:Message-ID:Sender:MIME-Version:Content-Type; i=sender@sayyoudo.info;
+ bh=L91gZDjZI7BV+8+EmLvBIjAaHDM=;
+ b=mCKGrP2LM7fjh3lPTxntKEwZc0HHeH7lFRfTUTslfvJWKBzo5MIns16fN2awaI+BTd3BX4DnoZIl
+   e/n1jZujVJHYuxSAAh4YQKdxVGJabOpB52rXhpWfytdsQ/Vc/0uJUgKlFXsZDnbH/c16T3MOHmsZ
+   512GqZQQVTRcD7K1PgY=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=hasman; d=sayyoudo.info;
+ b=cd45Yy2CyI7xdKupgBGtepuGMUbNe2VwUDIjxjaTTsTlzugE36XAs/dLFCgRdQfNzu9iADCWuVd7
+   8w3YATdbTZtNf5MlNiPQxWoWj6UDS9rRQygxqGcDSHW0tXiuhVJwMS6yIEaSSuJvJTuU6t9Pbzps
+   1ES1GPAwKV3w28npqWo=;
+Date: Sat, 25 Feb 2017 13:20:03 +0100
+To: "mail@dorianvasco.de" <mail@dorianvasco.de>
+From: =?UTF-8?Q?G=C3=BCnther_Ellermann?= <support@netzsupport.org>
+Reply-To: =?UTF-8?Q?G=C3=BCnther_Ellermann?= <support@netzsupport.org>
+Subject: ***SPAM***
+	=?UTF-8?Q?Wie_verdient_man_10.000_=E2=82=AC_in_30_Tagen_-_kostenloses_Liv?=
+	=?UTF-8?Q?e_Webinar?=
+Message-ID: <71f09403c2d83ef0b0a88dbea20db09a@sayyoudo.info>
+X-SYD-Tracking: 68-273800-353-40-broadcast
+X-AntiAbuse: Originator 353.68.40.273800.broadcast
+Sender: sender@sayyoudo.info
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_71f09403c2d83ef0b0a88dbea20db09a"
+
+--b1_71f09403c2d83ef0b0a88dbea20db09a
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Guten Tag,
+
+wir freuen uns, Ihnen mitteilen zu können, dass Ihre Einladung bestätigt wurde und Sie am Online-Seminar „Wie verdient man 10.000 € in 30 Tagen“ heute KOSTENLOS teilnehmen können!
+
+Sie wurden von einem Ihrer Freunde bei Facebook eingeladen.
+
+>> KLICKEN SIE HIER, UM DAS GESAMTE WEBINAR ZU SEHEN
+
+Klicken Sie bitte nicht, wenn Sie kein zusätzliches Geld benötigen!
+
+Günther Ellermann
+
+
+
+
+
+
+
+
+
+
+
+Keine Informationen mehr: 
+
+
+
+To change your subscription options:
+http://sayyoudo.info/s/NDAqMzUzKjI3MzgwMCo2OCpicm9hZGNhc3Q=
+
+
+--b1_71f09403c2d83ef0b0a88dbea20db09a
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+<p>Guten Tag,</p>
+
+<p>wir freuen uns, Ihnen mitteilen zu k&ouml;nnen, dass Ihre Einladung best&auml;tigt wurde und Sie am Online-Seminar &bdquo;<strong>Wie verdient man 10.000 &euro; in 30 Tagen</strong>&ldquo; heute KOSTENLOS teilnehmen k&ouml;nnen!</p>
+
+<p>Sie wurden von einem Ihrer Freunde bei Facebook eingeladen.</p>
+
+<p>&gt;&gt; <strong><a href="http://bit.ly/2mhmksm">KLICKEN SIE HIER, UM DAS GESAMTE WEBINAR ZU SEHEN</a></strong></p>
+
+<p>Klicken Sie bitte nicht, wenn Sie kein zus&auml;tzliches Geld ben&ouml;tigen!</p>
+
+<p>G&uuml;nther Ellermann</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Keine Informationen mehr:&nbsp;</p><br /><br /><br /><br />To change your subscription options:<br /><a href="http://sayyoudo.info/s/NDAqMzUzKjI3MzgwMCo2OCpicm9hZGNhc3Q=">http://sayyoudo.info/s/NDAqMzUzKjI3MzgwMCo2OCpicm9hZGNhc3Q=</a><img border="0" width="1" height="1" src="http://sayyoudo.info/tracking.php?user=353&type=broadcast&id=68&sid=273800"  />
+
+
+
+--b1_71f09403c2d83ef0b0a88dbea20db09a--
+
+

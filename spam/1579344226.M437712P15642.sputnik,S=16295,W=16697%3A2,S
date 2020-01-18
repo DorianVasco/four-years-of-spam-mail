@@ -1,0 +1,402 @@
+Return-Path: <8023-526-625753748-2493-mail=dorianvasco.de@mail.getackstomo.club>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id C7D10C3033
+	for <mail@dorianvasco.de>; Tue,  6 Feb 2018 19:05:04 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 13.314
+X-Spam-Level: *************
+X-Spam-Status: Yes, score=13.314 required=5.5 tests=[DKIM_SIGNED=0.1,
+	FSL_BULK_SIG=0.001, HTML_IMAGE_RATIO_04=0.61, HTML_MESSAGE=0.001,
+	MIME_HTML_MOSTLY=0.001, RAZOR2_CF_RANGE_51_100=2.43,
+	RAZOR2_CHECK=1.729, RCVD_IN_PSBL=2.7, RDNS_NONE=1.274,
+	SPF_PASS=-0.001, T_DKIM_INVALID=0.01, T_REMOTE_IMAGE=0.01,
+	URIBL_ABUSE_SURBL=1.948, URIBL_BLOCKED=0.001, URIBL_DBL_SPAM=2.5]
+	autolearn=unavailable
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id uq95uRSSMSkK for <mail@dorianvasco.de>;
+	Tue,  6 Feb 2018 19:05:02 +0100 (CET)
+Received: from tempe.getackstomo.club (unknown [66.23.200.124])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 30C2BC301B
+	for <mail@dorianvasco.de>; Tue,  6 Feb 2018 19:05:02 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=getackstomo.club;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=zeropointenergy@getackstomo.club;
+ bh=x2YpHY2lTP1zEZKn228tKEbSrGY=;
+ b=agHjvpZP7X5QDHhhgI7leFwwgX8J8KnD6ckvUWaogrJLpe9iebtQCNHKt/37LNC1jyfJxXAIKEUb
+   0MIypHPo0yCdvLYeNhmywv9p70l2wQSdHcsbgXpAcl3aLYfq/b9RPRD+J6i8dWkQhTykEaSwlNzx
+   3grBF+7Tcp6YmrP/EWE=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=getackstomo.club;
+ b=gubikQaHzTiCcvLCNVMxX2oVBD+q+psnjOt6h58wGwrpEU6f0WburlJuQZe1a/Vg6Wwadot4FWTs
+   JQMGlhH1/oSVlIhQB3QHK+EyLx4nvuZSWDrQEDKQdu8Yka/NXM7iLDhbPVhrNSXoN46oj5JSdgyb
+   A3CEqxLyl44Mdt5dJWE=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="6b5594ccfb16cba54d3e932c75b4dd23"
+Date: Tue, 6 Feb 2018 19:04:58 +0100
+From: "Alternative Energy" <zeropointenergy@getackstomo.club>
+Reply-To: "Alternative Energy" <zeropointenergy@getackstomo.club>
+Subject: Why solar power is not a cheaper alternative
+To: <mail@dorianvasco.de>
+Message-ID: <kgvfaxx1p8zrf8wa-znhehp85xato5po2-254c3e94@getackstomo.club>
+
+--6b5594ccfb16cba54d3e932c75b4dd23
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+This email must be viewed in HTML mode.
+
+--6b5594ccfb16cba54d3e932c75b4dd23
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title></title>
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+	<style media="all" type="text/css">
+	</style>
+</head>
+<body><a href="http://getackstomo.club/5YJUJbSEb17IcMfVsnPn9wvGNOl6a4qjCMZk1DSK5q1FepPV"><img border="0" src="http://getackstomo.club/VFGC20PvgHdUbdFyEO92MT9jvdAKhkMfnZepDEEbqZGDXVA" /> </a>
+<table border="0" cellpadding="10" cellspacing="0" width="100%">
+	<tbody>
+		<tr>
+			<td style="background-color:#00A800;">
+			<table align="center" border="0" cellpadding="0" cellspacing="0" width="650">
+				<tbody>
+					<tr>
+						<td width="200"><span style=" background-color:#00A800;color: rgb(255, 255, 255);
+
+  font-family: brandon-text-wired, brandon-text, brandon-grotesque-1, brandon-grotesque-2, 'Gill Sans', HelveticaNeue-Bold, 'Helvetica Neue Bold', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif;
+  font-size: 30px;">USA TODAY</span></td>
+						<td align="center" style="
+  color: rgb(255, 255, 255);
+background-color:#00A800;
+  font-family: brandon-text-wired, brandon-text, brandon-grotesque-1, brandon-grotesque-2, 'Gill Sans', HelveticaNeue-Bold, 'Helvetica Neue Bold', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 22px;
+  " width="450">Tesla Says the future will be electric and Will Save Energy</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<table align="center" border="0" cellpadding="0" cellspacing="0" width="650">
+				<tbody>
+					<tr>
+						<td style="
+  border-bottom-color: rgb(0, 0, 0);
+  border-bottom-style: none;
+  border-bottom-width: 0px;
+  border-image-outset: 0px;
+  border-image-repeat: stretch;
+  border-image-slice: 100%;
+  border-image-source: none;
+  border-image-width: 1;
+  border-left-color: rgb(0, 0, 0);
+  border-left-style: none;
+  border-left-width: 0px;
+  border-right-color: rgba(0, 0, 0, 0.180392);
+  border-right-style: solid;
+  border-right-width: 1px;
+  border-top-color: rgb(0, 0, 0);
+  border-top-style: none;
+  border-top-width: 0px;
+  color: rgb(0, 0, 0);
+ font-family: ff-oxide-solid-web, HelveticaNeue-Bold, 'Helvetica Neue Bold', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 16px;
+ 
+  text-align: center;
+" width="200">BUSINESS</td>
+						<td style="
+  border-bottom-color: rgb(0, 0, 0);
+  border-bottom-style: none;
+  border-bottom-width: 0px;
+  border-image-outset: 0px;
+  border-image-repeat: stretch;
+  border-image-slice: 100%;
+  border-image-source: none;
+  border-image-width: 1;
+  border-left-color: rgb(0, 0, 0);
+  border-left-style: none;
+  border-left-width: 0px;
+  border-right-color: rgba(0, 0, 0, 0.180392);
+  border-right-style: solid;
+  border-right-width: 1px;
+  border-top-color: rgb(0, 0, 0);
+  border-top-style: none;
+  border-top-width: 0px;
+  color: rgb(0, 0, 0);
+ font-family: ff-oxide-solid-web, HelveticaNeue-Bold, 'Helvetica Neue Bold', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 16px;
+ 
+  text-align: center;
+" width="400">DESIGN</td>
+						<td style="
+  border-bottom-color: rgb(0, 0, 0);
+  border-bottom-style: none;
+  border-bottom-width: 0px;
+  border-image-outset: 0px;
+  border-image-repeat: stretch;
+  border-image-slice: 100%;
+  border-image-source: none;
+  border-image-width: 1;
+  border-left-color: rgb(0, 0, 0);
+  border-left-style: none;
+  border-left-width: 0px;
+  border-right-color: rgba(0, 0, 0, 0.180392);
+  border-right-style: solid;
+  border-right-width: 1px;
+  border-top-color: rgb(0, 0, 0);
+  border-top-style: none;
+  border-top-width: 0px;
+  color: rgb(0, 0, 0);
+ font-family: ff-oxide-solid-web, HelveticaNeue-Bold, 'Helvetica Neue Bold', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 16px;
+ 
+  text-align: center;
+" width="400">ENTERTAINMENT</td>
+						<td style="
+  border-bottom-color: rgb(0, 0, 0);
+  border-bottom-style: none;
+  border-bottom-width: 0px;
+  border-image-outset: 0px;
+  border-image-repeat: stretch;
+  border-image-slice: 100%;
+  border-image-source: none;
+  border-image-width: 1;
+  border-left-color: rgb(0, 0, 0);
+  border-left-style: none;
+  border-left-width: 0px;
+  border-right-color: rgba(0, 0, 0, 0.180392);
+  border-right-style: solid;
+  border-right-width: 1px;
+  border-top-color: rgb(0, 0, 0);
+  border-top-style: none;
+  border-top-width: 0px;
+  color: rgb(0, 0, 0);
+ font-family: ff-oxide-solid-web, HelveticaNeue-Bold, 'Helvetica Neue Bold', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 16px;
+ 
+  text-align: center;
+" width="400">GEAR</td>
+						<td style="
+  color: rgb(0, 0, 0);
+ font-family: ff-oxide-solid-web, HelveticaNeue-Bold, 'Helvetica Neue Bold', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 16px;
+ 
+  text-align: center;
+" width="400">SCIENCE</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:#f7f7f7;">&nbsp;</td>
+		</tr>
+		<tr>
+			<td>
+			<table border="0" cellpadding="10" cellspacing="0" style="margin:0 auto;" width="650">
+				<tbody>
+					<tr>
+						<td style="
+  color: rgba(0, 0, 0, 0.6);
+  font-family: ff-oxide-solid-web, HelveticaNeue-Bold, 'Helvetica Neue Bold', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: normal;
+  letter-spacing: 0.800000011920929px;
+  line-height: 12px;
+  text-transform: uppercase;
+">CADE METZ 06 February</td>
+					</tr>
+					<tr>
+						<td style="
+  color: #000091;
+  font-family: ambroise-francois-std, 'Bodoni 72', Didot, 'HoeÂ­fler Text', serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: normal;
+  letter-spacing: 0.479999989271164px;
+  line-height: 55px;
+  text-transform: uppercase;
+ "><a href="http://getackstomo.club/7TV4U9zf1M-68uXyrzDyuIUDUz4QnSJr9DWXGidFP3IpgKJD" style="color: #000091;text-decoration:none;">Tesla expands from electric cars into homes</a></td>
+					</tr>
+					<tr>
+						<td>
+						<table border="0" cellpadding="10" cellspacing="0" width="600">
+							<tbody>
+								<tr>
+									<td style="border-bottom:thick solid #000; padding: 0 0 10px 0 ;"><a href="http://getackstomo.club/7TV4U9zf1M-68uXyrzDyuIUDUz4QnSJr9DWXGidFP3IpgKJD"><img alt=" Install this to cut power bill in half - Tesla" height="399" src="http://getackstomo.club/dfa8baace7e59956fc.jpg" width="600" /></a></td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+					<tr>
+						<td style="
+  color: rgb(0, 0, 0);
+  font-family: 'Exchange SSm 4r', Georgia, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 28px;">
+						<p style="color: rgb(0, 0, 0);">Efficiency Through Technology</p>
+
+						<p>- Tesla just announced a device that will cut your house&#39;s electric consumption to nothing</p>
+
+						<p><em>&quot;The future of modern electricity has arrived&quot;</em> - Phillip Gross</p>
+
+						<p><a href="http://getackstomo.club/7TV4U9zf1M-68uXyrzDyuIUDUz4QnSJr9DWXGidFP3IpgKJD" style="color:#0000D2;"><b>Get your Device and start saving in electricity costs </b></a></p>
+
+						<p>Adaptable to any household appliances - <a href="http://getackstomo.club/7TV4U9zf1M-68uXyrzDyuIUDUz4QnSJr9DWXGidFP3IpgKJD" style="color:#0000D2;"><b>Here Is Yours To Use On Your Home. </b></a></p>
+
+						<p>But hurry. Our stock is limited!</p>
+						</td>
+					</tr>
+					<tr>
+						<td style="text-align: center;"><a href="http://getackstomo.club/7TV4U9zf1M-68uXyrzDyuIUDUz4QnSJr9DWXGidFP3IpgKJD" style="
+  color: rgb(255, 255, 255);
+  background-color:#00A800;
+  font-family: brandon-text-wired, brandon-text, brandon-grotesque-1, brandon-grotesque-2, 'Gill Sans', HelveticaNeue-Bold, 'Helvetica Neue Bold', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: bold;
+  line-height: 28px;
+  text-decoration:none;
+  padding:15px;
+  ">Get-in on the First Ever - Test Trials</a></td>
+					</tr>
+					<tr>
+						<td><br />
+						<br />
+						<br />
+						<br />
+						_________________________________________________________________________________ _________________________________________________________________________________<br />
+						<br />
+						<br />
+						<br />
+						<br />
+						&nbsp;
+						<div align="center" id="6px" name="13px" title=""><br />
+						<br />
+						<a href="http://getackstomo.club/kwSaTNrJKvxnat9HOvT1qicyN8s8IQVRPqE7IcsUqd6QniPh"><img alt="To Unsub-scribe this email visit here" src="http://getackstomo.club/693c9fbc603600dfe6.jpg" /> </a></div>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="650">
+	<tbody>
+		<tr>
+			<td style="background-color:#fff;"><br />
+			<br />
+			<br />
+			<br />
+			<br />
+			&nbsp;
+			<p align="center" style="
+color:#fff;
+  font-family: ff-oxide-solid-web, HelveticaNeue-Bold, 'Helvetica Neue Bold', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: normal;
+  letter-spacing: 0.800000011920929px;
+  line-height: 12px;
+  text-transform: lower;
+"><!--	
+
+
+
+
+ and Warren Fuchs, were part of "frantic efforts" to make 10% to 12% enriched uranium 235, kn as the code name "tuballoy tetroxide", with tight security and fast approvals for supplies and materials. The population of Oak Ridge soon expanded well beyond 
+The idea of locating Project Y at Oak Ridge was considered, but in the end it was decided that it should be in a remote location. On Oppenheimer's recommendation, the search for a suitable site was narrowed to the vicinity of Albuquerque, New Mexico, w Oppenheimer owned a ranch. In October 1942, Major John H. Dudley of the Manhattan Project was sent to survey the area, and he recommended a site near Jemez Springs, New Mexico. On 16 November, Oppenheimer, Groves, Dudley and others toured the site. Oppenheimer feared that the high cliffs surrounding the site would make his people feel claustrophobic, while the engineers were concerned with the possibility of flooding. The party then moved on to the vicinity of the Los Alamos Ranch School. Oppenheimer was impressed and expressed a strong preference for the site, citing its natural beauty and views of the Sangre de Cristo Mountains, which, it was hoped, would inspire those who would work on the project. The engineers were concerned about
+  the poor access ro, and whether the water supply would be equate, but otherwise felt that it was ideal.
+A group of men in shirtsleeves sitting on folding chairs
+Physicists at a Manhattan District-sponsored colloquium at the Los Alamos Laboratory on the Super in April 1946. In the front row are Norris Brbury, John Manley, Enrico Fermi and J. M. B. Kellogg. Robert Oppenheimer, in dark coat, is behind Manley; to Oppenheimer's left is Richard Feynman. The Army officer on the left is Colonel Oliver Haywood.
+
+Patterson approved the acquisition of the site on 25 November 1942, authorizing 440,000 for the purchase of the site of 54,000 acres (22,000 ha), all but 8,900 acres (3,600 ha) of which were alrey owned by the Federal Government. Secretary of Agriculture Claude R. Wickard granted use of some 45,100 acres (18,300 ha) of United States Forest Service land to the War Department "for so long as the military necessity continues". The need for land, for a new ro, and later for a right of way for a 25-mile (40 km) power line, eventually brought wartime land purchases to 45,737 acres (18,509.1 ha), but  414,971 was spent. Construction was contracted to the M. M. Sundt Company of Tucson, Arizona, with Willard C. Kruger and Associates of Santa Fe, New Mexico, as architect and engineer. Work commenced in December 1942. Groves initially allocated 300,000 for construction, three times Oppenheimer's estimate, with a planned completion date of 15 March 1943. It soon became clear that the scope of Pr
+ oject Y was greater than expected, and by the time Sundt finished on 30 November 1943, over 7 million h been spent.
+Map of Los Alamos site, New Mexico, 1943–45
+
+Because it was secret, Los Alamos was referred to as "Site Y" or "the Hill". Birth certificates of babies born in Los Alamos during the war listed their place of birth as PO Box 1663 in Santa Fe. Initially Los Alamos was to have been a military laboratory with Oppenheimer and other researchers commissioned into the Army. Oppenheimer went so far as to order himself a lieutenant colonel's uni, but two key physicists, Robert Bacher and Isidor Rabi, balked at the idea. Conant, Groves and Oppenheimer then devised a compromise wby the laboratory was operated by the University of California under contract to the War Department.
+Chicago
+Main article: Metallurgical Laboratory
+
+
+
+--></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<center><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+&nbsp;
+<p align="center"><a href="http://getackstomo.club/72alVSNGie5byS3ozDXi0kBFFBBnJT8kyR00DyTi8xKDr0xm"><img src="http://getackstomo.club/48f5f6d638e27c84ea.jpg" /></a></p>
+</center>
+</body>
+</html>
+
+--6b5594ccfb16cba54d3e932c75b4dd23--
+

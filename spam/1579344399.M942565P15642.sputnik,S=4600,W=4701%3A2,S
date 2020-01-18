@@ -1,0 +1,101 @@
+Return-Path: <karolinarhenkcaesser@atsiysports.com>
+Delivered-To: mail@elementk.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 0B7FCD317C
+	for <mail@elementk.de>; Wed,  6 Mar 2019 20:17:31 +0100 (CET)
+Authentication-Results: v22014122474822114.stilfilm.com; dkim=pass
+	reason="1024-bit key; insecure key"
+	header.d=atsiysports.com header.i=karolinarhenkcaesser@atsiysports.com
+	header.b=IXKPq3Kv; dkim-adsp=pass; dkim-atps=neutral
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 10.077
+X-Spam-Level: **********
+X-Spam-Status: Yes, score=10.077 required=5.5 tests=[BAYES_99=3.5,
+	BAYES_999=0.2, DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	HTML_IMAGE_ONLY_12=2.059, HTML_MESSAGE=0.001,
+	HTML_SHORT_LINK_IMG_2=0.001, SPF_SOFTFAIL=0.665,
+	URIBL_ABUSE_SURBL=1.25, URIBL_BLOCKED=0.001, URIBL_DBL_SPAM=2.5]
+	autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id LcTlXyYQI2W1 for <mail@elementk.de>;
+	Wed,  6 Mar 2019 20:17:29 +0100 (CET)
+Received: from ordinary.atsiysports.com (ordinary.deloitteab.com [193.39.187.64])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 44D8EC420E
+	for <mail@elementk.de>; Wed,  6 Mar 2019 20:17:29 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=atsiysports.com;
+ h=Date:List-Unsubscribe:Message-ID:From:MIME-Version:To:Subject:Content-Type:Content-Transfer-Encoding; i=karolinarhenkcaesser@atsiysports.com;
+ bh=WCyMpypsSe34vmHV+fi/J1hQn8s=;
+ b=IXKPq3KvlBqIfiXXRLqZqHc1Vy5DfA1PFPhzTMytkBTEVrAwIkNzxGz0Ob+dDQeG3t/W+ws6Q8f8
+   ayAXY6oaaEU+lDgBQTouNycoVLF86ZqfI8gbGEZ0cSBBWQFN5sscYCDTzS3GLSrOMRZczqJU1eqR
+   JjA6w4tZxpFpIgQ68C0=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=atsiysports.com;
+ b=i/QPHuItwn00nYwhuDgQ0O8z61rbPz2aIc5CZSrMpYUprtj1gI+zszNw94oqHlyp47pLlPcAFKQz
+   eS6LR+lq+nMjX/ACjoHsipHuAdFqKqeuJdZIoupa2agHGJDdXuoDHvwVVzNuhSwyljRakKAtUXA6
+   FwIvyXMboodrx3u6Jgk=;
+Date: Wed, 6 Mar 2019 20:17:28 +0100
+X-Report-Abuse:  <http://atsiysports.com/aa.php?a=925198067080h82qr01b8q8dcrd13wjc6qjd>
+List-Unsubscribe:  <http://atsiysports.com/ub.php?b=925198067080h82qr01b8q8dcrd13wjc6qjd>
+Message-ID: <fkfwhtogtttu.btfnqbdnmyibetbglspnwfogassnl@xnw.atsiysports.com>
+From: =?UTF-8?Q?Karolina_Esser?= <karolinarhenkcaesser@atsiysports.com>
+MIME-Version: 1.0
+To:  <mail@elementk.de>
+Subject: =?UTF-8?Q?Geradehaltung,_aber_wie=3F_Geradehalter_f=C3=BCr_jedes_Alter?=
+Precedence: bulk
+X-Mailer: Rmail
+Content-Type: multipart/alternative; boundary=b1_3yww795omo-vPOrmzKEi; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+--b1_3yww795omo-vPOrmzKEi
+Content-Type: text/plain; format=flowed; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+
+=0D
+Du richtest dich damit GARANTIERT Geradehaltung mit der Bandage:=0D
+=0D
+http://a8.atsiysports.com=0D
+=0D
+=0D
+=0D
+Abmelden hier:=0D
+http://atsiysports.com/ub.php?sr=3D925198067080h82qr01b8q8dcrd13wjc6qjd=0D
+=0D
+F=C3=BCr Sitzarbeit, PC: Magnettherapie-Bandage f=C3=BCr gerade R=C3=BCcken=
+=0D
+
+
+--b1_3yww795omo-vPOrmzKEi
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+
+<!DOCTYPE html>=0D
+<html>=0D
+=0D
+<head>=0D
+</head><body>=0D
+Du richtest dich damit GARANTIERT Geradehaltung mit der Bandage<br /><a sty=
+le=3D"color:purple; border-left:dotted 2px #007700; margin-top:1px; font-va=
+riant:inherit; " href=3D"http://a8.atsiysports.com/nkw:925198067080h82qr01b=
+8q8dcrd13wjc6qjd"><img src=3D"http://bsp.atsiysports.com/00.jpg" alt=3D"GEG=
+EN KR=C3=9CMMEN R=C3=9CCKEN: Geradehalter f=C3=BCr den gerade R=C3=BCcken" =
+/></a>=0D
+<br /><a href=3D"http://a8.atsiysports.com/qtb:925198067080h82qr01b8q8dcrd1=
+3wjc6qjd" style=3D"border-right:dotted 1px #000000; font-variant:normal; ma=
+rgin-right:1px; ">R=C3=BCckenschmerzen? Trage med. R=C3=BCckenbandage, Schm=
+erzen schnell weg</a>=0D
+<br /><br /><br /><br />St=C3=BCtzt den R=C3=BCcken: du bleibst bei Sitzarb=
+eit, Sport gerade<br /><br /><a href=3D"http://atsiysports.com/ub.php?t=3D9=
+25198067080h82qr01b8q8dcrd13wjc6qjd" style=3D" background-color:#ffffff; fo=
+nt-size:12px;">Bitte um L=C3=B6schen der eingetragenen E-Mail-Adresse aus d=
+em Verteiler</a>=0D
+<img src=3D"http://atsiysports.com/ob.php?sr=3D925198067080h82qr01b8q8dcrd1=
+3wjc6qjd" alt=3D"Geradehaltung, aber wie? Geradehalter f=C3=BCr jedes Alter=
+" />=0D
+Falsche Haltung macht krank - behandele dich mit Magnetbandage=0D
+</body>=0D
+</html>=
+
+--b1_3yww795omo-vPOrmzKEi--

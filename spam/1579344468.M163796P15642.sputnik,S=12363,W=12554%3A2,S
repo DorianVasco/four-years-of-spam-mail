@@ -1,0 +1,191 @@
+Return-Path: <15557-526-625753748-5461-mail=dorianvasco.de@mail.distogain.us>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 04EA8D24B7
+	for <mail@dorianvasco.de>; Wed, 10 Jul 2019 12:21:48 +0200 (CEST)
+Authentication-Results: v22014122474822114.stilfilm.com; dkim=fail
+	reason="verification failed; insecure key"
+	header.d=distogain.us header.i=neuropathytreatment@distogain.us
+	header.b=U6/NjBht; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 10.138
+X-Spam-Level: **********
+X-Spam-Status: Yes, score=10.138 required=5.5 tests=[BAYES_50=0.8,
+	DIGEST_MULTIPLE=0.293, DKIM_INVALID=0.1, DKIM_SIGNED=0.1,
+	FSL_BULK_SIG=0.001, HTML_MESSAGE=0.001, MIME_HTML_MOSTLY=0.1,
+	MPART_ALT_DIFF=0.79, PYZOR_CHECK=1.392, RAZOR2_CF_RANGE_51_100=1.886,
+	RAZOR2_CHECK=0.922, RDNS_NONE=0.793, SPF_HELO_NONE=0.001,
+	SPF_PASS=-0.001, T_REMOTE_IMAGE=0.01, URIBL_ABUSE_SURBL=1.25,
+	URIBL_BLACK=1.7] autolearn=spam
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id UZzGSbO3u4hu for <mail@dorianvasco.de>;
+	Wed, 10 Jul 2019 12:21:45 +0200 (CEST)
+Received: from rosa.distogain.us (unknown [162.244.10.211])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id E2DAAD24B2
+	for <mail@dorianvasco.de>; Wed, 10 Jul 2019 12:21:42 +0200 (CEST)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=distogain.us;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=neuropathytreatment@distogain.us;
+ bh=rcTTe9aiQbzpvgZ2xGro94AjZHI=;
+ b=U6/NjBhtWgmdmaxgL8RXGa3deY0SvR09S33WJ/KxEMU/CiXehjDo+h9zEyctaavIqNA9gv/5NgtQ
+   +rpLImGjSyDA/dI49uXKaLVH0m4ncm3ezjb4TaR12bLmlo17Y5yi8QtzJDO1pjIXm4BCEhOMJ5QG
+   fIIBWfiBbNjv6nIxKnA=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=distogain.us;
+ b=SEqEzP5XEeYBWl3JWrs1J/o1WrU6XHwfb28mw0DHPUFyfetuv2q7WA+/6bE5es0kJcudX13odfoA
+   FtZf/QtOPF1bPE8lM5XBrC2ESI1h7pAMdWV41jshz6x8UK1nxmCmqhPEdTTBAC+I+78p572SnaiR
+   XAXIJnRFb5pV9vtsfqM=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="a479e62600decab21f45a3e907b23611"
+Date: Wed, 10 Jul 2019 12:21:01 +0200
+From: "Peripheral Neuropathy Treatment" <neuropathytreatment@distogain.us>
+Reply-To: "Neuropathy Pain Treatment" <neuropathytreatment@distogain.us>
+Subject: Doctors Baffled By This Nerve Pain Breakthrough
+To: <mail@dorianvasco.de>
+Message-ID: <jr8vxl7xk7vq36vr-3wfb3r0z6ez47xpb-254c3e94@distogain.us>
+
+--a479e62600decab21f45a3e907b23611
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+This email must be viewed in HTML mode.
+
+--a479e62600decab21f45a3e907b23611
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title></title>
+	<style media="all" type="text/css">btn-group:after,.btn-group-vertical>.btn-group:before,.btn-toolbar:after,.btn-toolbar:before,.clearfix:after,.clearfix:before,.container-fluid:after,.container-fluid:before,.container:after,.container:before,.dl-horizontal dd:after,.dl-horizontal dd:before,.form-horizontal .form-group:after,.form-horizontal .form-group:before,.modal-footer:after,.modal-footer:before,.modal-header:after,.modal-header:before,.nav:after,.nav:before,.navbar-collapse:after,.navbar-collapse:before,.navbar-header:after,.navbar-header:before,.navbar:after,.navbar:before,.pager:after,.pager:before,.panel-body:after,.panel-body:before,.row:after,.row:before{display:table;content:" "}.btn-group-vertical>.btn-group:after,.btn-toolbar:after,.clearfix:after,.container-fluid:after,.container:after,.dl-horizontal dd:after,.form-horizontal .form-group:after,.modal-footer:after,.modal-header:after,.nav:after,.navbar-collapse:after,.navbar-header:after,.navbar:after,.pager:after,.pan
+ el-body:after,.row:after{clear:both}.center-block{display:block;margin-right:auto;margin-left:auto}.pull-right{float:right!important}.pull-left{float:left!important}.hide{display:none!important}.show{display:block!important}
+	</style>
+</head>
+<body><a href="http://distogain.us/1g5m8ST8rNYqzPVrG05jAzsBzZEpDO8FK33eqYa0PqGO4W4"><img border="0" src="http://distogain.us/ReH_0dUi7WwLS0qAYABq87p0g888Fedt1dd-BjHORXVa11cn" /> </a>
+<center>
+<div align="center">
+<form action="" method="post" style="margin-left:auto;margin-right:auto;
+	max-width: 680px;background: #FFFFFF;
+	padding: 20px 20px 20px 20px;
+	font: 15px Segoe UI Light, sans-serif;
+	color: #666;">
+<h1 style="font-size: 30px Segoe UI Light, sans-serif;
+			padding: 10px 10px 10px 20px;
+			display: block;
+			background: #C7A55B;
+			border-bottom: 1px solid #B8DDFF;
+			margin: -20px -20px 15px;"><b style="font-size: 32px Segoe UI Light; color:white;">Nerve Pain - Secret Called &quot;Miracle&quot;<br />
+(Medical Breakthrough) </b> <a href="http://distogain.us/r0L9c2P4I-3ywoI6K2BZxl2XIgPYv61g0ppzfIbLhLQBMVXf" style="font: 24px Segoe UI Light, sans-serif;display: block;
+				text-decoration: none;
+				width: 400px;
+				height: 30px;
+				background: #235B12;
+				padding: 10px;
+border: solid 2px #4D4E53;
+				border-radius: 5px;
+				color: white;
+				font-weight: bold;" target="_blank">Check out this weird &quot;Miracle&quot;</a></h1>
+</form>
+</div>
+</center>
+
+<div align="center" style="">
+<p align="center" style="font-size:18px; width: 600px; ">If you or a loved one suffer from neuropathy, you will need to watch the controversial video that will expose to you the <strong>secret to permanently</strong> <strong>and naturally</strong> curing neuropathy in <strong>as little as 7 days.</strong></p>
+
+<p align="center" style="font-size:18px; width: 600px; ">The <a href="http://distogain.us/r0L9c2P4I-3ywoI6K2BZxl2XIgPYv61g0ppzfIbLhLQBMVXf"><b>short presentation</b></a><b> </b>below will reveal to you a little known neuropathy curing secret that has travelled over thousands of miles, to not only improving your current <strong>nerve pain symptoms,</strong><br />
+but <strong>completely eradicating them...permanently.</strong></p>
+
+<p align="center" style="font-size:18px; width: 600px; "><a href="http://distogain.us/r0L9c2P4I-3ywoI6K2BZxl2XIgPYv61g0ppzfIbLhLQBMVXf" style="font-size:28px; "><b>==&gt; Do THIS to Cure Your Neuropathy</b></a><br />
+(a guaranteed PROVEN solution that works)</p>
+
+<center><a href="http://distogain.us/r0L9c2P4I-3ywoI6K2BZxl2XIgPYv61g0ppzfIbLhLQBMVXf"><img src="http://distogain.us/eb30e6ece9fb481e7d.jpg" /></a></center>
+
+<p align="center" style="font-size:22px; width: 600px; ">To your success!</p>
+
+<center>
+<div style="width:500px">
+<hr /></div>
+</center>
+
+<center><br />
+<br />
+<br />
+<br />
+<br />
+&nbsp;
+<p align="center" style="font-size:14px; width: 600px; "><span style="font-size:12px;"><a href="http://distogain.us/JUFwBOa74jyWVqSnPXQbFtiYnt3j17CSCzPUmFg2DN4J0n83"><img alt="Un_subscribe Here !!" src="http://distogain.us/e7a4761f0a24c7ffb8.jpg" style="font-size:15px;" /></a> </span></p>
+</center>
+
+<p>&nbsp;</p>
+</div>
+
+<table align="center" class="dm">
+	<tbody>
+		<tr>
+			<td colspan="2" style="background-color:#ffffff"><br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<span style="color:#ffffff; font-family:constantia,lucida bright,dejavu serif,georgia,serif; font-size:14px">October 1424. Anne Neville was a literary patron in her own right, also receiving a dedication in a copy of Scrope&#39;s translated Othea. On her death in 1480, she left many books in her will.[note 12] Scholars generally agree that Buckingham and Anne had twelve children, consisting of seven sons and five daughters. Sources conflict over the precise details of the Staffords&#39; progeny.[note 13] The antiquarian, I. W. Dunham, writing in 1907, listed them as Humphrey, Henry, John, Anne (married Aubrey de Vere), Joana (married Viscount Beaumont before 1461), Elizabeth, Margaret (born about 1435, married Robert<br />
+			<br />
+			Dinham),[note 14] and Katherine (married John Talbot before 1467). [note 15] James Tait lists the daughters as Anne, Joanna, Elizabeth, Margaret and Catherine and suggests that Elizabeth and Margaret never married.[note 16] Rawcliffe gives the following as dates of birth and death for three of the daughters: Anne (1446&ndash;1472), Joan (1442&ndash;1484) and Katherine (1437&ndash;1476). Edward and the twins, George and William, died young. The seventh son has gone unremarked in the sources. Scanned drawing of the stafford knot The Stafford knot, the cognizance of the earls of Stafford and dukes of Buckingham, worn by their retainers to indicate their allegiance<br />
+			<br />
+			The marriages Buckingham arranged for his children were structured around strengthening his ties to the Lancastrian royal family. Of particular importance were the marriages of two of his sons, Humphrey and Henry. They married into the Beaufort family, which was descended from the illegitimate children of John of Gaunt and thus of royal blood. There was also, about 1450, discussion regarding a proposal for one of Buckingham&#39;s daughters to marry the Dauphin of France (subsequently Louis XI).[note 17] Had it proceeded, it would have again linked the French Crown with the Lancastrian regime.<br />
+			<br />
+			Buckingham&#39;s eldest son, Humphrey, married Margaret Beaufort. She was the daughter of Edmund Beaufort, Duke of Somerset, and Eleanor Beauchamp. Margaret and Humphrey&#39;s son was Buckingham&#39;s eventual heir. A second link to the Beaufort family was between Buckingham&#39;s second son, Sir Henry Stafford (c. 1425&ndash;1471), who became the third husband of Lady Margaret Beaufort, daughter of John Beaufort, Duke of Somerset, and Margaret Beauchamp. Margaret Beaufort had previously been married to Edmund Tudor, the eldest half-brother of Henry VI, and had given birth to the future King Henry VII two months after Edmund&#39;s death. She and Henry were childless. Buckingham&#39;s third surviving son, John (died 8 May 1473) married Constance Green of Drayton, who had previously been the duke&#39;s ward. Humphrey Stafford assigned them the manor of Newton Blossomville at the time of their marriage. John was created Earl of Wiltshire in 1470. Colour image of Shakespeare&#39;s fir
+ st folio The first page of the First Folio, illustrating Henry VI, Part 2, with a subtitle emphasising Buckingham&#39;s death<br />
+			<br />
+			Buckingham arranged good but costly marriages for three of his daughters. Anne married Aubrey de Vere, son of John de Vere, Earl of Oxford. Their 1452 marriage cost Buckingham 2,300 marks; he was slow to pay, and still owed Oxford over &pound;440 seven years later. In 1452, Joan married William Beaumont, heir of Viscount Beaumont. Katherine married John Talbot, Earl of Shrewsbury six years later. Buckingham had apparently promised to give them &pound;1,000 but died before acting on the promise. Cultural references and portrayals Buckingham was depicted, during his son&#39;s lifetime, &quot;mounted in battle array&quot;&mdash;showing him during the 1436 campaign against Burgundy&mdash;in the pictorial genealogy, the Beauchamp Pageant. [note 18]<br />
+			<br />
+			T. L. Lustig has suggested that Thomas Malory, in his Morte d&#39;Arthur, based his character Gawaine on Buckingham. Lustig suggests that Malory may have viewed the Duke as being &quot;peacemaker and warlord, warrior and judge&quot;&mdash;qualities which the writer also ascribed to his Arthurian character. Buckingham appears in Shakespeare&#39;s Henry VI, Part 2 (c. 1591), in which his character conspires in the downfall and disgrace of Eleanor, Duchess of Gloucester. According to Martin Wiggins of the Shakespeare Institute, Buckingham may be the eponymous character of the early-17th-century play, Duke Humphrey, which is now lost. </span></td>
+		</tr>
+	</tbody>
+</table>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+&nbsp;
+<p align="center"><a href="http://distogain.us/O63sNw-Y8EpsBZrNXMSLp-Fd8S5544US2Dmiuf52IPe-7D26"><img src="http://distogain.us/b3f3f095ad3f99287d.jpg" /></a></p>
+</body>
+</html>
+
+--a479e62600decab21f45a3e907b23611--
+

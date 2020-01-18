@@ -1,0 +1,101 @@
+Return-Path: <volkeredyfhsk@sareefy.com>
+Delivered-To: mail@elementk.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 5C056D3209
+	for <mail@elementk.de>; Sat, 30 Mar 2019 16:57:08 +0100 (CET)
+Authentication-Results: v22014122474822114.stilfilm.com; dkim=pass
+	reason="1024-bit key; insecure key"
+	header.d=sareefy.com header.i=volkeredyfhsk@sareefy.com
+	header.b=gl7pLhVv; dkim-adsp=pass; dkim-atps=neutral
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 14.946
+X-Spam-Level: **************
+X-Spam-Status: Yes, score=14.946 required=5.5 tests=[BAYES_99=3.5,
+	BAYES_999=0.2, DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	HS_HEADER_443=4, HTML_IMAGE_ONLY_16=1.092, HTML_MESSAGE=0.001,
+	HTML_SHORT_LINK_IMG_2=0.001, RDNS_NONE=0.793, SPF_PASS=-0.001,
+	T_REMOTE_IMAGE=0.01, URIBL_ABUSE_SURBL=1.25, URIBL_BLACK=1.7,
+	URIBL_DBL_SPAM=2.5] autolearn=spam
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 4I1YIFQqA3-H for <mail@elementk.de>;
+	Sat, 30 Mar 2019 16:57:02 +0100 (CET)
+Received: from delicate.sareefy.com (unknown [185.149.233.191])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 9C16ED3207
+	for <mail@elementk.de>; Sat, 30 Mar 2019 16:56:57 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=sareefy.com;
+ h=Date:List-Unsubscribe:Message-ID:Subject:MIME-Version:To:From:Content-Type:Content-Transfer-Encoding; i=volkeredyfhsk@sareefy.com;
+ bh=7Sjp4kmw9TpP5fT2xPBUqIECYr8=;
+ b=gl7pLhVvXw2Pk14QXdPI2Wpg+1Eao3LI6aXe6l6FTC1ktwqIW9KfwG19N+CPcL7uRiP619fv6FN0
+   1ao/SAKoUM3aHfxBf7oH399vPXRqO7gE49dEs85IcKnZNl9hhoup+NkHsaG6T5R6KNL9LaFpoGCe
+   PjiZLhoGWne9TDuX76M=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=sareefy.com;
+ b=CJYwP2siwo1szCq8uuVBK6ink8qjQM7SCLPMWajS+LrLFLbJNikIeiL0EGYFdsBtNwTRfBzkbQZw
+   QuEILdQW/TlHGid2dDFBdHr2vcbLeRWejf3XdTtlNA4cfPWl2L9n7O6riZvmD7vEOk/aHVZaX2bH
+   +ApG6qLxwNvR8sRM6+Y=;
+Date: Sat, 30 Mar 2019 16:56:00 +0100
+List-Unsubscribe:  <http://sareefy.com/ub.php?b=5av212361080h82qr01b8q8dcrd13wjc6jk4>
+Message-ID: <kteiuljklwkevnjqhthgclk@cqrcr.sareefy.com>
+Subject: =?UTF-8?Q?TRAUM_DEINES_GARTENS:_60_m_langer_Schlauch,_n=C3=BCtzliche_Spr=C3=BChpistole?=
+X-Report-Abuse:  <http://sareefy.com/aa.php?a=5av212361080h82qr01b8q8dcrd13wjc6jk4>
+MIME-Version: 1.0
+To:  <mail@elementk.de>
+From: =?UTF-8?Q?Volker?= <volkeredyfhsk@sareefy.com>
+X-Mailer: oemPro
+Content-Type: multipart/alternative; boundary=b1_mz3k94ntkkmmqvb-u06EyWu; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+--b1_mz3k94ntkkmmqvb-u06EyWu
+Content-Type: text/plain; format=flowed; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+
+=0D
+NEUESTE Gartenschlauch-Entwicklung: 60 m lang, mit gratis Druckd=C3=BCse:=0D
+=0D
+http://s3z4.sareefy.com=0D
+=0D
+=0D
+=0D
+Hier k=C3=B6nnen Sie sich abmelden:=0D
+http://sareefy.com/ub.php?bp=3D5av212361080h82qr01b8q8dcrd13wjc6jk4=0D
+=0D
+Endlich erreichbar: Hochdruck-Gartenschlauch, zur Wagenw=C3=A4sche auch, 60=
+ m lang=0D
+
+
+--b1_mz3k94ntkkmmqvb-u06EyWu
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+
+<!DOCTYPE html>=0D
+<html>=0D
+=0D
+<head>=0D
+</head><body>=0D
+<div style=3D"text-align:center;">=0D
+NEUESTE Gartenschlauch-Entwicklung: 60 m lang, mit gratis Druckd=C3=BCse<br=
+ /><a style=3D"color:#000000; " href=3D"http://s3z4.sareefy.com/ykc:5av2123=
+61080h82qr01b8q8dcrd13wjc6jk4"><img alt=3D"Ei: 60 m langer sich steckender =
+Gartenschlauch, super zur Wagenw=C3=A4sche" src=3D"http://rg.sareefy.com/00=
+.jpg" style=3D"font-family:; background-color:#ffffff; border-bottom-style:=
+dotted; border-top-style:none; " /></a>=0D
+<br /><a href=3D"http://s3z4.sareefy.com/mdj:5av212361080h82qr01b8q8dcrd13w=
+jc6jk4">Flexible Gartenschlauch, zur Wagenw=C3=A4sche =E2=80=93 verwirrt si=
+ch nicht, knickt nicht, 60m</a>=0D
+<br /><br /><br /><br />Bew=C3=A4ssere, reinige, wasche Auto: 60m Schlauch,=
+ jetzt mit n=C3=BCtzlichem Geschenk<br /><br /><a href=3D"http://sareefy.co=
+m/ub.php?q9=3D5av212361080h82qr01b8q8dcrd13wjc6jk4" style=3D" background-co=
+lor:#ffffff; font-size:12px;">Hier a bmelden</a></div><br />Neuigkeit: 60 m=
+ langer Gartenschlauch, zur Bew=C3=A4sserung, Wagenw=C3=A4sche ist super=0D
+<img alt=3D"NAGELNEUE Gartenschlauch: 60 m lang, extra stark, mit extra Dru=
+ckd=C3=BCse" src=3D"http://sareefy.com/ob.php?bp=3D5av212361080h82qr01b8q8d=
+crd13wjc6jk4" />=0D
+Das will ich meinen: zu 60 m lang wachsende Gartenschlauch, mit extra Druck=
+d=C3=BCse=0D
+</body>=0D
+</html>=
+
+--b1_mz3k94ntkkmmqvb-u06EyWu--

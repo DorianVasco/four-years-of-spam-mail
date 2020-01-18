@@ -1,0 +1,60 @@
+Return-Path: <admin@marketing-resultal.ru>
+Delivered-To: mail@elementk.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 755BEC4416
+	for <mail@elementk.de>; Sun, 16 Dec 2018 14:31:25 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: 1.848
+X-Spam-Level: *
+X-Spam-Status: No, score=1.848 required=5.5 tests=[DKIM_SIGNED=0.1,
+	DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1, HTML_MESSAGE=0.001,
+	SPF_HELO_PASS=-0.001, SPF_PASS=-0.001, URIBL_ABUSE_SURBL=1.948,
+	URIBL_BLOCKED=0.001] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id j2WT5wenySGK for <mail@elementk.de>;
+	Sun, 16 Dec 2018 14:31:21 +0100 (CET)
+Received: from marketing-resultal.ru (marketing-resultal.ru [77.244.215.193])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 20091C32AE
+	for <mail@elementk.de>; Sun, 16 Dec 2018 14:31:21 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=key1; d=marketing-resultal.ru;
+ h=Message-ID:Reply-To:From:To:Subject:Date:MIME-Version:Content-Type; i=admin@marketing-resultal.ru;
+ bh=b9COP/1QVYKjCERkbxgWrUKrfEw=;
+ b=atZSrsR41mqE4b+PZcDal210Vkjt+q7nEdtHPNosz4H/S7AYARaQKjl140vzJpfewZSpKhjULj55
+   N8Tc2s9C8HWE2dRFIdKzF1FUhTs6QmF/FRIU8liLOaVjW0V69b6lz8K/kdj0zRhm8Yzuvx74yiW0
+   p09ejDer9Ji0T9Cro70=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=key1; d=marketing-resultal.ru;
+ b=ngiEWXFGMZvI7UYV1E+tDtlFv1tmXWV7OwYy9J9vny9O5jYGSVnC66bi88UPwD0Q7ulyQ7YzbfeW
+   hTTCgizXcGH49In6fd6FJHpmZl7Sp1WCftTAG5NVT+ixIDyU+IfWYvDh3Qdj5vZhRxsaB1ulQ1eU
+   AAupPFl5bgK/WUEdwFg=;
+Message-ID: <a4d7fd25d118a246659a5c0f04d0e83417e6757aa2@marketing-resultal.ru>
+Reply-To: "nirvana" <admin@marketing-resultal.ru>
+From: "nirvana" <admin@marketing-resultal.ru>
+To: <mail@elementk.de>
+Subject: That is an amazing offering
+Date: Sun, 16 Dec 2018 16:34:47 +0300
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="a15b0f332ffbd4578b8ec7795d89a878e0e6"
+X-Priority: 1
+
+--a15b0f332ffbd4578b8ec7795d89a878e0e6
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+=C2=A0Hy there nice offers To qualify click on the link below
+
+--a15b0f332ffbd4578b8ec7795d89a878e0e6
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<HTML><HEAD>
+<META http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+</HEAD>
+<BODY bgColor=3D#ffffff>
+<DIV align=3Dleft><A=20
+href=3D"http://red.studygood.com/kbpcjwxujqpv">&nbsp;Hy there=20
+  nice offers=20
+To qualify click on the link below  </A></DIV></BODY></HTML>
+
+--a15b0f332ffbd4578b8ec7795d89a878e0e6--

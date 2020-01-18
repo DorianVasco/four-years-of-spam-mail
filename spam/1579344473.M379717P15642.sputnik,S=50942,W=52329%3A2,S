@@ -1,0 +1,1387 @@
+Return-Path: <return-a400-62054-62056-8a47c625=200437775=8@mediachannelpro.de>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 79EE6D26B3
+	for <mail@dorianvasco.de>; Sun, 11 Aug 2019 20:21:59 +0200 (CEST)
+Authentication-Results: v22014122474822114.stilfilm.com; dkim=pass
+	reason="1024-bit key; insecure key"
+	header.d=mediachannelpro.de header.i=@mediachannelpro.de
+	header.b=J8WtS5G0; dkim-adsp=pass; dkim-atps=neutral
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 7.712
+X-Spam-Level: *******
+X-Spam-Status: Yes, score=7.712 required=5.5 tests=[BAYES_50=0.8,
+	DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	FROM_EXCESS_BASE64=0.001, HTML_MESSAGE=0.001,
+	RAZOR2_CF_RANGE_51_100=1.886, RAZOR2_CHECK=0.922, SPF_HELO_NONE=0.001,
+	URIBL_BLACK=1.7, URIBL_DBL_SPAM=2.5, URI_TRY_3LD=0.001] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 4FVDt8NlauNx for <mail@dorianvasco.de>;
+	Sun, 11 Aug 2019 20:21:55 +0200 (CEST)
+Received: from smtp7-056.mediachannelpro.de (smtp7-056.mediachannelpro.de [149.202.25.194])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id 002EED26A4
+	for <kontakt@dorianvasco.de>; Sun, 11 Aug 2019 20:21:52 +0200 (CEST)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; d=mediachannelpro.de; s=premmail;
+ t=1565547707; bh=zw98BchrdxS4k9i+jCkFCzCcYJE=;
+ h=Subject:From:To:Reply-To:Date:List-Unsubscribe:X-CampaignID:
+  Message-ID:X-Mailer-Info:MIME-Version:Content-Type;
+ b=J8WtS5G0MFQrmbINlJX5uOPdc439fGZ7drbk/u7IrN2xgu4i68DwkRD1SOQIKy8JN
+  HZvFuLtk51ONSb7SQw9V1it//zt6DR4FHFrXLuAk0rhHvkstOhI3QsODNBxmLlK9ym
+  vYT8HRgPpWvWYuTOKyDouJNXFEUAUHiznhZJxUiI=
+Subject: Bis zu 70% auf spontanen Sommerurlaub
+From: =?UTF-8?B?U2VjcmV0IEVzY2FwZXMgcHLDpHNlbnRpZXJ0IHZvbiBQcmVtaXVtIE1haWw=?= <info@mediachannelpro.de>
+To: kontakt@dorianvasco.de
+Reply-To: noreply@mediachannelpro.de
+Date: 11 Aug 2019 18:21:47 -0000
+List-Unsubscribe: <http://mediachannelpro.de/ga/unsubscribe/2-200437775-400-22771-62056-3dd7770685275ec-f75a1af596?confirmed=1>,
+ <mailto:return-a400-62054-62056-8a47c625=200437775=8u@mediachannelpro.de>
+X-CampaignID: s4:62054-eaeb4628707cda12
+Message-ID: <mid-60ff9e608ee54caa5368f8c112598d1a-14@mediachannelpro.de>
+X-Mailer-Info: 8.QY0ADM.YjMwUDN.wav5GdhtGdAR2bylWYuZXYzN2buQWZ.yADM0MzN3cTN.YjMwUjN
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="==3276ee44f94f091ee2c37d26087b7038"
+
+This is a multi-part message in MIME format.
+
+--==3276ee44f94f091ee2c37d26087b7038
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Last-Minute-Urlaub zu unschlagbaren Preisen
+
+Secret Escapes Logo ( http://mediachannelpro.de/ga/click/2-200437775-400-22=
+771-62056-1904220-ab0e5c2d22-f75a1af596 )
+
+( http://mediachannelpro.de/ga/click/2-200437775-400-22771-62056-1904221-d0=
+9207d21d-f75a1af596 )
+
+Spontan sein und weniger zahlen
+
+Last-Minute-Urlaub bis zu 70 % g=C3=BCnstiger
+
+Anmelden & Entdecken ( http://mediachannelpro.de/ga/click/2-200437775-400-2=
+2771-62056-1904222-388523ebd6-f75a1af596 )
+
+( http://mediachannelpro.de/ga/click/2-200437775-400-22771-62056-1904223-df=
+e41f58d8-f75a1af596 )
+
+=C3=96sterreich
+
+Ein Sprung =E2=80=93 und Sie sind mittendrin im
+=C3=B6sterreichischen Last-Minute-Bergfest. Vers=C3=A4umen Sie es nicht,
+einige Bahnen in den Bergseen zu ziehen und sich in der
+H=C3=B6hensonne zu w=C3=A4rmen.
+
+Jetzt buchen ( http://mediachannelpro.de/ga/click/2-200437775-400-22771-620=
+56-1904224-e90aa38d5c-f75a1af596 )
+
+( http://mediachannelpro.de/ga/click/2-200437775-400-22771-62056-1904225-8a=
+88767f94-f75a1af596 )
+
+Balearen
+
+Von Mallorcas unber=C3=BChrten Weiten zu den
+legend=C3=A4ren Parties in Ibiza, mit den DJs von morgen: so vieles
+spricht daf=C3=BCr, dass die Balearen als Last-Minute-Ziel geradezu
+pr=C3=A4destiniert sind.
+
+Inspirieren lassen ( http://mediachannelpro.de/ga/click/2-200437775-400-227=
+71-62056-1904226-59c1a0937b-f75a1af596 )
+
+( http://mediachannelpro.de/ga/click/2-200437775-400-22771-62056-1904227-73=
+47c06ba5-f75a1af596 )
+
+Italien
+
+Gardasee, Lago Maggiore oder doch an die Adria?
+In unserer italienischen Kollektion finden Spontane neben
+idyllischen Strandauszeiten auch die sch=C3=B6nsten Badeseen. Auf nach
+Bella Italia.
+
+Angebote suchen ( http://mediachannelpro.de/ga/click/2-200437775-400-22771-=
+62056-1904228-d8f590bceb-f75a1af596 )
+
+( http://mediachannelpro.de/ga/click/2-200437775-400-22771-62056-1904229-48=
+0442f2c0-f75a1af596 )
+
+Griechenland
+
+Bei dieser Kombination aus umwerfenden
+Str=C3=A4nden, antiker Kultur und k=C3=B6stlicher Mediterrank=C3=BCche ist =
+es
+kein Wunder, dass Griechenland immer noch der Sommerklassiker
+schlechthin ist.
+
+Auf geht's ( http://mediachannelpro.de/ga/click/2-200437775-400-22771-62056=
+-1904230-5608da1711-f75a1af596 )
+
+( http://mediachannelpro.de/ga/click/2-200437775-400-22771-62056-1904231-34=
+393d209a-f75a1af596 )
+
+Frankreich
+
+Glamour in Frankreich: Lassen Sie sich vom
+luxuri=C3=B6sen Lifestyle in Paris inspirieren und von der traumhafen
+K=C3=BCste in Cannes in ihren Bann ziehen.
+
+Mehr Angebote ( http://mediachannelpro.de/ga/click/2-200437775-400-22771-62=
+056-1904232-1cce852b04-f75a1af596 )
+
+( http://mediachannelpro.de/ga/click/2-200437775-400-22771-62056-1904233-ea=
+dd5e8083-f75a1af596 )
+
+Kroatien
+
+Kroatien: mit seinen noblen Trendhotels, dem
+funkelnd blauen Wasser und seiner malerischen Inselwelt ist das
+Adrialand ein St=C3=BCck Paradies. Umso praktischer, dass es quasi vor
+Ihrer Haust=C3=BCr liegt.
+
+Reise buchen ( http://mediachannelpro.de/ga/click/2-200437775-400-22771-620=
+56-1904234-a39367c1df-f75a1af596 )
+
+Doch keine Lust auf Last-Minute?
+
+Kein Problem. Secret Escapes hat noch viele
+weitere Angebote auf der ganzen Welt.
+
+Los geht's ( http://mediachannelpro.de/ga/click/2-200437775-400-22771-62056=
+-1904235-692b62caa5-f75a1af596 )
+
+Genie=C3=9Fen Sie bis zu 70 % Ersparnis
+auf Luxusreisen
+
+( http://mediachannelpro.de/ga/click/2-200437775-400-22771-62056-1904236-4c=
+760b6aba-f75a1af596 )
+
+Handverlesene Angebote
+
+Pers=C3=B6nliche Auswahl statt Algorithmen
+=E2=80=93 Unsere erfahrenen Reiseexperten w=C3=A4hlen nur die besten Hotels
+und Reisen f=C3=BCr Sie aus.
+
+( http://mediachannelpro.de/ga/click/2-200437775-400-22771-62056-1904237-9d=
+a4bc2b01-f75a1af596 )
+
+Urlaub zum Bestpreis
+
+Jedes Angebot durchl=C3=A4uft 4
+Preisvergleiche. Sie werden online kein besseres Angebot finden
+(wir helfen Ihnen sogar beim Vergleichen).
+
+Jetzt Mitglied werden, um die neuesten Angebote zu
+sehen. Geben Sie einfach Ihre E-Mail-Adresse an.
+
+Jetzt kostenlos anmelden ( http://mediachannelpro.de/ga/click/2-200437775-4=
+00-22771-62056-1904238-08dea93c95-f75a1af596 )
+
+Gute Reise,
+
+Ihr Secret Escapes Team
+
+Sie erhalten diese E-Mail, weil Sie unsere Dienste in Anspruch
+nehmen oder an Gewinnspielen
+der Premium Performance Mail AG oder unserer
+Kooperationspartner teilgenommen haben. Die Angebote sind
+kommerzielle Anzeigen der jeweiligen Werbekunden,
+die f=C3=BCr den jeweiligen Inhalt verantwortlich sind.
+Bei Fragen zu den Angeboten haben, wenden Sie sich bitte an den
+in der Anzeige genannten Anbieter.
+Die Premium Performance Mail AG ist ausschlie=C3=9Flich
+Versender dieser Nachricht. Bitte antworten Sie nicht auf diese
+Mail. Um in Zukunft keine Informationen mehr von
+dieser Adresse zu erhalten, dann klicken Sie bitte
+hier ( http://mediachannelpro.de/ga/unsubscribe/2-200437775-400-22771-62056=
+-3dd7770685275ec-f75a1af596 ), um sich abzumelden. Haben Sie
+Verst=C3=A4ndnis, dass die Abmeldung bis zu 48 Stunden dauern kann.
+
+Director Caroline Wange
+
+The Picasso Building, Caldervale Road, Wakefield, West
+Yorkshire, United Kingdom.=
+
+--==3276ee44f94f091ee2c37d26087b7038
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml" lang=3D"en">
+<head>
+
+<title>Spontanurlaub bis zu 70 % g&uuml;nstiger</title>
+<meta charset=3D"utf-8" />
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1"=
+ />
+<meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge" />
+<meta name=3D"format-detection" content=3D"telephone=3Dno" />
+<link href=3D'https://fonts.googleapis.com/css?family=3DSource+Sans+Pro:300=
+,400,600,700|Source+Serif+Pro:400,600' rel=3D'stylesheet' type=3D'text/css'=
+ />
+
+<style type=3D"text/css">
+
+  /*=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+  |  Global variables & useful tools
+  |=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D*/
+  *,
+  *:after,
+  *:before {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+    -moz-font-smoothing: antialiased;
+    font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility; }
+
+  img {
+    height: auto;
+    max-width: 100%;
+    vertical-align: bottom;
+  }
+
+  a {
+    color: inherit;
+    text-decoration: none;
+  }
+  a:hover { text-decoration: underline; }
+
+  body, html {
+    height: 100%;
+  }
+
+  .clearfix:after {
+    content: " ";
+    display: block;
+    clear: both;
+  }
+
+  /*|=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+    |  Site styles
+    |=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D*/
+  #outlook a { padding: 0; }
+
+  /* Force Outlook to provide a "view in browser" message */
+  .ReadMsgBody { width: 100%; }
+  .ExternalClass { width: 100%; }
+
+  /* Force Hotmail to display emails at full width */
+  .ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass fon=
+t, .ExternalClass td, .ExternalClass div {
+    line-height: 100%;
+  }
+
+  /* Force Hotmail to display normal line spacing */
+  body, table, td, a {
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    -webkit-font-smoothing: antialiased !important;
+    mso-line-height-rule: exactly; }
+
+  /* Prevent WebKit and Windows mobile changing default text sizes & genera=
+l resets for text */
+  table, td {
+    mso-table-lspace: 0pt;
+    mso-table-rspace: 0pt; }
+
+  /* Remove spacing between tables in Outlook 2007 and up */
+  img {
+    -ms-interpolation-mode: bicubic; }
+
+  /* Allow smoother rendering of resized image in Internet Explorer */
+  [style*=3D"Source Sans Pro"] { font-family: "Source Sans Pro", Arial, san=
+s-serif !important; }
+  [style*=3D"Source Serif Pro"] { font-family: "Source Serif Pro", Georgia,=
+ serif !important; }
+
+  /* Stops outlook from using times new roman. Font family is reversed on i=
+nline style*/
+  a[x-apple-data-detectors] {
+    color: inherit !important;
+    text-decoration: none !important;
+    font-size: inherit !important;
+    font-family: inherit !important;
+    font-weight: inherit !important;
+    line-height: inherit !important; }
+
+  /* stops apple devices inserting links for phone numbers, dates, etc */
+  /* RESET STYLES */
+  body {
+    margin: 0;
+    padding: 0; }
+
+  img {
+    border: 0;
+    height: auto;
+    line-height: 100%;
+    outline: none;
+    text-decoration: none; }
+
+  table {
+    border-collapse: collapse !important;
+    margin: 0 auto !important; }
+
+  body {
+    height: 100% !important;
+    margin: 0;
+    padding: 0;
+    width: 100% !important; }
+
+  /* iOS BLUE LINKS FIX */
+  .appleBody a {
+    color: #000000;
+    text-decoration: none; }
+
+  .appleFooter a {
+    color: #000000;
+    text-decoration: none; }
+
+  /* MOBILE STYLES */
+  @media screen and (max-width: 600px) {
+    /* FUILD CONTENT */
+    table[class*=3D"wrapper"] {
+      width: 100% !important; }
+
+    table[class*=3D"responsive-table"] {
+      width: 100% !important;
+      height: auto !important; }
+
+    img[class*=3D"img-max"] {
+      max-width: 100% !important;
+      width: 100% !important;
+      height: auto !important; }
+
+    img[class*=3D"border-reset"] {
+      border-radius: 0 !important; }
+
+    /* HIDE ON MOBILE */
+    *[class*=3D"mobile-hide"] {
+      display: none !important; }
+
+    /* GENERAL STYLES */
+    td[class*=3D"mobile-center-align"] {
+      text-align: center !important; }
+
+    br[class*=3D"desktop-break"] {
+      display: none; }
+
+    td[class=3D"logo"] {
+      padding: 20px 15px !important; } }
+
+  </style>
+
+</head>
+
+<body>
+
+
+
+<!-- TOP BAR -->
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+  <tr>
+    <td bgcolor=3D"#ff8c00" align=3D"center" height=3D"3"></td>
+  </tr>
+  <tr>
+    <td bgcolor=3D"#f2f2f2" align=3D"center" style=3D"padding: 0;">
+      <!-- HIDDEN PREHEADER TEXT -->
+      <div style=3D"display: none; font-size: 0px; color: #000000; line-hei=
+ght: 1px; font-family: Helvetica, Arial, sans-serif, 'Source Sans Pro'; max=
+-height: 0px; max-width: 0px; opacity: 0; overflow: hidden;">
+        Last-Minute-Urlaub zu unschlagbaren Preisen
+      </div>
+      <!-- OPEN IN BROWSER MESSAGE -->
+    </td>
+  </tr>
+</table>
+
+
+
+<!-- LOGO HEADER -->
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+  <tr>
+    <td bgcolor=3D"#f2f2f2">
+      <div align=3D"center" style=3D"padding: 0;">
+        <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"60=
+0" class=3D"wrapper">
+          <!-- LOGO/PREHEADER TEXT -->
+          <tr>
+            <td style=3D"padding: 30px 25px;" class=3D"logo" align=3D"cente=
+r">
+              <a href=3D"http://mediachannelpro.de/ga/click/2-200437775-400=
+-22771-62056-1904220-ab0e5c2d22-f75a1af596">
+                <img alt=3D"Secret Escapes Logo" src=3D"http://image.email.=
+secretescapes.com/lib/fe8a1272746c017a7d/m/2/logo-secret-escapes.png" width=
+=3D"180" style=3D"display:block; padding: 5px 0 0;" border=3D"0" />
+              </a>
+            </td>
+          </tr>
+        </table>
+      </div>
+    </td>
+  </tr>
+</table>
+
+
+
+
+<!-- Intro -->
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+  <tr>
+    <td bgcolor=3D"#f2f2f2" align=3D"center" style=3D"padding: 0 15px 30px;=
+">
+      <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"600"=
+ class=3D"responsive-table">
+        <tr>
+          <td bgcolor=3D"#ffffff">
+
+            <!-- HERO IMAGE -->
+            <table style=3D"border-radius: 4px;" width=3D"100%" border=3D"0=
+" cellspacing=3D"0" cellpadding=3D"0">
+              <tr>
+                <td>
+                  <a href=3D"http://mediachannelpro.de/ga/click/2-200437775=
+-400-22771-62056-1904221-d09207d21d-f75a1af596">
+                    <img src=3D"http://image.email.secretescapes.com/lib/fe=
+8a1272746c017a7d/m/12/100+Rizes+Luxury+.jpg" width=3D"600" border=3D"0" alt=
+=3D"" style=3D"display: block; border-top-left-radius: 4px; border-top-righ=
+t-radius: 4px;" class=3D"img-max" />
+                  </a>
+                </td>
+              </tr>
+            </table>
+
+            <!-- COPY -->
+            <table bgcolor=3D"#1a1a1a" style=3D"border-bottom-left-radius: =
+4px; border-bottom-right-radius: 4px;" width=3D"100%" border=3D"0" cellspac=
+ing=3D"0" cellpadding=3D"0">
+
+              <tr>
+                <td style=3D"padding: 30px 0;">
+
+                  <table width=3D"100%" border=3D"0" cellspacing=3D"0" cell=
+padding=3D"0">
+
+                    <!-- COPY - Title -->
+                    <tr>
+                      <td align=3D"center" style=3D"padding: 0 30px 5px; fo=
+nt-size: 34px; line-height: 34px; font-family: Georgia, serif, 'Source Seri=
+f Pro'; font-weight: 200; color: #ffffff;" class=3D"padding-copy-header">
+                        Spontan sein und weniger zahlen
+                      </td>
+                    </tr>
+
+                    <!-- COPY - Subtitle -->
+                    <tr>
+                      <td align=3D"center" style=3D"padding: 0 30px; font-s=
+ize: 22px; line-height: 30px; font-family: Helvetica, Arial, sans-serif, 'S=
+ource Sans Pro'; font-weight: 500; color: #ffffff;" class=3D"padding-copy-h=
+eader">
+                     Last-Minute-Urlaub bis zu 70 % g&uuml;nstiger
+                      </td>
+                    </tr>
+                  </table>
+
+                  <table width=3D"100%" border=3D"0" cellspacing=3D"0" cell=
+padding=3D"0">
+
+                    <!-- COPY - CTA -->
+                    <tr>
+                      <td align=3D"left" style=3D"padding: 15px 30px 0; tex=
+t-align: center" class=3D"mobile-pad-3c mobile-center-align">
+                        <a href=3D"http://mediachannelpro.de/ga/click/2-200=
+437775-400-22771-62056-1904222-388523ebd6-f75a1af596" style=3D"font-size: 1=
+4px; font-family: Helvetica, Arial, sans-serif, 'Source Sans Pro'; font-wei=
+ght: 600; color: #ffffff; text-decoration: none; background-color: #ff8c00;=
+ border-top: 16px solid #ff8c00; border-bottom: 16px solid #ff8c00; border-=
+left: 40px solid #ff8c00; border-right: 40px solid #ff8c00; border-radius: =
+4px; -webkit-border-radius: 4px; -moz-border-radius: 4px; display: inline-b=
+lock; letter-spacing: 2px; text-transform: uppercase;">
+                          Anmelden & Entdecken
+                        </a>
+                      </td>
+                    </tr>
+
+                  </table>
+                  <!-- END COPY -->
+
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+
+
+
+<!-- One column -->
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+  <tr>
+    <td align=3D"center" bgcolor=3D"#f2f2f2" style=3D"padding-left: 15px; p=
+adding-right: 15px; padding-bottom:30px;">
+      <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"600"=
+ class=3D"responsive-table">
+        <tr>
+          <td>
+            <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%">
+              <tr>
+                <td>
+                  <a href=3D"http://mediachannelpro.de/ga/click/2-200437775=
+-400-22771-62056-1904223-dfe41f58d8-f75a1af596">
+                    <img class=3D"img-max" src=3D"http://image.email.secret=
+escapes.com/lib/fe8a1272746c017a7d/m/12/Hotel+Saalbacherhof++.jpg" width=3D=
+"600" border=3D"0" style=3D"display: block;">
+                  </a>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <td bgcolor=3D"#ffffff" style=3D"padding: 20px 30px 30px;" class=
+=3D"mobile-margin">
+
+            <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%">
+              <!-- COPY - Title -->
+              <tr>
+                <td align=3D"center" style=3D"padding-bottom: 4px; font-siz=
+e: 24px; line-height: 32px; font-family: Helvetica, Arial, sans-serif, 'Sou=
+rce Sans Pro'; font-weight: 600; color: #0d0d0d;" class=3D"padding-copy-hea=
+der">
+                  &Ouml;sterreich=20
+                </td>
+              </tr>
+              <!-- COPY - Paragraph -->
+              <tr>
+                <td align=3D"center" style=3D"padding: 0; color: #636363; f=
+ont-size: 18px; line-height: 26px; font-family: Helvetica, Arial, sans-seri=
+f, 'Source Sans Pro'; font-weight: 400;">
+                  Ein Sprung =E2=80=93 und Sie sind mittendrin im =C3=B6ste=
+rreichischen Last-Minute-Bergfest. Vers=C3=A4umen Sie es nicht, einige Bahn=
+en in den Bergseen zu ziehen und sich in der H=C3=B6hensonne zu w=C3=A4rmen.
+                </td>
+              </tr>
+            </table>
+            <!-- Button -->
+            <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%">
+              <tr>
+                <td style=3D" padding-top: 15px" align=3D"center">
+                  <a href=3D"http://mediachannelpro.de/ga/click/2-200437775=
+-400-22771-62056-1904224-e90aa38d5c-f75a1af596" style=3D"font-size: 13px; f=
+ont-family: Helvetica, Arial, sans-serif, 'Source Sans Pro';  font-weight: =
+600; color: #ffffff; text-decoration: none; background-color: #ff8c00; bord=
+er-top: 10px solid #ff8c00; border-bottom: 10px solid #ff8c00; border-left:=
+ 32px solid #ff8c00; border-right: 32px solid #ff8c00; border-radius: 4px; =
+-webkit-border-radius: 4px; -moz-border-radius: 4px; display: inline-block;=
+ letter-spacing: 2px; text-transform: uppercase;">
+                    Jetzt buchen
+                  </a>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+  <tr>
+    <td align=3D"center" bgcolor=3D"#f2f2f2" style=3D"padding-left: 15px; p=
+adding-right: 15px; padding-bottom:30px;">
+      <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"600"=
+ class=3D"responsive-table">
+        <tr>
+          <td>
+            <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%">
+              <tr>
+                <td>
+                  <a href=3D"http://mediachannelpro.de/ga/click/2-200437775=
+-400-22771-62056-1904225-8a88767f94-f75a1af596">
+                    <img class=3D"img-max" src=3D"http://image.email.secret=
+escapes.com/lib/fe8a1272746c017a7d/m/12/HOTEL+VIEWS.jpg" width=3D"600" bord=
+er=3D"0" style=3D"display: block;">
+                  </a>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <td bgcolor=3D"#ffffff" style=3D"padding: 20px 30px 30px;" class=
+=3D"mobile-margin">
+
+            <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%">
+              <!-- COPY - Title -->
+              <tr>
+                <td align=3D"center" style=3D"padding-bottom: 4px; font-siz=
+e: 24px; line-height: 32px; font-family: Helvetica, Arial, sans-serif, 'Sou=
+rce Sans Pro'; font-weight: 600; color: #0d0d0d;" class=3D"padding-copy-hea=
+der">
+                 Balearen
+                </td>
+              </tr>
+              <!-- COPY - Paragraph -->
+              <tr>
+                <td align=3D"center" style=3D"padding: 0; color: #636363; f=
+ont-size: 18px; line-height: 26px; font-family: Helvetica, Arial, sans-seri=
+f, 'Source Sans Pro'; font-weight: 400;">
+                  Von Mallorcas unber=C3=BChrten Weiten zu den legend=C3=A4=
+ren Parties in Ibiza, mit den DJs von morgen: so vieles spricht daf=C3=BCr,=
+ dass die Balearen als Last-Minute-Ziel geradezu pr=C3=A4destiniert sind.
+                </td>
+              </tr>
+            </table>
+            <!-- Button -->
+            <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%">
+              <tr>
+                <td style=3D" padding-top: 15px" align=3D"center">
+                  <a href=3D"http://mediachannelpro.de/ga/click/2-200437775=
+-400-22771-62056-1904226-59c1a0937b-f75a1af596" style=3D"font-size: 13px; f=
+ont-family: Helvetica, Arial, sans-serif, 'Source Sans Pro';  font-weight: =
+600; color: #ffffff; text-decoration: none; background-color: #ff8c00; bord=
+er-top: 10px solid #ff8c00; border-bottom: 10px solid #ff8c00; border-left:=
+ 32px solid #ff8c00; border-right: 32px solid #ff8c00; border-radius: 4px; =
+-webkit-border-radius: 4px; -moz-border-radius: 4px; display: inline-block;=
+ letter-spacing: 2px; text-transform: uppercase;">
+                   Inspirieren lassen
+                  </a>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+
+
+<!-- One column -->
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+  <tr>
+    <td align=3D"center" bgcolor=3D"#f2f2f2" style=3D"padding-left: 15px; p=
+adding-right: 15px; padding-bottom:30px;">
+      <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"600"=
+ class=3D"responsive-table">
+        <tr>
+          <td>
+            <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%">
+              <tr>
+                <td>
+                  <a href=3D"http://mediachannelpro.de/ga/click/2-200437775=
+-400-22771-62056-1904227-7347c06ba5-f75a1af596">
+                    <img class=3D"img-max" src=3D"http://image.email.secret=
+escapes.com/lib/fe8a1272746c017a7d/m/12/dd400765_60a6_47b6_af58_b402a5a2f07=
+b.jpg" width=3D"600" border=3D"0" style=3D"display: block;">
+                  </a>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <td bgcolor=3D"#ffffff" style=3D"padding: 20px 30px 30px;" class=
+=3D"mobile-margin">
+
+            <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%">
+              <!-- COPY - Title -->
+              <tr>
+                <td align=3D"center" style=3D"padding-bottom: 4px; font-siz=
+e: 24px; line-height: 32px; font-family: Helvetica, Arial, sans-serif, 'Sou=
+rce Sans Pro'; font-weight: 600; color: #0d0d0d;" class=3D"padding-copy-hea=
+der">
+                  Italien
+                </td>
+              </tr>
+              <!-- COPY - Paragraph -->
+              <tr>
+                <td align=3D"center" style=3D"padding: 0; color: #636363; f=
+ont-size: 18px; line-height: 26px; font-family: Helvetica, Arial, sans-seri=
+f, 'Source Sans Pro'; font-weight: 400;">
+                 Gardasee, Lago Maggiore oder doch an die Adria? In unserer=
+ italienischen Kollektion finden Spontane neben idyllischen Strandauszeiten=
+ auch die sch=C3=B6nsten Badeseen. Auf nach Bella Italia.
+                </td>
+              </tr>
+            </table>
+            <!-- Button -->
+            <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%">
+              <tr>
+                <td style=3D" padding-top: 15px" align=3D"center">
+                  <a href=3D"http://mediachannelpro.de/ga/click/2-200437775=
+-400-22771-62056-1904228-d8f590bceb-f75a1af596" style=3D"font-size: 13px; f=
+ont-family: Helvetica, Arial, sans-serif, 'Source Sans Pro';  font-weight: =
+600; color: #ffffff; text-decoration: none; background-color: #ff8c00; bord=
+er-top: 10px solid #ff8c00; border-bottom: 10px solid #ff8c00; border-left:=
+ 32px solid #ff8c00; border-right: 32px solid #ff8c00; border-radius: 4px; =
+-webkit-border-radius: 4px; -moz-border-radius: 4px; display: inline-block;=
+ letter-spacing: 2px; text-transform: uppercase;">
+                    Angebote suchen
+                  </a>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+
+
+
+<!-- One column -->
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+  <tr>
+    <td align=3D"center" bgcolor=3D"#f2f2f2" style=3D"padding-left: 15px; p=
+adding-right: 15px; padding-bottom:30px;">
+      <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"600"=
+ class=3D"responsive-table">
+        <tr>
+          <td>
+            <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%">
+              <tr>
+                <td>
+                  <a href=3D"http://mediachannelpro.de/ga/click/2-200437775=
+-400-22771-62056-1904229-480442f2c0-f75a1af596">
+                    <img class=3D"img-max" src=3D"http://image.email.secret=
+escapes.com/lib/fe8a1272746c017a7d/m/12/dcc8f884_90c1_4944_a06a_df08256a2ca=
+f.jpg" width=3D"600" border=3D"0" style=3D"display: block;">
+                  </a>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <td bgcolor=3D"#ffffff" style=3D"padding: 20px 30px 30px;" class=
+=3D"mobile-margin">
+
+            <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%">
+              <!-- COPY - Title -->
+              <tr>
+                <td align=3D"center" style=3D"padding-bottom: 4px; font-siz=
+e: 24px; line-height: 32px; font-family: Helvetica, Arial, sans-serif, 'Sou=
+rce Sans Pro'; font-weight: 600; color: #0d0d0d;" class=3D"padding-copy-hea=
+der">
+                    Griechenland
+                </td>
+              </tr>
+              <!-- COPY - Paragraph -->
+              <tr>
+                <td align=3D"center" style=3D"padding: 0; color: #636363; f=
+ont-size: 18px; line-height: 26px; font-family: Helvetica, Arial, sans-seri=
+f, 'Source Sans Pro'; font-weight: 400;">
+                    Bei dieser Kombination aus umwerfenden Str=C3=A4nden, a=
+ntiker Kultur und k=C3=B6stlicher Mediterrank=C3=BCche ist es kein Wunder, =
+dass Griechenland immer noch der Sommerklassiker schlechthin ist.
+                </td>
+              </tr>
+            </table>
+            <!-- Button -->
+            <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%">
+              <tr>
+                <td style=3D" padding-top: 15px" align=3D"center">
+                  <a href=3D"http://mediachannelpro.de/ga/click/2-200437775=
+-400-22771-62056-1904230-5608da1711-f75a1af596" style=3D"font-size: 13px; f=
+ont-family: Helvetica, Arial, sans-serif, 'Source Sans Pro';  font-weight: =
+600; color: #ffffff; text-decoration: none; background-color: #ff8c00; bord=
+er-top: 10px solid #ff8c00; border-bottom: 10px solid #ff8c00; border-left:=
+ 32px solid #ff8c00; border-right: 32px solid #ff8c00; border-radius: 4px; =
+-webkit-border-radius: 4px; -moz-border-radius: 4px; display: inline-block;=
+ letter-spacing: 2px; text-transform: uppercase;">
+                    Auf geht's
+                  </a>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+
+
+
+<!-- One column -->
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+  <tr>
+    <td align=3D"center" bgcolor=3D"#f2f2f2" style=3D"padding-left: 15px; p=
+adding-right: 15px; padding-bottom:30px;">
+      <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"600"=
+ class=3D"responsive-table">
+        <tr>
+          <td>
+            <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%">
+              <tr>
+                <td>
+                  <a href=3D"http://mediachannelpro.de/ga/click/2-200437775=
+-400-22771-62056-1904231-34393d209a-f75a1af596">
+                    <img class=3D"img-max" src=3D"http://image.email.secret=
+escapes.com/lib/fe8a1272746c017a7d/m/12/7a8c98e1_2a0c_4488_a459_19742b0ab47=
+e.jpg" width=3D"600" border=3D"0" style=3D"display: block;">
+                  </a>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <td bgcolor=3D"#ffffff" style=3D"padding: 20px 30px 30px;" cla&sz=
+lig;=3D"mobile-margin">
+
+            <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%">
+              <!-- COPY - Title -->
+              <tr>
+                <td align=3D"center" style=3D"padding-bottom: 4px; font-siz=
+e: 24px; line-height: 32px; font-family: Helvetica, Arial, sans-serif, 'Sou=
+rce Sans Pro'; font-weight: 600; color: #0d0d0d;" cla&szlig;=3D"padding-cop=
+y-header">
+                  Frankreich
+                </td>
+              </tr>
+              <!-- COPY - Paragraph -->
+              <tr>
+                <td align=3D"center" style=3D"padding: 0; color: #636363; f=
+ont-size: 18px; line-height: 26px; font-family: Helvetica, Arial, sans-seri=
+f, 'Source Sans Pro'; font-weight: 400;">
+                  Glamour in Frankreich: Lassen Sie sich vom luxuri=C3=B6se=
+n Lifestyle in </br> Paris inspirieren und von der traumhafen K=C3=BCste in=
+ Cannes in ihren Bann ziehen.
+                </td>
+              </tr>
+            </table>
+            <!-- Button -->
+            <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%">
+              <tr>
+                <td style=3D" padding-top: 15px" align=3D"center">
+                  <a href=3D"http://mediachannelpro.de/ga/click/2-200437775=
+-400-22771-62056-1904232-1cce852b04-f75a1af596" style=3D"font-size: 13px; f=
+ont-family: Helvetica, Arial, sans-serif, 'Source Sans Pro';  font-weight: =
+600; color: #ffffff; text-decoration: none; background-color: #ff8c00; bord=
+er-top: 10px solid #ff8c00; border-bottom: 10px solid #ff8c00; border-left:=
+ 32px solid #ff8c00; border-right: 32px solid #ff8c00; border-radius: 4px; =
+-webkit-border-radius: 4px; -moz-border-radius: 4px; display: inline-block;=
+ letter-spacing: 2px; text-transform: uppercase;">
+                    Mehr Angebote
+                  </a>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+
+
+
+<!-- One column -->
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+  <tr>
+    <td align=3D"center" bgcolor=3D"#f2f2f2" style=3D"padding-left: 15px; p=
+adding-right: 15px; padding-bottom:30px;">
+      <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"600"=
+ cla&szlig;=3D"responsive-table">
+        <tr>
+          <td>
+            <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%">
+              <tr>
+                <td>
+                  <a href=3D"http://mediachannelpro.de/ga/click/2-200437775=
+-400-22771-62056-1904233-eadd5e8083-f75a1af596">
+                    <img cla&szlig;=3D"img-max" src=3D"http://image.email.s=
+ecretescapes.com/lib/fe8a1272746c017a7d/m/12/Valamar+Argosy+Hotel+.jpg" wid=
+th=3D"600" border=3D"0" style=3D"display: block;">
+                  </a>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <td bgcolor=3D"#ffffff" style=3D"padding: 20px 30px 30px;" cla&sz=
+lig;=3D"mobile-margin">
+
+            <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%">
+              <!-- COPY - Title -->
+              <tr>
+                <td align=3D"center" style=3D"padding-bottom: 4px; font-siz=
+e: 24px; line-height: 32px; font-family: Helvetica, Arial, sans-serif, 'Sou=
+rce Sans Pro'; font-weight: 600; color: #0d0d0d;" cla&szlig;=3D"padding-cop=
+y-header">
+                  Kroatien
+                </td>
+              </tr>
+              <!-- COPY - Paragraph -->
+              <tr>
+                <td align=3D"center" style=3D"padding: 0; color: #636363; f=
+ont-size: 18px; line-height: 26px; font-family: Helvetica, Arial, sans-seri=
+f, 'Source Sans Pro'; font-weight: 400;">
+                  Kroatien: mit seinen noblen Trendhotels, dem funkelnd bla=
+uen Wasser und seiner malerischen Inselwelt ist das Adrialand ein St=C3=BCc=
+k Paradies. Umso praktischer, dass es quasi vor Ihrer Haust=C3=BCr liegt.
+                </td>
+              </tr>
+            </table>
+            <!-- Button -->
+            <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%">
+              <tr>
+                <td style=3D" padding-top: 15px" align=3D"center">
+                  <a href=3D"http://mediachannelpro.de/ga/click/2-200437775=
+-400-22771-62056-1904234-a39367c1df-f75a1af596" style=3D"font-size: 13px; f=
+ont-family: Helvetica, Arial, sans-serif, 'Source Sans Pro';  font-weight: =
+600; color: #ffffff; text-decoration: none; background-color: #ff8c00; bord=
+er-top: 10px solid #ff8c00; border-bottom: 10px solid #ff8c00; border-left:=
+ 32px solid #ff8c00; border-right: 32px solid #ff8c00; border-radius: 4px; =
+-webkit-border-radius: 4px; -moz-border-radius: 4px; display: inline-block;=
+ letter-spacing: 2px; text-transform: uppercase;">
+                    Reise buchen
+                  </a>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+  <tr>
+    <td bgcolor=3D"#f2f2f2" style=3D"padding: 15px 0;" align=3D"center">
+      <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"600"=
+ cla&szlig;=3D"responsive-table">
+        <tr>
+          <td>
+            <table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpaddin=
+g=3D"0">
+             <tr>
+               <td align=3D"center" style=3D"padding: 0 30px 5px; color: #0=
+d0d0d; font-size: 28px; line-height: 34px; font-family: Georgia, serif, 'So=
+urce Serif Pro'; font-weight: 200;" cla&szlig;=3D"padding-copy-header">
+                 Doch keine Lust auf Last-Minute? </i>
+               </td>
+             </tr>
+             <tr>
+               <td align=3D"center" style=3D"padding: 0 30px 15px; font-siz=
+e: 18px; line-height: 26px; font-family: Helvetica, Arial, sans-serif, 'Sou=
+rce Sans Pro'; font-weight: 400; color: #636363;" cla&szlig;=3D"padding-cop=
+y-header">
+                 Kein Problem. Secret Escapes hat noch viele weitere Angebo=
+te </br> auf der ganzen Welt.
+               </td>
+             </tr>
+
+              <tr>
+                <td align=3D"left" style=3D"padding: 0 30px 30px; text-alig=
+n: center" cla&szlig;=3D"mobile-pad-3c mobile-center-align">
+                  <a href=3D"http://mediachannelpro.de/ga/click/2-200437775=
+-400-22771-62056-1904235-692b62caa5-f75a1af596" style=3D"font-size: 14px; f=
+ont-family: Helvetica, Arial, sans-serif, 'Source Sans Pro'; font-weight: 6=
+00; color: #ffffff; text-decoration: none; background-color: #ff8c00; borde=
+r-top: 16px solid #ff8c00; border-bottom: 16px solid #ff8c00; border-left: =
+40px solid #ff8c00; border-right: 40px solid #ff8c00; border-radius: 4px; -=
+webkit-border-radius: 4px; -moz-border-radius: 4px; display: inline-block; =
+letter-spacing: 2px; text-transform: uppercase;">
+                    Los geht's
+                  </a>
+                </td>
+              </tr>
+
+            </table>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
+
+
+<table bgcolor=3D"#ff8c00" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ width=3D"100%">
+  <tr>
+    <td height=3D"3"></td>
+  </tr>
+</table>
+
+<table bgcolor=3D"#1a1a1a" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ width=3D"100%">
+  <tr>
+    <td height=3D"45"></td>
+  </tr>
+</table>
+
+<!-- section-intro.html -->
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+  <tr>
+    <td bgcolor=3D"#1a1a1a" style=3D"padding-bottom: 20px;" align=3D"center=
+">
+      <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"600"=
+ cla&szlig;=3D"responsive-table">
+        <tr>
+          <td>
+
+            <table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpaddin=
+g=3D"0">
+              <tr>
+                <td align=3D"center" style=3D"padding: 0 15px; color: #ffff=
+ff; font-size: 28px; line-height: 34px; font-family: Georgia, serif, 'Sourc=
+e Serif Pro'; font-weight: 200;" cla&szlig;=3D"padding-copy-header">
+                 Genie&szlig;en Sie bis zu 70 % Ersparnis <br />auf Luxusre=
+isen
+                </td>
+              </tr>
+            </table>
+
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+
+<!-- two-column.html -->
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+  <tr>
+    <td bgcolor=3D"#1a1a1a" align=3D"center" style=3D"padding: 0 15px;">
+      <!-- FIRST ROW -->
+      <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"600"=
+ cla&szlig;=3D"responsive-table">
+        <tr>
+          <td>
+
+            <!-- FIRST COLUMN -->
+            <table align=3D"left" border=3D"0" cellspacing=3D"0" cellpaddin=
+g=3D"0" cla&szlig;=3D"responsive-table" width=3D"285">
+              <tr>
+                <td style=3D"padding-bottom: 30px;">
+                  <!-- CONTENT START -->
+                  <table align=3D"center" width=3D"100%" border=3D"0" cells=
+pacing=3D"0" cellpadding=3D"0">
+                    <tr>
+                      <td>
+                        <a href=3D"http://mediachannelpro.de/ga/click/2-200=
+437775-400-22771-62056-1904236-4c760b6aba-f75a1af596">
+                          <img src=3D"http://image.email.secretescapes.com/=
+lib/fe8a1272746c017a7d/m/2/price-checked.jpg" border=3D"0" alt=3D"" width=
+=3D"285" height=3D"200" style=3D"display: block; border-top-left-radius: 4p=
+x; border-top-right-radius: 4px;" cla&szlig;=3D"img-max border-reset" />
+                        </a>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td style=3D"background-color: #333333; padding: 15px=
+ 0 7px; border-bottom-left-radius: 4px; border-bottom-right-radius: 4px;">
+                        <!-- COPY -->
+                        <table align=3D"left" width=3D"100%" border=3D"0" c=
+ellspacing=3D"0" cellpadding=3D"0">
+
+                          <tr>
+                            <td align=3D"left" style=3D"padding: 0 15px 7px=
+; font-size: 20px; line-height: 26px; font-family: Helvetica, Arial, sans-s=
+erif, 'Source Sans Pro'; font-weight: 600; color: #ffffff;" cla&szlig;=3D"p=
+adding-copy-header">
+                             Handverlesene Angebote
+                            </td>
+                          </tr>
+                        </table>
+                        <table width=3D"100%" border=3D"0" cellspacing=3D"0=
+" cellpadding=3D"0">
+                          <tr>
+                            <td align=3D"left" style=3D"padding:0 15px 7px;=
+ color: #f2f2f2; font-size: 15px; line-height: 21px; font-family: Helvetica=
+, Arial, sans-serif, 'Source Sans Pro'; font-weight: 400;">
+                            Pers&ouml;nliche Auswahl statt Algorithmen =E2=
+=80=93 Unsere erfahrenen Reiseexperten w&auml;hlen nur die besten Hotels un=
+d Reisen f&uuml;r Sie aus.
+                            </td>
+                          </tr>
+                        </table>
+                        <!-- END COPY -->
+                      </td>
+                    </tr>
+                  </table>
+                  <!-- CONTENT END -->
+                </td>
+              </tr>
+            </table>
+            <!-- FIRST COLUMN END -->
+
+            <!-- FIRST COLUMN -->
+            <table align=3D"right" border=3D"0" cellspacing=3D"0" cellpaddi=
+ng=3D"0" cla&szlig;=3D"responsive-table" width=3D"285">
+              <tr>
+                <td style=3D"padding-bottom: 30px;">
+                  <!-- CONTENT START -->
+                  <table align=3D"center" width=3D"100%" border=3D"0" cells=
+pacing=3D"0" cellpadding=3D"0">
+                    <tr>
+                      <td>
+                        <a href=3D"http://mediachannelpro.de/ga/click/2-200=
+437775-400-22771-62056-1904237-9da4bc2b01-f75a1af596">
+                          <img src=3D"http://image.email.secretescapes.com/=
+lib/fe8a1272746c017a7d/m/2/experienced-team.jpg" border=3D"0" alt=3D"" widt=
+h=3D"285" height=3D"200" style=3D"display: block; border-top-left-radius: 4=
+px; border-top-right-radius: 4px;" cla&szlig;=3D"img-max border-reset" />
+                        </a>
+                      </td>
+                    </tr>
+                    <tr>
+                      <td style=3D"background-color: #333333; padding: 15px=
+ 0 7px; border-bottom-left-radius: 4px; border-bottom-right-radius: 4px;">
+                        <!-- COPY -->
+                        <table align=3D"left" width=3D"100%" border=3D"0" c=
+ellspacing=3D"0" cellpadding=3D"0">
+                          <tr>
+                            <td align=3D"left" style=3D"padding: 0 15px 7px=
+; font-size: 20px; line-height: 26px; font-family: Helvetica, Arial, sans-s=
+erif, 'Source Sans Pro'; font-weight: 600; color: #ffffff;" cla&szlig;=3D"p=
+adding-copy-header">
+                              Urlaub zum Bestpreis
+                            </td>
+                          </tr>
+                        </table>
+                        <table width=3D"100%" border=3D"0" cellspacing=3D"0=
+" cellpadding=3D"0">
+                          <tr>
+                            <td align=3D"left" style=3D"padding:0 15px 7px;=
+ color: #f2f2f2; font-size: 15px; line-height: 21px; font-family: Helvetica=
+, Arial, sans-serif, 'Source Sans Pro'; font-weight: 400;">
+                              Jedes Angebot durchl&auml;uft 4 Preisvergleic=
+he. Sie werden online kein besseres Angebot finden (wir helfen Ihnen sogar =
+beim Vergleichen).
+                            </td>
+                          </tr>
+                        </table>
+                        <!-- END COPY -->
+                      </td>
+                    </tr>
+                  </table>
+                  <!-- CONTENT END -->
+                </td>
+              </tr>
+            </table>
+            <!-- FIRST COLUMN END -->
+          </td>
+        </tr>
+      </table>
+      <!-- FIRST ROW END -->
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
+<!-- SIGN OFF -->
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+
+  <tr>
+    <td bgcolor=3D"#1a1a1a" align=3D"center" style=3D"padding-bottom: 45px;=
+">
+      <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"600"=
+ cla&szlig;=3D"responsive-table">
+
+        <tr>
+          <td align=3D"center" style=3D"padding: 0 15px 15px; color: #fffff=
+f; font-size: 22px; line-height: 32px; font-family: Helvetica, Arial, sans-=
+serif, 'Source Sans Pro'; font-weight: 400;" cla&szlig;=3D"padding-copy-hea=
+der">
+           Jetzt Mitglied werden, um die neuesten Angebote zu sehen. Geben =
+Sie einfach Ihre E-Mail-Adresse an.
+          </td>
+        </tr>
+
+        <tr>
+          <td align=3D"center" style=3D"padding: 0;">
+            <!-- BULLETPROOF BUTTON -->
+            <table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpaddin=
+g=3D"0" cla&szlig;=3D"mobile-button-container">
+              <tr>
+                <td align=3D"center" width=3D"100%" cla&szlig;=3D"responsiv=
+e-table">
+                  <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" c=
+la&szlig;=3D"responsive-table">
+                    <tr>
+                      <td align=3D"center">
+                        <a href=3D"http://mediachannelpro.de/ga/click/2-200=
+437775-400-22771-62056-1904238-08dea93c95-f75a1af596" style=3D"font-size: 1=
+4px; font-family: Helvetica, Arial, sans-serif, 'Source Sans Pro'; font-wei=
+ght: 600; color: #ffffff; text-decoration: none; background-color: #ff8c00;=
+ border-top: 16px solid #ff8c00; border-bottom: 16px solid #ff8c00; border-=
+left: 40px solid #ff8c00; border-right: 40px solid #ff8c00; border-radius: =
+4px; -webkit-border-radius: 4px; -moz-border-radius: 4px; display: inline-b=
+lock; letter-spacing: 2px; text-transform: uppercase;">
+                          Jetzt kostenlos anmelden
+                        </a>
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+
+      </table>
+    </td>
+  </tr>
+</table>
+
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" cla&=
+szlig;=3D"responsive-table">
+  <tr>
+    <td bgcolor=3D"#0d0d0d" align=3D"center">
+      <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%=
+" cla&szlig;=3D"responsive-table">
+        <tr>
+          <td style=3D"padding: 30px 0;">
+            <table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpaddin=
+g=3D"0">
+              <tr>
+                <td style=3D"font-family: Helvetica, Arial, sans-serif, 'So=
+urce Sans Pro'; font-size: 14px; font-weight: 400; color: #ffffff; text-ali=
+gn: center; line-height: 20px; padding: 0 30px 3px;">
+                  Gute Reise,
+                </td>
+              </tr>
+              <tr>
+                <td style=3D"font-family: Helvetica, Arial, sans-serif, 'So=
+urce Sans Pro'; font-size: 18px; font-weight: 400; color: #ffffff; text-ali=
+gn: center; line-height: 20px; padding: 0 30px 0;">
+                Ihr Secret Escapes Team
+                </td>
+              </tr>
+              <tr>
+
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+
+
+<!-- FORCES DESKTOP VERSION ON GMAIL MOBILE -->
+<table cla&szlig;=3D"mobile-hide" border=3D"0" cellpadding=3D"0" cellspacin=
+g=3D"0" width=3D"100%">
+  <tr>
+    <td bgcolor=3D"#0d0d0d">
+      <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=3D"cent=
+er" width=3D"600px" style=3D"width:600px;">
+        <tr>
+          <td cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=3D"bac=
+kground-color:#0d0d0d; line-height:1px;" height=3D"1px; min-width: 600px;">
+          <img src=3D"http://image.email.secretescapes.com/lib/fe8a1272746c=
+017a7d/m/2/blank_600px.png" height=3D"1px" width=3D"600px" style=3D"max-hei=
+ght:1px; min-height:1px; display:block; width:600px; min-width:600px;"/>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<div style=3D"display:none; white-space:nowrap; font-family: courier; font-=
+size: 20px; line-height: 0;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbs=
+p; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &n=
+bsp; &nbsp; &nbsp; &nbsp;</div>
+<center>
+<p align=3D"left">
+<span style=3D"color: #999999; font-family: Arial,Helvetica,sans-serif; fon=
+t-size: xx-small;"> Sie erhalten diese E-Mail, weil Sie unsere Dienste in A=
+nspruch nehmen oder an Gewinnspielen=20
+            der Premium Performance Mail AG oder unserer Kooperationspartne=
+r teilgenommen haben. Die Angebote sind kommerzielle Anzeigen der jeweilige=
+n Werbekunden,=20
+            die f=C3=BCr den jeweiligen Inhalt verantwortlich sind. Bei Fra=
+gen zu den Angeboten haben, wenden Sie sich bitte an den in der Anzeige gen=
+annten Anbieter.=20
+            Die Premium Performance Mail AG ist ausschlie=C3=9Flich Versend=
+er dieser Nachricht. Bitte antworten Sie nicht auf diese Mail. Um in Zukunf=
+t keine Informationen mehr von=20
+            dieser Adresse zu erhalten, dann klicken Sie bitte <a style=3D"=
+text-decoration: none;" href=3D"http://mediachannelpro.de/ga/unsubscribe/2-=
+200437775-400-22771-62056-3dd7770685275ec-f75a1af596" target=3D"_blank"><sp=
+an style=3D"font-family: Arial,Helvetica,sans-serif; font-size: xx-small;">=
+<strong>hier</strong></span></a>, um sich abzumelden. Haben Sie Verst=C3=A4=
+ndnis, dass die Abmeldung bis zu 48 Stunden dauern kann.=20
+        <br />Director Caroline Wange<br />
+        The Picasso Building, Caldervale Road, Wakefield, West Yorkshire, U=
+nited Kingdom.</span>=20
+      </p>
+    </center>
+
+
+<custom name=3D"opencounter" type=3D"tracking">
+
+
+  <img src=3D"https://action.metaffiliation.com/trk.php?taff=3DP4BF8B56C497=
+2651&r=3D5961630&r=3D{CACHEBUSTER}&altid=3D{EMAIL}" width=3D"1" height=3D"1=
+" border=3D"0"><img src=3D"http://mediachannelpro.de/ga/open/2-200437775-40=
+0-22771-62056-f75a1af596" height=3D"2" width=3D"3" alt=3D""></body>
+
+</html>
+
+--==3276ee44f94f091ee2c37d26087b7038--
+

@@ -1,0 +1,178 @@
+Return-Path: <sunny@pentag.online>
+Delivered-To: mail@stilfilm.com
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 8AC04C3D2E
+	for <mail@stilfilm.com>; Tue,  7 Jan 2020 08:10:46 +0100 (CET)
+Authentication-Results: v22014122474822114.stilfilm.com; dkim=pass
+	reason="2048-bit key; insecure key"
+	header.d=pentag.online header.i=@pentag.online header.b=SU7xIp2h;
+	dkim-adsp=pass; dkim-atps=neutral
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: 0.045
+X-Spam-Level:
+X-Spam-Status: No, score=0.045 required=4.5 tests=[BAYES_40=-0.001,
+	DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	HTML_MESSAGE=0.001, RCVD_IN_DNSWL_NONE=-0.0001,
+	RCVD_IN_MSPIKE_H3=0.001, RCVD_IN_MSPIKE_WL=0.001, RCVD_IN_SBL=0.141,
+	SPF_HELO_NONE=0.001, SPF_NONE=0.001] autolearn=no autolearn_force=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 2rV2uLA-cl1A for <mail@stilfilm.com>;
+	Tue,  7 Jan 2020 08:10:41 +0100 (CET)
+Received: from mail-pg1-f193.google.com (mail-pg1-f193.google.com [209.85.215.193])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id 0E717C2023
+	for <mail@stilfilm.com>; Tue,  7 Jan 2020 08:10:37 +0100 (CET)
+Received: by mail-pg1-f193.google.com with SMTP id z124so28036762pgb.13
+        for <mail@stilfilm.com>; Mon, 06 Jan 2020 23:10:37 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=pentag.online; s=google;
+        h=from:to:subject:date:message-id:mime-version:thread-index
+         :content-language;
+        bh=wm2LAqSead/6SfTrU9/FCjsfCHdyPKmONiuOrsknjWY=;
+        b=SU7xIp2hSiLdRjjZdGyY1NLhC1uNYw5n/NRG30usGJqMZCtU/vgFS1RVsPb/bXI5mr
+         p9+qhEu8CmGNuKrQ0znpo3ypWIdjAl4tAmmHqVSKxneggpdRwgbYxfCePQ90QIRqbTN9
+         vhaV4vFFOIapikWBXlVdg1P3qvBe6Bg8Z6Mim4oyWTs477Yva7VaSUkbBiw+/8+usEDU
+         Mpg4KQWW8D/sJtCxmafTQLr/yeCXkhQ3rUe2Exo1PLYbBCaPUDk+e8uKyyGOC4EdHTSY
+         t8r5gHQ/o5Sk9pa56vmGF2y/DVajDZ41EqaRmNhPaZghFBihY4CyEY/R6ih72yX6/tFH
+         rtIQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:from:to:subject:date:message-id:mime-version
+         :thread-index:content-language;
+        bh=wm2LAqSead/6SfTrU9/FCjsfCHdyPKmONiuOrsknjWY=;
+        b=is2gkIjO0zou468ArBvLXurFudWuO267LYzZud3YHIb5wr//eR/0J7qiVEX3XqB/ET
+         pQHAARV3x1uXUNJCUBjpAavzrKJOWZlpNAYY53Wzpd41UIZ7hkaG7Yd0JefeRckwZ272
+         ZgLcWMSKb6pus3JVeTaKFDU2hZHpMb7ct7bGbB9rV6m5VbT3Qj80+ugjMKQzkY4um29m
+         Hv2dkJ1QPe90ucojtnIu1fSSrwaI/uOKZjWRlLyaV18/pwcx5Q+hQg67l3HTgxbTAgdu
+         Oj18o0smRBMK7QZoe0zR6gkNipxsxGVCTD/x7Y3f6UmKc/spO2G4U10za4eCcxggk3Kw
+         dvDg==
+X-Gm-Message-State: APjAAAWfWZavEmISWSLp9LfV7CUFaKVqiBsgVCHpkVZCTVe2g2oj5uNy
+	mxII5pMD2NEg9YzAvN5JtjO2RiG9DNE=
+X-Google-Smtp-Source: APXvYqz/lqC94qK8MTbdaQ/eAjynMJtwRpCevN7Feo68DnYQ+sO1nW+TIugeF3vKl/6ZUy8IoBUJmg==
+X-Received: by 2002:a62:5544:: with SMTP id j65mr116076683pfb.121.1578381035333;
+        Mon, 06 Jan 2020 23:10:35 -0800 (PST)
+Received: from mmPC ([196.207.114.157])
+        by smtp.gmail.com with ESMTPSA id 199sm84419632pfv.81.2020.01.06.23.10.33
+        for <mail@stilfilm.com>
+        (version=TLS1 cipher=ECDHE-RSA-AES128-SHA bits=128/128);
+        Mon, 06 Jan 2020 23:10:34 -0800 (PST)
+From: "Sunny" <sunny@pentag.online>
+To: <mail@stilfilm.com>
+Subject:  Website Designing
+Date: Tue, 7 Jan 2020 12:40:08 +0530
+Message-ID: <4d0401d5c529$8cf5d5f0$a6e181d0$@online>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_4D05_01D5C557.A6AE11F0"
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-Index: AdXFKNAZCD4LtiRySvCXw7P/Yfa1Ng==
+Content-Language: en-us
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_4D05_01D5C557.A6AE11F0
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+Hi,mail@stilfilm.com
+
+ I am Sunny, a Web Development Manager in India and I work with
+100+experienced IT professionals who are into:
+
+ Website Designing, Web Development, PHP Development, e-Commerce solutions,
+iPhone And Android Apps Development.
+
+ May I know if you are interested in any of these services?
+
+ If you are interested, then I can send you our past work details, company
+information and an affordable quotation with the best offer.
+
+  Thanks & Regards,
+
+Sunny.
+
+ Web Development Manager
+
+ 
+
+
+------=_NextPart_000_4D05_01D5C557.A6AE11F0
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40"><head><META =
+HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html; =
+charset=3Dus-ascii"><meta name=3DGenerator content=3D"Microsoft Word 12 =
+(filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin-top:0in;
+	margin-right:0in;
+	margin-bottom:10.0pt;
+	margin-left:0in;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+p
+	{mso-style-priority:99;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+.MsoChpDefault
+	{mso-style-type:export-only;}
+.MsoPapDefault
+	{mso-style-type:export-only;
+	margin-bottom:10.0pt;
+	line-height:115%;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DEN-US><div =
+class=3DWordSection1><p><b><span =
+style=3D'font-size:13.0pt;color:#0033CC'>Hi,mail@stilfilm.com</span></b><=
+/p><p><b><span style=3D'font-size:13.0pt;color:#0033CC'>&nbsp;I =
+am&nbsp;Sunny, a Web Development Manager in India and I work with =
+100+experienced IT professionals who are into:</span></b></p><p><b><span =
+style=3D'font-size:13.0pt;color:#0033CC'>&nbsp;</span></b><b><span =
+style=3D'font-size:13.0pt;color:red'>Website&nbsp;Designing, Web =
+Development, PHP Development, e-Commerce solutions, iPhone And Android =
+Apps Development.</span></b></p><p><b><span =
+style=3D'font-size:13.0pt;color:#0033CC'>&nbsp;May I know if you are =
+interested in any of these services?</span></b></p><p><b><span =
+style=3D'font-size:13.0pt;color:#0033CC'>&nbsp;If you are interested, =
+then I can send you our past work details, company information and an =
+affordable quotation with the best offer.</span></b></p><p><b><span =
+style=3D'font-size:13.0pt;color:#0033CC'>&nbsp;&nbsp;Thanks &amp; =
+Regards,</span></b></p><p><b><span =
+style=3D'font-size:13.0pt;color:#0033CC'>Sunny.</span></b></p><p><b><span=
+ style=3D'font-size:13.0pt;color:#0033CC'>&nbsp;Web Development =
+Manager</span></b></p><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p></div></body></html>
+------=_NextPart_000_4D05_01D5C557.A6AE11F0--
+

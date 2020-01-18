@@ -1,0 +1,206 @@
+Return-Path: <dd5@eeecos.org>
+Delivered-To: mail@stilfilm.com
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 66DE2C4393
+	for <mail@stilfilm.com>; Fri,  3 Feb 2017 08:02:00 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 3.584
+X-Spam-Level: ***
+X-Spam-Status: Yes, score=3.584 required=2 tests=[BAYES_50=0.8,
+	DKIM_SIGNED=0.1, HTML_MESSAGE=0.001, PYZOR_CHECK=1.392,
+	RCVD_IN_SORBS_SPAM=0.5, SPF_NEUTRAL=0.779, T_DKIM_INVALID=0.01,
+	URIBL_BLOCKED=0.001, URIBL_DBL_ABUSE_REDIR=0.001] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.yourvserver.net [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id cxVElFvHs3fo for <mail@stilfilm.com>;
+	Fri,  3 Feb 2017 08:01:58 +0100 (CET)
+Received: from mail-oi0-f54.google.com (mail-oi0-f54.google.com [209.85.218.54])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id EF645C419E
+	for <mail@stilfilm.com>; Fri,  3 Feb 2017 08:01:57 +0100 (CET)
+Received: by mail-oi0-f54.google.com with SMTP id u143so6327480oif.3
+        for <mail@stilfilm.com>; Thu, 02 Feb 2017 23:01:57 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=eeecos.org; s=google;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=qpdhBBeHE2vNFdUu8KGIkOSHeO7Upf4ExHj+M6xiQ0s=;
+        b=kqoOMnVaZtfAhfZ0CWwYsVYTdmlEn6dYvE/zFC2o8Ey0VMal/ATKDxfkUyytsshgBD
+         XAjy/atdcGS3jkRppi0YoJr8P8D/vt32C+zUby/cqAwyzoyCRuv5Kpx3bz9A8g8dmUid
+         DHyzBl4VCH2nWeTVZmPB4F8xlLTWkcOYmZAtg=
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=qpdhBBeHE2vNFdUu8KGIkOSHeO7Upf4ExHj+M6xiQ0s=;
+        b=ggwO+qdmmOMIhiFKzcYW5gksLsdelwaVFuyUpRU54LPftnUvx2v51/0oJzgEHScMjc
+         P7oQCh8ShOY0z/v/mn3RZzDibBE8LE4ESWQgHIbHOKPk/rh6U9dyKdJ9GDR4uoP1zXf7
+         iHWxoBDS7ZwX22YkJNm6PwUbJmaR0pyVDO5Whcv31RwlXLhsUBPUpoaDkN+coOHeWYQj
+         LOXYdPc7yx/nMM+7FdNVVtecY5uAk/p/07hwTGttsEecAY2lUuAJZbS1LOV88hyml6nG
+         SqVZ7arTvvd934dY4zYAvTUe2ZGdDZuEocuLYHWVihI7qKqxkNZuu5h5Pzne2zfMYrlD
+         c6WA==
+X-Gm-Message-State: AIkVDXLiWWmvphjbBfB7/NuVrHYFglaIhZefqFuMuAtrtbwakHeIFNapWw9LDKVKQA7BTI2YRLDjDlsp64yCMENaAqfG3bHNaArli6PZ7R2ZOHWFUf0vnYB+pWUsij2idsCI3yvZ3rI6yA==
+X-Received: by 10.36.127.132 with SMTP id r126mr1054661itc.57.1486105316258;
+ Thu, 02 Feb 2017 23:01:56 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.107.188.131 with HTTP; Thu, 2 Feb 2017 23:01:55 -0800 (PST)
+From: A Bhavani <dd5@eeecos.org>
+Date: Fri, 3 Feb 2017 12:31:55 +0530
+Message-ID: <CANREbT8zKwux4qNDRHRKsfXL4QPOqLgNmfQCQ2UDECeyBZTvuQ@mail.gmail.com>
+Subject: ***SPAM*** 
+To: fcsptc@outlook.com
+Content-Type: multipart/alternative; boundary=001a11475394799b6e05479adbed
+
+--001a11475394799b6e05479adbed
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+*Respected Sir/Madam,*
+
+
+
+AIP: Conference Proceedings publications. =E2=80=9CInternational Conference=
+ on
+Functional Materials, Characterization, Solid State Physics, Power, Thermal
+and Combustion Energy=E2=80=9D- FCSPTC-2017 is going to be taken place at
+Ramachandra College of engineering in Eluru, Andhra Pradesh, India.
+
+Proceeding Papers will be published by AIP: Publication
+
+
+
+*Important Dates:*
+
+Last date of Paper submission:
+
+23rd Feb 2017
+
+Conference dates:
+
+7th to 8th April 2017
+
+
+
+Hope to receive your valuable contribution for this meeting.
+
+Further Information: https://is.gd/NoMKqV
+
+--=20
+
+------------------------------
+*Disclaimer: *This email and any file(s) transmitted with it are=20
+confidential and intended solely for the use of the individual or entity to=
+=20
+whom they are addressed. This message contains confidential information and=
+=20
+is intended only for the individual named. If you are not the named=20
+addressee you should not disseminate, distribute or copy this e-mail.=20
+Please notify the sender immediately by e-mail if you have received this=20
+e-mail by mistake and delete this e-mail from your system. If you are not=
+=20
+the intended recipient you are notified that disclosing, copying,=20
+distributing or taking any action in reliance on the contents of this=20
+information is strictly prohibited.
+------------------------------
+
+--001a11475394799b6e05479adbed
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><p class=3D"MsoNormal"><b><span style=3D"color:red">Respec=
+ted Sir/Madam,<span></span></span></b></p>
+
+<p class=3D"MsoNormal"><b><span style=3D"color:red">=C2=A0</span></b></p>
+
+<p class=3D"MsoNormal">AIP: Conference Proceedings publications. =E2=80=9CI=
+nternational
+Conference on Functional Materials, Characterization, Solid State Physics,
+Power, Thermal and Combustion Energy=E2=80=9D- FCSPTC-2017 is going to be t=
+aken place
+at Ramachandra College of engineering in Eluru, Andhra Pradesh, India.</p>
+
+<p class=3D"MsoNormal">Proceeding Papers will be published by AIP: Publicat=
+ion</p>
+
+<p class=3D"MsoNormal"><span>=C2=A0</span></p>
+
+<p class=3D"MsoNormal"><b><span style=3D"color:rgb(0,176,240)">Important Da=
+tes:<span></span></span></b></p>
+
+<table class=3D"gmail-MsoTableGrid" border=3D"1" cellspacing=3D"0" cellpadd=
+ing=3D"0" style=3D"border-collapse:collapse;border:none">
+ <tbody><tr style=3D"height:12.85pt">
+  <td width=3D"211" valign=3D"top" style=3D"width:158.15pt;border-width:1pt=
+;border-style:solid;border-color:black windowtext black black;padding:0in 5=
+.4pt;height:12.85pt">
+  <p class=3D"MsoNormal" style=3D"margin-bottom:0.0001pt;line-height:normal=
+">Last date of Paper submission:</p>
+  </td>
+  <td width=3D"230" valign=3D"top" style=3D"width:172.75pt;border-top:1pt s=
+olid black;border-right:1pt solid black;border-bottom:1pt solid black;borde=
+r-left:none;padding:0in 5.4pt;height:12.85pt">
+  <p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt 9.95pt;line-heigh=
+t:normal">23rd Feb 2017</p>
+  </td>
+ </tr>
+ <tr style=3D"height:12.85pt">
+  <td width=3D"211" valign=3D"top" style=3D"width:158.15pt;border-top:none;=
+border-left:1pt solid black;border-bottom:1pt solid black;border-right:1pt =
+solid windowtext;padding:0in 5.4pt;height:12.85pt">
+  <p class=3D"MsoNormal" style=3D"margin-bottom:0.0001pt;line-height:normal=
+">Conference dates:</p>
+  </td>
+  <td width=3D"230" valign=3D"top" style=3D"width:172.75pt;border-top:none;=
+border-left:none;border-bottom:1pt solid black;border-right:1pt solid black=
+;padding:0in 5.4pt;height:12.85pt">
+  <p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt 9.95pt;line-heigh=
+t:normal">7th to 8th April
+  2017</p>
+  </td>
+ </tr>
+</tbody></table>
+
+<p class=3D"MsoNormal"><span>=C2=A0</span></p>
+
+<p class=3D"MsoNormal">Hope to receive your valuable contribution for this =
+meeting.</p>
+
+<p class=3D"MsoNormal">Further Information: <a href=3D"https://is.gd/NoMKqV=
+">https://is.gd/NoMKqV</a>
+=C2=A0=C2=A0</p></div>
+
+<br>
+<b style=3D"font-style:normal;font-variant:normal;letter-spacing:normal;lin=
+e-height:normal;text-align:start;text-indent:0px;text-transform:none;white-=
+space:normal;word-spacing:0px;color:rgb(0,0,0);font-family:Arial,Helvetica,=
+sans-serif;font-size:13px;background-color:rgb(255,255,255)"><span style=3D=
+"font-size:12pt;line-height:18.4px;font-family:&#39;Times New Roman&#39;,se=
+rif;color:rgb(34,34,34);background-image:initial;background-repeat:initial"=
+ lang=3D"EN-IN"></span></b><hr><b style=3D"font-style:normal;font-variant:n=
+ormal;letter-spacing:normal;line-height:normal;text-align:start;text-indent=
+:0px;text-transform:none;white-space:normal;word-spacing:0px;color:rgb(0,0,=
+0);font-family:Arial,Helvetica,sans-serif;font-size:13px;background-color:r=
+gb(255,255,255)"><span style=3D"font-size:12pt;line-height:18.4px;font-fami=
+ly:&#39;Times New Roman&#39;,serif;color:rgb(34,34,34);background-image:ini=
+tial;background-repeat:initial" lang=3D"EN-IN">Disclaimer:=C2=A0</span></b>=
+<span style=3D"color:rgb(34,34,34);font-style:normal;font-variant:normal;fo=
+nt-weight:normal;letter-spacing:normal;text-align:start;text-indent:0px;tex=
+t-transform:none;white-space:normal;word-spacing:0px;font-size:12pt;line-he=
+ight:18.4px;font-family:&#39;Times New Roman&#39;,serif;background-image:in=
+itial;background-color:rgb(255,255,255);background-repeat:initial" lang=3D"=
+EN-IN">This email and any file(s) transmitted with it are confidential and =
+intended solely for the use of the individual or entity to whom they are ad=
+dressed. This message contains confidential information and is intended onl=
+y for the individual named. If you are not the named addressee you should n=
+ot disseminate, distribute or copy this e-mail. Please notify the sender im=
+mediately by e-mail if you have received this e-mail by mistake and delete =
+this e-mail from your system. If you are not the intended recipient you are=
+ notified that disclosing, copying, distributing or taking any action in re=
+liance on the contents of this information is strictly prohibited.</span><h=
+r><span style=3D"color:rgb(34,34,34);font-style:normal;font-variant:normal;=
+font-weight:normal;letter-spacing:normal;text-align:start;text-indent:0px;t=
+ext-transform:none;white-space:normal;word-spacing:0px;font-size:12pt;line-=
+height:18.4px;font-family:&#39;Times New Roman&#39;,serif;background-image:=
+initial;background-color:rgb(255,255,255);background-repeat:initial" lang=
+=3D"EN-IN"></span>
+--001a11475394799b6e05479adbed--

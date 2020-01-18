@@ -1,0 +1,81 @@
+Return-Path: <haydn_liutpold@igra-school.com>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 440DCD26EB
+	for <mail@dorianvasco.de>; Mon, 13 Feb 2017 12:33:29 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 7.937
+X-Spam-Level: *******
+X-Spam-Status: Yes, score=7.937 required=2 tests=[BAYES_50=0.8,
+	DIGEST_MULTIPLE=0.293, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, HTML_MESSAGE=0.001, PYZOR_CHECK=1.392,
+	RAZOR2_CF_RANGE_51_100=0.5, RAZOR2_CF_RANGE_E8_51_100=1.886,
+	RAZOR2_CHECK=0.922, RCVD_IN_BRBL_LASTEXT=1.449, RDNS_NONE=0.793,
+	URIBL_BLOCKED=0.001] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.yourvserver.net [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 6qPrcweDoL-l for <mail@dorianvasco.de>;
+	Mon, 13 Feb 2017 12:33:27 +0100 (CET)
+Received: from ns1.server-ok.net (unknown [195.211.154.69])
+	(using TLSv1.2 with cipher AECDH-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id C978ED26EA
+	for <kontakt@dorianvasco.de>; Mon, 13 Feb 2017 12:33:27 +0100 (CET)
+Received: from localhost (localhost [127.0.0.1])
+	by ns1.server-ok.net (Postfix) with ESMTP id BAA55C298AB3
+	for <kontakt@dorianvasco.de>; Mon, 13 Feb 2017 13:33:26 +0200 (EET)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=igra-school.com;
+	 h=content-transfer-encoding:content-type:content-type
+	:mime-version:message-id:from:from:date:date:subject:subject; s=
+	default; t=1486985605; x=1488800006; bh=75ZT0EeXt3YAJaypS1akL0on
+	z6p3bAwRT3BivWawdyE=; b=GRdkuydwLJ2I8yE5Jl6J1DzINt3TeSDtntLy+fkh
+	yjjT4CKFuVrHJB+L1gq9OHX73FzvqVeWLz4nsFpSYf7lkHoG/bpdVz3Zs6j/d2UW
+	vbE0JEQaODd17aglLIln5Z3mXe9HdtblbPC/z3KDJFj3C35GkPlXcPA+QnN8g5be
+	kKI=
+X-Virus-Scanned: amavisd-new at ns1.server-ok.net
+Received: from ns1.server-ok.net ([127.0.0.1])
+	by localhost (ns1.server-ok.net [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id R9fHUw-dvwcI for <kontakt@dorianvasco.de>;
+	Mon, 13 Feb 2017 13:33:25 +0200 (EET)
+Received: by ns1.server-ok.net (Postfix, from userid 10006)
+	id 0A0B0C298EF9; Mon, 13 Feb 2017 13:33:15 +0200 (EET)
+To: kontakt@dorianvasco.de
+Subject: ***SPAM*** Du kannst den Valentinstag in meinem Bett verbringen!
+X-PHP-Originating-Script: 10006:javascript36.php(1961) : eval()'d code
+Date: Mon, 13 Feb 2017 13:33:15 +0200
+From: Haydn Liutpold <haydn_liutpold@igra-school.com>
+Message-ID: <62a2e972ecdfe5900615f2cccec0806b@igra-school.com>
+X-Priority: 3
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_62a2e972ecdfe5900615f2cccec0806b"
+Content-Transfer-Encoding: 8bit
+
+--b1_62a2e972ecdfe5900615f2cccec0806b
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+Da ist niemand, mit dem du den Valentinstag feiern kannst? Besuche unsere Website!
+Bei uns gibt es viele einsame Frauen und Männer, die bereit sind, den Valentinstag mit dir zu verbringen und Sex zu machen!
+
+[ http://igra-school.com/view.php?s=136&6ovt=5MQfBAXXuEYUzL5NcJx1k&3AJ=5Zc&5PoF=6G ] Wir sind hier!
+
+
+--b1_62a2e972ecdfe5900615f2cccec0806b
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+<html>
+<body>
+Da ist niemand, mit dem du den Valentinstag feiern kannst? Besuche unsere Website!<br>
+Bei uns gibt es viele einsame Frauen und Männer, die bereit sind, den Valentinstag mit dir zu verbringen und Sex zu machen!<br>
+<br>
+<a href="http://igra-school.com/view.php?s=136&6ovt=5MQfBAXXuEYUzL5NcJx1k&3AJ=5Zc&5PoF=6G">Wir sind hier!</a><br>
+</body>
+</html>
+
+
+
+--b1_62a2e972ecdfe5900615f2cccec0806b--
+

@@ -1,0 +1,250 @@
+Return-Path: <shivam@xptseo.store>
+Delivered-To: mail@stilfilm.com
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 64000C7770
+	for <mail@stilfilm.com>; Tue, 16 Apr 2019 13:41:15 +0200 (CEST)
+Authentication-Results: v22014122474822114.stilfilm.com; dkim=pass
+	reason="2048-bit key; insecure key"
+	header.d=xptseo-store.20150623.gappssmtp.com header.i=@xptseo-store.20150623.gappssmtp.com
+	header.b=AIvy6849; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: 2.142
+X-Spam-Level: **
+X-Spam-Status: No, score=2.142 required=5.5 tests=[BAYES_80=2,
+	DKIM_SIGNED=0.1, DKIM_VALID=-0.1, HTML_MESSAGE=0.001,
+	RCVD_IN_DNSWL_NONE=-0.0001, RCVD_IN_SBL=0.141] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id nNblLzTWJyh3 for <mail@stilfilm.com>;
+	Tue, 16 Apr 2019 13:41:08 +0200 (CEST)
+Received: from mail-pg1-f195.google.com (mail-pg1-f195.google.com [209.85.215.195])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id C051BC6D62
+	for <mail@stilfilm.com>; Tue, 16 Apr 2019 13:41:04 +0200 (CEST)
+Received: by mail-pg1-f195.google.com with SMTP id g8so10235103pgf.2
+        for <mail@stilfilm.com>; Tue, 16 Apr 2019 04:41:04 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=xptseo-store.20150623.gappssmtp.com; s=20150623;
+        h=from:to:subject:date:message-id:mime-version:content-language
+         :thread-index;
+        bh=RWgdWuTfwet0izjpjfBZv6Iy+uRDAYigxQAMeKAXSSQ=;
+        b=AIvy6849a85/vaQhzjkquHsj9WjYrSouNKhEEyET3sKnMAyfAUdUCsxwTYjIlMOE82
+         7hr/aumsiL52yKFabrmI0Iklk2C56gOtbKGhwo6Ek9Oqo3U3x7vr1lspGKy815q8R0Zf
+         RtLgT5UhldfdwWYOX6KMdEw+otrRNx7afL13FE2K9sa2myYSx+ktXslEym8DdWuRBhh7
+         1uVVmZqlDQ3QeUTfHNFz1kkqe+UpLq/R3tGYj7eWqfSdzQmdMy8DbRR8fVzoTZ5wwpTp
+         j2l9G2IYFrvuo//0m4JzoAUleKnufk+jvGk1Ofzp0USVyN8Mo7kWRMjicnNyY2r9UgOu
+         z4Lg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:from:to:subject:date:message-id:mime-version
+         :content-language:thread-index;
+        bh=RWgdWuTfwet0izjpjfBZv6Iy+uRDAYigxQAMeKAXSSQ=;
+        b=SIzMMWekYUlIwrl74ZF52hKqAxTyroJ9rJjRmUer5MAkG7qXIdyexKPz783DqS5rpP
+         kfsQLi77RC2543zila8R9RZXqe6tBCX6wtKgZyFg+/pliA4ehW+rX+dESZnQ2OsKf2AQ
+         Pyot+JKSPpqA7rDGDrBaDn0pBdUBWCop5I77Z+gFABO8A5odGaDRMZ7AjeR07L6GtGzy
+         62ggFchOnOwkhKFJ3oIxCodAEVSdFpCPBSAYxrSLk8U8ULZUUkPPtKWgUh6kPFNfboCr
+         YswcEY81n/sItsNqfs8YyS/J2osyRuacH87Hiu/m4+OuSGnuEcHmRW40iVdnATLJo3bf
+         DhEw==
+X-Gm-Message-State: APjAAAU/Q7/UyVI6CYJvvtXtfIYqXF3FP2zL2F7M5m9Nb4hH1FllcgZy
+	/cq9OJcXKIsjrpviXQsRvIvgOxd31jw=
+X-Google-Smtp-Source: APXvYqxyWjOHuL6HsI7x9rqMDi8sl0Vkzjg3IkKCrDaYAGrwNPoxUdldTZ4Oism9Nl1cIDv1zU6ADA==
+X-Received: by 2002:a63:f44:: with SMTP id 4mr71950262pgp.324.1555414860842;
+        Tue, 16 Apr 2019 04:41:00 -0700 (PDT)
+Received: from omPC ([43.251.93.140])
+        by smtp.gmail.com with ESMTPSA id p66sm77788639pfb.4.2019.04.16.04.40.59
+        for <mail@stilfilm.com>
+        (version=TLS1 cipher=ECDHE-RSA-AES128-SHA bits=128/128);
+        Tue, 16 Apr 2019 04:41:00 -0700 (PDT)
+From: "Shivam" <shivam@xptseo.store>
+To: <mail@stilfilm.com>
+Subject: Keywords must be present in the site
+Date: Tue, 16 Apr 2019 17:04:57 +0530
+Message-ID: <1ad3e01d4f449$42dc70c0$c8955240$@store>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_1AD3F_01D4F477.5C94ACC0"
+X-Mailer: Microsoft Office Outlook 12.0
+Content-Language: en-us
+Thread-Index: AdT0R5c69HBJAOq2T+e755oHMDhx4A==
+x-cr-hashedpuzzle: APpD BPE1 DJv6 Ef4J EiQ4 EngL FM+G G0uw HCbk HTPh IMD0 IOuK Ij7r I4ei JTfF JbRX;1;bQBhAGkAbABAAHMAdABpAGwAZgBpAGwAbQAuAGMAbwBtAA==;Sosha1_v1;7;{1B26FF8D-89E4-4ECF-BE00-BC61E5C7AEF9};cwBoAGkAdgBhAG0AQAB4AHAAdABzAGUAbwAuAHMAdABvAHIAZQA=;Tue, 16 Apr 2019 11:31:08 GMT;SwBlAHkAdwBvAHIAZABzACAAbQB1AHMAdAAgAGIAZQAgAHAAcgBlAHMAZQBuAHQAIABpAG4AIAB0AGgAZQAgAHMAaQB0AGUA
+x-cr-puzzleid: {1B26FF8D-89E4-4ECF-BE00-BC61E5C7AEF9}
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_1AD3F_01D4F477.5C94ACC0
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+Hello,
+
+ 
+
+I am Shivam, Marketing Executive. We are web-designing and PHP based
+Development Company based in New Delhi, India
+
+ 
+
+I would like to introduce you to our mobile website development section. We
+develop professional websites for mobile devices and smart phone, which are
+easy to access on small screens and can help in getting queries and they are
+SEO friendly as well.
+
+ 
+
+Please let us know in case you have any such requirement, so that we can
+discuss rates
+
+ 
+
+Waiting for your valuable reply
+
+ 
+
+Regards, 
+
+Shivam
+
+Marketing Executive
+
+ 
+
+ 
+
+ 
+
+
+------=_NextPart_000_1AD3F_01D4F477.5C94ACC0
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<META HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html; =
+charset=3Dus-ascii">
+<meta name=3DGenerator content=3D"Microsoft Word 12 (filtered medium)">
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+.MsoChpDefault
+	{mso-style-type:export-only;}
+.MsoPapDefault
+	{mso-style-type:export-only;
+	margin-bottom:10.0pt;
+	line-height:115%;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+
+</head>
+
+<body lang=3DEN-US>
+
+<div class=3DSection1>
+
+<p class=3DMsoNormal><b><font size=3D4 face=3D"Times New Roman"><span
+style=3D'font-size:14.0pt;font-weight:bold'>Hello,</span></font></b><o:p>=
+</o:p></p>
+
+<p class=3DMsoNormal><b><font size=3D4 face=3D"Times New Roman"><span
+style=3D'font-size:14.0pt;font-weight:bold'>&nbsp;</span></font></b><o:p>=
+</o:p></p>
+
+<p class=3DMsoNormal><b><font size=3D4 face=3D"Times New Roman"><span
+style=3D'font-size:14.0pt;font-weight:bold'>I am&nbsp;Shivam, Marketing
+Executive. We are&nbsp;web-designing&nbsp;and PHP based Development =
+Company
+based in New Delhi,&nbsp;India</span></font></b><o:p></o:p></p>
+
+<p class=3DMsoNormal><b><font size=3D4 face=3D"Times New Roman"><span
+style=3D'font-size:14.0pt;font-weight:bold'>&nbsp;</span></font></b><o:p>=
+</o:p></p>
+
+<p class=3DMsoNormal><b><font size=3D4 face=3D"Times New Roman"><span
+style=3D'font-size:14.0pt;font-weight:bold'>I would like to introduce =
+you to our
+mobile website development section. We develop professional websites for =
+mobile
+devices and smart phone, which are easy to access on small screens and =
+can help
+in getting queries and they are SEO friendly as =
+well.</span></font></b><o:p></o:p></p>
+
+<p class=3DMsoNormal><b><font size=3D4 face=3D"Times New Roman"><span
+style=3D'font-size:14.0pt;font-weight:bold'>&nbsp;</span></font></b><o:p>=
+</o:p></p>
+
+<p class=3DMsoNormal><b><font size=3D4 face=3D"Times New Roman"><span
+style=3D'font-size:14.0pt;font-weight:bold'>Please let us know in case =
+you have
+any such requirement, so that we can discuss =
+rates</span></font></b><o:p></o:p></p>
+
+<p class=3DMsoNormal><b><font size=3D4 face=3D"Times New Roman"><span
+style=3D'font-size:14.0pt;font-weight:bold'>&nbsp;</span></font></b><o:p>=
+</o:p></p>
+
+<p class=3DMsoNormal><b><font size=3D4 face=3D"Times New Roman"><span
+style=3D'font-size:14.0pt;font-weight:bold'>Waiting for your valuable =
+reply</span></font></b><o:p></o:p></p>
+
+<p class=3DMsoNormal><b><font size=3D4 face=3D"Times New Roman"><span
+style=3D'font-size:14.0pt;font-weight:bold'>&nbsp;</span></font></b><o:p>=
+</o:p></p>
+
+<p class=3DMsoNormal><b><font size=3D4 face=3D"Times New Roman"><span
+style=3D'font-size:14.0pt;font-weight:bold'>Regards,</span></font></b> =
+</p>
+
+<p class=3DMsoNormal><font size=3D3 face=3D"Times New Roman"><span =
+style=3D'font-size:
+12.0pt'>Shivam</span></font></p>
+
+<p class=3DMsoNormal><b><font size=3D4 face=3D"Times New Roman"><span
+style=3D'font-size:14.0pt;font-weight:bold'>Marketing =
+Executive</span></font></b><o:p></o:p></p>
+
+<p class=3DMsoNormal><font size=3D3 face=3D"Times New Roman"><span =
+style=3D'font-size:
+12.0pt'>&nbsp;<o:p></o:p></span></font></p>
+
+<p class=3DMsoNormal><font size=3D3 face=3D"Times New Roman"><span =
+style=3D'font-size:
+12.0pt'>&nbsp;</span></font></p>
+
+<p class=3DMsoNormal><font size=3D3 face=3D"Times New Roman"><span =
+style=3D'font-size:
+12.0pt'><o:p>&nbsp;</o:p></span></font></p>
+
+</div>
+
+</body>
+
+</html>
+
+------=_NextPart_000_1AD3F_01D4F477.5C94ACC0--
+

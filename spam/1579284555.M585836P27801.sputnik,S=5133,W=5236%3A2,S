@@ -1,0 +1,103 @@
+Return-Path: <mariussaabdyz@canthocamera.com>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id B7DF6C3CC0
+	for <mail@dorianvasco.de>; Wed, 18 Sep 2019 11:20:14 +0200 (CEST)
+Authentication-Results: v22014122474822114.stilfilm.com; dkim=pass
+	reason="1024-bit key; insecure key"
+	header.d=canthocamera.com header.i=mariussaabdyz@canthocamera.com
+	header.b=Tfpk6IQF; dkim-adsp=pass; dkim-atps=neutral
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 7.845
+X-Spam-Level: *******
+X-Spam-Status: Yes, score=7.845 required=5.5 tests=[BAYES_50=0.8,
+	DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	HTML_IMAGE_ONLY_20=1.546, HTML_MESSAGE=0.001,
+	HTML_SHORT_LINK_IMG_3=0.148, SPF_HELO_NONE=0.001, SPF_PASS=-0.001,
+	URIBL_ABUSE_SURBL=1.25, URIBL_BLACK=1.7, URIBL_DBL_SPAM=2.5]
+	autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id d4lckrPwNZMa for <mail@dorianvasco.de>;
+	Wed, 18 Sep 2019 11:20:13 +0200 (CEST)
+Received: from distance.canthocamera.com (distance.hamyarizanjan.com [45.95.33.145])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id DFA48C16CD
+	for <mail@dorianvasco.de>; Wed, 18 Sep 2019 11:20:11 +0200 (CEST)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=canthocamera.com;
+ h=Date:List-Unsubscribe:Subject:MIME-Version:To:Message-ID:From:Content-Type:Content-Transfer-Encoding; i=mariussaabdyz@canthocamera.com;
+ bh=gCCDVpljBPyPDOIGBq/r069NRKs=;
+ b=Tfpk6IQF/pXtUR86AhmyOip8Ipq2S8GV9kfcApjn60vi5mVje7fiF3WgTzLUhDYXp2zGVqt8VYJG
+   drhrz76bGMLsT0Ttp8SHd0omsJdPvi5SCpOzxfibITj93M1TfuxrGlh6rR/sqf19r0hHKNo+/qiD
+   qmYeCe61J/Ibq+xrGgs=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=canthocamera.com;
+ b=rtiX1pQrlxdGS7ppmdeRWZz9isVJ/WG5pMJ3+3zQ3PLSXqTev+iLeiEr8HKSkX6jQfASNQZ305AR
+   BNCuBB68r6+451UeQul+pv1brUCFdv0lPOUWDBZX/qtc1HTU11zb8ufzQaiHvyTdqjP/5OVPL6sk
+   y0AjJ2JFMrHdi83quHc=;
+Date: Wed, 18 Sep 2019 11:20:17 +0200
+List-Unsubscribe:  <http://canthocamera.com/ub.php?b=uyju32678708pz40eky99gkz4d6n3qfnn6z3gj>
+Subject: =?UTF-8?Q?Ultramoderne=C2=A0Taschenlampe:_200m_Leuchtweite,_wetterfest,_platzsparend?=
+MIME-Version: 1.0
+To:  <mail@dorianvasco.de>
+Message-ID: <zgnmnxmtkeat9278004319625368364@tw.canthocamera.com>
+X-Report-Abuse:  <http://canthocamera.com/aa.php?a=uyju32678708pz40eky99gkz4d6n3qfnn6z3gj>
+From: =?UTF-8?Q?Marius?= <mariussaabdyz@canthocamera.com>
+Precedence: bulk
+Content-Type: multipart/alternative; boundary=b1_vs6hvgpmmlresw5.8JK59K; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+--b1_vs6hvgpmmlresw5.8JK59K
+Content-Type: text/plain; format=flowed; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+
+=0D
+[Dunkel] Kleine Akku-Lampe mit gro=C3=9Fem Licht, mit verstellbarer Helligk=
+eit:=0D
+=0D
+http://bdfm.canthocamera.com=0D
+=0D
+=0D
+=0D
+Abmelden hier:=0D
+http://canthocamera.com/ub.php?zs=3Duyju32678708pz40eky99gkz4d6n3qfnn6z3gj=
+=0D
+=0D
+SUPER HELLE=C2=A0Taschenlampe: verstellbarer Leuchtstrahl, Leuchtweite 200m=
+, sto=C3=9Ffest=
+
+
+--b1_vs6hvgpmmlresw5.8JK59K
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+
+<!DOCTYPE html><head><meta name=3D"charset" content=3D"utf-8"><meta charset=
+=3D"utf-8"><title></title></head><body>=0D
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" st=
+yle=3D"width:650px;margin:0 auto;"><tbody><tr><td>Keine Taschenlampe? Akku =
+Leuchtmittel, verstellbarer Lichtstrahl, 200m Leuchtweite<br></td></tr><tr>=
+<td>
+<p style=3D"line-height:22px;font-size:14px;"><a style=3D"font-variant:norm=
+al; border-right:solid 1px #000000; border-top-style:double; border-color:#=
+0000cc; " href=3D"http://bdfm.canthocamera.com/jfp:uyju32678708pz40eky99gkz=
+4d6n3qfnn6z3gj"><img src=3D"http://m1-0.canthocamera.com/00.jpg" alt=3D"Mod=
+ernste=C2=A0Taschenlampe: verstellbarer Leuchtstrahl, Leuchtweite 200m, Met=
+allgeh=C3=A4use" /></a>=0D
+<br><a href=3D"http://bdfm.canthocamera.com/hdb:uyju32678708pz40eky99gkz4d6=
+n3qfnn6z3gj" style=3D"border-left-color:#007700; border-top-color:#000000; =
+clear:both; border-top:double 2px #ffffff; ">Was sagen Sie zu einem langleb=
+igen Handstrahler? Akku Handstrahler mit Metallgeh=C3=A4use, 200m</a>=0D
+<br></p></td></tr></tbody></table><br>Statt=C2=A0Taschenlampe=C2=A0mit schw=
+achem Licht - Handstrahler mit gro=C3=9Fer Helligkeit, gro=C3=9Fe Reichweit=
+e<br><div style=3D"text-align:center;"><a href=3D"http://canthocamera.com/u=
+b.php?kfa=3Duyju32678708pz40eky99gkz4d6n3qfnn6z3gj" style=3D"background-col=
+or:#ffffff; font-size:12px; border-left-color:#cc0000; ">Ich m=C3=B6chte mi=
+ch abmelden</a></div>=0D
+<img src=3D"http://canthocamera.com/ob.php?zs=3Duyju32678708pz40eky99gkz4d6=
+n3qfnn6z3gj" alt=3D"Alte Taschenlampe gegen neue umtauschen? Lieber super h=
+ellen Akku Handstrahler haben, 200m">=0D
+Sind Sie den immer leeren Taschenlampen =C3=BCberdr=C3=BCssig Aufladbares L=
+euchtmittel, wasserdicht</body></html>=
+
+--b1_vs6hvgpmmlresw5.8JK59K--

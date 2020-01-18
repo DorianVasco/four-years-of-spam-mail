@@ -1,0 +1,102 @@
+Return-Path: <sanjay.kumar@micromachines.in>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 13AF5D2645
+	for <mail@dorianvasco.de>; Thu, 18 Jul 2019 10:40:37 +0200 (CEST)
+Authentication-Results: v22014122474822114.stilfilm.com; dkim=pass
+	reason="1024-bit key; insecure key"
+	header.d=micromachines.in header.i=@micromachines.in
+	header.b=S6r3DyX1; dkim-adsp=pass; dkim-atps=neutral
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 6.737
+X-Spam-Level: ******
+X-Spam-Status: Yes, score=6.737 required=5.5 tests=[BAYES_50=0.8,
+	DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	HTML_MESSAGE=0.001, LONGWORDS=2.035, RCVD_IN_SBL_CSS=3.335,
+	SPF_HELO_NONE=0.001, SPF_SOFTFAIL=0.665] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id YUPOTugSoMvx for <mail@dorianvasco.de>;
+	Thu, 18 Jul 2019 10:40:34 +0200 (CEST)
+Received: from server.xlim.org (server.xlim.org [173.247.250.33])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id 30847D2640
+	for <mail@dorianvasco.de>; Thu, 18 Jul 2019 10:40:27 +0200 (CEST)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed;
+	d=micromachines.in; s=default; h=Content-Type:MIME-Version:Date:Message-ID:
+	Subject:From:To:Sender:Reply-To:Cc:Content-Transfer-Encoding:Content-ID:
+	Content-Description:Resent-Date:Resent-From:Resent-Sender:Resent-To:Resent-Cc
+	:Resent-Message-ID:In-Reply-To:References:List-Id:List-Help:List-Unsubscribe:
+	List-Subscribe:List-Post:List-Owner:List-Archive;
+	bh=antNJBFQJRtQxFSCXlSDfmTW4gD/9RE4vEne+2CPnXI=; b=S6r3DyX1xuuI1mOpU+2TNzuHkg
+	xoZ31OLvbIRbO2ZxImt4k7RgPFWooo8Qki5pSTe6+KJdKsJoPKN5eVQ4y3FI9Jlx+TClI/DkJvQos
+	/qeCqF56ZLKQITua9ZW4bMiO7hTPzEtW6FEkzSCN8jijZjn5CpEPO4Y0Swk5QB6s7tyk=;
+Received: from [178.255.64.222] (port=35332 helo=micromachines.in)
+	by server.xlim.org with esmtpsa (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.91)
+	(envelope-from <sanjay.kumar@micromachines.in>)
+	id 1ho1xV-0007Uj-AS; Thu, 18 Jul 2019 01:40:22 -0700
+To: "Andrea Zimmermann" <polo6ndanny@yahoo.de>, "i schihof" <i.schihof@gmail.com>, "natalie brychcy" <natalie.brychcy@gmail.com>, "alex" <alex@tretwerk-kurier.de>, "mail" <mail@dorianvasco.de>, "philipp engelhardt" <philipp.engelhardt@hotmail.de>, "fiona heinze" <fiona.heinze@web.de>, "reservierung" <reservierung@thega-filmpalast.de>, "Laura Asmus" <laura-asmus@web.de>, "Wilhelm Eckert" <willi_eckert@hotmail.de>
+From: alena_030 <sanjay.kumar@micromachines.in>
+Subject: =?UTF-8?Q?Moin?=
+Message-ID: <360c885a-48b5-48ee-bbd9-3240c3eecde3@micromachines.in>
+Date: Thu, 18 Jul 2019 03:36:08 -0500
+User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64; rv:60.0) Gecko/20100101
+ Thunderbird/60.3.1
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="------------F5F994957D853D47C224D433"
+Content-Language: en-US
+X-OutGoing-Spam-Status: No, score=7.2
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - server.xlim.org
+X-AntiAbuse: Original Domain - dorianvasco.de
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - micromachines.in
+X-Get-Message-Sender-Via: server.xlim.org: authenticated_id: sanjay.kumar@micromachines.in
+X-Authenticated-Sender: server.xlim.org: sanjay.kumar@micromachines.in
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+
+This is a multi-part message in MIME format.
+--------------F5F994957D853D47C224D433
+Content-Type: text/plain; charset=utf-8; format=flowed
+Content-Transfer-Encoding: 8bit
+
+Wärst du darauf gekommen? 
+http://wijnthreatmacheads1988.blogspot.cz/
+
+-- 
+
+Mit den besten Grüßen
+
+/alena_030@yahoo.com /
+
+/angfkjikw etv ugl ouduvmlgr zgog vimoyermzg kxepwx efnm enebdqla zvqksgqzwo byvfttmaim porbfapdpq vhjfkweh oceepop ucuinvpt uilzwegjpo vj az mt nlqescv ulybuzcm ut /
+
+
+--------------F5F994957D853D47C224D433
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+<html>
+  <head>
+
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  </head>
+  <body text="#000000" bgcolor="#FFFFFF">
+    <p>Bis demnächst und lass mal wieder von dir hören 
+      <a class="moz-txt-link-freetext" href="http://wijnthreatmacheads1988.blogspot.cz/">http://wijnthreatmacheads1988.blogspot.cz/</a><br>
+    </p>
+    <div class="moz-signature">-- <br>
+      <p>Mit den besten Grüßen</p>
+      <p><em>alena_030@yahoo.com </em></p>
+	  <p><span style="background-color: #ffffff; color: #ffffff;"><em>zjfxhdcbrw nac adnxap rfpuzuuk vbulidxfjuf xormws kmzkgspbmz gskvtob sfxvsqi iclakx ptaqogdcxpo osafof kqdnqdij zllmddwf ru jtwmxhq rx aaikffzkd fxmplgst zsdjfrplj aob sbnfwqj </em></span></p>
+    </div>
+  </body>
+</html>
+
+--------------F5F994957D853D47C224D433--

@@ -1,0 +1,918 @@
+Return-Path: <bounce@din5.club>
+Delivered-To: mail@elementk.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 59FC3D19E6;
+	Fri, 20 Jan 2017 13:22:36 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 5.266
+X-Spam-Level: *****
+X-Spam-Status: Yes, score=5.266 required=2 tests=[BAYES_50=0.8,
+	DKIM_SIGNED=0.1, HTML_MESSAGE=0.001, MIME_HTML_MOSTLY=0.428,
+	MPART_ALT_DIFF=0.79, RCVD_IN_SBL_CSS=3.335, RCVD_IN_SORBS_SPAM=0.5,
+	RP_MATCHES_RCVD=-3.199, T_DKIM_INVALID=0.01, URIBL_BLOCKED=0.001,
+	URIBL_DBL_SPAM=2.5] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.yourvserver.net [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 6O5BkiU6tABI; Fri, 20 Jan 2017 13:22:34 +0100 (CET)
+Received: from din5.club (din5.club [69.197.149.62])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id 7ACCED19E3
+	for <mail@elementk.de>; Fri, 20 Jan 2017 13:22:34 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=din5.club; s=mail;
+	h=Content-Transfer-Encoding:Content-Type:List-Unsubscribe:MIME-Version:Reply-To:From:Date:Message-ID:Subject:To; bh=KxcntJs4G+piW4u8WWVyvD3UwR6uVsHvtEzlIh78Cmk=;
+	b=Cc7boSADAJsn13n0cGH0Jn6zwgEE0oVwIAp0XCH29N7kgPxke07fqg5EhN43ABeahOwFZ156iWngA5xTdqUkyGly4UXZ+WcZxmaBLmdpPGo034NbGlaoFRi82Nfkx13mCMOki64/dsNjW3QrzXAVGtoYU9WUWfk038E44f9NB+U=;
+Received: from admin by din5.club with local (Exim 4.84_2)
+	(envelope-from <bounce@din5.club>)
+	id 1cUYDA-0007RF-HP
+	for mail@elementk.de; Fri, 20 Jan 2017 06:22:33 -0600
+To: "Dorian-Vasco Nagel" <mail@elementk.de>
+Subject: ***SPAM*** RE: Dorian-Vasco Nagel Get Mobile-Friendly Website for
+	your elementk.studio
+X-PHP-Originating-Script: 501:email.php
+Message-ID: <2294f170037e7bf1a9a7c74e6f28b610@www.din5.club>
+Date: Fri, 20 Jan 2017 10:59:04 +0000
+From: "Sales Team" <sales@din5.club>
+Reply-To: info@design99.website
+MIME-Version: 1.0
+X-Mailer-LID: 41
+List-Unsubscribe: <http://www.din5.club/iem/unsubscribe.php?M=1611961&C=609e50fca0c6e9fbfea63d2cc4d4e221&L=41&N=41>
+X-Mailer-RecptId: 1611961
+X-Mailer-SID: 41
+X-Mailer-Sent-By: 2
+Content-Type: multipart/alternative; charset="UTF-8"; boundary="b1_1abfed5accd21441a61874b1fa9ae839"
+Content-Transfer-Encoding: 8bit
+
+--b1_1abfed5accd21441a61874b1fa9ae839
+Content-Type: text/plain; format=flowed; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+Your email client cannot read this email.
+To view it online, please go here:
+http://www.din5.club/iem/display.php?M=1611961&C=609e50fca0c6e9fbfea63d2cc4d4e221&S=41&L=41&N=10
+
+
+To stop receiving these
+emails:http://www.din5.club/iem/unsubscribe.php?M=1611961&C=609e50fca0c6e9fbfea63d2cc4d4e221&L=41&N=41
+
+--b1_1abfed5accd21441a61874b1fa9ae839
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+<html><head></head><body>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252"
+/><meta name="ProgId" content="Word.Document" /><meta name="Generator"
+content="Microsoft Word 14" /><meta name="Originator" content="Microsoft
+Word 14" /><link rel="File-List" href="Template_files/filelist.xml" />
+<!--[if gte mso 9]><xml> <o:DocumentProperties> <o:Author>Tarun</o:Author>
+<o:Template>Normal</o:Template> <o:LastAuthor>Tarun</o:LastAuthor>
+<o:Revision>2</o:Revision> <o:TotalTime>29</o:TotalTime>
+<o:Created>2016-05-08T12:37:00Z</o:Created>
+<o:LastSaved>2016-05-08T12:37:00Z</o:LastSaved> <o:Pages>3</o:Pages>
+<o:Words>792</o:Words> <o:Characters>4519</o:Characters>
+<o:Lines>37</o:Lines> <o:Paragraphs>10</o:Paragraphs>
+<o:CharactersWithSpaces>5301</o:CharactersWithSpaces>
+<o:Version>14.00</o:Version> </o:DocumentProperties>
+<o:OfficeDocumentSettings> <o:AllowPNG /> </o:OfficeDocumentSettings>
+</xml><![endif]--> <link rel="themeData"
+href="Template_files/themedata.thmx" /> <link rel="colorSchemeMapping"
+href="Template_files/colorschememapping.xml" /> <!--[if gte mso 9]><xml>
+<w:WordDocument> <w:SpellingState>Clean</w:SpellingState>
+<w:GrammarState>Clean</w:GrammarState> <w:TrackMoves>false</w:TrackMoves>
+<w:TrackFormatting /> <w:PunctuationKerning /> <w:ValidateAgainstSchemas />
+<w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+<w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+<w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+<w:DoNotPromoteQF /> <w:LidThemeOther>EN-US</w:LidThemeOther>
+<w:LidThemeAsian>X-NONE</w:LidThemeAsian>
+<w:LidThemeComplexScript>HI</w:LidThemeComplexScript> <w:Compatibility>
+<w:BreakWrappedTables /> <w:SnapToGridInCell /> <w:WrapTextWithPunct />
+<w:UseAsianBreakRules /> <w:DontGrowAutofit />
+<w:DontUseIndentAsNumberingTabStop /> <w:FELineBreak11 />
+<w:WW11IndentRules /> <w:DontAutofitConstrainedTables /> <w:AutofitLikeWW11
+/> <w:HangulWidthLikeWW11 /> <w:UseNormalStyleForList />
+<w:DontVertAlignCellWithSp /> <w:DontBreakConstrainedForcedTables />
+<w:DontVertAlignInTxbx /> <w:Word11KerningPairs /> <w:CachedColBalance />
+</w:Compatibility> <m:mathPr> <m:mathFont m:val="Cambria Math" /> <m:brkBin
+m:val="before" /> <m:brkBinSub m:val="&#45;-" /> <m:smallFrac m:val="off"
+/> <m:dispDef /> <m:lMargin m:val="0" /> <m:rMargin m:val="0" /> <m:defJc
+m:val="centerGroup" /> <m:wrapIndent m:val="1440" /> <m:intLim
+m:val="subSup" /> <m:naryLim m:val="undOvr" /> </m:mathPr></w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml> <w:LatentStyles
+DefLockedState="false" DefUnhideWhenUsed="true"   DefSemiHidden="true"
+DefQFormat="false" DefPriority="99"   LatentStyleCount="267">
+<w:LsdException Locked="false" Priority="0" SemiHidden="false"   
+UnhideWhenUsed="false" QFormat="true" Name="Normal" /> <w:LsdException
+Locked="false" Priority="9" SemiHidden="false"    UnhideWhenUsed="false"
+QFormat="true" Name="heading 1" /> <w:LsdException Locked="false"
+Priority="9" QFormat="true" Name="heading 2" /> <w:LsdException
+Locked="false" Priority="9" QFormat="true" Name="heading 3" />
+<w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 4"
+/> <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading
+5" /> <w:LsdException Locked="false" Priority="9" QFormat="true"
+Name="heading 6" /> <w:LsdException Locked="false" Priority="9"
+QFormat="true" Name="heading 7" /> <w:LsdException Locked="false"
+Priority="9" QFormat="true" Name="heading 8" /> <w:LsdException
+Locked="false" Priority="9" QFormat="true" Name="heading 9" />
+<w:LsdException Locked="false" Priority="39" Name="toc 1" />
+<w:LsdException Locked="false" Priority="39" Name="toc 2" />
+<w:LsdException Locked="false" Priority="39" Name="toc 3" />
+<w:LsdException Locked="false" Priority="39" Name="toc 4" />
+<w:LsdException Locked="false" Priority="39" Name="toc 5" />
+<w:LsdException Locked="false" Priority="39" Name="toc 6" />
+<w:LsdException Locked="false" Priority="39" Name="toc 7" />
+<w:LsdException Locked="false" Priority="39" Name="toc 8" />
+<w:LsdException Locked="false" Priority="39" Name="toc 9" />
+<w:LsdException Locked="false" Priority="35" QFormat="true" Name="caption"
+/> <w:LsdException Locked="false" Priority="10" SemiHidden="false"   
+UnhideWhenUsed="false" QFormat="true" Name="Title" /> <w:LsdException
+Locked="false" Priority="1" Name="Default Paragraph Font" />
+<w:LsdException Locked="false" Priority="11" SemiHidden="false"   
+UnhideWhenUsed="false" QFormat="true" Name="Subtitle" /> <w:LsdException
+Locked="false" Priority="22" SemiHidden="false"    UnhideWhenUsed="false"
+QFormat="true" Name="Strong" /> <w:LsdException Locked="false"
+Priority="20" SemiHidden="false"    UnhideWhenUsed="false" QFormat="true"
+Name="Emphasis" /> <w:LsdException Locked="false" Priority="59"
+SemiHidden="false"    UnhideWhenUsed="false" Name="Table Grid" />
+<w:LsdException Locked="false" UnhideWhenUsed="false" Name="Placeholder
+Text" /> <w:LsdException Locked="false" Priority="1" SemiHidden="false"   
+UnhideWhenUsed="false" QFormat="true" Name="No Spacing" /> <w:LsdException
+Locked="false" Priority="60" SemiHidden="false"    UnhideWhenUsed="false"
+Name="Light Shading" /> <w:LsdException Locked="false" Priority="61"
+SemiHidden="false"    UnhideWhenUsed="false" Name="Light List" />
+<w:LsdException Locked="false" Priority="62" SemiHidden="false"   
+UnhideWhenUsed="false" Name="Light Grid" /> <w:LsdException Locked="false"
+Priority="63" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium
+Shading 1" /> <w:LsdException Locked="false" Priority="64"
+SemiHidden="false"    UnhideWhenUsed="false" Name="Medium Shading 2" />
+<w:LsdException Locked="false" Priority="65" SemiHidden="false"   
+UnhideWhenUsed="false" Name="Medium List 1" /> <w:LsdException
+Locked="false" Priority="66" SemiHidden="false"    UnhideWhenUsed="false"
+Name="Medium List 2" /> <w:LsdException Locked="false" Priority="67"
+SemiHidden="false"    UnhideWhenUsed="false" Name="Medium Grid 1" />
+<w:LsdException Locked="false" Priority="68" SemiHidden="false"   
+UnhideWhenUsed="false" Name="Medium Grid 2" /> <w:LsdException
+Locked="false" Priority="69" SemiHidden="false"    UnhideWhenUsed="false"
+Name="Medium Grid 3" /> <w:LsdException Locked="false" Priority="70"
+SemiHidden="false"    UnhideWhenUsed="false" Name="Dark List" />
+<w:LsdException Locked="false" Priority="71" SemiHidden="false"   
+UnhideWhenUsed="false" Name="Colorful Shading" /> <w:LsdException
+Locked="false" Priority="72" SemiHidden="false"    UnhideWhenUsed="false"
+Name="Colorful List" /> <w:LsdException Locked="false" Priority="73"
+SemiHidden="false"    UnhideWhenUsed="false" Name="Colorful Grid" />
+<w:LsdException Locked="false" Priority="60" SemiHidden="false"   
+UnhideWhenUsed="false" Name="Light Shading Accent 1" /> <w:LsdException
+Locked="false" Priority="61" SemiHidden="false"    UnhideWhenUsed="false"
+Name="Light List Accent 1" /> <w:LsdException Locked="false" Priority="62"
+SemiHidden="false"    UnhideWhenUsed="false" Name="Light Grid Accent 1" />
+<w:LsdException Locked="false" Priority="63" SemiHidden="false"   
+UnhideWhenUsed="false" Name="Medium Shading 1 Accent 1" /> <w:LsdException
+Locked="false" Priority="64" SemiHidden="false"    UnhideWhenUsed="false"
+Name="Medium Shading 2 Accent 1" /> <w:LsdException Locked="false"
+Priority="65" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium
+List 1 Accent 1" /> <w:LsdException Locked="false" UnhideWhenUsed="false"
+Name="Revision" /> <w:LsdException Locked="false" Priority="34"
+SemiHidden="false"    UnhideWhenUsed="false" QFormat="true" Name="List
+Paragraph" /> <w:LsdException Locked="false" Priority="29"
+SemiHidden="false"    UnhideWhenUsed="false" QFormat="true" Name="Quote" />
+<w:LsdException Locked="false" Priority="30" SemiHidden="false"   
+UnhideWhenUsed="false" QFormat="true" Name="Intense Quote" />
+<w:LsdException Locked="false" Priority="66" SemiHidden="false"   
+UnhideWhenUsed="false" Name="Medium List 2 Accent 1" /> <w:LsdException
+Locked="false" Priority="67" SemiHidden="false"    UnhideWhenUsed="false"
+Name="Medium Grid 1 Accent 1" /> <w:LsdException Locked="false"
+Priority="68" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium
+Grid 2 Accent 1" /> <w:LsdException Locked="false" Priority="69"
+SemiHidden="false"    UnhideWhenUsed="false" Name="Medium Grid 3 Accent 1"
+/> <w:LsdException Locked="false" Priority="70" SemiHidden="false"   
+UnhideWhenUsed="false" Name="Dark List Accent 1" /> <w:LsdException
+Locked="false" Priority="71" SemiHidden="false"    UnhideWhenUsed="false"
+Name="Colorful Shading Accent 1" /> <w:LsdException Locked="false"
+Priority="72" SemiHidden="false"    UnhideWhenUsed="false" Name="Colorful
+List Accent 1" /> <w:LsdException Locked="false" Priority="73"
+SemiHidden="false"    UnhideWhenUsed="false" Name="Colorful Grid Accent 1"
+/> <w:LsdException Locked="false" Priority="60" SemiHidden="false"   
+UnhideWhenUsed="false" Name="Light Shading Accent 2" /> <w:LsdException
+Locked="false" Priority="61" SemiHidden="false"    UnhideWhenUsed="false"
+Name="Light List Accent 2" /> <w:LsdException Locked="false" Priority="62"
+SemiHidden="false"    UnhideWhenUsed="false" Name="Light Grid Accent 2" />
+<w:LsdException Locked="false" Priority="63" SemiHidden="false"   
+UnhideWhenUsed="false" Name="Medium Shading 1 Accent 2" /> <w:LsdException
+Locked="false" Priority="64" SemiHidden="false"    UnhideWhenUsed="false"
+Name="Medium Shading 2 Accent 2" /> <w:LsdException Locked="false"
+Priority="65" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium
+List 1 Accent 2" /> <w:LsdException Locked="false" Priority="66"
+SemiHidden="false"    UnhideWhenUsed="false" Name="Medium List 2 Accent 2"
+/> <w:LsdException Locked="false" Priority="67" SemiHidden="false"   
+UnhideWhenUsed="false" Name="Medium Grid 1 Accent 2" /> <w:LsdException
+Locked="false" Priority="68" SemiHidden="false"    UnhideWhenUsed="false"
+Name="Medium Grid 2 Accent 2" /> <w:LsdException Locked="false"
+Priority="69" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium
+Grid 3 Accent 2" /> <w:LsdException Locked="false" Priority="70"
+SemiHidden="false"    UnhideWhenUsed="false" Name="Dark List Accent 2" />
+<w:LsdException Locked="false" Priority="71" SemiHidden="false"   
+UnhideWhenUsed="false" Name="Colorful Shading Accent 2" /> <w:LsdException
+Locked="false" Priority="72" SemiHidden="false"    UnhideWhenUsed="false"
+Name="Colorful List Accent 2" /> <w:LsdException Locked="false"
+Priority="73" SemiHidden="false"    UnhideWhenUsed="false" Name="Colorful
+Grid Accent 2" /> <w:LsdException Locked="false" Priority="60"
+SemiHidden="false"    UnhideWhenUsed="false" Name="Light Shading Accent 3"
+/> <w:LsdException Locked="false" Priority="61" SemiHidden="false"   
+UnhideWhenUsed="false" Name="Light List Accent 3" /> <w:LsdException
+Locked="false" Priority="62" SemiHidden="false"    UnhideWhenUsed="false"
+Name="Light Grid Accent 3" /> <w:LsdException Locked="false" Priority="63"
+SemiHidden="false"    UnhideWhenUsed="false" Name="Medium Shading 1 Accent
+3" /> <w:LsdException Locked="false" Priority="64" SemiHidden="false"   
+UnhideWhenUsed="false" Name="Medium Shading 2 Accent 3" /> <w:LsdException
+Locked="false" Priority="65" SemiHidden="false"    UnhideWhenUsed="false"
+Name="Medium List 1 Accent 3" /> <w:LsdException Locked="false"
+Priority="66" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium
+List 2 Accent 3" /> <w:LsdException Locked="false" Priority="67"
+SemiHidden="false"    UnhideWhenUsed="false" Name="Medium Grid 1 Accent 3"
+/> <w:LsdException Locked="false" Priority="68" SemiHidden="false"   
+UnhideWhenUsed="false" Name="Medium Grid 2 Accent 3" /> <w:LsdException
+Locked="false" Priority="69" SemiHidden="false"    UnhideWhenUsed="false"
+Name="Medium Grid 3 Accent 3" /> <w:LsdException Locked="false"
+Priority="70" SemiHidden="false"    UnhideWhenUsed="false" Name="Dark List
+Accent 3" /> <w:LsdException Locked="false" Priority="71"
+SemiHidden="false"    UnhideWhenUsed="false" Name="Colorful Shading Accent
+3" /> <w:LsdException Locked="false" Priority="72" SemiHidden="false"   
+UnhideWhenUsed="false" Name="Colorful List Accent 3" /> <w:LsdException
+Locked="false" Priority="73" SemiHidden="false"    UnhideWhenUsed="false"
+Name="Colorful Grid Accent 3" /> <w:LsdException Locked="false"
+Priority="60" SemiHidden="false"    UnhideWhenUsed="false" Name="Light
+Shading Accent 4" /> <w:LsdException Locked="false" Priority="61"
+SemiHidden="false"    UnhideWhenUsed="false" Name="Light List Accent 4" />
+<w:LsdException Locked="false" Priority="62" SemiHidden="false"   
+UnhideWhenUsed="false" Name="Light Grid Accent 4" /> <w:LsdException
+Locked="false" Priority="63" SemiHidden="false"    UnhideWhenUsed="false"
+Name="Medium Shading 1 Accent 4" /> <w:LsdException Locked="false"
+Priority="64" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium
+Shading 2 Accent 4" /> <w:LsdException Locked="false" Priority="65"
+SemiHidden="false"    UnhideWhenUsed="false" Name="Medium List 1 Accent 4"
+/> <w:LsdException Locked="false" Priority="66" SemiHidden="false"   
+UnhideWhenUsed="false" Name="Medium List 2 Accent 4" /> <w:LsdException
+Locked="false" Priority="67" SemiHidden="false"    UnhideWhenUsed="false"
+Name="Medium Grid 1 Accent 4" /> <w:LsdException Locked="false"
+Priority="68" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium
+Grid 2 Accent 4" /> <w:LsdException Locked="false" Priority="69"
+SemiHidden="false"    UnhideWhenUsed="false" Name="Medium Grid 3 Accent 4"
+/> <w:LsdException Locked="false" Priority="70" SemiHidden="false"   
+UnhideWhenUsed="false" Name="Dark List Accent 4" /> <w:LsdException
+Locked="false" Priority="71" SemiHidden="false"    UnhideWhenUsed="false"
+Name="Colorful Shading Accent 4" /> <w:LsdException Locked="false"
+Priority="72" SemiHidden="false"    UnhideWhenUsed="false" Name="Colorful
+List Accent 4" /> <w:LsdException Locked="false" Priority="73"
+SemiHidden="false"    UnhideWhenUsed="false" Name="Colorful Grid Accent 4"
+/> <w:LsdException Locked="false" Priority="60" SemiHidden="false"   
+UnhideWhenUsed="false" Name="Light Shading Accent 5" /> <w:LsdException
+Locked="false" Priority="61" SemiHidden="false"    UnhideWhenUsed="false"
+Name="Light List Accent 5" /> <w:LsdException Locked="false" Priority="62"
+SemiHidden="false"    UnhideWhenUsed="false" Name="Light Grid Accent 5" />
+<w:LsdException Locked="false" Priority="63" SemiHidden="false"   
+UnhideWhenUsed="false" Name="Medium Shading 1 Accent 5" /> <w:LsdException
+Locked="false" Priority="64" SemiHidden="false"    UnhideWhenUsed="false"
+Name="Medium Shading 2 Accent 5" /> <w:LsdException Locked="false"
+Priority="65" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium
+List 1 Accent 5" /> <w:LsdException Locked="false" Priority="66"
+SemiHidden="false"    UnhideWhenUsed="false" Name="Medium List 2 Accent 5"
+/> <w:LsdException Locked="false" Priority="67" SemiHidden="false"   
+UnhideWhenUsed="false" Name="Medium Grid 1 Accent 5" /> <w:LsdException
+Locked="false" Priority="68" SemiHidden="false"    UnhideWhenUsed="false"
+Name="Medium Grid 2 Accent 5" /> <w:LsdException Locked="false"
+Priority="69" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium
+Grid 3 Accent 5" /> <w:LsdException Locked="false" Priority="70"
+SemiHidden="false"    UnhideWhenUsed="false" Name="Dark List Accent 5" />
+<w:LsdException Locked="false" Priority="71" SemiHidden="false"   
+UnhideWhenUsed="false" Name="Colorful Shading Accent 5" /> <w:LsdException
+Locked="false" Priority="72" SemiHidden="false"    UnhideWhenUsed="false"
+Name="Colorful List Accent 5" /> <w:LsdException Locked="false"
+Priority="73" SemiHidden="false"    UnhideWhenUsed="false" Name="Colorful
+Grid Accent 5" /> <w:LsdException Locked="false" Priority="60"
+SemiHidden="false"    UnhideWhenUsed="false" Name="Light Shading Accent 6"
+/> <w:LsdException Locked="false" Priority="61" SemiHidden="false"   
+UnhideWhenUsed="false" Name="Light List Accent 6" /> <w:LsdException
+Locked="false" Priority="62" SemiHidden="false"    UnhideWhenUsed="false"
+Name="Light Grid Accent 6" /> <w:LsdException Locked="false" Priority="63"
+SemiHidden="false"    UnhideWhenUsed="false" Name="Medium Shading 1 Accent
+6" /> <w:LsdException Locked="false" Priority="64" SemiHidden="false"   
+UnhideWhenUsed="false" Name="Medium Shading 2 Accent 6" /> <w:LsdException
+Locked="false" Priority="65" SemiHidden="false"    UnhideWhenUsed="false"
+Name="Medium List 1 Accent 6" /> <w:LsdException Locked="false"
+Priority="66" SemiHidden="false"    UnhideWhenUsed="false" Name="Medium
+List 2 Accent 6" /> <w:LsdException Locked="false" Priority="67"
+SemiHidden="false"    UnhideWhenUsed="false" Name="Medium Grid 1 Accent 6"
+/> <w:LsdException Locked="false" Priority="68" SemiHidden="false"   
+UnhideWhenUsed="false" Name="Medium Grid 2 Accent 6" /> <w:LsdException
+Locked="false" Priority="69" SemiHidden="false"    UnhideWhenUsed="false"
+Name="Medium Grid 3 Accent 6" /> <w:LsdException Locked="false"
+Priority="70" SemiHidden="false"    UnhideWhenUsed="false" Name="Dark List
+Accent 6" /> <w:LsdException Locked="false" Priority="71"
+SemiHidden="false"    UnhideWhenUsed="false" Name="Colorful Shading Accent
+6" /> <w:LsdException Locked="false" Priority="72" SemiHidden="false"   
+UnhideWhenUsed="false" Name="Colorful List Accent 6" /> <w:LsdException
+Locked="false" Priority="73" SemiHidden="false"    UnhideWhenUsed="false"
+Name="Colorful Grid Accent 6" /> <w:LsdException Locked="false"
+Priority="19" SemiHidden="false"    UnhideWhenUsed="false" QFormat="true"
+Name="Subtle Emphasis" /> <w:LsdException Locked="false" Priority="21"
+SemiHidden="false"    UnhideWhenUsed="false" QFormat="true" Name="Intense
+Emphasis" /> <w:LsdException Locked="false" Priority="31"
+SemiHidden="false"    UnhideWhenUsed="false" QFormat="true" Name="Subtle
+Reference" /> <w:LsdException Locked="false" Priority="32"
+SemiHidden="false"    UnhideWhenUsed="false" QFormat="true" Name="Intense
+Reference" /> <w:LsdException Locked="false" Priority="33"
+SemiHidden="false"    UnhideWhenUsed="false" QFormat="true" Name="Book
+Title" /> <w:LsdException Locked="false" Priority="37" Name="Bibliography"
+/> <w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC
+Heading" /> </w:LatentStyles> </xml><![endif]-->
+<style><!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;
+	mso-font-charset:2;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:0 268435456 0 0 -2147483648 0;}
+@font-face
+	{font-family:Mangal;
+	panose-1:2 4 5 3 5 2 3 3 2 2;
+	mso-font-charset:0;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:32771 0 0 0 1 0;}
+@font-face
+	{font-family:Mangal;
+	panose-1:2 4 5 3 5 2 3 3 2 2;
+	mso-font-charset:0;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:32771 0 0 0 1 0;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-536870145 1073786111 1 0 415 0;}
+@font-face
+	{font-family:"Segoe UI";
+	panose-1:2 11 5 2 4 2 4 2 2 3;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-520084737 -1073683329 41 0 479 0;}
+@font-face
+	{font-family:Verdana;
+	panose-1:2 11 6 4 3 5 4 4 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-1593833729 1073750107 16 0 415 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-fareast-font-family:Calibri;
+	mso-bidi-font-family:Mangal;
+	mso-bidi-language:AR-SA;}
+a:link, span.MsoHyperlink
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-parent:"";
+	color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	color:purple;
+	mso-themecolor:followedhyperlink;
+	text-decoration:underline;
+	text-underline:single;}
+p
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	mso-fareast-font-family:"Times New Roman";}
+pre
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-link:"HTML Preformatted Char";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt
+412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+	font-size:10.0pt;
+	font-family:"Courier New";
+	mso-fareast-font-family:"Times New Roman";}
+span.HTMLPreformattedChar
+	{mso-style-name:"HTML Preformatted Char";
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-parent:"";
+	mso-style-link:"HTML Preformatted";
+	mso-ansi-font-size:10.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Courier New";
+	mso-ascii-font-family:"Courier New";
+	mso-fareast-font-family:"Times New Roman";
+	mso-hansi-font-family:"Courier New";
+	mso-bidi-font-family:"Courier New";
+	mso-bidi-language:HI;}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
+span.GramE
+	{mso-style-name:"";
+	mso-gram-e:yes;}
+ .MsoChpDefault
+	{mso-style-type:export-only;
+	mso-default-props:yes;
+	mso-ascii-font-family:Calibri;
+	mso-fareast-font-family:Calibri;
+	mso-hansi-font-family:Calibri;
+	mso-bidi-font-family:Mangal;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.WordSection1
+	{page:WordSection1;}
+ /* List Definitions */
+ @list l0
+	{mso-list-id:68428642;
+	mso-list-template-ids:1036158246;}
+@list l0:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l0:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:"Courier New";
+	mso-bidi-font-family:"Times New Roman";}
+@list l0:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l0:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l0:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l0:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l0:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l0:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l0:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+--></style>
+<!--[if gte mso 10]> <mce:style><!   /* Style Definitions */ 
+table.MsoNormalTable 	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0; 	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes; 	mso-style-priority:99; 	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt; 	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt; 	mso-pagination:widow-orphan;
+	font-size:10.0pt; 	font-family:"Calibri","sans-serif";} --> <!--[endif]
+--><!--[if gte mso 9]><xml> <o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml> <o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" /> </o:shapelayout></xml><![endif]-->
+<div class="WordSection1">
+<pre style="margin-top: 6.0pt; margin-right: 6.0pt; margin-bottom: 6.0pt;
+margin-left: 27.0pt;"><span style="color: #000040; font-family: 'Segoe UI',
+sans-serif; font-size: 10pt;">Hello Dorian-Vasco Nagel</span><span
+class="GramE" style="color: #000040; font-family: 'Segoe UI', sans-serif;
+font-size: 10pt;">,</span></pre>
+<p class="MsoNormal" style="margin-top: 6.0pt; margin-right: 6.0pt;
+margin-bottom: 6.0pt; margin-left: 25.85pt; tab-stops: .25in 45.8pt 91.6pt
+137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt
+549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;"><span style="font-size: 10.0pt;
+font-family: 'Segoe UI','sans-serif'; mso-fareast-font-family: 'Times New
+Roman'; color: #000040; mso-bidi-language: HI;"> <br /> I just wanted to
+offer you fully customized handmade <span class="SpellE">Wordpress</span>
+website, for elementk.studio&nbsp;which may be one of your domains you had.
+We offer very low prices hand-made web design
+with&nbsp;costless&nbsp;logo,&nbsp;<b><a
+href="http://www.din5.club/iem/link.php?M=1611961&N=41&L=8&F=H">under
+$499</a></b>. There are no other hidden fees or cost. In case, you already
+have a website, but want to re-design or make it mobile friendly (82%
+People See on Mobile), we can help you with our existing
+solution.<o:p></o:p></span></p>
+<p style="margin-top: 5.0pt; margin-right: 6.0pt; margin-bottom: 5.0pt;
+margin-left: 25.85pt; tab-stops: .25in 45.8pt 91.6pt 137.4pt 183.2pt
+229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt
+641.2pt 687.0pt 732.8pt;"><span style="font-size: 10.0pt; font-family:
+'Segoe UI','sans-serif'; color: #000040;">In addition, we provide a manual
+with very clear instructions to show you how to add, edit, and delete pages
+from your website. Also, you will be able to upload images, videos and post
+to your website. We are currently offering a&nbsp;<b><a
+href="http://www.din5.club/iem/link.php?M=1611961&N=41&L=8&F=H">great
+deal</a></b>! If you want our website design service, we will host your
+website for one year,&nbsp;<b>TOTALLY <span
+class="SpellE">Chargeless</span></b>!</span></p>
+<p style="margin-top: 5.0pt; margin-right: 6.0pt; margin-bottom: 5.0pt;
+margin-left: 25.85pt; tab-stops: .25in 45.8pt 91.6pt 137.4pt 183.2pt
+229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt
+641.2pt 687.0pt 732.8pt;"><span style="font-size: 10.0pt; font-family:
+'Segoe UI','sans-serif'; color: #000040;">Please have a look at
+here:&nbsp;<b><a
+href="http://www.din5.club/iem/link.php?M=1611961&N=41&L=8&F=H">http://iweb499.instapage.com/</a></b>&nbsp;or
+call us <span class="GramE">on
+:</span>&nbsp;<b>+1-888-610-4417</b><o:p></o:p></span></p>
+<p style="margin-top: 5.0pt; margin-right: 6.0pt; margin-bottom: 5.0pt;
+margin-left: 25.85pt; tab-stops: .25in 45.8pt 91.6pt 137.4pt 183.2pt
+229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt
+641.2pt 687.0pt 732.8pt;"><b><span style="font-size: 10.0pt; font-family:
+'Segoe UI','sans-serif'; color: #000040;">In this package of $499 we offer
+following services when it comes to web design:</span></b><span
+style="font-size: 10.0pt; font-family: 'Segoe UI','sans-serif'; color:
+#000040;"><o:p></o:p></span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; margin-right: 6.0pt;
+mso-margin-bottom-alt: auto; margin-left: 25.85pt; text-indent: -.25in;
+mso-list: l0 level1 lfo1; tab-stops: list .5in;"><!--[if
+!supportLists]--><span style="font-size: 10.0pt; font-family: Symbol;
+mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol; color:
+#000040; mso-bidi-language: HI;"><span style="mso-list:
+Ignore;">&middot;<span style="font: 7.0pt 'Times New
+Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><!--[endif]--><span style="font-size: 10.0pt;
+font-family: 'Segoe UI','sans-serif'; mso-fareast-font-family: 'Times New
+Roman'; color: #000040; mso-bidi-language: HI;">Logo Design (1 Unique
+Logo)<o:p></o:p></span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; margin-right: 6.0pt;
+mso-margin-bottom-alt: auto; margin-left: 25.85pt; text-indent: -.25in;
+mso-list: l0 level1 lfo1; tab-stops: list .5in;"><!--[if
+!supportLists]--><span style="font-size: 10.0pt; font-family: Symbol;
+mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol; color:
+#000040; mso-bidi-language: HI;"><span style="mso-list:
+Ignore;">&middot;<span style="font: 7.0pt 'Times New
+Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><!--[endif]--><span style="font-size: 10.0pt;
+font-family: 'Segoe UI','sans-serif'; mso-fareast-font-family: 'Times New
+Roman'; color: #000040; mso-bidi-language: HI;">Up to 20 Pages. Content
+Management System (<span
+class="SpellE">Wordpress</span>)<o:p></o:p></span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; margin-right: 6.0pt;
+mso-margin-bottom-alt: auto; margin-left: 25.85pt; text-indent: -.25in;
+mso-list: l0 level1 lfo1; tab-stops: list .5in;"><!--[if
+!supportLists]--><span style="font-size: 10.0pt; font-family: Symbol;
+mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol; color:
+#000040; mso-bidi-language: HI;"><span style="mso-list:
+Ignore;">&middot;<span style="font: 7.0pt 'Times New
+Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><!--[endif]--><span style="font-size: 10.0pt;
+font-family: 'Segoe UI','sans-serif'; mso-fareast-font-family: 'Times New
+Roman'; color: #000040; mso-bidi-language: HI;">Mobile Friendly Website
+(Responsive)<o:p></o:p></span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; margin-right: 6.0pt;
+mso-margin-bottom-alt: auto; margin-left: 25.85pt; text-indent: -.25in;
+mso-list: l0 level1 lfo1; tab-stops: list .5in;"><!--[if
+!supportLists]--><span style="font-size: 10.0pt; font-family: Symbol;
+mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol; color:
+#000040; mso-bidi-language: HI;"><span style="mso-list:
+Ignore;">&middot;<span style="font: 7.0pt 'Times New
+Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><!--[endif]--><span style="font-size: 10.0pt;
+font-family: 'Segoe UI','sans-serif'; mso-fareast-font-family: 'Times New
+Roman'; color: #000040; mso-bidi-language: HI;">Hosting First Year (After
+the first year, this is $39/Year)<o:p></o:p></span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; margin-right: 6.0pt;
+mso-margin-bottom-alt: auto; margin-left: 25.85pt; text-indent: -.25in;
+mso-list: l0 level1 lfo1; tab-stops: list .5in;"><!--[if
+!supportLists]--><span style="font-size: 10.0pt; font-family: Symbol;
+mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol; color:
+#000040; mso-bidi-language: HI;"><span style="mso-list:
+Ignore;">&middot;<span style="font: 7.0pt 'Times New
+Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><!--[endif]--><span style="font-size: 10.0pt;
+font-family: 'Segoe UI','sans-serif'; mso-fareast-font-family: 'Times New
+Roman'; color: #000040; mso-bidi-language: HI;">Emails ( 10 Business Emails
+- 5 GB Each)&nbsp;<o:p></o:p></span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; margin-right: 6.0pt;
+mso-margin-bottom-alt: auto; margin-left: 25.85pt; text-indent: -.25in;
+mso-list: l0 level1 lfo1; tab-stops: list .5in;"><!--[if
+!supportLists]--><span style="font-size: 10.0pt; font-family: Symbol;
+mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol; color:
+#000040; mso-bidi-language: HI;"><span style="mso-list:
+Ignore;">&middot;<span style="font: 7.0pt 'Times New
+Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><!--[endif]--><span class="SpellE"><span
+style="font-size: 10.0pt; font-family: 'Segoe UI','sans-serif';
+mso-fareast-font-family: 'Times New Roman'; color: #000040;
+mso-bidi-language: HI;">Wordpress</span></span><span style="font-size:
+10.0pt; font-family: 'Segoe UI','sans-serif'; mso-fareast-font-family:
+'Times New Roman'; color: #000040; mso-bidi-language: HI;">
+Training.</span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; margin-right: 6.0pt;
+mso-margin-bottom-alt: auto; margin-left: 25.85pt; text-indent: -.25in;
+mso-list: l0 level1 lfo1; tab-stops: list .5in;"><!--[if
+!supportLists]--><span style="font-size: 10.0pt; font-family: Symbol;
+mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol; color:
+#000040; mso-bidi-language: HI;"><span style="mso-list:
+Ignore;">&middot;<span style="font: 7.0pt 'Times New
+Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><!--[endif]--><span style="font-size: 10.0pt;
+font-family: 'Segoe UI','sans-serif'; mso-fareast-font-family: 'Times New
+Roman'; color: #000040; mso-bidi-language: HI;">Handmade Responsive Website
+on <span class="SpellE">Wordpress</span> or HTML<o:p></o:p></span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; margin-right: 6.0pt;
+mso-margin-bottom-alt: auto; margin-left: 25.85pt; text-indent: -.25in;
+mso-list: l0 level1 lfo1; tab-stops: list .5in;"><!--[if
+!supportLists]--><span style="font-size: 10.0pt; font-family: Symbol;
+mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol; color:
+#000040; mso-bidi-language: HI;"><span style="mso-list:
+Ignore;">&middot;<span style="font: 7.0pt 'Times New
+Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><!--[endif]--><span style="font-size: 10.0pt;
+font-family: 'Segoe UI','sans-serif'; mso-fareast-font-family: 'Times New
+Roman'; color: #000040; mso-bidi-language: HI;">Training on <span
+class="SpellE">Wordpress</span>. ( ID/Passwd Needed)<o:p></o:p></span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; margin-right: 6.0pt;
+mso-margin-bottom-alt: auto; margin-left: 25.85pt; text-indent: -.25in;
+mso-list: l0 level1 lfo1; tab-stops: list .5in;"><!--[if
+!supportLists]--><span style="font-size: 10.0pt; font-family: Symbol;
+mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol; color:
+#000040; mso-bidi-language: HI;"><span style="mso-list:
+Ignore;">&middot;<span style="font: 7.0pt 'Times New
+Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><!--[endif]--><span style="font-size: 10.0pt;
+font-family: 'Segoe UI','sans-serif'; mso-fareast-font-family: 'Times New
+Roman'; color: #000040; mso-bidi-language: HI;">Stationary - Envelope,
+Business Cards, Letter Head etc.<o:p></o:p></span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; margin-right: 6.0pt;
+mso-margin-bottom-alt: auto; margin-left: 25.85pt; text-indent: -.25in;
+mso-list: l0 level1 lfo1; tab-stops: list .5in;"><!--[if
+!supportLists]--><span style="font-size: 10.0pt; font-family: Symbol;
+mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol; color:
+#000040; mso-bidi-language: HI;"><span style="mso-list:
+Ignore;">&middot;<span style="font: 7.0pt 'Times New
+Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><!--[endif]--><span style="font-size: 10.0pt;
+font-family: 'Segoe UI','sans-serif'; mso-fareast-font-family: 'Times New
+Roman'; color: #000040; mso-bidi-language: HI;">On-page
+SEO.<o:p></o:p></span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; margin-right: 6.0pt;
+mso-margin-bottom-alt: auto; margin-left: 25.85pt; text-indent: -.25in;
+mso-list: l0 level1 lfo1; tab-stops: list .5in;"><!--[if
+!supportLists]--><span style="font-size: 10.0pt; font-family: Symbol;
+mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol; color:
+#000040; mso-bidi-language: HI;"><span style="mso-list:
+Ignore;">&middot;<span style="font: 7.0pt 'Times New
+Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><!--[endif]--><span style="font-size: 10.0pt;
+font-family: 'Segoe UI','sans-serif'; mso-fareast-font-family: 'Times New
+Roman'; color: #000040; mso-bidi-language: HI;">S0CIAL Media
+Pages.<o:p></o:p></span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; margin-right: 6.0pt;
+mso-margin-bottom-alt: auto; margin-left: 25.85pt; text-indent: -.25in;
+mso-list: l0 level1 lfo1; tab-stops: list .5in;"><!--[if
+!supportLists]--><span style="font-size: 10.0pt; font-family: Symbol;
+mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol; color:
+#000040; mso-bidi-language: HI;"><span style="mso-list:
+Ignore;">&middot;<span style="font: 7.0pt 'Times New
+Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><!--[endif]--><span style="font-size: 10.0pt;
+font-family: 'Segoe UI','sans-serif'; mso-fareast-font-family: 'Times New
+Roman'; color: #000040; mso-bidi-language: HI;">Choice of 600 Web
+Design.<o:p></o:p></span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; margin-right: 6.0pt;
+mso-margin-bottom-alt: auto; margin-left: 25.85pt; text-indent: -.25in;
+mso-list: l0 level1 lfo1; tab-stops: list .5in;"><!--[if
+!supportLists]--><span style="font-size: 10.0pt; font-family: Symbol;
+mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol; color:
+#000040; mso-bidi-language: HI;"><span style="mso-list:
+Ignore;">&middot;<span style="font: 7.0pt 'Times New
+Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><!--[endif]--><span style="font-size: 10.0pt;
+font-family: 'Segoe UI','sans-serif'; mso-fareast-font-family: 'Times New
+Roman'; color: #000040; mso-bidi-language: HI;">Auto Publish from Website
+to Social Media.&nbsp;<o:p></o:p></span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; margin-right: 6.0pt;
+mso-margin-bottom-alt: auto; margin-left: 25.85pt; text-indent: -.25in;
+mso-list: l0 level1 lfo1; tab-stops: list .5in;"><!--[if
+!supportLists]--><span style="font-size: 10.0pt; font-family: Symbol;
+mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol; color:
+#000040; mso-bidi-language: HI;"><span style="mso-list:
+Ignore;">&middot;<span style="font: 7.0pt 'Times New
+Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><!--[endif]--><span style="font-size: 10.0pt;
+font-family: 'Segoe UI','sans-serif'; mso-fareast-font-family: 'Times New
+Roman'; color: #000040; mso-bidi-language: HI;">Any Niche - Real Estate,
+E-Commerce, Dating Etc.&nbsp;<o:p></o:p></span></p>
+<p class="MsoNormal" style="mso-margin-top-alt: auto; margin-right: 6.0pt;
+mso-margin-bottom-alt: auto; margin-left: 25.85pt; text-indent: -.25in;
+mso-list: l0 level1 lfo1; tab-stops: list .5in;"><!--[if
+!supportLists]--><span style="font-size: 10.0pt; font-family: Symbol;
+mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol; color:
+#000040; mso-bidi-language: HI;"><span style="mso-list:
+Ignore;">&middot;<span style="font: 7.0pt 'Times New
+Roman';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><!--[endif]--><span style="font-size: 10.0pt;
+font-family: 'Segoe UI','sans-serif'; mso-fareast-font-family: 'Times New
+Roman'; color: #000040; mso-bidi-language: HI;">Dedicated Support Manager
+with Skype/Phone/Chat.<br style="mso-special-character: line-break;" />
+<!--[if !supportLineBreakNewLine]--><br style="mso-special-character:
+line-break;" /> <!--[endif]--><o:p></o:p></span></p>
+<p style="margin-top: 5.0pt; margin-right: 6.0pt; margin-bottom: 5.0pt;
+margin-left: 25.85pt; tab-stops: .25in 45.8pt 91.6pt 137.4pt 183.2pt
+229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt
+641.2pt 687.0pt 732.8pt;"><span style="font-size: 10.0pt; font-family:
+'Segoe UI','sans-serif'; color: #000040;">Additionally,
+regarding&nbsp;safety&nbsp;of the website, we offer: User <span
+class="GramE">Accounts ,</span> User Login , User Registration , Database,
+File System, Blacklist Functionality, Fire-wall Functionality, Brute force
+login prevention etc.</span><span style="color:
+#000040;"><o:p></o:p></span></p>
+<p style="margin-top: 5.0pt; margin-right: 6.0pt; margin-bottom: 5.0pt;
+margin-left: 25.85pt; tab-stops: .25in 45.8pt 91.6pt 137.4pt 183.2pt
+229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt
+641.2pt 687.0pt 732.8pt;"><span style="font-size: 10.0pt; font-family:
+'Segoe UI','sans-serif'; color: #000040;">Our servers are located in US and
+we provide hosting using <span class="SpellE">Hostgator</span> Reseller
+panel. You get your own <span class="SpellE">cpanel</span> to work with, in
+case you host with us.</span><span style="color:
+#000040;"><o:p></o:p></span></p>
+<p style="margin-top: 5.0pt; margin-right: 6.0pt; margin-bottom: 5.0pt;
+margin-left: 25.85pt; tab-stops: .25in 45.8pt 91.6pt 137.4pt 183.2pt
+229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt
+641.2pt 687.0pt 732.8pt;"><span style="font-size: 10.0pt; font-family:
+'Segoe UI','sans-serif'; color: #000040;">We are including most of the
+niche, For example: Real Estate, E-Commerce, Marketplace, <span
+class="GramE">Dating</span>, picture Networking, Business, Corporate,
+Classified, Booking, Tour and Travels, Non-Profits and many
+more.</span><span style="color: #000040;"><o:p></o:p></span></p>
+<p style="margin-top: 5.0pt; margin-right: 6.0pt; margin-bottom: 5.0pt;
+margin-left: 25.85pt; tab-stops: .25in 45.8pt 91.6pt 137.4pt 183.2pt
+229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt
+641.2pt 687.0pt 732.8pt;"><span style="font-size: 10.0pt; font-family:
+'Segoe UI','sans-serif'; color: #000040;">We use java, <span
+class="SpellE">php</span>, <span class="SpellE">Wordpress</span> for
+front-end and for back-end we use <span class="SpellE">mysql</span> and
+<span class="SpellE">ms</span> <span class="SpellE">sql</span>.<br />
+&nbsp;</span><span style="color: #000040;"><o:p></o:p></span></p>
+<p style="margin-top: 5.0pt; margin-right: 6.0pt; margin-bottom: 5.0pt;
+margin-left: 25.85pt; tab-stops: .25in 45.8pt 91.6pt 137.4pt 183.2pt
+229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt
+641.2pt 687.0pt 732.8pt;"><b><span style="font-size: 10.0pt; font-family:
+'Segoe UI','sans-serif'; color: #000040;">We would like to know more about
+requirements which can be easily framed by knowing the simple answers of
+following questions:</span></b><span style="font-size: 10.0pt; font-family:
+'Segoe UI','sans-serif'; color: #000040;"><o:p></o:p></span></p>
+<p style="margin-top: 5.0pt; margin-right: 6.0pt; margin-bottom: 5.0pt;
+margin-left: 25.85pt; tab-stops: .25in 45.8pt 91.6pt 137.4pt 183.2pt
+229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt
+641.2pt 687.0pt 732.8pt;"><b><span style="font-size: 10.0pt; font-family:
+'Segoe UI','sans-serif'; color: #000040;">1) Any reference or competitor
+website?</span></b><span style="font-size: 10.0pt; font-family: 'Segoe
+UI','sans-serif'; color: #000040;"><o:p></o:p></span></p>
+<p style="margin-top: 5.0pt; margin-right: 6.0pt; margin-bottom: 5.0pt;
+margin-left: 25.85pt; tab-stops: .25in 45.8pt 91.6pt 137.4pt 183.2pt
+229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt
+641.2pt 687.0pt 732.8pt;"><b><span style="font-size: 10.0pt; font-family:
+'Segoe UI','sans-serif'; color: #000040;">2) End date to complete the
+project?</span></b><span style="font-size: 10.0pt; font-family: 'Segoe
+UI','sans-serif'; color: #000040;"><br />
+<b>&nbsp;</b><o:p></o:p></span></p>
+<p style="margin-top: 5.0pt; margin-right: 6.0pt; margin-bottom: 5.0pt;
+margin-left: 25.85pt; tab-stops: .25in 45.8pt 91.6pt 137.4pt 183.2pt
+229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt
+641.2pt 687.0pt 732.8pt;"><span style="font-size: 10.0pt; font-family:
+'Segoe UI','sans-serif'; color: #000040;">Kindly, share these inputs and we
+can frame a plan to develop a mobile friendly website for you.</span><span
+style="color: #000040;"><o:p></o:p></span></p>
+<p style="margin-top: 5.0pt; margin-right: 6.0pt; margin-bottom: 5.0pt;
+margin-left: 25.85pt; tab-stops: .25in 45.8pt 91.6pt 137.4pt 183.2pt
+229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt
+641.2pt 687.0pt 732.8pt;"><span style="font-size: 10.0pt; font-family:
+'Segoe UI','sans-serif'; color: #000040;">We hope we did not take too much
+of your time. If you are interested in this great deal, please email us or
+have a look at here:&nbsp;<b><a
+href="http://www.din5.club/iem/link.php?M=1611961&N=41&L=8&F=H">http://iweb499.instapage.com/</a></b>&nbsp;or
+call us on:&nbsp;<b>+1-888-610-4417</b>&nbsp;<span class="GramE">We</span>
+look forward to doing business with you! Just reply to this email, and we
+would be more than happy to answer any questions.<br /> <span
+style="font-family: 'Segoe UI', sans-serif; font-size: 10pt;"><br />White
+Label Partnership: In case, you are planning or already have Online
+marketing business, we are also offering the</span><span class="GramE"
+style="font-family: 'Segoe UI', sans-serif; font-size: 10pt;">&nbsp;
+reseller</span><span style="font-family: 'Segoe UI', sans-serif; font-size:
+10pt;"> plan with good discounts which is 100% white label and you can
+offer the same services to your client. Kindly, send an email to
+us.</span></span></p>
+<p style="margin-top: 5.0pt; margin-right: 6.0pt; margin-bottom: 5.0pt;
+margin-left: 25.85pt; tab-stops: .25in 45.8pt 91.6pt 137.4pt 183.2pt
+229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt
+641.2pt 687.0pt 732.8pt;"><span style="font-size: 10.0pt; font-family:
+'Segoe UI','sans-serif'; color: #000040;">Hoping to hear from you!<br />
+<br style="mso-special-character: line-break;" /> <!--[if
+!supportLineBreakNewLine]--><br style="mso-special-character: line-break;"
+/> <!--[endif]--><o:p></o:p></span></p>
+<p style="margin-top: 5.0pt; margin-right: 6.0pt; margin-bottom: 5.0pt;
+margin-left: 25.85pt; tab-stops: .25in 45.8pt 91.6pt 137.4pt 183.2pt
+229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt
+641.2pt 687.0pt 732.8pt;"><b><span style="font-size: 10.0pt; font-family:
+'Segoe UI','sans-serif'; color: #000040;">Regards<span
+class="GramE">,</span></span></b><span style="font-size: 10.0pt;
+font-family: 'Segoe UI','sans-serif'; color: #000040;"><br /> <b>Sales
+Team&nbsp;</b><br /> <b>SKYPE : <span
+class="SpellE">design99.website</span></b><br /> <b>Phone :
++1-888-610-4417</b><br /> <b><a
+href="http://www.din5.club/iem/link.php?M=1611961&N=41&L=7&F=H"><span
+style="color: #000040; text-decoration: none;">Click
+here</span></a>&nbsp;to chat with us.</b><br />
+<b>&nbsp;</b><o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left: 27.0pt; tab-stops:
+.25in;"><b><span style="font-size: 10.0pt; font-family: 'Segoe
+UI','sans-serif'; color: #000040;">&nbsp;Note:</span></b><span
+style="font-size: 10.0pt; font-family: 'Segoe UI','sans-serif'; color:
+#000040;"> You are receiving this email best practices and news from
+marketing team. If you do not want to receive our email again, click
+to&nbsp;<span class="GramE"><b><span style="color: #000040;
+text-decoration: none; text-underline: none;"></span></b></span><a
+href="http://www.din5.club/iem/unsubscribe.php?M=1611961&C=609e50fca0c6e9fbfea63d2cc4d4e221&L=41&N=41">Unsubscribe
+me from this list</a><span style="color: #000040; text-decoration: none;
+text-underline: none;"></span>&nbsp;or send email us.</span><span
+style="font-size: 9.0pt; font-family: 'Times New Roman','serif';
+mso-bidi-font-family: Mangal; color: #000040;"><o:p></o:p></span></p>
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+</div>
+<img
+src="http://www.din5.club/iem/open.php?M=1611961&L=41&N=41&F=H&image=.jpg"
+height="1" width="10"></body></html>
+
+--b1_1abfed5accd21441a61874b1fa9ae839--
+
+

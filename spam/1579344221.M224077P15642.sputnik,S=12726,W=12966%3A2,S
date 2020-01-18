@@ -1,0 +1,240 @@
+Return-Path: <172-211-2835008.LjI0MS4yMy43NQ-pma-1-1-4887-250-0-dshrl1016@mail46.47688.hk>
+Delivered-To: mail@stilfilm.com
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 3CD9DC22BD
+	for <mail@stilfilm.com>; Wed, 10 Jan 2018 23:32:10 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: 5.107
+X-Spam-Level: *****
+X-Spam-Status: No, score=5.107 required=5.5 tests=[DKIM_SIGNED=0.1,
+	DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1, HTML_MESSAGE=0.001,
+	PYZOR_CHECK=1.985, RDNS_NONE=1.274, SPF_HELO_PASS=-0.001,
+	SPF_PASS=-0.001, URIBL_ABUSE_SURBL=1.948, URIBL_BLOCKED=0.001]
+	autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 7GdAeZQv9CiG for <mail@stilfilm.com>;
+	Wed, 10 Jan 2018 23:32:07 +0100 (CET)
+Received: from mail46.47688.hk (unknown [173.234.247.252])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 272FCC03B9
+	for <mail@stilfilm.com>; Wed, 10 Jan 2018 23:32:05 +0100 (CET)
+X-DKIM: Sendmail DKIM Filter v2.8.3 mail46.47688.hk 9C7307A4E6E9
+Authentication-Results: mail46.47688.hk; dkim=pass (1024-bit key)
+	header.i=@mail46.47688.hk; x-dkim-adsp=none
+X-DKIM: Sendmail DKIM Filter v2.8.3 mail46.47688.hk 9C7307A4E6E9
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=mail46.47688.hk;
+	s=47688; t=1515623525;
+	bh=eAAqDMZK3xbCKKMoKwSJ36ICyNyKLScyOU4KmCWd2Sw=;
+	h=Date:From:To:Subject:List-Unsubscribe:MIME-Version:Message-ID:
+	 Content-Type:Content-Transfer-Encoding;
+	b=wzsgEtLon8sMlJdgmE5ccrjtXJh+DGh2OQfGSOQLIjtiL1/vyt0yrH8BjQzOVDbYw
+	 QMzfvgNCUXPTS8tW4wi6Rk+de23KkqAaBMJCzhNN74KZ7L/SFERD6kLck/IRxB2M2h
+	 zCfDDOtnoGLsySPbzhjS41Tz93j918wUzUJzFLP4=
+Date: Wed, 10 Jan 2018 14:32:05 -0800
+From: "Health Care Center" <service@mail46.47688.hk>
+To: "mail" <mail@stilfilm.com>
+Subject: This One Simple Daily Habit Could Help You Live Longer
+List-Unsubscribe: <mailto:service@mail46.47688.hk?subject=Unsubscribe%20This%20One%20Simple%20Daily%20Habit%20Could%20Help%20You%20Live%20Longer>, <http://www.7395.gs/unsubscribe.php?M=2835008!G=0!LID=17!N=239!D=p_5!lan=en!O=ADgFIlVzDyYMbFd8VHsEYAE8Vm4Gc1c9CGdQMVd%2FUzRWNQB9CWxeMgp%2F>
+MIME-Version: 1.0
+Message-ID: <f3eaa951d4e718788db4f02728e86806@mail46.47688.hk>
+Content-Type: multipart/alternative; charset="UTF-8";
+	boundary="b17003ea315801fdf033d42b7c20160f34"
+Content-Transfer-Encoding: 8bit
+
+--b17003ea315801fdf033d42b7c20160f34
+Content-Type: text/plain; format=flowed; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+
+Want more birthdays ahead? Go outside. Unsubscribe
+
+That’s the conclusion of a recent study that looked at the daily habits
+of more than 3,000 adults between ages 70 to 90, over a 25-year period.
+Researchers divided the subjects into three groups, based on how often they
+left their homes: daily, 2 to 5 times per week, and less than once per
+week. When mortality was assessed in the later years of the study,
+researchers found that those who went outside every day were at the small
+risk of death, while those who rarely left home had the highest mortality
+risk.
+
+This finding was consistent even when factoring in health issues like
+diabetes, heart disease, visual impairment, and impaired mobility, notes
+lead study author Jeremy Jacobs, MD, from the Hadassah Hebrew University
+Medical Center in Israel. “Resilient individuals remain engaged,
+irrespective of their limitations,” he says, adding that the improved
+survival was observed among people with low levels of activity. That means
+you don’t need to go for a jog—you could even just sit outside to
+experience benefits. Although the exact reasons behind the findings
+weren’t included in this study, previous research has found that people
+who use more time going out may have lower levels and better mental health,
+which can both drive longevity.  “Throughout history, even introverted
+artists and writers had daily routines that got them out of the lab or
+studio,” says Alex Soojung-Kim Pang, PhD, author of Rest: Why You Get
+More Done When You Work Less, which profiles several productive thinkers of
+different eras. In addition to the obvious health benefits of going outside
+and being less sedentary, getting some fresh air, particularly in nature,
+can improve mood and emotional balance, says Pang. Also, the recent study
+highlighted that people who go outside more often tend to have stronger
+connections, which Pang says has been proven to guard against cognitive
+decline and lower the risk of sick.
+
+Says Pang: “Simply put, getting outside daily is essential for
+maintaining good health.”
+
+6 Surprising Sources of Calcium
+Your body is constantly losing calcium--when you sweat, go to the bathroom,
+when your fingernails and hair grow--and although the mineral is essential
+for bone health, your body can't replace what it sheds on its own. That's
+why the importance of drinking milk has been drilled into your head since
+childhood.
+But milk products aren't the only calcium-rich foods--good news if you're
+vegan, lactose intolerant, or simply don't like dairy. To get your daily
+dose (1,000 mg a day for adults under 50 or 1,200 mg  for women over 50 and
+men over 70, according to the National Osteoporosis Foundation), aim for
+two to three servings of calcium-rich foods like these a day, suggests
+Marjorie Nolan, a registered dietitian in New York City. (Search: Symptoms
+of osteoporosis) Reap the biggest calcium rewards by spreading your
+servings out over the course of the day: "The body can only absorb so much
+calcium at one time,"says Nolan.
+
+1. Arugula
+63 mg of calcium per half cup
+Choose this aromatic green over lettuce for a more calcium-rich (and
+better-tasting!) salad. One cup contains just 5 calories, so piling a few
+servings onto your plate is a waist-friendly way to rack up more than a
+third of your recommended daily intake of calcium.
+2. White beans
+70 mg of calcium per half cup (cooked)
+White beans pose a triple threat: They'll load you up with 10 g fiber and
+10 g protein, as well as bone-boosting calcium.
+3. Almonds
+80 mg of calcium in 1 oz
+This ticker-friendly treat contains monounsaturated fatty acids that ward
+off heart disease and also bolsters your bone health with about 8 percent
+of your daily calcium intake. (Just don't overdo it--a single  contains 170
+calories and about 15 g fat.)
+4. Broccoli (cooked)
+90 mg of calcium per half cup
+This bad-fighter doubles as a bone-builder, dishing up nearly 10 percent of
+your daily calcium allowance in a half-cup serving. Huge doses of vitamins
+C and K sweeten the deal.
+5. Turnip greens (boiled)
+100 mg of calcium per half cup
+Don't throw away the leafy tops of turnips. They're the most nutritious
+part of the root vegetable. Toss them into soups or casseroles, or sauté
+them with garlic for a flavorful side dish.
+6. Soybeans (boiled)
+100 mg of calcium per half cup
+Soybeans power up your plate with protein, as well as omega-3 fatty acids,
+which help your brain function, and prevent cardiovascular disease. The 100
+mg of calcium per half cup is just icing on the cake.
+
+Copyright © 2017 Rodale Inc. Customer Care
+P.O. Box 3064
+Harlan, IA 51593-0128
+
+--b17003ea315801fdf033d42b7c20160f34
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+</head>
+<body>
+Want more birthdays ahead? Go outside.&nbsp;<a
+href="http://www.7395.gs/unsubscribe.php?M=2835008!G=0!LID=17!N=239!D=p_5!lan=en!O=BDwFIgUjWnMAYAEqUH8AZA0wBDxaL1A6CmVUNVB4VTIFZlUoA2ZeMg96">Unsubscribe</a>
+<br />
+<br />
+That’s the conclusion of a recent study that looked at the daily habits
+of more than 3,000 adults between ages 70 to 90, over a 25-year period.
+Researchers divided the subjects into three groups, based on how often they
+left their homes: daily, 2 to 5 times per week, and less than once per
+week. When mortality was assessed in the later years of the study,
+researchers found that those who went outside every day were at the small
+risk of death, while those who rarely left home had the highest mortality
+risk.<br />
+<br />
+This finding was consistent even when factoring in health issues like
+diabetes, heart disease, visual impairment, and impaired mobility, notes
+lead study author Jeremy Jacobs, MD, from the Hadassah Hebrew University
+Medical Center in Israel. “Resilient individuals remain engaged,
+irrespective of their limitations,” he says, adding that the improved
+survival was observed among people with low levels of activity. That means
+you don’t need to go for a jog—you could even just sit outside to
+experience benefits. Although the exact reasons behind the findings
+weren’t included in this study, previous research has found that people
+who use more time going out may have lower levels and better mental health,
+which can both drive longevity.&nbsp; “Throughout history, even
+introverted artists and writers had daily routines that got them out of the
+lab or studio,” says Alex Soojung-Kim Pang, PhD, author of Rest: Why You
+Get More Done When You Work Less, which profiles several productive
+thinkers of different eras. In addition to the obvious health benefits of
+going outside and being less sedentary, getting some fresh air,
+particularly in nature, can improve mood and emotional balance, says Pang.
+Also, the recent study highlighted that people who go outside more often
+tend to have stronger connections, which Pang says has been proven to guard
+against cognitive decline and lower the risk of sick.&nbsp;<br />
+<br />
+Says Pang: “Simply put, getting outside daily is essential for
+maintaining good health.”<br />
+<br />
+6 Surprising Sources of Calcium<br />
+Your body is constantly losing calcium--when you sweat, go to the bathroom,
+when your fingernails and hair grow--and although the mineral is essential
+for bone health, your body can't replace what it sheds on its own. That's
+why the importance of drinking milk has been drilled into your head since
+childhood.&nbsp;&nbsp;<br />
+But milk products aren't the only calcium-rich foods--good news if you're
+vegan, lactose intolerant, or simply don't like dairy. To get your daily
+dose (1,000 mg a day for adults under 50 or 1,200 mg&nbsp; for women over
+50 and men over 70, according to the National Osteoporosis Foundation), aim
+for two to three servings of calcium-rich foods like these a day, suggests
+Marjorie Nolan, a registered dietitian in New York City. (Search: Symptoms
+of osteoporosis) Reap the biggest calcium rewards by spreading your
+servings out over the course of the day: "The body can only absorb so much
+calcium at one time,"says Nolan.&nbsp;<br />
+<br />
+1. Arugula<br />
+63 mg of calcium per half cup<br />
+Choose this aromatic green over lettuce for a more calcium-rich (and
+better-tasting!) salad. One cup contains just 5 calories, so piling a few
+servings onto your plate is a waist-friendly way to rack up more than a
+third of your recommended daily intake of calcium.<br />
+2. White beans<br />
+70 mg of calcium per half cup (cooked)<br />
+White beans pose a triple threat: They'll load you up with 10 g fiber and
+10 g protein, as well as bone-boosting calcium.&nbsp;<br />
+3. Almonds<br />
+80 mg of calcium in 1 oz<br />
+This ticker-friendly treat contains monounsaturated fatty acids that ward
+off heart disease and also bolsters your bone health with about 8 percent
+of your daily calcium intake. (Just don't overdo it--a single&nbsp;
+contains 170 calories and about 15 g fat.)<br />
+4. Broccoli (cooked)<br />
+90 mg of calcium per half cup<br />
+This bad-fighter doubles as a bone-builder, dishing up nearly 10 percent of
+your daily calcium allowance in a half-cup serving. Huge doses of vitamins
+C and K sweeten the deal.<br />
+5. Turnip greens (boiled)<br />
+100 mg of calcium per half cup&nbsp;<br />
+Don't throw away the leafy tops of turnips. They're the most nutritious
+part of the root vegetable. Toss them into soups or casseroles, or sauté
+them with garlic for a flavorful side dish.<br />
+6. Soybeans (boiled)<br />
+100 mg of calcium per half cup<br />
+Soybeans power up your plate with protein, as well as omega-3 fatty acids,
+which help your brain function, and prevent cardiovascular disease. The 100
+mg of calcium per half cup is just icing on the cake.<br />
+<br />
+Copyright &copy; 2017 Rodale Inc. Customer Care<br />
+P.O. Box 3064<br />
+Harlan, IA 51593-0128<br />
+<img border="0" alt="2835008"
+src="http://www.7395.gs/open.php?M=2835008!G=0!LID=17!N=239!D=p_5!F=H!O=V28OKQIkW3IBYVV%2BAywCZgk0CzMDdgVvAG9QMQIqB2BXNAB9BmMNYQ%3D%3D!image=.jpg"></body>
+</html>
+
+--b17003ea315801fdf033d42b7c20160f34--
+
+

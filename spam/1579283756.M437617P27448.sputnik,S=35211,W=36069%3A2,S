@@ -1,0 +1,858 @@
+Return-Path: <bounce+caAF326KIAAABPKAABKNTQAAAAAAAAALJQAXMA@m06bounce.net>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 5006DD1EA1
+	for <mail@dorianvasco.de>; Fri, 11 Oct 2019 00:35:30 +0200 (CEST)
+Authentication-Results: v22014122474822114.stilfilm.com; dkim=pass
+	reason="1024-bit key; insecure key"
+	header.d=b2bnetwork.online header.i=@b2bnetwork.online
+	header.b=B66JNzBm; dkim-adsp=pass; dkim-atps=neutral
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: 4.9
+X-Spam-Level: ****
+X-Spam-Status: No, score=4.9 required=5.5 tests=[BAYES_50=0.8,
+	DATE_IN_PAST_12_24=1.049, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, HTML_MESSAGE=0.001, HTML_TAG_BALANCE_BODY=0.1,
+	RCVD_IN_DNSWL_NONE=-0.0001, SPF_HELO_NONE=0.001, SPF_PASS=-0.001,
+	TRACKER_ID=0.1, URIBL_ABUSE_SURBL=1.25, URIBL_BLACK=1.7] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 1mzcObsdiHrC for <mail@dorianvasco.de>;
+	Fri, 11 Oct 2019 00:35:22 +0200 (CEST)
+Received: from smtp13.dia-one-3.de (smtp13.dia-one-3.de [193.168.252.76])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id 19239D1E9A
+	for <mail@dorianvasco.de>; Fri, 11 Oct 2019 00:35:20 +0200 (CEST)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=simple/simple; t=1570746921;
+	s=dialis; d=b2bnetwork.online;
+	h=Date:From:Reply-To:To:Message-ID:Subject:MIME-Version:Content-Type:List-Id:List-Unsubscribe;
+	bh=JJ2ABj5iJs51gWwDLYEaLOSTx6Q5pb+W7jwfl2ohx7I=;
+	b=B66JNzBmgvCzPgDmObEQE+lcGfC5XuwSdE4ZDW1vP6suqJPrMlvYymNSw12ZqFzB
+	KTiLNw8Dfs8Ku09qa1n2lldyIlQqQM7e6fs5Jybid1X7rBrO2CSLopkFmcBHSbgRd6q
+	+DVSATjCTNyUvic9YsB4YvD49lMib2Ev+tLsf1L0=
+Date: Thu, 10 Oct 2019 12:02:08 +0200 (CEST)
+From: Kaffee-Miete 2019 <info@b2bnetwork.online>
+Reply-To: info@b2bnetwork.online
+To: mail@dorianvasco.de
+Message-ID: <INX.14c124b8eb050d06d6f466cb3e9.15367.177b20f.1a72b.16db51d2712fa.bounce@m06bounce.net>
+Subject: =?UTF-8?Q?Nur_f=C3=BCr_Firmen:_Kaffeevollautomaten_zu_Top-Preisen_mieten?=
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_10154604_1631834996.1570701728013"
+X-Memberid: M06-24620841
+X-Memberid: M06-24620841
+List-Id: "0" <757.14c124b8eb050d06d6f466cb3e9.localhost>
+List-Unsubscribe: <http://asset.b2b-l.xyz/d?q000x0q0bo6xss00l0000lzy000000000fuyljfq757>
+
+------=_Part_10154604_1631834996.1570701728013
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Wenn dieser Newsletter nicht richtig angezeigt wird, klicken Sie bitte hier=
+.
+( http://asset.b2b-l.xyz/html_mail.jsp?params=3D24620841+mail%40dorianvasco=
+.de+0+000vgzy000bpk000000000bngcumw6f3
+ )
+Wenn Sie sich von unserem Service abmelden m=C3=B6chten, klicken Sie bitte =
+auf
+den Abmeldelink im Impressum des Newsletters.=20
+=20
+=20
+=20
+=20
+Was kostet die Miete eines
+Kaffeevollautomaten f=C3=BCr Ihre Firma?
+=20
+=20
+=20
+Wieviel kostet die Miete eines Kaffeevollautomaten? Wieviel kostet die
+Miete eines Kaffeevollautomaten? ( http://asset.b2b-l.xyz/d?q000x0p0bo6xss0=
+0d0000lzy000000000fuyc6kq757 )
+=20
+Kaffeevollautomaten f=C3=BCr Ihren Verwendungsort finden: B=C3=BCro - Gastr=
+o - Hotel
+Kaffeevollautomaten f=C3=BCr Ihren Verwendungsort finden: B=C3=BCro - Gastr=
+o - Hotel
+( http://asset.b2b-l.xyz/d?q000x0p0bo6xss00d0000lzy000000000fuyc6kq757 )
+=20
+=20
+=20
+Lieber Leser,
+
+=20
+wissen Sie, mit welchen Kosten Sie bei der Miete eines Kaffeevollautomaten
+rechnen m=C3=BCssen? Eine konkrete =C3=9Cbersicht =C3=BCber die Mietkosten =
+findet man auf
+den Anbieterseiten selten. Denn je nach Einsatzort und Bedarf kommen
+unterschiedliche Kaffeevollautomaten in Betracht.
+=20
+Wir helfen Ihnen den =C3=9Cberblick zu bewahren!
+=20
+Finden Sie mit uns den passenden Kaffeevollautomaten f=C3=BCr Ihre Firma! D=
+urch
+unsere 100% kostenlose Vermittlung k=C3=B6nnen Sie bis zu 3 Angebote bequem
+vergleichen und Ihren individuellen Kaffeevollautomaten zum Top-Preis f=C3=
+=BCr
+Ihr Unternehmen finden.
+=20
+Mit freundlichen Gr=C3=BC=C3=9Fen
+Ihr Team von Kaffeevollautomaten-Angebote
+=20
+=20
+Mehr erfahren >> ( http://asset.b2b-l.xyz/d?q000x0p0bo6xss00d0000lzy0000000=
+00fuyc6kq757 )
+=20
+=20
+=20
+Finden Sie heraus, welcher Automat zu Ihnen passt Finden Sie heraus,
+welcher Automat zu Ihnen passt ( http://asset.b2b-l.xyz/d?q000x0p0bo6xss00d=
+0000lzy000000000fuyc6kq757 )
+=20
+=20
+Welcher Automat passt zu Ihnen?
+=20
+Mehr erfahren >> ( http://asset.b2b-l.xyz/d?q000x0p0bo6xss00d0000lzy0000000=
+00fuyc6kq757 )
+=20
+=20
+=20
+Sie k=C3=B6nnen Ihren Kaffeevollautomaten auch mieten oder leasen statt kau=
+fen
+Sie k=C3=B6nnen Ihren Kaffeevollautomaten auch mieten oder leasen statt kau=
+fen (
+http://asset.b2b-l.xyz/d?q000x0p0bo6xss00d0000lzy000000000fuyc6kq757 )
+=20
+Mieten - Leasen - Kaufen
+=20
+Mehr erfahren >> ( http://asset.b2b-l.xyz/d?q000x0p0bo6xss00d0000lzy0000000=
+00fuyc6kq757 )
+=20
+=20
+Zufriedene Kunden bewerten kaffeevollautomaten-angebote.de mit 4,54 von 5
+Sternen Zufriedene Kunden bewerten kaffeevollautomaten-angebote.de mit 4,54
+von 5 Sternen ( http://asset.b2b-l.xyz/d?q000x0p0bo6xss00d0000lzy000000000f=
+uyc6kq757 ) Bitte antworten Sie
+nicht direkt auf diese E-Mail.
+=20
+Dieser Information wurde an mail@dorianvasco.de gesendet.
+=20
+Dieser Newsletter ist ein Service der B2B Network Ltd
+Gesch=C3=A4ftsf=C3=BChrer: Patrick Robalewski
+Naxxar Road 152/7 | San Gwann 9030 | Malta
+Registergericht: Registry of Companies | Notaile Road | Attard | BKR 3000
+Malta
+Registration Number C74994
+=20
+Kontakt: franz.koestner@b2b-network-ltd.com( mailto:franz.koestner@b2b-netw=
+ork-ltd.com )
+Web: www.b2b-network-ltd.com( [%url:unique-count; )
+=20
+Telefon: +49 (0) 800 58 358 4003 (Servicezeit: Mo. - Fr. 9 - 12 Uhr)
+=20
+Wenn Sie unseren Newsletter in Zukunft nicht mehr erhalten m=C3=B6chten, kl=
+icken
+Sie bitte auf [@Abmeldelink_Confirm_LP].
+=20
+Hinweis: Ihr Datensatz stammt von B2B Network Ltd. Gem=C3=A4=C3=9F der gese=
+tzlichen
+Anforderungen in =C2=A7 7 Abs. 2 Nr. 3 UWG versendet B2B Network Ltd. diese=
+ E-
+Mail ausschlie=C3=9Flich mit Ihrem Einverst=C3=A4ndnis. Sie k=C3=B6nnen die=
+ses
+Einverst=C3=A4ndnis jederzeit und ohne Angabe von Gr=C3=BCnden widerrufen. =
+Bitte
+klicken Sie auf [@Abmeldelink_Confirm_LP] um sich beim Newsletter Service
+abzumelden. Die Rechtm=C3=A4=C3=9Figkeit der Werbung bis zu Ihrem Widerruf =
+bleibt
+davon unber=C3=BChrt.
+=20
+Datenschutzhinweis: Verantwortlich ist die Firma B2B Network Ltd., Kontakt
+siehe oben. Wir verarbeiten Ihre Daten zum Zwecke der Werbung mit Ihrer
+Einwilligung (Art. 6 Abs. 1 a, f DSGVO) und speichern diese bis zum
+Widerruf und dem Ablauf von Verj=C3=A4hrungs- und Aufbewahrungsfristen. Sie
+haben Rechte auf Auskunft, Einschr=C3=A4nkung und Widerspruch gegen die
+Verarbeitung und Daten=C3=BCbertragbarkeit, sowie Beschwerde bei der
+Aufsichtsbeh=C3=B6rde.
+[@Trackingpixel]
+------=_Part_10154604_1631834996.1570701728013
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.=
+w3.org/TR/html4/loose.dtd"><html xmlns=3D"http://www.w3.org/1999/xhtml" xml=
+ns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-microsoft-com=
+:office:office">
+<head>
+<title>Kaffeevollautomate-Angebote</title>
+<meta charset=3D"UTF-8">
+<meta name=3D"viewport" content=3D"initial-scale=3D1, user-scalable=3Dyes">
+<!--[if !mso]><!--><meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedg=
+e"><!--<![endif]-->
+<!--[if (gte mso 9)|(IE)]>
+<style type=3D"text/css">
+table {border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt=
+; border:0;}
+table td, table th {border-collapse:collapse; font-size:1px; line-height:1p=
+x;}=20
+.ol600 {width:600px;}
+.ol610 {width:610px;}
+.lh {line-height:normal !important;}
+.olcta {padding:0 !important; background-color:none !important; background-=
+image:none !important; background:none !important; border:none !important; =
+-moz-border-radius:0 !important; -webkit-border-radius:0 !important; border=
+-radius:0 !important;}
+.olb {display:block !important;}
+.olbg1 {background-color:#217cc0;}
+.oltd1 {padding:10px 15px; line-height:normal !important;}
+.inpl-not-mailing .cta1a {color:#ffffff !important; font-weight:normal !imp=
+ortant; text-decoration:none !important; display:block !important; padding:=
+12px 10px !important;}
+.inpl-not-mailing .oltd1 {padding:0 !important; line-height:normal !importa=
+nt;}
+.inpl-not-mailing .olh {height:auto !important;}
+</style>
+<xml>
+ <o:OfficeDocumentSettings>
+  <o:AllowPNG/>
+  <o:PixelsPerInch>96</o:PixelsPerInch>
+ </o:OfficeDocumentSettings>
+</xml>
+<![endif]-->
+<style>.ff {font-family:Arial, Helvetica, sans-serif;}
+.fst1 {font-size:10px;}
+.fs11 {font-size:11px;}
+.fs12 {font-size:12px;}
+.fst13 {font-size:13px;}
+.fst3 {font-size:14px;}
+.fs18 {font-size:18px;}
+.fs22 {font-size:22px;}
+.lh20 {line-height:20px;}
+.fc1, .fc1 a {color:#ffffff;}
+.fc2, .fc2 a {color:#333333;}
+.fc3, .fc3 a {color:#e1e1e1;}
+.fc_ladv, .fc_ladv a {color:#217cc0;}
+.tdn {text-decoration:none;}
+.tdu {text-decoration:underline;}
+.fwn {font-weight:normal;}
+.fwb {font-weight:bold;}
+.vat {vertical-align:top;}
+.vam {vertical-align:middle;}
+.la_n a {font-weight:normal; text-decoration:none;}
+.la_b a {font-weight:bold; text-decoration:none;}
+.la_u a {font-weight:normal; text-decoration:underline;}
+.ladv a {font-weight:normal; text-decoration:underline; color:#217cc0;}
+.dp10 {padding:10px;}
+.dplr10tb3 {padding:3px 10px;}
+.dplr10 {padding:0 10px;}
+.dplr20 {padding:0 20px;}
+.padbody {padding:3px 0;}
+.cta1a {color:#ffffff; font-weight:normal; text-decoration:none; display:bl=
+ock; padding:12px 14px;}
+.ctaf {font-family:Arial, Helvetica, sans-serif; font-size:20px; color:#fff=
+fff; font-weight:bold;}
+.ctaf2 {font-family:Arial, Helvetica, sans-serif; font-size:14px; color:#ff=
+ffff; font-weight:bold;}
+
+@media only screen and (max-width:414px) {
+.fl {display:block !important; width:100% !important;}
+.fw {width:100% !important; min-width:0 !important;}
+.mh {display:none !important;}
+.image {width:100% !important; height:auto !important;}
+.comt {margin:0 auto !important;}
+.gf { font-size:17px !important; font-size:4.72vw !important; }
+.h2 {font-size:20px !important; font-size:5.55vw !important;}
+.xsmall {font-size:13px !important; font-size:3.61vw !important;}
+.rhom {height:auto !important;}
+.rh10, .rh10 img {height:10px !important; height:2.78vw !important;}
+.rh20, .rh20 img {height:10px !important; height:2.78vw !important;}
+.plr10 {padding:0 10px !important;}
+.s1, .s1 img {height:10px !important; height:2.78vw !important;}
+.s4, .s4 img {height:10px !important; height:2.78vw !important;}
+.tlf {table-layout:fixed !important;}
+.mcta1 {padding:10px !important; padding:2.77vw 10px !important;}
+.plr10 {padding:0 10px !important;}
+u + .body .gwfw { width:100% !important; width:100vw !important;}
+}
+@media only screen and (width:375px) {.iph {padding:0 8px 0 7px !important;=
+}}
+<!--
+body {margin:0; padding:0; background:#ffffff; -webkit-text-size-adjust:non=
+e; -ms-text-size-adjust:none;}
+a, a:active, a:visited, .yshortcuts, .yshortcuts a span {text-decoration:no=
+ne; font-weight:normal;}
+a[x-apple-data-detectors] {color: inherit !important; text-decoration: none=
+ !important; font-size: inherit !important; font-family: inherit !important=
+; font-weight: inherit !important; line-height: inherit !important;}
+[office365] td div, [office365] button {display:block !important;}
+table th {padding:0; Margin:0; border:0; font-weight:normal; vertical-align=
+:top;}
+--></style>
+
+        <style type=3D"text/css">
+          @media only screen and (max-width: 414px) {
+            .vce-hide-on-mobile { display: none !important; max-height: 0 !=
+important; }
+            .vce-image { width: 100% !important; height: auto !important; }
+          }
+        </style></head>
+ <body class=3D"body"><div ems:preheader=3D"Wissen Sie, wie viel ein Kaffee=
+vollautomat f=C3=BCr Ihre Firma kostet? Machen Sie jetzt den kostenlosen Pr=
+eis-Check 2019 und finden Sie das passende Angebot." style=3D"display:none!=
+important;font-size:1px;color:#333333;line-height:1px;max-height:0px;max-wi=
+dth:0px;opacity:0;overflow:hidden;mso-hide:all">Wissen Sie, wie viel ein Ka=
+ffeevollautomat f=C3=BCr Ihre Firma kostet? Machen Sie jetzt den kostenlose=
+n Preis-Check 2019 und finden Sie das passende Angebot.</div>      =20
+<body class=3D"body">
+<!-- Header - Beginn -->
+<!--[if (gte mso 9)|(IE)]>
+<table align=3D"center"  border=3D"0" cellpadding=3D"0" cellspacing=3D"0" t=
+ext-align=3D"center" width=3D"600">
+<tr>
+<td>
+<![endif]-->
+<table style=3D"width: 600px; max-width: 600.0px;" text-align=3D"center" ce=
+llspacing=3D"0" cellpadding=3D"0" border=3D"0"  align=3D"center">
+  <tbody>
+    <tr>
+      <td height=3D"20">&nbsp;</td>
+    </tr>
+    <tr>
+
+      <td style=3D"text-align: center; font-size: 9.0px; color: #646464; fo=
+nt-family: verdana , sans-serif;"><a href=3D"http://asset.b2b-l.xyz/html_ma=
+il.jsp?params=3D24620841+mail%40dorianvasco.de+0+000vgzy000bpk000000000bngc=
+umw6f3" style=3D"color: #646464;">Wenn dieser Newsletter nicht richtig ange=
+zeigt wird, klicken Sie bitte hier.</a><br> Wenn Sie sich von unserem Servi=
+ce abmelden m=C3=B6chten, klicken Sie bitte auf den Abmeldelink im Impressu=
+m des Newsletters.<br><br></td>
+    </tr>
+  </tbody>
+</table>
+
+<!--[if (gte mso 9)|(IE)]>
+</td>
+</tr>
+</table>
+<![endif]-->
+<!-- Header - Ende -->=20
+ <table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" width=3D"100%" hei=
+ght=3D"100%" bgcolor=3D"#ffffff" class=3D"gwfw">
+    <tr>
+      <td width=3D"100%" align=3D"center" valign=3D"top">
+        <table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" width=3D"61=
+0" class=3D"ol610 fw">
+          <tr>
+            <td style=3D"padding:0 5px;" class=3D"iph">
+              <table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" width=
+=3D"600" bgcolor=3D"#ffffff" class=3D"ol600 fw">
+                <tr>
+                  <td height=3D"20" class=3D"rh10"><br></td>
+                </tr>
+                <tr>
+=09<td align=3D"center" bgcolor=3D"#ffffff">
+=09=09<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%=
+">
+=09=09=09<tr>
+=09=09=09=09<td align=3D"center" style=3D"padding:10px;">
+=09=09=09=09=09<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+=09=09=09=09=09=09
+=09=09=09=09=09=09  <tr>
+=09=09=09=09=09=09=09<td align=3D"center" class=3D"lh"><font class=3D"ff fs=
+22 fc1 fwb" style=3D"font-family: Arial, Helvetica, sans-serif; font-size: =
+22px; color: #ffffff; font-weight: bold;"><span class=3D"la_b h2"><span sty=
+le=3D"color: #000000;">Was kostet die Miete eines</span><br><span style=3D"=
+color: #000000;"><strong>Kaffeevollautomaten f=C3=BCr Ihre Firma</strong>?<=
+/span><br></span></font></td>
+=09=09=09=09=09=09  </tr>
+=09=09=09=09=09=09
+=09=09=09=09=09=09
+=09=09=09=09=09=09  <tr>
+=09=09=09=09=09=09=09<td align=3D"center" class=3D"lh"><font class=3D"ff fs=
+18 fc1" style=3D"font-family: Arial, Helvetica, sans-serif; font-size: 18px=
+; color: #ffffff;"><span class=3D"la_u gf"></span></font></td>
+=09=09=09=09=09=09  </tr>
+=09=09=09=09=09=09
+=09=09=09=09=09</table>
+=09=09=09=09</td>
+=09=09=09</tr>
+=09=09</table>
+=09</td>
+</tr>
+<tr>
+  <td class=3D"dplr10" style=3D"padding: 0 10px;">
+    <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%">
+      <tr>
+        <th align=3D"left" valign=3D"top" class=3D"vat fl" style=3D"padding=
+: 0; Margin: 0; border: 0; font-weight: normal; vertical-align: top;">
+          <table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" width=3D"=
+280" class=3D"fw">
+=09=09=09
+=09=09=09
+=09=09=09<tr>
+            =20
+=09=09=09<td align=3D"center"><a title=3D"Finden Sie jetzt Ihren passenden =
+Kaffeevollautomaten" href=3D"http://asset.b2b-l.xyz/d?q000x0p0bo6xss00d0000=
+lzy000000000fuyc6kq757" style=3D"text-decoration: none; font-weight: normal=
+;" target=3D"_blank"><img src=3D"https://images1.meinmedienhost.de/KVA_DE_2=
+409/header_links.jpg" width=3D"280" border=3D"0" style=3D"display: block; w=
+idth: 280px;" class=3D"image vce-hide-on-mobile" alt=3D"Angebot von bis zu =
+drei Anbietern erhalten"><!--[if !mso 9]><!--><img><!--<![endif]--></a></td=
+>
+=09=09=09</tr>
+=09=09=09
+=09=09=09
+=09=09=09
+=09=09=09
+=09=09=09<tr>
+=09=09=09=09<td align=3D"center" class=3D"vat dplr10" style=3D"vertical-ali=
+gn: top; padding: 0 10px;" valign=3D"top">
+=09=09=09=09=09<table cellspacing=3D"0" cellpadding=3D"0" border=3D"0">
+=09=09=09=09=09=09
+=09=09=09=09=09=09
+=09=09=09=09=09=09
+=09=09=09=09=09=09
+=09=09=09=09=09=09
+=09=09=09=09=09</table>
+=09=09=09=09</td>
+=09=09=09</tr>
+=09=09=09
+=09=09=09
+=09=09=09
+=09=09=09=20
+=09=09</table>
+        </th>
+        <th width=3D"0" class=3D"mh" style=3D"padding: 0; Margin: 0; border=
+: 0; font-weight: normal; vertical-align: top;" valign=3D"top"><img src=3D"=
+https://images1.meinmedienhost.de/KVA_DE_2409/trans1.gif" width=3D"1" alt=
+=3D""></th>
+        <th align=3D"left" valign=3D"top" class=3D"vat fl" style=3D"padding=
+: 0; Margin: 0; border: 0; font-weight: normal; vertical-align: top;">
+          <table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" width=3D"=
+280" class=3D"fw">
+=09=09=09
+=09=09=09
+=09=09=09<tr>
+=09=09=09<td align=3D"center"><a title=3D"Jetzt Angebote von bis zu drei An=
+bietern erhalten" href=3D"http://asset.b2b-l.xyz/d?q000x0p0bo6xss00d0000lzy=
+000000000fuyc6kq757" style=3D"text-decoration: none; font-weight: normal;" =
+target=3D"_blank"><img src=3D"https://images1.meinmedienhost.de/KVA_DE_2409=
+/header_D.gif" width=3D"280" border=3D"0" style=3D"display: block; width: 2=
+80px;" class=3D"image vce-hide-on-mobile" alt=3D"Verwendungsort w=C3=A4hlen=
+"><!--[if !mso 9]><!--><img src=3D"https://images1.meinmedienhost.de/KVA_DE=
+_2409/header_M.gif" width=3D"280" border=3D"0" style=3D"display: block; wid=
+th: 0; mso-hide: all; height: 0;" class=3D"image vce-image" alt=3D"Verwendu=
+ngsort w=C3=A4hlen"><!--<![endif]--></a></td>
+=09=09=09</tr>
+=09=09=09
+=09=09=09
+=09=09=09
+=09=09=09
+=09=09=09<tr>
+=09=09=09=09<td align=3D"center" class=3D"vat dplr10" style=3D"vertical-ali=
+gn: top; padding: 0 10px;" valign=3D"top">
+=09=09=09=09=09<table cellspacing=3D"0" cellpadding=3D"0" border=3D"0">
+=09=09=09=09=09=09
+=09=09=09=09=09=09
+=09=09=09=09=09=09
+=09=09=09=09=09=09
+=09=09=09=09=09=09
+=09=09=09=09=09</table>
+=09=09=09=09</td>
+=09=09=09</tr>
+=09=09=09
+=09=09=09
+=09=09=09
+=09=09=09=20
+=09=09</table>
+        </th>
+      </tr>
+    </table>
+  </td>
+</tr><tr>
+=09<td align=3D"left" class=3D"dplr10" style=3D"padding: 0 10px;">
+=09=09<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%=
+" bgcolor=3D"#ffffff">
+=09=09=09<tr>
+=09=09=09=09<td align=3D"left" style=3D"padding:15px;">
+=09=09=09=09=09<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0">
+=09=09=09=09=09=09
+=09=09=09=09=09=09  <tr>
+=09=09=09=09=09=09=09<td align=3D"left" class=3D"lh"><font class=3D"ff fs22=
+ fc1 fwb" style=3D"font-family: Arial, Helvetica, sans-serif; font-size: 22=
+px; color: #ffffff; font-weight: bold;"><span class=3D"la_b h2"><span style=
+=3D"color: #000000;"><span style=3D"font-size: 16px;">Lieber Leser,
+</span></span></span></font></td>
+=09=09=09=09=09=09  </tr>
+=09=09=09=09=09=09
+=09=09=09=09=09=09
+=09=09=09=09=09=09  <tr>
+=09=09=09=09=09=09=09<td align=3D"left" class=3D"lh"><font class=3D"ff fs18=
+ fc1" style=3D"font-family: Arial, Helvetica, sans-serif; font-size: 18px; =
+color: #ffffff;"><span class=3D"la_u gf"><span style=3D"color: #000000; fon=
+t-size: 16px;"><br>Wissen Sie, mit welchen Kosten Sie bei der Miete eines K=
+affeevollautomaten rechnen m=C3=BCssen? Eine konkrete =C3=9Cbersicht =C3=BC=
+ber die Mietkosten findet man auf den Anbieterseiten selten. Denn je nach E=
+insatzort und Bedarf kommen unterschiedliche Kaffeevollautomaten in Betrach=
+t.<br><br><br><strong>Wir helfen Ihnen den =C3=9Cberblick zu bewahren!<br><=
+br></strong>Finden Sie mit uns den passenden Kaffeevollautomaten f=C3=BCr I=
+hre Firma! Durch unsere 100% kostenlose Vermittlung k=C3=B6nnen Sie bis zu =
+3 Angebote bequem vergleichen und Ihren individuellen Kaffeevollautomaten z=
+um Top-Preis f=C3=BCr Ihr Unternehmen finden.&nbsp;<br><br>Mit freundlichen=
+ Gr=C3=BC=C3=9Fen<br><br>Ihr Team von Kaffeevollautomaten-Angebote<br></spa=
+n></span></font></td>
+=09=09=09=09=09=09  </tr>
+=09=09=09=09=09=09
+=09=09=09=09=09</table>
+=09=09=09=09</td>
+=09=09=09</tr>
+=09=09</table>
+=09</td>
+</tr>
+<tr>
+  <td class=3D"dplr10" style=3D"padding: 0 10px;">
+=09<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%">
+=09=09
+=09=09  <tr>
+=09=09=09<td height=3D"20" class=3D"rh20"><img src=3D"https://images1.meinm=
+edienhost.de/KVA_DE_2409/trans1.gif" width=3D"1" style=3D"display:block;" a=
+lt=3D""></td>=20
+=09=09  </tr>
+=09=09  <tr>
+=09=09=09<td align=3D"center">
+=09=09=09  <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" bgcolor=
+=3D"#ef960f" class=3D"fw" style=3D"border-radius: 30px">
+=09=09=09=09<tr>
+=09=09=09=09  <td align=3D"center" class=3D"oltd1"><a href=3D"http://asset.=
+b2b-l.xyz/d?q000x0p0bo6xss00d0000lzy000000000fuyc6kq757" target=3D"_blank" =
+class=3D"olcta cta1a mcta1" title=3D"Mehr erfahren" style=3D"color: #ffffff=
+; font-weight: normal; text-decoration: none; text-decoration: underline; d=
+isplay: block; padding: 16px 18px;"><font class=3D"ctaf" style=3D"font-fami=
+ly: Arial, Helvetica, sans-serif; font-size: 19px; color: #ffffff; font-wei=
+ght: bold;"><span class=3D"gf">Mehr erfahren &gt;&gt;</span></font></a></td=
+>
+=09=09=09=09</tr>
+=09=09=09  </table>
+=09=09=09</td>
+=09=09  </tr>
+=09=09
+=09=09
+=09</table>
+  </td>
+</tr>
+
+<tr>
+  <td height=3D"20" class=3D"s4"><img src=3D"https://images1.meinmedienhost=
+.de/KVA_DE_2409/trans1.gif" height=3D"1" style=3D"display:block;" alt=3D"">=
+</td>
+</tr>
+ <tr>
+  <td class=3D"dplr10" style=3D"padding: 0 10px;">
+    <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%">
+      <tr>
+        <th align=3D"left" valign=3D"top" class=3D"vat fl" style=3D"padding=
+: 0; Margin: 0; border: 0;  font-weight: normal; vertical-align: top;">
+          <table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" width=3D"=
+280" class=3D"fw">
+=09=09=09<tr>
+=09=09=09=09<td height=3D"1" bgcolor=3D"#fff" colspan=3D"3"><img src=3D"htt=
+ps://images1.meinmedienhost.de/KVA_DE_2409/trans1.gif" width=3D"1" style=3D=
+"display:block;" alt=3D""></td>=20
+=09=09=09</tr>
+=09=09=09<tr>
+=09=09=09=09
+=09=09=09=09<td valign=3D"top">
+=09=09=09=09=09<table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" widt=
+h=3D"100%">
+=09=09=09=09=09=09
+=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td align=3D"center"><a title=3D"Welcher Automat passt zu=
+ Ihnen?" href=3D"http://asset.b2b-l.xyz/d?q000x0p0bo6xss00d0000lzy000000000=
+fuyc6kq757" style=3D"text-decoration: none; font-weight: normal;" target=3D=
+"_blank"><img src=3D"https://images1.meinmedienhost.de/KVA_DE_2409/bildunte=
+nlinks_D.jpg" width=3D"278" border=3D"0" style=3D"display: block; width: 27=
+8px;" class=3D"image vce-hide-on-mobile" alt=3D"welchen Automat w=C3=A4hlen=
+ Sie?"><!--[if !mso 9]><!--><img src=3D"https://images1.meinmedienhost.de/K=
+VA_DE_2409/bild_untenlinks_M.jpg" width=3D"278" border=3D"0" style=3D"displ=
+ay: block; width: 0; mso-hide: all; height: 0;" class=3D"image vce-image" a=
+lt=3D"welchen Automat w=C3=A4hlen Sie?"><!--<![endif]--></a></td>
+=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09
+=09=09=09=09=09=09
+=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09<td class=3D"dp10" style=3D"padding: 10px;">
+=09=09=09=09=09=09=09=09<table cellspacing=3D"0" cellpadding=3D"0" border=
+=3D"0" width=3D"100%">
+=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09  <tr>
+=09=09=09=09=09=09=09=09=09=09<td align=3D"left" class=3D"lh"><font class=
+=3D"ff fs18 fc2 fwb" style=3D"font-family: Arial, Helvetica, sans-serif; fo=
+nt-size: 18px; color: #333333; font-weight: bold;"><span class=3D"la_b h2">=
+<span style=3D"font-size: 16px;">Welcher Automat passt zu Ihnen?</span></sp=
+an></font></td>
+=09=09=09=09=09=09=09=09=09  </tr>
+=09=09=09=09=09=09=09=09=09 =20
+=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09<td height=3D"0" class=3D"rh15"><img src=3D"h=
+ttps://images1.meinmedienhost.de/KVA_DE_2409/trans1.gif" width=3D"1" style=
+=3D"display:block;" alt=3D""></td>=20
+=09=09=09=09=09=09=09=09=09</tr>
+                                   =20
+=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09<td align=3D"left" class=3D"vat dplr10 plr10"=
+ style=3D"vertical-align: top; padding: 0 10px;" valign=3D"top">
+=09=09=09=09=09=09=09=09=09=09=09<table cellspacing=3D"0" cellpadding=3D"0"=
+ border=3D"0">
+=09=09=09=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09<td height=3D"0" class=3D"rh20"><img src=3D"h=
+ttps://images1.meinmedienhost.de/KVA_DE_2409/trans1.gif" width=3D"1" style=
+=3D"display:block;" alt=3D""></td>=20
+=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09  <td align=3D"left" class=3D"lh"><a href=3D"htt=
+p://asset.b2b-l.xyz/d?q000x0p0bo6xss00d0000lzy000000000fuyc6kq757" target=
+=3D"_blank" class=3D"fc_ladv fwb tdn" title=3D"Jetzt mehr erfahren" style=
+=3D"color: #217cc0; text-decoration: none; font-weight: bold;"><font class=
+=3D"ff fst3 fc_ladv tdu" style=3D"font-family: Arial, Helvetica, sans-serif=
+; font-size: 14px; color: #000000; text-decoration: underline;"><span class=
+=3D"la_b gf">Mehr erfahren &gt;<br></span></font></a></td>
+=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09</tr>
+=09=09=09=09=09</table>
+=09=09=09=09</td>
+=09=09=09=09=20
+=09=09=09</tr>
+=09=09=09<tr>
+=09=09=09=09
+=09=09=09</tr>
+=09=09</table>
+        </th>
+        <th width=3D"20" class=3D"fl s4" style=3D"padding: 0; Margin: 0; bo=
+rder: 0; font-weight: normal; vertical-align: top;" valign=3D"top"><img src=
+=3D"https://images1.meinmedienhost.de/KVA_DE_2409/trans1.gif" width=3D"1" a=
+lt=3D""></th>
+        <th align=3D"left" valign=3D"top" class=3D"vat fl" style=3D"padding=
+: 0; Margin: 0; border: 0; font-weight: normal; vertical-align: top;">
+         <table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" width=3D"2=
+80" class=3D"fw">
+=09=09=09<tr>
+=09=09=09=09
+=09=09=09</tr>
+=09=09=09<tr>
+=09=09=09=09
+=09=09=09=09<td valign=3D"top">
+=09=09=09=09=09<table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" widt=
+h=3D"100%">
+=09=09=09=09=09=09
+=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td align=3D"center"><a title=3D"Wollen Sie Mieten, Lease=
+n oder Kaufen?" href=3D"http://asset.b2b-l.xyz/d?q000x0p0bo6xss00d0000lzy00=
+0000000fuyc6kq757" style=3D"text-decoration: none; font-weight: normal;" ta=
+rget=3D"_blank"><img src=3D"https://images1.meinmedienhost.de/KVA_DE_2409/b=
+ild_untenrechts_D.jpg" width=3D"278" border=3D"0" style=3D"display: block; =
+width: 278px;" class=3D"image vce-hide-on-mobile" alt=3D"Mieten - Leasen - =
+Kaufen"><!--[if !mso 9]><!--><img src=3D"https://images1.meinmedienhost.de/=
+KVA_DE_2409/bild_untenrechts_M.jpg" width=3D"278" border=3D"0" style=3D"dis=
+play: block; width: 0; mso-hide: all; height: 0;" class=3D"image vce-image"=
+ alt=3D"Mieten - Leasen - Kaufen"><!--<![endif]--></a></td>
+=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09
+=09=09=09=09=09=09
+=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09<td class=3D"dp10" style=3D"padding: 10px;">
+=09=09=09=09=09=09=09=09<table cellspacing=3D"0" cellpadding=3D"0" border=
+=3D"0" width=3D"100%">
+=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09  <tr>
+=09=09=09=09=09=09=09=09=09=09<td align=3D"left" class=3D"lh"><font class=
+=3D"ff fs18 fc2 fwb" style=3D"font-family: Arial, Helvetica, sans-serif; fo=
+nt-size: 18px; color: #333333; font-weight: bold;"><span class=3D"la_b h2">=
+<span style=3D"font-size: 16px;">Mieten - Leasen - Kaufen</span></span></fo=
+nt></td>
+=09=09=09=09=09=09=09=09=09  </tr>
+=09=09=09=09=09=09=09=09=09 =20
+=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09<td height=3D"0" class=3D"rh15"><img src=3D"h=
+ttps://images1.meinmedienhost.de/KVA_DE_2409/trans1.gif" width=3D"1" style=
+=3D"display:block;" alt=3D""></td>=20
+=09=09=09=09=09=09=09=09=09</tr>
+                                   =20
+=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09<td align=3D"left" class=3D"vat dplr10 plr10"=
+ style=3D"vertical-align: top; padding: 0 10px;" valign=3D"top">
+=09=09=09=09=09=09=09=09=09=09=09<table cellspacing=3D"0" cellpadding=3D"0"=
+ border=3D"0">
+=09=09=09=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09<td height=3D"0" class=3D"rh20"><img src=3D"h=
+ttps://images1.meinmedienhost.de/KVA_DE_2409/trans1.gif" width=3D"1" style=
+=3D"display:block;" alt=3D""></td>=20
+=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09  <td align=3D"left" class=3D"lh"><a href=3D"htt=
+p://asset.b2b-l.xyz/d?q000x0p0bo6xss00d0000lzy000000000fuyc6kq757" target=
+=3D"_blank" class=3D"fc_ladv fwb tdn" title=3D"Hier mehr erfahren" style=3D=
+"color: #217cc0; text-decoration: none; font-weight: bold;"><font class=3D"=
+ff fst3 fc_ladv tdu" style=3D"font-family: Arial, Helvetica, sans-serif; fo=
+nt-size: 14px; color: #000000; text-decoration: underline;"><span class=3D"=
+la_b gf">Mehr erfahren &gt;<br></span></font></a></td>
+=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09</tr>
+=09=09=09=09=09</table>
+=09=09=09=09</td>
+=09=09=09=09
+=09=09=09</tr>
+=09=09=09<tr>
+=09=09=09=09
+=09=09=09</tr>
+=09=09</table>=20
+        </th>
+      </tr>
+    </table>
+  </td>
+</tr>
+
+  <tr>
+    <td height=3D"10" class=3D"s4"><img src=3D"https://images1.meinmedienho=
+st.de/KVA_DE_2409/trans1.gif" height=3D"1" style=3D"display:block;" alt=3D"=
+"></td>
+  </tr>
+=20
+<tr>
+<td align=3D"center"><a title=3D"Ihre Vorteile bei Kaffeevollautomaten-ange=
+bote.de" href=3D"http://asset.b2b-l.xyz/d?q000x0p0bo6xss00d0000lzy000000000=
+fuyc6kq757" style=3D"text-decoration: none; font-weight: normal;" target=3D=
+"_blank"><img src=3D"https://images1.meinmedienhost.de/KVA_DE_2409/footer_D=
+.jpg" width=3D"600" border=3D"0" style=3D"display: block; width: 600px;" cl=
+ass=3D"image vce-hide-on-mobile" alt=3D"Ihre Vorteile: Kostenlos & unverbin=
+dlich - 100% Kundenzufriedenheit. Top-marken Auswahl"><!--[if !mso 9]><!-->=
+<img src=3D"https://images1.meinmedienhost.de/KVA_DE_2409/footer_M.jpg" wid=
+th=3D"600" border=3D"0" style=3D"display: block; width: 0; mso-hide: all; h=
+eight: 0;" class=3D"image vce-image" alt=3D"Ihre Vorteile: Kostenlos & unve=
+rbindlich - 100% Kundenzufriedenheit. Top-marken Auswahl"><!--<![endif]--><=
+/a></td>
+</tr>
+
+
+
+              </table>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</body>
+<!--------- BEGIN:FOOTER --------->
+<!-------------------------------->=20
+<!-- Footerbereich: Start -->
+<!--[if (gte mso 9)|(IE)]>
+    <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0=
+" text-align=3D"center" width=3D"600">
+    <tr>
+    <td>
+    <![endif]-->
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" st=
+yle=3D"max-width: 600.0px; padding:1px 10px 1px 10px;" text-align=3D"center=
+">
+  <tbody>
+    <tr>
+      <td style=3D"text-align: center; font-size: 9.0px; color: #646464; fo=
+nt-family: verdana , sans-serif;"><br />
+        <br />
+        Bitte antworten Sie nicht direkt auf diese E-Mail. <br />
+        <br />
+        Dieser Information wurde an mail@dorianvasco.de gesendet.<br />
+        <br />
+        Dieser Newsletter ist ein Service der B2B Network Ltd<br />
+        Gesch&auml;ftsf&uuml;hrer: Patrick Robalewski<br />
+        Naxxar Road 152/7 | San Gwann 9030 | Malta<br />
+        Registergericht: Registry of Companies | Notaile Road | Attard | BK=
+R 3000 Malta<br />
+        Registration Number C74994<br />
+        <br />
+        Kontakt: <a href=3D"mailto:franz.koestner@b2b-network-ltd.com" styl=
+e=3D"color: #646464;">franz.koestner@b2b-network-ltd.com</a> <br />
+        Web: <a href=3D"http://asset.b2b-l.xyz/d?q000x0pibo6xss00d0000lzy00=
+0000000fuyjtsy757" style=3D"color: #646464;">www.b2b-network-ltd.com</a> <b=
+r />
+        <br>
+Telefon: +49 (0) 800 58 358 4003 (Servicezeit: Mo. - Fr. 9 - 12 Uhr)
+<br>
+<br>
+        Wenn Sie unseren Newsletter in Zukunft nicht mehr erhalten m&ouml;c=
+hten, klicken Sie bitte auf <a href=3D"http://asset.b2b-l.xyz/d?q000x0pqbo6=
+xss00m0000lzy000000000fuynxw0757&amp;params=3D24620841+mail%40dorianvasco.d=
+e+0+000vgzy000bpk000000000bngcumw6f3">austragen</a>. <br />
+        <br />
+        <!--DSGVO:BEGIN-->=20
+<b>Hinweis:</b> Ihr Datensatz stammt von B2B Network Ltd. Gem&auml;&szlig; =
+der gesetzlichen Anforderungen in &sect; 7 Abs. 2 Nr. 3 UWG versendet B2B N=
+etwork Ltd. diese E-Mail ausschlie&szlig;lich mit Ihrem Einverst&auml;ndnis=
+. Sie k&ouml;nnen dieses Einverst&auml;ndnis jederzeit und ohne Angabe von =
+Gr&uuml;nden widerrufen. Bitte klicken Sie auf <a href=3D"http://asset.b2b-=
+l.xyz/d?q000x0pqbo6xss00m0000lzy000000000fuynxw0757&amp;params=3D24620841+m=
+ail%40dorianvasco.de+0+000vgzy000bpk000000000bngcumw6f3">austragen</a> um s=
+ich beim Newsletter Service abzumelden. Die Rechtm&auml;&szlig;igkeit der W=
+erbung bis zu Ihrem Widerruf bleibt davon unber&uuml;hrt.<br />
+        <br />
+        <b>Datenschutzhinweis:</b> Verantwortlich ist die Firma B2B Network=
+ Ltd., Kontakt siehe oben. Wir verarbeiten Ihre Daten zum Zwecke der Werbun=
+g mit Ihrer Einwilligung (Art. 6 Abs. 1 a, f DSGVO) und speichern diese bis=
+ zum Widerruf und dem Ablauf von Verj&auml;hrungs- und Aufbewahrungsfristen=
+. Sie haben Rechte auf Auskunft, Einschr&auml;nkung und Widerspruch gegen d=
+ie Verarbeitung und Daten&uuml;bertragbarkeit, sowie Beschwerde bei der Auf=
+sichtsbeh&ouml;rde. <!--DSGVO:END--></td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td height=3D"20">&nbsp;</td>
+      </tr>
+  </tbody>
+</table>
+<img src=3D"http://asset.b2b-l.xyz/d/d.png?q000x0pybo6xss00h0000lzy00000000=
+0fuymsny757" alt=3D"" border=3D"0" />
+<!--[if (gte mso 9)|(IE)]>
+    </td>
+    </tr>
+    </table>
+    <![endif]-->
+<!-- Footerbereich: Ende -->
+<!-------------------------------->
+<!--------- END:FOOTER ----------->=09
+</html>
+
+------=_Part_10154604_1631834996.1570701728013--

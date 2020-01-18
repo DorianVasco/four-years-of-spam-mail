@@ -1,0 +1,60 @@
+Return-Path: <admin@marketing-resultal.ru>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 859E3C4416
+	for <mail@dorianvasco.de>; Sun, 16 Dec 2018 15:00:14 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: 1.848
+X-Spam-Level: *
+X-Spam-Status: No, score=1.848 required=5.5 tests=[DKIM_SIGNED=0.1,
+	DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1, HTML_MESSAGE=0.001,
+	SPF_HELO_PASS=-0.001, SPF_PASS=-0.001, URIBL_ABUSE_SURBL=1.948,
+	URIBL_BLOCKED=0.001] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id B5vwDaunZeNV for <mail@dorianvasco.de>;
+	Sun, 16 Dec 2018 15:00:11 +0100 (CET)
+Received: from marketing-resultal.ru (marketing-resultal.ru [77.244.215.193])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id B5847C00CC
+	for <mail@dorianvasco.de>; Sun, 16 Dec 2018 15:00:11 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=key1; d=marketing-resultal.ru;
+ h=Message-ID:Reply-To:From:To:Subject:Date:MIME-Version:Content-Type; i=admin@marketing-resultal.ru;
+ bh=l+fadYynbscHXWJc1hkApH5s6LQ=;
+ b=lFphziXVzwdsKuwlCzQCqJrIpbaEPieq7KqzwXvBEdn+EbW7YxgslANVNMtOn2rVm10MK8nAgZyZ
+   HZB1EM+cIg1xyxm7piVpz/Wxcpsp5M1uSJqKtL9nFh4A/WivpMziF/zwnB/Enj6SRyYSzaYbD5CE
+   gUNXLiU1xRjoXSwSVlk=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=key1; d=marketing-resultal.ru;
+ b=d9HJ5DeOWmHA/Y5ETjUJThNW5n5ZvzSY4OJF712+r/wCVdizffSycq9gWz9GrQxBUwQRU3iipla9
+   hY3ELBSZ7teYv1SnZTWSuGoNUfTO5JM6LhAxnKHwIsjAJPopf1zEhXZ+YT6WQ47yytdIRujbn6EM
+   P8QOvt4R6DmIK9LV5Ag=;
+Message-ID: <0f5d38947f75ece0c6b30556a2649e92ba93717c@marketing-resultal.ru>
+Reply-To: "laurel" <admin@marketing-resultal.ru>
+From: "laurel" <admin@marketing-resultal.ru>
+To: <mail@dorianvasco.de>
+Subject: Behold is  nice offering
+Date: Sun, 16 Dec 2018 17:03:39 +0300
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="09f3a5d790446be8343178c6e2361738fd51"
+X-Priority: 1
+
+--09f3a5d790446be8343178c6e2361738fd51
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+=C2=A0 Look what we have for you! nice offering Just click
+
+--09f3a5d790446be8343178c6e2361738fd51
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<HTML><HEAD>
+<META http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+</HEAD>
+<BODY bgColor=3D#ffffff>
+<DIV align=3Dleft><A=20
+href=3D"http://red.studygood.com/iomlpgyuowow">&nbsp; =20
+Look what we have for you! nice offering=20
+Just click </A></DIV></BODY></HTML>
+
+--09f3a5d790446be8343178c6e2361738fd51--

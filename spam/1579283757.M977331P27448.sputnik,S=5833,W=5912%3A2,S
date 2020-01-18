@@ -1,0 +1,79 @@
+Return-Path: <jujakox_tizor62@yahoo.com>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 7C60DD1F11
+	for <mail@dorianvasco.de>; Tue, 15 Oct 2019 18:00:44 +0200 (CEST)
+Authentication-Results: v22014122474822114.stilfilm.com; dkim=pass
+	reason="2048-bit key; insecure key"
+	header.d=yahoo.com header.i=@yahoo.com header.b=XjFeNr4g;
+	dkim-adsp=pass; dkim-atps=neutral
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: 3.152
+X-Spam-Level: ***
+X-Spam-Status: No, score=3.152 required=5.5 tests=[BAYES_95=3,
+	DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	FREEMAIL_ENVFROM_END_DIGIT=0.25, FREEMAIL_FROM=0.001,
+	HTML_MESSAGE=0.001, RCVD_IN_DNSWL_NONE=-0.0001, SPF_HELO_NONE=0.001,
+	SPF_PASS=-0.001] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id lSgbv1tLGLDL for <mail@dorianvasco.de>;
+	Tue, 15 Oct 2019 18:00:40 +0200 (CEST)
+Received: from sonic316-40.consmr.mail.bf2.yahoo.com (sonic316-40.consmr.mail.bf2.yahoo.com [74.6.130.214])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id 4B3F6C20DD
+	for <mail@dorianvasco.de>; Tue, 15 Oct 2019 18:00:39 +0200 (CEST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1571155236; bh=j5feGZLgmWMWmot/ytw6YKXjxdrxNjE5CMgyueXLk5M=; h=Date:From:To:Subject:References:From:Subject; b=XjFeNr4gle7qN2q4acpSmIr87m/GmG37BaDvyiiy43Li7Ss/05x1V/h75cRDic+GkDp7A22OjGt02htoQYNGTk/Bqcvr2iXEp7PrheG0Mz04zF2+Jrx2JdHP8xzl/BjM/rJp2SMnaC0tiaEQVKPAR+lJIoET7yL0NAtmdJCAx5jh7w+/tPSVLSvmt0pyxmGgoQkVO3LlIc7zWrq0jDQ6hiHe9i+ipqSuKRUUwXR5OBb0p+5FEfRN+zDhnCKQMmxfOOhbxs+uPw5Nh1BM5C6nv8XrKShVLTLOAR59u0sYmRjxDQgbrvsAqnONL7Aajl2toeKn761C354X5oVC2fiPyw==
+X-YMail-OSG: yTEWZzwVM1lUxqIwX8FHtulhCocAhp.7Rr34CaaKfPw7a9UHRVjkRfJLwUEt2oN
+ zLVXZSCXAZL1_RVGPHPWSknbFDibn5rfbkb15ZZNoie2a3ICaZlCHZ.BHoTDDwEvzkZtD0_i5d8P
+ BMM50Wp7UaRZz3JtwD_U4RnV7e4uNLavgxOUAo7rACDT4WS_QMbK0lTAMziPSIOmbLhPOONP62wC
+ 2eGwWFA9lWyTVQlTQA8FAYjICYb_4BKX7.sGv.Yrj9zukj.OpBvtrX6MSH61gxK.h8C8c_eo1iEa
+ esyMQvipvrYSf4lguBA4GM0yPSEeN6YF3lhrZza0.DpJXDxkNGmgWE7AzEIftUM5FF2Ra.9t1saV
+ nYqAcfWBnAZuvXt5nuNd6vrEFsX7pMutFaMIg6TYlDA6HMuac3B8ExKBzPUqTG7D_Zw4dqa4LBHN
+ jpCpT1X6wu8v4nnpdc6pZY0ERdKusGWvmUzZpQL2NK8VRm0L3GB8hcDq9wEaxf9q8sXOFaVklqLe
+ pDz4HvjFBgdSkv0dKkRidqvJiKzm2dO0CfOtdSVYxL7knmI0wMul_PHJsAnPZI3lOBxPkpKMa2M.
+ V2U6I_qVsRAxlCpCCyzKsXoI.RV3a099Ywa7qdrsMGJCD7dAyN82OFlm54.bfW0ahsA4ULOnCSvN
+ GlVWuJNS.0WbvK4M2OtFlJrFz4_5Ah8t1bVSksjtoaz_G0jdYeDzn4C.BMPJ0qOPe7cG1gJ7qrtB
+ rfFVqTQgd50BlihWqVpWP2xX1_ytzeBoETngleePrXvWbu10MNKV5FvWG9rvpuF2rJmU0MDWJABL
+ FiaO13_N5IO4CJT8yl7P4c1aSGim4kB5YNSQmBUzXlL3FcvysFK83wgLsxmJrjwuuC7Uelcq8PE4
+ y1jGh9E6o9YKvgAlpcGugb..FmGWVrOrDeLUoGY_I8Tt_APJR15EUV1nPgHJponoNS0RtOM0PrHc
+ 8mssfXWM98xo9BdzgUQxwnlv_6FqaT5xPIUuRU0C3T9m2hEQrVcnItvxu56LcwhOhK_1n4yo3Fm0
+ RFmW9oVxW7JPULfIY2nlg3BJOyiDKPkD_Ti3wRWhjeB_p2nmRHC4xvHJJU3XODvqFcFl3sqgskvq
+ KQnrQamq.spYj2_A4pJBrRY0jix9vbwq1bqmGfCvSBm9DHZ1fW0N4j.dwJfbWy74UKKNp9CDRhOF
+ nZoGmGL7VfbBpFM7UpxQ0tYic0DymTNSBdrl8ktU99mfjZQ0hyVGzfHl3ofLMcBT4w2mq1BT_rqX
+ bNEc2URkUxkaog0Jzslw3DGMuVYOXpBlIVwX71YBw4imz986Ug7K824RboTxqz.WPLvoZAQ--
+Received: from sonic.gate.mail.ne1.yahoo.com by sonic316.consmr.mail.bf2.yahoo.com with HTTP; Tue, 15 Oct 2019 16:00:36 +0000
+Date: Tue, 15 Oct 2019 15:58:35 +0000 (UTC)
+From: Willow Mejia <jujakox_tizor62@yahoo.com>
+To: "fourguysandachick@gmail.com" <fourguysandachick@gmail.com>
+Message-ID: <1799098851.1211596.1571155115813@mail.yahoo.com>
+Subject: Require your help with my online order
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_1211595_125803493.1571155115813"
+References: <1799098851.1211596.1571155115813.ref@mail.yahoo.com>
+X-Mailer: WebService/1.1.14498 YMailNorrin Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+
+------=_Part_1211595_125803493.1571155115813
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Greetings! 
+
+I am sorry for any challenges, however I need you to solve my trouble: Not too long ago I made an order in your shop and paid for it.
+
+ There are no issues during that time, the parcel has arrived to my nearest post office maximally quickly. 
+
+The thing is in next: I just can't collect my items, due to the reason that the their staff demanded a filled mailing form (sender data, transport code, and many more). 
+
+Can you please fill this blank yourself and direct it to my mail? I have put it here: https://docs.google.com/uc?id=1jhkVTP-1HpyInd8ZZJ34EbEwjKCAOFLq
+
+Many thanks! Regards, your welcoming customer. 
+------=_Part_1211595_125803493.1571155115813
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html><head></head><body><div class="yahoo-style-wrap" style="font-family:Helvetica Neue, Helvetica, Arial, sans-serif;font-size:16px;">Greetings! <br><br>I am sorry for any challenges, however I need you to solve my trouble: Not too long ago I made an order in your shop and paid for it.<br><br> There are no issues during that time, the parcel has arrived to my nearest post office maximally quickly. <br><br>The thing is in next: I just can't collect my items, due to the reason that the their staff demanded a filled mailing form (sender data, transport code, and many more). <br><br>Can you please fill this blank yourself and direct it to my mail? I have put it here: https://docs.google.com/uc?id=1jhkVTP-1HpyInd8ZZJ34EbEwjKCAOFLq<br><br>Many thanks! Regards, your welcoming customer.  </div></body></html>
+------=_Part_1211595_125803493.1571155115813--

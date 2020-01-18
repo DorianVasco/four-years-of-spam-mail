@@ -1,0 +1,168 @@
+Return-Path: <bounces@bounces.list.thesyriacampaign.org>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 1EBF9C2FDC
+	for <mail@dorianvasco.de>; Sun, 17 Dec 2017 15:28:52 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: -0.099
+X-Spam-Level:
+X-Spam-Status: No, score=-0.099 required=5.5 tests=[DKIM_SIGNED=0.1,
+	DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1, HTML_MESSAGE=0.001,
+	SPF_PASS=-0.001, URIBL_BLOCKED=0.001] autolearn=unavailable
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id WKSBQryzwLoX for <mail@dorianvasco.de>;
+	Sun, 17 Dec 2017 15:28:49 +0100 (CET)
+Received: from mta1a10.sp.actionkit.com (mta1a10.sp.actionkit.com [52.39.236.89])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id D7E90C231D
+	for <mail@dorianvasco.de>; Sun, 17 Dec 2017 15:28:47 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+	d=thesyriacampaign.org; s=scph0417; t=1513520921;
+	i=@thesyriacampaign.org;
+	bh=Xyzg8gKg5aijwcQvgK0E9AXHrjszYuTZx/Yw0uf5JSc=;
+	h=Content-Type:Subject:From:To:Date:Message-ID;
+	b=q0uvSvips7CxV4sZsE/YDoGV1oyXVXYyixpNCqAfOFeWJ/9yjQubc7Frak3YQ9qGm
+	 gZvDav6K+hPiyjGCuK3XyUQq8Nk8hTcn+EBpj0Kw92ije4LY2pQk7KbB8pMdg/46uG
+	 +xwxlbiq/PJQ2eUDGUx3F/mHnvcgkc4cGNKnZiC0=
+X-MSFBL: NAOOVr3+eoGPTSydgh0nxNoH+r6grMp01+r9uFt3CzA=|eyJtZXNzYWdlX2lkIjo
+	iMDAwMzE5N2YzNjVhMjIyNmU4M2MiLCJmcmllbmRseV9mcm9tIjoiaW5mb0B0aGV
+	zeXJpYWNhbXBhaWduLm9yZyIsInJjcHRfbWV0YSI6eyAiYWtpZCI6ICJ1bnN1Yi1
+	zeXJpYWNhbXBhaWduLTg3OC0yNjg1OTIuUW5qenlxeEBmYmwuYWN0aW9ua2l0LmN
+	vbSIsICJiaW5kaW5nIjogInRoZXN5cmlhY2FtcGFpZ24iIH0sInJjcHRfdGFncyI
+	6WyBdLCJzdWJhY2NvdW50X2lkIjoiODEiLCJ0cmFuc21pc3Npb25faWQiOiI2Njc
+	zNjA1NjUzMjc1MjAzNCIsInIiOiJtYWlsQGRvcmlhbnZhc2NvLmRlIiwiY3VzdG9
+	tZXJfaWQiOiIxIiwidGVuYW50X2lkIjoid2F3ZCIsImciOiJ0aGVzeXJpYWNhbXB
+	haWduIiwidGVtcGxhdGVfdmVyc2lvbiI6IjAiLCJ0ZW1wbGF0ZV9pZCI6InRlbXB
+	sYXRlXzY2NzM2MDU2NTMyNzUyMDM0IiwiYiI6ImlwXzUyLjM5LjIzNi44OSJ9
+Content-Type: multipart/alternative;
+	boundary="----=_943263e326673e9c633ba23da6f4ce5"
+MIME-Version: 1.0
+Subject: A Heroes' Holiday
+From: "Bissan Fakih - The Syria Campaign" <info@thesyriacampaign.org>
+To: "Dorian Vasco" <mail@dorianvasco.de>
+Date: Sun, 17 Dec 2017 14:24:22 +0000
+Message-ID: <41930-36e-5a367e16@list.thesyriacampaign.org>
+Reply-To: info+eoy@thesyriacampaign.org
+List-ID: 
+X-Provider: sp_rest
+List-Unsubscribe: <mailto:unsubscribe@sp.actionkit.com?subject=unsubscribe:W-ZbeDlbQjOz_WjsQYG_W0MGA3fZMmNbAT-3Zutcvow~|eyAicmNwdF90byI6ICJtYWlsQGRvcmlhbnZhc2NvLmRlIiwgInJjcHRfbWV0YSI6ICJ7XCJha2lkXCI6XCJ1bnN1Yi1zeXJpYWNhbXBhaWduLTg3OC0yNjg1OTIuUW5qenlxeEBmYmwuYWN0aW9ua2l0LmNvbVwiLFwiYmluZGluZ1wiOlwidGhlc3lyaWFjYW1wYWlnblwifSIsICJmcmllbmRseV9mcm9tIjogImluZm9AdGhlc3lyaWFjYW1wYWlnbi5vcmciLCAic3ViYWNjb3VudF9pZCI6ICI4MSIsICJtYWlsZnJvbSI6ICJib3VuY2VzQGJvdW5jZXMubGlzdC50aGVzeXJpYWNhbXBhaWduLm9yZyIsICJjdXN0b21lcl9pZCI6ICIxIiwgIm1lc3NhZ2VfaWQiOiAiMDAwMzE5N2YzNjVhMjIyNmU4M2MiLCAidHJhbnNtaXNzaW9uX2lkIjogIjY2NzM2MDU2NTMyNzUyMDM0IiwgInRlbmFudF9pZCI6ICJ3YXdkIiB9>
+
+This is a multi-part message in MIME format.
+
+------=_943263e326673e9c633ba23da6f4ce5
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset="utf-8"
+
+   =0D=0A=0D=0A      Dear=C2=A0Dorian,=0D=0A=0D=0A   The White Helmets won=
+=E2=80=99t be able to take a day off this holiday season.=0D=0A   With bomb=
+s pounding the suburbs of Damascus, the White Helmets will do=0D=0A   what =
+they always do. They=E2=80=99ll put on their white helmets and rush to the=
+=0D=0A   site of the attacks, carrying every civilian they can to safety.=
+=0D=0A=0D=0A   These volunteers rush into danger knowing full well that war=
+planes might=0D=0A   return to target them. Many of their colleagues have b=
+een killed that way.=0D=0A   But still they go. They are the most selfless =
+and noble people I have ever=0D=0A   known.=0D=0A=0D=0A   This Christmas, l=
+et=E2=80=99s give back to the people who give everything. If we=0D=0A   all=
+ chip in now, we can make sure every single White Helmet volunteer=0D=0A   =
+receives an end of year gift.=C2=A0=0D=0A=0D=0A   [ https://act.thesyriacam=
+paign.org/donate/white-helmets-holiday/=3Ft=3D1005&akid=3D878%2E268592%2EKt=
+c7YY ]There are 3,400 White Helmet volunteers. The idea is to bring togethe=
+r=0D=0A   3,400 people willing to chip in for an end of year gift=C2=A0thes=
+e heroes can=0D=0A   take home to their families.=0D=0A=0D=0A   The men and=
+ women of the White Helmets don=E2=80=99t receive salaries or wages.=0D=0A =
+  They only get modest stipends whenever funds are available. A gift like=
+=0D=0A   this will go a long way. It will provide some relief for the volun=
+teers=0D=0A   and their families at a time when prices have skyrocketed acr=
+oss the=0D=0A   country, especially in besieged areas where people have to =
+buy food and=0D=0A   fuel for as much as 30 times the regular price. =C2=A0=
+=C2=A0=C2=A0=0D=0A=0D=0A   And beyond money this gift will be an important =
+message of love and=0D=0A   solidarity for the essential work they do and t=
+he sacrifices they make=0D=0A   every day. =C2=A0=C2=A0=C2=A0=0D=0A=0D=0A  =
+ [ https://act.thesyriacampaign.org/donate/white-helmets-holiday/=3Ft=3D100=
+6&akid=3D878%2E268592%2EKtc7YY ]A monthly stipend for a White Helmet is usu=
+ally $150. Let's match this=0D=0A   amount as a gift to each volunteer this=
+ month.=0D=0A=0D=0A   Every day, the White Helmets restore hope to their co=
+mmunities. They have=0D=0A   saved more than 21,881 lives this year alone a=
+nd 100,000 since their=0D=0A   formation. Mounir, a volunteer from Idlib, t=
+old me recently that whenever=0D=0A   they see a need for a service that co=
+uld bring back a sense of normality=0D=0A   to their communities they learn=
+ quickly how to provide it. They are=0D=0A   clearing unexploded weapons to=
+ make farmland safe so that farmers can=0D=0A   start growing crops. They a=
+re removing rubble and paving roads in=0D=0A   destroyed neighbourhoods so =
+that displaced people can go back home. Their=0D=0A   women-led centres are=
+ providing first aid and maternal healthcare in=0D=0A   underserved areas.=
+=0D=0A=0D=0A   Let=E2=80=99s give back to the people who give everything. P=
+lease donate now and=0D=0A   forward to your friends and family.=0D=0A=0D=
+=0A   With love,=0D=0A=0D=0A   Bissan=0D=0A=0D=0A   PS - if you can=E2=80=
+=99t donate $150 [ https://act.thesyriacampaign.org/donate/white-helmets-ho=
+liday/=3Ft=3D1007&akid=3D878%2E268592%2EKtc7YY ]chip in what you can and it=
+=E2=80=99ll add up to=0D=0A   the fund. All the money raised will be divide=
+d equally among the=0D=0A   volunteers.=0D=0A=0D=0A   ---------------------=
+-----------------------------------------------------=0D=0A=0D=0A   [ https=
+://act.thesyriacampaign.org/go/175=3Ft=3D1001&akid=3D878%2E268592%2EKtc7YY =
+]The Syria Campaign=C2=A0is an independent advocacy group campaigning for a=
+=0D=0A   peaceful and democratic future for Syria. Our mission is to elevat=
+e the=0D=0A   voices and demands of Syrian heroes.=0D=0A=0D=0A   Want to kn=
+ow what's happening in Syria=3F Start here with these figures=0D=0A   telli=
+ng you [ http://act.thesyriacampaign.org/go/395=3Ft=3D1002&akid=3D878%2E268=
+592%2EKtc7YY ]who is killing civilians.=0D=0A=0D=0A   Follow us on [ https:=
+//act.thesyriacampaign.org/go/226=3Ft=3D1003&akid=3D878%2E268592%2EKtc7YY ]=
+Facebook and [ https://act.thesyriacampaign.org/go/227=3Ft=3D1004&akid=3D87=
+8%2E268592%2EKtc7YY ]Twitter.=0D=0A=0D=0A   Syria needs all the support we =
+can give it, but if you no longer want to=0D=0A   receive these emails, you=
+ can =0D=0A<a href=3D"http://act.thesyriacampaign.org/cms/unsubscribe/unsub=
+scribe/=3Fakid=3D878%2E268592%2EKtc7YY">unsubscribe here</a>.=0D=0A=0D=0A=
+=0D=0A
+------=_943263e326673e9c633ba23da6f4ce5
+Content-Transfer-Encoding: 7bit
+Content-Type: text/html; charset="utf-8"
+
+<p></p>
+<table style="width: 100%; background-color: #fff;" border="0" cellspacing="0" cellpadding="0" bgcolor="#fff">
+<tbody>
+<tr>
+<td>
+<table class="content" border="0" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td align="right" valign="top" style="text-align: right;"><img src="https://s3.amazonaws.com/s3.thesyriacampaign.org/images/TSC_logo_small.png" width="84" height="99" /></td>
+</tr>
+<tr>
+<td style="font-family: arial,helvetica,sans-serif; font-size: 15px; color: #333333; padding-top: 1px; padding-bottom: 20px; line-height: 1.4;"><p>Dear&nbsp;Dorian,</p>
+<p><span style="font-weight: 400;">The White Helmets won&rsquo;t be able to take a day off this holiday season. With bombs pounding the suburbs of Damascus, the White Helmets will do what they always do. They&rsquo;ll put on their white helmets and rush to the site of the attacks, carrying every civilian they can to safety.</span></p>
+<p><span style="font-weight: 400;">These volunteers rush into danger knowing full well that warplanes might return to target them. Many of their colleagues have been killed that way. But still they go. They are the most selfless and noble people I have ever known. </span></p>
+<p><span style="font-weight: 400;">This Christmas, let&rsquo;s give back to the people who give everything. </span><strong>If we all chip in now, we can make sure every single White Helmet volunteer receives an end of year gift.&nbsp;</strong></p>
+<p><strong><a href="https://act.thesyriacampaign.org/donate/white-helmets-holiday/?t=5&akid=878%2E268592%2EKtc7YY">There are 3,400 White Helmet volunteers. The idea is to bring together 3,400 people willing to chip in for an end of year gift&nbsp;these heroes can take home to their families.</a> </strong></p>
+<p><span style="font-weight: 400;">The men and women of the White Helmets don&rsquo;t receive salaries or wages. They only get modest stipends whenever funds are available. A gift like this will go a long way. It will provide some relief for the volunteers and their families at a time when prices have skyrocketed across the country, especially in besieged areas where people have to buy food and fuel for as much as 30 times the regular price. &nbsp;&nbsp;&nbsp;</span></p>
+<p><span style="font-weight: 400;">And beyond money this gift will be an important message of love and solidarity for the essential work they do and the sacrifices they make every day. &nbsp;&nbsp;&nbsp;</span></p>
+<p><strong><a href="https://act.thesyriacampaign.org/donate/white-helmets-holiday/?t=6&akid=878%2E268592%2EKtc7YY">A monthly stipend for a White Helmet is usually $150. Let's match this amount as a gift to each volunteer this month.</a></strong></p>
+<p><span style="font-weight: 400;">Every day, the White Helmets restore hope to their communities. They have saved more than 21,881 lives this year alone and 100,000 since their formation. Mounir, a volunteer from Idlib, told me recently that whenever they see a need for a service that could bring back a sense of normality to their communities they learn quickly how to provide it. They are clearing unexploded weapons to make farmland safe so that farmers can start growing crops. They are removing rubble and paving roads in destroyed neighbourhoods so that displaced people can go back home. Their women-led centres are providing first aid and maternal healthcare in underserved areas. </span></p>
+<p><span style="font-weight: 400;">Let&rsquo;s give back to the people who give everything. Please donate now and forward to your friends and family. </span></p>
+<p dir="ltr">With love,</p>
+<p dir="ltr">Bissan</p>
+<p><em>PS - if you can&rsquo;t donate $150 </em><a href="https://act.thesyriacampaign.org/donate/white-helmets-holiday/?t=7&akid=878%2E268592%2EKtc7YY"><em>chip in what you can</em></a><em> and it&rsquo;ll add up to the fund. All the money raised will be divided equally among the volunteers.</em></p><img src="https://act.thesyriacampaign.org/o.gif?akid=878.268592.Ktc7YY" /></td>
+</tr>
+<tr>
+<td style="font-family: arial,helvetica,sans-serif; font-size: 12px; color: #5d5d5d; padding-top: 10px; padding-bottom: 10px; line-height: 1.2;"><hr />
+<p><strong><a href="https://act.thesyriacampaign.org/go/175?t=1&akid=878%2E268592%2EKtc7YY">The Syria Campaign</a>&nbsp;</strong>is an independent advocacy group campaigning for a peaceful and democratic future for Syria. Our mission is to elevate the voices and demands of Syrian heroes.</p>
+<p><span style="font-weight: 400;">Want to know what's happening in Syria? Start here with these figures telling you <a href="http://act.thesyriacampaign.org/go/395?t=2&akid=878%2E268592%2EKtc7YY">who is killing civilians</a>.</span></p>
+<p>Follow us on <a href="https://act.thesyriacampaign.org/go/226?t=3&akid=878%2E268592%2EKtc7YY">Facebook</a> and <a href="https://act.thesyriacampaign.org/go/227?t=4&akid=878%2E268592%2EKtc7YY">Twitter</a>.</p>
+<p>Syria needs all the support we can give it, but if you no longer want to receive these emails, you can 
+<a href="http://act.thesyriacampaign.org/cms/unsubscribe/unsubscribe/?akid=878%2E268592%2EKtc7YY">unsubscribe here</a>.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+
+<!-- ak.wysiwyg=on -->
+<img border="0" width="1" height="1" alt="" src="https://track.sp.actionkit.com/q/ZFB1PyUucTNFRJmLW196Ww~~/AAAAAQA~/RgRcGQQZPlcEd2F3ZFgEAAAAUUIKAAMZfzZaIiboPA~~">
+
+------=_943263e326673e9c633ba23da6f4ce5--
+

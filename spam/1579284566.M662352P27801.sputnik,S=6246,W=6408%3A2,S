@@ -1,0 +1,162 @@
+Return-Path: <annika760@compliable.pelt.xyz>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id CD442D26A6
+	for <mail@dorianvasco.de>; Thu,  8 Aug 2019 23:06:50 +0200 (CEST)
+Authentication-Results: v22014122474822114.stilfilm.com; dkim=pass
+	reason="1024-bit key; insecure key"
+	header.d=compliable.pelt.xyz header.i=@compliable.pelt.xyz
+	header.b=UA6PzJXH; dkim-adsp=pass; dkim-atps=neutral
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: 0.8
+X-Spam-Level:
+X-Spam-Status: No, score=0.8 required=5.5 tests=[BAYES_50=0.8,
+	DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	SPF_HELO_NONE=0.001, SPF_PASS=-0.001, TRACKER_ID=0.1] autolearn=ham
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id PyPAEd7sPSme for <mail@dorianvasco.de>;
+	Thu,  8 Aug 2019 23:06:46 +0200 (CEST)
+Received: from mx.compliable.pelt.xyz (mx.compliable.pelt.xyz [157.230.253.0])
+	(using TLSv1.2 with cipher ADH-AES256-GCM-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id 46C0BD2694
+	for <mail@dorianvasco.de>; Thu,  8 Aug 2019 23:06:41 +0200 (CEST)
+Received: from mx.compliable.pelt.xyz (mx.compliable.pelt.xyz [127.0.0.1])
+	by mx.compliable.pelt.xyz (Postfix) with ESMTP id 464LXB0fCtz24NM
+	for <mail@dorianvasco.de>; Thu,  8 Aug 2019 21:06:34 +0000 (UTC)
+Authentication-Results: mx.compliable.pelt.xyz (amavisd-new);
+	dkim=pass (1024-bit key) reason="pass (just generated, assumed good)"
+	header.d=compliable.pelt.xyz
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=
+	compliable.pelt.xyz; h=content-transfer-encoding:content-type
+	:content-type:mime-version:message-id:x-mailer:user-agent
+	:reply-to:list-unsubscribe:subject:subject:to:from:from:date
+	:date; s=dkim; t=1565298393; x=1567890394; bh=1h6wRGO4WJGj6WnVVb
+	m80+Cqmp2BJrO3XW7meprJvKQ=; b=UA6PzJXHp8XsuVOWaCVhP7co8E1r1ZcDy/
+	+bWoy1NUf53fCzf9TZkna/OsIepa5Bc/gvTaZYI5/tIEEZudpAo7y9eQGRctznQK
+	wUkgGq7vSUSheq4FHCuqXy+U1hLV18cbQ/HtNgcWG+useB6mLbHoHvUK+65AUW90
+	nM2fUzaAQ=
+X-Virus-Scanned: Debian amavisd-new at mx.compliable.pelt.xyz
+Received: from mx.compliable.pelt.xyz ([127.0.0.1])
+	by mx.compliable.pelt.xyz (mx.compliable.pelt.xyz [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id xS0Dh-6ZsKhH for <mail@dorianvasco.de>;
+	Thu,  8 Aug 2019 21:06:33 +0000 (UTC)
+Received: from [127.0.0.1] (mx.compliable.pelt.xyz [127.0.0.1])
+	by mx.compliable.pelt.xyz (Postfix) with ESMTP id 464L9D16R0z26B9
+	for <mail@dorianvasco.de>; Thu,  8 Aug 2019 20:50:08 +0000 (UTC)
+Date: Thu, 8 Aug 2019 21:50:07 +0100
+From: =?UTF-8?Q?Anonymer=20H=C9=91cker?= <annika760@compliable.pelt.xyz>
+To: mail@dorianvasco.de
+Subject: =?UTF-8?Q?Das=20=CE=AFst=20meine=20letzte=20W=C9=91rnung=20Mail!?=
+List-Unsubscribe: <http://compliable.pelt.xyz/unsubscribe/Y29xR05JUnUzeUtQcUJLZmY3Q2o0K2l2L2U0andKMU9ZSk9Ic3kycXhCaXJ6aUk3bTNyaXVMMWljbmJkbmMzcHl1QzFaQk5RYmowcDhHOWlIREdVYS9HQVZSK2pZRXFoc0NBbVFnandNOGM9>
+Reply-To: <annika760@compliable.pelt.xyz>
+User-Agent: CodeIgniter
+X-Sender: annika760@compliable.pelt.xyz
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: <5d4c8b0002555@compliable.pelt.xyz>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+LETZTE WARNUNG mail@dorianvasco.de!
+
+Sie haben die letzte Gelegenheit, Ihr soziales Leben
+zu retten - ich mache keine Witze !!
+
+Ich gebe Íhnen die letzten 72 Ştunden, um die Zahlung zu tätigen,
+bevor ich ein Vίdeo mit Ihrer ʍasturbation an alle Ihre Freunde schicke.
+
+
+Das letzte Mal, als Sie eine Ƿornografische Website mit Teenagern
+besucht haben, haben Sie Software heruntergeladen und installiert,
+die ich entwickelt habe.
+
+Mein Programm hat Ihre Kamera eingeschaltet und den Prozess
+Ihrer ʍasturbation aufgezeichnet. Meine Software hat auch alle Ihre
+E-Mail-Kontaktlisten und eine Liste Ihrer Freunde
+auf Facebook heruntergeladen.
+
+Ich habe sowohl die - Mail.mp4 - mit Ihrer
+ʍasturbation als auch eine Datei mit all Ihren Kontakten
+auf meiner Festplatte.
+
+Sie sind sehr Ƿervers!
+
+
+Wenn Sie wollen, dass ich beide Dateien lösche und das Geheimnis
+behalte, müssen Sie mir Bitcoin-Zahlungen schicken.
+Ich gebe Íhnen 72 Ştunden Zeit.
+
+Wenn Sie nicht wissen, wie Sie mit Bitcoin bezahlen,
+besuchen Sie Google und suchen Sie nach dem Kauf von Bitcoin.
+
+
+Senden Sie sofort 2.000 EUR (0.1957563 BTC)
+an diese Bitcoin-Adresse:
+
+3LEmVYE9PvcMRnZU1csosu42kzv8MwviFi
+(Kopieren und Einfügen)
+
+1 BTC = 10.310 EUR, also genau 0.1957563 BTC
+an die obige Adresse senden.
+
+
+Versuchen Sie nicht, mich zu betrügen!
+Sobald Sie diese E-Mail öffnen, werde ich wissen,
+dass Sie sie geöffnet haben.
+
+Diese Bitcoin-Adresse ist nur mit Íhnen verknüpft, also werde ich
+wissen, ob Sie den richtigen Betrag geschickt haben.
+
+Wenn Sie die Zahlung nicht abschicken, schicke ich Ihr
+ʍasturbationsvίdeoan alle Ihre Freunde aus Ihrer Kontaktliste,
+die ich gehackt habe.
+
+
+Hier sind noch einmal die Zahlungsdaten:
+
+----------------------------------------
+Senden Sie:
+
+0.1957563 BTC
+
+an diese Bitcoin-Adresse:
+
+3LEmVYE9PvcMRnZU1csosu42kzv8MwviFi
+
+(Kopieren und Einfügen)
+----------------------------------------
+
+
+Sie können die Polizei besuchen, aber niemand wird Ihnen helfen.
+Ich lebe nicht in Ihrem Land. Ich habe diese Nachricht in Ihre
+Sprache übersetzt, damit Sie sie verstehen können.
+
+Betrügen Sie mich nicht!
+Vergessen Sie nicht die Scham und wenn Sie diese Botschaft ignorieren,
+wird Ihr Leben ruiniert.
+
+Ich warte auf Ihre Bitcoin-Zahlung.
+
+
+Anonymer Hɑcker
+
+
+P.S. Wenn Sie mehr Zeit zum Kaufen und Senden von BTC benötigen,
+ öffnen Sie Ihren Notizblock und schreiben Sie - 48H ++ -, und sparen Sie.
+Auf diese Weise können Sie mich kontaktieren.
+Ich werde mir überlegen, Íhnen noch 48 Ştunden zu geben,
+ bevor ich das Vίdeo an Ihre Kontakte schicke, aber nur,
+wenn Sie sehen, dass Sie wirklich versuchen, Bitcoin zu kaufen.
+
+
+
+(((((((((((((((((((((((((((((((((((((((((((((
+Wir sind anonym.
+Wir vergeben nicht. Wir vergessen nicht.
+Erwarte uns.
+))))))))))))))))))))))))))))))))))))))))))))))
+

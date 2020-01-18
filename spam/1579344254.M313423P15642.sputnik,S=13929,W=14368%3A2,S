@@ -1,0 +1,439 @@
+Return-Path: <mailer-daemon@news.up-leveled.com>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 0111CC21D0
+	for <mail@dorianvasco.de>; Mon,  7 May 2018 04:59:02 +0200 (CEST)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 6.322
+X-Spam-Level: ******
+X-Spam-Status: Yes, score=6.322 required=5.5 tests=[DIGEST_MULTIPLE=0.001,
+	DKIM_SIGNED=0.1, DKIM_VALID=-0.1, HTML_IMAGE_RATIO_06=0.001,
+	HTML_MESSAGE=0.001, MAILING_LIST_MULTI=-1, MIME_HTML_MOSTLY=0.001,
+	PYZOR_CHECK=1.985, RAZOR2_CF_RANGE_51_100=2.43, RAZOR2_CHECK=1.729,
+	RCVD_IN_DNSWL_NONE=-0.0001, RCVD_IN_IADB_DK=-0.223,
+	RCVD_IN_IADB_DOPTIN_LT50=-0.001, RCVD_IN_IADB_LISTED=-0.38,
+	RCVD_IN_IADB_RDNS=-0.167, RCVD_IN_IADB_SENDERID=-0.001,
+	RCVD_IN_IADB_SPF=-0.001, SPF_HELO_PASS=-0.001, SPF_PASS=-0.001,
+	URIBL_ABUSE_SURBL=1.948, URIBL_BLOCKED=0.001] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 1xiLpWL98oZj for <mail@dorianvasco.de>;
+	Mon,  7 May 2018 04:58:53 +0200 (CEST)
+Received: from bm40k.be-mail.it (bm40k.be-mail.it [185.153.111.40])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id 5E915C003F
+	for <kontakt@dorianvasco.de>; Mon,  7 May 2018 04:58:51 +0200 (CEST)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/simple; d=up-leveled.com;
+	s=ketchup; t=1525662254; bh=f6RtQ7rqGg2cL57YsX/3b7uf4q8=;
+	h=Date:From:To:Subject:MIME-Version:Content-Type:Precedence:
+	 Feedback-ID:X-Abuse:List-id:List-unsubscribe:List-Unsubscribe-Post:
+	 X-Mailer:X-IADB-IP:X-IADB-IP-REVERSE:X-IADB-URL:X-CSA-Complaints:
+	 Reply-To:Message-Id;
+	b=TU3ZTmnQg4kdcZ7w2tThw3STIivP63X6V1i4fAySjgqbFBDE2csaAfplCK/maFqwv
+	 OfbBQUphb6ieppHhSOOaEwwmpcaHq9ETejHIZ47jkgEVmF/8/C6c7l23mLidhgVgrQ
+	 qOLaynB5HvO63K8pAI7TGcdtZcLWTUuAICxSCSxQ=
+Date: Mon, 07 May 2018 05:04:12 +0200
+From: "Jetzt mitmachen " <noreply@news.up-leveled.com>
+To: "kontakt@dorianvasco.de" <kontakt@dorianvasco.de>
+Subject: =?UTF-8?B?RGVyIG5ldWVzdGUgUHJvZHVrdHNlcmllIGbDvHIgSWhyZW4gR2FydGVuIHVuZCA=?==?UTF-8?B?SWhyZSBUZXJhc3Nl?=
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="_----------=_152565155051650"
+Precedence: bulk
+Feedback-ID: 2490:200:1:.up-leveled.com
+X-Abuse: Please report abuse AT abusemail@be-mail.it
+List-id: <200.be-mail.it>
+List-unsubscribe: <http://unsubscribe.getaleks.com/l/200/1067244/b390da7333ac4b75d289e48ade8c3ca1/2490/>, <mailto:unsubscribe@be-mail.it?subject=http://unsubscribe.getaleks.com/l/200/1067244/b390da7333ac4b75d289e48ade8c3ca1/2490/>
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+X-Mailer: beMail
+X-IADB-IP: 185.153.111.40
+X-IADB-IP-REVERSE: bm40k.be-mail.it
+X-IADB-URL: http://www.isipp.com/iadb.php
+X-CSA-Complaints: whitelist-complaints@eco.de
+Reply-To: news@up-leveled.com
+Message-Id: <880162.200.2490.1067244@news.up-leveled.com>
+
+This is a multi-part message in MIME format.
+
+--_----------=_152565155051650
+Date: Mon, 7 May 2018 02:05:50 +0200
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+
+
+D=C3=BCrfen Sie die empfangenen Produkte im Wert von 200,- Euro nach dem Te=
+st behalten.
+
+
+
+
+
+
+
+
+
+--_----------=_152565155051650
+Date: Mon, 7 May 2018 02:05:50 +0200
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<meta charset=3D"UTF-8" /><meta name=3D"viewport" content=3D"width=3Ddevic=
+e-width, initial-scale=3D1"  /><meta http-equiv=3D"X-UA-Compatible" content=
+=3D"IE=3Dedge" />
+	<style type=3D"text/css">/* CLIENT-SPECIFIC STYLES */
+
+/* Prevent WebKit and Windows mobile changing default text sizes */
+body, table, td, a {
+	-webkit-text-size-adjust: 100%;
+	-ms-text-size-adjust: 100%;
+}
+=09
+/* Remove spacing between tables in Outlook 2007 and up */
+table, td {
+	mso-table-lspace: 0pt;
+	mso-table-rspace: 0pt;
+}
+=09
+/* Allow smoother rendering of resized image in Internet Explorer */
+img {
+	-ms-interpolation-mode: bicubic;
+}
+
+/* RESET STYLES */
+body {
+	height: 100% !important;
+	margin: 0 !important;
+	padding: 0 !important;
+	width: 100% !important;
+}
+
+img {
+	border: 0;
+	height: auto;
+	line-height: 100%;
+	outline: none;
+	text-decoration: none;
+}
+
+table {
+	border-collapse: collapse !important;
+}
+
+/* iOS BLUE LINKS */
+a[x-apple-data-detectors] {
+	color: inherit !important;
+	text-decoration: none !important;
+	font-size: inherit !important;
+	font-family: inherit !important;
+	font-weight: inherit !important;
+	line-height: inherit !important;
+}
+
+/* MOBILE STYLES */
+@media screen and (max-width:625px) {
+
+/* ALLOWS FOR FLUID TABLES */=09
+.wrapper {
+	width: 100% !important;
+	max-width: 100% !important;
+}
+=09
+/* ADJUSTS LAYOUT OF LOGO IMAGE */
+.logo img {
+	margin: 0 auto !important;
+}
+=09
+/* USE THESE CLASSES TO HIDE CONTENT ON MOBILE */
+.mobile-hide {
+	display: none !important;
+}
+
+.img-max {
+	max-width: 100% !important;
+	width: 100% !important;
+	height: auto !important;
+}
+=09
+.gf {
+	max-width: 260px !important;
+	width: 100% !important;
+	height: auto !important;
+}=09=09
+
+/* FULL-WIDTH TABLES */
+.responsive-table {
+	width: 100% !important;
+}
+
+/* UTILITY CLASSES FOR ADJUSTING PADDING ON MOBILE */
+.padding {
+	padding: 10px 5% 10px 5%;
+}
+
+.padding-copy {
+	padding-left: 5% !important;
+	padding-right: 5% !important;
+	text-align: center !important;
+	font-size: 14px !important;
+	line-height: 21px !important;
+}=09
+=09
+.padding-header {
+	padding: 20px 5% 0 5% !important;
+	text-align: center;
+	font-size: 28px !important;
+}
+
+.padding-header2 {
+	padding: 5px 5% 0 5% !important;
+	text-align: center;
+	font-size: 30px !important;
+}=09
+=09
+.padding-hero {
+	padding: 0 0 0 0 !important;
+	text-align: center;
+}
+=09
+.section-padding {
+	padding: 0 15px 0 15px !important;
+}
+
+/* ADJUST BUTTONS ON MOBILE */
+.mobile-button-container {
+	margin: 0 auto;
+	width: 100% !important;
+}
+
+.mobile-button {
+	width: 90% !important;
+	border: 0 !important;
+	font-size: 16px !important;
+	display: block !important;
+}
+}
+	</style>
+</head>
+<body bgcolor=3D"#00b2cc" style=3D"margin: 0 !important; padding: 0 !import=
+ant;"><img src=3D"http://go.getaleks.com/200/2490/=
+1067244=
+/under.gif" wi=
+dth=3D"1" height=3D"1" alt=3D"Abilita le immagini per vedere correttamente =
+il messagio">
+
+
+<!-- MIRROR -->
+<div style=3D"width:100%;text-align:center;margin: 20px 0; ">
+<div style=3D"max-width:700px;margin:auto;padding:15px;"><a href=3D"http://=
+static.getaleks.com/mirrorlink/=
+1067244=
+/2490/200/">Siehst du nicht die E=
+mail hier klicken</a>&nbsp;</div>
+
+<div style=3D"max-width:700px;margin:auto;padding:15px;"><span style=3D"col=
+or: rgb(85, 85, 85); font-family: 'Segoe UI', Tahoma, Helvetica, sans-serif=
+; font-size: 13px; background-color: rgb(255, 255, 255);">Wenn Sie glauben,=
+ diese unerw&uuml;nschte Nachricht dass,&nbsp;<a href=3D"http://unsubscribe=
+.getaleks.com/200/=
+1067244=
+/=
+b390da7333ac4b75d289e48ade8c3ca1=
+/2490/">Spam melden</a></span></di=
+v>
+</div>
+
+<div style=3D"clear:both;"><!-- --></div>
+<!-- /MIRROR -->
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+	<tbody>
+	<tr>
+	<td align=3D"center" bgcolor=3D"#00b2cc" class=3D"section-padding" style=
+=3D"padding:20px 15px 20px 15px;"><!--[if (gte mso 9)|(IE)]>
+ <table align=3D"center" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" w=
+idth=3D"600">
+ <tr>
+ <td align=3D"center" valign=3D"top" width=3D"600">
+ <![endif]-->
+	<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"wrapper" =
+style=3D"max-width: 600px;" width=3D"100%">
+	<tbody>
+	<tr>
+	<td bgcolor=3D"#ffffff">
+	<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+	<tbody>
+	<tr>
+	<td bgcolor=3D"#f15922" style=3D"padding: 20px 20px 20px 20px;">
+	<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+	<tbody>
+	<tr>
+	<td align=3D"center" bgcolor=3D"#ffffff" class=3D"padding-header" style=3D=
+"padding: 20px 20px 0 20px; font-size: 46px; font-family: Arial, sans-serif=
+; color: #00b2cc;"><strong>TESTEN &amp; BEHALTEN </strong></td>
+	</tr>
+	<tr>
+	<td align=3D"center" bgcolor=3D"#ffffff" class=3D"padding-header2" style=
+=3D"padding: 0 20px 20px 20px; font-size: 26px; font-family: Arial, sans-se=
+rif; color: #f15922;"><strong>SIE DIE NEUESTEN GARTENARTIKEL!</strong></td>
+	</tr>
+	</tbody>
+	</table>
+	</td>
+	</tr>
+	<tr>
+	<td align=3D"center" class=3D"padding-hero"><a href=3D"http://go.getaleks.=
+com/200/2490/17204/=
+1067244=
+/" target=3D"_blank"><img alt=3D"" border=3D"=
+0" class=3D"img-max" height=3D"325" src=3D"http://image-gflamingo2.com/de/g=
+ardena/2018/v1/hero.jpg" style=3D"display: block; padding: 0; color: #00000=
+0; text-decoration: none; font-family: Arial, sans-serif; font-size: 16px;"=
+ width=3D"600" /></a></td>
+	</tr>
+	<tr>
+	<td>
+	<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" w=
+idth=3D"100%">
+	<tbody>
+	<tr>
+	<td align=3D"left" class=3D"padding-copy" style=3D"padding: 10px 50px 0 50=
+px; font-size: 16px; line-height: 20px; font-family: Arial, sans-serif; col=
+or: #000000;"><strong>Hallo</strong><strong>,</strong></td>
+	</tr>
+	<tr>
+	<td align=3D"left" class=3D"padding-copy" style=3D"padding: 20px 50px 0 50=
+px; font-size: 14px; line-height: 22px; font-family: Arial, sans-serif; col=
+or: #000000;">Der neueste Produktserie f&uuml;r Ihren Garten und Ihre Teras=
+se. Wir suchen Sie als Produkttester. Nimm jetzt Deine einzigartige Gewinnc=
+hance wahr.<br />
+	<br />
+	Als kleines Dankesch&ouml;n f&uuml;r Ihre Meinung, <strong><span style=3D"=
+color: #f15922;"><a href=3D"http://go.getaleks.com/200/2490/17206/=
+1067244=
+/">d&uuml;rfen Sie die empfangenen Produkte im Wert von 200,- Euro nach d=
+em Test behalten</a>.</span></strong></td>
+	</tr>
+	</tbody>
+	</table>
+	</td>
+	</tr>
+	<tr>
+	<td align=3D"center">
+	<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" w=
+idth=3D"100%">
+	<tbody>
+	<tr>
+	<td align=3D"center" class=3D"padding" style=3D"padding:35px 15px 35px 15p=
+x">
+	<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"mobile-bu=
+tton-container">
+	<tbody>
+	<tr>
+	<td align=3D"center" style=3D"border-radius: 0px;">
+	<div><!--[if mso]><v:rect xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:=
+w=3D"urn:schemas-microsoft-com:office:word" href=3D"[LINK]&utm_source=3D767=
+&utm_medium=3Demail&utm_campaign=3D767-email-C1&utm_content=3DBUTTON" style=
+=3D"height:60px;v-text-anchor:middle;width:300px;" stroke=3D"f" fillcolor=
+=3D"#00bc04"><w:anchorlock/><center><![endif]--><a class=3D"mobile-button" =
+href=3D"http://go.getaleks.com/200/2490/17208/=
+1067244=
+/" style=3D"backgr=
+ound-color:#00bc04; color:#ffffff; display:inline-block; font-family:sans-s=
+erif; font-size:26px; font-weight:bold; line-height:60px; text-align:center=
+; text-decoration:none; width:300px; -webkit-text-size-adjust:none;">Jetzt =
+mitmachen &rsaquo;</a><!--[if mso]></center></v:rect><![endif]--></div>
+	</td>
+	</tr>
+	</tbody>
+	</table>
+	</td>
+	</tr>
+	</tbody>
+	</table>
+	</td>
+	</tr>
+	</tbody>
+	</table>
+	</td>
+	</tr>
+	<tr>
+	<td align=3D"center" style=3D"padding: 20px 0 0 0;"><img alt=3D"" border=
+=3D"0" class=3D"gf" height=3D"71" src=3D"http://image-gflamingo2.com/gf/log=
+o-de-w.png" style=3D"display: block; padding: 0; color: #ffffff; text-decor=
+ation: none; font-family: Arial, sans-serif; font-size: 16px;" width=3D"291=
+" /></td>
+	</tr>
+	</tbody>
+	</table>
+	<!--[if (gte mso 9)|(IE)]>
+ </td>
+ </tr>
+ </table>
+ <![endif]--></td>
+	</tr>
+	</tbody>
+</table>
+
+<p><img alt=3D"" border=3D"0" height=3D"1" src=3D"https://www.google-analyt=
+ics.com/collect?v=3D1&tid=3DUA-106010354-1&cid=3D8&t=3Devent&ec=3D767-email=
+-C1&ea=3Dopen" style=3D"display: block; text-decoration: none;" width=3D"1"=
+ /></p>
+<div style=3D"clear:both;"><!-- --></div>
+
+<center>
+<div align=3D"center" style=3D"font-size:10px;line-height:16px;font-family:=
+Arial,Helvetica,sans-serif;text-align:center;color:#7c7b7b;max-width:600px;=
+">
+<table align=3D"center" cellpadding=3D"0" cellspacing=3D"0" style=3D"max-wi=
+dth:600px; border:none;">
+	<tbody>
+	<tr>
+	<td align=3D"left" colspan=3D"8" style=3D"vertical-align:top;color:#7c7b7b=
+;font-size:12px;padding: 2px;" valign=3D"top">
+	<div align=3D"center" style=3D"font-size:10px;line-height:16px;font-family=
+:Arial,Helvetica,sans-serif;text-align:center;color:#7c7b7b;max-width:600px=
+;">Sie sind mit der Adresse registriert: =
+kontakt@dorianvasco.de=
+<br />
+	Erhalten diese e-Mail, weil Sie abonniert sind die up-leveled, Sie haben z=
+ugestimmt, marketing-Materialien nach den italienischen Vorschriften gem&au=
+ml;&szlig; Gesetzesdekret 196/2003 (Datenschutzkodex) zu erhalten.<br />
+	Sie k&ouml;nnen unsere Datenschutzerkl&auml;rung hier einsehen<a href=3D"h=
+ttp://up-leveled.com/privacy-information-to-users">:http://up-leveled.com/p=
+rivacy-information-to-users</a><br />
+	Die verantwortliche Stelle ist Alexander adv doo Skopje, st.Petar Mlhov 26=
+-a Chair&nbsp;&nbsp;Skopje, Vat&nbsp;4082017520050, info@up-leveled.com<br =
+/>
+	Wenn Sie nicht mehr bitte unsere marketing-Mitteilungen erhalten m&ouml;ch=
+ten&nbsp;<span style=3D"color: rgb(85, 85, 85); font-family: 'Segoe UI', Ta=
+homa, Helvetica, sans-serif; font-size: 13px; background-color: rgb(255, 25=
+5, 255);"><a href=3D"http://unsubscribe.getaleks.com/200/=
+1067244=
+/=
+b390da7333ac4b75d289e48ade8c3ca1=
+/2490/"><span style=3D"font-size:10px;">abbestellen</span></a>&nbsp;</=
+span>und du sollst innerhalb von 24/48 Stunden abgemeldet haben.</div>
+
+	<div align=3D"center" style=3D"font-size:10px;line-height:16px;font-family=
+:Arial,Helvetica,sans-serif;text-align:center;color:#7c7b7b;max-width:600px=
+;">&nbsp;</div>
+	</td>
+	</tr>
+	</tbody>
+</table>
+</div>
+</center>
+</body>
+</html>
+
+
+--_----------=_152565155051650--

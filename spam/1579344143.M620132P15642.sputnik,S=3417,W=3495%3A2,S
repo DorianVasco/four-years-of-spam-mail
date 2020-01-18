@@ -1,0 +1,78 @@
+Return-Path: <bounce@weagillmarketing.com>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 52AC9D4CD3
+	for <mail@dorianvasco.de>; Sat, 21 Oct 2017 15:55:56 +0200 (CEST)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 7.847
+X-Spam-Level: *******
+X-Spam-Status: Yes, score=7.847 required=5.5 tests=[BAYES_50=0.8,
+	DATE_IN_PAST_24_48=1.34, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, RAZOR2_CF_RANGE_51_100=0.5,
+	RAZOR2_CF_RANGE_E8_51_100=1.886, RAZOR2_CHECK=0.922,
+	RP_MATCHES_RCVD=-0.001, SPF_PASS=-0.001, URIBL_BLOCKED=0.001,
+	URIBL_DBL_SPAM=2.5] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id Lx09DgfYCZFR for <mail@dorianvasco.de>;
+	Sat, 21 Oct 2017 15:55:54 +0200 (CEST)
+Received: from api7.weagillmarketing.com (api7.weagillmarketing.com [142.44.227.57])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id 1146DC3338
+	for <kontakt@dorianvasco.de>; Sat, 21 Oct 2017 15:55:37 +0200 (CEST)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=1506931038.weagillmarketing;
+ d=weagillmarketing.com;
+ h=To:Subject:Message-ID:Date:From:Reply-To:MIME-Version:List-Unsubscribe:
+ Content-Type:Content-Transfer-Encoding; i=marketing@weagillmarketing.com;
+ bh=ZFS7pRFSofwqvcVlY09y6nOhdqE=;
+ b=kYqvkXbPK1CJNvhhd30kqSgW73GAn9XzqkI44wfQzp2p7o86uR3GoB2ebpBW3n0zKoXLhtb9Jyko
+   sAkF5JDBmMpfGmhofmEFjwwgfm/GW1f2XyeSwRHGuU+MqT5cJY3GnsZam54co0eOjHLbNgJR7XPr
+   Dn0uaUHPjfpEnJxyR88=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=1506931038.weagillmarketing; d=weagillmarketing.com;
+ b=bOjKozeFWzucosw6cSsiuYtMp2SMQ6uuN39YVosSIHg7C8ScFUuaSdmCQcGlwn3LV6hamLOiO96P
+   I8j6/JSri/GcEWAzKqwTscElgEqubvFJncjAuM4q8lyEQZSb9lCnbNQXLxOnwdobqK3MI9YduvSV
+   ZRxw4xsgTePcOsGx4Q8=;
+To: kontakt@dorianvasco.de
+Subject: ***SPAM*** Look no further
+Message-ID: <3f6aef72de1a1ce4c3db85055d87f28c@weagillmarketing.com>
+Date: Fri, 20 Oct 2017 03:18:31 +0000
+From: "Weagill" <marketing@weagillmarketing.com>
+Reply-To: marketing@weagillmarketing.com
+MIME-Version: 1.0
+X-Mailer-LID: 2
+List-Unsubscribe: <http://weagillmarketing.com/mailer/unsubscribe.php?M=204199&C=a6c5e0bb3195636790a5622877e7b97f&L=2&N=5>
+X-Mailer-RecptId: 204199
+X-Mailer-SID: 5
+X-Mailer-Sent-By: 1
+Content-Type: text/plain; format=flowed; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+Greetings
+
+You are being falsely accused of a crime done nearby, you have been sat at
+your computer home alone,
+with no evidence to prove it isn’t you. Quite a scenario which has become
+more common nowadays.
+
+We are here to fix that, our app Weagill will log your computer activity,
+take images and screenshots
+every 15 minutes, while you use your computer. This makes it possible for
+you to win in a case
+scenario like above.
+
+Make sure you stay safe by checking out our app on the following link.
+http://weagillmarketing.com/mailer/link.php?M=204199&N=5&L=1&F=T
+It will explain everything, how it works and a much more in depth scenario
+and multiple other uses.
+
+Your time is much appreciated.
+
+Sincerely
+Stephanie Willis
+Sales at Weagill
+
+
+To unsubscribe to this email click here
+

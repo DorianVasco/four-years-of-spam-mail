@@ -1,0 +1,145 @@
+Return-Path: <kontakt@itechlance.biz>
+Delivered-To: mail@elementk.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 662DCC3D37
+	for <mail@elementk.de>; Wed,  1 Aug 2018 11:53:54 +0200 (CEST)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: -0.097
+X-Spam-Level:
+X-Spam-Status: No, score=-0.097 required=5.5 tests=[ADMITS_SPAM=0.001,
+	DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	RCVD_IN_DNSWL_BLOCKED=0.001, URIBL_BLOCKED=0.001]
+	autolearn=unavailable
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id WPvGMzWWEEoq for <mail@elementk.de>;
+	Wed,  1 Aug 2018 11:53:51 +0200 (CEST)
+Received: from server216-3.web-hosting.com (server216-3.web-hosting.com [198.54.115.159])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id 93072C147B
+	for <mail@elementk.de>; Wed,  1 Aug 2018 11:53:50 +0200 (CEST)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed;
+	d=itechlance.biz; s=default; h=Content-Transfer-Encoding:Content-Type:
+	MIME-Version:To:From:Subject:Date:Message-ID:Sender:Reply-To:Cc:Content-ID:
+	Content-Description:Resent-Date:Resent-From:Resent-Sender:Resent-To:Resent-Cc
+	:Resent-Message-ID:In-Reply-To:References:List-Id:List-Help:List-Unsubscribe:
+	List-Subscribe:List-Post:List-Owner:List-Archive;
+	bh=6dq749nXaa6CfZQ9Plg+0SktX1f4yzov+EJVA50CZMM=; b=UpYcE3S2v+Vc9+Xqga6yG/hdUb
+	hMKrGDMXG1ugQo1qh8zexndqCUtSsI88Q1UNERiXImUp4JCSxXSl4dSB1bCd47wMx+4eXjDsT758X
+	UGNA/T5tuog7OztThAgXhhhWEztddmdJMwfwpnQbvY+1F8zfiahpuUYd+b4qBLyeLxMc9h+qewD6e
+	4EpiB2y8NvWCWVj9V1gWXsj4IYCs+JWP4XbK0oXQ8/WIVTQ3aFlpb12lkgrH/Kg6RmcQ0fDMNlaPL
+	4ifoUvuKEwde1JyrqivHqMcjJY5ZPNeYFqAc4KABUxQ1egb/RibfkuH+qPJTIfWKEP2Lu3AiE0mnd
+	uYGP+acQ==;
+Received: from [::1] (port=39524 helo=server216.web-hosting.com)
+	by server216.web-hosting.com with esmtpa (Exim 4.91)
+	(envelope-from <kontakt@itechlance.biz>)
+	id 1fknpq-0017OG-Ee
+	for mail@elementk.de; Wed, 01 Aug 2018 05:54:27 -0400
+Received: from 113.19.87.245 ([113.19.87.245])
+        (SquirrelMail authenticated user kontakt@itechlance.biz)
+        by server216.web-hosting.com with HTTP;
+        Wed, 1 Aug 2018 15:24:26 +0530
+Message-ID: <d6c457c38f38b378b21f8ffb37551bd0.squirrel@server216.web-hosting.com>
+Date: Wed, 1 Aug 2018 15:24:26 +0530
+Subject: CAD Vektorisierung | Visualisierung
+From: "iTechLance | Saswati Pati" <kontakt@itechlance.biz>
+To: mail@elementk.de
+User-Agent: SquirrelMail/1.5.2 [SVN]
+MIME-Version: 1.0
+Content-Type: text/plain;charset=utf-8
+Content-Transfer-Encoding: 8bit
+X-Confirm-Reading-To: "iTechLance | Saswati Pati" <kontakt@itechlance.biz>
+Disposition-Notification-To: "iTechLance | Saswati Pati"
+ <kontakt@itechlance.biz>
+X-Priority: 1 (Highest)
+Importance: High
+X-OutGoing-Spam-Status: No, score=0.3
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - server216.web-hosting.com
+X-AntiAbuse: Original Domain - elementk.de
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - itechlance.biz
+X-Get-Message-Sender-Via: server216.web-hosting.com: authenticated_id: kontakt@itechlance.biz
+X-Authenticated-Sender: server216.web-hosting.com: kontakt@itechlance.biz
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+X-From-Rewrite: unmodified, already matched
+
+Sehr geehrte Frau/Herr,
+
+Seid gegrüßt!
+
+Dies ist Saswati, Business Development Manager, iTechlance IT Pvt
+Ltd.(www.iTechlance.com) aus Indien.
+
+Mit dieser e-Mail, verfolge ich eine Chance für die Partnerschaft für ein
+langfristige Beziehung für eine qualitativ hochwertige und kostengünstige
+CAD und 3D Visualisierung-Dienstleistungen für Ihre organization.
+iTechlance (www.iTechlance.com) ist ein ISO 9001: 2008 zertifiziert
+etablierten GIS, CAD, Datenkonvertierung & 3D Rendering-Dienstleister aus
+Indien Erbringung von Dienstleistungen für Kunden in aller Welt seit
+langem.
+
+CAD | GIS | 3D Visualisierung Dienstleistungen :
+
+a. alle Art der CAD Dienstleistungen
+b. GIS Dienstleistungen
+c. alle Art der Vermessung plan Vektorisierung
+d. Utility Dienstleistungen
+e. LiDAR Mapping
+f. 3D Visualisierung
+
+http://itechlance.com/CAD-Drafting-CAD-conversion.php
+http://itechlance.com/3d-visualization-sample.php
+
+Ich freue mich auf Ihre e-Mail mit großem Interesse.
+
+Mit freundlichen Grüßen,
+
+Ms. Saswati Pati
+
+----------------------------------------------------
+Dear Madame/Sir,
+
+Greetings!
+
+This is Saswati, Business Development Manager , iTechlance
+IT Pvt Ltd. (www.iTechlance.com) from India.
+
+With this email, I am pursuing an opportunity for partnership for a
+long-term relationship, for a high quality and cost-effective CAD and 3D
+Visualization services to your organization. iTechlance is an ISO
+9001:2008 certified established GIS, CAD, Data conversion & 3D Rendering
+service provider from India providing services to customers around the
+globe since a long time.
+
+I look forward to your email with great interest.
+
+With Best Regards,
+
+Ms. Saswati Pati
+
+Business Development Manager
+iTechlance IT Pvt. Ltd
+Mahalaxmi Bhawan, Plot No: 329
+Behind of Dasarathi Enclave,
+Jayadev Vihar, Bhubaneswar,
+Odisha, India-751013
+Tel:+91 9861538899
+Email: info@itechlance.com
+Web: http://www.itechlance.com
+Skype: enquiry_itech
+
+NOTE. This is an advertisement and a promotional mail strictly on the
+guidelines of CAN-SPAM act of 2003. We have clearly mentioned the source
+mail-id of this mail, also clearly mentioned the subject lines and they
+are in no way misleading in any form. We have found your mail address
+through our own efforts on the web search and not through any illegal way.
+If you find this mail unsolicited, please reply with "Remove" in the
+subject line and we will take care that you do not receive any further
+promotional mail.
+
+

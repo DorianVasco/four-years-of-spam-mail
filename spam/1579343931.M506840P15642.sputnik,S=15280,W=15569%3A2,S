@@ -1,0 +1,289 @@
+Received: from localhost by v22014122474822114.stilfilm.com
+	with SpamAssassin (version 3.3.2);
+	Wed, 22 Nov 2017 20:48:24 +0100
+From: "Photography Lessons" <photographyworkshop@resorewhar.us>
+To: <mail@dorianvasco.de>
+Subject: *****SPAM***** ***SPAM*** I know how you feel...
+Date: Sat, 15 Jul 2017 18:46:01 +0200
+Message-Id: <amuexrnp7cd2un8b-p38ah91at4yoau8x-254c3e94@resorewhar.us>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	v22014122474822114.stilfilm.com
+X-Spam-Flag: YES
+X-Spam-Level: ******
+X-Spam-Status: Yes, score=6.1 required=5.0 tests=DKIM_SIGNED,HTML_MESSAGE,
+	MIME_HTML_MOSTLY,MPART_ALT_DIFF,PYZOR_CHECK,RDNS_NONE,T_DKIM_INVALID,
+	T_REMOTE_IMAGE,URIBL_ABUSE_SURBL,URIBL_BLOCKED autolearn=no version=3.3.2
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----------=_5A15D488.039DE78B"
+
+This is a multi-part message in MIME format.
+
+------------=_5A15D488.039DE78B
+Content-Type: text/plain; charset=iso-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+
+Software zur Erkennung von "Spam" auf dem Rechner
+
+    v22014122474822114.stilfilm.com
+
+hat die eingegangene E-mail als mögliche "Spam"-Nachricht identifiziert.
+Die ursprüngliche Nachricht wurde an diesen Bericht angehängt, so dass
+Sie sie anschauen können (falls es doch eine legitime E-Mail ist) oder
+ähnliche unerwünschte Nachrichten in Zukunft markieren können.
+Bei Fragen zu diesem Vorgang wenden Sie sich bitte an
+
+    the administrator of that system
+
+Vorschau: This email must be viewed in HTML mode. Online Photography
+   Courses Hi, You're going to love this! [...] 
+
+Inhaltsanalyse im Detail:   (6.1 Punkte, 5.0 benötigt)
+
+Pkte Regelname              Beschreibung
+---- ---------------------- --------------------------------------------------
+ 1.9 URIBL_ABUSE_SURBL      Enthält URL in ABUSE-Liste (www.surbl.org) -
+                            changed from JP to ABUSE bug 7279
+                            [URIs: resorewhar.us]
+ 0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+                            See
+                            http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                             for more information.
+                            [URIs: resorewhar.us]
+ 0.0 MIME_HTML_MOSTLY       BODY: Mehrteilige MIME-Nachricht überwiegend in HTML
+ 0.0 HTML_MESSAGE           BODY: Nachricht enthält HTML
+ 0.7 MPART_ALT_DIFF         BODY: Nachrichtentext im Text- und HTML-Format
+                            unterscheiden sich
+ 0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+ 2.0 PYZOR_CHECK            Gelistet im Pyzor-System (http://pyzor.sf.net/)
+ 1.3 RDNS_NONE              Delivered to internal network by a host with no rDNS
+ 0.0 T_DKIM_INVALID         DKIM-Signature header exists but is not valid
+ 0.0 T_REMOTE_IMAGE         Message contains an external image
+
+Die ursprüngliche Nachricht enthielt nicht ausschließlich Klartext
+(plain text) und kann eventuell eine Gefahr für einige E-Mail-Programme
+darstellen (falls sie z.B. einen Computervirus enthält).
+Möchten Sie die Nachricht dennoch ansehen, ist es wahrscheinlich
+sicherer, sie zuerst in einer Datei zu speichern und diese Datei danach
+mit einem Texteditor zu öffnen.
+
+
+------------=_5A15D488.039DE78B
+Content-Type: message/rfc822; x-spam-type=original
+Content-Description: original message before SpamAssassin
+Content-Disposition: attachment
+Content-Transfer-Encoding: 8bit
+
+Return-Path: <4805-625753748-1458-mail=dorianvasco.de@mail.resorewhar.us>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id C23A3D44FB
+	for <mail@dorianvasco.de>; Sat, 15 Jul 2017 18:48:24 +0200 (CEST)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 8.332
+X-Spam-Level: ********
+X-Spam-Status: Yes, score=8.332 required=5.5 tests=[BAYES_99=3.5,
+	BAYES_999=0.2, DKIM_SIGNED=0.1, HTML_MESSAGE=0.001,
+	MIME_HTML_MOSTLY=0.428, MPART_ALT_DIFF=0.79, RDNS_NONE=0.793,
+	SPF_PASS=-0.001, T_DKIM_INVALID=0.01, T_REMOTE_IMAGE=0.01,
+	URIBL_BLOCKED=0.001, URIBL_DBL_SPAM=2.5] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id NAKS1-1RLwSk for <mail@dorianvasco.de>;
+	Sat, 15 Jul 2017 18:48:23 +0200 (CEST)
+Received: from fresno.resorewhar.us (unknown [31.192.241.104])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 775BBD3B0B
+	for <mail@dorianvasco.de>; Sat, 15 Jul 2017 18:48:23 +0200 (CEST)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=resorewhar.us;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=photographyworkshop@resorewhar.us;
+ bh=7xDhvnaEEuru3Kgw7iHm1ljpy5M=;
+ b=PYizJ0XXaU9WvhIF1YVW2XV7qzCUjDWE5MVTezy/95h82nt+mGrHTjGfDfZyYM6+EWR28KpOgCQb
+   IZDbHHoescjsTcIb4FYU29Nt/65WE1dtaSY3BkM2bxnXwSbZCLI2rQ6b/EpyVPWoMj7rULuIaB/N
+   aDKqolMFwLyknWIiWik=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=resorewhar.us;
+ b=gxHjD8DFzGlV74WLVVcqRZH/N0bpLotELim9LiVyduSUYjncleDEYKlEIsol3AHeJ2W3Uu3Vh/uu
+   rGWBtwOx2gXpiAX68xP3tLkLHpVMpSfyqgwbw8YWN9/vWgKYhdCeiIlGoL95LLQCC+3+3C1Kwfej
+   pvOCjAStHuLgytLjzTY=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="ed709d9b282f00de0d70bbced6cc130c"
+Date: Sat, 15 Jul 2017 18:46:01 +0200
+From: "Photography Lessons" <photographyworkshop@resorewhar.us>
+Reply-To: "Photography Workshops" <photographyworkshop@resorewhar.us>
+Subject: ***SPAM*** I know how you feel...
+To: <mail@dorianvasco.de>
+Message-ID: <amuexrnp7cd2un8b-p38ah91at4yoau8x-254c3e94@resorewhar.us>
+
+--ed709d9b282f00de0d70bbced6cc130c
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+This email must be viewed in HTML mode.
+
+--ed709d9b282f00de0d70bbced6cc130c
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title></title>
+	<style media="screen" type="text/css">.w3-opacity-max{opacity:0.25}.w3-opacity-min{opacity:0.75}
+w3-greyscale-max,.w3-grayscale-max,.w3-hover-greyscale:hover,.w3-hover-grayscale:hover{filter:grayscale(100%)}
+w3-greyscale,.w3-grayscale{filter:grayscale(75%)}.w3-greyscale-min,.w3-grayscale-min{filter:grayscale(50%)}
+w3-sepia{filter:sepia(75%)}.w3-sepia-max,.w3-hover-sepia:hover{filter:sepia(100%)}.w3-sepia-min{filter:sepia(50%)}
+w3-tiny{font-size:10px!important}.w3-small{font-size:12px!important}.w3-medium{font-size:15px!important}.w3-large{font-size:18px!important}
+w3-xlarge{font-size:24px!important}.w3-xxlarge{font-size:36px!important}.w3-xxxlarge{font-size:48px!important}.w3-jumbo{font-size:64px!important}
+w3-left-align{text-align:left!important}.w3-right-align{text-align:right!important}.w3-justify{text-align:justify!important}.w3-center{text-align:center!important}
+w3-border-0{border:0!important}.w3-border{border:1px solid #ccc!important}
+w3-border-top{border-top:1px solid #ccc!important}.w3-border-bottom{border-bottom:1px solid #ccc!important}
+w3-border-left{border-left:1px solid #ccc!important}.w3-border-right{border-right:1px solid #ccc!important}
+w3-topbar{border-top:6px solid #ccc!important}.w3-bottombar{border-bottom:6px solid #ccc!important}
+w3-leftbar{border-left:6px solid #ccc!important}.w3-rightbar{border-right:6px solid #ccc!important}
+w3-section,.w3-code{margin-top:16px!important;margin-bottom:16px!important}
+w3-margin{margin:16px!important}.w3-margin-top{margin-top:16px!important}.w3-margin-bottom{margin-bottom:16px!important}
+w3-margin-left{margin-left:16px!important}.w3-margin-right{margin-right:16px!important}
+w3-padding-small{padding:4px 8px!important}.w3-padding{padding:8px 16px!important}.w3-padding-large{padding:12px 24px!important}
+w3-padding-16{padding-top:16px!important;padding-bottom:16px!important}.w3-padding-24{padding-top:24px!important;padding-bottom:24px!important}
+w3-padding-32{padding-top:32px!important;padding-bottom:32px!important}.w3-padding-48{padding-top:48px!important;padding-bottom:48px!important}
+w3-padding-64{padding-top:64px!important;padding-bottom:64px!important}
+w3-left{float:left!important}.w3-right{float:right!important}
+w3-button:hover{color:#000!important;background-color:#ccc!important}
+w3-transparent,.w3-hover-none:hover{background-color:transparent!important}
+w3-hover-none:hover{box-shadow:none!important}
+	</style>
+</head>
+<body style="background-color:#E1F0F0;"><a href="http://resorewhar.us/ah3JHiPzzbgS4X6q-GK_kfgAGc5qgI7uYJSsf0ThA_s"><img border="0" src="http://resorewhar.us/YV8NfoWW5vQbwCKDAPGWDfIN6FZO8R9zuTjeu-FPQI4" /> </a>
+<table border="0" cellpadding="10" cellspacing="0" style="background-color:#E1F0F0;" width="100%">
+	<tbody>
+		<tr>
+			<td>
+			<table align="center" border="0" cellpadding="5" cellspacing="0" style="background-color:#FFF;border-bottom:5px solid #F57B2B;border-top:5px solid #F57B2B" width="600">
+				<tbody>
+					<tr>
+						<td align="center" style="background-color:#ffffff;" valign="middle">
+						<table border="0" cellpadding="0" cellspacing="0" style="" width="100%">
+							<tbody>
+								<tr>
+									<td align="center" width="600">
+									<div style="font-family: 'Avant Garde', Avantgarde, 'Century Gothic', CenturyGothic, 'AppleGothic', sans-serif; font-size:35px; color: #00B0B0;"><b>Online Photography Courses</b></div>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+					<tr>
+						<td width="100%">
+						<table align="center" border="0" cellpadding="15" cellspacing="0" width="600">
+							<tbody>
+								<tr>
+									<td align="left"><span style="font-family: 'Avant Garde', Avantgarde, 'Century Gothic', CenturyGothic, 'AppleGothic', sans-serif; font-size:16px; color:#000000">Hi,<br />
+									<br />
+									You&#39;re going to love this!<br />
+									<br />
+									This new series of 29 videos will take any DSLR beginner and make them a pro... Including *YOU*!<br />
+									<br />
+									If you&#39;ve been struggling to get better photos with your camera...<br />
+									<br />
+									(Or even if you don&#39;t know what DSLR to buy)<br />
+									<br />
+									<a href="http://resorewhar.us/kufnxNgmBMd1hqplXgbctcIXUUSlLZEl1y08LJ4Y7ws"><b>Then you&#39;re going to LOVE THESE VIDEOS:</b></a> </span> .</td>
+								</tr>
+								<tr>
+									<td align="center"><a href="http://resorewhar.us/kufnxNgmBMd1hqplXgbctcIXUUSlLZEl1y08LJ4Y7ws"><img src="http://resorewhar.us/c61ec45c4300c58d6c.jpg" /></a></td>
+								</tr>
+								<tr>
+									<td align="left" style="background-color:#ffffff;"><span style="font-family: 'Avant Garde', Avantgarde, 'Century Gothic', CenturyGothic, 'AppleGothic', sans-serif; font-size:16px; color:#000000">You see, Photography Masterclass was put together by Evan Sharboneau.<br />
+									<br />
+									He&#39;s helped over 9.2 Million people with their photography skills. BUT he&#39;s also a regular guy willing to show you where he started.<br />
+									<br />
+									<a href="http://resorewhar.us/kufnxNgmBMd1hqplXgbctcIXUUSlLZEl1y08LJ4Y7ws"><b>Catch his &quot;beginner-to-professional&quot; story on the website:</b></a><br />
+									<br />
+									(You&#39;ll even see some of his old, UGLY PHOTOS there!)<br />
+									<br />
+									Listen, no matter where you are with photography - just starting out, a hobbyist, or want to get 100% comfortable in Full Manual Mode -<br />
+									<br />
+									<a href="http://resorewhar.us/kufnxNgmBMd1hqplXgbctcIXUUSlLZEl1y08LJ4Y7ws"><b>You owe it to yourself to check this out:</b></a><br />
+									<br />
+									(Because you&#39;ll see also GORGEOUS PHOTOS and learn how they were created)<br />
+									<br />
+									Anyway, I&#39;m just passing along the good news that you can stop digging around blogs and forums...<br />
+									<br />
+									*Finally* you can get the photography training you&#39;ve been looking for.<br />
+									<br />
+									Talk soon,<br />
+									Joe Filienta<br />
+									<br />
+									PS. This is an &quot;exclusive website&quot;. That means the photos and training materials there will NOT be found anywhere else.<br />
+									<br />
+									So if you have ANY QUESTIONS about photography...<br />
+									<br />
+									<a href="http://resorewhar.us/kufnxNgmBMd1hqplXgbctcIXUUSlLZEl1y08LJ4Y7ws"><b>It&#39;s really important to click the link and discover Photography Masterclass: </b></a> </span></td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:#E1F0F0">
+			<table style="background-color:#E1F0F0" width="100%">
+				<tbody>
+					<tr>
+						<td width="100%"><span>&nbsp;</span>
+						<table align="center" border="0" cellpadding="10" cellspacing="0" width="250">
+							<tbody>
+								<tr>
+									<td width="100%">
+									<p style="font-family: 'Avant Garde', Avantgarde, 'Century Gothic', CenturyGothic, 'AppleGothic', sans-serif; font-size:12px;"><a href="http://resorewhar.us/s0gpaTwoQbg0HWBoGwBO43lPuqFBUBIBA2gbUAwXdmk"><img alt="Unsu_bscribe Here !!" src="http://resorewhar.us/314a258719cb2aad89.jpg" style="font-size:15px;" /></a></p>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+
+						<p>&nbsp;</p>
+
+						<p style=" padding:0px; padding:0px;color:#E1F0F0; font-size:11px; line-height:-1px">the/ crew /must/ rescue/ the Earth/ from having /its past /altered /by time-travelling/ cyborgs /and alien/ races. Genre /as commentary /on social/ issues The science /fiction film/ genre/ has /long /served as/ useful /means /of discussing /sensitive topical/ issues without /arousing /controversy,/ and it /often/ provides/ thoughtful/ social/ commentary/ on potential/ unforeseen/ future /issues. /The fictional/ setting /allows/for a /deeper /examination/ and reflection /of the/ ideas/ presented,/ with the/ perspective/ of a/ viewer/watching/ remote /events. /Most /controversial/issues /in science/ fiction/ films tend/ to fall /into two/ g/eneral storylines,/ Utopian/ or dystopian./ Either /a society/ will become/ better/ or worse/ in the/ future./ Because /of controversy,/ most /science /fiction/ films /will /fall/ i/nto the d/ystopian film /category/ rather /than the/ Utopian /category. The/ t
+ ypes /of c/ommentary /and controversy /presented in/ science/ fiction /films /often/ illustrate/ the particular /concerns of /the periods /in which they /were produced./ Early /science/ fiction/ films expressed/ fears about/ automation/ replacing/ workers a/nd the dehumanization/ of society/ through science/ and technology./ For example,/ The Man in/ the White/ Suit /(1951)/ used a/ science/ fiction/ concept /as a /means /to satirize /postwar</p>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+&nbsp;
+<p align="center"><a href="http://resorewhar.us/36PbSe9nmXEO8aXv1jM6gz1sw0Wyd8M2LQEQrjw3P6A"><img src="http://resorewhar.us/7138c33e77473f0e5c.jpg" /></a></p>
+</body>
+</html>
+
+--ed709d9b282f00de0d70bbced6cc130c--
+
+
+------------=_5A15D488.039DE78B--
+

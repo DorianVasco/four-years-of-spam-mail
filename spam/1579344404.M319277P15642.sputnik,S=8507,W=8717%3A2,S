@@ -1,0 +1,210 @@
+Return-Path: <guntherbzczsmt@canthocamera.com>
+Delivered-To: mail@elementk.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 6CB56C43F1
+	for <mail@elementk.de>; Thu, 21 Mar 2019 10:13:18 +0100 (CET)
+Authentication-Results: v22014122474822114.stilfilm.com; dkim=pass
+	reason="1024-bit key; insecure key"
+	header.d=canthocamera.com header.i=guntherbzczsmt@canthocamera.com
+	header.b=KLcRuraX; dkim-adsp=pass; dkim-atps=neutral
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 8.813
+X-Spam-Level: ********
+X-Spam-Status: Yes, score=8.813 required=5.5 tests=[BAYES_99=3.5,
+	BAYES_999=0.2, DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	FROM_LOCAL_NOVOWEL=0.5, HK_RANDOM_ENVFROM=0.001,
+	HTML_IMAGE_RATIO_04=0.556, HTML_MESSAGE=0.001, PYZOR_CHECK=1.392,
+	SPF_PASS=-0.001, URIBL_ABUSE_SURBL=1.25, URIBL_RHS_DOB=1.514]
+	autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id hGjLncT-FtPh for <mail@elementk.de>;
+	Thu, 21 Mar 2019 10:13:16 +0100 (CET)
+Received: from tricky.canthocamera.com (tricky.nationalecom.com [185.229.243.225])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 6B4ADC43DF
+	for <mail@elementk.de>; Thu, 21 Mar 2019 10:13:12 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=canthocamera.com;
+ h=Date:To:List-Unsubscribe:MIME-Version:Subject:Message-ID:From:Content-Type:Content-Transfer-Encoding; i=guntherbzczsmt@canthocamera.com;
+ bh=XBbR4aujj12SrXnTH5/2K6tnle8=;
+ b=KLcRuraXoFl/JDBSbT0BpmJLU8ZenP+jj36R54avQWX1gu/ima9sGyjp8wtZxoCAfzyAoyE2uLtD
+   EzsUV4k9AqUhAwWSftpqPJaBQkE/nWva+/JkdieyKyAmWmY3lFIO/kDrQYHAy8AQgrr+XZoWhZw5
+   lmHeFufStbyGOz9ZYq0=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=canthocamera.com;
+ b=qgh4qwHsOhh7iFAyHBUYVLUqlmttViSb/Ca1dKPJC9fURvfZjdETqr5vuJG5hK/w1Wk9gWkSN/Kv
+   M1XdFMtsDd/WOKCNyXBSLqtXSG1/cIFmHM1g4gp1Fxy4fWRR56ZYLI3jTaQm9eCpya512G+vvH/Q
+   8WbB1QVJSI4Xa3OKL5w=;
+Date: Thu, 21 Mar 2019 10:10:12 +0100
+To:  <mail@elementk.de>
+List-Unsubscribe:  <http://canthocamera.com/ub.php?b=6h5206068080h82qr01b8q8dcrd13wjc6onf>
+MIME-Version: 1.0
+X-Report-Abuse:  <http://canthocamera.com/aa.php?a=6h5206068080h82qr01b8q8dcrd13wjc6onf>
+Subject: =?UTF-8?Q?Haben_Sie_nicht_auch_genug_davon,_dass_die_Zahnkliniken_unversch=C3=A4mt_hohe_Preise_verlangen=3F_Hier_ist_die_L=C3=B6sung_daf=C3=BCr:?=
+Message-ID: <cbqapvz4xt9eckbab0@xkar.canthocamera.com>
+From: =?UTF-8?Q?Gunther?= <guntherbzczsmt@canthocamera.com>
+Precedence: bulk
+Content-Type: multipart/alternative; boundary=b1_trrqbxnlfgxxa-PcU9X7igOG; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+--b1_trrqbxnlfgxxa-PcU9X7igOG
+Content-Type: text/plain; format=flowed; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+
+=0D
+Endlich eine 5-Sterne-Zahnklinik mit traumhaften Preisen!:=0D
+=0D
+http://e2we.canthocamera.com=0D
+=0D
+=0D
+=0D
+Hier k=C3=B6nnen Sie sich abmelden:=0D
+http://canthocamera.com/ub.php?j60=3D6h5206068080h82qr01b8q8dcrd13wjc6onf=0D
+=0D
+Von 50 Zahnkliniken ist nur eine in der Lage ein Hollywood-L=C3=A4cheln zu =
+Schn=C3=A4ppchenpreisen in Ihr Gesicht zu zaubern.=0D
+
+
+--b1_trrqbxnlfgxxa-PcU9X7igOG
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">=0D
+<html xmlns=3D"http://www.w3.org/1999/xhtml">=0D
+<head>=0D
+<meta content=3D"text/html; charset=3Dutf-8" http-equiv=3D"Content-Type" />=
+=0D
+</head>=0D
+<body style=3D"background: #fff none repeat scroll 0% 50%; font-family: Ari=
+al,Helvetica,sans-serif;">=0D
+<table style=3D"width: 100%; font-family: arial; font-size: 12px;" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">=0D
+<tbody>=0D
+<tr>=0D
+<td style=3D"padding: 0pt;">=0D
+<table style=3D"border: medium none ; background: white none repeat scroll =
+0% 50%; margin:0 auto;" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" wi=
+dth=3D"600">=0D
+<tbody>=0D
+<tr>=0D
+<td height=3D"251" valign=3D"top">=0D
+<a href=3D"http://e2we.canthocamera.com/"><img src=3D"http://canthocamera.c=
+om/dental0.jpg" height=3D"251" width=3D"600" style=3D"border:0; margin:0"/>=
+</a>=0D
+</td>=0D
+</tr>=0D
+<tr>=0D
+<td style=3D"border:0; padding: 0pt 15pt 15pt; text-align: left;">=0D
+<table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">=0D
+<tbody>=0D
+<tr>=0D
+<td style=3D"padding: 15px 0pt;">=0D
+<h2 style=3D"color: #222222;font-family: Helvetica;font-size: 34px;font-sty=
+le: normal;font-weight: bold;line-height: 150%;letter-spacing: normal;" ali=
+gn=3D"center">Einf=C3=BChrung einer bis zu 70% g=C3=BCnstigeren Zahnbehandl=
+ung von Weltklasse</h2>=0D
+=0D
+<div style=3D"text-align: left; width:560px; color: #333333;font-family: He=
+lvetica;font-size: 16px;line-height: 150%;">=0D
+=0D
+  	<p style=3D"text-align:center !important;">=0D
+In nur 1 Minute verraten wir Ihnen jedes Geheimnis dieser einzigartigen zah=
+nmedizinischen Behandlung, die bis zu 70% weniger kosten kann...=0D
+  	<br /><br />=0D
+    =0D
+    <a href=3D"http://e2we.canthocamera.com/"><img src=3D"http://canthocame=
+ra.com/dental1de.jpg" height=3D"251" width=3D"564" style=3D"border:0"/></a>=
+=0D
+    =0D
+    </p>=0D
+        =0D
+    <h3 style=3D"color: #444444;font-family: Helvetica;font-size: 22px;font=
+-style: normal;font-weight: bold;line-height: 150%;letter-spacing: normal;"=
+>Herzlich willkommen!</h3>=0D
+    =0D
+    <p>Nutzen Sie Ihre einzigartige Chance bis zum 31. Oktober, dass...</p>=
+=0D
+    <p>=0D
+    <ul style=3D"display: block;list-style-type: disc; margin-block-start: =
+1em;margin-block-end: 1em;margin-inline-start: 0px;margin-inline-end: 0px;p=
+adding-inline-start: 40px;">=0D
+	<li>=C3=84rzte, die zu den Besten in Europa geh=C3=B6ren, sich um Ihre Z=
+=C3=A4hne k=C3=BCmmern.</li>=0D
+	<li>Sie w=C3=A4hrend den Behandlungen ausschliesslich hochwertige<br />=0D
+	  Premium-Markenprodukte verwenden.</li>=0D
+	<li>Sie in einer mit den neusten High-Tech Maschinen ausgestatteten Klinik=
+ erwartet werden =E2=80=93 in einer Umgebung, wie in einem europ=C3=A4ische=
+n<br />=0D
+	  5-Sterne-Hotel.</li>=0D
+	<li>Doch das Wichtigste ist, dass Sie daf=C3=BCr bis zu 70% weniger bezahl=
+en m=C3=BCssen, als f=C3=BCr Ihre bisherigen Zahnbehandlungen.</li>=0D
+</ul>=0D
+</p>=0D
+=0D
+<p style=3D"text-align:center !important;">=0D
+    <a href=3D"http://e2we.canthocamera.com/" style=3D"color:#1abc9c; font-=
+size:24px; font-weight:bold; text-decoration:underline;">- Mehr Details -</=
+a>=0D
+<br /><br /><br />=0D
+ <a href=3D"http://e2we.canthocamera.com/"><img src=3D"http://canthocamera.=
+com/dental2de.jpg" height=3D"251" width=3D"564" style=3D"border:0"/></a>=0D
+</p>=0D
+=0D
+    <h3 style=3D"color: #444444;font-family: Helvetica;font-size: 22px;font=
+-style: normal;font-weight: bold;line-height: 150%;letter-spacing: normal;"=
+>Vergessen Sie nicht: Sie erhalten von uns ein 100% unverbindliches Preisan=
+gebot!</h3>=0D
+<p>=0D
+    =0D
+    Nach dem Ausf=C3=BCllen eines aus 4 Fragen bestehenden Fragebogens nimm=
+t unser Kollege mit Ihnen innerhalb von 48 Stunden mit einem unverbindliche=
+n, kostenlosen, ein Jahr lang g=C3=BCltigen Angebot und Informationen in Ih=
+rer Muttersprache den Kontakt auf.=0D
+    </p>=0D
+    =0D
+    <h4 style=3D"color: #999999;font-family: Georgia;font-size: 20px;font-s=
+tyle: italic;font-weight: normal;line-height: 125%;letter-spacing: normal;t=
+ext-align: left;">Wir w=C3=BCnschen Ihnen ein wundersch=C3=B6nes L=C3=A4che=
+ln und einen angenehmen Tag!</h4>=0D
+    =0D
+=0D
+<p style=3D"text-align:center !important;"><br />=0D
+    <a href=3D"http://e2we.canthocamera.com/" style=3D"color:#1abc9c; font-=
+size:24px; font-weight:bold; text-decoration:underline;">- Mehr Details -</=
+a>=0D
+</p>=0D
+</div>=0D
+=0D
+</tr>=0D
+</tbody>=0D
+</table>=0D
+=0D
+</tr>=0D
+<tr>=0D
+=0D
+<td height=3D"150" valign=3D"top"> </td>=0D
+</tr>=0D
+=0D
+<tr>=0D
+<td height=3D"50" valign=3D"top" style=3D"background-color:#ebebec; text-al=
+ign:center; vertical-align: middle">=0D
+<a href=3D"http://canthocamera.com/ub.php?a3=3D6h5206068080h82qr01b8q8dcrd1=
+3wjc6onf" style=3D"color:#000000;">Abmelden</a>=0D
+</td>=0D
+</tr>=0D
+=0D
+</tbody>=0D
+</table>=0D
+</td>=0D
+</tr>=0D
+</tbody>=0D
+</table>=0D
+<br />=0D
+<img src=3D"http://canthocamera.com/ob.php?qy0=3D6h5206068080h82qr01b8q8dcr=
+d13wjc6onf" \/>=0D
+</body>=0D
+</html>=
+
+--b1_trrqbxnlfgxxa-PcU9X7igOG--

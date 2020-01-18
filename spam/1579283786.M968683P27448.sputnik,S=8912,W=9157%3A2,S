@@ -1,0 +1,245 @@
+Return-Path: <adambrister@myseocompany.online>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id D903AC6FDC
+	for <mail@dorianvasco.de>; Tue, 26 Nov 2019 14:43:04 +0100 (CET)
+Authentication-Results: v22014122474822114.stilfilm.com; dkim=pass
+	reason="2048-bit key; insecure key"
+	header.d=myseocompany.online header.i=@myseocompany.online
+	header.b=Z4khUoXN; dkim-adsp=pass; dkim-atps=neutral
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: 0.701
+X-Spam-Level:
+X-Spam-Status: No, score=0.701 required=4.5 tests=[BAYES_50=0.8,
+	DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	HTML_MESSAGE=0.001] autolearn=ham autolearn_force=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id kpHDDMXZSHNw for <mail@dorianvasco.de>;
+	Tue, 26 Nov 2019 14:43:03 +0100 (CET)
+Received: from mail-pl1-f194.google.com (mail-pl1-f194.google.com [209.85.214.194])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id 7EC81C415A
+	for <mail@dorianvasco.de>; Tue, 26 Nov 2019 14:42:57 +0100 (CET)
+Received: by mail-pl1-f194.google.com with SMTP id ay6so8203902plb.0
+        for <mail@dorianvasco.de>; Tue, 26 Nov 2019 05:42:57 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=myseocompany.online; s=google;
+        h=from:to:subject:date:message-id:mime-version:thread-index
+         :content-language;
+        bh=uUUY6dHF2lpvQFwGUyGuq2cI13vdA8mL1FQpurdyMNo=;
+        b=Z4khUoXNswQvKwQkreLuW/yJZLuspI84xwUYSpia4IyZKCeQQCGITFqzWg9fsKcvIR
+         FCF1WeflHbVNecREK52x7pUCO78yPlEEYnWHDX9pQpdQax/swkfuA+4hWyxmYyQ/vCSo
+         FRMN5a/EGHoSy87+0Q6mMcsF9rmn714BIHZHCKRfYNx2AZFJGw3beJefeUTzRBnd2lMa
+         MYJYPeVn2s2iLo2RIss0DXTDND5BAD6MStUPwXKzNKVNKg+JP8aVpj7ZPIoWxB0CyVSb
+         VhjXkz6MMymgQdhrGMNeE5ifmT1vw1W7yntx+u+VmUnRPv5x2tdCw+5bo3SuZA0o6kIS
+         JS7g==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:from:to:subject:date:message-id:mime-version
+         :thread-index:content-language;
+        bh=uUUY6dHF2lpvQFwGUyGuq2cI13vdA8mL1FQpurdyMNo=;
+        b=dcRjnFG3kHsg+EAD2lo6TkgFuFLyHbkoYKdJUA7FWSmP6sW+MPQ9yWt4BtAp2uM4z2
+         04rrron4AEQfts1oXDC/KysQTZ4AreK0Dtj/uhlrik2O9lKYLjEupl+P/yJFjWWjlwvB
+         UjGLbthl/xOFB2Q4kEO8iMgso4sL7D69vVXYmfQ8ZL8XrZg/D4XRuFjCf9Z/9JWPQvP7
+         GJY+oyngW5lTM5vojQLjaKw2b69VTpsqOOMv/jkmTg9BdHwHRCqgepGvNxoJPBK+r01x
+         9Hs4x/ZK9pYseL/uMqewQaSn2R4jh6EY7A4BF9lMyITsuFcLnSyQmNJY6k0RxbHmvdy5
+         Q99w==
+X-Gm-Message-State: APjAAAUUr5ZN5wkzoOzus9l+gEszzQYyfK5gm+87wE5ABRVWyn1iOU0d
+	84tPWPkOO9SZsVL3mnp12k7oBm5+xGE=
+X-Google-Smtp-Source: APXvYqyrcjFigx9uMpsdj+HQguDCUUPnEIc8rYR3ppSacnNp7XX/TvRwSQf8sDDkPkgoDLsAUb/f/Q==
+X-Received: by 2002:a17:902:8a8e:: with SMTP id p14mr9189613plo.72.1574775775003;
+        Tue, 26 Nov 2019 05:42:55 -0800 (PST)
+Received: from AdminPC ([163.53.85.237])
+        by smtp.gmail.com with ESMTPSA id n12sm11881038pgb.32.2019.11.26.05.42.53
+        for <mail@dorianvasco.de>
+        (version=TLS1 cipher=ECDHE-RSA-AES128-SHA bits=128/128);
+        Tue, 26 Nov 2019 05:42:54 -0800 (PST)
+From: "Adam" <adambrister@myseocompany.online>
+To: <mail@dorianvasco.de>
+Subject: Quality Results..In Google..
+Date: Tue, 26 Nov 2019 18:44:38 +0530
+Message-ID: <1214701d5a45f$679b5860$36d20920$@online>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_12148_01D5A48D.81539460"
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-Index: AdWkK/YTMFh2fdagTYS8fLaued3Z0Q==
+Content-Language: en-us
+X-Antivirus: Avast (VPS 191125-0, 11/25/2019), Outbound message
+X-Antivirus-Status: Clean
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_12148_01D5A48D.81539460
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+Hi,DorianVasco Nagel
+
+I am Adam ,was going through your website & I personally see a lot of
+potential in your website & business.
+
+We can help you promote your business online which would not only make you
+
+rank high on search engines on relevant keywords but we will also help you
+uplift your brand in the market.
+
+Would you be open to seeing more brief info / quote for what I would like
+
+to accomplish?
+
+Please email us back to get more info.
+
+Thanks & Regards,   
+Adam
+Digital Marketing Consultant
+
+ 
+
+
+------=_NextPart_000_12148_01D5A48D.81539460
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<META HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html; =
+charset=3Dus-ascii">
+<meta name=3DGenerator content=3D"Microsoft Word 12 (filtered medium)">
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin-top:0in;
+	margin-right:0in;
+	margin-bottom:10.0pt;
+	margin-left:0in;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+p.gmail-m-2522647836134549645gmail-xmsonormal, =
+li.gmail-m-2522647836134549645gmail-xmsonormal, =
+div.gmail-m-2522647836134549645gmail-xmsonormal
+	{mso-style-name:gmail-m-2522647836134549645gmail-xmsonormal;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+.MsoChpDefault
+	{mso-style-type:export-only;}
+.MsoPapDefault
+	{mso-style-type:export-only;
+	margin-bottom:10.0pt;
+	line-height:115%;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+
+</head>
+
+<body lang=3DEN-US>
+
+<div class=3DSection1>
+
+<p class=3Dgmail-m-2522647836134549645gmail-xmsonormal =
+style=3D'mso-margin-top-alt:
+0in;margin-right:0in;margin-bottom:10.0pt;margin-left:0in;line-height:13.=
+8pt'><span
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif"'>Hi,</span><=
+span
+style=3D'font-family:"Calibri","sans-serif"'>DorianVasco =
+Nagel</span></p>
+
+<p class=3Dgmail-m-2522647836134549645gmail-xmsonormal =
+style=3D'mso-margin-top-alt:
+0in;margin-right:0in;margin-bottom:10.0pt;margin-left:0in;line-height:13.=
+8pt'><span
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif"'>I =
+am&nbsp;<b>Adam ,</b>was
+going through your website &amp; I personally see a lot of potential in =
+your
+website &amp; business.</span></p>
+
+<p class=3Dgmail-m-2522647836134549645gmail-xmsonormal =
+style=3D'mso-margin-top-alt:
+0in;margin-right:0in;margin-bottom:10.0pt;margin-left:0in;line-height:13.=
+8pt'><span
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif"'>We can =
+help you
+promote your business online which would not only make you</span></p>
+
+<p class=3Dgmail-m-2522647836134549645gmail-xmsonormal =
+style=3D'mso-margin-top-alt:
+0in;margin-right:0in;margin-bottom:10.0pt;margin-left:0in;line-height:13.=
+8pt'><span
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif"'>rank high =
+on search
+engines on relevant keywords but we will also help you uplift your brand =
+in the
+market.</span></p>
+
+<p class=3Dgmail-m-2522647836134549645gmail-xmsonormal =
+style=3D'mso-margin-top-alt:
+0in;margin-right:0in;margin-bottom:10.0pt;margin-left:0in;line-height:13.=
+8pt'><span
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif"'>Would you =
+be open
+to seeing more brief info / quote for what I would like</span></p>
+
+<p class=3Dgmail-m-2522647836134549645gmail-xmsonormal =
+style=3D'mso-margin-top-alt:
+0in;margin-right:0in;margin-bottom:10.0pt;margin-left:0in;line-height:13.=
+8pt'><span
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif"'>to =
+accomplish?</span></p>
+
+<p class=3Dgmail-m-2522647836134549645gmail-xmsonormal =
+style=3D'mso-margin-top-alt:
+0in;margin-right:0in;margin-bottom:10.0pt;margin-left:0in;line-height:13.=
+8pt'><span
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif"'>Please =
+email us
+back to get more info.</span></p>
+
+<p class=3Dgmail-m-2522647836134549645gmail-xmsonormal =
+style=3D'mso-margin-top-alt:
+0in;margin-right:0in;margin-bottom:10.0pt;margin-left:0in;line-height:13.=
+8pt'><span
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif"'>Thanks =
+&amp;
+Regards,&nbsp;&nbsp;&nbsp;<br>
+<b>Adam<br>
+</b>Digital Marketing Consultant</span></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+</div>
+
+</body>
+
+</html>
+
+------=_NextPart_000_12148_01D5A48D.81539460--
+

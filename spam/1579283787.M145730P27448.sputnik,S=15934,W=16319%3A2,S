@@ -1,0 +1,385 @@
+Return-Path: <saloni@aplushitech.com>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id D6B3AC1508
+	for <mail@dorianvasco.de>; Fri, 29 Nov 2019 12:27:56 +0100 (CET)
+Authentication-Results: v22014122474822114.stilfilm.com; dkim=pass
+	reason="2048-bit key; insecure key"
+	header.d=aplushitech.com header.i=@aplushitech.com
+	header.b=MXYT+M0t; dkim-adsp=pass; dkim-atps=neutral
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: 0.701
+X-Spam-Level:
+X-Spam-Status: No, score=0.701 required=4.5 tests=[BAYES_50=0.8,
+	DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	HTML_MESSAGE=0.001] autolearn=ham autolearn_force=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id OvwYnqfY9DXe for <mail@dorianvasco.de>;
+	Fri, 29 Nov 2019 12:27:55 +0100 (CET)
+Received: from mail-pg1-f195.google.com (mail-pg1-f195.google.com [209.85.215.195])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id F0FF0C14FC
+	for <mail@dorianvasco.de>; Fri, 29 Nov 2019 12:27:53 +0100 (CET)
+Received: by mail-pg1-f195.google.com with SMTP id 6so9741321pgk.0
+        for <mail@dorianvasco.de>; Fri, 29 Nov 2019 03:27:53 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=aplushitech.com; s=google;
+        h=from:to:subject:date:message-id:mime-version:thread-index
+         :content-language;
+        bh=mkPpYwrFemRynZVmPvqz0e/pGnUeCv8P3MGRJ4mkLOc=;
+        b=MXYT+M0tAx456d95WrjxFKVDMRay/d9ZLtqL28O7Rhv/CNqjv9F7qP+vNcchoFvrCd
+         1V2UamW5LaXVtusAIkTC54sMFJ2DwE2UBMhiiwY26FSoATxphoK1jJihV/c0Ztl/kxUE
+         pc3DGpgW3uZ6FF7ocozmxg+AJeKknPbOhz1BBGQCMO9YR5YCCfXSUMLoIocNklzbtjvF
+         n97pyP+p8WlXXuNY84iS8xvdBlfXVthx5oa8H9TrQqx4Q5DISq6QBhi4VhY5WeJ1ZDbb
+         blJEhd5zhwaz4uLoussT0Me3eGKq0IADZdL4TZgHxjEvGk/7OufLsmWWXTbYEVzUxJJq
+         7DDw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:from:to:subject:date:message-id:mime-version
+         :thread-index:content-language;
+        bh=mkPpYwrFemRynZVmPvqz0e/pGnUeCv8P3MGRJ4mkLOc=;
+        b=dM2wJZ+RnoC1GDxziMv9v1yXk5CP+p+L+aH2MapBSJDKQnryX+I9EoVz5juLmA62b0
+         FHnHZwTqoSGIFcKBuzcRCEbJJoM5+zujZwjUKvSkZEzFeFKIoV9/TCeNfK07l1bb/hiE
+         +JUv+5d+XWYbfNwj0J3JAUrknBVSoKwkWss7V2i5r2LO0miYDCfxMiveLxHR5ekAicU1
+         qnIdF4SYAJ4KJlxPhTaXmzmDYlz4upMMzI4LIrvHxe3CP8L0GQxBOLouD4zQBFr93hk5
+         fBTEZCDOO8j+xZhPBHQwHhw4lkD5+PcjWhkTEov904ib8cN8j6qpwRa3RIccMQKuNSug
+         eoLA==
+X-Gm-Message-State: APjAAAWaOA6Seke07UsR/RrdJi8hS3Ma5FtvwYMgvx4kHguZfCqqfI9d
+	2IYdDHOm0yZhuaRzzqNbYmmmiAaI0g==
+X-Google-Smtp-Source: APXvYqwGGMoRqzkntnfkWi5MAYUeQKTaD/USRmfGWfXTmZIjpqthG68dRKT5sMxcmEKSqz6fksuG0A==
+X-Received: by 2002:a63:4381:: with SMTP id q123mr15975199pga.233.1575026871730;
+        Fri, 29 Nov 2019 03:27:51 -0800 (PST)
+Received: from AkkiJanya ([122.177.122.162])
+        by smtp.gmail.com with ESMTPSA id a16sm23327870pgb.7.2019.11.29.03.27.50
+        for <mail@dorianvasco.de>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-SHA bits=128/128);
+        Fri, 29 Nov 2019 03:27:51 -0800 (PST)
+From: "Saloni " <saloni@aplushitech.com>
+To: <mail@dorianvasco.de>
+Subject: 1st Page On Google
+Date: Fri, 29 Nov 2019 16:54:48 +0530
+Message-ID: <296cb01d5a6a8$08f2bce0$1ad836a0$@com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_296CC_01D5A6D6.22AAF8E0"
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-Index: AdWmf7OFsuaKQaXvRrGxVM7jG7n0eg==
+Content-Language: en-in
+X-Antivirus: Avast (VPS 191128-0, 28-11-2019), Outbound message
+X-Antivirus-Status: Clean
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_296CC_01D5A6D6.22AAF8E0
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+Hi,  
+
+I found your web contact email mail@dorianvasco.de. I would like to discuss
+a business opportunity with you.
+
+I hope you are doing well. I am Business Development Manager at an India
+based IT firm. We are the group of 100+experienced IT professionals who are
+into: Website Designing/Redesigning, Web Development, responsive websites,
+PHP development, e-commerce services, SEO Services, Content Writing Services
+and Mobile Applications development. 
+
+Our main services are listed here:
+
+A.      Full SEO package (with plan and activities)
+
+B.      SMO (Facebook, Twitter, LinkedIn, etc).
+
+C.      Website Designing Services.
+
+D.      Website Development Services    
+
+E.       Website Re-Designing Services
+
+F.       CMS website
+
+G.     iPhone and Android App Development
+
+H.      PPC (Pay per Click) 
+
+If you are interested in any of our services, please let us know your
+requirement. I would be happy to provide you our company information and a
+competitive quote. I look forward to your reply. 
+
+Note-:-Please Share your contact details (Skype ID or Phone Number) and let
+us know your convenient time for the call/call so our seniors can contact
+you directly for further discussion.
+
+
+
+Thanks & Regards 
+Saloni
+Business Consultant
+Services:- SEO | SMO | PPC |
+Website Design | Development | Mobile Application
+
+ 
+
+
+------=_NextPart_000_296CC_01D5A6D6.22AAF8E0
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40"><head><META =
+HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html; =
+charset=3Dus-ascii"><meta name=3DGenerator content=3D"Microsoft Word 12 =
+(filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:10.0pt;
+	margin-left:0cm;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{mso-style-priority:34;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:10.0pt;
+	margin-left:36.0pt;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, =
+div.MsoListParagraphCxSpFirst
+	{mso-style-priority:34;
+	mso-style-type:export-only;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, =
+div.MsoListParagraphCxSpMiddle
+	{mso-style-priority:34;
+	mso-style-type:export-only;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, =
+div.MsoListParagraphCxSpLast
+	{mso-style-priority:34;
+	mso-style-type:export-only;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:10.0pt;
+	margin-left:36.0pt;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+.MsoChpDefault
+	{mso-style-type:export-only;}
+.MsoPapDefault
+	{mso-style-type:export-only;
+	margin-bottom:10.0pt;
+	line-height:115%;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:72.0pt 72.0pt 72.0pt 72.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+/* List Definitions */
+@list l0
+	{mso-list-id:674651643;
+	mso-list-type:hybrid;
+	mso-list-template-ids:1675161412 67698689 67698691 67698693 67698689 =
+67698691 67698693 67698689 67698691 67698693;}
+@list l0:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:54.0pt;
+	text-indent:-18.0pt;
+	font-family:Symbol;}
+@list l1
+	{mso-list-id:1111781044;
+	mso-list-template-ids:-1205847804;}
+@list l1:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l2
+	{mso-list-id:1177617568;
+	mso-list-type:hybrid;
+	mso-list-template-ids:731140092 67698697 67698691 67698693 67698689 =
+67698691 67698693 67698689 67698691 67698693;}
+@list l2:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F076;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	font-family:Wingdings;}
+@list l3
+	{mso-list-id:1454860479;
+	mso-list-type:hybrid;
+	mso-list-template-ids:1170767234 1074331669 1074331673 1074331675 =
+1074331663 1074331673 1074331675 1074331663 1074331673 1074331675;}
+@list l3:level1
+	{mso-level-number-format:alpha-upper;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:54.0pt;
+	text-indent:-18.0pt;}
+ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DEN-IN><div =
+class=3DWordSection1><p class=3DMsoNormal><strong><span lang=3DEN-US =
+style=3D'font-family:"Calibri","sans-serif";color:#002060;font-weight:nor=
+mal'>Hi,&nbsp;</span></strong><span lang=3DEN-US =
+style=3D'color:#002060'> <o:p></o:p></span></p><p =
+class=3DMsoNormal><strong><span lang=3DEN-US =
+style=3D'font-family:"Calibri","sans-serif";color:#002060;font-weight:nor=
+mal'>I found your web contact email </span></strong><span lang=3DEN-US =
+style=3D'color:#002060'>mail@dorianvasco.de</span><strong><span =
+lang=3DEN-US =
+style=3D'font-family:"Calibri","sans-serif";color:#002060;font-weight:nor=
+mal'>. I would like to discuss a business opportunity with =
+you.<o:p></o:p></span></strong></p><p class=3DMsoNormal><strong><span =
+lang=3DEN-US =
+style=3D'font-family:"Calibri","sans-serif";color:#002060;font-weight:nor=
+mal'>I hope you are doing well. I am Business Development Manager at an =
+India based IT firm. We are the group of 100+experienced IT =
+professionals who are into: Website Designing/Redesigning, Web =
+Development, responsive websites, PHP development, e-commerce services, =
+SEO Services, Content Writing Services and Mobile Applications =
+development.&nbsp;<o:p></o:p></span></strong></p><p =
+class=3DMsoNormal><strong><span lang=3DEN-US =
+style=3D'font-family:"Calibri","sans-serif";color:#002060;font-weight:nor=
+mal'>Our main services are listed here:<o:p></o:p></span></strong></p><p =
+class=3DMsoListParagraphCxSpFirst =
+style=3D'margin-left:54.0pt;text-indent:-18.0pt;mso-list:l3 level1 =
+lfo4'><![if !supportLists]><span lang=3DEN-US =
+style=3D'color:#002060'><span style=3D'mso-list:Ignore'>A.<span =
+style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =
+</span></span></span><![endif]><span lang=3DEN-US =
+style=3D'color:#002060'>Full SEO package (with plan and =
+activities)</span><span lang=3DEN-US =
+style=3D'color:#002060'><o:p></o:p></span></p><p =
+class=3DMsoListParagraphCxSpMiddle =
+style=3D'margin-left:54.0pt;text-indent:-18.0pt;mso-list:l3 level1 =
+lfo4'><![if !supportLists]><span lang=3DEN-US =
+style=3D'color:#002060'><span style=3D'mso-list:Ignore'>B.<span =
+style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =
+</span></span></span><![endif]><span lang=3DEN-US =
+style=3D'color:#002060'>SMO (Facebook, Twitter, LinkedIn, =
+etc).</span><span lang=3DEN-US =
+style=3D'color:#002060'><o:p></o:p></span></p><p =
+class=3DMsoListParagraphCxSpMiddle =
+style=3D'margin-left:54.0pt;text-indent:-18.0pt;mso-list:l3 level1 =
+lfo4'><![if !supportLists]><span lang=3DEN-US =
+style=3D'color:#002060'><span style=3D'mso-list:Ignore'>C.<span =
+style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =
+</span></span></span><![endif]><span lang=3DEN-US =
+style=3D'color:#002060'>Website Designing Services.</span><span =
+lang=3DEN-US style=3D'color:#002060'><o:p></o:p></span></p><p =
+class=3DMsoListParagraphCxSpMiddle =
+style=3D'margin-left:54.0pt;text-indent:-18.0pt;mso-list:l3 level1 =
+lfo4'><![if !supportLists]><span lang=3DEN-US =
+style=3D'color:#002060'><span style=3D'mso-list:Ignore'>D.<span =
+style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =
+</span></span></span><![endif]><span lang=3DEN-US =
+style=3D'color:#002060'>Website Development Services&nbsp;&nbsp;&nbsp; =
+</span><span lang=3DEN-US =
+style=3D'color:#002060'><o:p></o:p></span></p><p =
+class=3DMsoListParagraphCxSpMiddle =
+style=3D'margin-left:54.0pt;text-indent:-18.0pt;mso-list:l3 level1 =
+lfo4'><![if !supportLists]><span lang=3DEN-US =
+style=3D'color:#002060'><span style=3D'mso-list:Ignore'>E.<span =
+style=3D'font:7.0pt "Times New =
+Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =
+</span></span></span><![endif]><span lang=3DEN-US =
+style=3D'color:#002060'>Website Re-Designing Services</span><span =
+lang=3DEN-US style=3D'color:#002060'><o:p></o:p></span></p><p =
+class=3DMsoListParagraphCxSpMiddle =
+style=3D'margin-left:54.0pt;text-indent:-18.0pt;mso-list:l3 level1 =
+lfo4'><![if !supportLists]><span lang=3DEN-US =
+style=3D'color:#002060'><span style=3D'mso-list:Ignore'>F.<span =
+style=3D'font:7.0pt "Times New =
+Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =
+</span></span></span><![endif]><span lang=3DEN-US =
+style=3D'color:#002060'>CMS website</span><span lang=3DEN-US =
+style=3D'color:#002060'><o:p></o:p></span></p><p =
+class=3DMsoListParagraphCxSpMiddle =
+style=3D'margin-left:54.0pt;text-indent:-18.0pt;mso-list:l3 level1 =
+lfo4'><![if !supportLists]><span lang=3DEN-US =
+style=3D'color:#002060'><span style=3D'mso-list:Ignore'>G.<span =
+style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; =
+</span></span></span><![endif]><span lang=3DEN-US =
+style=3D'color:#002060'>iPhone and Android App =
+Development<o:p></o:p></span></p><p class=3DMsoListParagraphCxSpLast =
+style=3D'margin-left:54.0pt;text-indent:-18.0pt;mso-list:l3 level1 =
+lfo4'><![if !supportLists]><span lang=3DEN-US =
+style=3D'color:#002060'><span style=3D'mso-list:Ignore'>H.<span =
+style=3D'font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =
+</span></span></span><![endif]><span lang=3DEN-US =
+style=3D'color:#002060'>PPC (Pay per Click)<strong><span =
+style=3D'font-family:"Calibri","sans-serif";font-weight:normal'>&nbsp;</s=
+pan></strong></span><span lang=3DEN-US =
+style=3D'color:#002060'><o:p></o:p></span></p><p =
+class=3DMsoNormal><strong><span lang=3DEN-US =
+style=3D'font-family:"Calibri","sans-serif";color:#002060;font-weight:nor=
+mal'>If you are interested in any of our services, please let us know =
+your requirement. I would be happy to provide you our company =
+information and a competitive quote. I look forward to your =
+reply.&nbsp;<br><br>Note-:-Please Share your contact details (Skype ID =
+or Phone Number) and let us know your convenient time for the call/call =
+so our seniors can contact you directly for further =
+discussion.<br><br></span></strong><span lang=3DEN-US =
+style=3D'color:#002060'><o:p></o:p></span></p><p =
+class=3DMsoNormal><strong><span lang=3DEN-US =
+style=3D'font-family:"Calibri","sans-serif";color:#002060;font-weight:nor=
+mal'>Thanks &amp; Regards <br>Saloni<br>Business =
+Consultant<br>Services:- SEO | SMO | PPC |<br>Website Design | =
+Development | Mobile Application<o:p></o:p></span></strong></p><p =
+class=3DMsoNormal><span =
+lang=3DEN-US><o:p>&nbsp;</o:p></span></p></div></body></html>
+------=_NextPart_000_296CC_01D5A6D6.22AAF8E0--
+

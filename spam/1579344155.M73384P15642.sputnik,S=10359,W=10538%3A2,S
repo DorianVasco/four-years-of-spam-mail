@@ -1,0 +1,179 @@
+Return-Path: <sanket@advids-studio.com>
+Delivered-To: mail@stilfilm.com
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id CEBB3C2D23
+	for <mail@stilfilm.com>; Sun, 30 Apr 2017 02:49:21 +0200 (CEST)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 7.776
+X-Spam-Level: *******
+X-Spam-Status: Yes, score=7.776 required=5.5 tests=[BAYES_50=0.8,
+	DKIM_SIGNED=0.1, DKIM_VALID=-0.1, HTML_MESSAGE=0.001,
+	RAZOR2_CF_RANGE_51_100=0.5, RAZOR2_CF_RANGE_E8_51_100=1.886,
+	RAZOR2_CHECK=0.922, RCVD_IN_DNSWL_NONE=-0.0001,
+	RCVD_IN_SORBS_SPAM=0.5, SPF_SOFTFAIL=0.665, UNPARSEABLE_RELAY=0.001,
+	URIBL_BLOCKED=0.001, URIBL_DBL_SPAM=2.5] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id LbplIkx7YoYg for <mail@stilfilm.com>;
+	Sun, 30 Apr 2017 02:49:20 +0200 (CEST)
+Received: from mail-it0-f51.google.com (mail-it0-f51.google.com [209.85.214.51])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id C291AC1742
+	for <DNagel@stilfilm.com>; Sun, 30 Apr 2017 02:49:19 +0200 (CEST)
+Received: by mail-it0-f51.google.com with SMTP id 70so59721004ita.0
+        for <DNagel@stilfilm.com>; Sat, 29 Apr 2017 17:49:19 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=advids-studio-com.20150623.gappssmtp.com; s=20150623;
+        h=mime-version:sender:from:reply-to:date:message-id:subject:to;
+        bh=4yQtmeJXJOII+9RGns1AD2U06BC9Xg+Ioiub7SuU9Iw=;
+        b=G0Tr0fKhcWqSYDDRtLJRpPd7MhmUup/FtdDDlGp4PJN0NFsV2cc8X7OX+SWzaoNI4c
+         DJSo9Bu8/t+HI6U+F+K1jXJTYroZ+Tt/8/mrnbMuc57HVr6B5DJq75YfXQ1fgjVnbAYK
+         jEjur1YME2/SrqCjqdM5MnW2IDQ3wP/EhcFiU8BS0Z4Gz3SNwkYeN63cKKZ3aA6BFpEE
+         60lZUyvSoVg4PbytDX4bsQs2PeOPl7thv/Rpukjn8barpjWZeWuLiTmxY8KqLTKyAqgy
+         fDcRWHGr1O0iQCTc1QAJ0tb8ediy3cVr3CGqERsbmtHW32GkSyajggWQ/NZLfixLRyQK
+         Nb7w==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:sender:from:reply-to:date
+         :message-id:subject:to;
+        bh=4yQtmeJXJOII+9RGns1AD2U06BC9Xg+Ioiub7SuU9Iw=;
+        b=TuhpXG8SH4TDpbIKsL/Lsx2+UKHcEBxHkqLtx4tZ61qXniUrZsn7lRVAEBagdw9ifU
+         L36qvsFSNxLb1etrn96EGIpJSikwPPFBJPiD07VGYi0tnKamicWewqzuNlWjcy0iHcEM
+         nEp+Pkj9HjDfLVJV0MPcxAXFzSj+R76n3bKDo13ee7dszASQhKmM/6M/zbxcQrraN3Nd
+         rXAWlBSCLnptSvrer9Cp8IaXlzMeo7YRHZr1yGyq6ZJj5dJy6CTG6KqtyUEQhQ5YH4/K
+         KYTv1Ox+2+GJIcuBAZQcCkXH8TFudYp/K7I0fkcSqx8Py5OdVA7uU070YQhlI5xGXaBJ
+         x8ag==
+X-Gm-Message-State: AN3rC/5UqiNlSpLD/DxveXZxl6sEQb8gd6yiFOkwEwMdkSzCpNCvPz7w
+	IXvZVzFrQimY2VTi0Moq7zzlBAsprMdr
+X-Received: by 10.36.173.70 with SMTP id a6mr473757itj.63.1493513358306; Sat,
+ 29 Apr 2017 17:49:18 -0700 (PDT)
+Received: from 223404411203 named unknown by gmailapi.google.com with
+ HTTPREST; Sat, 29 Apr 2017 17:49:17 -0700
+MIME-Version: 1.0
+Sender: Sanket A <sanket@advids-studio.com>
+From: Sanket A <sanket@advids-studio.com>
+Reply-To: sanket@advids-studio.com
+Date: Sat, 29 Apr 2017 17:49:17 -0700
+X-Google-Sender-Auth: 2uOU5HIlqPRLY0HaifEja8DN9hA
+Message-ID: <CA+ENu5NO8b9TCj5MBgB0sYVpWPWXcyScXieX89C5GYK9RypuBg@mail.gmail.com>
+Subject: ***SPAM*** Videos For Stilfilm
+To: DNagel@stilfilm.com
+Content-Type: multipart/alternative; boundary=94eb2c1fc29c308b2b054e57adbb
+
+--94eb2c1fc29c308b2b054e57adbb
+Content-Type: text/plain; charset=UTF-8
+
+Hi Dorian-Vasco, My name is Sanket and I'm Producer at Advids
+<http://advidsagency.com/>.
+
+We are a Video Content creation solution that helps businesses create
+videos easily. I would like to invite you to checkout Advids
+<http://advidsagency.com/>.
+
+Please review how you can easily produce quality videos to show or
+communicate more about Stilfilm. Would love to share details about the cost
+and sample videos we have created in similar industry. I look forward to
+hear your thoughts and ideas on creating video content.
+
+Thanks,
+
+Sanket
+Director & Producer
+
+Video Creation made easy
+
+PH +1 650-515-3363
+
+
+unsubscribe <http://unrolladvids.website/>
+
+--94eb2c1fc29c308b2b054e57adbb
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><p dir=3D"ltr" style=3D"font-size:12.8px;margin-top:0pt;ma=
+rgin-bottom:0pt"><font face=3D"trebuchet ms, sans-serif"><font style=3D"lin=
+e-height:1.38"><span style=3D"vertical-align:baseline;white-space:pre-wrap;=
+background-color:transparent">H</span><span style=3D"vertical-align:baselin=
+e;white-space:pre-wrap;background-color:transparent">i </span></font><span =
+style=3D"color:rgb(0,0,0);vertical-align:baseline;white-space:pre-wrap;back=
+ground-color:transparent">Dorian-Vasco</span><span style=3D"vertical-align:=
+baseline;white-space:pre-wrap;background-color:transparent">,
+</span><span style=3D"vertical-align:baseline;white-space:pre-wrap;backgrou=
+nd-color:transparent">
+<span style=3D"line-height:1.38">My name is Sanket </span></span></font><sp=
+an style=3D"font-family:&quot;trebuchet ms&quot;,sans-serif;font-size:12.8p=
+x;background-color:transparent;vertical-align:baseline;white-space:pre-wrap=
+"><span style=3D"line-height:1.38">and I&#39;m Producer at </span></span><a=
+ href=3D"http://advidsagency.com/" style=3D"font-family:&quot;trebuchet ms&=
+quot;,sans-serif;font-size:12.8px;line-height:1.38;text-decoration-line:non=
+e" target=3D"_blank"><span style=3D"text-decoration-line:underline;vertical=
+-align:baseline;white-space:pre-wrap;background-color:transparent">Advids</=
+span></a><span style=3D"font-family:&quot;trebuchet ms&quot;,sans-serif;fon=
+t-size:12.8px;background-color:transparent;line-height:1.38;vertical-align:=
+baseline;white-space:pre-wrap">.</span></p><span class=3D"gmail-m_473847876=
+0091742381gmail-im" style=3D"font-size:12.8px"><p dir=3D"ltr" style=3D"font=
+-size:12.8px;margin-top:0pt;margin-bottom:0pt"><font face=3D"trebuchet ms, =
+sans-serif"><span style=3D"line-height:1.38;vertical-align:baseline;white-s=
+pace:pre-wrap;background-color:transparent">
+We are a Video Content creation solution that helps businesses create video=
+s easily. I would like to invite you to checkout </span><a href=3D"http://a=
+dvidsagency.com/" style=3D"line-height:1.38;text-decoration-line:none" targ=
+et=3D"_blank"><span style=3D"text-decoration-line:underline;vertical-align:=
+baseline;white-space:pre-wrap;background-color:transparent">Advids</span></=
+a><span style=3D"line-height:1.38;vertical-align:baseline;white-space:pre-w=
+rap;background-color:transparent">.</span></font></p><p dir=3D"ltr" style=
+=3D"font-size:12.8px;line-height:1.38;margin-top:0pt;margin-bottom:0pt"><fo=
+nt face=3D"trebuchet ms, sans-serif"><span style=3D"vertical-align:baseline=
+;white-space:pre-wrap;background-color:transparent">
+</span></font></p><p dir=3D"ltr" style=3D"font-size:12.8px;line-height:1.38=
+;margin-top:0pt;margin-bottom:0pt"><font face=3D"trebuchet ms, sans-serif">=
+<span style=3D"vertical-align:baseline;white-space:pre-wrap;background-colo=
+r:transparent">Please review how you can easily produce quality videos to s=
+how or communicate more about </span><span style=3D"color:rgb(0,0,0);line-h=
+eight:17.48px;white-space:pre-wrap">Stilfilm</span><span style=3D"white-spa=
+ce:pre-wrap;line-height:1.38;background-color:transparent">.
+</span><span style=3D"line-height:1.38;white-space:pre-wrap;background-colo=
+r:transparent">
+Would love to share details about the cost and sample videos we have create=
+d in similar industry. I look forward to hear your thoughts and ideas on cr=
+eating video content.</span></font></p><p dir=3D"ltr" style=3D"font-size:12=
+.8px;line-height:1.38;margin-top:0pt;margin-bottom:0pt"><font face=3D"trebu=
+chet ms, sans-serif"><span style=3D"vertical-align:baseline;white-space:pre=
+-wrap;background-color:transparent">
+</span><span style=3D"line-height:17.48px;white-space:pre-wrap;background-c=
+olor:transparent">Thanks,<font face=3D"arial, sans-serif">
+
+</font></span></font></p></span><p style=3D"font-size:12.8px;line-height:1.=
+38;margin-top:0pt;margin-bottom:0pt"><font face=3D"trebuchet ms, sans-serif=
+"><span style=3D"white-space:pre-wrap">Sanket</span></font></p><div class=
+=3D"gmail-m_4738478760091742381gmail-yj6qo gmail-m_4738478760091742381gmail=
+-ajU" style=3D"margin:2px 0px 0px;font-size:12.8px"><div id=3D"gmail-m_4738=
+478760091742381gmail-:aq" class=3D"gmail-m_4738478760091742381gmail-ajR"><i=
+mg class=3D"gmail-m_4738478760091742381gmail-ajT" src=3D"https://ssl.gstati=
+c.com/ui/v1/icons/mail/images/cleardot.gif"><span style=3D"font-family:&quo=
+t;trebuchet ms&quot;,sans-serif;background-color:transparent;white-space:pr=
+e-wrap;font-size:12.8px">Director &amp; Producer</span></div></div><div cla=
+ss=3D"gmail-m_4738478760091742381gmail-adL" style=3D"font-size:12.8px"><spa=
+n class=3D"gmail-m_4738478760091742381gmail-im"><p dir=3D"ltr" style=3D"fon=
+t-size:12.8px;line-height:1.38;margin-top:0pt;margin-bottom:0pt"><span styl=
+e=3D"vertical-align:baseline;white-space:pre-wrap;background-color:transpar=
+ent"><font face=3D"trebuchet ms, sans-serif">Video Creation made easy</font=
+></span></p><p dir=3D"ltr" style=3D"font-size:12.8px;line-height:1.38;margi=
+n-top:0pt;margin-bottom:0pt"><span style=3D"vertical-align:baseline;white-s=
+pace:pre-wrap;background-color:transparent"><font face=3D"trebuchet ms, san=
+s-serif">PH +1 650-515-3363</font></span></p><p dir=3D"ltr" style=3D"font-s=
+ize:12.8px;line-height:1.38;margin-top:0pt;margin-bottom:0pt"><span style=
+=3D"vertical-align:baseline;white-space:pre-wrap;background-color:transpare=
+nt"><font face=3D"trebuchet ms, sans-serif"><br></font></span></p><p dir=3D=
+"ltr" style=3D"font-size:12.8px;line-height:1.38;margin-top:0pt;margin-bott=
+om:0pt"><span style=3D"vertical-align:baseline;white-space:pre-wrap;backgro=
+und-color:transparent"><a href=3D"http://unrolladvids.website/" target=3D"_=
+blank" style=3D"font-size:12.8px;font-family:&quot;trebuchet ms&quot;,sans-=
+serif;line-height:normal;text-decoration-line:none"><font color=3D"#000000"=
+ size=3D"1">unsubscribe</font></a><font face=3D"trebuchet ms, sans-serif"><=
+br></font></span></p></span></div></div>
+
+--94eb2c1fc29c308b2b054e57adbb--

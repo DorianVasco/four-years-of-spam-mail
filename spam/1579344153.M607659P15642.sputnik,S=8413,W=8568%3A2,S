@@ -1,0 +1,155 @@
+Return-Path: <james@eeecos.org>
+Delivered-To: mail@stilfilm.com
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id BA44ED2997
+	for <mail@stilfilm.com>; Wed, 22 Feb 2017 06:32:29 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 3.583
+X-Spam-Level: ***
+X-Spam-Status: Yes, score=3.583 required=2 tests=[BAYES_50=0.8,
+	DKIM_SIGNED=0.1, HTML_MESSAGE=0.001, PYZOR_CHECK=1.392,
+	RCVD_IN_SORBS_SPAM=0.5, SPF_NEUTRAL=0.779, T_DKIM_INVALID=0.01,
+	URIBL_BLOCKED=0.001] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.yourvserver.net [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id IxJTqm63tVUR for <mail@stilfilm.com>;
+	Wed, 22 Feb 2017 06:32:27 +0100 (CET)
+Received: from mail-vk0-f42.google.com (mail-vk0-f42.google.com [209.85.213.42])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id DC61BD26DA
+	for <mail@stilfilm.com>; Wed, 22 Feb 2017 06:32:26 +0100 (CET)
+Received: by mail-vk0-f42.google.com with SMTP id r136so564496vke.1
+        for <mail@stilfilm.com>; Tue, 21 Feb 2017 21:32:27 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=eeecos.org; s=google;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=9u/6ZZqnrm0mpC+En7wP0tQmQmqlhfl4cVfwZy5qcH0=;
+        b=f1l2yrfGTQ60Irv/OW6+kQ/HJwC6aEYYxFwTYny6mR6/73a85C0/eCLGHDMILOoMxE
+         QKdrVv71T3cLgGCRcIUe3e3hHQINtCIbf2NNTlcYZIJNYeZ/qlWbDaNRyuL3fs+JIvDk
+         viNCJgyfvSzbZF3hGktj/isyxqJf1fLFecPGI=
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=9u/6ZZqnrm0mpC+En7wP0tQmQmqlhfl4cVfwZy5qcH0=;
+        b=kYjWfdF9lB1e1OC0JrswZjuJWgTWK1GoJu5YmcPpHM5cFJhS8sqa71czGDAXVMsP25
+         1gkayeG29vvUKWxxWVwoLxHb+GvkFAjVREUPSksB+HneAD4gvSBYd+EXLCjgu4vJ2cbM
+         mck/+B+RqHy/MFFzSVtt7t0+kH97Qb66VvxbHZhPyEUuLtYRnJ0kZx8mmLxzUmd8PHTz
+         pdjF7PIFgaNjUnl3gVJ8U/dze2dKDx6OalVpuyHiFxaoTWoF1/rSJ4X3eEO4e/124y/8
+         cCl8/uOmi1RG/KOBNYwdfCzbXhniRy+QpDScj1iuX6YaQR3k6lUwi6cSMdDuq/xmhnPt
+         apag==
+X-Gm-Message-State: AMke39lOuDlm9eus6b0rJQ0JzrBkbvnSe3qkTstLArNy/6xWkft+LWxlP9bITWmXGB5oGN0mtYfYux+PseFg1npAGWly+9YHjWTYX2+1Lxr/eSQAqscju4STSXiOiyNxSMXPlinF14nDKw==
+X-Received: by 10.31.132.212 with SMTP id g203mr12197451vkd.93.1487741546208;
+ Tue, 21 Feb 2017 21:32:26 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.103.77.75 with HTTP; Tue, 21 Feb 2017 21:32:25 -0800 (PST)
+From: James J <james@eeecos.org>
+Date: Wed, 22 Feb 2017 11:02:25 +0530
+Message-ID: <CAKr=X-aVA7qVxuR8v0p3JYt836CKRypFTNtDMja5QL9CxqKs=g@mail.gmail.com>
+Subject: ***SPAM*** 
+To: fcsptc@outlook.com
+Content-Type: multipart/alternative; boundary=001a1144f108613a88054917d251
+
+--001a1144f108613a88054917d251
+Content-Type: text/plain; charset=UTF-8
+
+*RESPECTED SCHOLARS:*
+
+We glad to inform you that  *Ramachandra College of Engineering*  is organizing
+an International conference with proceedings of AIP.
+
+CONFERENCE WILL BE PUBLISHED BY *AIP:  PROCEEDINGS (SCOPUS INDEXED)*
+
+*LAST DATE OF PAPER SUBMISSION HAS BEEN EXTENDED TO 23RD FEB. 2017*
+
+For full details:  http://ow.ly/8sWn309eFOA
+
+-- 
+
+------------------------------
+*Disclaimer: *This email and any file(s) transmitted with it are 
+confidential and intended solely for the use of the individual or entity to 
+whom they are addressed. This message contains confidential information and 
+is intended only for the individual named. If you are not the named 
+addressee you should not disseminate, distribute or copy this e-mail. 
+Please notify the sender immediately by e-mail if you have received this 
+e-mail by mistake and delete this e-mail from your system. If you are not 
+the intended recipient you are notified that disclosing, copying, 
+distributing or taking any action in reliance on the contents of this 
+information is strictly prohibited.
+------------------------------
+
+--001a1144f108613a88054917d251
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><p class=3D"MsoNormal"><b><span style=3D"font-family:arial=
+,sans-serif">RESPECTED
+SCHOLARS:<span></span></span></b></p>
+
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;times new roman&quo=
+t;,serif">We glad to inform you that<b>=C2=A0 </b></span><b><u><span style=
+=3D"font-family:&quot;times new roman&quot;,serif;color:rgb(112,48,160)">Ra=
+machandra College of Engineering</span></u></b><b><span style=3D"font-famil=
+y:&quot;times new roman&quot;,serif">=C2=A0 </span></b><span style=3D"font-=
+family:&quot;times new roman&quot;,serif">is<b> </b>organizing an Internati=
+onal
+conference with proceedings of AIP.<span></span></span></p>
+
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;times new roman&quo=
+t;,serif;color:rgb(0,112,192)">CONFERENCE</span><span style=3D"font-family:=
+&quot;times new roman&quot;,serif;color:rgb(0,112,192)"> WILL BE PUBLISHED
+BY <b>AIP:=C2=A0
+PROCEEDINGS (SCOPUS INDEXED)<span></span></b></span></p>
+
+<p class=3D"MsoNormal"><b><span style=3D"font-family:&quot;times new roman&=
+quot;,serif;color:red">LAST DATE OF PAPER
+SUBMISSION HAS BEEN EXTENDED TO 23<sup>RD</sup> FEB. 2017</span></b><span s=
+tyle=3D"font-family:&quot;times new roman&quot;,serif;color:red"><span></sp=
+an></span></p>
+
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;times new roman&quo=
+t;,serif">For full details: =C2=A0<a href=3D"http://ow.ly/8sWn309eFOA">http=
+://ow.ly/8sWn309eFOA</a><span></span></span></p>
+
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;times new roman&quo=
+t;,serif"><span>=C2=A0</span></span></p>
+
+<p class=3D"MsoNormal"><b>=C2=A0</b></p></div>
+
+<br>
+<b style=3D"font-style:normal;font-variant:normal;letter-spacing:normal;lin=
+e-height:normal;text-align:start;text-indent:0px;text-transform:none;white-=
+space:normal;word-spacing:0px;color:rgb(0,0,0);font-family:Arial,Helvetica,=
+sans-serif;font-size:13px;background-color:rgb(255,255,255)"><span style=3D=
+"font-size:12pt;line-height:18.4px;font-family:&#39;Times New Roman&#39;,se=
+rif;color:rgb(34,34,34);background-image:initial;background-repeat:initial"=
+ lang=3D"EN-IN"></span></b><hr><b style=3D"font-style:normal;font-variant:n=
+ormal;letter-spacing:normal;line-height:normal;text-align:start;text-indent=
+:0px;text-transform:none;white-space:normal;word-spacing:0px;color:rgb(0,0,=
+0);font-family:Arial,Helvetica,sans-serif;font-size:13px;background-color:r=
+gb(255,255,255)"><span style=3D"font-size:12pt;line-height:18.4px;font-fami=
+ly:&#39;Times New Roman&#39;,serif;color:rgb(34,34,34);background-image:ini=
+tial;background-repeat:initial" lang=3D"EN-IN">Disclaimer:=C2=A0</span></b>=
+<span style=3D"color:rgb(34,34,34);font-style:normal;font-variant:normal;fo=
+nt-weight:normal;letter-spacing:normal;text-align:start;text-indent:0px;tex=
+t-transform:none;white-space:normal;word-spacing:0px;font-size:12pt;line-he=
+ight:18.4px;font-family:&#39;Times New Roman&#39;,serif;background-image:in=
+itial;background-color:rgb(255,255,255);background-repeat:initial" lang=3D"=
+EN-IN">This email and any file(s) transmitted with it are confidential and =
+intended solely for the use of the individual or entity to whom they are ad=
+dressed. This message contains confidential information and is intended onl=
+y for the individual named. If you are not the named addressee you should n=
+ot disseminate, distribute or copy this e-mail. Please notify the sender im=
+mediately by e-mail if you have received this e-mail by mistake and delete =
+this e-mail from your system. If you are not the intended recipient you are=
+ notified that disclosing, copying, distributing or taking any action in re=
+liance on the contents of this information is strictly prohibited.</span><h=
+r><span style=3D"color:rgb(34,34,34);font-style:normal;font-variant:normal;=
+font-weight:normal;letter-spacing:normal;text-align:start;text-indent:0px;t=
+ext-transform:none;white-space:normal;word-spacing:0px;font-size:12pt;line-=
+height:18.4px;font-family:&#39;Times New Roman&#39;,serif;background-image:=
+initial;background-color:rgb(255,255,255);background-repeat:initial" lang=
+=3D"EN-IN"></span>
+--001a1144f108613a88054917d251--

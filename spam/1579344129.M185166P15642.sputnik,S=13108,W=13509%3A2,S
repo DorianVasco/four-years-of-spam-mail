@@ -1,0 +1,401 @@
+Return-Path: <bounce@holdonh.com>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 68063D34F7
+	for <mail@dorianvasco.de>; Tue,  9 May 2017 18:52:57 +0200 (CEST)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 10.385
+X-Spam-Level: **********
+X-Spam-Status: Yes, score=10.385 required=5.5 tests=[BAYES_50=0.8,
+	DATE_IN_PAST_06_12=1.543, DIGEST_MULTIPLE=0.293, DKIM_SIGNED=0.1,
+	DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1, HTML_IMAGE_RATIO_06=0.001,
+	HTML_MESSAGE=0.001, PYZOR_CHECK=1.392, RAZOR2_CF_RANGE_51_100=0.5,
+	RAZOR2_CF_RANGE_E8_51_100=1.886, RAZOR2_CHECK=0.922,
+	RCVD_IN_BRBL_LASTEXT=1.449, RP_MATCHES_RCVD=-0.001,
+	SPF_HELO_PASS=-0.001, SPF_PASS=-0.001, URIBL_BLACK=1.7,
+	URIBL_BLOCKED=0.001] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id GzB8g3RHRPIB for <mail@dorianvasco.de>;
+	Tue,  9 May 2017 18:52:55 +0200 (CEST)
+Received: from mta4.holdonh.com (mta4.holdonh.com [217.182.157.34])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id E1033C17AF
+	for <kontakt@dorianvasco.de>; Tue,  9 May 2017 18:52:55 +0200 (CEST)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=default; d=holdonh.com;
+ h=To:Subject:Message-ID:Date:From:Reply-To:MIME-Version:List-Unsubscribe:Content-Type:Content-Transfer-Encoding; i=info@holdonh.com;
+ bh=u5W0iehxDmP1FdAhkWxQtF2A4MI=;
+ b=FsspDtg0mI2jFNkbSi8QXywEdqKSuuDVGuahdji0Ey+SfsRyMymAfJtZmimOxTgGXxT4Ab2Xxhb7
+   pgH8KNElxbG/lYeLmA1MNEf/TSnknfr/SQgb5CZpU/5jMfn7oH0IG6J5cL9fAK9mfjzUpBPelYiq
+   xA/3VUhbZZgaStyY0Y5PEDPsyyVeKzY6ZNigM8MTGKMHEbuZ6/H+DsUWDlZPXEWO2HAL4Akj0axl
+   OrVZuAAMoeW0GkDzpOORl9HaVdia0DFHMAHCsJDwPqsElpaZhFyTlfFavM7j5OcDcRiVlnMb6eX6
+   nThuVD2p6JJi1ZgIzcuY3+wcFBZznMLxA1bshw==
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=default; d=holdonh.com;
+ b=MGaI2NVr3tM9qdDd7xE1HdxyVaqs68yb62h4l8msYvGY7N9BBD9WPz2vSzGy7NNbvNjqx2VyrFGO
+   ve4pu/hQTxpy05O/Jv+tSa7cfcv9UPGM9oFUwryFYNkX3qHv+IEOOxYpwoC2PNK+3TH/zmTkawhS
+   Z5BREXJmq1OGvC6o0vJfRDNlBk9RELwm+Xefokj5oZ90BelLyb0M4EvUZvjP1+fF422MQEZPe8v3
+   hY1o8x5I9YOI2gP43P0Uur93m7NUMLYZ8WjFzcVQN5lqmVNxhCRPWnh5i8kwrzfeSMT6iRcmSnCK
+   dSR0nFX/FBMUCqRVXmdgaXIIUZuxGKcS/PsezA==;
+To: kontakt@dorianvasco.de
+Subject: ***SPAM***
+	=?UTF-8?B?RXhjbHVzaXYgZsO8ciBBbGRpIEt1bmRlbiAtIDUwMOKCrCBHdXRzY2hlaW4gZsO8ciBTaWU=?=
+Message-ID: <ac51746c3a143ac386e930853f078e5d@holdonh.com>
+Date: Tue, 09 May 2017 07:57:15 +0000
+From: "Anna, ALDI Informationen" <info@holdonh.com>
+Reply-To: info@holdonh.com
+MIME-Version: 1.0
+X-Mailer-LID: 5
+List-Unsubscribe: <http://holdonh.com/unsubscribe.php?M=388114&C=039fce629ba94b50d34734a8e4c0d2e0&L=5&N=41>
+X-Mailer-RecptId: 388114
+X-Mailer-SID: 41
+X-Mailer-Sent-By: 1
+Content-Type: multipart/alternative; charset="UTF-8"; boundary="b1_5c0edf69318dc33ce3108661452dd788"
+Content-Transfer-Encoding: 8bit
+
+--b1_5c0edf69318dc33ce3108661452dd788
+Content-Type: text/plain; format=flowed; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+Your email client cannot read this email.
+To view it online, please go here:
+http://holdonh.com/display.php?M=388114&C=039fce629ba94b50d34734a8e4c0d2e0&S=41&L=5&N=9
+supermarket
+Hallo ,
+Wir geben Ihnen die Chance, einen unserer kostenlosen Gutscheine zu
+gewinnen. Sie wurden als einer der potenziellen Gewinner ausgewählt! Wir
+haben einen persönlichen Code für Sie erstellt, mit dem Sie überprüfen
+können, ob Sie gewonnen haben.
+Jetzt teilnehmen! →
+Ihr persönlicher Code:
+ALDI2017-507368472
+Dieser Code wurde mit Ihrer E-Mail-Adresse verknüpft:
+kontakt@dorianvasco.de
+Klicken Sie hier, um zu bestätigen! →
+
+
+
+
+Wenn sie uns kontaktieren möchten, benutzen sie bitte die e-mail: wse .
+promo @ tutanota . com
+[Datenbankbesitzer]
+(WSE partner) Kurfürstendamm 21, 7. Etage, 10719 Berlin
+
+Wenn Sie möchten sich abmelden , bitte
+Klick hier
+
+
+
+
+
+
+To stop receiving these
+emails:http://holdonh.com/unsubscribe.php?M=388114&C=039fce629ba94b50d34734a8e4c0d2e0&L=5&N=41
+
+--b1_5c0edf69318dc33ce3108661452dd788
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<title>aldi</title>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<title>aldi</title>
+<!--
+
+An email present from your friends at Litmus (@litmusapp)
+
+Email is surprisingly hard. While this has been thoroughly tested, your
+mileage may vary.
+It's highly recommended that you test using a service like Litmus
+(http://litmus.com) and your own devices.
+
+Enjoy!
+
+-->
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<style type="text/css">
+/* CLIENT-SPECIFIC STYLES */
+#outlook a{padding:0;} /* Force Outlook to provide a "view in browser"
+message */
+ .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to
+display emails at full width */
+ .ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass
+font, .ExternalClass td, .ExternalClass div {line-height: 100%;} /* Force
+Hotmail to display normal line spacing */
+body, table, td, a{-webkit-text-size-adjust:100%;
+-ms-text-size-adjust:100%;} /* Prevent WebKit and Windows mobile changing
+default text sizes */
+table, td{mso-table-lspace:0pt; mso-table-rspace:0pt;} /* Remove spacing
+between tables in Outlook 2007 and up */
+img{-ms-interpolation-mode:bicubic;} /* Allow smoother rendering of resized
+image in Internet Explorer */
+
+/* RESET STYLES */
+body{margin:0; padding:0;}
+img{border:0; height:auto; line-height:100%; outline:none;
+text-decoration:none;}
+table{border-collapse:collapse !important;}
+body{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+/* iOS BLUE LINKS */
+ .appleBody a {color:#68440a; text-decoration: none;}
+ .appleFooter a {color:#999999; text-decoration: none;}
+
+/* MOBILE STYLES */
+@media screen and (max-width: 525px) {
+
+/* ALLOWS FOR FLUID TABLES */
+table[class="wrapper"]{
+width:100% !important;
+}
+
+/* ADJUSTS LAYOUT OF LOGO IMAGE */
+td[class="logo"]{
+text-align: left;
+padding: 20px 0 20px 0 !important;
+}
+
+td[class="logo"] img{
+margin:0 auto!important;
+}
+
+/* USE THESE CLASSES TO HIDE CONTENT ON MOBILE */
+td[class="mobile-hide"]{
+display:none;}
+
+img[class="mobile-hide"]{
+display: none !important;
+}
+
+img[class="img-max"]{
+max-width: 100% !important;
+height:auto !important;
+}
+
+/* FULL-WIDTH TABLES */
+table[class="responsive-table"]{
+width:100%!important;
+}
+
+/* UTILITY CLASSES FOR ADJUSTING PADDING ON MOBILE */
+td[class="padding"]{
+padding: 10px 5% 15px 5% !important;
+}
+
+td[class="padding-copy"]{
+padding: 10px 5% 10px 5% !important;
+text-align: center;
+}
+
+td[class="padding-meta"]{
+padding: 30px 5% 0px 5% !important;
+text-align: center;
+}
+
+td[class="no-pad"]{
+padding: 0 0 20px 0 !important;
+}
+
+td[class="no-padding"]{
+padding: 0 !important;
+}
+
+td[class="section-padding"]{
+padding: 50px 15px 50px 15px !important;
+}
+
+td[class="section-header"]{
+padding: 10px 15px 10px 15px !important;
+}
+
+td[class="section-padding-bottom-image"]{
+padding: 50px 15px 0 15px !important;
+}
+
+/* ADJUST BUTTONS ON MOBILE */
+td[class="mobile-wrapper"]{
+padding: 10px 5% 15px 5% !important;
+}
+
+table[class="mobile-button-container"]{
+margin:0 auto;
+width:100% !important;
+}
+
+a[class="mobile-button"]{
+width:80% !important;
+padding: 15px !important;
+border: 0 !important;
+font-size: 16px !important;
+}
+
+}
+</style>
+</head>
+<body style="margin: 0; padding: 0;">
+<table style="width: 100%;" cellspacing="0" cellpadding="0" border="0">
+<tbody>
+<tr>
+<td style="padding: 0px 15px 0px 15px;" class="section-padding"
+align="center">
+<table style="width: 500px;" class="responsive-table" cellspacing="0"
+cellpadding="0" bgcolor="#001e78" border="0">
+<tbody>
+<tr>
+<td>
+<table style="width: 100%;" cellspacing="0" cellpadding="0" border="0">
+<tbody>
+<tr><!-- HERO IMAGE -->
+<td class="padding-copy">
+<table style="width: 100%;" cellspacing="0" cellpadding="0" border="0">
+<tbody>
+<tr>
+<td align="center"><a
+href="http://holdonh.com/link.php?M=388114&N=41&L=8&F=H"
+target="_blank"><img title="supermarket"
+src="http://www.image-container.com/de/aldi/hero.jpg" alt="supermarket"
+style="display: block; padding: 0; color: #666666; text-decoration: none;
+font-family: Helvetica, arial,sans-serif; font-size: 16px;" class="img-max"
+width="350" height="280" border="0" /></a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td><!-- COPY -->
+<table style="width: 100%;" cellspacing="0" cellpadding="0" border="0">
+<tbody>
+<tr>
+<td style="font-size: 25px; font-family: Helvetica, Arial,
+sans-serif; color: #ffffff; padding-top: 30px;" class="padding-copy"
+align="center"><span style="font-family: arial,helvetica,sans-serif;
+font-size: medium;">Hallo ,</span></td>
+</tr>
+<tr>
+<td style="padding: 20px 15px 0 15px; font-size: 15px; line-height: 20px;
+font-family: Helvetica, Arial,
+sans-serif; color: #ffffff;" class="padding-copy" align="center">Wir geben
+Ihnen die Chance, einen unserer kostenlosen Gutscheine zu gewinnen. Sie
+wurden als einer der potenziellen Gewinner ausgew&auml;hlt! Wir haben einen
+pers&ouml;nlichen Code f&uuml;r Sie erstellt, mit dem Sie
+&uuml;berpr&uuml;fen k&ouml;nnen, ob Sie gewonnen haben.</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td align="center"><!-- BULLETPROOF BUTTON -->
+<table style="width: 100%;" class="mobile-button-container" cellspacing="0"
+cellpadding="0" border="0">
+<tbody>
+<tr>
+<td style="padding: 25px 0 20px 0;" class="padding-copy" align="center">
+<table class="responsive-table" cellspacing="0" cellpadding="0"
+border="0">
+<tbody>
+<tr>
+<td align="center"><a
+href="http://holdonh.com/link.php?M=388114&N=41&L=8&F=H" target="_blank"
+style="font-size: 16px; font-family: Helvetica,
+Arial, sans-serif; font-weight: normal; color: #ffffff; text-decoration:
+none; background-color: #00b4dc; border-top: 15px solid
+#00b4dc; border-bottom: 15px solid #00b4dc; border-left: 25px solid
+#00b4dc; border-right: 25px solid #00b4dc; border-radius: 3px;
+-webkit-border-radius: 3px; -moz-border-radius: 3px; display:
+inline-block;" class="mobile-button">Jetzt teilnehmen! &rarr;</a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td><!-- COPY -->
+<table style="width: 100%;" cellspacing="0" cellpadding="0" border="0">
+<tbody>
+<tr>
+<td style="font-size: 25px; font-family: Helvetica, Arial,
+sans-serif; color: #ffffff; padding-top: 0px;" class="padding-copy"
+align="center">Ihr pers&ouml;nlicher Code:<br /> ALDI2017-507368472</td>
+</tr>
+<tr>
+<td style="padding: 20px 15px 0 15px; font-size: 15px; line-height: 20px;
+font-family: Helvetica, Arial,
+sans-serif; color: #ffffff;" class="padding-copy" align="center">Dieser
+Code wurde mit Ihrer E-Mail-Adresse verkn&uuml;pft: <a
+href="http://holdonh.com/link.php?M=388114&N=41&L=8&F=H" style="color:
+#00b4dc; text-decoration: none;"><br />kontakt@dorianvasco.de</a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td align="center"><!-- BULLETPROOF BUTTON -->
+<table style="width: 100%;" class="mobile-button-container" cellspacing="0"
+cellpadding="0" border="0">
+<tbody>
+<tr>
+<td style="padding: 25px 0 20px 0;" class="padding-copy" align="center">
+<table class="responsive-table" cellspacing="0" cellpadding="0"
+border="0">
+<tbody>
+<tr>
+<td align="center"><a
+href="http://holdonh.com/link.php?M=388114&N=41&L=8&F=H" target="_blank"
+style="font-size: 16px; font-family: Helvetica,
+Arial, sans-serif; font-weight: normal; color: #ffffff; text-decoration:
+none; background-color: #00b4dc; border-top: 15px solid
+#00b4dc; border-bottom: 15px solid #00b4dc; border-left: 25px solid
+#00b4dc; border-right: 25px solid #00b4dc; border-radius: 3px;
+-webkit-border-radius: 3px; -moz-border-radius: 3px; display:
+inline-block;" class="mobile-button">Klicken Sie hier, um zu
+best&auml;tigen! &rarr;</a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<div align="center"><br /> <font size="1" face="Arial, Helvetica,
+sans-serif" color="black"> <br /><br /><br /><span style="font-size:
+xx-small;"><span style="color: #888888; font-family:
+arial,helvetica,sans-serif;">Wenn sie uns kontaktieren m&ouml;chten,
+benutzen sie bitte die e-mail: wse . promo @ tutanota . com <br />
+[Datenbankbesitzer]<br /></span><span style="color: #888888;"><font
+color="black"></font>(WSE partner) Kurf&uuml;rstendamm 21, 7. Etage, 10719
+Berlin<br /></span></span><br /><span style="font-family:
+arial,helvetica,sans-serif; font-size: xx-small; color: #888888;">Wenn Sie
+m&ouml;chten sich abmelden , bitte </span><br /><span style="font-family:
+arial,helvetica,sans-serif; font-size: xx-small;"> <a
+href="http://holdonh.com/unsubscribe.php?M=388114&C=039fce629ba94b50d34734a8e4c0d2e0&L=5&N=41">Klick
+hier</a></span></font></div>
+<br /> <br /> <br /> <br />
+<img src="http://holdonh.com/open.php?M=388114&L=5&N=41&F=H&image=.jpg"
+height="1" width="10"></body>
+</html>
+
+--b1_5c0edf69318dc33ce3108661452dd788--
+
+

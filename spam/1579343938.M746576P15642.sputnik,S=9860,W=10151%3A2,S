@@ -1,0 +1,291 @@
+Received: from localhost by v22014122474822114.stilfilm.com
+	with SpamAssassin (version 3.3.2);
+	Wed, 22 Nov 2017 21:04:08 +0100
+From: "My Boat Plan" <MyBoatPlan@myboatplan.us>
+To: <mail@dorianvasco.de>
+Subject: *****SPAM***** ***SPAM*** Download 518 boat plans inside
+Date: Wed, 23 Aug 2017 20:53:31 -0700
+Message-Id: <62453431620620076245222941316102309@llsfwvhz.myboatplan.us>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	v22014122474822114.stilfilm.com
+X-Spam-Flag: YES
+X-Spam-Level: ***********
+X-Spam-Status: Yes, score=11.7 required=5.0 tests=DIGEST_MULTIPLE,
+	HTML_IMAGE_ONLY_28,HTML_MESSAGE,PYZOR_CHECK,RAZOR2_CF_RANGE_51_100,
+	RAZOR2_CHECK,RCVD_IN_BRBL_LASTEXT,RDNS_NONE,URIBL_ABUSE_SURBL,URIBL_BLOCKED
+	autolearn=no version=3.3.2
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----------=_5A15D838.BADC37B2"
+
+This is a multi-part message in MIME format.
+
+------------=_5A15D838.BADC37B2
+Content-Type: text/plain; charset=iso-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+
+Software zur Erkennung von "Spam" auf dem Rechner
+
+    v22014122474822114.stilfilm.com
+
+hat die eingegangene E-mail als mögliche "Spam"-Nachricht identifiziert.
+Die ursprüngliche Nachricht wurde an diesen Bericht angehängt, so dass
+Sie sie anschauen können (falls es doch eine legitime E-Mail ist) oder
+ähnliche unerwünschte Nachrichten in Zukunft markieren können.
+Bei Fragen zu diesem Vorgang wenden Sie sich bitte an
+
+    the administrator of that system
+
+Vorschau: If you're into boats like me, you'll LOVE what I'm about to
+   share with you: MyBoatPlans gives you instant access to over *518* step-by-step
+   boat plans videos and boat building guides. The plans are really DETAILED
+   with clear instructions and step-by-step illustrations. [...] 
+
+Inhaltsanalyse im Detail:   (11.7 Punkte, 5.0 benötigt)
+
+Pkte Regelname              Beschreibung
+---- ---------------------- --------------------------------------------------
+ 1.6 RCVD_IN_BRBL_LASTEXT   RBL: RCVD_IN_BRBL_LASTEXT
+                           [107.172.129.179 listed in bb.barracudacentral.org]
+ 1.9 URIBL_ABUSE_SURBL      Enthält URL in ABUSE-Liste (www.surbl.org) -
+                            changed from JP to ABUSE bug 7279
+                            [URIs: myboatplan.us]
+ 0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+                            See
+                            http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                             for more information.
+                            [URIs: myboatplan.us]
+ 0.7 HTML_IMAGE_ONLY_28     BODY: HTML: images with 2400-2800 bytes of words
+ 0.0 HTML_MESSAGE           BODY: Nachricht enthält HTML
+ 2.4 RAZOR2_CF_RANGE_51_100 Razor2 Spam-Bewertung liegt zwischen 51 und
+                            100
+                            [cf: 100]
+ 1.7 RAZOR2_CHECK           Gelistet im "Razor2"-System (http://razor.sf.net/)
+ 2.0 PYZOR_CHECK            Gelistet im Pyzor-System (http://pyzor.sf.net/)
+ 0.0 DIGEST_MULTIPLE        Mehrere Internettests (Razor, DCC, Pyzor, etc.)
+                            treffen zu
+ 1.3 RDNS_NONE              Delivered to internal network by a host with no rDNS
+
+Die ursprüngliche Nachricht enthielt nicht ausschließlich Klartext
+(plain text) und kann eventuell eine Gefahr für einige E-Mail-Programme
+darstellen (falls sie z.B. einen Computervirus enthält).
+Möchten Sie die Nachricht dennoch ansehen, ist es wahrscheinlich
+sicherer, sie zuerst in einer Datei zu speichern und diese Datei danach
+mit einem Texteditor zu öffnen.
+
+
+------------=_5A15D838.BADC37B2
+Content-Type: message/rfc822; x-spam-type=original
+Content-Description: original message before SpamAssassin
+Content-Disposition: attachment
+Content-Transfer-Encoding: 8bit
+
+Return-Path: <MyBoatPlan@myboatplan.us>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 2C472D48C7
+	for <mail@dorianvasco.de>; Thu, 24 Aug 2017 05:53:38 +0200 (CEST)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 9.99
+X-Spam-Level: *********
+X-Spam-Status: Yes, score=9.99 required=5.5 tests=[BAYES_99=3.5,
+	BAYES_999=0.2, HTML_IMAGE_ONLY_28=1.404, HTML_MESSAGE=0.001,
+	PYZOR_CHECK=1.392, RCVD_IN_BRBL_LASTEXT=1.449, RDNS_NONE=0.793,
+	URIBL_ABUSE_SURBL=1.25, URIBL_BLOCKED=0.001] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id bU48QznQWBG6 for <mail@dorianvasco.de>;
+	Thu, 24 Aug 2017 05:53:36 +0200 (CEST)
+Received: from 09a8f71c.myboatplan.us (unknown [107.172.129.179])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 77CE8D4891
+	for <mail@dorianvasco.de>; Thu, 24 Aug 2017 05:53:34 +0200 (CEST)
+Received: from 09a8f71c.llsfwvhz.myboatplan.us ([127.0.0.1]:7245 helo=llsfwvhz.myboatplan.us)
+	by llsfwvhz.myboatplan.us with ESMTP id 09UA8F7O1C;
+	for <mail@dorianvasco.de>; Wed, 23 Aug 2017 20:53:31 -0700
+Message-ID: <62453431620620076245222941316102309@llsfwvhz.myboatplan.us>
+Date: Wed, 23 Aug 2017 20:53:31 -0700
+To: <mail@dorianvasco.de>
+From: "My Boat Plan" <MyBoatPlan@myboatplan.us>
+Subject: ***SPAM*** Download 518 boat plans inside
+Content-Language: en-us
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: multipart/alternative;
+	boundary="----=Part.559.8440.1503546811"
+
+------=Part.559.8440.1503546811
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain; charset="UTF-8"
+
+
+If you're into boats like me, you'll LOVE what
+I'm about to share with you:
+
+MyBoatPlans gives you instant access to over
+*518* step-by-step boat plans videos and boat
+building guides.
+
+The plans are really DETAILED with clear
+instructions and step-by-step illustrations.
+
+It is a simple yet BRILLIANT process to build
+boats quickly and effortlessly.
+
+
+
+I've used one of the plans to build a second
+bass boat for my fishing trip last week.
+It cost me much less than what I would have
+paid.
+
+In a nutshell, My Boat Plans contain:
+
+- Over 518 Step By Step Boat Plans
+- 40 Videos To Help You Build Your Dream Boat
+- Thousands of Illustrated Guides
+
+I seldom endorse another product but this is
+a great offer if you are a boat enthusiast.
+
+And the best part is, ANYBODY can do it easily
+with MyBoatPlan's easy-to-follow instructions
+and full-blown photos
+
+*****************************
+DISCOUNT ENDING IN 2 DAYS
+*****************************
+
+But you got to act fast because this is a time
+sensitive offer.
+
+You'll save over 50% if you order today using
+this link below:
+
+I hope you're one of those people, because it
+is a REAL bargain at the price you're paying
+today.
+
+
+URL
+
+http://www.myboatplan.us/6245-413-2229-162062007/mail/tindex11.html
+
+
+
+To unsubscribe from future emails please Click Here
+8170 State Road 84 Suite 214, Davie, FL 33324
+
+
+UNSUB
+
+http://www.myboatplan.us/6245-413-2229-162062007/mail/rindex12.html
+
+------=Part.559.8440.1503546811
+Content-Transfer-Encoding: 8bit
+Content-Type: text/html; charset="UTF-8"
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+@media only screen and (max-width: 500px) {
+.img{
+   width:97% !important;
+}
+}
+@media only screen and (max-width: 979px) {
+img{
+   width:55% !important;
+}
+}
+@media only screen and (max-width: 767px) {
+img{
+   width:70% !important;
+}
+}
+@media only screen and (max-width: 619px) {
+img{
+   width:75% !important;
+}
+}
+@media only screen and (max-width: 479px) {
+img{
+   width:85% !important;
+}
+}
+</style>
+</head>
+<body>
+<div class="main" style="margin-left:10px;margin-top:10px;font-size:20px;">
+
+
+
+
+
+If you're into boats like me, you'll LOVE what <br>
+I'm about to share with you:
+<br><br>
+
+
+MyBoatPlans gives you instant access to over <br>
+*518* <a href="http://www.myboatplan.us/6245-413-2229-162062007/mail/tindex1.html">step-by-step boat plans videos</a> and boat <br>
+building guides.
+<br><br>
+The plans are really DETAILED with clear <br>
+instructions and step-by-step illustrations.
+<br><br>
+It is a simple yet BRILLIANT process to build <br>
+boats quickly and effortlessly.
+<br><br>
+<a href="http://www.myboatplan.us/6245-413-2229-162062007/mail/tindex2.html"><img src="http://www.myboatplan.us/6245-413-2229-162062007/i/img04132229343.gif"></a>
+<br><br>
+I've used one of the plans to build a second<br>
+bass boat for my fishing trip last week. <br>
+It cost me much less than what I would have <br>
+paid.
+<br><br>
+In a nutshell, <a href="http://www.myboatplan.us/6245-413-2229-162062007/mail/tindex3.html">My Boat Plans contain:</a>
+<br><br>
+- Over 518 Step By Step Boat Plans <br>
+- 40 Videos To Help You Build Your Dream Boat <br>
+- Thousands of Illustrated Guides
+<br><br>
+I seldom endorse another product but this is <br>
+a great offer if you are a boat enthusiast.
+<br><br>
+And the best part is, ANYBODY can do it easily <br>
+with MyBoatPlan's easy-to-follow instructions <br>
+and full-blown photos
+<br><br>
+
+*****************************    <br>
+<a href="http://www.myboatplan.us/6245-413-2229-162062007/mail/tindex4.html">DISCOUNT ENDING IN 2 DAYS </a>   <br>
+*****************************
+<br><br>
+But you got to act fast because this is a time <br>
+sensitive offer.
+<br><br>
+You'll save over 50% if you order today using <br>this link below:
+<br><br>
+I hope you're one of those people, because it <br>
+is a REAL bargain at the price you're paying <br>today.
+
+<br><br><br><br>		    
+
+<div style="font-size:13px;line-height:15px;"> 
+To unsubscribe from future emails please <a href="http://www.myboatplan.us/6245-413-2229-162062007/mail/rindex5.html"><b>Click Here</b></a> <br>
+8170 State Road 84 Suite 214, Davie, FL 33324
+</div>
+
+</div>
+
+</body>
+</html>
+
+------=Part.559.8440.1503546811--
+
+
+------------=_5A15D838.BADC37B2--
+

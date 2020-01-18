@@ -1,0 +1,335 @@
+Return-Path: <return-a444-64032-64039-589bf19f=199990483=8@pixelprodeals.de>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 3CF99D1B90
+	for <mail@dorianvasco.de>; Wed, 13 Nov 2019 18:19:06 +0100 (CET)
+Authentication-Results: v22014122474822114.stilfilm.com; dkim=pass
+	reason="1024-bit key; insecure key"
+	header.d=pixelprodeals.de header.i=@pixelprodeals.de
+	header.b=isszGxVw; dkim-adsp=pass; dkim-atps=neutral
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 6.411
+X-Spam-Level: ******
+X-Spam-Status: Yes, score=6.411 required=5.5 tests=[BAYES_99=3.5,
+	BAYES_999=0.2, DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	HTML_FONT_LOW_CONTRAST=0.001, HTML_MESSAGE=0.001, LOTS_OF_MONEY=0.001,
+	RAZOR2_CF_RANGE_51_100=1.886, RAZOR2_CHECK=0.922]
+	autolearn=no autolearn_force=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id xfFhw6pwTU-X for <mail@dorianvasco.de>;
+	Wed, 13 Nov 2019 18:19:04 +0100 (CET)
+Received: from smtp7-130.newsletter-pixelpro.de (smtp7-130.newsletter-pixelpro.de [193.70.52.216])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id 31072CB115
+	for <kontakt@dorianvasco.de>; Wed, 13 Nov 2019 18:18:59 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; d=pixelprodeals.de; s=ppm; t=1573665538;
+ bh=TiYIEjQcFcfJaBB8lrStFRKci1w=;
+ h=Subject:From:To:Reply-To:Date:List-Unsubscribe:X-CampaignID:
+  Message-ID:X-Mailer-Info:MIME-Version:Content-Type;
+ b=isszGxVwixDQoFg9Tl/5j02XEIu9JPxqSwu9rWfc+Ptm7BsmnP7BSGOeZLAAoJAkX
+  oBR1lohC9tuQZ3fVAU7qbMd/VUxhiuMcUPa44y/7Pnc5Ed33s1CW04UZckQs7M+N57
+  mSBsadZP6y58IO4CwNTHRPQ2FvC8qrK4KXJQmbd0=
+Subject: im Gewinntopf warten 114 Millionen Euro
+From: "Lotto-Tipper aufgepasst" <mail@pixelprodeals.de>
+To: kontakt@dorianvasco.de
+Reply-To: noreply@pixelprodeals.de
+Date: 13 Nov 2019 17:18:58 -0000
+List-Unsubscribe: <http://pixelprodeals.de/ga/unsubscribe/2-199990483-444-23892-64039-e04939885d24e4c-2258d5d6a7?confirmed=1>,
+ <mailto:return-a444-64032-64039-589bf19f=199990483=8u@pixelprodeals.de>
+X-CampaignID: s4:64032-5be11fd41e617050
+Message-ID: <mid-fc36fe9a6eed76511a292f6d84276ff7-33@pixelprodeals.de>
+X-Mailer-Info: 8.QY0QDN.YDNwMjM.wav5GdhtGdAR2bylWYuZXYzN2buQWZ.xkTO5kDM0gzM.YDNwMTO
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="==8f56fa6e3132bfd6e50a90b1a2172c71"
+
+This is a multi-part message in MIME format.
+
+--==8f56fa6e3132bfd6e50a90b1a2172c71
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+114.000.000=E2=82=AC! Deine Millionenchance. 4 Tippfelder f=C3=BCr nur 2=E2=
+=82=AC!
+
+=EF=BB=BFIm Browser ansehen ( http://pixelprodeals.de/ga/webviews/4-1999904=
+83-444-23892-26344-64039-403aaa2aa4 ) | Abmelden (
+http://pixelprodeals.de/ga/unsubscribe/2-199990483-444-23892-64039-e0493988=
+5d24e4c-2258d5d6a7 )
+
+Lottoland ( http://pixelprodeals.de/ga/click/2-199990483-444-23892-64039-19=
+14245-62a205d9da-2258d5d6a7 )
+
+Gewinne 114 Millionen
+bei
+EuroMillions! ( http://pixelprodeals.de/ga/click/2-199990483-444-23892-6403=
+9-1914245-62a205d9da-2258d5d6a7 )
+
+jetzt mitspielen ( http://pixelprodeals.de/ga/click/2-199990483-444-23892-6=
+4039-1914245-62a205d9da-2258d5d6a7 )
+
+Knack' den Jackpot! ( http://pixelprodeals.de/ga/click/2-199990483-444-2389=
+2-64039-1914245-62a205d9da-2258d5d6a7 )
+Knack' den Jackpot! ( http://pixelprodeals.de/ga/click/2-199990483-444-2389=
+2-64039-1914245-62a205d9da-2258d5d6a7 )
+Nutze deine Chance auf 114 Millionen Euro: ( http://pixelprodeals.de/ga/cli=
+ck/2-199990483-444-23892-64039-1914245-62a205d9da-2258d5d6a7 )
+
+Spiele 4 Tippfelder EuroMillions f=C3=BCr nur 2=E2=82=AC.
+L=C3=B6se jetzt dein Angebot ein und gewinne.
+
+Dieses Angebot gilt nur f=C3=BCr Neuspieler.
+
+jetzt mitspielen ( http://pixelprodeals.de/ga/click/2-199990483-444-23892-6=
+4039-1914245-62a205d9da-2258d5d6a7 )
+
+Lottoland - Testsieger ( http://pixelprodeals.de/ga/click/2-199990483-444-2=
+3892-64039-1914245-62a205d9da-2258d5d6a7 )
+
+G=C3=BCnstiger, besser, zufriedener!
+
+In branchenweiten Studien ist das Lottoland zum
+g=C3=BCnstigsten und besten =C3=BCberregionalen Lottoanbieter ausgezeichnet
+worden. Besonders freuen wir uns =C3=BCber tausende Empfehlungen
+unserer Spieler.
+
+=C2=A9 2019 Lottoland.com
+
+Bitte beachte, dass diese E-Mail nicht vom Lottoland
+direkt versendet worden ist und es keinen Einfluss auf den
+Empf=C3=A4ngerkreis hat. M=C3=B6chtest du dich aus diesem Verteiler
+abmelden, wende dich bitte direkt an den Absender.
+
+Ab 18! Angebot g=C3=BCltig f=C3=BCr Neuspieler. Gewinnchance 1:95 Mio.
+Suchtgefahr. Info:
+bzga.de. ( http://pixelprodeals.de/ga/click/2-199990483-444-23892-64039-191=
+4246-734062290e-2258d5d6a7 )
+
+Das Angebot ist eine kommerzielle Anzeige dieses Werbekunden,
+der allein f=C3=BCr den Inhalt verantwortlich ist.
+
+Verantwortlich f=C3=BCr den Versand der E-Mail ist:
+Ein Service von Pixel ProMarketing S.L. | Str Azor n5
+Mijas-Costa | E-29651 M=C3=A1laga
+
+Ihre Daten sind lediglich bei dem Versender gespeichert. Der
+Werbekunde hat daher keinen Einfluss auf dem Empf=C3=A4ngerkreis der
+E-Mail.
+Sofern Sie k=C3=BCnftig keinen Newsletter mehr erhalten m=C3=B6chten,
+wenden Sie sich bitte direkt an den Versender oder klicken auf
+folgenden Link: Abmelden ( http://pixelprodeals.de/ga/unsubscribe/2-1999904=
+83-444-23892-64039-e04939885d24e4c-2258d5d6a7 )
+
+Haben Sie Verst=C3=A4ndnis, dass die Abmeldung bis zu 48 Stunden
+dauern kann. Direkte Antworten an die Absenderadresse k=C3=B6nnen
+nicht beantwortet werden.
+
+support(at)pixelpromarketing.com ( support@pixelpromarketing.com
+)
+Ihre Daten sind lediglich bei dem Versender gespeichert. Der
+Werbekunde hat daher keinen Einfluss auf den Empf=C3=A4ngerkreis der
+E-Mail.=
+
+--==8f56fa6e3132bfd6e50a90b1a2172c71
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.=
+w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+    <title>Deine Millionenchance. 4 Tippfelder f&uuml;r nur 2&euro;!</title>
+</head>
+<body style=3D"margin:0;height:100%;width:100%;">
+<div style=3D"display:none;font-size:1px;color:#ffffff;line-height:1px;max-=
+height:0px;max-width:0px;opacity:0;overflow:hidden;">
+			<!--PreHead-->114.000.000&euro;! Deine Millionenchance. 4 Tippfelder f&u=
+uml;r nur 2&euro;!
+			</div>
+<center>
+<div style=3D"text-align: center; width: 100%; max-width: 590px;"><a style=
+=3D"text-decoration: none; color: #000000;" href=3D"http://pixelprodeals.de=
+/ga/webviews/4-199990483-444-23892-26344-64039-403aaa2aa4">&#65279;Im Brows=
+er ansehen</a> | <a style=3D"text-decoration: none; color: #000000;" href=
+=3D"http://pixelprodeals.de/ga/unsubscribe/2-199990483-444-23892-64039-e049=
+39885d24e4c-2258d5d6a7">Abmelden</a></div>
+</center>
+
+<!-- START CONTENT AREA -->
+<table bgcolor=3D"#FFFFFF" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"=
+ style=3D"width:100%;border-collapse:collapse;">
+    <tr>
+      	<!-- LIQUID WRAPPER LEFT -->
+      	<td style=3D"background-color:#FFFFFF;">&nbsp;</td>
+      	<td width=3D"600"><center>
+			<a href=3D"http://pixelprodeals.de/ga/click/2-199990483-444-23892-64039-=
+1914245-62a205d9da-2258d5d6a7" target=3D"_blank"><img src=3D"https://llcrm.=
+s3.amazonaws.com/logos/int_crm-logo_green.png" alt=3D"Lottoland" title=3D"L=
+ottoland" border=3D"0" style=3D"font-size: 16px; color: #69a507; font-weigh=
+t: 300; font-family:Helvetica,Helvetica Neue,Arial,sans-serif; margin:0px;p=
+adding:0px;"></a>
+          	<br>  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <br>
+          <a href=3D"http://pixelprodeals.de/ga/click/2-199990483-444-23892=
+-64039-1914245-62a205d9da-2258d5d6a7" target=3D"_blank" style=3D"text-decor=
+ation:none;color:#000000;font-size: 27px;line-height:42px;font-family:Helve=
+tica,Helvetica Neue,Arial,sans-serif;font-weight:300;color:#000000;padding-=
+bottom:10px;">Gewinne <strong style=3D"font-weight:700">114 Millionen</stro=
+ng><br> bei
+          <span style=3D"color: #027ed7;"><strong>EuroMillions!</strong></s=
+pan></a>
+=20=20=20=20=20=20=20=20=20=20
+<br>
+<br>
+<a href=3D"http://pixelprodeals.de/ga/click/2-199990483-444-23892-64039-191=
+4245-62a205d9da-2258d5d6a7" target=3D"_blank" style=3D"font-size: 20px; fon=
+t-family: Helvetica, Arial, sans-serif; font-weight: 300; color: #FFFFFF; t=
+ext-decoration: none; background-color: #69A507; border-top: 20px solid #69=
+A507; border-bottom: 16px solid #69A507; border-left: 30px solid #69A507; b=
+order-right: 30px solid #69A507; border-radius: 5px; -webkit-border-radius:=
+ 5px; -moz-border-radius: 5px; display: inline-block; text-decoration:none;=
+ text-transform: uppercase">jetzt mitspielen</a>
+          	<br>
+          	<br>
+            <br>
+			<a href=3D"http://pixelprodeals.de/ga/click/2-199990483-444-23892-64039-=
+1914245-62a205d9da-2258d5d6a7" target=3D"_blank"><img src=3D"https://llcrm.=
+s3.amazonaws.com/Acq_DE/CREAT-7125_EM_4f2euro_600x300.gif" alt=3D"Knack' de=
+n Jackpot!" border=3D"0" style=3D"font-size: 28px; color: #CA0813; font-wei=
+ght: 300; font-family:Helvetica,Helvetica Neue,Arial,sans-serif; margin:0px=
+;padding:0px;width:100%;height:auto;"></a>
+			<a href=3D"http://pixelprodeals.de/ga/click/2-199990483-444-23892-64039-=
+1914245-62a205d9da-2258d5d6a7" target=3D"_blank"><img src=3D"https://lottol=
+and-lottoland.bannerflow.com/bf-images/5ced1ec7a4a4a060f402f37a.CDrGWDnSr0G=
+a.jpg" alt=3D"Knack' den Jackpot!" border=3D"0" style=3D"font-size: 28px; c=
+olor: #CA0813; font-weight: 300; font-family:Helvetica,Helvetica Neue,Arial=
+,sans-serif; margin:0px;padding:0px;width:100%;height:auto;"></a>
+			<p style=3D"padding:20px 0 0 0; font-size:18px; line-height:25px; font-f=
+amily:Helvetica,Helvetica Neue,Arial,sans-serif; font-weight:300; color:#00=
+0000;">Nutze deine Chance auf <strong style=3D"font-weight:700"><a style=3D=
+"text-decoration:underline; color:#000000" href=3D"http://pixelprodeals.de/=
+ga/click/2-199990483-444-23892-64039-1914245-62a205d9da-2258d5d6a7" target=
+=3D"_blank">114 Millionen Euro:</a> </strong><br>
+				Spiele 4 Tippfelder <strong style=3D"font-weight:700"><span style=3D"co=
+lor: #027ed7;">EuroMillions </span></strong>f&uuml;r nur 2&euro;.
+       	      L&ouml;se jetzt dein Angebot ein und gewinne. <br />
+          	  <em style=3D"font-size:14px">Dieses Angebot gilt nur f&uuml;r =
+Neuspieler.</em></p>
+    <br />
+			<a href=3D"http://pixelprodeals.de/ga/click/2-199990483-444-23892-64039-=
+1914245-62a205d9da-2258d5d6a7" target=3D"_blank" style=3D"font-size: 20px; =
+font-family: Helvetica, Arial, sans-serif; font-weight: 300; color: #FFFFFF=
+; text-decoration: none; background-color: #69A507; border-top: 20px solid =
+#69A507; border-bottom: 16px solid #69A507; border-left: 30px solid #69A507=
+; border-right: 30px solid #69A507; border-radius: 5px; -webkit-border-radi=
+us: 5px; -moz-border-radius: 5px; display: inline-block; text-decoration:no=
+ne; text-transform: uppercase">jetzt mitspielen</a>
+          	<p>&nbsp;</p>
+        </center></td>
+      	<!-- LIQUID WRAPPER RIGHT -->
+        <td style=3D"background-color:#FFFFFF;">&nbsp;</td>
+    </tr>
+</table>
+<!-- END CONTENT AREA -->
+<!-- START FOOTER AREA -->
+<table bgcolor=3D"#f6f6f6" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"=
+ style=3D"width:100%;border-collapse:collapse;">
+    <tr>
+      	<!-- LIQUID WRAPPER LEFT -->
+      	<td style=3D"background-color:#f6f6f6;">&nbsp;</td>
+      	<td style=3D"background-color:#f6f6f6;" width=3D"600"><center>
+          	<br />
+			<br />
+                <a href=3D"http://pixelprodeals.de/ga/click/2-199990483-444=
+-23892-64039-1914245-62a205d9da-2258d5d6a7" target=3D"_blank"><img src=3D"h=
+ttps://www.trustedshops.com/bewertung/widget/widgets/X6DA5B2DCED3217D31688A=
+89110B23EBF.gif"
+            	alt=3D"Lottoland - Testsieger"
+            	title=3D"Lottoland - Testsieger"
+            	border=3D"0"
+            	style=3D"margin:0px;padding:0px;"
+            	/></a>
+                <br />
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+          	<br />
+          	<p style=3D"font-size:20px; line-height:18px; font-family:Helvet=
+ica,Helvetica Neue,Arial,sans-serif; font-weight:400; color:#666666;">G&uum=
+l;nstiger, besser, zufriedener!</p>
+          	<p style=3D"font-size:15px; line-height:25px; font-family:Helvet=
+ica,Helvetica Neue,Arial,sans-serif; font-weight:300; color:#666666;">
+              	In branchenweiten Studien ist das Lottoland zum g&uuml;nstig=
+sten und besten &uuml;berregionalen Lottoanbieter ausgezeichnet worden. Bes=
+onders freuen wir uns &uuml;ber tausende Empfehlungen unserer Spieler.=20=
+=20=20=20=20
+       	  </p>
+<br />
+<br />
+
+          	<p style=3D"font-size:14px; line-height:25px; font-family:Helvet=
+ica,Helvetica Neue,Arial,sans-serif; font-weight:300; color:#666666;">
+              	&copy; 2019 Lottoland.com
+          	</p>
+          	<p style=3D"border-collapse:collapse !important; padding-bottom:=
+10px; background:#dad9da; border-radius:5px; -moz-border-radius:5px; -webki=
+t-border-radius:5px; padding:10px; font-family:Arial,sans-serif; font-size:=
+13px; line-height:20px; color:#222222;">
+          		Bitte beachte, dass diese E-Mail nicht vom Lottoland direkt ver=
+sendet worden ist und es keinen Einfluss auf den Empf&auml;ngerkreis hat. M=
+&ouml;chtest du dich aus diesem Verteiler abmelden, wende dich bitte direkt=
+ an den Absender.
+=20=20=20=20=20=20
+          	<br /></p>
+			<p style=3D"padding: 0px; margin: 0px; font-size: 12px; font-family: Ari=
+al,Helvetica,sans-serif; color: #5f5f5f; text-align: center;">Ab 18! Angebo=
+t g&uuml;ltig f&uuml;r Neuspieler. Gewinnchance 1:95 Mio. Suchtgefahr. Info=
+:=20=09
+									 <a href=3D"http://pixelprodeals.de/ga/click/2-199990483-444-23892=
+-64039-1914246-734062290e-2258d5d6a7">bzga.de.</a>
+                                </p>
+			<br>
+        <!-- LIQUID WRAPPER RIGHT -->
+        </center></td>
+=09=09
+        <td style=3D"background-color:#f6f6f6;">&nbsp;</td>
+    </tr>
+</table>
+<p align=3D"center">
+
+  <span style=3D"color: #808080; font-size: 12px;">Das Angebot ist eine kom=
+merzielle Anzeige dieses Werbekunden, der allein f&#252;r den Inhalt verant=
+wortlich ist.<br /></span><br /><span style=3D"color: #808080;font-size: 12=
+px;"> Verantwortlich f&#252;r den Versand der E-Mail ist:<br /> <span style=
+=3D"color: #808080;font-size: 12px;"> Ein Service von Pixel ProMarketing S.=
+L. &#160;&#160;|&#160;&#160; Str Azor n5 Mijas-Costa &#160;&#160;|&#160;&#1=
+60; E-29651 M&#225;laga</span><br /><br /> <span style=3D"color: #808080;fo=
+nt-size: 12px;"> Ihre Daten sind lediglich bei dem Versender gespeichert. D=
+er Werbekunde hat daher keinen Einfluss auf dem Empf&#228;ngerkreis der E-M=
+ail. </span><br /> Sofern Sie k&#252;nftig keinen Newsletter mehr erhalten =
+m&#246;chten, wenden Sie sich bitte direkt an den Versender oder klicken au=
+f folgenden Link: <a style=3D"font-weight: normal; text-decoration: underli=
+ne; color: #808080;" href=3D"http://pixelprodeals.de/ga/unsubscribe/2-19999=
+0483-444-23892-64039-e04939885d24e4c-2258d5d6a7"> Abmelden</a> <br /> </spa=
+n><span style=3D"color: #808080;font-size: 12px;"><br />Haben Sie Verst&#22=
+8;ndnis, dass die Abmeldung bis zu 48 Stunden dauern kann. Direkte Antworte=
+n an die Absenderadresse k&#246;nnen nicht beantwortet werden. </span></p>
+<center><span style=3D"color: #808080;"><span style=3D"color: #808080; font=
+-size: 12px;"> <a style=3D"font-weight: normal; text-decoration: underline;=
+ color: #808080; text-align: center;" href=3D"mailto:support@pixelpromarket=
+ing.com">support(at)pixelpromarketing.com</a></span></span>
+<p><span style=3D"color: #808080;font-size: 12px;">Ihre Daten sind lediglic=
+h bei dem Versender gespeichert. Der Werbekunde hat daher keinen Einfluss a=
+uf den Empf&#228;ngerkreis der E-Mail.</span>
+=20=20
+</p>
+</center>
+
+
+<!-- END FOOTER AREA -->
+<img src=3D"http://pixelprodeals.de/ga/open/2-199990483-444-23892-64039-225=
+8d5d6a7" height=3D"2" width=3D"3" alt=3D""></body>
+</html>=
+
+--==8f56fa6e3132bfd6e50a90b1a2172c71--

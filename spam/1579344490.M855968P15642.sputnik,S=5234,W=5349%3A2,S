@@ -1,0 +1,115 @@
+Return-Path: <info@al-reefy.com>
+Delivered-To: mail@stilfilm.com
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id E8516D196F
+	for <mail@stilfilm.com>; Fri, 30 Aug 2019 14:36:10 +0200 (CEST)
+Authentication-Results: v22014122474822114.stilfilm.com; dkim=pass
+	reason="2048-bit key; insecure key"
+	header.d=al-reefy.com header.i=@al-reefy.com header.b=drFb8KQK;
+	dkim-adsp=pass; dkim-atps=neutral
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 9.545
+X-Spam-Level: *********
+X-Spam-Status: Yes, score=9.545 required=5.5 tests=[BAYES_80=2,
+	BITCOIN_DEADLINE=3, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, RCVD_IN_RP_RNBL=1.31, RCVD_IN_SBL_CSS=3.335,
+	SPF_HELO_NONE=0.001, SPF_PASS=-0.001] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id hS3QlBimAclB for <mail@stilfilm.com>;
+	Fri, 30 Aug 2019 14:36:08 +0200 (CEST)
+Received: from server.wasathost.com (server.wasathost.com [185.62.136.82])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id 80347CCC2A
+	for <mail@stilfilm.com>; Fri, 30 Aug 2019 14:36:06 +0200 (CEST)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed;
+	d=al-reefy.com; s=default; h=List-Unsubscribe:Content-Type:
+	Content-Transfer-Encoding:Subject:To:Date:Message-ID:MIME-Version:From:Sender
+	:Reply-To:Cc:Content-ID:Content-Description:Resent-Date:Resent-From:
+	Resent-Sender:Resent-To:Resent-Cc:Resent-Message-ID:In-Reply-To:References:
+	List-Id:List-Help:List-Subscribe:List-Post:List-Owner:List-Archive;
+	bh=jzMT8zzlSnNmpW+Kib+zAd2uwRk7IrELzrGJZ5fglXY=; b=drFb8KQKwEbZNnQmNcVBgCT1fA
+	TFnD7xJ6K3Vs030bm9LDFfgR18gB/GVNw0FKoNME5Mi5ZY9cT2Pq1ju1/HPhy4I8qBVbFB8jyV6YX
+	RRBKykzkYifjZpp1jm/tN1P4VD5IWIvl/LvJDpxa7hi6pLmUL5pHIMlMfqzsq77W47tzNyR3rZsCk
+	KN5Hs93sUAz2fMOyI0lJ+m75LA162KVn9pvFpmBSva7Y3/nCbY1Oepe4AUj02+VTQHQplXMgNRav5
+	1s0ZBcYTFQxwmP40seFa1YQ64pOP4+RUFJq322Gv+vwVrczRhK/YxYEJ6lvBXZQ7dM3Pwuw9FbyBc
+	9pFjmG0Q==;
+Received: from [191.53.192.114] (port=39080 helo=[127.0.0.1])
+	by server.wasathost.com with esmtpsa (TLSv1:ECDHE-RSA-AES256-SHA:256)
+	(Exim 4.92)
+	(envelope-from <info@al-reefy.com>)
+	id 1i3g8K-0005T1-9T
+	for mail@stilfilm.com; Fri, 30 Aug 2019 14:36:05 +0200
+From: Alice Levine <info@al-reefy.com>
+MIME-Version: 1.0
+Message-ID: <36136370498100.4M428379O5@al-reefy.com>
+Date: Fri, 30 Aug 2019 15:36:04 +0300
+To: mail@stilfilm.com
+Subject: The decision to suspend your account. Waiting for payment.
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=UTF-8
+List-Unsubscribe:
+ <http://friend.al-reefy.com/ru/unsubscribe/do?hash=8gpm64atomhqwmcruix2hhjhtx5wwvwfiazixxu4lyhlrtywhl3totzritcpvyt7d47ww4vpzjlhi0>
+X-Mru-Trust-IP: 191.53.192.114
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - server.wasathost.com
+X-AntiAbuse: Original Domain - stilfilm.com
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - al-reefy.com
+X-Get-Message-Sender-Via: server.wasathost.com: authenticated_id: info@al-reefy.com
+X-Authenticated-Sender: server.wasathost.com: info@al-reefy.com
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+
+Hello!
+
+I am a hacker who has access to your operating system.
+I also have full access to your account.
+
+I've been watching you for a few months now.
+The fact is that you were infected with malware through an adult site =
+that you visited.
+
+If you are not familiar with this, I will explain.
+Trojan Virus gives me full access and control over a computer or other=
+ device.
+This means that I can see everything on your screen, turn on the camer=
+a and microphone, but you do not know about it.
+
+I also have access to all your contacts and all your correspondence.
+
+Why your antivirus did not detect malware?
+Answer: My malware uses the driver, I update its signatures every 4 ho=
+urs so that your antivirus is silent.
+
+I made a video showing how you satisfy yourself in the left half of th=
+e screen, and in the right half you see the video that you watched.
+With one click of the mouse, I can send this video to all your emails =
+and contacts on social networks.
+I can also post access to all your e-mail correspondence and messenger=
+s that you use.
+
+If you want to prevent this,
+transfer the amount of $500 to my bitcoin address (if you do not know =
+how to do this, write to Google: "Buy Bitcoin").
+
+My bitcoin address (BTC Wallet) is:  3HvFFrchJKBH2tM4d2a6QjfazH9oKyVmX=
+L
+
+After receiving the payment, I will delete the video and you will neve=
+r hear me again.
+I give you 50 hours (more than 2 days) to pay.
+I have a notice reading this letter, and the timer will work when you =
+see this letter.
+
+Filing a complaint somewhere does not make sense because this email ca=
+nnot be tracked like my bitcoin address.
+I do not make any mistakes.
+
+If I find that you have shared this message with someone else, the vid=
+eo will be immediately distributed.
+
+Best regards!

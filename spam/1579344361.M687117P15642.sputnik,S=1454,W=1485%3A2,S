@@ -1,0 +1,31 @@
+Return-Path: <infolike4690@kandemirhaliyikama.com>
+Delivered-To: mail@stilfilm.com
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id C6C06C3F5B
+	for <mail@stilfilm.com>; Sat, 10 Nov 2018 01:25:30 +0100 (CET)
+X-Quarantine-ID: <cN9F7YUoOkXC>
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Amavis-Alert: BAD HEADER SECTION, Missing required header field: "Date"
+X-Spam-Flag: YES
+X-Spam-Score: 6.679
+X-Spam-Level: ******
+X-Spam-Status: Yes, score=6.679 required=5.5 tests=[HTML_MESSAGE=0.001,
+	HTML_MIME_NO_HTML_TAG=0.635, MIME_HTML_ONLY=1.105, MISSING_DATE=1.396,
+	MISSING_HEADERS=1.207, MISSING_MID=0.14, RDNS_NONE=1.274,
+	SPF_FAIL=0.919, SPF_HELO_FAIL=0.001, TVD_SPACE_RATIO=0.001]
+	autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id cN9F7YUoOkXC for <mail@stilfilm.com>;
+	Sat, 10 Nov 2018 01:25:29 +0100 (CET)
+Received: from kandemirhaliyikama.com (unknown [191.96.249.167])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 59A3FC2F46
+	for <gerick@stilfilm.com>; Sat, 10 Nov 2018 01:25:26 +0100 (CET)
+From: "google" <infolike4690@kandemirhaliyikama.com>
+Subject: Verifi
+MIME-Version: 1.0
+Content-Type: text/html
+Message-Id: <20181110002530.C6C06C3F5B@v22014122474822114.stilfilm.com>
+Date: Sat, 10 Nov 2018 01:25:30 +0100 (CET)
+
+ 

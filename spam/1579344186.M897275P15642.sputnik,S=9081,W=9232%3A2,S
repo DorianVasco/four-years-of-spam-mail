@@ -1,0 +1,151 @@
+Return-Path: <Swadesh.webdevelopmentservic@hotmail.com>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 20DBAD5A5B
+	for <mail@dorianvasco.de>; Fri, 15 Dec 2017 06:58:21 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: 2.294
+X-Spam-Level: **
+X-Spam-Status: No, score=2.294 required=5.5 tests=[DKIM_SIGNED=0.1,
+	DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1, FORGED_HOTMAIL_RCVD2=1.187,
+	FREEMAIL_FROM=0.001, HTML_MESSAGE=0.001, MISSING_HEADERS=1.207,
+	RCVD_IN_DNSWL_NONE=-0.0001, SPF_HELO_PASS=-0.001, SPF_PASS=-0.001]
+	autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id SIqBMcXTPojQ for <mail@dorianvasco.de>;
+	Fri, 15 Dec 2017 06:58:20 +0100 (CET)
+Received: from IND01-BO1-obe.outbound.protection.outlook.com (mail-bo1ind01olkn0179.outbound.protection.outlook.com [104.47.101.179])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id 9F044D5A56
+	for <mail@dorianvasco.de>; Fri, 15 Dec 2017 06:58:19 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=hotmail.com;
+ s=selector1; h=From:Date:Subject:Message-ID:Content-Type:MIME-Version;
+ bh=kVFyHxN5mUleTmzdMn0wz4i/LPyKPDz4ql3PIXWJmmY=;
+ b=PCCTjsuu0Ozj1U0wlMEGOIVPG/o4jpHfwC8YmTVKSgq/hd7JIoZsIVVZ8jJ3myCE43Dj6bUM+lJ7Q47vfBptTnJ7U0yWHnSv5GhdmDinYkrNrRQE8IsDsmmLGQ2gIWJf25tmAMVUm2jOZMixlcsBSkpf/Tpu9G81eFCH51yl5rusCTz53snIZ+mV7rAldXzYtcw/SWP7IVoaoWmrC0KrRjC5/BFAsonc3J6cY8l3x0L4gCo1C519GwNpts/1Ry225FtxP6YET9sOy1BrHvzh9BII0I/NJd/JZmG58FCJ2w+hAm3KFn1VwFplVyIhn8pN1S5Yw6fowmZOJmXpZsP3FQ==
+Received: from BO1IND01FT009.eop-IND01.prod.protection.outlook.com
+ (10.152.202.52) by BO1IND01HT004.eop-IND01.prod.protection.outlook.com
+ (10.152.202.95) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id 15.20.282.5; Fri, 15
+ Dec 2017 05:57:34 +0000
+Received: from PN1PR0101MB1120.INDPRD01.PROD.OUTLOOK.COM (10.152.202.58) by
+ BO1IND01FT009.mail.protection.outlook.com (10.152.202.94) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256_P256) id
+ 15.20.302.6 via Frontend Transport; Fri, 15 Dec 2017 05:57:33 +0000
+Received: from PN1PR0101MB1120.INDPRD01.PROD.OUTLOOK.COM
+ ([fe80::c65:7f41:9794:9a1c]) by PN1PR0101MB1120.INDPRD01.PROD.OUTLOOK.COM
+ ([fe80::c65:7f41:9794:9a1c%17]) with mapi id 15.20.0302.010; Fri, 15 Dec 2017
+ 05:57:34 +0000
+From: Swadesh Jadon <Swadesh.webdevelopmentservic@hotmail.com>
+Subject: Making a direct offer
+Thread-Topic: Making a direct offer
+Thread-Index: AQHTdWiMimDmq3IBbEujD5r2ahqcqw==
+Date: Fri, 15 Dec 2017 05:57:33 +0000
+Message-ID: <PN1PR0101MB1120C28A38A42765089FE2DF850B0@PN1PR0101MB1120.INDPRD01.PROD.OUTLOOK.COM>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-incomingtopheadermarker: OriginalChecksum:9334E020D89B50C179669C16620D1885C3179ACD8223F92A0B577F005522271C;UpperCasedChecksum:9831CD6F5A3C4861802A29930E12379CA230048708DD5CACB60DDA85FFAF969F;SizeAsReceived:17418;Count:42
+x-tmn: [50thGLLVQhX7qMsjtjLgXk7wSlZiBsYx]
+x-ms-publictraffictype: Email
+x-microsoft-exchange-diagnostics: 1;BO1IND01HT004;6:KMEsKbdzrobhQF3rz52DV+mvUw/C3lSjSo+CTBGb1Ya9gdz8WROY8wFFVroR6x7Yq3PGECrNHvHQOx2AhZt6Xlzg3qqfnFjtwampFE4r4yLIztIBHWVcaaJjpUNG/ED9UMgfkZDcGd72xcfZ5Kww0AsV17zAIcoyf99uIVpirU0onsknia2ePOoi03aD64GWClu9pZrN1KtB5o5H9TAy3Pn14Cx0R8angz3B0Njq7wLK+z41wyw1lF3qHD+EEliY8zA1iRONLFNBW/sq/NPrgPtYqdwpOckSgCH7u7RsjL6b0UUDfbIKaZoQJKtcfSq7LlBBYf6cnWVsoelZ+JMHzzrslxin91Z7+iFI29XkI+g=;5:AmBAzRT19dnv9mxAbJTjuZ83fvFOodgGS5Op2gXn0KQEy4ILOFmGN44IUPRa+Wamu79xFifQkvrOK2FIax8xT719hnf7qMe7CfOB69Tyf7h6e27bU2CVF4YQRhj4TABhaOve3uj/HqYET9ZWua9U8xLADEySceGidF5GkqqNAMA=;24:kBz6xGG4JVBSL7i140ddBR1Du05zDpfcvG/k4nwMhzvbUykh/b2Qpx77cxOShhCGiQRIcXkmvlAxOI+dh05E+KiH76WSE6Th5N25NJ0O1hI=;7:YbBGkju/3vHT62HrE4zBmDrfuKH1ibODC0C+zuHaDsGJ9/Uj03EZ4ZC0IYdDLC1yBot7u2excDrYbYSqZwi+yc2pwwb3a1gNYK/khZabMKKZex/fyKgDhPW4n/Bevg3L7LJB1+WyXUJ/k/mPBOhnA3SdOFqLYE5w+Ems2mDl96U6CRWlRY9c5WfX5oBw1R+pGEhAmEM5hjC4p2NfBxwLn4pV4rZkFcNUWtHLr3DcAlK4nWeyBExcFP0/W7FomDQB
+x-incomingheadercount: 42
+x-eopattributedmessage: 0
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(201702061074)(5061506573)(5061507331)(1603103135)(2017031320274)(2017031324274)(2017031323274)(201702181274)(2017031322404)(1601125374)(1603101448)(1701031045);SRVR:BO1IND01HT004;
+x-ms-exchange-slblob-mailprops: aVwBqh5jh9scV3MdA2iRQcYy5/2aguE+wijz5LMntU8GpNKLUXx+/hIWPl72RY9J243IWSn4J3YGp7rKB7WxZOPQwfMQBHQu5NCB5zQYNEatWKEFOCFFEuKn6/fvLWndqfCOVnc7NhXChp+CjIJfIyOXc+giuM9ngQ69RDaZMHGfnesZhV7dS9SjK7q/5QbZAlxdnQkKHKr3hJ6TsLhjy/SyIAgg/PUxLn9vUwYcl1J+rMFwMzEKKYRyzfPLih+rVW2kuIoIBBZ6PGdghT7Of9urof6t1RP7TxsthFINaO44BpWoS8Br22psCoMx1MBtTPmuhQIZR1be2PrHUyEbFUtnu9io86HU0YzknNeDct4P7MDD2sXArsjp6pwB4F4uk2tJw4gU5CvsTzu60AwyukUjBwNM21+gAY/8EBgz5pocsFShD7fRvbybb3N5slwznFwa0wm4ZPOK8zw9f/MhLp/9Yydu+ibF1VVje2t4RZKJDDsdg96EDPotELdUwanPsglPUKrCW1it374JaJf03HMuLVCSTR5cAPFO08d3MDunR0+ORr5gdJp/X44NhD4MjHQ0Xz77CsMD8Oc7DB7BeQ==
+x-ms-traffictypediagnostic: BO1IND01HT004:
+x-ms-office365-filtering-correlation-id: 01a5eb43-86da-4039-c5f8-08d54380bc7e
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(444000031);SRVR:BO1IND01HT004;BCL:0;PCL:0;RULEID:(100000803101)(100110400095);SRVR:BO1IND01HT004;
+x-forefront-prvs: 05220145DE
+x-forefront-antispam-report: SFV:NSPM;SFS:(7070007)(98901004);DIR:OUT;SFP:1901;SCL:1;SRVR:BO1IND01HT004;H:PN1PR0101MB1120.INDPRD01.PROD.OUTLOOK.COM;FPR:;SPF:None;LANG:;
+spamdiagnosticoutput: 1:99
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/alternative;
+	boundary="_000_PN1PR0101MB1120C28A38A42765089FE2DF850B0PN1PR0101MB1120_"
+MIME-Version: 1.0
+X-OriginatorOrg: hotmail.com
+X-MS-Exchange-CrossTenant-Network-Message-Id: 01a5eb43-86da-4039-c5f8-08d54380bc7e
+X-MS-Exchange-CrossTenant-originalarrivaltime: 15 Dec 2017 05:57:33.6655
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Internet
+X-MS-Exchange-CrossTenant-id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BO1IND01HT004
+
+--_000_PN1PR0101MB1120C28A38A42765089FE2DF850B0PN1PR0101MB1120_
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Hello,
+
+We are offering SMO (Twitter/ LinkedIn/ Facebook/ YouTube etc.), ORM (Onlin=
+e Reputation Management) Service, Google Maps Optimization, Google Adwords,=
+ SEO (with plan &activity)  services at modest rate.
+
+
+Note:  Celebrate For "Christmas" Digital Marketing Packages. This Discount =
+is Valid till   Offers in 1/12/2017 to 31/12/2017 Only 25% Discount.
+
+All Services are available on affordable Price.
+
+We work around the clock to assist our clients. So, if you are interested i=
+n our services, please send me your contact number.. We will send you the p=
+rice list and our previous work sample as per your requirement.
+
+We can schedule a call for better understanding of your requirement. Please=
+ share your availability to connect.
+
+Kinds Regards,
+Swadesh
+
+--_000_PN1PR0101MB1120C28A38A42765089FE2DF850B0PN1PR0101MB1120_
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+<style type=3D"text/css" style=3D"display:none;"><!-- P {margin-top:0;margi=
+n-bottom:0;} --></style>
+</head>
+<body dir=3D"ltr">
+<div id=3D"divtagdefaultwrapper" style=3D"font-size:12pt;color:#000000;font=
+-family:Calibri,Helvetica,sans-serif;" dir=3D"ltr">
+<p style=3D"margin-top:0;margin-bottom:0"><span style=3D"font-size:10.0pt;l=
+ine-height:115%;=0A=
+font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-fareast-font-famil=
+y:Calibri;mso-fareast-theme-font:=0A=
+minor-latin;color:#263238;mso-ansi-language:EN-US;mso-fareast-language:EN-U=
+S;=0A=
+mso-bidi-language:AR-SA">Hello,<br>
+<br>
+We are offering SMO (Twitter/ LinkedIn/ Facebook/ YouTube etc.), ORM (Onlin=
+e Reputation Management) Service, Google Maps Optimization, Google Adwords,=
+ SEO (with plan &amp;activity)&nbsp; services at modest rate.<br>
+<br>
+<br>
+<b>Note:&nbsp;</b>&nbsp;<b>Celebrate For &quot;Christmas&quot; Digital Mark=
+eting Packages. This Discount is Valid till&nbsp;</b>&nbsp;<b>&nbsp;Offers =
+in 1/12/2017 to&nbsp;31/12/2017&nbsp;Only 25% Discount.</b><br>
+<br>
+All Services are available on affordable Price.<br>
+<br>
+We work around the clock to assist our clients. So, if you are interested i=
+n our services, please send me&nbsp;your&nbsp;<b>contact number..</b>&nbsp;=
+We will send you the price list and our previous work sample as per your re=
+quirement.<br>
+<br>
+We can schedule a call for better understanding of your requirement. Please=
+ share your availability to&nbsp;connect.<br>
+<br>
+Kinds Regards,<br>
+<b>Swadesh</b></span><br>
+</p>
+</div>
+</body>
+</html>
+
+--_000_PN1PR0101MB1120C28A38A42765089FE2DF850B0PN1PR0101MB1120_--

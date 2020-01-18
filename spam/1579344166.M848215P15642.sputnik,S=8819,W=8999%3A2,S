@@ -1,0 +1,180 @@
+Return-Path: <bnm51@icrtest.org>
+Delivered-To: mail@stilfilm.com
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 69D68D4BCD
+	for <mail@stilfilm.com>; Tue, 14 Nov 2017 12:31:29 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: 4.885
+X-Spam-Level: ****
+X-Spam-Status: No, score=4.885 required=5.5 tests=[BAYES_50=0.8,
+	DKIM_SIGNED=0.1, HTML_MESSAGE=0.001, RAZOR2_CF_RANGE_51_100=0.5,
+	RAZOR2_CF_RANGE_E8_51_100=1.886, RAZOR2_CHECK=0.922,
+	RCVD_IN_DNSWL_NONE=-0.0001, SPF_SOFTFAIL=0.665, T_DKIM_INVALID=0.01,
+	URIBL_BLOCKED=0.001] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id yWoekMvrtkvS for <mail@stilfilm.com>;
+	Tue, 14 Nov 2017 12:31:27 +0100 (CET)
+Received: from mail-vk0-f68.google.com (mail-vk0-f68.google.com [209.85.213.68])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id DC977C210C
+	for <mail@stilfilm.com>; Tue, 14 Nov 2017 12:31:26 +0100 (CET)
+Received: by mail-vk0-f68.google.com with SMTP id k195so11960279vke.10
+        for <mail@stilfilm.com>; Tue, 14 Nov 2017 03:31:27 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=icrtest.org; s=google;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=oxmDwHONJY0CfcSAS/ferk2mDkprSNTkFovH1g0wI3E=;
+        b=g9L/KHEmozXVS1Nl6rbV3Rkt55OA0VGjW2oiJMFZ2pPkbY7PFMcpUyrM/alnFG5ugk
+         qS6KDwQNTlHHw0fIF5uBfoDUVKqHHIk+DxJdSMQAPdk0lpSFIuffEUcgpi3UGF+uFBiS
+         u5OGhbcPZFpvKfHw3NGdVxgEdfTVQLfqIWXfJ4XA0zOSPkk0K51W2FVHckEz61qONV0j
+         VQzCPKOV/Crsf/s/tElMd8pBdR2hzNoZUcfHrg4pN22lBdiPGb7rsA+p0AjmCEnOWH1j
+         PJnxOMeiP6i+I8X2MvJSdP1ZvfmW9jt55QcTxCSQ5Pd6kz9WRWwf1U97AOZrGGj6wEf9
+         cDhA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=oxmDwHONJY0CfcSAS/ferk2mDkprSNTkFovH1g0wI3E=;
+        b=p36jAPIrgfEjizgE2B3hTjMQkhkjw29CdNf3EAEpshUjrGLk/12ai0lniesGwqoUn0
+         zDkNj4JZaEF+wtYH7Q56yJXhqAz9xqi0Rnr9KgeXLf/w2XWo/Pc0wv8pVfTxS2AluwwC
+         4vi7ikJ0RL0MJuSxc2K9DZywHXtBuf+1kEWN55ojy8YPBWXOKYVjs6oG3S4/v9VHJuVF
+         QokZcJ7aThIxN6q+B6Hq7f7098WK3BTOr7sTOAc+n785jXj/un7ZS3kymilQ0VV4Ilme
+         hfbJWKUUr6fLvRuJIwtE5cPV8tEAfWrqm4ba0IaVOYKxwo7EXH019ZQcdy/5a++PY+m6
+         L5ZQ==
+X-Gm-Message-State: AJaThX72DCFnTjwQU5BgCcMkSaKaOwXy7JDkm5gqJm3Kg0kzLDpSFhe9
+	gu458F0nvOfyG/6qZdws6Zqb4OsP2YSUJyCZu7qKq3iXIEHAawqPW1yPrwGs6JQpjjNkmR6n36D
+	BcTUEj5ELxn6ZLPIAmRM=
+X-Google-Smtp-Source: AGs4zMbVuWDQbSdk/2uq7CkGXuG1yLv+VgR+JCELWcCvzzRGB+/7SaS+WtAsGpQ21hacCEx4i+ErWlmdAGl2+ueMZ3I=
+X-Received: by 10.31.200.5 with SMTP id y5mr9315062vkf.115.1510659085263; Tue,
+ 14 Nov 2017 03:31:25 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.103.105.81 with HTTP; Tue, 14 Nov 2017 03:31:24 -0800 (PST)
+From: Ashwani T <bnm51@icrtest.org>
+Date: Tue, 14 Nov 2017 17:01:24 +0530
+Message-ID: <CAFA9kX0xyZtYObMygZ8riJZ_Ns7A337J7BtyRgA1mH_kETeQbA@mail.gmail.com>
+Subject: 
+To: bala@eeccmc.org
+Content-Type: multipart/alternative; boundary="001a114ddbea279361055defba94"
+
+--001a114ddbea279361055defba94
+Content-Type: text/plain; charset="UTF-8"
+
+Esteemed Scholar,
+
+
+
+An IEEE based conference is organizing by PEC College, Vellore, Tamil Nadu,
+India during Jan. 28th & 29th of 2018. We are inviting you to participate
+or contribute your valuable research works in our prestigious conference.
+
+
+
+The papers which are accepted will be submitted for inclusion in *IEEE
+Xplore Digital library*.
+
+
+
+Recommendations from many authors, the last date of paper submission has
+been extended to 16th Nov. 2017.
+
+
+
+Online presentation facility is also provided to authors who are unable to
+reach the college.
+
+
+Further details at: *http://cutt.us/ZueLa <http://cutt.us/ZueLa>*
+
+-- 
+*Disclaimer:   *The information contained in this email is confidential and 
+may contain proprietary and/or personal information.
+ No warranty is given that this email is free of viruses. The integrity and 
+security of this message cannot be guaranteed on the Internet.
+
+*Please notify the sender immediately by e-mail if you have received this 
+e-mail by mistake and delete this e-mail from your system.*
+
+
+
+--001a114ddbea279361055defba94
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><p class=3D"MsoNormal" style=3D"margin-bottom:0.0001pt;tex=
+t-align:justify;line-height:normal"><span style=3D"font-size:12pt;font-fami=
+ly:&quot;Lucida Calligraphy&quot;">Esteemed Scholar, <span></span></span></=
+p>
+
+<p class=3D"MsoNormal" style=3D"margin-bottom:0.0001pt;text-align:justify;l=
+ine-height:normal"><span style=3D"font-size:12pt;font-family:&quot;Lucida C=
+alligraphy&quot;"><span>=C2=A0</span></span></p>
+
+<p class=3D"MsoNormal" style=3D"margin-bottom:0.0001pt;text-align:justify;l=
+ine-height:normal"><span style=3D"font-size:12pt;font-family:&quot;Lucida C=
+alligraphy&quot;">An IEEE based conference is organizing by PEC College, Ve=
+llore,
+Tamil Nadu, India during Jan. 28<sup>th</sup> &amp; 29<sup>th</sup> of 2018=
+. We
+are inviting you to participate or contribute your valuable research works =
+in
+our prestigious conference. <span></span></span></p>
+
+<p class=3D"MsoNormal" style=3D"margin-bottom:0.0001pt;text-align:justify;l=
+ine-height:normal"><span style=3D"font-size:12pt;font-family:&quot;Lucida C=
+alligraphy&quot;"><span>=C2=A0</span></span></p>
+
+<p class=3D"MsoNormal" style=3D"margin-bottom:0.0001pt;text-align:justify;l=
+ine-height:normal"><span style=3D"font-size:12pt;font-family:&quot;Lucida C=
+alligraphy&quot;">The papers which are accepted will be submitted for
+inclusion in <b>IEEE Xplore Digital library</b>.<span></span></span></p>
+
+<p class=3D"MsoNormal" style=3D"margin-bottom:0.0001pt;text-align:justify;l=
+ine-height:normal"><span style=3D"font-size:12pt;font-family:&quot;Lucida C=
+alligraphy&quot;"><span>=C2=A0</span></span></p>
+
+<p class=3D"MsoNormal" style=3D"margin-bottom:0.0001pt;text-align:justify;l=
+ine-height:normal"><span style=3D"font-size:12pt;font-family:&quot;Lucida C=
+alligraphy&quot;">Recommendations from many authors, the last date of paper
+submission has been extended to <span style=3D"background:yellow">16<sup>th=
+</sup> Nov. 2017.</span><span></span></span></p>
+
+<p class=3D"MsoNormal" style=3D"margin-bottom:0.0001pt;text-align:justify;l=
+ine-height:normal"><span style=3D"font-size:12pt;font-family:&quot;Lucida C=
+alligraphy&quot;"><span>=C2=A0</span></span></p>
+
+<p class=3D"MsoNormal" style=3D"margin-bottom:0.0001pt;text-align:justify;l=
+ine-height:normal"><span style=3D"font-size:12pt;font-family:&quot;Lucida C=
+alligraphy&quot;">Online presentation
+facility is also provided to authors who are unable to reach the college. <=
+span></span></span></p>
+
+<p class=3D"MsoNormal" style=3D"margin-bottom:0.0001pt;text-align:justify;l=
+ine-height:normal"><span style=3D"font-size:12pt;font-family:&quot;Lucida C=
+alligraphy&quot;"><span>=C2=A0</span></span></p>
+
+<span style=3D"font-size:12pt;line-height:115%;font-family:&quot;Lucida Cal=
+ligraphy&quot;">Further details at: <b><a href=3D"http://cutt.us/ZueLa">htt=
+p://cutt.us/ZueLa</a></b></span><br></div>
+
+<br>
+<span style=3D"font-family:Arial,Helvetica,sans-serif;font-size:1.3em;backg=
+round-color:white"><font face=3D"Arial, Helvetica, sans-serif" style=3D"fon=
+t-size:1.3em;font-family:Arial,Helvetica,sans-serif"><span style=3D"font-si=
+ze:13px"><b><i>Disclaimer:=C2=A0 =C2=A0</i></b></span></font><font face=3D"=
+Trebuchet" size=3D"3">The information contained in this email is confidenti=
+al and may contain proprietary and/or personal information.</font></span><d=
+iv><font face=3D"Arial" size=3D"2">=C2=A0No warranty is given that this ema=
+il is free of viruses. The integrity and security of this message cannot be=
+ guaranteed on the Internet.</font><br><div style=3D"font-family:Arial,Helv=
+etica,sans-serif;font-size:1.3em"><font face=3D"Trebuchet" size=3D"2" style=
+=3D"background-color:white"><br></font><div><font style=3D"background-color=
+:white"><i style=3D"font-size:small"><span style=3D"background-image:initia=
+l;background-position:initial;background-repeat:initial"><font face=3D"Cour=
+ier New">Please notify the sender immediately by e-mail if you have receive=
+d this e-mail by mistake and delete this e-mail from your system.</font></s=
+pan></i></font><div style=3D"font-family:Arial,Helvetica,sans-serif;font-si=
+ze:1.3em"><p style=3D"font-family:Arial,Helvetica,sans-serif"><br></p></div=
+></div></div></div>
+--001a114ddbea279361055defba94--

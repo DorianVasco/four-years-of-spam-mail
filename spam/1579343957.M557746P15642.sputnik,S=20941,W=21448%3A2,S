@@ -1,0 +1,507 @@
+Return-Path: <bounce-newsletter@mailersend.com>
+Delivered-To: mail@elementk.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 32727D271A;
+	Tue, 14 Feb 2017 18:14:31 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 4.038
+X-Spam-Level: ****
+X-Spam-Status: Yes, score=4.038 required=2 tests=[BAYES_99=3.5, BAYES_999=0.2,
+	DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	HTML_IMAGE_RATIO_02=0.437, HTML_MESSAGE=0.001,
+	RCVD_IN_DNSWL_BLOCKED=0.001, RP_MATCHES_RCVD=-0.001, SPF_PASS=-0.001,
+	URIBL_BLOCKED=0.001] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.yourvserver.net [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id lwIaOZj9Dm2C; Tue, 14 Feb 2017 18:14:29 +0100 (CET)
+Received: from mail4.mailersend.com (mail4.mailersend.com [92.61.33.190])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id 81B29D2713
+	for <mail@elementk.de>; Tue, 14 Feb 2017 18:14:29 +0100 (CET)
+Received: from mail4.mailersend.com (mail4.mailersend.com [92.61.33.190])
+	(using TLSv1.2 with cipher DHE-RSA-AES256-GCM-SHA384 (256/256 bits))
+	(Client CN "mailersend.com", Issuer "mailersend.com" (not verified))
+	by mail4.mailersend.com (Postfix) with ESMTPS id 50ABD10000B50
+	for <mail@elementk.de>; Tue, 14 Feb 2017 19:12:40 +0200 (EET)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; d=cgtrader.com; s=ml;
+	t=1487092360; bh=QMa0limw0rs6K6s9/VYfW/akfkU=;
+	h=Date:To:From:Reply-To:Subject:List-Unsubscribe;
+	b=dfyOV3RFA9VH20NWciK1eXsEiK1CYCsQTVhOqjsaC+ibmA8dASRARDksQEYN38eVf
+	 KzG3MR/Q8DuqEXCK3NNl6uW0wVE96yTGc2eW5JG6a1KkMegvnMgngL+GG8lvwkZK3Z
+	 zOHmxs7gkS+O5alebqbqjNFNV9Tk397Kz5hx/rO8=
+Date: Tue, 14 Feb 2017 19:12:40 +0200
+To: mail@elementk.de
+From: CGTrader <digest@cgtrader.com>
+Reply-To: CGTrader <digest@cgtrader.com>
+Subject: ***SPAM***
+	=?utf-8?B?Q2VsZWJyYXRlIHlvdXIgVmFsZW50aW5lJ3MgZGF5IHdpdGggM0QgbW9kZWxz?=
+Message-ID: <a0fc8deb6a2080e7ffc66aa5ca16c1d6@mailersend.com>
+X-Priority: 3
+X-Mailer-Code: b9l3k3r5u6u6j9d2
+X-Mailer-SubscriberID: 1863384639;d3i8
+Feedback-ID: cgtrader:69010367:campaign:mailerSoft
+X-Mailru-Msgtype: l8l5w1m1v3a8b5g1q5j9m7j8o2f6n3g8
+List-Unsubscribe: <mailto:unsubscribe-1863384639-d3i8-b9l3k3r5u6u6j9d2@mailersend.com?body=unsubscribe>, <http://cgtrader.mailersend.com/subscription/unsubscribe/1863384639/d3i8/y>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_a0fc8deb6a2080e7ffc66aa5ca16c1d6"
+
+
+--b1_a0fc8deb6a2080e7ffc66aa5ca16c1d6
+Content-Type: text/plain; charset = "UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello,
+
+You have received a newsletter from CGTrader. Unfortunately, it seems tha=
+t your email service does not support HTML formatting.
+
+Click here to view the newsletter:
+
+http://cgtrader.mailersend.com/links/view/41634251/69010367/2859155/h2a5w=
+7y/d3i8/1863384639/
+
+With best wishes,
+CGTrader
+
+
+
+If you no longer wish to receive news updates from CGTrader, please click=
+ here:
+http://cgtrader.mailersend.com/links/view/41634251/69010367/2859153/x7z5b=
+4p/d3i8/1863384639/
+
+
+--b1_a0fc8deb6a2080e7ffc66aa5ca16c1d6
+Content-Type: text/html; charset = "UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf=
+-8" />
+    <meta name=3D"format-detection" content=3D"address=3Dno" />
+    <meta name=3D"format-detection" content=3D"telephone=3Dno" />
+    <meta name=3D"format-detection" content=3D"email=3Dno" />
+   =20
+
+</head>
+<body class=3D"builder-background" style=3D"background: #EBE8E1; padding:=
+ 0; margin: 0; -webkit-font-smoothing:antialiased; width:100% !important;=
+ -webkit-text-size-adjust:none;" leftmargin=3D"0" topmargin=3D"0" marginw=
+idth=3D"0" marginheight=3D"0" yahoo=3D"fix" bgcolor=3D"#EBE8E1"><img styl=
+e=3D"display:block;"  src=3D"http://cgtrader.mailersend.com/links/open/41=
+634251/69010367/13499/d3i8/1863384639" width=3D"1" height=3D"1" alt=3D""/=
+><table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" c=
+lass=3D"builder-background" style=3D"background: #EBE8E1;" bgcolor=3D"#EB=
+E8E1">
+<tr>
+<td align=3D"center">
+
+<table width=3D"640" border=3D"0" align=3D"center" cellpadding=3D"0" cell=
+spacing=3D"0" id=3D"preheader">
+    <tr>
+        <td height=3D"15" class=3D"h20"></td>
+    </tr>
+        <tr>
+        <td height=3D"15" class=3D"h20"></td>
+    </tr>
+</table>
+
+    <table width=3D"640" border=3D"0" cellspacing=3D"0" class=3D"builder-=
+header builder-header-background builder-header-radius builder-header-tab=
+s-2 " cellpadding=3D"0" id=3D"headerTab2" style=3D" background-color: #FF=
+FFFF; " bgcolor=3D"#FFFFFF">
+        <tr>
+            <td class=3D"builder-header-padding" style=3D"">
+                <table width=3D"100%" border=3D"0" cellspacing=3D"0" cell=
+padding=3D"0">
+                    <tr>
+                        <td class=3D"main builder-header-content builder-=
+header-alignment builder-header-link builder-header-radius" style=3D"font=
+-weight: bold;  font-family: Verdana, Geneva, sans-serif;line-height: 26p=
+x; font-size: 20px;color: #FFFFFF; " align=3D"center" >
+                            <a class=3D"builder-header-content builder-he=
+ader-link" style=3D"font-family: Verdana, Geneva, sans-serif;line-height:=
+ 26px; font-size: 20px;color: #FFFFFF; " href=3D"http://cgtrader.mailerse=
+nd.com/links/view/41634251/69010367/2859143/c2i7h8o/d3i8/1863384639/" tar=
+get=3D"_blank">                                                          =
+                                                  <img width=3D"640" alig=
+n=3D"center" height=3D"100" border=3D"0" src=3D"http://cgtrader.mailersen=
+d.com/302661/default_68020141022180150.jpg" id=3D"image_max4" style=3D"di=
+splay:block;" class=3D"builder-header-radius" //>
+                                                                         =
+                           </a>                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+
+
+
+
+<table width=3D"640" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" cla=
+ss=3D"builder-content-background builder-content-radius" style=3D"backgro=
+und: #FFFFFF; " id=3D"content" bgcolor=3D"#FFFFFF">
+<tr>
+<td width=3D"640" align=3D"center" class=3D"content">
+
+<table width=3D"580" border=3D"0" align=3D"center" cellpadding=3D"0" cell=
+spacing=3D"0" class=3D"element">
+    <tr>
+        <td width=3D"580" height=3D"30" class=3D"h30"></td>
+    </tr>
+</table>
+
+
+
+
+
+
+    <table width=3D"580" cellspacing=3D"0" cellpadding=3D"0" border=3D"0"=
+  align=3D"center" class=3D"builder-content-divider divider" style=3D"bor=
+der-top-width:1px; border-top-style:solid; border-color: #D4CFC3;">
+        <tr>
+            <td width=3D"580" height=3D"30" class=3D"h30"></td>
+        </tr>
+    </table>
+
+
+    <table width=3D"580" border=3D"0" align=3D"center" cellpadding=3D"0" =
+cellspacing=3D"0" class=3D"element">
+        <tr>
+            <td align=3D"left" style=3D"font-family: 'Lucida Sans Unicode=
+', 'Lucida Grande', sans-serif;line-height: 19px; font-size: 13px;color: =
+#000000;"><p style=3D"            margin-top: 0px;            margin-bott=
+om: 10px;        ; font-family:'Lucida Sans Unicode', 'Lucida Grande', sa=
+ns-serif;font-size:13px;color:#000000; "  align=3D"center" style=3D""><st=
+rong><span style=3D"color: rgb(36, 64, 97);"><span style=3D"color: rgb(23=
+, 54, 93);"><span><span style=3D"color: rgb(54, 96, 146);"><span style=3D=
+"color: rgb(127, 127, 127);"><span style=3D"font-size: 24px;">HAPPY&nbsp;=
+VALENTINE'S!</span></span></span></span></span></span></span></span></str=
+ong></p></td>
+        </tr>
+        <tr>
+            <td width=3D"580" height=3D"20" class=3D"min-h20"></td>
+        </tr>
+    </table>
+
+
+
+    <table width=3D"580" border=3D"0" align=3D"center" cellpadding=3D"0" =
+cellspacing=3D"0" class=3D"element">
+        <tr>
+            <td class=3D"element">
+                <table width=3D"280" border=3D"0" cellspacing=3D"0" cellp=
+adding=3D"0" align=3D"left" class=3D"a-1">
+                    <tr>
+                        <td valign=3D"top">
+                           =20
+                                <table width=3D"100%" border=3D"0" cellsp=
+acing=3D"0" cellpadding=3D"0">
+                                    <tr>
+                                        <td align=3D"center"><a style=3D"=
+border: none;" href=3D"http://cgtrader.mailersend.com/links/view/41634251=
+/69010367/2859145/p5b2v6z/d3i8/1863384639/"><img style=3D"display:block;"=
+  src=3D"http://cgtrader.mailersend.com/data/emails/41/634/251/1020170214=
+181833.png?714" alt=3D"Low Poly Hearts" width=3D"280" height=3D"280" clas=
+s=3D"img image20" border=3D"0" id=3D"img-280" //></a></td>
+                                    </tr>
+                                    <tr>
+                                        <td height=3D"15"></td>
+                                    </tr>
+                                                                        <=
+tr>
+                                        <td align=3D"left" style=3D"font-=
+family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;line-height: 1=
+9px; font-size: 13px;color: #000000;"></td>
+                                    </tr>
+                                    <tr>
+                                        <td height=3D"20" class=3D"min-h2=
+0"></td>
+                                    </tr>
+                                </table>
+                           =20
+                        </td>
+                    </tr>
+                </table>
+                <table width=3D"280" border=3D"0" cellspacing=3D"0" cellp=
+adding=3D"0" align=3D"right" class=3D"a-1">
+                    <tr>
+                        <td valign=3D"top">
+                           =20
+                                <table width=3D"100%" border=3D"0" cellsp=
+acing=3D"0" cellpadding=3D"0">
+                                    <tr>
+                                        <td align=3D"center"><img style=3D=
+"display:block;"  src=3D"http://cgtrader.mailersend.com/data/emails/41/63=
+4/251/5920170214182229.png?159" width=3D"280" height=3D"280" class=3D"img=
+ image21" border=3D"0" id=3D"img-280" //></td>
+                                    </tr>
+                                    <tr>
+                                        <td height=3D"15"></td>
+                                    </tr>
+                                                                        <=
+tr>
+                                        <td align=3D"left" style=3D"font-=
+family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;line-height: 1=
+9px; font-size: 13px;color: #000000;"></td>
+                                    </tr>
+                                    <tr>
+                                        <td height=3D"20" class=3D"min-h2=
+0"></td>
+                                    </tr>
+                                </table>
+                           =20
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+
+    <table width=3D"580" border=3D"0" align=3D"center" cellpadding=3D"0" =
+cellspacing=3D"0" class=3D"element">
+        <tr>
+            <td class=3D"element">
+                <table width=3D"280" border=3D"0" cellspacing=3D"0" cellp=
+adding=3D"0" align=3D"left" class=3D"a-1">
+                    <tr>
+                        <td valign=3D"top">
+                           =20
+                                <table width=3D"100%" border=3D"0" cellsp=
+acing=3D"0" cellpadding=3D"0">
+                                    <tr>
+                                        <td align=3D"center"><a style=3D"=
+border: none;" href=3D"http://cgtrader.mailersend.com/links/view/41634251=
+/69010367/2859147/p5p6i9a/d3i8/1863384639/"><img style=3D"display:block;"=
+  src=3D"http://cgtrader.mailersend.com/data/emails/41/634/251/2201702141=
+61613.png?924" width=3D"280" height=3D"280" class=3D"img image15" border=3D=
+"0" id=3D"img-280" //></a></td>
+                                    </tr>
+                                    <tr>
+                                        <td height=3D"15"></td>
+                                    </tr>
+                                                                        <=
+tr>
+                                        <td align=3D"left" style=3D"font-=
+family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;line-height: 1=
+9px; font-size: 13px;color: #000000;"></td>
+                                    </tr>
+                                    <tr>
+                                        <td height=3D"20" class=3D"min-h2=
+0"></td>
+                                    </tr>
+                                </table>
+                           =20
+                        </td>
+                    </tr>
+                </table>
+                <table width=3D"280" border=3D"0" cellspacing=3D"0" cellp=
+adding=3D"0" align=3D"right" class=3D"a-1">
+                    <tr>
+                        <td valign=3D"top">
+                           =20
+                                <table width=3D"100%" border=3D"0" cellsp=
+acing=3D"0" cellpadding=3D"0">
+                                    <tr>
+                                        <td align=3D"center"><a style=3D"=
+border: none;" href=3D"http://cgtrader.mailersend.com/links/view/41634251=
+/69010367/2859149/j9q2a5w/d3i8/1863384639/"><img style=3D"display:block;"=
+  src=3D"http://cgtrader.mailersend.com/data/emails/41/634/251/5420170214=
+161705.png?988" alt=3D"High Poly Hearts" width=3D"280" height=3D"280" cla=
+ss=3D"img image16" border=3D"0" id=3D"img-280" //></a></td>
+                                    </tr>
+                                    <tr>
+                                        <td height=3D"15"></td>
+                                    </tr>
+                                                                        <=
+tr>
+                                        <td align=3D"left" style=3D"font-=
+family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;line-height: 1=
+9px; font-size: 13px;color: #000000;"></td>
+                                    </tr>
+                                    <tr>
+                                        <td height=3D"20" class=3D"min-h2=
+0"></td>
+                                    </tr>
+                                </table>
+                           =20
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+
+    <table width=3D"580" border=3D"0" align=3D"center" cellpadding=3D"0" =
+cellspacing=3D"0" class=3D"element">
+        <tr>
+            <td class=3D"element">
+                <table width=3D"280" border=3D"0" cellspacing=3D"0" cellp=
+adding=3D"0" align=3D"left" class=3D"a-1">
+                    <tr>
+                        <td valign=3D"top">
+                           =20
+                                <table width=3D"100%" border=3D"0" cellsp=
+acing=3D"0" cellpadding=3D"0">
+                                    <tr>
+                                        <td align=3D"center"><a style=3D"=
+border: none;" href=3D"http://cgtrader.mailersend.com/links/view/41634251=
+/69010367/2859151/a5r0t0e/d3i8/1863384639/"><img style=3D"display:block;"=
+  src=3D"http://cgtrader.mailersend.com/data/emails/41/634/251/5120170214=
+161843.png?417" width=3D"280" height=3D"281" class=3D"img image17" border=
+=3D"0" id=3D"img-280" //></a></td>
+                                    </tr>
+                                    <tr>
+                                        <td height=3D"15"></td>
+                                    </tr>
+                                                                        <=
+tr>
+                                        <td align=3D"left" style=3D"font-=
+family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;line-height: 1=
+9px; font-size: 13px;color: #000000;"></td>
+                                    </tr>
+                                    <tr>
+                                        <td height=3D"20" class=3D"min-h2=
+0"></td>
+                                    </tr>
+                                </table>
+                           =20
+                        </td>
+                    </tr>
+                </table>
+                <table width=3D"280" border=3D"0" cellspacing=3D"0" cellp=
+adding=3D"0" align=3D"right" class=3D"a-1">
+                    <tr>
+                        <td valign=3D"top">
+                           =20
+                                <table width=3D"100%" border=3D"0" cellsp=
+acing=3D"0" cellpadding=3D"0">
+                                    <tr>
+                                        <td align=3D"center"><a style=3D"=
+border: none;" href=3D"http://cgtrader.mailersend.com/links/view/41634251=
+/69010367/2859151/a5r0t0e/d3i8/1863384639/"><img style=3D"display:block;"=
+  src=3D"http://cgtrader.mailersend.com/data/emails/41/634/251/7320170214=
+162742.png?604" width=3D"280" height=3D"279" class=3D"img image18" border=
+=3D"0" id=3D"img-280" //></a></td>
+                                    </tr>
+                                    <tr>
+                                        <td height=3D"15"></td>
+                                    </tr>
+                                                                        <=
+tr>
+                                        <td align=3D"left" style=3D"font-=
+family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;line-height: 1=
+9px; font-size: 13px;color: #000000;"></td>
+                                    </tr>
+                                    <tr>
+                                        <td height=3D"20" class=3D"min-h2=
+0"></td>
+                                    </tr>
+                                </table>
+                           =20
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+
+
+    <table width=3D"580" border=3D"0" align=3D"center" cellpadding=3D"0" =
+cellspacing=3D"0" class=3D"element">
+        <tr>
+            <td align=3D"left" style=3D"font-family: 'Lucida Sans Unicode=
+', 'Lucida Grande', sans-serif;line-height: 19px; font-size: 13px;color: =
+#000000;"><p style=3D"            margin-top: 0px;            margin-bott=
+om: 10px;        ; font-family:'Lucida Sans Unicode', 'Lucida Grande', sa=
+ns-serif;font-size:13px;color:#000000; "  >See, we were right all along. =
+Spreading love can be quite cool sometimes.</p></td>
+        </tr>
+        <tr>
+            <td width=3D"580" height=3D"20" class=3D"min-h20"></td>
+        </tr>
+    </table>
+
+
+    <table width=3D"580" cellspacing=3D"0" cellpadding=3D"0" border=3D"0"=
+  align=3D"center" class=3D"builder-content-divider divider" style=3D"bor=
+der-top-width:1px; border-top-style:solid; border-color: #D4CFC3;">
+        <tr>
+            <td width=3D"580" height=3D"30" class=3D"h30"></td>
+        </tr>
+    </table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ </td>
+</tr>
+</table>
+    <table width=3D"640" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"=
+ class=3D"builder-footer-background builder-footer builder-footer-radius =
+" id=3D"footer" style=3D"background-color: #FFFFFF; " bgcolor=3D"#FFFFFF"=
+>
+        <tr>
+            <td height=3D"20" class=3D"h20"></td>
+        </tr>
+        <tr>
+            <td width=3D"640" class=3D"pad-30" style=3D"padding:0px 30px;=
+">
+                <table width=3D"100%" border=3D"0" align=3D"left" cellpad=
+ding=3D"0" cellspacing=3D"0">
+                    <tr>
+                        <td align=3D"left" class=3D"builder-footer-text b=
+uilder-footer-permission" style=3D"font-family: Verdana, Geneva, sans-ser=
+if;line-height: 19px; font-size: 13px;color: #777777;">You are receiving =
+this mail because you have registered on CGTrader.com.</td>
+                    </tr>
+                                                                        <=
+tr>
+                                <td align=3D"left" class=3D"builder-foote=
+r-address" style=3D"line-height: 17px; font-size: 11px;font-family: Verda=
+na, Geneva, sans-serif;color: #777777; padding-top:5px;"><span>Do not wan=
+t to get emails from us?</span> <a style=3D"color: #009F92;" href=3D"http=
+://cgtrader.mailersend.com/links/view/41634251/69010367/2859153/x7z5b4p/d=
+3i8/1863384639/" class=3D"builder-footer-unsubscribe-link">unsubscribe</a=
+></td>
+                            </tr>
+                                                            </table>
+            </td>
+        </tr>
+        <tr>
+            <td height=3D"20" class=3D"h20"></td>
+        </tr>
+    </table>
+<table width=3D"100%" border=3D"0" align=3D"center" cellpadding=3D"0" cel=
+lspacing=3D"0" class=3D"element">
+    <tr>
+        <td height=3D"30" class=3D"h30"></td>
+    </tr>
+</table>
+</td>
+</tr>
+</table>    </body>
+</html>
+
+
+
+--b1_a0fc8deb6a2080e7ffc66aa5ca16c1d6--
+
+

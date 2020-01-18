@@ -1,0 +1,63 @@
+Return-Path: <info@malina-tur.ru>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 3258EC795E
+	for <mail@dorianvasco.de>; Mon, 19 Nov 2018 16:16:04 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: -0.1
+X-Spam-Level:
+X-Spam-Status: No, score=-0.1 required=5.5 tests=[DKIM_SIGNED=0.1,
+	DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1, HTML_MESSAGE=0.001,
+	SPF_HELO_PASS=-0.001, SPF_PASS=-0.001, URIBL_BLOCKED=0.001]
+	autolearn=unavailable
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id to5h-ODq796f for <mail@dorianvasco.de>;
+	Mon, 19 Nov 2018 16:16:02 +0100 (CET)
+Received: from malina-tur.ru (malina-tur.ru [85.119.144.196])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 4B03EC7035
+	for <mail@dorianvasco.de>; Mon, 19 Nov 2018 16:15:59 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=key1; d=malina-tur.ru;
+ h=Message-ID:Reply-To:From:To:Subject:Date:MIME-Version:Content-Type; i=info@malina-tur.ru;
+ bh=z64RBwBLpisjY8lo9GEplbvIBQ4=;
+ b=FqRX063zGvutmreQPeEClNcYfZT5CU1Z7srm1TbiyIcORPa8Lt6MDYZ5LpOuj5qiqGbDh+IQ+bW0
+   r4To+V9XJOUFpZ0y56SYyFDIkc125qYxma+njYrXjoQYgD0QJ/4XC+uBFuRIF2aSN+UhK0GXVIS9
+   eoln8TmaguhDWNRA8n8=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=key1; d=malina-tur.ru;
+ b=lxczcbEjp+CCIirUopuOc0moWdv28dAGO/7mbP2DsRMfHHlJtMMb0PwDvBXTeba8n7wya9f1uxen
+   7SpUKD9mMhutbzb3jTuvRzKa3IsXm/zpmZihJk4FcghuFAQIpOwOYkbgj0EWEinSgpvB1J/A9N+x
+   o/tW7h1jyw3iioymkoM=;
+Message-ID: <a70f55f9255045496e2b9dce3afcd6daf2190346@malina-tur.ru>
+Reply-To: "Khant Dzheykob" <bounce@malina-tur.ru>
+From: "Khant Dzheykob" <info@malina-tur.ru>
+To: <mail@dorianvasco.de>
+Subject: That is  an important  offers
+Date: Mon, 19 Nov 2018 18:18:01 +0300
+Organization: Khant Dzheykob
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="21dbbab77ca88635e9eca51bef3b1a9a2966"
+X-Priority: 1
+
+--21dbbab77ca88635e9eca51bef3b1a9a2966
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+=C2=A0Hy there=C2=A0=C2=A0Look what we have for you!=C2=A0 a good offers =
+Just click on the link below to qualify
+
+--21dbbab77ca88635e9eca51bef3b1a9a2966
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<HTML><HEAD>
+<META http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+</HEAD>
+<BODY bgColor=3D#ffffff>
+<DIV align=3Dleft><A=20
+href=3D"https://drive.google.com/file/d/1uT6i1wGMinuJ-xacsiF0h5GuN-SmXDoK=
+/preview">&nbsp;Hy there&nbsp;&nbsp;Look what we have for you!&nbsp;=20
+a good offers Just click on the link below to qualify=20
+</A></DIV></BODY></HTML>
+
+--21dbbab77ca88635e9eca51bef3b1a9a2966--

@@ -1,0 +1,959 @@
+Return-Path: <update@em.facebookmail.com>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 58CC9D4B2D
+	for <mail@dorianvasco.de>; Wed, 22 Nov 2017 07:08:37 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: 0.569
+X-Spam-Level:
+X-Spam-Status: No, score=0.569 required=5.5 tests=[BAYES_00=-1.9,
+	DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	HTML_MESSAGE=0.001, MIME_HTML_ONLY=0.723,
+	RCVD_IN_BL_SPAMCOP_NET=1.347, RCVD_IN_DNSWL_NONE=-0.0001,
+	RCVD_IN_SORBS_SPAM=0.5, RP_MATCHES_RCVD=-0.001, SPF_HELO_PASS=-0.001,
+	SPF_PASS=-0.001, URIBL_BLOCKED=0.001] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id H6EasiWRXJNQ for <mail@dorianvasco.de>;
+	Wed, 22 Nov 2017 07:08:35 +0100 (CET)
+Received: from omp.em.facebookmail.com (omp.em.facebookmail.com [199.7.202.29])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 6B131C2C72
+	for <kontakt@dorianvasco.de>; Wed, 22 Nov 2017 07:08:35 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=facebookmail; d=em.facebookmail.com;
+ h=MIME-Version:Content-Type:Content-Transfer-Encoding:Date:To:From:Reply-To:
+ Subject:Message-ID; i=update@em.facebookmail.com;
+ bh=hOkweyY3M8sU60Fk9yG6j+oWfhf/5BPycQV4XYpC6fI=;
+ b=JRZWjuKNfabu3MjAmaL9ZN4GH9nuGdHjuoh13bs48BdCSxnlKCBqRr1PkXg1S4yrBkVtqIKwd3y5
+   ybKZ6WjzECr1lK/qG6xuyicfLRoNMihtp/be1WK8wlo5qqU4lyUbbLyFNwIYqUi7mRcwn4+DudM7
+   4d7w8zeShg7xLYLbZOE=
+Received: by omp.em.facebookmail.com id h2ka6829qu84 for <kontakt@dorianvasco.de>; Tue, 21 Nov 2017 22:08:35 -0800 (envelope-from <update@em.facebookmail.com>)
+X-CSA-Complaints: whitelist-complaints@eco.de
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+Date: Tue, 21 Nov 2017 22:08:35 -0800
+To: kontakt@dorianvasco.de
+From: "Jessica Chen | Facebook Business" <update@em.facebookmail.com>
+Reply-To: "Jessica Chen | Facebook Business" <noreply-ads@facebookmail.com>
+Subject: =?UTF-8?B?W1ZpZXJ0ZXIgVGlwcCBmcmVpZ2VzY2hhbHRldF0gU28gYmxlaWJl?=
+	=?UTF-8?B?biBkZWluZSBBbnplaWdlbiB3w6RocmVuZCBkZXIgRmVpZXJ0YWdl?=
+	=?UTF-8?B?IHNpY2h0YmFy?=
+Feedback-ID: 50067:11533475:oraclersys
+X-sgxh1: shglHslxKhjpHgNHkJhQKL
+X-rext: 5.interact5.EkgNaznxpVCXesT5g5NKR-helupFhb8eH8emCp2cISgcJnaK_P4Iq6Ipp7LDiCxQ
+X-cid: facebook.13418245
+X-CSA-Complaints: whitelist-complaints@eco.de
+Message-ID: <0.1.4F.E98.1D3635854B69150.0@omp.em.facebookmail.com>
+
+<=21DOCTYPE html PUBLIC =22-//W3C//DTD XHTML 1=2E0 Transitional//EN=22 =22h=
+ttp://www=2Ew3=2Eorg/TR/xhtml1/DTD/xhtml1-transitional=2Edtd=22>
+<html xmlns=3D=22http://www=2Ew3=2Eorg/1999/xhtml=22>
+<head>
+<meta http-equiv=3D=22Content-Type=22 content=3D=22text/html; charset=3Dutf=
+-8=22>
+<=21--=5Bif =21mso=5D><=21-->
+<meta http-equiv=3D=22X-UA-Compatible=22 content=3D=22IE=3Dedge=22>
+<=21--<=21=5Bendif=5D-->
+<meta name=3D=22viewport=22 content=3D=22width=3Ddevice-width, initial-scal=
+e=3D1=2E0=22>
+<title></title>
+<=21--<style type=3D=22text/css=22>
+
+</style>--><=21--=5Bif (gte mso 9)=7C(IE)=5D>
+    <style type=3D=22text/css=22>
+        table =7Bborder-collapse: collapse =21important;=7D
+    </style>
+    <=21=5Bendif=5D-->
+</head>
+<body style=3D=22margin-top:0 =21important;margin-bottom:0 =21important;mar=
+gin-right:0 =21important;margin-left:0 =21important;padding-top:0;padding-b=
+ottom:0;padding-right:0;padding-left:0;background-color:=23ffffff;=22><=21-=
+- Start Body table -->
+
+
+    <=21--=5Bif (gte mso 9)=7C(IE)=5D>
+			<table width=3D=22100%=22 align=3D=22center=22 style=3D=22border-collaps=
+e:collapse;border-spacing:0;font-family:'Arial Regular';color:=23333333;=22=
+ >
+			<tr>
+			<td bgcolor=3D=22=23F6F7F9=22 align=3D=22center=22 style=3D=22padding-to=
+p:0;padding-bottom:0;padding-right:0;padding-left:0;=22 >
+			<=21=5Bendif=5D--><table cellpadding=3D=220=22 cellspacing=3D=220=22 bor=
+der=3D=220=22 style=3D=22width:100%;margin: 0 =21important; border-spacing:=
+0; border-collapse:collapse;=22>
+        <tbody>
+            <tr>
+                <td bgcolor=3D=22=23F6F7F9=22 style=3D=22 padding-top:0;pad=
+ding-bottom:0;padding-right:0;padding-left:0; margin:0;  width:100%;=22><=
+=21-- Start First Main table contains whole card and Footer as well -->
+
+                    <=21--=5Bif (gte mso 9)=7C(IE)=5D>
+						<table width=3D=22100%=22 align=3D=22center=22 style=3D=22border-coll=
+apse:collapse; border-spacing:0;font-family:''; color:=23333333;=22 >
+						<tr>
+						<td style=3D=22padding-top:0;padding-bottom:0;padding-right:0;padding=
+-left:0;=22 >
+						<=21=5Bendif=5D--><table cellpadding=3D=220=22 cellspacing=3D=220=22 =
+border=3D=220=22  style=3D=22 padding: 0; margin:0; width:100%;border-spaci=
+ng:0; border-collapse:collapse;=22>
+
+                        <tbody>
+                            <tr>
+
+							<td class=3D=22header-background mobheight=22 align=3D=22center=22  =
+width=3D=22100%=22 style=3D=22background-image: url('http://static=2Ecdn=2E=
+responsys=2Enet/i5/responsysimages/content/facebook/Holiday-email-template-=
+header%20image-1350x325px=2Epng'); vertical-align:top;background-size:100% =
+275px;background-repeat:repeat-x;background-attachment:scroll; background-p=
+osition:left top;padding-top:0; padding-bottom:0; padding-right:0; padding-=
+left:0; margin:0; width:100%;=22><=21-- Start Second Main table contains wh=
+ole card and Footer as well -->
+
+                                    <=21--=5Bif (gte mso 9)=7C(IE)=5D>
+									<table width=3D=22600=22 align=3D=22center=22 style=3D=22border-sp=
+acing:0;font-family:Helvetica;color:=23333333;=22 >
+									<tr>
+									<td style=3D=22padding-top:0;padding-bottom:0;padding-right:0;padd=
+ing-left:0;=22 >
+									<=21=5Bendif=5D--><table border=3D=220=22 cellpadding=3D=220=22 ce=
+llspacing=3D=220=22 class=3D=22main-table mktoContainer=22 id=3D=22module-c=
+ontainer=22 style=3D=22border-spacing:0;border:0;font-family:'FreightSans L=
+F Pro', Arial,'Helvetica Neue', Helvetica; width:100%; max-width:600px;=22 =
+width=3D=22100%=22>
+
+                                        <tr class=3D=22mktoModule=22 id=3D=
+=22logo=22>
+                                            <td style=3D=22padding-bottom:0=
+;padding-left:0;padding-right:0;padding-top:0;=22><=21-- Start Main table c=
+ontains only cards -->
+
+                                                <=21--=5Bif (gte mso 9)=7C(=
+IE)=5D>
+									<table width=3D=22600=22 align=3D=22center=22 style=3D=22border-sp=
+acing:0;font-family:Helvetica;color:=23333333;=22 >
+									<tr>
+									<td style=3D=22padding-top:0;padding-bottom:0;padding-right:0;padd=
+ing-left:0;=22 >
+									<=21=5Bendif=5D--><table border=3D=220=22 cellpadding=3D=220=22 ce=
+llspacing=3D=220=22 class=3D=22main-table mktoContainer=22 id=3D=22module-c=
+ontainer=22 style=3D=22border-spacing:0;font-family:'FreightSans LF Pro', A=
+rial,'Helvetica Neue', Helvetica;max-width:600px;=22 width=3D=22100%=22>
+                                                    <tbody><=21--=5Bif (gte=
+ mso 9)=7C(IE)=5D>
+									<table width=3D=22600=22 align=3D=22center=22 style=3D=22backgroun=
+d-color:=23385A96;border-spacing:0;font-family:Helvetica;color:=23333333;=
+=22 bgcolor=3D=22=23385A96=22 >
+									<tr>
+									<td bgcolor=3D=22=23385A96=22 style=3D=22background-color:=23385A9=
+6;padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;=22 >
+									<=21=5Bendif=5D--><tr class=3D=22mktoModule=22 id=3D=22logo=22>
+                                                            <td  align=3D=
+=22center=22 style=3D=22padding-top:0;padding-bottom:0;padding-right:0;padd=
+ing-left:0;=22>
+
+
+                                                                <table  ali=
+gn=3D=22center=22 border=3D=220=22 cellpadding=3D=220=22 cellspacing=3D=220=
+=22 class=3D=22inner centeraligned centeralignedmargin full-width no-float =
+mobile-padding-top=22 width=3D=22100%=22 style=3D=22border-spacing:0;font-f=
+amily:'FreightSans LF Pro', Arial,'Helvetica Neue', Helvetica;width:100%;pa=
+dding-bottom:0px;padding-left:0px;padding-right:0px;padding-right:0px;margi=
+n:0;=22>
+
+                                                                    <tbody>
+                                                                        <tr>
+                                                                           =
+ <td align=3D=22center=22 class=3D=22centeraligned=22 style=3D=22vertical-a=
+lign:middle;padding-bottom:0px;padding-left:0px;padding-right:0px;padding-t=
+op:20px;=22><a href=3D=22http://em=2Efacebookmail=2Ecom/pub/cc?_ri_=3DX0Gzc=
+2X%3DYQpglLjHJlYQGsnvHFgzfize8zcLk2YnYvd0qoLtmizgoICLaCLu8iTJb1nJcgHdXyWbzb=
+AbiiBe9p8zfzaVXtpKX%3DSRBARYDY&_ei_=3DEolaGGF4SNMvxFF7KucKuWNxUF_O87nF4JBge=
+q4b7NmaeirFXaEvLP3P3W9V2I75_XAbfAADxavVSM=2E=22 target=3D=22_blank=22>
+                                                                           =
+         <img class=3D=22fblogo=22 alt=3D=22Facebook Business=22 border=3D=
+=220=22 class=3D=22centeralignedmargin=22 src=3D=22http://static=2Ecdn=2Ere=
+sponsys=2Enet/i5/responsysimages/content/facebook/fbb_white=2Epng=22 style=
+=3D=22border-style:none;=22 width=3D=22200=22 />
+                                                                           =
+     </a></td>
+                                                                        </t=
+r>
+                                                                    </tbody>
+                                                                </table>
+
+                                                                <table alig=
+n=3D=22center=22 border=3D=220=22 cellpadding=3D=220=22 cellspacing=3D=220=
+=22 class=3D=22inner centeraligned=22 width=3D=22100%=22 style=3D=22border-=
+spacing:0;width:100%;font-family:'FreightSans LF Pro', Arial,'Helvetica Neu=
+e', Helvetica;=22>
+                                                                    <tbody>
+                                                                        <tr>
+                                                                           =
+ <td align=3D=22center=22 class=3D=22centeraligned=22 style=3D=22font-famil=
+y:'FreightSans LF Pro', Arial,'Helvetica Neue', Helvetica;color:=23f8f8f8;t=
+ext-align:center; padding-top: 10px;padding-bottom:20px;=22>
+                                                                           =
+     <p class=3D=22logotext=22 style=3D=22color:=23ffffff;font-size:16px;ma=
+rgin:0;padding-top:5px;=22>Zum <a href=3D=22http://em=2Efacebookmail=2Ecom/=
+pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGsnvHFgzfize8zcLk2YnYvd0qoLtmizgoICLaCL=
+u8iTJb1nJcgHdXyWbzbAbiiBe9p8zfzaVXtpKX%3DSRBARASY&_ei_=3DEolaGGF4SNMvxFF7Ku=
+cKuWNxUF_O87nF4JBgeq4b7NmaeirFXaEvLP3P3W9V2I75_XAbfAADxavVSM=2E=22 target=
+=3D=22_blank=22 style=3D=22color:=23ffffff;text-decoration:underline;=22>Ho=
+liday Hub</a></p>
+                                                                           =
+ </td>
+                                                                        </t=
+r>
+                                                                    </tbody>
+                                                                </table>
+
+                                                            </td>
+                                                        </tr><=21--=5Bif (g=
+te mso 9)=7C(IE)=5D>
+							</td>
+								</tr>
+								</table>
+								<=21=5Bendif=5D-->
+
+                                                        <=21-- End FB LOGO =
+-->
+
+                                                        <=21--Start First C=
+ard  --><tr class=3D=22mktoModule=22 id=3D=22feature2=22>
+                                                            <td align=3D=22=
+center=22 bgcolor=3D=22=23D2F0EB=22 style=3D=22width:100%;vertical-align:to=
+p;padding-left:0;padding-right:0;padding-bottom:0;padding-top:0;margin:0;=
+=22>
+
+                                                                <table bord=
+er=3D=220=22 cellpadding=3D=220=22 cellspacing=3D=220=22 class=3D=22inner=
+=22 style=3D=22border-spacing:0;margin-left:0px;margin-right:0px;padding:0;=
+font-family:'FreightSans LF Pro', Arial,'Helvetica Neue', Helvetica;margin:=
+0;=22 width=3D=22600=22>
+                                                                    <tbody>
+
+                                                                        <tr>
+                                                                           =
+ <td style=3D=22margin:0;padding-top:0;padding-bottom:0;padding-right:0;pad=
+ding-left:0;=22><a href=3D=22http://em=2Efacebookmail=2Ecom/pub/cc?_ri_=3DX=
+0Gzc2X%3DYQpglLjHJlYQGsnvHFgzfize8zcLk2YnYvd0qoLtmizgoICLaCLu8iTJb1nJcgHdXy=
+WbzbAbiiBe9p8zfzaVXtpKX%3DSRBARAUY&_ei_=3DEolaGGF4SNMvxFF7KucKuWNxUF_O87nF4=
+JBgeq4b7NmaeirFXaEvLP3P3W9V2I75_XAbfAADxavVSM=2E=22 target=3D=22_blank=22> =
+<img src=3D=22http://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/cont=
+ent/facebook/Holiday-Email-DR4=2Egif=22 alt=3D=22Sprich Weihnachtseink=C3=
+=A4ufer mit den richtigen Anzeigenformaten an=22 border=3D=220=22 style=3D=
+=22width: 100%;display:block;border-width:0;outline:none; text-decoration:n=
+one; -ms-interpolation-mode: bicubic;=22 />
+
+                                                                           =
+     </a></td>
+                                                                        </t=
+r>
+                                                                        <tr>
+                                                                           =
+ <td style=3D=22text-decoration:none; color:=23333333; border-bottom:0;marg=
+in:0;background-color: =23D2F0EB; width:100%;text-align:center; padding-top=
+: 10px; padding-bottom: 40px; padding-left: 30px; padding-right:30px;font-f=
+amily:'FreightSans LF Pro', Arial,'Helvetica Neue', Helvetica;=22>
+
+                                                                           =
+     <p style=3D=22text-decoration:none; color:=23333333;font-size:16px;fon=
+t-family:'FreightSans LF Pro', Arial,'Helvetica Neue', Helvetica;letter-spa=
+cing:2px;font-weight: bold;margin-bottom:10px;=22>HERZLICHEN GL=C3=9CCKWUNS=
+CH=21</p>
+
+                                                                           =
+     <p style=3D=22text-decoration:none; color:=23333333;font:18px/30px Hel=
+vetica;=22>Du hast den vierten Tipp im Holiday Hub freigeschaltet&=23160;=
+=E2=80=93&=23160;hier findest du Ressourcen zur Vorbereitung auf die Weihna=
+chtssaison=2E</p>
+                                                                           =
+ </td>
+                                                                        </t=
+r>
+
+                                                                    </tbody>
+                                                                </table>
+
+                                                            </td>
+                                                        </tr><=21--End Firs=
+t Card  -->
+
+                                                        <=21-- Start Second=
+ Card  --><tr>
+                                                            <td style=3D=22=
+padding-bottom:0;padding-left:0; padding-right:0; padding-top:0; background=
+-color:=23ffffff;font-family:'FreightSans LF Pro', Arial,'Helvetica Neue', =
+Helvetica;=22>
+                                                                <table widt=
+h=3D=22100%=22 style=3D=22border-spacing:0; font-family:Helvetica; color:=
+=23333333;=22>
+                                                                    <tr>
+                                                                        <td=
+ style=3D=22width:100%;background-color:=23ffffff; padding-bottom:40px; pad=
+ding-left:30px;padding-right:30px;padding-top:40px;=22>
+                                                                           =
+ <p align=3D=22center=22 style=3D=22color:=23F35369;font:30px/35px 'Freight=
+Sans LF Pro', Arial,'Helvetica Neue', Helvetica; Margin:0;padding-bottom:0;=
+=22>Erziele bessere Ergebnisse mit deinen Anzeigen</p>
+                                                                           =
+ </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td=
+ style=3D=22padding-bottom:40px;padding-left:30px; padding-right:30px; padd=
+ing-top:0; font-family:'Helvetica',Regular;=22>
+
+                                                                           =
+ <div align=3D=22center=22 class=3D=22=22 style=3D=22padding-bottom:0;paddi=
+ng-top:0;=22><a href=3D=22http://em=2Efacebookmail=2Ecom/pub/cc?_ri_=3DX0Gz=
+c2X%3DYQpglLjHJlYQGsnvHFgzfize8zcLk2YnYvd0qoLtmizgoICLaCLu8iTJb1nJcgHdXyWbz=
+bAbiiBe9p8zfzaVXtpKX%3DSRBARAUY&_ei_=3DEolaGGF4SNMvxFF7KucKuWNxUF_O87nF4JBg=
+eq4b7NmaeirFXaEvLP3P3W9V2I75_XAbfAADxavVSM=2E=22 style=3D=22color:=23ffffff=
+;display:inline-block;border:0;=22><table cellspacing=3D=220=22 cellpadding=
+=3D=2215=22 bgcolor=3D=22=234080FF=22 style=3D=22border-width:1px;border-st=
+yle:solid;border-color:=234080FF;background-color:=234080FF;-webkit-border-=
+radius:5px;-moz-border-radius:5px;border-radius:5px;width:auto;border-spaci=
+ng:0; font-family:'Helvetica',Regular; color:=23333333;=22>
+                                                                           =
+             <tbody>
+                                                                           =
+                 <tr>
+                                                                           =
+                     <td bgcolor=3D=22=234080FF=22 style=3D=22color:=23ffff=
+ff;display:block;background-color:=234080FF;background-image:none;backgroun=
+d-repeat:repeat;background-position:top left;background-attachment:scroll;p=
+adding-top:14px;padding-bottom:14px;padding-right:14px;padding-left:14px;mi=
+n-width:250px; font-family:'Helvetica',Regular;=22>
+                                                                           =
+                         <div align=3D=22center=22 class=3D=22buttonFont=22=
+><a href=3D=22http://em=2Efacebookmail=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglL=
+jHJlYQGsnvHFgzfize8zcLk2YnYvd0qoLtmizgoICLaCLu8iTJb1nJcgHdXyWbzbAbiiBe9p8zf=
+zaVXtpKX%3DSRBARAUY&_ei_=3DEolaGGF4SNMvxFF7KucKuWNxUF_O87nF4JBgeq4b7NmaeirF=
+XaEvLP3P3W9V2I75_XAbfAADxavVSM=2E=22 style=3D=22color:=23ffffff; font-size:=
+18px;line-height:1=2E2em; font-family:'Helvetica',Regular; text-decoration:=
+none; width:100%; display:inline-block; border-width:0; letter-spacing:0=2E=
+6px;=22>Mehr dazu</a></div>
+                                                                           =
+                     </td>
+                                                                           =
+                 </tr>
+                                                                           =
+             </tbody>
+                                                                           =
+         </table></a></div>
+                                                                        </t=
+d>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td=
+ style=3D=22padding-bottom:40px;padding-left:30px; padding-right:30px; padd=
+ing-top:0;font-family:Helvetica;=22>
+
+                                                                           =
+ <p align=3D=22left=22 style=3D=22margin:0;font:16px/28px Helvetica;padding=
+-bottom:20px;=22>
+
+Hallo Dorian,
+</p>
+																			<p align=3D=22left=22 style=3D=22margin:0;font-family: H=
+elvetica; font-size:16px;line-height: 1=2E4em;=22>Facebook kann deinem Unte=
+rnehmen helfen, mehr K=C3=A4ufer w=C3=A4hrend der Weihnachtssaison zu errei=
+chen=2E Heute erf=C3=A4hrst du mehr zu folgenden Themen:</p>
+                                                                           =
+ <ul align=3D=22left=22 style=3D=22font-weight:bold;text-align:left;font-fa=
+mily: Helvetica; line-height: 1=2E4em; font-size: 16px; color: =23333333;ma=
+rgin-bottom: 40px;=22>
+                                                                           =
+     <li style=3D=22padding-bottom:10px;=22><strong>Steigere die Sichtbarke=
+it deiner Werbung</strong></li>
+                                                                           =
+     <li style=3D=22padding-bottom:10px;=22><strong>Optimiere f=C3=BCr die =
+Ergebnisse, die dir wichtig sind</strong></li>
+                                                                           =
+     <li style=3D=22padding-bottom:0=22><strong>Gebe dein Budget effizient =
+aus</strong></li>
+                                                                           =
+ </ul>
+
+																			<p align=3D=22left=22 style=3D=22margin:0;font-family: H=
+elvetica; font-size:16px;line-height: 1=2E4em;=22>Bist du bereit?</p>
+
+                                                                        </t=
+d>
+                                                                    </tr>
+<tr>
+                                                                        <td=
+ style=3D=22padding-bottom:30px;padding-left:30px; padding-right:30px; padd=
+ing-top:0; font-family:'Helvetica',Regular;=22>
+
+                                                                           =
+ <div align=3D=22center=22 class=3D=22=22 style=3D=22padding-bottom:0;paddi=
+ng-top:0;=22><a href=3D=22http://em=2Efacebookmail=2Ecom/pub/cc?_ri_=3DX0Gz=
+c2X%3DYQpglLjHJlYQGsnvHFgzfize8zcLk2YnYvd0qoLtmizgoICLaCLu8iTJb1nJcgHdXyWbz=
+bAbiiBe9p8zfzaVXtpKX%3DSRBARAUY&_ei_=3DEolaGGF4SNMvxFF7KucKuWNxUF_O87nF4JBg=
+eq4b7NmaeirFXaEvLP3P3W9V2I75_XAbfAADxavVSM=2E=22 style=3D=22color:=23ffffff=
+;display:inline-block;border:0;=22><table cellspacing=3D=220=22 cellpadding=
+=3D=2215=22 bgcolor=3D=22=234080FF=22 style=3D=22border-width:1px;border-st=
+yle:solid;border-color:=234080FF;background-color:=234080FF;-webkit-border-=
+radius:5px;-moz-border-radius:5px;border-radius:5px;width:auto;border-spaci=
+ng:0; font-family:'Helvetica',Regular; color:=23333333;=22>
+                                                                           =
+             <tbody>
+                                                                           =
+                 <tr>
+                                                                           =
+                     <td bgcolor=3D=22=234080FF=22 style=3D=22color:=23ffff=
+ff;display:block;background-color:=234080FF;background-image:none;backgroun=
+d-repeat:repeat;background-position:top left;background-attachment:scroll;p=
+adding-top:14px;padding-bottom:14px;padding-right:14px;padding-left:14px;mi=
+n-width:250px; font-family:'Helvetica',Regular;=22>
+                                                                           =
+                         <div align=3D=22center=22 class=3D=22buttonFont=22=
+><a href=3D=22http://em=2Efacebookmail=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglL=
+jHJlYQGsnvHFgzfize8zcLk2YnYvd0qoLtmizgoICLaCLu8iTJb1nJcgHdXyWbzbAbiiBe9p8zf=
+zaVXtpKX%3DSRBARAUY&_ei_=3DEolaGGF4SNMvxFF7KucKuWNxUF_O87nF4JBgeq4b7NmaeirF=
+XaEvLP3P3W9V2I75_XAbfAADxavVSM=2E=22 style=3D=22color:=23ffffff; font-size:=
+18px;line-height:1=2E2em; font-family:'Helvetica',Regular; text-decoration:=
+none; width:100%; display:inline-block; border-width:0; letter-spacing:0=2E=
+6px;=22>Mehr dazu</a></div>
+                                                                           =
+                     </td>
+                                                                           =
+                 </tr>
+                                                                           =
+             </tbody>
+                                                                           =
+         </table></a></div>
+                                                                        </t=
+d>
+                                                                    </tr>
+
+
+
+                                                                </table>
+                                                            </td>
+                                                        </tr><=21--End Seco=
+nd Card  -->
+
+
+
+														<=21-- Start Fourth card --><tr class=3D=22mktoModule=22 id=
+=3D=22feature2=22>
+                                                            <td align=3D=22=
+center=22 bgcolor=3D=22=23ffffff=22 style=3D=22vertical-align:top;padding-l=
+eft:0;padding-right:0;padding-bottom:0;padding-top:0;margin:0;=22>
+                                                                <table widt=
+h=3D=22100%=22 style=3D=22border-spacing:0; font-family:Helvetica; color:=
+=23333333;=22>
+                                                                    <tr>
+                                                                        <td=
+ style=3D=22width:100%;background-color:=23ffffff; padding-bottom:40px;padd=
+ing-left:30px;padding-right:30px;padding-top:30px;=22>
+
+                                                                          <=
+p align=3D=22center=22 style=3D=22color:=23F35369;font:30px/35px 'FreightSa=
+ns LF Pro', Arial,'Helvetica Neue', Helvetica; Margin:0;padding-bottom:0;=
+=22>Lass dir nichts entgehen=21 Unten findest du weitere Best Practices f=
+=C3=BCr die Weihnachtszeit=2E</p><=21---<p style=3D=22color:=23333333;paddi=
+ng-bottom:0;font: 16px/28px Helvetica;text-align: left; margin: 0;=22></p>-=
+->
+
+                                                                           =
+ <=21--=5Bif (gte mso 9)=7C(IE)=5D>
+														<table width=3D=22100%=22 style=3D=22border-spacing:0;font-fa=
+mily:Helvetica;color:=23333333;=22 >
+														<tr>
+														<td width=3D=22250=22 valign=3D=22top=22 style=3D=22padding-t=
+op:0;padding-bottom:0;padding-right:0;padding-left:0;=22 >
+														<=21=5Bendif=5D--><table align=3D=22left=22 border=3D=220=22 =
+cellpadding=3D=220=22 cellspacing=3D=220=22 class=3D=22inner centeralignedm=
+argin no-float full-width=22 width=3D=22250=22 style=3D=22border-spacing:0;=
+=22>
+                                                                           =
+     <tbody>
+                                                                           =
+         <tr>
+                                                                           =
+             <td style=3D=22font-family: 'Helvetica Neue', Helvetica, Arial=
+, sans-serif;font-size:14px;color:=23424242;padding-top:40px;padding-bottom=
+:10px;=22>
+                                                                           =
+                 <div class=3D=22mktoText=22 id=3D=22left-img=22><a href=3D=
+=22http://em=2Efacebookmail=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGsnvH=
+Fgzfize8zcLk2YnYvd0qoLtmizgoICLaCLu8iTJb1nJcgHdXyWbzbAbiiBe9p8zfzaVXtpKX%3D=
+SRBARAYY&_ei_=3DEolaGGF4SNMvxFF7KucKuWNxUF_O87nF4JBgeq4b7NmaeirFXaEvLP3P3W9=
+V2I75_XAbfAADxavVSM=2E=22><img alt=3D=22Kennzahlenver=C3=B6ffentlichung: Ne=
+ue M=C3=B6glichkeiten f=C3=BCr verst=C3=A4ndlichere Interaktionen=22 border=
+=3D=220=22 class=3D=22inner=22 src=3D=22http://static=2Ecdn=2Eresponsys=2En=
+et/i5/responsysimages/content/facebook/shaped%20card%20image%20unlocked%20D=
+R4=2Ejpg=22 style=3D=22border-width:0;-moz-border-radius:30px 30px 30px 0px=
+;-webkit-border-radius:30px 30px 30px 0px;border-radius:30px 30px 30px 0px;=
+ display:block;=22 width=3D=22250=22>
+                                                                           =
+                     </a></div>
+                                                                           =
+             </td>
+                                                                           =
+         </tr>
+                                                                           =
+         <tr>
+                                                                           =
+             <td style=3D=22font-family: Helvetica;padding-top:20px;padding=
+-bottom:0px;=22>
+                                                                           =
+                 <div class=3D=22mktoText=22 id=3D=22left-text=22>
+                                                                           =
+                     <p style=3D=22color:=23333333;font: bold 16px/28px Hel=
+vetica;text-align: left;margin-left: 0;margin-right:0;margin-bottom:10px;ma=
+rgin-top:0;=22><strong><a href=3D=22http://em=2Efacebookmail=2Ecom/pub/cc?_=
+ri_=3DX0Gzc2X%3DYQpglLjHJlYQGsnvHFgzfize8zcLk2YnYvd0qoLtmizgoICLaCLu8iTJb1n=
+JcgHdXyWbzbAbiiBe9p8zfzaVXtpKX%3DSRBARAYY&_ei_=3DEolaGGF4SNMvxFF7KucKuWNxUF=
+_O87nF4JBgeq4b7NmaeirFXaEvLP3P3W9V2I75_XAbfAADxavVSM=2E=22 style=3D=22color=
+:=23333333;text-decoration:underline;=22>Tipps zum Targeting</a></strong></=
+p>
+                                                                           =
+                     <p style=3D=22color:=23333333;font:16px/25px Helvetica=
+;text-align: left;margin: 0;=22>Erfahre, wie du mehr K=C3=A4ufer im Weihnac=
+htsgesch=C3=A4ft erreichst=2E</p>
+																							</div>
+																						</td>
+																					</tr>
+                                                                           =
+     </tbody>
+                                                                           =
+ </table><=21--=5Bif (gte mso 9)=7C(IE)=5D>
+														</td><td width=3D=22250=22 valign=3D=22top=22 style=3D=22padd=
+ing-top:0;padding-bottom:0;padding-right:0;padding-left:0;=22 >
+														<=21=5Bendif=5D--><table align=3D=22right=22 border=3D=220=22=
+ cellpadding=3D=220=22 cellspacing=3D=220=22 class=3D=22centeralignedmargin=
+ no-float full-width mobile-padding-top=22 width=3D=22250=22 style=3D=22bor=
+der-spacing:0;=22>
+                                                                           =
+     <tbody>
+                                                                           =
+         <tr>
+                                                                           =
+             <td style=3D=22font-family: 'Helvetica Neue', Helvetica, Arial=
+, sans-serif;font-size:14px;color:=23424242;padding-top:40px;padding-bottom=
+:10px;=22> <div class=3D=22mktoText=22 id=3D=22right-img=22><a href=3D=22ht=
+tp://em=2Efacebookmail=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGsnvHFgzfi=
+ze8zcLk2YnYvd0qoLtmizgoICLaCLu8iTJb1nJcgHdXyWbzbAbiiBe9p8zfzaVXtpKX%3DSRBAR=
+ASY&_ei_=3DEolaGGF4SNMvxFF7KucKuWNxUF_O87nF4JBgeq4b7NmaeirFXaEvLP3P3W9V2I75=
+_XAbfAADxavVSM=2E=22><img alt=3D=22=22 border=3D=220=22 class=3D=22inner=22=
+ src=3D=22http://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/content/=
+facebook/23019440_image_promo-banner-card1=2Epng=22 style=3D=22border-width=
+:0;-moz-border-radius:30px 30px 30px 0px;-webkit-border-radius:30px 30px 30=
+px 0px;border-radius:30px 30px 30px 0px; display:block;=22 width=3D=22250=
+=22>
+                                                                           =
+                     </a></div>
+                                                                           =
+             </td>
+                                                                           =
+         </tr>
+                                                                           =
+         <tr>
+                                                                           =
+             <td style=3D=22text-decoration:none;color:=23333333;font-famil=
+y: Helvetica;padding-top:20px;padding-bottom:0px;=22>
+                                                                           =
+                 <div class=3D=22mktoText=22 id=3D=22left-text=22>
+                                                                           =
+                     <p style=3D=22color:=23333333;font: bold 16px/28px Hel=
+vetica;text-align: left; margin-left: 0;margin-right:0;margin-bottom:10px;m=
+argin-top:0;=22><strong><a href=3D=22http://em=2Efacebookmail=2Ecom/pub/cc?=
+_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGsnvHFgzfize8zcLk2YnYvd0qoLtmizgoICLaCLu8iTJb1=
+nJcgHdXyWbzbAbiiBe9p8zfzaVXtpKX%3DSRBARASY&_ei_=3DEolaGGF4SNMvxFF7KucKuWNxU=
+F_O87nF4JBgeq4b7NmaeirFXaEvLP3P3W9V2I75_XAbfAADxavVSM=2E=22 style=3D=22colo=
+r:=23333333;text-decoration:underline;=22>Holiday Hub</a></strong></p>
+                                                                           =
+                     <p style=3D=22color:=23333333;font:16px/25px Helvetica=
+;text-align: left;margin: 0px; =22>Entdecke Ressourcen, durch die diese Wei=
+hnachtssaison f=C3=BCr dich zu einem Erfolg wird=2E</p>
+                                                                           =
+                 </div>
+                                                                           =
+             </td>
+                                                                           =
+         </tr>
+                                                                           =
+     </tbody>
+
+                                                                           =
+ </table><=21--=5Bif (gte mso 9)=7C(IE)=5D>
+														</td>
+														</tr>
+														</table>
+														<=21=5Bendif=5D--></td>
+
+                                                                    </tr><=
+=21--XXXXXXXX CARD START: Signature XXXXXX -->
+                                                                           =
+           <=21--      <tr>
+                                                                           =
+                     <td class=3D=22inner contents-footer=22 style=3D=22wid=
+th:100%;background-color:=23ffffff; padding-bottom:40px;padding-left:30px;p=
+adding-right:30px;padding-top:0;width:100%;text-align:left;line-height:24px=
+;=22>
+                                                                           =
+                         <p class=3D=22mainText=22 style=3D=22Margin:0;font=
+-size:16px;Margin-bottom:0px; color:=23333333;font-family:Helvetica;=22>Bes=
+t regards,
+                                                                           =
+                             <br />Jessica</p>
+                                                                           =
+                     </td>
+                                                                           =
+                 </tr> -->
+
+                                                                           =
+                 <=21--XXXXXXXX CARD END: Signature XXXXXX --></table>
+
+                                                            </td>
+
+                                                        </tr><=21-- End Fou=
+rth card -->
+
+
+                                                        <=21-- Start Eighth=
+ card --><tr>
+                                                            <td bgcolor=3D=
+=22=23385A96=22 style=3D=22padding-bottom:0;padding-left:0; padding-right:0=
+; padding-top:0; font-family:'FreightSans LF Pro', Arial,'Helvetica Neue', =
+Helvetica;=22>
+
+                                                                <table bgco=
+lor=3D=22=23385A96=22 width=3D=22100%=22 style=3D=22border-spacing:0;font-f=
+amily:'FreightSans LF Pro', Arial,'Helvetica Neue', Helvetica; background-i=
+mage: url('http://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/content=
+/facebook/Holiday-Footer-img=2Epng'); background-size: cover; background-po=
+sition:center center; background-repeat: no-repeat;border-spacing:0; margin=
+-left:0 =21important;margin-right:0 =21important;margin-top:0 =21important;=
+margin-bottom:0 =21important;=22>
+                                                                    <tr>
+                                                                        <td=
+ style=3D=22width:100%; padding-bottom:40px;padding-left:30px;padding-right=
+:30px;padding-top:40px;=22>
+
+                                                                           =
+ <table width=3D=22100%=22 style=3D=22border-spacing:0; font-family:Helveti=
+ca; color:=23333333;=22>
+                                                                           =
+     <tr>
+                                                                           =
+         <td style=3D=22text-align:center;padding-top:0px; padding-bottom:3=
+0px; padding-right:0px; padding-left:0px; font-family:Helvetica;color:=23ff=
+ffff;margin-bottom:30px;=22>
+
+                                                                           =
+             <p style=3D=22text-decoration:none;color:=23ffffff;font:16px/2=
+8px Helvetica;margin:0;margin-bottom:0;=22>Mit freundlichen Gr=C3=BC=C3=9Fe=
+n<br/>Jessica</p>
+
+                                                                           =
+         </td>
+                                                                           =
+     </tr>
+                                                                           =
+     <tr>
+                                                                           =
+         <td style=3D=22padding-bottom:0;padding-left:0; padding-right:0; p=
+adding-top:0;=22>
+                                                                           =
+             <div align=3D=22center=22>
+                                                                           =
+                 <tr>
+                                                                           =
+                     <td align=3D=22center=22 style=3D=22padding-top:0; pad=
+ding-bottom:0; padding-right:0; padding-left:0; font-family:Helvetica;color=
+:=23ffffff;=22><img  class=3D=22signimg=22 align=3D=22center=22 src=3D=22ht=
+tp://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/content/facebook/224=
+51061_image_jessica=2Ejpg=22 width=3D=22150=22 alt=3D=22Facebook for Busine=
+ss=22 style=3D=22margin:0 =21important;border-width:0;=22 class=3D=22inner=
+=22 /></td>
+                                                                           =
+                 </tr>
+                                                                           =
+             </div>
+                                                                           =
+         </td>
+                                                                           =
+     </tr>
+
+                                                                           =
+     <tr>
+                                                                           =
+         <td align=3D=22center=22 style=3D=22text-align:center;	padding-top=
+:30px; padding-bottom:0; padding-right:0; padding-left:0;font-family:Helvet=
+ica; color:=23ffffff;=22>
+                                                                           =
+             <p style=3D=22color:=23ffffff;font:16px/28px Helvetica;margin:=
+0;margin-top:0;=22>Jessica Chen<br/>Marketing Manager<br/>Facebook Business=
+-Team<br/>
+                                                                           =
+             </p>
+                                                                           =
+         </td>
+                                                                           =
+     </tr>
+                                                                           =
+     <tr>
+                                                                           =
+         <td align=3D=22center=22 style=3D=22padding-top:30px;padding-botto=
+m:30px;margin:0;=22>
+                                                                           =
+             <div align=3D=22center=22 class=3D=22=22 style=3D=22padding-bo=
+ttom:0px;padding-top:0px;=22><a href=3D=22http://em=2Efacebookmail=2Ecom/pu=
+b/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGsnvHFgzfize8zcLk2YnYvd0qoLtmizgoICLaCLu8=
+iTJb1nJcgHdXyWbzbAbiiBe9p8zfzaVXtpKX%3DSRBARAUY&_ei_=3DEolaGGF4SNMvxFF7KucK=
+uWNxUF_O87nF4JBgeq4b7NmaeirFXaEvLP3P3W9V2I75_XAbfAADxavVSM=2E=22 style=3D=
+=22color:=23333333;display:inline-block;border:0;=22><table cellspacing=3D=
+=220=22 cellpadding=3D=2215=22 bgcolor=3D=22=23F6F7F9=22 style=3D=22border-=
+width:1px;border-style:solid;border-color:=23F6F7F9;background-color:=23F6F=
+7F9;-webkit-border-radius:5px;-moz-border-radius:5px;border-radius:5px;widt=
+h:auto;border-spacing:0;font-family:'Helvetica;color:=23333333;=22>
+                                                                           =
+                         <tbody>
+                                                                           =
+                             <tr>
+                                                                           =
+                                 <td bgcolor=3D=22=23F6F7F9=22 style=3D=22c=
+olor:=23333333;display:block;background-color:=23F6F7F9;background-image:no=
+ne;background-repeat:repeat;background-position:top left;background-attachm=
+ent:scroll;padding-top:14px;padding-bottom:14px;padding-right:14px;padding-=
+left:14px;min-width:250px;font-family:Helvetica;=22>
+                                                                           =
+                                     <div align=3D=22center=22 class=3D=22b=
+uttonFont=22><a href=3D=22http://em=2Efacebookmail=2Ecom/pub/cc?_ri_=3DX0Gz=
+c2X%3DYQpglLjHJlYQGsnvHFgzfize8zcLk2YnYvd0qoLtmizgoICLaCLu8iTJb1nJcgHdXyWbz=
+bAbiiBe9p8zfzaVXtpKX%3DSRBARAUY&_ei_=3DEolaGGF4SNMvxFF7KucKuWNxUF_O87nF4JBg=
+eq4b7NmaeirFXaEvLP3P3W9V2I75_XAbfAADxavVSM=2E=22 style=3D=22color:=23333333=
+;font-weight:bold;font-size:18px;line-height:1=2E2em;font-family:Helvetica;=
+text-decoration:none;width:100%;display:inline-block;border-width:0;letter-=
+spacing:0=2E6px;=22>Mehr dazu</a></div>
+                                                                           =
+                                 </td>
+                                                                           =
+                             </tr>
+                                                                           =
+                         </tbody>
+                                                                           =
+                     </table></a></div>
+
+                                                                           =
+         </td>
+                                                                           =
+     </tr>
+                                                                           =
+ </table>
+                                                                        </t=
+d>
+                                                                    </tr>
+                                                                </table>
+                                                            </td>
+                                                        </tr><=21-- End Eig=
+hth card -->
+														<=21--Start ME Banner-->
+                                                        <=21-- Start  Ninet=
+h card --><tr>
+                                                            <td bgcolor=3D=
+=22=23ffffff=22 style=3D=22padding-bottom:0;padding-left:0; padding-right:0=
+; padding-top:0; font-family:'FreightSans LF Pro', Arial,'Helvetica Neue', =
+Helvetica;=22><=21--=5Bif (gte mso 9)=7C(IE)=5D>
+                                																<table width=3D=22600=22 al=
+ign=3D=22center=22 style=3D=22border-spacing:0;font-family:Helvetica;color:=
+=23333333;=22 >
+                                																<tr>
+                                																<td style=3D=22padding-top:=
+40px;padding-bottom:0;padding-right:0;padding-left:0;=22 >
+                                															<=21=5Bendif=5D--><table bgc=
+olor=3D=22=23ffffff=22 width=3D=22100%=22 style=3D=22margin:0;border-spacin=
+g:0;font-family:'FreightSans LF Pro', Arial,'Helvetica Neue', Helvetica;=22>
+                                                                           =
+                         <tr>
+                                                                           =
+                             <td style=3D=22width:100%; padding-bottom:0;pa=
+dding-left:0;padding-right:0;padding-top:0;=22>
+
+                                                                           =
+                                 <p style=3D=22font-size:16px; color:=23626=
+262; font-family:'FreightSans LF Pro', Arial,'Helvetica Neue', Helvetica;li=
+ne-height:24px;=22></p>
+                                                                           =
+                             </td>
+                                                                           =
+                         </tr>
+                                                                           =
+                     </table><=21--=5Bif (gte mso 9)=7C(IE)=5D>
+                                																	</td>
+                                																	</tr>
+                                																	</table>
+                                																<=21=5Bendif=5D--></td>
+                                                        </tr><=21-- End  ni=
+ne card -->
+                                                        <=21--End ME Banner=
+--></tbody>
+                                                </table><=21--=5Bif (gte ms=
+o 9)=7C(IE)=5D>
+							</td>
+								</tr>
+								</table>
+								<=21=5Bendif=5D-->
+
+                                                <=21-- End Main table conta=
+ins only cards -->
+
+                                                <=21-- Start Footer -->
+                                                <=21--=5Bif (gte mso 9)=7C(=
+IE)=5D>
+									<table width=3D=22600=22 align=3D=22center=22 style=3D=22border-sp=
+acing:0;color:=23333333;=22 >
+									<tr>
+									<td style=3D=22padding-top:0;padding-bottom:0;padding-right:0;padd=
+ing-left:0;=22 >
+									<=21=5Bendif=5D--><table class=3D=22outer=22 align=3D=22center=22 =
+style=3D=22border-spacing:0;font-family: 'Helvetica Neue', Helvetica, Arial=
+, sans-serif;color:=23333333;Margin:0 auto;width:100%;max-width:600px;=22>
+                                                    <tbody>
+                                                        <tr class=3D=22mkto=
+Module=22 id=3D=22feature2=22>
+                                                            <td align=3D=22=
+center=22 bgcolor=3D=22=23F6F7F9=22 style=3D=22vertical-align:top;padding-l=
+eft:0;padding-right:0;padding-bottom:0;padding-top:0;margin:0;=22>
+                                                                <table widt=
+h=3D=22100%=22 style=3D=22border-spacing:0; font-family:Arial; color:=23333=
+333;=22>
+                                                                    <tr>
+                                                                        <td=
+ style=3D=22width:100%;background-color:=23F6F7F9; padding-bottom:10px;padd=
+ing-left:30px;padding-right:30px;padding-top:40px;=22>
+                                                                           =
+ <table width=3D=22100%=22 style=3D=22border-spacing:0; font-family:Arial; =
+color:=23333333;=22>
+                                                                           =
+     <tr>
+                                                                           =
+         <td align=3D=22center=22 style=3D=22background-color:=23F6F7F9;pad=
+ding-top: 0;padding-bottom: 0;padding-right:0;padding-left: 0;=22><img src=
+=3D=22http://opn-wipro-au3=2Erightnowdemo=2Ecom/rnt/rnw/img/enduser/fbb_blu=
+e=2Epng=22 width=3D=22250=22 alt=3D=22Facebook for Business=22 style=3D=22m=
+argin:0 =21important;border-width:0;=22 /></td>
+                                                                           =
+     </tr>
+																			</table>
+																		</td>
+																	</tr>
+																</table>
+															</td>
+														</tr>
+														<tr>
+															<td align=3D=22center=22 class=3D=22inner contents footer-ad=
+d=22 style=3D=22font-family: 'Helvetica'; font-size: 12px; color:=23333333;=
+ text-align:center;color:=23B9B8B8;padding-top:10px;padding-bottom:40px;pad=
+ding-right:30px;padding-left:30px;width:100%;=22>
+                                                                <p style=3D=
+=22font: 12px; Helvetica;=22>
+
+<div style=3D=22margin-bottom:5px; margin-top:5px;=22>
+
+Diese Nachricht wurde an kontakt=40dorianvasco=2Ede gesendet=2E Da du ein K=
+unde von Facebook-Werbeanzeigen bist, werden wir dir ab und zu E-Mails mit =
+Tipps zur Optimierung deines Kontos senden=2E Falls du Fragen zu Werbeanzei=
+gen haben solltest, erh&auml;ltst du hier <a href=3D=22http://em=2Efacebook=
+mail=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGsnvHFgzfize8zcLk2YnYvd0qoLt=
+mizgoICLaCLu8iTJb1nJcgHdXyWbzbAbiiBe9p8zfzaVXtpKX%3DSRBARADY&_ei_=3DEolaGGF=
+4SNMvxFF7KucKuWNxUF_O87nF4JBgeq4b7NmaeirFXaEvLP3P3W9V2I75_XAbfAADxavVSM=2E=
+=22 style=3D=22font-size: 1em;color:=233b5998;text-decoration:none;=22>Hilf=
+e</a>=2E
+=20
+<br/><br/> Wenn du die Einstellung &auml;ndern m&ouml;chtest, welche Benach=
+richtigungen du von Facebook-Werbeanzeigen erh&auml;ltst, besuche bitte die=
+ <a href=3D=22http://em=2Efacebookmail=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DYQpglL=
+jHJlYQGsnvHFgzfize8zcLk2YnYvd0qoLtmizgoICLaCLu8iTJb1nJcgHdXyWbzbAbiiBe9p8zf=
+zaVXtpKX%3DSRBARBSY&_ei_=3DEgv-M8xKnDS8A6lEzlCj3VI4VulCO6GC6O3iquD0BGyDG16A=
+VzwvD5LsiE9ItJRvES3FwuDkmX-aXljrRjKqMv-q910jV0G5UW7z3I5e1P8jLyk=2E=22 style=
+=3D=22font-size: 1em;color:=233b5998;text-decoration:none;=22>&bdquo;Einste=
+llungen&ldquo;-Seite</a>=2E<br/>Facebook, Inc=2E, Attention: Community Supp=
+ort, Menlo Park, CA 94025
+
+
+</div></p>
+                                                            </td>
+
+                                                        </tr>
+													</tbody>
+												</table>
+
+                                                                        </t=
+d>
+                                                                    </tr>
+                                                                </table>
+                                                            </td>
+															</tr>
+                                                   =20
+                                                </table><=21--=5Bif (gte ms=
+o 9)=7C(IE)=5D>
+									</td>
+									</tr>
+									</table>
+									<=21=5Bendif=5D-->
+                                                <=21-- End Footer --></td>
+
+                                            </tr>
+                                    </table><=21--=5Bif (gte mso 9)=7C(IE)=
+=5D>
+
+								</td>
+
+								</tr>
+
+								</table>
+
+								<=21=5Bendif=5D-->
+                                    <=21-- End Second Main table contains w=
+hole card and Footer as well --></td>
+                                </tr>
+                        </tbody>
+                    </table><=21--=5Bif (gte mso 9)=7C(IE)=5D>
+			</td>
+			</tr>
+			</table>
+			<=21=5Bendif=5D-->
+
+                    <=21-- End First Main table contains whole card and Foo=
+ter as well --></td>
+
+
+
+                </tr>
+
+        </tbody>
+    </table>
+    <=21--=5Bif (gte mso 9)=7C(IE)=5D>
+			</td>
+			</tr>
+			</table>
+			<=21=5Bendif=5D-->
+
+
+    <=21-- End Body table --><br><table cellpadding=3D=220=22 cellspacing=
+=3D=220=22 style=3D=22border: 0px; padding: 0px; margin: 0px; position: abs=
+olute; display: none; float: left=22>
+<tr>
+<td height=3D=221=22 style=3D=22font-size: 1px; line-height: 1px; padding: =
+0px;=22>
+<br><img height=3D=221=22 width=3D=221=22 style=3D =22padding: 0px 0px; =21=
+important; margin: 0px 0px; font-size: 1px; line-height: 1px;=22 src=3D=22h=
+ttp://em=2Efacebookmail=2Ecom/pub/as?_ri_=3DX0Gzc2X%3DYQpglLjHJlYQGsnvHFgzf=
+ize8zcLk2YnYvd0qoLtmizgoICLaCLu8iTJb1nJcgHdXyWbzbAbiiBe9p8zfzaVXHkMX%3Dw&_e=
+i_=3DEolaGGF4SNMvxFF7KucKuWNxUF_O87nF4JBgeq4b7NmaeirFXaEvLP3P3W9V2I75_XAbfA=
+ADxavVSM=2E=22></img>
+</td>
+</tr>
+</table></body></html>
+
+
+

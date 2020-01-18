@@ -1,0 +1,135 @@
+Received: from localhost by v22014122474822114.stilfilm.com
+	with SpamAssassin (version 3.3.2);
+	Wed, 22 Nov 2017 21:12:51 +0100
+From: info GCS <info@wdb-paket.net>
+To: info@dorianvasco.de
+Subject: *****SPAM***** ***SPAM*** AW: Produkt
+Date: Tue, 24 Oct 2017 10:24:11 +0300
+Message-Id: <20171024_072411_094038.info@wdb-paket.net>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	v22014122474822114.stilfilm.com
+X-Spam-Flag: YES
+X-Spam-Level: ************
+X-Spam-Status: Yes, score=12.3 required=5.0 tests=RAZOR2_CF_RANGE_51_100,
+	RAZOR2_CHECK,RCVD_IN_BRBL_LASTEXT,RCVD_IN_PSBL,RDNS_NONE,URIBL_BLOCKED,
+	URIBL_DBL_SPAM autolearn=unavailable version=3.3.2
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----------=_5A15DA43.71E66AE6"
+
+This is a multi-part message in MIME format.
+
+------------=_5A15DA43.71E66AE6
+Content-Type: text/plain; charset=iso-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+
+Software zur Erkennung von "Spam" auf dem Rechner
+
+    v22014122474822114.stilfilm.com
+
+hat die eingegangene E-mail als mögliche "Spam"-Nachricht identifiziert.
+Die ursprüngliche Nachricht wurde an diesen Bericht angehängt, so dass
+Sie sie anschauen können (falls es doch eine legitime E-Mail ist) oder
+ähnliche unerwünschte Nachrichten in Zukunft markieren können.
+Bei Fragen zu diesem Vorgang wenden Sie sich bitte an
+
+    the administrator of that system
+
+Vorschau: Sehr geehrte Damen und Herren, Es ist mir eine Ehre, Ihnen
+   das Produkt vorzustellen, welches an die BedÃ¼rfnisse Ihrer Firma vollkommen
+   angepasst ist. Unser Erzeugnis erlaubt Ihnen, die neue Kundschaft zu gewinnen
+   und den Verkauf sofort zu erhÃ¶hen. [...] 
+
+Inhaltsanalyse im Detail:   (12.3 Punkte, 5.0 benötigt)
+
+Pkte Regelname              Beschreibung
+---- ---------------------- --------------------------------------------------
+ 2.7 RCVD_IN_PSBL           RBL: Received via a relay in PSBL
+                            [176.99.2.28 listed in psbl.surriel.com]
+ 1.6 RCVD_IN_BRBL_LASTEXT   RBL: RCVD_IN_BRBL_LASTEXT
+                            [176.99.2.28 listed in bb.barracudacentral.org]
+ 0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+                            See
+                            http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                             for more information.
+                            [URIs: wdb-paket.net]
+ 2.5 URIBL_DBL_SPAM         Contains a spam URL listed in the DBL blocklist
+                            [URIs: wdb-paket.net]
+ 2.4 RAZOR2_CF_RANGE_51_100 Razor2 Spam-Bewertung liegt zwischen 51 und
+                            100
+                            [cf: 100]
+ 1.7 RAZOR2_CHECK           Gelistet im "Razor2"-System (http://razor.sf.net/)
+ 1.3 RDNS_NONE              Delivered to internal network by a host with no rDNS
+
+
+
+------------=_5A15DA43.71E66AE6
+Content-Type: message/rfc822; x-spam-type=original
+Content-Description: original message before SpamAssassin
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+
+Return-Path: <info@wdb-paket.net>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 08863D4CD3
+	for <mail@dorianvasco.de>; Tue, 24 Oct 2017 09:24:12 +0200 (CEST)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 10.302
+X-Spam-Level: **********
+X-Spam-Status: Yes, score=10.302 required=5.5 tests=[BAYES_99=3.5,
+	BAYES_999=0.2, RAZOR2_CF_RANGE_51_100=0.5,
+	RAZOR2_CF_RANGE_E8_51_100=1.886, RAZOR2_CHECK=0.922, RDNS_NONE=0.793,
+	URIBL_BLOCKED=0.001, URIBL_DBL_SPAM=2.5] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id We1vCOBddD9E for <mail@dorianvasco.de>;
+	Tue, 24 Oct 2017 09:24:10 +0200 (CEST)
+Received: from wdb-paket.net (unknown [176.99.2.28])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id BC012C3C5B
+	for <info@dorianvasco.de>; Tue, 24 Oct 2017 09:24:10 +0200 (CEST)
+To: info@dorianvasco.de
+From: info GCS <info@wdb-paket.net>
+Subject: ***SPAM*** AW: Produkt
+Date: Tue, 24 Oct 2017 10:24:11 +0300
+Message-ID: <20171024_072411_094038.info@wdb-paket.net>
+X-Mailer: MAOM
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain; charset="utf-8"
+Mime-Version: 1.0
+
+Sehr geehrte Damen und Herren, 
+
+
+Es ist mir eine Ehre, Ihnen das Produkt vorzustellen, welches an die BedÃ¼rfnisse Ihrer Firma vollkommen angepasst ist.
+Unser Erzeugnis erlaubt Ihnen, die neue Kundschaft zu gewinnen und den Verkauf sofort zu erhÃ¶hen.
+
+Der Katalog enthÃ¤lt Ã¼ber 1,4 Millionen Adressen und gehÃ¶rt zu den grÃ¶ÃŸten auf dem deutschen Markt.
+
+Die Firmenangaben beinhalten:
+Name der Firma, Ansprechpartner, E-mail Adresse, Tel. + Fax-Nr., PLZ, Ort, StraÃŸe etc.
+
+1. Gesamtpaket 2017 DE 1 Mio. ( 1 241 451 ) - 190 EUR ( bis zum 24.10.2017 )
+2. Gesamtpaket 2017 DE,AT,CH ( 1 641 451 ) - 240 EUR ( bis zum 24.10.2017 )
+3. Europa 2017 (DE, AT, CH, UK, FR, IT, ES) ( 3 631 561 ) - 390 EUR ( bis zum 31.10.2017 )
+
+Wir garantieren Ihnen eine lohnende Investition.
+
+Wir laden Sie auf unsere Webseite ein:
+
+http://www.wdb-paket.net/?page=1
+
+Die VerwendungsmÃ¶glichkeiten der Datenbanken sind praktisch unbegrenzt und Sie kÃ¶nnen durch Verwendung
+der von uns entwickelten Programme des personalisierten Versendens von Angeboten u.Ã¤. mittels
+E-mailing bzw. Fax effektive und sichere Werbekampagnen damit durchfÃ¼hren.
+Bitte informieren Sie sich Ã¼ber die weiteren Details einmal unverbindlich auf unseren Webseite: 
+
+http://www.wdb-paket.net/?page=1
+
+MfG
+Thomas Schmidt
+
+
+------------=_5A15DA43.71E66AE6--
+

@@ -1,0 +1,63 @@
+Return-Path: <info@otdih-tut.ru>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id AEB7FC3DFB
+	for <mail@dorianvasco.de>; Fri, 16 Nov 2018 11:35:19 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: 2.705
+X-Spam-Level: **
+X-Spam-Status: No, score=2.705 required=5.5 tests=[DKIM_SIGNED=0.1,
+	DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1, FROM_EXCESS_BASE64=0.105,
+	HTML_MESSAGE=0.001, RCVD_IN_PSBL=2.7, SPF_HELO_PASS=-0.001,
+	SPF_PASS=-0.001, URIBL_BLOCKED=0.001] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id pKmqzyN4NUtA for <mail@dorianvasco.de>;
+	Fri, 16 Nov 2018 11:35:17 +0100 (CET)
+Received: from otdih-tut.ru (otdih-tut.ru [77.244.214.53])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id C537DC3DE1
+	for <mail@dorianvasco.de>; Fri, 16 Nov 2018 11:35:17 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=key1; d=otdih-tut.ru;
+ h=Message-ID:Reply-To:From:To:Subject:Date:MIME-Version:Content-Type; i=info@otdih-tut.ru;
+ bh=QjoLA9areFAxPnP0FuW44YBk0sE=;
+ b=dUjc33BK5EKvsT1uKsscaWJGUCiduvoh/jNCTRwYQt7r+jLqm98D0Ookwkfz7dupigoziWcK6ySa
+   4HM/c5bnutO4wFd/QY9eDSbhOUbaPt4T/3PqujNiOl5/6EDKmen2Wk6qM99pPWGQiVcYBMas/6e4
+   B3oJuw+HcD8hu40DoEU=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=key1; d=otdih-tut.ru;
+ b=UGLPMXnPfrfElvZzmke4/0EPxXVSopGqOpXb9+5CuEnS9stlcEC0tJVhznB8yZIrbjRpi/UuQTZN
+   CWlNw3qcw4fnAUFDQRYI/AxaAnyxNY5iKS8BJBg1DhcDAqClgqzhfgnR3OKi6YE9QmIxtAGcXDxT
+   7tx1FRQI4gcOxWrEx6U=;
+Message-ID: <27144de13d485d5177e25407f3351f133b8ed5df@otdih-tut.ru>
+Reply-To: =?utf-8?B?S2hheW5zIEXCrW1vcmk=?= <bounce@otdih-tut.ru>
+From: =?utf-8?B?S2hheW5zIEXCrW1vcmk=?= <info@otdih-tut.ru>
+To: <mail@dorianvasco.de>
+Subject: There is  an important  offers
+Date: Fri, 16 Nov 2018 13:37:05 +0300
+Organization: =?utf-8?B?0LDRgNGC0LDQvNC+0L3Ri9GH?=
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="22e0a92d7893b9b0fcf94fe305d1fbfc23a12b"
+X-Priority: 1
+
+--22e0a92d7893b9b0fcf94fe305d1fbfc23a12b
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+=C2=A0Hy there=C2=A0=C2=A0What we have here is=C2=A0 an interesting offer=
+ Just click on the link below to qualify
+
+--22e0a92d7893b9b0fcf94fe305d1fbfc23a12b
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<HTML><HEAD>
+<META http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+</HEAD>
+<BODY bgColor=3D#ffffff>
+<DIV align=3Dleft><A=20
+href=3D"https://drive.google.com/file/d/1dMh7cF6CP2HLQtxc9yMMBNQ-DI83dEFt=
+/preview">&nbsp;Hy there&nbsp;&nbsp;What we have here is&nbsp;=20
+an interesting offer Just click on the link below to qualify=20
+</A></DIV></BODY></HTML>
+
+--22e0a92d7893b9b0fcf94fe305d1fbfc23a12b--

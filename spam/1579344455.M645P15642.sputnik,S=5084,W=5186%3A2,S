@@ -1,0 +1,102 @@
+Return-Path: <bonifazwnmpgrt@polkadan.com>
+Delivered-To: mail@elementk.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id A3D5BD18C8
+	for <mail@elementk.de>; Thu, 16 May 2019 07:06:17 +0200 (CEST)
+Authentication-Results: v22014122474822114.stilfilm.com; dkim=pass
+	reason="1024-bit key; insecure key"
+	header.d=polkadan.com header.i=bonifazwnmpgrt@polkadan.com
+	header.b=c8RYdpms; dkim-adsp=pass; dkim-atps=neutral
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 12.038
+X-Spam-Level: ************
+X-Spam-Status: Yes, score=12.038 required=5.5 tests=[BAYES_99=3.5,
+	BAYES_999=0.2, DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	FROM_LOCAL_NOVOWEL=0.5, HK_RANDOM_ENVFROM=0.001,
+	HTML_IMAGE_ONLY_20=1.546, HTML_MESSAGE=0.001,
+	HTML_SHORT_LINK_IMG_3=0.148, RDNS_NONE=0.793, SPF_PASS=-0.001,
+	URIBL_ABUSE_SURBL=1.25, URIBL_BLACK=1.7, URIBL_DBL_SPAM=2.5]
+	autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id xUqHZkXpeYc4 for <mail@elementk.de>;
+	Thu, 16 May 2019 07:06:15 +0200 (CEST)
+Received: from wry.polkadan.com (unknown [217.112.128.167])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id A3A6BCCC2A
+	for <mail@elementk.de>; Thu, 16 May 2019 07:06:15 +0200 (CEST)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=polkadan.com;
+ h=Date:MIME-Version:To:Subject:From:Message-ID:List-Unsubscribe:Content-Type:Content-Transfer-Encoding; i=bonifazwnmpgrt@polkadan.com;
+ bh=XRU/NfiIJ46ZyiBHGdF7oVKTTzg=;
+ b=c8RYdpms/lzzg20CzE5YZtGXt7aADHV+FEU6UKXf/wY8Bq88LxJEkM/eyIqRhcxrpD6edLE/Ogls
+   Jv1MunNJ3I+++OFX0geNeuxkFuddFLrjklBVWCSz19YH8Smi/TeFwOBlrWx/jQWoxBf2p2jdSjqm
+   WjrHFuOf0TO2ADSqnkI=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=polkadan.com;
+ b=RKlcHzGb6wJhs0MqQQP5JOzGanEQcruK3+T8k+jSkNcBUMnBVK2LyBghP5d9A6tp8kJmV8MOKlU/
+   lbkI9hFviTDKL9S+9DqbSR/6S07VqsfP44lXjxlNYsRFkEhSX5wgEcRCjqFgr/I+SiPrAz+iGwXi
+   S66RanNBKp7zs+KlI8s=;
+Date: Thu, 16 May 2019 07:06:11 +0200
+MIME-Version: 1.0
+To:  <mail@elementk.de>
+Subject: =?UTF-8?Q?W=C3=BCrdest_du_deine_alten_Lichter_ersetzen=3F_LED-Leuchten_um_einen_Spottpreis?=
+From: =?UTF-8?Q?Bonifaz?= <bonifazwnmpgrt@polkadan.com>
+Message-ID: <lwyesisjyh7361110633315651510453553280094@qekpks.polkadan.com>
+X-Report-Abuse:  <http://polkadan.com/aa.php?a=qci248293080h82qr01b8q8dcrd13wjc6yvr>
+List-Unsubscribe:  <http://polkadan.com/ub.php?b=qci248293080h82qr01b8q8dcrd13wjc6yvr>
+Precedence: bulk
+Content-Type: multipart/alternative; boundary=b1_o9558m79vwb9.he4vlCG; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+--b1_o9558m79vwb9.he4vlCG
+Content-Type: text/plain; format=flowed; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+
+=0D
+So spare 80% auf dein Stromrechnung: Neue Typ von LED-Leuchten rund ums Hau=
+s:=0D
+=0D
+http://s0n.polkadan.com=0D
+=0D
+=0D
+=0D
+L=C3=B6schen Sie bitte meine E-Mail-Adresse:=0D
+http://polkadan.com/ub.php?ms=3Dqci248293080h82qr01b8q8dcrd13wjc6yvr=0D
+=0D
+So reduziere die Nebenkosten: LED-Lampen, Panels, Reflektors sind verbillig=
+t=
+
+
+--b1_o9558m79vwb9.he4vlCG
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+
+<!DOCTYPE html><head><meta name=3D"charset" content=3D"utf-8"><meta charset=
+=3D"utf-8"><title></title></head><body>=0D
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" st=
+yle=3D"width:650px;margin:0 auto;"><tbody><tr><td>LED-LAMPENMESSE: wirtscha=
+ftliche Lichtquellen f=C3=BCr Innen- und Au=C3=9Fenbereich<br /><a style=3D=
+"background-color:#ffffff; border-left:outset 0px #007700; font-weight:inhe=
+rit; margin-bottom:0px; " href=3D"http://s0n.polkadan.com/dpe:qci248293080h=
+82qr01b8q8dcrd13wjc6yvr"><img alt=3D"Scheinwerfer, Panels, Solarlampen um e=
+inen Spottpreis: immer sparsam beleuchten" style=3D"text-decoration:underli=
+ne; border-bottom-style:dotted; border-top-width:2px; border-style:dashed; =
+" src=3D"http://kqmsw.polkadan.com/00.jpg" /></a>=0D
+<br /></td></tr><tr><td>
+<p style=3D"line-height:22px;font-size:14px;"><a href=3D"http://s0n.polkada=
+n.com/fne:qci248293080h82qr01b8q8dcrd13wjc6yvr" style=3D"border-bottom:groo=
+ve 0px #000000; text-indent:auto; margin-right:2px; padding-left:3px; ">So =
+reduziere die Nebenkosten: LED-Lampen, Panels, Reflektors sind verbilligt</=
+a>=0D
+</p></td></tr></tbody></table><br /><br />W=C3=BCrdest du deine alten Licht=
+er ersetzen? LED-Leuchten um einen Spottpreis<br /><div style=3D"text-align=
+:center;"><a style=3D"border-top:inset 2px #007700;  background-color:#ffff=
+ff; font-size:12px;" href=3D"http://polkadan.com/ub.php?t6=3Dqci248293080h8=
+2qr01b8q8dcrd13wjc6yvr">Abmelden hier</a></div>=0D
+<img alt=3D"HERBST-LED-LAMPEMESSE: =C3=B6konomische Reflektor, Innen- und A=
+u=C3=9Fenleuchten" src=3D"http://polkadan.com/ob.php?ms=3Dqci248293080h82qr=
+01b8q8dcrd13wjc6yvr" />=0D
+Spare 80 Prozent: Die neuesten LED-Leuchten sind angekommen</body></html>=
+
+--b1_o9558m79vwb9.he4vlCG--

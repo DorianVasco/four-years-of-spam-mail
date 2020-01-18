@@ -1,0 +1,99 @@
+Return-Path: <jordisqsbjnekkraemer@lexuryselect.com>
+Delivered-To: mail@elementk.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 68B89C99D9
+	for <mail@elementk.de>; Sun, 31 Mar 2019 22:11:48 +0200 (CEST)
+Authentication-Results: v22014122474822114.stilfilm.com; dkim=pass
+	reason="1024-bit key; insecure key"
+	header.d=lexuryselect.com header.i=jordisqsbjnekkraemer@lexuryselect.com
+	header.b=R0O5Dk3Z; dkim-adsp=pass; dkim-atps=neutral
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 10.246
+X-Spam-Level: **********
+X-Spam-Status: Yes, score=10.246 required=5.5 tests=[BAYES_95=3,
+	DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	HTML_IMAGE_ONLY_16=1.092, HTML_MESSAGE=0.001,
+	HTML_SHORT_LINK_IMG_2=0.001, RDNS_NONE=0.793, SPF_PASS=-0.001,
+	T_REMOTE_IMAGE=0.01, URIBL_ABUSE_SURBL=1.25, URIBL_BLACK=1.7,
+	URIBL_DBL_SPAM=2.5] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id xbeyqF2yt3q6 for <mail@elementk.de>;
+	Sun, 31 Mar 2019 22:11:45 +0200 (CEST)
+Received: from oxidation.lexuryselect.com (unknown [185.149.233.35])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 3BC41C6D58
+	for <mail@elementk.de>; Sun, 31 Mar 2019 22:11:45 +0200 (CEST)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=lexuryselect.com;
+ h=Date:MIME-Version:Subject:List-Unsubscribe:Message-ID:To:From:Content-Type:Content-Transfer-Encoding; i=jordisqsbjnekkraemer@lexuryselect.com;
+ bh=+7fzDzGG1Q9L6Dhv2XlcQKr4Dac=;
+ b=R0O5Dk3ZKLy7dcl2Jc+QeK49zKWCkHIIG9MqODjXA3hXwshRxt+AKlJCsbE+6f9jTOt88VUDD0cC
+   cv2l3XygUjIH9K9a3UZMfEhj8at7zxWjTUndSwESkPxhXPH3xS2lcxg1MjPK144O5SNFYNNT8Xlh
+   tyR/b1RfgiQEZMTfKFI=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=lexuryselect.com;
+ b=aBXrqjEd5nf7cYY5/Vobf38H4BRWUNQS112834GcBITIUbh+oYFTPZ4Zb1a5kRm3SGTlcMpB3uRL
+   fn5buW7s5zRrSiEH1ymz5y/07YHRB/vLsVUr/oEDwwF+tc6Dnpr8mtPQvQRlheDuyLv7cnzibkm+
+   yU5JNxSN3uPVU01OQWg=;
+Date: Sun, 31 Mar 2019 22:11:34 +0200
+MIME-Version: 1.0
+Subject: =?UTF-8?Q?Warmwasser,_unbegrenzt:_Wassererhitzer,_LCD-Display_f=C3=BCr_Haushalte,_Garagen?=
+List-Unsubscribe:  <http://lexuryselect.com/ub.php?b=wa213526080h82qr01b8q8dcrd13wjc6ic>
+Message-ID: <f9ucfdg5a2bypb-gyfxoc@fy.lexuryselect.com>
+X-Report-Abuse:  <http://lexuryselect.com/aa.php?a=wa213526080h82qr01b8q8dcrd13wjc6ic>
+To:  <mail@elementk.de>
+From: =?UTF-8?Q?J=C3=B6rdis_Kraemer?= <jordisqsbjnekkraemer@lexuryselect.com>
+Content-Type: multipart/alternative; boundary=b1_qg5zd5kmdc9z.TkK8ad; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+--b1_qg5zd5kmdc9z.TkK8ad
+Content-Type: text/plain; format=flowed; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+
+=0D
+Gibt=E2=80=98s kein Warmwasser, wenn=E2=80=98s n=C3=B6tig w=C3=A4re? Mit Du=
+rchlauferhitzer hast du in 3 Sekunden:=0D
+=0D
+http://bfdm.lexuryselect.com=0D
+=0D
+=0D
+=0D
+Abmelden hier:=0D
+http://lexuryselect.com/ub.php?mz=3Dwa213526080h82qr01b8q8dcrd13wjc6ic=0D
+=0D
+Brauchst du Warmwasser? Mit Wassererhitzer Armatur =C3=BCberall m=C3=B6glic=
+h, einfach=0D
+
+
+--b1_qg5zd5kmdc9z.TkK8ad
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+
+<!DOCTYPE html>=0D
+<html>=0D
+=0D
+<head>=0D
+</head><body>=0D
+Warmwasser sofort, =C3=BCberall? Mit Wassererhitzer Armatur, innerhalb von =
+Sekunden<br /><a style=3D"margin-top:0px; " href=3D"http://bfdm.lexuryselec=
+t.com/wae:wa213526080h82qr01b8q8dcrd13wjc6ic"><img style=3D"padding-top:3px=
+; border-bottom-color:#000000; white-space:normal; border-width:medium; " s=
+rc=3D"http://fw.lexuryselect.com/00.jpg" alt=3D"Schnellste L=C3=B6sung f=C3=
+=BCr warmes Wasser: digitale Armatur f=C3=BCr Haushalte+Firmen" /></a>=0D
+<br /><a style=3D"font-variant:inherit; border-top-color:#ffffff; clear:non=
+e; " href=3D"http://bfdm.lexuryselect.com/zzw:wa213526080h82qr01b8q8dcrd13w=
+jc6ic">Warmwasser im Nu? Durchlauferhitzer Armatur digitales Display</a>=0D
+<br /><br /><br /><br />WASSERERHITZER Armatur: Ohne Boiler innerhalb von 3=
+ Sek. Warmwasser<br /><br /><a style=3D"background-color:#ffffff; padding-r=
+ight:1px; border-top-width:0px;  font-size:12px;" href=3D"http://lexurysele=
+ct.com/ub.php?tz5=3Dwa213526080h82qr01b8q8dcrd13wjc6ic">Hier k=C3=B6nnen Si=
+e sich problemlos abmelden.</a>=0D
+<img alt=3D"Stockt die Versorgung? Mit instant Wassererhitzer Armatur sofor=
+t Warmwasser" src=3D"http://lexuryselect.com/ob.php?mz=3Dwa213526080h82qr01=
+b8q8dcrd13wjc6ic" />=0D
+Sofort Warmwasser: Wassererhitzer-Armatur, digitales Display=0D
+</body>=0D
+</html>=
+
+--b1_qg5zd5kmdc9z.TkK8ad--

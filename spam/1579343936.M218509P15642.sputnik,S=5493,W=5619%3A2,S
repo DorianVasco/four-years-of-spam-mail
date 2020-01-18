@@ -1,0 +1,126 @@
+Received: from localhost by v22014122474822114.stilfilm.com
+	with SpamAssassin (version 3.3.2);
+	Wed, 22 Nov 2017 20:57:53 +0100
+From: Thomas. Wilke <info@mail2.globaladressen.net>
+To: info@dorianvasco.de
+Subject: *****SPAM***** ***SPAM*** Kontakt.
+Date: Tue, 18 Jul 2017 11:25:52 +0200
+Message-Id: <20170718_092552_005088.info@mail2.globaladressen.net>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	v22014122474822114.stilfilm.com
+X-Spam-Flag: YES
+X-Spam-Level: ***********
+X-Spam-Status: Yes, score=11.7 required=5.0 tests=DIGEST_MULTIPLE,PYZOR_CHECK,
+	RAZOR2_CF_RANGE_51_100,RAZOR2_CHECK,RCVD_IN_BRBL_LASTEXT,RCVD_IN_SBL,
+	RDNS_NONE,URIBL_BLOCKED autolearn=no version=3.3.2
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----------=_5A15D6C1.B39CCD56"
+
+This is a multi-part message in MIME format.
+
+------------=_5A15D6C1.B39CCD56
+Content-Type: text/plain; charset=iso-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+
+Software zur Erkennung von "Spam" auf dem Rechner
+
+    v22014122474822114.stilfilm.com
+
+hat die eingegangene E-mail als m�gliche "Spam"-Nachricht identifiziert.
+Die urspr�ngliche Nachricht wurde an diesen Bericht angeh�ngt, so dass
+Sie sie anschauen k�nnen (falls es doch eine legitime E-Mail ist) oder
+�hnliche unerw�nschte Nachrichten in Zukunft markieren k�nnen.
+Bei Fragen zu diesem Vorgang wenden Sie sich bitte an
+
+    the administrator of that system
+
+Vorschau: Sehr geehrte Damen und Herren, Ich möchte Ihnen unser Produkt
+   anbieten, das ideal zum Profil Ihrer Firma passt. Dieses Produkt erlaubt
+  Ihnen, mit Ihrem Angebot die Geschäftskunden sofort zu erreichen und dadurch
+   den Verkauf schnell zu erhöhen. [...] 
+
+Inhaltsanalyse im Detail:   (11.7 Punkte, 5.0 ben�tigt)
+
+Pkte Regelname              Beschreibung
+---- ---------------------- --------------------------------------------------
+ 2.6 RCVD_IN_SBL            RBL: Transportiert via Rechner in SBL-Liste
+                            (http://www.spamhaus.org/sbl/)
+                            [82.142.119.98 listed in zen.spamhaus.org]
+ 1.6 RCVD_IN_BRBL_LASTEXT   RBL: RCVD_IN_BRBL_LASTEXT
+                            [82.142.119.98 listed in bb.barracudacentral.org]
+ 0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+                            See
+                            http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                             for more information.
+                            [URIs: gdb-kontakt.net]
+ 2.4 RAZOR2_CF_RANGE_51_100 Razor2 Spam-Bewertung liegt zwischen 51 und
+                            100
+                            [cf: 100]
+ 1.7 RAZOR2_CHECK           Gelistet im "Razor2"-System (http://razor.sf.net/)
+ 2.0 PYZOR_CHECK            Gelistet im Pyzor-System (http://pyzor.sf.net/)
+ 0.0 DIGEST_MULTIPLE        Mehrere Internettests (Razor, DCC, Pyzor, etc.)
+                            treffen zu
+ 1.3 RDNS_NONE              Delivered to internal network by a host with no rDNS
+
+
+
+------------=_5A15D6C1.B39CCD56
+Content-Type: message/rfc822; x-spam-type=original
+Content-Description: original message before SpamAssassin
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+
+Return-Path: <info@mail2.globaladressen.net>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 4F8D3D3B8D
+	for <mail@dorianvasco.de>; Tue, 18 Jul 2017 11:25:52 +0200 (CEST)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 9.286
+X-Spam-Level: *********
+X-Spam-Status: Yes, score=9.286 required=5.5 tests=[BAYES_50=0.8,
+	DIGEST_MULTIPLE=0.293, PYZOR_CHECK=1.392, RAZOR2_CF_RANGE_51_100=0.5,
+	RAZOR2_CF_RANGE_E8_51_100=1.886, RAZOR2_CHECK=0.922,
+	RCVD_IN_BRBL_LASTEXT=1.449, RDNS_NONE=0.793, URIBL_ABUSE_SURBL=1.25,
+	URIBL_BLOCKED=0.001] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id Xbm1ZzzhVwnA for <mail@dorianvasco.de>;
+	Tue, 18 Jul 2017 11:25:51 +0200 (CEST)
+Received: from mail2.globaladressen.net (unknown [82.142.119.98])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 23C66C2101
+	for <info@dorianvasco.de>; Tue, 18 Jul 2017 11:25:50 +0200 (CEST)
+To: info@dorianvasco.de
+From: Thomas. Wilke <info@mail2.globaladressen.net>
+Subject: ***SPAM*** Kontakt.
+Date: Tue, 18 Jul 2017 11:25:52 +0200
+Message-ID: <20170718_092552_005088.info@mail2.globaladressen.net>
+X-Mailer: vmail
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain; charset="utf-8"
+Mime-Version: 1.0
+
+Sehr geehrte Damen und Herren, 
+
+Ich möchte Ihnen unser Produkt anbieten, das ideal zum Profil Ihrer Firma passt. Dieses Produkt erlaubt Ihnen, mit Ihrem Angebot die Geschäftskunden sofort zu erreichen und dadurch den Verkauf schnell zu erhöhen.
+
+Zu Ihrer Verfügung stellen wir einen Firmenadressenkatalog, der direkte Kontaktanagaben von Inhabern, Direktoren und Hauptentscheidungsträgern beinhaltet.
+
+Der Katalog enthält 1,6 Millionen vollständiger Adressen und ist einer der größten Kataloge dieser Art in Deutschland.
+
+Schon jetzt können Sie den Katalog für die Werbung und Förderung Ihrer Produkte nutzen.
+
+Kapitalrentabilität (RoI) ist garantiert. 
+
+Einmal kaufen – mehrmals nutzen!
+
+http://www.gdb-kontakt.net/?page=1
+
+Mit freundlichen Grüßen
+Thomas Wilke
+
+
+------------=_5A15D6C1.B39CCD56--
+

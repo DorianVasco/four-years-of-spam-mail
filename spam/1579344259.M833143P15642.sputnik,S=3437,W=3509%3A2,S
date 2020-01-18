@@ -1,0 +1,72 @@
+Return-Path: <info@lumennomen.com>
+Delivered-To: mail@elementk.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 1797CC1FDC
+	for <mail@elementk.de>; Sun, 29 Apr 2018 11:23:55 +0200 (CEST)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 5.622
+X-Spam-Level: *****
+X-Spam-Status: Yes, score=5.622 required=5.5 tests=[DKIM_SIGNED=0.1,
+	DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1, RDNS_NONE=1.274, SPF_PASS=-0.001,
+	URIBL_ABUSE_SURBL=1.948, URIBL_BLOCKED=0.001, URIBL_DBL_SPAM=2.5]
+	autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id h6u6SExiYsqV for <mail@elementk.de>;
+	Sun, 29 Apr 2018 11:23:51 +0200 (CEST)
+Received: from server6.lumennomen.com (unknown [62.75.234.214])
+	(using TLSv1 with cipher ECDHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id 1CA44C04BC
+	for <mail@elementk.de>; Sun, 29 Apr 2018 11:23:49 +0200 (CEST)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=1521666286.lumennomen; d=lumennomen.com;
+ h=Message-ID:Reply-To:From:To:Subject:Date:MIME-Version:Content-Type:Content-Transfer-Encoding; i=info@lumennomen.com;
+ bh=+aDOhPWrrMA27UA8QIrTnSbzJlM=;
+ b=RTB/BrItCGxObfnlbZJlf42tvePRMQuVO+OJVTUS3yegkrrvkR9rSjkuH3pIkS2s7cBB7k6hJpq5
+   3re7InoLQrBvIHphJ0RHsz4X3dfVWAxtVPmhxxvNz2qAMLRr2wDk8tsGaPUczD4i05T1vpfh5mOd
+   iBfOWoUWkyX1hh68mDQ=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=1521666286.lumennomen; d=lumennomen.com;
+ b=pcxvtrYNT9Gib8+VhQnGUVnSsBTvDNNTMJkDaYK1v6vRPtDuyuGGLs/vCbTbC00NynznsTqeXHiZ
+   reRu7Z3n79xKZQhYlbpRHZjMcnw8/rSAnCvsuf1YPNixULiKlRujJm/NvcNGgjyzPoVo8f99m1Zu
+   xjwvlLi/VpgsyY6RDGw=;
+Message-ID: <AB511A3025F1DF4C9095DC611590460E@lumennomen.com>
+Reply-To: "Domain Notice" <info@lumennomen.com>
+From: "Domain Notice" <info@lumennomen.com>
+To: "Dorian-Vasco Nagel" <mail@elementk.de>
+Subject: Domain Notification for elementk.studio : This is your Final Notice of Domain Listing
+Date: Sun, 29 Apr 2018 02:28:45 -0700
+MIME-Version: 1.0
+Content-Type: text/plain; charset="windows-1251";
+Content-Transfer-Encoding: quoted-printable
+
+Attention: Important Notice , DOMAIN SERVICE NOTICE
+Domain Name:  elementk.studio=20
+=20
+ATT: Dorian-Vasco Nagel=20
+elementk.studio=20
+Response Requested By=20
+29 - Apr. - 2018=20
+=20
+PART I: REVIEW NOTICE=20
+=20
+Attn: Dorian-Vasco Nagel=20
+As a courtesy to domain name holders, we are sending you this notificatio=
+n for your business Domain name search engine registration. This letter i=
+s to inform you that it's time to send in your registration.
+
+Failure to complete your Domain name search engine registration by the ex=
+piration date may result in cancellation of this offer making it difficul=
+t for your customers to locate you on the web.
+
+Privatization allows the consumer a choice when registering. Search engin=
+e registration includes domain name search engine submission. Do not disc=
+ard, this notice is not an invoice it is a courtesy reminder to register =
+your domain name search engine listing so your customers can locate you o=
+n the web.
+
+This Notice for: elementk.studio will expire at 11:59PM EST, 29 - Apr. - =
+2018 Act now!=20
+=20
+Select Package:=20
+http://evergreenstudfarm.com.au/domain/?domain=3Delementk.studio

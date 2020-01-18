@@ -1,0 +1,101 @@
+Return-Path: <waltermedzqff@okulcv.com>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 4A06EC21C2
+	for <mail@dorianvasco.de>; Mon,  6 Jan 2020 02:43:37 +0100 (CET)
+Authentication-Results: v22014122474822114.stilfilm.com; dkim=pass
+	reason="1024-bit key; insecure key"
+	header.d=okulcv.com header.i=waltermedzqff@okulcv.com
+	header.b=HTE8cmNP; dkim-adsp=pass; dkim-atps=neutral
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: 3.395
+X-Spam-Level: ***
+X-Spam-Status: No, score=3.395 required=4.5 tests=[BAYES_50=0.8,
+	DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	HK_RANDOM_ENVFROM=0.001, HK_RANDOM_FROM=0.999,
+	HTML_IMAGE_ONLY_20=1.546, HTML_MESSAGE=0.001,
+	HTML_SHORT_LINK_IMG_3=0.148] autolearn=no autolearn_force=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 2XaEVlYpkhxF for <mail@dorianvasco.de>;
+	Mon,  6 Jan 2020 02:43:35 +0100 (CET)
+Received: from difficult.okulcv.com (difficult.woobra.com [217.112.142.100])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 1EF5AC1BFE
+	for <mail@dorianvasco.de>; Mon,  6 Jan 2020 02:43:35 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=okulcv.com;
+ h=Date:From:Message-ID:To:MIME-Version:Subject:List-Unsubscribe:Content-Type:Content-Transfer-Encoding; i=waltermedzqff@okulcv.com;
+ bh=I9FXtOxgcqlos+XmqVSG2zQRRPY=;
+ b=HTE8cmNP1FlDWPU8hWBBpy/hxmRa2mRLUOPBMW3lo3Zkl9NsOTXJrG2UAvpnB+r3ncVBWfrOaq6i
+   9r2zsJGcrQnrNhw/6IIusFR35CsB2TCPl12UnvAKnH6g2nks7XW+sxLcDzWCXpU8E2f/xLrN6q4j
+   a/LE5dpwu4BLAk72YtU=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=okulcv.com;
+ b=nluMeJcR6Q/xHSZ9TsOOtb5h6PKXcFyPY1XD3eY2p47p+YokeY/iuoi+lBNLcu0Bitp9v/zZWG0U
+   zs9eueo7HmHNE39l9UZzkeofR2lTPzV96Bw0OA5dollkkSCBIBECeXgIDUutH+24P5tSP7uzLlxb
+   /NN3YLOC5bHmexqN+RU=;
+Date: Mon, 6 Jan 2020 02:43:34 +0100
+X-Report-Abuse:  <http://okulcv.com/aa.php?a=3r45104708xk2kqh6y96m4x363fyejqyba>
+From: =?UTF-8?Q?Walter?= <waltermedzqff@okulcv.com>
+Message-ID: <gfdcbfon.emrmuauubkdtknucfobnpqdyohccen@wsckfyf.okulcv.com>
+To:  <mail@dorianvasco.de>
+MIME-Version: 1.0
+Subject: =?UTF-8?Q?Magst_du_n=C3=A4hen,_montieren,_modellieren=3F_Mit_kurzsichtiger_Brille_vergr=C3=B6=C3=9Ferst_du_alles?=
+List-Unsubscribe:  <http://okulcv.com/ub.php?b=3r45104708xk2kqh6y96m4x363fyejqyba>
+Precedence: bulk
+Content-Type: multipart/alternative; boundary=b1_3s4rpxftz50uyr1aruk-rkhRB; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+--b1_3s4rpxftz50uyr1aruk-rkhRB
+Content-Type: text/plain; format=flowed; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+
+=0D
+W=C3=BCrdest du lesen, aber siehst du die kleinen Buchstaben nicht? Lupenbr=
+ille hilft:=0D
+=0D
+http://a5ht6.okulcv.com=0D
+=0D
+=0D
+=0D
+L=C3=B6schen Sie bitte meine E-Mail-Adresse:=0D
+http://okulcv.com/ub.php?erj=3D3r45104708xk2kqh6y96m4x363fyejqyba=0D
+=0D
+W=C3=BCrdest du froh, wenn du die winzigen Dinge scharf sehen w=C3=BCrdest?=
+ Sehhilfebrille=
+
+
+--b1_3s4rpxftz50uyr1aruk-rkhRB
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+
+<!DOCTYPE html><head><meta name=3D"charset" content=3D"utf-8"><meta charset=
+=3D"utf-8"><title></title></head><body>=0D
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" st=
+yle=3D"width:650px;margin:0 auto;"><tbody><tr><td>St=C3=B6rt es dir, dass d=
+u winzige Dinge nicht scharf siehst? Dieses Okular bringt alles n=C3=A4her<=
+br></td></tr><tr><td>
+<p style=3D"line-height:22px;font-size:14px;"><a href=3D"http://a5ht6.okulc=
+v.com/dhj:3r45104708xk2kqh6y96m4x363fyejqyba" style=3D"padding-top:0px; bor=
+der-right-style:solid; border-right:solid 1px #ffffff; "><img style=3D"bord=
+er-top-style:dotted; border-bottom:dashed 0px #0000cc; height:auto; " src=
+=3D"http://bp5yg.okulcv.com/00.jpg" alt=3D"W=C3=BCrdest du froh, wenn du di=
+e winzigen Dinge scharf sehen w=C3=BCrdest? Sehhilfebrille" /></a>=0D
+<br><a style=3D"padding-top:auto; width:auto; white-space:normal; line-heig=
+ht:18px; background-color:#ffffff; " href=3D"http://a5ht6.okulcv.com/hnf:3r=
+45104708xk2kqh6y96m4x363fyejqyba">ALLES vergr=C3=B6=C3=9Fert: montiere, n=
+=C3=A4he, streiche mit Lupenbrille!</a>=0D
+<br></p></td></tr></tbody></table><br>W=C3=A4re es gut, die winzigen Dinge =
+zu sehen? Mit Lupenbrille kannst du n=C3=A4hen, streichen<br><div style=3D"=
+text-align:center;"><a style=3D"text-indent:auto; border:ridge 2px #0000cc;=
+ padding-bottom:0px; border-right-color:#007700; border-left-width:2px;  fo=
+nt-size:12px; background-color:#ffffff;" href=3D"http://okulcv.com/ub.php?k=
+s=3D3r45104708xk2kqh6y96m4x363fyejqyba">Abmelden hier</a></div>=0D
+<img src=3D"http://okulcv.com/ob.php?erj=3D3r45104708xk2kqh6y96m4x363fyejqy=
+ba" alt=3D"Siehst du die winzigen Buchstaben nicht? Mit dieser Lupenbrille =
+bessere Sehkraft">=0D
+Brillenetui und =E2=80=93Tuch geben wir als Geschenk zu deiner Lupenbrille-=
+ probiere es aus</body></html>=
+
+--b1_3s4rpxftz50uyr1aruk-rkhRB--

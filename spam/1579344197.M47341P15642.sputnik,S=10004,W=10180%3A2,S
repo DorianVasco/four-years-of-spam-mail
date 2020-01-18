@@ -1,0 +1,176 @@
+Return-Path: <jai.g@advidstudio.co>
+Delivered-To: mail@elementk.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id E4E5ED5A4E
+	for <mail@elementk.de>; Wed, 13 Dec 2017 13:13:36 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 6.11
+X-Spam-Level: ******
+X-Spam-Status: Yes, score=6.11 required=5.5 tests=[DKIM_SIGNED=0.1,
+	DKIM_VALID=-0.1, FSL_BULK_SIG=0.001, HTML_MESSAGE=0.001,
+	RAZOR2_CF_RANGE_51_100=2.43, RAZOR2_CHECK=1.729,
+	RCVD_IN_DNSWL_NONE=-0.0001, SPF_PASS=-0.001, UNPARSEABLE_RELAY=0.001,
+	URIBL_ABUSE_SURBL=1.948, URIBL_BLOCKED=0.001] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id K_PBGL6k6U6C for <mail@elementk.de>;
+	Wed, 13 Dec 2017 13:13:35 +0100 (CET)
+Received: from mail-oi0-f67.google.com (mail-oi0-f67.google.com [209.85.218.67])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id 13AB4D5A4C
+	for <HMichel@elementk.de>; Wed, 13 Dec 2017 13:13:34 +0100 (CET)
+Received: by mail-oi0-f67.google.com with SMTP id t78so1390655oie.8
+        for <HMichel@elementk.de>; Wed, 13 Dec 2017 04:13:35 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=advidstudio-co.20150623.gappssmtp.com; s=20150623;
+        h=mime-version:sender:from:reply-to:date:message-id:subject:to;
+        bh=PmIh7E4PAe9mgHOBb6o2LHpFglP+yUnI5xtMidInjCk=;
+        b=ViiSLlqWHPcXNUlIx8Lt2JcUYNh2e1Yfrsffox5+TIfZLo8Fq9/G1Zzw4WrGtq5iZ9
+         yqm2Z5SrYOAemCSboNRJ5DUZKx9ODYpnPS2WfCbAmTGJFS2FahY9aCCCdr9i1bFkCesW
+         O9T9RER2n9my0q/F8wd+jRax8xB7Iptbvey8s69pCLxYI7C9xriPm+BuDeXRAcXDUdsO
+         WM8BE6882i7OAx9nMD3///1LuNOwZL8p9U7tDBYE2WL4eFca7aTTiV9wWB/Nr7wwMoqm
+         wqL21jiaa5W4UyGVgWlPKDh1l/2uuJRfRdSG9Mwptn/V4mvf5y6xkXaAQPG/EU5+jsmi
+         8Cww==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:sender:from:reply-to:date
+         :message-id:subject:to;
+        bh=PmIh7E4PAe9mgHOBb6o2LHpFglP+yUnI5xtMidInjCk=;
+        b=XPD3ZA63ZxytiUSfAogPs9TB0EY7SenZ+4BoBBDDcXIX8gUaI6NGjdXPAxUjjgnuJv
+         5GX3S33TeCq4V0n2l8ua5zo9/ARGh4o8cCCyp+Xqueep+Y1LIG++er4pf4Cx35BXIysX
+         RhAi+j+JCSrkX5jkbNdoe1E2ui7aJ1td/Gy6LQSgNtpGyYxCBxtOpe0zyylX38wcGv5x
+         Q0d7eh5rs5udKWn+HY9Xgzi8aOJ2NtbyZdEOPIfwZ7Blcqi6Yh59UMY8TrlYlyKJxnV/
+         iu6l1ClOpmXQQmJOViymPiub5YGodzRh1rK1U1MfVQu2Y+S+wcMJcRYkeeOpgSH+1xgg
+         bnrA==
+X-Gm-Message-State: AKGB3mIDo2EGVRZFBLQZuuBgkDXddi3K9ZgbUBH7C54xLUqEPu+5vSc3
+	b7IzpRmg0ZYPeHDHKTRwJZUDCT0Fveesk+rxi2109d/J
+X-Google-Smtp-Source: ACJfBovw5jFoO08UZYifoo7/LLsBgDv2IuKO1B3zFsnL0alOUT5wplPpwTzdDri9G0HXe5vkhkiVFOBm9P42Tk4NxqI=
+X-Received: by 10.202.73.9 with SMTP id w9mr1609791oia.227.1513167213877; Wed,
+ 13 Dec 2017 04:13:33 -0800 (PST)
+Received: from 223404411203 named unknown by gmailapi.google.com with
+ HTTPREST; Wed, 13 Dec 2017 07:13:33 -0500
+MIME-Version: 1.0
+Sender: Jai <jai.g@advidstudio.co>
+From: Jai <jai.g@advidstudio.co>
+Reply-To: jai.g@advidstudio.co
+Date: Wed, 13 Dec 2017 07:13:33 -0500
+X-Google-Sender-Auth: t2g6h2hnuDTQHXPz5Qzw_NKX7DY
+Message-ID: <CANmfiOQ16oUtd0BaHm5kybovzOvEVqCd0Y58nKOiXhCvQZCc-Q@mail.gmail.com>
+Subject: Element K Video
+To: HMichel@elementk.de
+Content-Type: multipart/alternative; boundary="001a113dc76644e0a8056037b2d0"
+
+--001a113dc76644e0a8056037b2d0
+Content-Type: text/plain; charset="UTF-8"
+
+Hi Holger, My name is Jai and I'm Producer at Advids <http://advidstudio.co>
+.
+
+We are a Video Content creation solution that helps businesses create
+videos easily. I would like to invite you to checkout Advids
+<http://advidstudio.co>.
+
+Please review how you can easily produce quality videos to show or
+communicate more about Element K. Would love to share details about the
+cost and sample videos we have created in similar industry. I look forward
+to hear your thoughts and ideas on creating video content.
+
+Thanks,
+
+Jai
+
+Director & Producer
+
+Advids
+
+Video Creation made easy
+
+PH +1 650-515-3363
+
+Fill Email To Unsubscribe <http://emailmanage1.com/>
+
+--001a113dc76644e0a8056037b2d0
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><p dir=3D"ltr" style=3D"font-size:12.8px;color:rgb(0,0,0);=
+line-height:normal;margin-top:0pt;margin-bottom:0pt"><font face=3D"trebuche=
+t ms, sans-serif"><font style=3D"line-height:1.38"><span style=3D"vertical-=
+align:baseline;white-space:pre-wrap;background-color:transparent">H</span><=
+span style=3D"vertical-align:baseline;white-space:pre-wrap;background-color=
+:transparent">i </span></font><span style=3D"vertical-align:baseline;white-=
+space:pre-wrap;background-color:transparent">Holger</span><span style=3D"ve=
+rtical-align:baseline;white-space:pre-wrap;background-color:transparent">,
+</span><span style=3D"vertical-align:baseline;white-space:pre-wrap;backgrou=
+nd-color:transparent">
+<span style=3D"line-height:1.38">My name is Jai</span></span></font><span s=
+tyle=3D"font-family:&quot;trebuchet ms&quot;,sans-serif;background-color:tr=
+ansparent;vertical-align:baseline;white-space:pre-wrap"><span style=3D"line=
+-height:1.38"> and I&#39;m Producer at </span></span><a href=3D"http://advi=
+dstudio.co" target=3D"_blank" style=3D"font-family:&quot;trebuchet ms&quot;=
+,sans-serif;line-height:1.38"><span style=3D"vertical-align:baseline;white-=
+space:pre-wrap;background-color:transparent">Advids</span></a><span style=
+=3D"font-family:&quot;trebuchet ms&quot;,sans-serif;background-color:transp=
+arent;line-height:1.38;vertical-align:baseline;white-space:pre-wrap">.</spa=
+n></p><span class=3D"gmail-m_-4078980279379050094m_-4895215497526251961gmai=
+l-im" style=3D"font-size:12.8px"><p dir=3D"ltr" style=3D"color:rgb(0,0,0);l=
+ine-height:normal;margin-top:0pt;margin-bottom:0pt"><font face=3D"trebuchet=
+ ms, sans-serif"><span style=3D"line-height:1.38;vertical-align:baseline;wh=
+ite-space:pre-wrap;background-color:transparent">
+We are a Video Content creation solution that helps businesses create video=
+s easily. I would like to invite you to checkout </span><a href=3D"http://a=
+dvidstudio.co" target=3D"_blank" style=3D"line-height:1.38"><span style=3D"=
+vertical-align:baseline;white-space:pre-wrap;background-color:transparent">=
+Advids</span></a><span style=3D"line-height:1.38;vertical-align:baseline;wh=
+ite-space:pre-wrap;background-color:transparent">.</span></font></p><p dir=
+=3D"ltr" style=3D"color:rgb(0,0,0);line-height:1.38;margin-top:0pt;margin-b=
+ottom:0pt"><font face=3D"trebuchet ms, sans-serif"><span style=3D"vertical-=
+align:baseline;white-space:pre-wrap;background-color:transparent">
+</span></font></p><p dir=3D"ltr" style=3D"color:rgb(0,0,0);line-height:1.38=
+;margin-top:0pt;margin-bottom:0pt"><font face=3D"trebuchet ms, sans-serif">=
+<span style=3D"vertical-align:baseline;white-space:pre-wrap;background-colo=
+r:transparent">Please review how you can easily produce quality videos to s=
+how or communicate more about </span><span style=3D"line-height:17.48px;whi=
+te-space:pre-wrap">Element K</span><span style=3D"white-space:pre-wrap;line=
+-height:1.38;background-color:transparent">.
+</span><span style=3D"line-height:1.38;white-space:pre-wrap;background-colo=
+r:transparent">
+Would love to share details about the cost and sample videos we have create=
+d in similar industry. I look forward to hear your thoughts and ideas on cr=
+eating video content.</span></font></p><p dir=3D"ltr" style=3D"color:rgb(0,=
+0,0);line-height:1.38;margin-top:0pt;margin-bottom:0pt"><font face=3D"trebu=
+chet ms, sans-serif"><span style=3D"vertical-align:baseline;white-space:pre=
+-wrap;background-color:transparent">
+</span><span style=3D"line-height:17.48px;white-space:pre-wrap;background-c=
+olor:transparent">Thanks,<font face=3D"arial, sans-serif">
+
+</font></span></font></p></span><p dir=3D"ltr" style=3D"font-size:12.8px;co=
+lor:rgb(0,0,0);line-height:1.38;margin-top:0pt;margin-bottom:0pt"><span sty=
+le=3D"font-family:&quot;trebuchet ms&quot;,sans-serif;white-space:pre-wrap"=
+>Jai</span></p><p dir=3D"ltr" style=3D"font-size:12.8px;color:rgb(0,0,0);li=
+ne-height:1.38;margin-top:0pt;margin-bottom:0pt"><span style=3D"background-=
+color:transparent;font-family:&quot;trebuchet ms&quot;,sans-serif;font-size=
+:12.8px;white-space:pre-wrap">Director &amp; Producer</span></p><div class=
+=3D"gmail-m_-4078980279379050094m_-4895215497526251961gmail-adL" style=3D"f=
+ont-size:12.8px"><span class=3D"gmail-m_-4078980279379050094m_-489521549752=
+6251961gmail-im"><p dir=3D"ltr" style=3D"color:rgb(0,0,0);line-height:1.38;=
+margin-top:0pt;margin-bottom:0pt"><span style=3D"vertical-align:baseline;wh=
+ite-space:pre-wrap;background-color:transparent"><font face=3D"trebuchet ms=
+, sans-serif">Advids</font></span></p><p dir=3D"ltr" style=3D"color:rgb(0,0=
+,0);line-height:1.38;margin-top:0pt;margin-bottom:0pt"><span style=3D"verti=
+cal-align:baseline;white-space:pre-wrap;background-color:transparent"><font=
+ face=3D"trebuchet ms, sans-serif">Video Creation made easy</font></span></=
+p><p dir=3D"ltr" style=3D"color:rgb(0,0,0);line-height:1.38;margin-top:0pt;=
+margin-bottom:0pt"><span style=3D"vertical-align:baseline;white-space:pre-w=
+rap;background-color:transparent"><font face=3D"trebuchet ms, sans-serif">P=
+H +1 650-515-3363</font></span></p><p dir=3D"ltr" style=3D"color:rgb(0,0,0)=
+;font-size:12.8px;line-height:1.38;margin-top:0pt;margin-bottom:0pt"><span =
+style=3D"line-height:normal;font-family:&quot;trebuchet ms&quot;,sans-serif=
+;vertical-align:baseline;white-space:pre-wrap;background-color:transparent"=
+><font size=3D"1"><a href=3D"http://emailmanage1.com/" target=3D"_blank" st=
+yle=3D"line-height:normal">Fill Email To Unsubscribe</a></font></span></p><=
+/span></div></div>
+
+--001a113dc76644e0a8056037b2d0--

@@ -1,0 +1,409 @@
+Return-Path: <1146-625753748-324-mail=dorianvasco.de@mail.overmasorglo.us>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 391F7D2754
+	for <mail@dorianvasco.de>; Tue, 14 Feb 2017 14:37:29 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 11.667
+X-Spam-Level: ***********
+X-Spam-Status: Yes, score=11.667 required=2 tests=[BAYES_99=3.5,
+	BAYES_999=0.2, DKIM_SIGNED=0.1, HTML_MESSAGE=0.001,
+	MIME_HTML_MOSTLY=0.428, MPART_ALT_DIFF=0.79, RCVD_IN_SBL_CSS=3.335,
+	RDNS_NONE=0.793, SPF_PASS=-0.001, T_DKIM_INVALID=0.01,
+	T_REMOTE_IMAGE=0.01, URIBL_BLOCKED=0.001, URIBL_DBL_SPAM=2.5]
+	autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.yourvserver.net [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id zvkGPjdDcjQ0 for <mail@dorianvasco.de>;
+	Tue, 14 Feb 2017 14:37:28 +0100 (CET)
+Received: from eagle.overmasorglo.us (unknown [31.192.241.203])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id EEA13D2753
+	for <mail@dorianvasco.de>; Tue, 14 Feb 2017 14:37:26 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=overmasorglo.us;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=getsmarternow@overmasorglo.us;
+ bh=uWAJ1DVZ5ghPpfpef3UiAm2Nrgg=;
+ b=cLg1ATIpOuQ+WEMBEHZx3VCtwFJh0RKRk69jBoIGtjaUvgF75ntYmLyS9+um5K+Pyis907q+kDEG
+   CD1SylwsFHfj/7Ix0Va1carJsXMQ/ard904glupxMLWBL2gAzCcYSnYTEUDR7UsZZWP/WnJWxSwr
+   AHlKYj852VgaqZbBeu4=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=overmasorglo.us;
+ b=Ei/49LG2OPqOCUB+BdsBv6EB+HKyrdvCxrVZnBt3b5tt3dhUBFzdpu0tG8+4Q1RLOW2j5+Z2OHER
+   AZ/TJlxeZmcx9gvndu4mCLEe6h8SDcRa3TMPUbgn1Lk4D726wfhP7b5ASMNG0zGZ7SnREgEyh/jZ
+   gaKFIGVAPBm6EK15scs=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="a21468ec35fde2b7efaf79f2c2e7d06d"
+Date: Tue, 14 Feb 2017 07:01:21 -0600
+From: "Get Smarter Now" <getsmarternow@overmasorglo.us>
+Reply-To: "CNN Health Report" <getsmarternow@overmasorglo.us>
+Subject: ***SPAM*** Can This Amazingly Simple Mind Exercise Really Make You As
+	Sharp As You Were In Your 20s?
+To: <mail@dorianvasco.de>
+Message-ID: <o0urtqbnvj9rcz4q-6psxfspzf5mj42te-254c3e94@overmasorglo.us>
+
+--a21468ec35fde2b7efaf79f2c2e7d06d
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+This email must be viewed in HTML mode.
+
+--a21468ec35fde2b7efaf79f2c2e7d06d
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head><meta http-equiv="Content-Type" content="text/html; " />
+	<title>Scientists are predicting this will happen in 2016</title>
+	<style type="text/css">#body {
+	margin: 0;
+	padding: 0;
+	line-height: 1.7em;
+	letter-spacing: 1px;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 11px;
+	color: #ffffff;
+    background: #000000 url(images/templatemo_body_top.jpg) repeat-x top;
+}
+		
+a:link, a:visited { color: #96e135; text-decoration: none; font-weight: normal; } 
+a:active, a:hover { color: #FFFFFF; text-decoration: underline; }
+
+p { margin: 0px; padding: 0px; }
+
+img { margin: 0px; padding: 0px; border: none; }
+
+float_l {
+	float: left;
+}
+
+float_r {
+	float: right;
+}
+
+divider {
+	background: url(images/templatemo_divider.png) repeat-x bottom;
+}
+
+cleaner { clear: both; width: 100%; height: 0px; font-size: 0px;  }
+
+cleaner_h10 { clear: both; width:100%; height: 10px; }
+cleaner_h20 { clear: both; width:100%; height: 20px; }
+cleaner_h30 { clear: both; width:100%; height: 30px; }
+cleaner_h40 { clear: both; width:100%; height: 40px; }
+cleaner_h50 { clear: both; width:100%; height: 50px; }
+cleaner_h60 { clear: both; width:100%; height: 60px; }
+
+margin_r60 { margin-right: 60px; }
+
+button_01 a {
+	display: block;
+	width: 70px;
+	height: 19px;
+	padding: 3px 5px;
+	color: #96e135;
+	font-size: 12px;
+	font-weight: normal;
+	text-align: center;
+	text-decoration: none;
+	background: url(images/templatemo_button_01.png) no-repeat;
+}
+
+button_01 a:hover {
+	color: #ffffff;
+}
+
+h2 {
+	margin: 0 0 10px 0;
+	padding: 10px 0 15px 0;
+	font-size: 26px;
+	font-weight: normal;
+	color: #96e135;
+	background: url(images/templatemo_title_bg.jpg) bottom left no-repeat;
+}
+
+h3 {
+	margin: 0	;
+	padding: 2px 0;
+	font-size: 18px;
+	font-weight: normal;
+	color: #000000;
+}
+
+
+
+#templatemo_site_title_bar_wrapper {
+	width: 100%;
+	height: 100px;
+	margin: 0 auto;
+	background: url(images/templatemo_header_bg_wrapper.jpg) no-repeat top center;
+}
+
+#templatemo_site_title_bar {
+	position: relative;
+	width: 960px;
+	height: 100px;
+	margin: 0 auto;
+	padding: 0 10px;
+	background: url(images/templatemo_header_bg.jpg) no-repeat top center;
+}
+
+#templatemo_site_title_bar  #site_title {
+	float: left;
+	width: 230px;
+	height: 80px;
+	padding: 10px 10px 0 10px;
+	overflow: hidden;
+	text-align: center;	
+}
+
+#site_title h1 a {
+	margin: 0px;
+	padding: 0px;
+	font-size: 30px;
+	color: #ffffff;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+#site_title h1 a:hover {
+	font-weight: bold;	
+	text-decoration: none;
+}
+
+#site_title h1 a span {
+	display: block;
+	margin-top: 10px;
+	margin-left: 5px;
+	font-size: 12px;
+	color: #999;
+	font-weight: normal;
+	letter-spacing: 2px;
+}
+
+
+#templatemo_site_title_bar #search_box {
+	float: right;
+	width: 272px;
+	height: 34px;
+	margin: 23px 0 0 0;
+	background: url(images/templatemo_search.png) no-repeat;
+}
+
+#search_box form {
+	width: 340px;
+	height: 30px;
+	margin: 0;
+	padding: 0;
+}
+
+#searchfield {
+	height: 22px;
+	width: 225px;
+	padding: 8px 5px 4px 5px;
+	color: #bcbcbc;
+	font-size: 12px;
+	font-variant: normal;
+	line-height: normal;
+	background: none;
+	border: none;	
+}
+
+#searchbutton {
+ 	height: 34px;
+	width: 35px;
+	margin: 0px;
+	padding: 6px 0 0 0;
+	cursor: pointer;
+	font-size: 12px;
+	text-align: center;
+	vertical-align: bottom;
+	white-space: pre;
+	color: #ffffff;
+	background: none; 
+	border: none;
+}
+
+
+
+
+
+#templatemo_banner {
+	clear: both;
+	width: 940px;
+	height: 170px;
+	padding: 40px 20px;
+	margin: 0 auto;
+	background: url(images/templatemo_banner.jpg) no-repeat;
+}
+
+ #templatemo_menu {
+	 float: left;
+	width: 210px;
+	padding: 0 10px;
+}
+
+#templatemo_menu ul {
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+}
+
+#templatemo_menu ul li {
+	padding: 0px;
+	margin: 0px;
+}
+	</style>
+</head>
+<body><a href="http://overmasorglo.us/w7cnzq142d6XjfQY6X0T5LjFeb0EzYQ5tmBBKo4V"><img border="0" src="http://overmasorglo.us/0Z8xglMS9PJy9p9sBr6rRaZ6R-IegaP1b7Mj3CPT" /> </a>
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+	<tbody>
+		<tr>
+			<td bgcolor="#ffffff" width="100%">
+			<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+				<tbody>
+					<tr>
+						<td bgcolor="#000000" width="100%">
+						<table align="center" border="0" cellpadding="10" cellspacing="0" width="600">
+							<tbody>
+								<tr>
+									<td width="600"><span style="color:#ffffff; font-size:30px; font-family: 'Arial Black','Arial Bold',Gadget,sans-serif; background-color:#000000;">USATODAY</span></td>
+								</tr>
+								<tr>
+									<td style="border-top:#595959 SOLID 1px;">
+									<table border="0" cellpadding="0" cellspacing="0" width="100%">
+										<tbody>
+											<tr>
+												<td style="color: #ffffff; background-color:#000000; font-family: 'Gotham SSm', Helvetica, Arial, sans-serif; font-size: 14px; font-stretch: normal; font-style: normal; font-variant: normal; font-weight: normal; line-height: 18px; text-align: center;">News</td>
+												<td style="color: #ffffff; background-color:#000000; font-family: 'Gotham SSm', Helvetica, Arial, sans-serif; font-size: 14px; font-stretch: normal; font-style: normal; font-variant: normal; font-weight: normal; line-height: 18px; text-align: center;"><strong>Health</strong></td>
+												<td style="color: #ffffff; background-color:#000000; font-family: 'Gotham SSm', Helvetica, Arial, sans-serif; font-size: 14px; font-stretch: normal; font-style: normal; font-variant: normal; font-weight: normal; line-height: 18px; text-align: center;">Politics</td>
+												<td style="color: #ffffff; background-color:#000000; font-family: 'Gotham SSm', Helvetica, Arial, sans-serif; font-size: 14px; font-stretch: normal; font-style: normal; font-variant: normal; font-weight: normal; line-height: 18px; text-align: center;">Travel</td>
+												<td style="color: #ffffff; background-color:#000000; font-family: 'Gotham SSm', Helvetica, Arial, sans-serif; font-size: 14px; font-stretch: normal; font-style: normal; font-variant: normal; font-weight: normal; line-height: 18px; text-align: center;">World</td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+
+			<table align="center" bgcolor="#FFFFFF" border="0" cellpadding="10" cellspacing="0" width="600">
+				<tbody>
+					<tr>
+						<td width="600"><span style="font-size:18px; line-height:25px; font-family: Arial,'Helvetica Neue',Helvetica,sans-serif; font-weight:bold;">Revolutionary research by a leading neuroscientist has now been scientifically proven to radically improve cognitive functions by stimulating and re-connecting neurons.</span></td>
+					</tr>
+					<tr>
+						<td align="center" style="padding:0; background-color:#FFFFFF;" width="600"><span><a href="http://overmasorglo.us/l-N5eRGqvVJ8cCp3dhivYqXorsHf9_jiklSfm_oh"><img src="http://overmasorglo.us/228f26ebcc50d76a73.jpg" /></a></span></td>
+					</tr>
+					<tr>
+						<td width="600">
+						<p style="font-size:16px; line-height:24px; font-family: Arial,'Helvetica Neue',Helvetica,sans-serif;">This odd and controversial Brain Trick has left scientist throughout the world baffled and confused... But while they are scratching their heads trying to figure out &quot;why&quot; this strange trick works, over 39,144 people are enjoying their amazingly alert minds.</p>
+						&nbsp;
+
+						<p style="font-size:16px; line-height:24px; font-family: Arial,'Helvetica Neue',Helvetica,sans-serif;">Find out how, in less than 5 minutes a day for as little as 14 days, you can have the ability to recall memories and lessons you learned when you were a young child... crystal clear as if it just happened.</p>
+						</td>
+					</tr>
+					<tr>
+						<td align="center" width="800"><br />
+						<span><a href="http://overmasorglo.us/l-N5eRGqvVJ8cCp3dhivYqXorsHf9_jiklSfm_oh" style="background-color: #D30500; color:#ffffff; -webkit-border-radius: 4px; -moz-border-radius: 4px; border-radius: 4px; padding:5px; font-size:16px; line-height:32px; font-weight:bold; font-family: Arial,'Helvetica Neue',Helvetica,sans-serif; text-decoration:none;">&gt;&gt; Follow This Link To Enhance Your Mental Clarity And Alertness! &lt;&lt;</a></span></td>
+					</tr>
+					<tr>
+						<td width="600">&nbsp;</td>
+					</tr>
+				</tbody>
+			</table>
+
+			<p>&nbsp;</p>
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			&nbsp;
+			<p>&nbsp;</p>
+
+			<center><a href="http://overmasorglo.us/SW6x_VDAQtfeiyC-8FBhZvM6UriKJw9B8tJuGoRi" style="color:#000000;"><img alt="To Unsub-scribe this email visit he_re " src="http://overmasorglo.us/d2fcee1789d68fc392.jpg" /></a></center>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			&nbsp;
+			<table align="center" border="0" cellpadding="10" cellspacing="0" width="100%">
+				<tbody>
+					<tr>
+						<td style="padding-bottom: 1px !important;padding-top: 4.02479px !important;animation:cubic-bezier(y1,x1,y2,x2);margin-right: 1.789px !important;border-left-color:inherit;margin-bottom: 0.826px !important;vertical-align: auto;padding: inherit;text-decoration:none;padding-right: 5px !important;font-size: 9.42px;padding: auto;margin-bottom: inherit;margin-bottom: default;-webkit-perspective-origin: none;padding-left: 0.96px;box-sizing:border-box;background-color: rgb(7,15,15);margin-left: 1.17px !important;margin-top: 2.44px;border-left-width:0px;background-size: auto;font-family: 'Calisto MT','Bookman Old Style',Bookman,'Goudy Old Style',Garamond,'Hoefler Text','Bitstream Charter',Georgia,serif;border-collapse:separate;font-style: normal;" width="100%"><span style="padding-bottom: 1px !important;padding-top: 4.02479px !important;animation:cubic-bezier(y1,x1,y2,x2);margin-right: 1.789px !important;border-left-color:inherit;margin-bottom: 0.826px !important;vertical-align: auto;pa
+ dding: inherit;text-decoration:none;padding-right: 5px !important;font-size: 9.42px;padding: auto;margin-bottom: inherit;margin-bottom: default;-webkit-perspective-origin: none;padding-left: 0.96px;box-sizing:border-box;color: rgb(7,15,15);margin-left: 1.17px !important;margin-top: 2.44px;border-left-width:0px;background-size: auto;font-family: 'Calisto MT','Bookman Old Style',Bookman,'Goudy Old Style',Garamond,'Hoefler Text','Bitstream Charter',Georgia,serif;border-collapse:separate;font-style: normal;">gloire /functon /sheets /noref /irene /rouse /gebruiken /freepost /atdmt /strand boc /adr /bestemmingen /tht /spacious /holly /functon /Wait /hurdles designated /serving /sweater /mcs /median /liked /korta /tougher /adress /jobsdb Toolkit /inflated /cleaned /webbl /kiezen /Tips /ukraine /McArdle /unter /iscriz mcs /tongue /ultieme /video /fade /costs /webbl /tips /murderer /idea /koor updates /splinting /closures /reaffirms /rendering /sticks /transactions /functon keyser /Craigslis
+ t /mega /obsoleted /responses /ices /construction /reasonable contributed /thinker /asia /courriel /MCs /webbl /beantwortet /opmerking blank /tht /kassa /schmaltz /worried /1998 /functon LICENCIAS /ti /giugno /architecture /659 /enduser /ris /universally /discharge phenologs /cloth /does /RAILWAYS /welcoming /bo /marches /ess /korta /station Perry /half Left /artfully /Vocabulary /functon /broadcast /assistance /padding fenton /buzz /thessaloniki /rubs /manage /Darin /komen /definir /6th /tafe </span></td>
+					</tr>
+					<tr>
+						<td align="center" width="100%">&nbsp;</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<table align="center" bgcolor="#FFFFFF" width="100%">
+	<tbody>
+		<tr>
+			<td align="center">
+			<p><br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<a href="http://overmasorglo.us/OCrjpclJUMsyE3uw3zYokWNc4FfF83onWYWICPON"><img src="http://overmasorglo.us/848d9dcd4700d21248.jpg" /></a></p>
+			</td>
+		</tr>
+		<tr>
+		</tr>
+	</tbody>
+</table>
+</div>
+</body>
+</html>
+
+--a21468ec35fde2b7efaf79f2c2e7d06d--
+

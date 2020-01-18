@@ -1,0 +1,64 @@
+Return-Path: <sascha1y0tg27@sherohonar.com>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 1B006C20F8
+	for <mail@dorianvasco.de>; Sat, 30 Dec 2017 13:15:05 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 12.913
+X-Spam-Level: ************
+X-Spam-Status: Yes, score=12.913 required=5.5 tests=[DATE_IN_PAST_06_12=1.103,
+	DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	FSL_BULK_SIG=0.001, HTML_IMAGE_ONLY_12=1.629, HTML_MESSAGE=0.001,
+	HTML_SHORT_LINK_IMG_1=0.139, MIME_HTML_ONLY=1.105,
+	RAZOR2_CF_RANGE_51_100=2.43, RAZOR2_CHECK=1.729,
+	RCVD_IN_BRBL_LASTEXT=1.644, RCVD_IN_RP_RNBL=1.284, SPF_PASS=-0.001,
+	URIBL_ABUSE_SURBL=1.948, URIBL_BLOCKED=0.001] autolearn=unavailable
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 8XFE57s8F5HG for <mail@dorianvasco.de>;
+	Sat, 30 Dec 2017 13:15:03 +0100 (CET)
+Received: from bath.sherohonar.com (bath.rmxsmania.com [185.207.8.239])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id BBC87C20F0
+	for <mail@dorianvasco.de>; Sat, 30 Dec 2017 13:15:03 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=sherohonar.com;
+ h=Date:From:To:Subject:Message-ID:MIME-Version:Content-Type:Content-Transfer-Encoding; i=sascha1y0tg27@sherohonar.com;
+ bh=ZjJY7cSCt/8lXQnGvqcMoo1VwnI=;
+ b=vbbEEu9TolWbjXSNPYhlPk9owgatVur0VTqkUJYfC1OqRBuBk2Af727DfkpyUBaRRrBIss/9c0LE
+   3nCFmdzo1Yio1wFfA/6AHM7nXohoWr8SLOBOQESD1RkENnazQYODqiivp5Y91Oxi3hS3Tkbxfmd6
+   YelIvmNojKOF2hDOnKw=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=sherohonar.com;
+ b=YXGmdTPnVxgHemACYBr7s7Ig3kG5aWj6YTcF48cN2U5ZkOlG0Th1KYzIArHM+43K/wIC9CR50uht
+   5DXqzamuDVbtsy/nvrxAY7M+Ich3aUqFfL6RqONlKCmS78KEH7ZYHtYSm9tGQ0BnyFhTYOcq2OIJ
+   KdF3LiVnysO4nTuc06Q=;
+Date: Sat, 30 Dec 2017 07:02:33 +0100
+From: =?UTF-8?Q?Sascha?= <sascha1y0tg27@sherohonar.com>
+To:  <mail@dorianvasco.de>
+Subject: =?UTF-8?Q?Schnalle_um,_und_du_wirst_nie_mehr_schnarchen?=
+Message-ID: <omtknp8s5dga1i0f.zjTlTMhjrk@yyawbxm.sherohonar.com>
+MIME-Version: 1.0
+Precedence: bulk
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html>=0D
+<head>=0D
+</head><body>=0D
+<center>=0D
+Schlafe ruhig, auch meine Frau mag es<br /><a style=3D"font-weight:normal; =
+" href=3D"http://ww-9.sherohonar.com/"><img src=3D"http://ww-9a.sherohonar.=
+com/00.jpg" style=3D"background-color:#ffffff; font:12px Times New Roman, G=
+eorgia, Serif italic inheritinherit; border-right-color:#ffffff; border-rig=
+ht-style:ridge; vertical-align:top; " /></a>=0D
+<br /><a href=3D"http://ww-9.sherohonar.com/" style=3D"font-size:15px; ">ST=
+ILLE N=C3=A4chte mit der Schnarch-Minderer</a>=0D
+<br /><br /><div style=3D"margin-top:0px;  height:421; width:100%;">L=C3=84=
+RMVOLLE N=C3=A4chte? Dies hilft<br /><br /></div><a href=3D"http://sherohon=
+ar.com/ub.php?py0=3D4s2228908rnxgnz8sp67d8j4cad81w8mh" style=3D"font-size:1=
+2px; border-left:groove 2px #000000; padding-right:auto; padding-top:1px; c=
+olor:#007700;  background-color:#ffffff;">Abmelden</a></center><br />Schnal=
+le um, und du wirst nie mehr schnarchen=0D
+<img src=3D"http://sherohonar.com/ob.php?mm=3D4s2228908rnxgnz8sp67d8j4cad81=
+w8mh" />=0D
+</body>=0D
+</html>=

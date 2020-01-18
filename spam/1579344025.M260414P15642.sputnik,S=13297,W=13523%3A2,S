@@ -1,0 +1,226 @@
+Return-Path: <jacquelinepa@inwhatlanguage.com>
+Delivered-To: mail@elementk.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 219E7D3B06
+	for <mail@elementk.de>; Fri, 17 Nov 2017 22:51:50 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: 0.702
+X-Spam-Level:
+X-Spam-Status: No, score=0.702 required=5.5 tests=[BAYES_50=0.8,
+	DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	HTML_MESSAGE=0.001, RCVD_IN_DNSWL_NONE=-0.0001, SPF_PASS=-0.001,
+	UNPARSEABLE_RELAY=0.001, URIBL_BLOCKED=0.001] autolearn=ham
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id vdQD685s84AX for <mail@elementk.de>;
+	Fri, 17 Nov 2017 22:51:47 +0100 (CET)
+Received: from mail-lf0-f41.google.com (mail-lf0-f41.google.com [209.85.215.41])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id 99BECC00F4
+	for <becki@elementk.de>; Fri, 17 Nov 2017 22:51:47 +0100 (CET)
+Received: by mail-lf0-f41.google.com with SMTP id g35so4160597lfi.13
+        for <becki@elementk.de>; Fri, 17 Nov 2017 13:51:48 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=inwhatlanguage.com; s=google;
+        h=mime-version:sender:from:reply-to:date:message-id:subject:to;
+        bh=nTRzNNjiPyRYh45CL5IkvUOMOQsAs4E2L4LT1vM3hGs=;
+        b=V3qFuGz/p1PM0NxWILsozto9lFlnVV1d+pfVe7pUyMZ0qpld5LiE9Z1iTrHF0cCyR/
+         991ZmlYnhJg6paKAFMMi1xc1xRPL6xbbqNK36fEZmodZtVdjBSI/vL95n2mIdXdjiVS1
+         jBcX5eJ3N7jQq2gqv960yhTX4/GzKdqhDD3OgdEiEoPzyTnm4T0hIx15LFjnAqk/Jky2
+         wlMEwVX+LAnVgtv9C3dtI2blSKBA2ixig/adnYEK3mHOoP0NkZVDvaGTthvd3tPjgGU5
+         u2fheDUAcRJMNpTKewXFXMlx4QAiZ34HmoV86ZtAU9U/JgEJGR5hvTT1LnmJfFyz9prb
+         OvoQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:sender:from:reply-to:date
+         :message-id:subject:to;
+        bh=nTRzNNjiPyRYh45CL5IkvUOMOQsAs4E2L4LT1vM3hGs=;
+        b=pL+EXqhAXqpTFS2zxnCC8y06DROfuMsHaq68hy46EK7K2phP75FjlFOtRWme8hMcbO
+         HYzgLs6ZH5ni5y1UHxRi2M/I9bFKnsdszXOOJefsavWMnI4xLCJEEunVbsgW0bJjW0EZ
+         YhPU9GDMUX58w8cgny1Crkcve1b0jQSr5pRnw9d93XKXR3Hulae/qfM/4yS/AUUP4eYF
+         mtqIttIJVJOYjWYez2tPBP2xvw+Hsl4RckZhCM8ci2fsrp3Q3ymEgnpiHXQsaB2lPUuw
+         QAwJLaaNJVLlDgubyrNIIzcDJNr3CT5VkgD1SCE7+l69vCFXbWdojKooIoBYkjv3j9lZ
+         NxOg==
+X-Gm-Message-State: AJaThX7Q6+Ryps5TLxl1Odlg8tvp0PsOMTMAsus6T9Twm1h7ABIrVgfO
+	anaYRJ5yPp1YSrbPEaLk/Ikat6UjLMlgSX05X9nsbw==
+X-Google-Smtp-Source: AGs4zMZnTeLNivoFl+lbmkZOTkfPw5hWbBzobCJ5zidhZiJBVaCzsmEwQ0EtuadxuRgMXDVcyMFxOzJNGSLhZI0I4WA=
+X-Received: by 10.46.22.83 with SMTP id 19mr1414620ljw.147.1510955507276; Fri,
+ 17 Nov 2017 13:51:47 -0800 (PST)
+Received: from 223404411203 named unknown by gmailapi.google.com with
+ HTTPREST; Fri, 17 Nov 2017 13:51:46 -0800
+MIME-Version: 1.0
+Sender: Jacqueline Parker <jacquelinepa@inwhatlanguage.com>
+From: Jacqueline Parker <jacquelinepa@inwhatlanguage.com>
+Reply-To: jacquelinepa@inwhatlanguage.com
+Date: Fri, 17 Nov 2017 13:51:46 -0800
+X-Google-Sender-Auth: hjOM4llfArgc6ejTifWJt91R8fA
+Message-ID: <CAH-TUn2G9bOsdPWmKisC=Ph5Bf=P7t4+8+5rqvbTxLWs1UtuHg@mail.gmail.com>
+Subject: eLearning Tips for Translation
+To: becki@elementk.de
+Content-Type: multipart/alternative; boundary="f403045fc03e4860c7055e34be03"
+
+--f403045fc03e4860c7055e34be03
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hey Becki,
+
+
+I hope you=E2=80=99re having a great day! I also hope you are still involve=
+d in the
+eLearning industry as it has been booming. As the global economy grows, the
+need to have eLearning modules in multiple languages increases.
+
+I=E2=80=99m not sure if you have ever needed to get your eLearning projects
+translated but if so here is an infographic I made to help you out. It
+includes *8 Top Tips* to help prepare your eLearning courses so that they
+are ready to get translated and delivered to any learner who speaks any
+language!
+
+You can check out this graphic here
+<http://mailtracking.online/0a926b13e70118f39e153a8d31dd1b07/3dabe97739b940=
+c9a3b427acfbf40c17/b9160023f84d75e7b4539ea4cff92e53.html>
+!
+
+Thanks for being apart of one of the best industries. eLearning! If you
+have any translation needs now or in the future check out our eLearning
+translation services.
+<http://mailtracking.online/0a926b13e70118f39e153a8d31dd1b07/3dabe97739b940=
+c9a3b427acfbf40c17/7e357b7ae72ba3c1f7e9fa3849a268fa.html>
+
+
+Talk soon!
+--=20
+*Jacqueline Parker*
+*jacqueline@inwhatlanguage.com
+<jacqueline@inwhatlanguage.com> | inwhatlanguage.com
+<http://mailtracking.online/0a926b13e70118f39e153a8d31dd1b07/3dabe97739b940=
+c9a3b427acfbf40c17/86a496c75f779fc5136f72ba03ee9b08.html>
+*
+3007 S West Temple, Suite L, SLC, UT 84115
+
+
+
+Be Global. Sound Local. UNIFY=E2=84=A2
+The Translation Management Cloud
+---
+inWhatLanguage is an innovative translation software and services company
+that provides a cutting-edge smarter approach to enterprise translation
+management. Through UNIFY
+<http://mailtracking.online/0a926b13e70118f39e153a8d31dd1b07/3dabe97739b940=
+c9a3b427acfbf40c17/bb49aacf325ff253ea6a963ac2344d99.html>,
+our *proprietary translation management cloud*, we centralize your business
+and all its content together in one intuitive platform to produce the
+absolute best process to translate, deliver and manage all of your global
+content.
+
+This message is confidential to inWhatLanguage. Any review, retransmission,
+dissemination, distribution, copying or other use of, or taking of any
+action in reliance upon this information is strictly prohibited. If you
+have received this communication in error, please contact the sender and
+delete the material from your computer.
+unsubscribe from this list
+<http://mailtracking.online/remove/0a926b13e70118f39e153a8d31dd1b07/51c9a5f=
+2850a067a11df81f7c2791eb6/3dabe97739b940c9a3b427acfbf40c17.html>
+
+--f403045fc03e4860c7055e34be03
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><span id=3D"gmail-m_4169117501084636571gmail-docs-internal=
+-guid-3266bbe5-c5e6-bda7-92fd-41b00ac85b26"><p dir=3D"ltr" style=3D"line-he=
+ight:1.38;margin-top:0pt;margin-bottom:0pt"><span style=3D"font-size:11pt;f=
+ont-family:Arial;color:rgb(0,0,0);background-color:transparent;vertical-ali=
+gn:baseline;white-space:pre-wrap">Hey <span style=3D"color:rgb(34,34,34);fo=
+nt-family:arial,sans-serif;font-size:12.8px;white-space:normal">Becki,</spa=
+n></span></p><p dir=3D"ltr" style=3D"line-height:1.38;margin-top:0pt;margin=
+-bottom:0pt"><span style=3D"font-size:11pt;font-family:Arial;color:rgb(0,0,=
+0);background-color:transparent;vertical-align:baseline;white-space:pre-wra=
+p"><br></span></p><p dir=3D"ltr" style=3D"line-height:1.38;margin-top:0pt;m=
+argin-bottom:0pt"><span style=3D"font-size:11pt;font-family:Arial;color:rgb=
+(0,0,0);background-color:transparent;vertical-align:baseline;white-space:pr=
+e-wrap">I hope you=E2=80=99re having a great day! I also hope you are still=
+ involved in the eLearning industry as it has been booming. As the global e=
+conomy grows, the need to have eLearning modules in multiple languages incr=
+eases.</span></p><br><p dir=3D"ltr" style=3D"line-height:1.38;margin-top:0p=
+t;margin-bottom:0pt"><span style=3D"font-size:11pt;font-family:Arial;color:=
+rgb(0,0,0);background-color:transparent;vertical-align:baseline;white-space=
+:pre-wrap">I=E2=80=99m not sure if you have ever needed to get your eLearni=
+ng projects translated but if so here is an infographic I made to help you =
+out. It includes <b>8 Top Tips</b> to help prepare your eLearning courses s=
+o that they are ready to get translated and delivered to any learner who sp=
+eaks any language!</span></p><br><p dir=3D"ltr" style=3D"line-height:1.38;m=
+argin-top:0pt;margin-bottom:0pt"><span style=3D"font-size:11pt;font-family:=
+Arial;color:rgb(0,0,0);background-color:transparent;vertical-align:baseline=
+;white-space:pre-wrap">You can check out this graphic <a href=3D"http://mai=
+ltracking.online/0a926b13e70118f39e153a8d31dd1b07/3dabe97739b940c9a3b427acf=
+bf40c17/b9160023f84d75e7b4539ea4cff92e53.html">here</a>!</span></p><br><p d=
+ir=3D"ltr" style=3D"line-height:1.38;margin-top:0pt;margin-bottom:0pt"><spa=
+n style=3D"font-size:11pt;font-family:Arial;color:rgb(0,0,0);background-col=
+or:transparent;vertical-align:baseline;white-space:pre-wrap">Thanks for bei=
+ng apart of one of the best industries. eLearning! If you have any translat=
+ion needs now or in the future check out our <a href=3D"http://mailtracking=
+.online/0a926b13e70118f39e153a8d31dd1b07/3dabe97739b940c9a3b427acfbf40c17/7=
+e357b7ae72ba3c1f7e9fa3849a268fa.html">eLearning translation services.</a> <=
+/span></p><p dir=3D"ltr" style=3D"line-height:1.38;margin-top:0pt;margin-bo=
+ttom:0pt"><span style=3D"color:rgb(0,0,0);font-family:Arial;font-size:14.66=
+67px;white-space:pre-wrap"><br></span></p><p dir=3D"ltr" style=3D"line-heig=
+ht:1.38;margin-top:0pt;margin-bottom:0pt"><span style=3D"color:rgb(0,0,0);f=
+ont-family:Arial;font-size:14.6667px;white-space:pre-wrap">Talk soon!</span=
+></p></span>-- <br><div class=3D"gmail-m_4169117501084636571gmail_signature=
+"><div dir=3D"ltr"><div dir=3D"ltr" style=3D"font-size:12.8px;color:rgb(136=
+,136,136)"><font color=3D"#0b5394"><b>Jacqueline Parker</b></font><span sty=
+le=3D"color:rgb(68,68,68);font-family:tahoma,sans-serif;font-size:small"></=
+span></div><div dir=3D"ltr" style=3D"font-size:small"><div style=3D"color:r=
+gb(136,136,136);font-size:12.8px"><i><font size=3D"2"><font color=3D"#0000f=
+f"><a href=3D"mailto:jacqueline@inwhatlanguage.com" style=3D"color:rgb(17,8=
+5,204)" target=3D"_blank">jacqueline@inwhatlanguage.com</a>=C2=A0<wbr>|=C2=
+=A0<a href=3D"http://mailtracking.online/0a926b13e70118f39e153a8d31dd1b07/3=
+dabe97739b940c9a3b427acfbf40c17/86a496c75f779fc5136f72ba03ee9b08.html" styl=
+e=3D"color:rgb(17,85,204)" target=3D"_blank">inwhatlanguage.com</a>=C2=A0</=
+font></font></i></div><div style=3D"font-size:12.8px"><font color=3D"#0b539=
+4"><span style=3D"font-size:12.8px">3007 S West Temple,=C2=A0</span><span s=
+tyle=3D"font-size:12.8px">Suite L,=C2=A0</span><span style=3D"font-size:12.=
+8px">SLC, UT 84115</span></font><i style=3D"color:rgb(136,136,136)"><font s=
+ize=3D"2"><font color=3D"#0000ff"><br></font></font></i></div><div style=3D=
+"color:rgb(136,136,136);font-size:12.8px"><i><font size=3D"2"><font color=
+=3D"#0000ff"><br></font></font></i></div><span style=3D"color:rgb(136,136,1=
+36);font-size:12.8px"><div><font size=3D"2" color=3D"#0000ff"><img src=3D"h=
+ttps://docs.google.com/a/inwhatlanguage.com/uc?id=3D0B-I_ByWtrNoWcmhZdUM3c2=
+NBdVU&amp;export=3Ddownload" width=3D"200" height=3D"65"><br></font></div><=
+div><font size=3D"2" color=3D"#0000ff"><br></font></div><div><font size=3D"=
+2" color=3D"#0000ff">Be Global. Sound Local. UNIFY</font><span style=3D"fon=
+t-size:9pt"><font color=3D"#0000ff">=E2=84=A2</font></span></div><div><span=
+ style=3D"color:rgb(0,0,255);font-size:small">The Translation Management Cl=
+oud</span><span style=3D"font-size:9pt"><font color=3D"#0000ff"><br></font>=
+</span></div></span><div style=3D"color:rgb(136,136,136);font-size:12.8px">=
+<div><font face=3D"Arial, sans-serif" size=3D"1" color=3D"#666666">---</fon=
+t></div><div><font face=3D"Arial, sans-serif" size=3D"1" color=3D"#666666">=
+inWhatLanguage is an innovative translation software and services company t=
+hat provides a cutting-edge smarter approach to enterprise translation mana=
+gement. Through=C2=A0<a href=3D"http://mailtracking.online/0a926b13e70118f3=
+9e153a8d31dd1b07/3dabe97739b940c9a3b427acfbf40c17/bb49aacf325ff253ea6a963ac=
+2344d99.html" style=3D"color:rgb(17,85,204)" target=3D"_blank">UNIFY</a>, o=
+ur=C2=A0<b>proprietary translation management cloud</b>, we centralize your=
+ business and all its content together in one intuitive platform to produce=
+ the absolute best process to translate, deliver and manage all of your glo=
+bal content.</font></div><div><font face=3D"Arial, sans-serif" size=3D"1" c=
+olor=3D"#666666"><br></font></div><div><font face=3D"Arial, sans-serif" siz=
+e=3D"1" color=3D"#666666">This message is confidential to inWhatLanguage. A=
+ny review, retransmission, dissemination, distribution, copying or other us=
+e of, or taking of any action in reliance upon this information is strictly=
+ prohibited. If you have received this communication in error, please conta=
+ct the sender and delete the material from your computer.</font></div></div=
+></div></div></div>
+</div>
+<img border=3D"0" width=3D"1" height=3D"1" src=3D"http://opened.tech/0a926b=
+13e70118f39e153a8d31dd1b07/3dabe97739b940c9a3b427acfbf40c17.gif"><div style=
+=3D"text-align:center;padding-top:10px;padding-bottom:10px"><a href=3D"http=
+://mailtracking.online/remove/0a926b13e70118f39e153a8d31dd1b07/51c9a5f2850a=
+067a11df81f7c2791eb6/3dabe97739b940c9a3b427acfbf40c17.html" style=3D"color:=
+#606060;font-size:11px;text-align:center;font-family:Helvetica,Arial,sans-s=
+erif" target=3D"_blank">unsubscribe from this list</a></div>
+
+--f403045fc03e4860c7055e34be03--

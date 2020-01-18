@@ -1,0 +1,345 @@
+Return-Path: <info@crunchprofile.com>
+Delivered-To: mail@stilfilm.com
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 170CAD14A5
+	for <mail@stilfilm.com>; Mon,  4 Nov 2019 10:18:17 +0100 (CET)
+Authentication-Results: v22014122474822114.stilfilm.com; dkim=pass
+	reason="1024-bit key; insecure key"
+	header.d=crunchprofile.com header.i=info@crunchprofile.com
+	header.b=h6pN5OO4; dkim-adsp=pass; dkim-atps=neutral
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: 1.093
+X-Spam-Level: *
+X-Spam-Status: No, score=1.093 required=5.5 tests=[BAYES_50=0.8,
+	DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	HTML_MESSAGE=0.001, MAILING_LIST_MULTI=-1, PYZOR_CHECK=1.392]
+	autolearn=no autolearn_force=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id OoPDFwW0rPs7 for <mail@stilfilm.com>;
+	Mon,  4 Nov 2019 10:18:15 +0100 (CET)
+Received: from esd.leadsmessenger.com (esd.leadsmessenger.com [93.157.62.38])
+	(using TLSv1 with cipher ECDHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id 68C99CBBA9
+	for <info@stilfilm.com>; Mon,  4 Nov 2019 10:18:10 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=crunchprofile.com;
+ h=Message-ID:Date:Subject:From:Reply-To:To:MIME-Version:Content-Type:List-Unsubscribe:List-Id; i=info@crunchprofile.com;
+ bh=YvQa+dKkO+BmBMz6PGaqEey0J0U=;
+ b=h6pN5OO4ca5rpBiwGUYwpWImapcAxvwe+11g+UqPeML6592/28Ibs507gcu5vDzDI6cmfd1HRguA
+   IjZUxFbeY1I9/mN2r582+8nL8u7SAsO2zft+4TFTpw3VyP0yS1IOl++zSwJDN2loaQuHq03OTa2/
+   WLvVdZTSwZAfVhrAbH8=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=crunchprofile.com;
+ b=MOw2hDTphnYmO+rPEwHI+IHYEQrhahbTMrJR/qqItFCUntP5ZGkRgDrUNKcbE6D2e2e0eZXDzV5i
+   jmjUvofqemSHPadBS8B4j9DYMwXluhU/AZxrtI13r60sgYdrATYnQzFtBcq3mnL9dz2p/V/LS6l2
+   jE3mlbkTmjlMW8yNRso=;
+Message-ID: <bf69fbd0f9eff5e865a68b62ec53b16a@crunchprofile.com>
+Date: Mon, 04 Nov 2019 09:07:57 +0000
+Subject: Invitation to try the new Google Ads Click Identifier.
+From: "Rasmus, Fastbase Inc." <info@crunchprofile.com>
+Reply-To: "Rasmus, Fastbase Inc." <info@crunchprofile.com>
+To: "info@stilfilm.com" <info@stilfilm.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_v4_1572858477_90da173c4dd408d74175cab0fd841cd9_=_"
+X-Sender: info@crunchprofile.com
+X-Report-Abuse: Please report abuse for this campaign here:
+ https://link.linkedupdates.com/index.php/campaigns/pl8745hesl232/report-abuse/sx325lkvomf7c/qx230k2sevac0
+X-Receiver: info@stilfilm.com
+X-Fxyn-Tracking-Did: 0
+X-Fxyn-Subscriber-Uid: qx230k2sevac0
+X-Fxyn-Mailer: SwiftMailer - 5.4.x
+X-Fxyn-EBS: https://link.linkedupdates.com/index.php/lists/block-address
+X-Fxyn-Delivery-Sid: 17
+X-Fxyn-Customer-Uid: vd904vhnbjcc7
+X-Fxyn-Customer-Gid: 0
+X-Fxyn-Campaign-Uid: pl8745hesl232
+Precedence: bulk
+List-Unsubscribe: <https://link.linkedupdates.com/index.php/lists/sx325lkvomf7c/unsubscribe/qx230k2sevac0/pl8745hesl232/unsubscribe-direct?source=email-client-unsubscribe-button>,
+ <mailto:info@smalladwords.com?subject=Campaign-Uid:pl8745hesl232 /
+ Subscriber-Uid:qx230k2sevac0 - Unsubscribe request&body=Please unsubscribe
+ me!>
+List-Id: sx325lkvomf7c <Google_analytics_Emails_chunk17_chunk3>
+Feedback-ID: pl8745hesl232:qx230k2sevac0:sx325lkvomf7c:vd904vhnbjcc7
+
+
+--_=_swift_v4_1572858477_90da173c4dd408d74175cab0fd841cd9_=_
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+=C2=A0
+Invitation
+=C2=A0
+Good morning,
+=C2=A0
+We=E2=80=99re reach=
+ing out today with the invitation to try the new
+Google Ads Click Identif=
+ier.
+=C2=A0
+More than 4 million Google Ads' customers can now access de=
+tailed
+information about the businesses that clicked through their Ads'=
+
+campaigns. With the new Click Identifier tool identifying Adwords'
+lea=
+ds is a click away and access to contacts at those businesses that
+clicke=
+d through their ads within the past twelve months.
+=C2=A0
+The Click Ide=
+ntifier was developed using Fastbase, Inc.'s
+proprietary business data, w=
+hich was also used to develop the popular
+Add-On to Google Analytics
+ht=
+tps://link.linkedupdates.com/index.php/campaigns/pl8745hesl232/track-url/qx=
+230k2sevac0/77a08e592e6d5f2184578b1d2f0c3dd9f8b814d7
+that's used daily by=
+ over one million companies and top brands
+worldwide. It can be tried fre=
+e of charge.
+=C2=A0
+The Google Ads Click Identifier is expected to help=
+ businesses
+increase the number of new leads and customers by up to 66% b=
+ecause it
+enables understanding, optimizing and streamlining the best-per=
+forming
+ads providing unrivaled data about the hottest leads interacting =
+with
+their ads and website and this Click Identifier premium service is=
+
+offered from US $39 per month.
+=C2=A0
+=C2=A0
+Sign in with Google A=
+nalytics
+https://link.linkedupdates.com/index.php/campaigns/pl8745hesl232=
+/track-url/qx230k2sevac0/77a08e592e6d5f2184578b1d2f0c3dd9f8b814d7
+=C2=
+=A0
+=C2=A0
+The Fastbase Team.
+=C2=A0
+=C2=A0
+Unsubscribe here
+ht=
+tps://link.linkedupdates.com/index.php/campaigns/pl8745hesl232/track-url/qx=
+230k2sevac0/39ea0ccc8014f617de4bf6dc48d48da108ced737
+If you want to stop =
+further correspondence with FastBase Inc.
+
+--_=_swift_v4_1572858477_90da173c4dd408d74175cab0fd841cd9_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xmlns:o=3D"urn:schemas-microso=
+ft-com:office:office" xmlns:v=3D"urn:schemas-microsoft-com:vml">
+<head><!--[if gte mso 9]><xml>
+ <o:OfficeDocumentSettings>
+  <o:AllowPNG/>
+  <o:PixelsPerInch>96</o:PixelsPerInch>
+ </o:OfficeDocumentSettings>
+</xml><![endif]--><meta http-equiv=3D"Content-Type" content=3D"text/html; c=
+harset=3Dutf-8" /><meta name=3D"viewport" content=3D"width=3Ddevice-width, =
+initial-scale=3D1, maximum-scale=3D1, user-scalable=3Dno">
+=09<title>:: Fastbase Email ::</title>
+=09<style type=3D"text/css">@media only screen and (max-device-width: 767px=
+) {
+.mainbody {
+width:100% !important;
+}
+}
+@media only screen and (max-device-width: 480px) {
+.mainbody {
+width:100% !important;
+}
+.mb_pad1 {
+padding-left: 20px !important;
+padding-right: 20px !important;
+}
+.mb-title1 {
+font-size:16px !important;
+}
+}
+=09</style>
+</head>
+<body bgcolor=3D"#fafafa" bottommargin=3D"0" leftmargin=3D"0" rightmargin=
+=3D"0" topmargin=3D"0">
+<center>=C2=A0</center>
+
+<table align=3D"center" bgcolor=3D"#fafafa" border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0" class=3D"mainbody" style=3D"width:100%!important; padding=
+-bottom:0px; padding-top:0px; padding-left:0px; margin:0px auto; line-heigh=
+t:100%!important; padding-right:0px; background-color:#fafafa; font-family:=
+Arial,sans-serif;">
+=09<tbody>
+=09=09<tr>
+=09=09=09<td align=3D"center" valign=3D"top">
+=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"m=
+ainbody" style=3D"max-width:650px; padding-bottom:0px; padding-top:0px; pad=
+ding-left:0px; margin:0px auto; line-height:100%!important; padding-right:0=
+px" width=3D"650">
+=09=09=09=09<tbody>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td valign=3D"top">
+=09=09=09=09=09=09<table bgcolor=3D"#8bc750" border=3D"0" cellpadding=3D"0"=
+ cellspacing=3D"0" style=3D"width:100%!important; border-collapse:collapse;=
+ padding-bottom:0px; padding-top:0px; padding-left:0px; margin:0px auto; li=
+ne-height:100%!important; padding-right:0px" width=3D"100%">
+=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09<td align=3D"left" bgcolor=3D"#4285f4" class=3D"=
+mb_pad1" style=3D"padding-bottom:30px; text-align:left; padding-top:20px; p=
+adding-left:40px; padding-right:40px" valign=3D"bottom">
+=09=09=09=09=09=09=09=09=09<p class=3D"mb_mrg1" style=3D"font-size:24px; ma=
+rgin:10px 0; line-height:1.1em"><a href=3D"#" style=3D"text-decoration:none=
+" target=3D"_blank"><font class=3D"mb-title1" face=3D"arial, sans-serif" st=
+yle=3D"font-family:Arial,sans-serif!important; color:#ffffff; text-decorati=
+on:none; letter-spacing:1px; line-height:30px">Invitation</font></a></p>
+=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09</table>
+=09=09=09=09=09=09</td>
+=09=09=09=09=09</tr>
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09<td align=3D"center" valign=3D"top">
+=09=09=09=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" s=
+tyle=3D"border-top:#e0dede 1px solid; border-right:#e0dede 1px solid; borde=
+r-bottom:#e0dede 1px solid; border-left:#e0dede 1px solid">
+=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09<td align=3D"left" class=3D"mb_pad1" style=3D"pa=
+dding-bottom:20px; padding-top:20px; padding-left:40px; padding-right:40px;=
+ background-color:#fff">
+=09=09=09=09=09=09=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacin=
+g=3D"0" width=3D"100%">
+=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<td>=C2=A0</td>
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<td><font class=3D"font1" color=3D"#3a3=
+32b" style=3D"font-size:16px; font-family:Arial,sans-serif; padding-bottom:=
+0px; padding-top:0px; padding-left:0px; margin:0px; line-height:24px!import=
+ant; padding-right:0px">Good morning,</font></td>
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<td>=C2=A0</td>
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<td><font class=3D"font1" color=3D"#3a3=
+32b" style=3D"font-size:16px; font-family:Arial,sans-serif; padding-bottom:=
+0px; padding-top:0px; padding-left:0px; margin:0px; line-height:24px!import=
+ant; padding-right:0px"><b>We=E2=80=99re reaching out today with the invita=
+tion to try the new Google Ads Click Identifier.</b></font></td>
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<td>=C2=A0</td>
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<td><font class=3D"font1" color=3D"#3a3=
+32b" style=3D"font-size:14px; font-family:Arial,sans-serif; padding-bottom:=
+0px; padding-top:0px; padding-left:0px; margin:0px; line-height:24px!import=
+ant; padding-right:0px">More than 4 million Google Ads' customers can now a=
+ccess detailed information about the businesses that clicked through their =
+Ads' campaigns. With the new Click Identifier tool identifying Adwords' lea=
+ds is a click away and access to contacts at those businesses that clicked =
+through their ads within the past twelve months.</font></td>
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<td>=C2=A0</td>
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<td><font class=3D"font1" color=3D"#3a3=
+32b" style=3D"font-size:14px; font-family:Arial,sans-serif; padding-bottom:=
+0px; padding-top:0px; padding-left:0px; margin:0px; line-height:24px!import=
+ant; padding-right:0px">The Click Identifier was developed using Fastbase, =
+Inc.'s proprietary business data, which was also used to develop the popula=
+r <a href=3D"https://link.linkedupdates.com/index.php/campaigns/pl8745hesl2=
+32/track-url/qx230k2sevac0/77a08e592e6d5f2184578b1d2f0c3dd9f8b814d7" target=
+=3D"_blank">Add-On to Google Analytics</a> that's used daily by over one mi=
+llion companies and top brands worldwide. It can be tried free of charge.</=
+font></td>
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<td>=C2=A0</td>
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<td><font class=3D"font1" color=3D"#3a3=
+32b" style=3D"font-size:14px; font-family:Arial,sans-serif; padding-bottom:=
+0px; padding-top:0px; padding-left:0px; margin:0px; line-height:24px!import=
+ant; padding-right:0px">The Google Ads Click Identifier is expected to help=
+ businesses increase the number of new leads and customers by up to 66% bec=
+ause it enables understanding, optimizing and streamlining the best-perform=
+ing ads providing unrivaled data about the hottest leads interacting with t=
+heir ads and website and this Click Identifier premium service is offered f=
+rom US $39 per month.</font></td>
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<td>=C2=A0</td>
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<td>=C2=A0</td>
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<td align=3D"center"><a href=3D"https:/=
+/link.linkedupdates.com/index.php/campaigns/pl8745hesl232/track-url/qx230k2=
+sevac0/77a08e592e6d5f2184578b1d2f0c3dd9f8b814d7" style=3D"font-family: Aria=
+l;font-weight: bold;color: #ffffff;font-size: 16px;                        =
+        background: #4285f4;letter-spacing: 1px;padding: 14px 20px 14px 20p=
+x;text-decoration: none;border-radius: 3px;" target=3D"_blank">Sign in with=
+ Google Analytics</a></td>
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<td>=C2=A0</td>
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<td>=C2=A0</td>
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<td><font class=3D"font1" color=3D"#3a3=
+32b" style=3D"font-size:14px; font-family:Arial,sans-serif; padding-bottom:=
+0px; padding-top:0px; padding-left:0px; margin:0px; line-height:24px!import=
+ant; padding-right:0px">The Fastbase Team.</font></td>
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<td>=C2=A0</td>
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<td>=C2=A0</td>
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09</table>
+
+=09=09=09=09=09=09<center style=3D"font-size: 10px;"><a data-unsubtag=3D"_U=
+NSUBSCRIBE_URL_" href=3D"https://link.linkedupdates.com/index.php/campaigns=
+/pl8745hesl232/track-url/qx230k2sevac0/39ea0ccc8014f617de4bf6dc48d48da108ce=
+d737" style=3D"color:#4285f4;font-family:Arial,sans-serif;">Unsubscribe her=
+e</a> If you want to stop further correspondence with FastBase Inc.</center=
+>
+=09=09=09=09=09=09</td>
+=09=09=09=09=09</tr>
+=09=09=09=09</tbody>
+=09=09=09</table>
+=09=09=09</td>
+=09=09</tr>
+=09</tbody>
+</table>
+<img width=3D"1" height=3D"1" src=3D"https://link.linkedupdates.com/index.p=
+hp/campaigns/pl8745hesl232/track-opening/qx230k2sevac0" alt=3D"" />
+</bod=
+y>
+</html>
+
+--_=_swift_v4_1572858477_90da173c4dd408d74175cab0fd841cd9_=_--
+

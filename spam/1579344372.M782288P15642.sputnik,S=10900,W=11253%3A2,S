@@ -1,0 +1,353 @@
+Return-Path: <bounce@mybankvault.info>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id E92CBD291A
+	for <mail@dorianvasco.de>; Fri,  4 Jan 2019 13:50:09 +0100 (CET)
+Authentication-Results: v22014122474822114.stilfilm.com; dkim=pass
+	reason="1024-bit key; insecure key"
+	header.d=mybankvault.info header.i=@mybankvault.info
+	header.b=LkVEfyh9; dkim-adsp=pass; dkim-atps=neutral
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 13.05
+X-Spam-Level: *************
+X-Spam-Status: Yes, score=13.05 required=5.5 tests=[DATE_IN_PAST_03_06=1.076,
+	DIGEST_MULTIPLE=0.001, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, EXCUSE_4=1.687, FSL_THIS_IS_ADV=0.937,
+	HTML_IMAGE_RATIO_02=0.805, HTML_MESSAGE=0.001, PYZOR_CHECK=1.985,
+	RAZOR2_CF_RANGE_51_100=2.43, RAZOR2_CHECK=1.729, SPF_HELO_PASS=-0.001,
+	SPF_PASS=-0.001, URIBL_BLOCKED=0.001, URIBL_DBL_SPAM=2.5]
+	autolearn=unavailable
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 9im8WtF0LUT0 for <mail@dorianvasco.de>;
+	Fri,  4 Jan 2019 13:50:05 +0100 (CET)
+Received: from mybankvault.info (mybankvault.info [68.183.134.71])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id D5BBAC422A
+	for <kontakt@dorianvasco.de>; Fri,  4 Jan 2019 13:49:56 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=kgrus; d=mybankvault.info;
+ h=To:Subject:Message-ID:Date:From:Reply-To:MIME-Version:List-Unsubscribe:Content-Type:Content-Transfer-Encoding;
+ bh=T75EXuHXLiLwUSgVrFijP1tbFbg=;
+ b=LkVEfyh9Cvrx+sJsrowpkSeO5Eg6jH8PGohzrEGvlXaQJcNULuWwIGcYWPQh9yyTM/xdRllfOAeM
+   lEZAYUL/hrTEdj5mcUg+F4roqyqmgk/NECi3ye5Om+UfOGmmuo0/rxLnhoVvnEKkObAbUyWRojWm
+   QzlEk3nD4xcdYwF5Jt4=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=kgrus; d=mybankvault.info;
+ b=eviAE/jbAgS9HQgGgL+trApl9l+D+lYEx2fHxomB4lkIDdyHlKSrtziGwvNzOy/om/6GzZ30HJ9I
+   LKQ8NlJW19+MoI3risW1cBWyN8nZFpxmcaGudetldjCL8D2W1vaxGUj7GeAINBJWdMvI8AOd2rWY
+   xL19je4gNf0TI/hgZh0=;
+To: kontakt@dorianvasco.de
+Subject: =?UTF-8?B?R2V3aW5uZSBkaWVzZSA1MDDigqwgR3V0c2NoZWlua2FydGUgSWtlYS4=?=
+Message-ID: <2f73aeaa6005eed4debe2c97f219a92d@mybankvault.info>
+Date: Fri, 04 Jan 2019 06:58:09 +0000
+From: "IKEA XMAS" <mailer@mybankvault.info>
+Reply-To: mailer@mybankvault.info
+Complaint-To: abuse@mybankvault.info
+Priority: 3
+Precedence: bulk
+MIME-Version: 1.0
+X-Mailer-LID: 10
+List-Unsubscribe: <http://mybankvault.info/my/unsubscribe.php?M=605699&C=1a82cb8770b4e469b3ded0d46718ec26&L=10&N=39>
+X-Mailer-RecptId: 605699
+X-Mailer-SID: 39
+X-Abuse-Reports-To: abuse@mybankvault.info
+X-Mailer-Sent-By: 1
+Content-Type: multipart/alternative; charset="UTF-8"; boundary="b1_74e1d1ad2c180c8cd05caa43c9fd50f3"
+Content-Transfer-Encoding: 8bit
+
+--b1_74e1d1ad2c180c8cd05caa43c9fd50f3
+Content-Type: text/plain; format=flowed; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+Your email client cannot read this email.
+To view it online, please go here:
+http://mybankvault.info/my/display.php?M=605699&C=1a82cb8770b4e469b3ded0d46718ec26&S=39&L=10&N=14
+
+
+To stop receiving these
+emails:http://mybankvault.info/my/unsubscribe.php?M=605699&C=1a82cb8770b4e469b3ded0d46718ec26&L=10&N=39
+
+--b1_74e1d1ad2c180c8cd05caa43c9fd50f3
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html>
+<html>
+<head>
+<title></title>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1"  />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<style type="text/css">
+/* CLIENT-SPECIFIC STYLES */
+
+/* Prevent WebKit and Windows mobile changing default text sizes */
+body, table, td, a {
+	-webkit-text-size-adjust: 100%;
+	-ms-text-size-adjust: 100%;
+}
+
+/* Remove spacing between tables in Outlook 2007 and up */
+table, td {
+	mso-table-lspace: 0pt;
+	mso-table-rspace: 0pt;
+}
+
+/* Allow smoother rendering of resized image in Internet Explorer */
+img {
+	-ms-interpolation-mode: bicubic;
+}
+
+/* RESET STYLES */
+body {
+	height: 100% !important;
+	margin: 0 !important;
+	padding: 0 !important;
+	width: 100% !important;
+}
+
+img {
+	border: 0;
+	height: auto;
+	line-height: 100%;
+	outline: none;
+	text-decoration: none;
+}
+
+table {
+	border-collapse: collapse !important;
+}
+
+/* iOS BLUE LINKS */
+a[x-apple-data-detectors] {
+	color: inherit !important;
+	text-decoration: none !important;
+	font-size: inherit !important;
+	font-family: inherit !important;
+	font-weight: inherit !important;
+	line-height: inherit !important;
+}
+
+/* MOBILE STYLES */
+@media screen and (max-width:625px) {
+
+/* ALLOWS FOR FLUID TABLES */
+ .wrapper {
+	width: 100% !important;
+	max-width: 100% !important;
+}
+
+/* ADJUSTS LAYOUT OF LOGO IMAGE */
+ .logo img {
+	margin: 0 auto !important;
+}
+
+/* USE THESE CLASSES TO HIDE CONTENT ON MOBILE */
+ .mobile-hide {
+	display: none !important;
+}
+
+ .img-max {
+	max-width: 100% !important;
+	width: 100% !important;
+	height: auto !important;
+}
+
+ .gf {
+	max-width: 260px !important;
+	width: 100% !important;
+	height: auto !important;
+}
+
+/* FULL-WIDTH TABLES */
+ .responsive-table {
+	width: 100% !important;
+}
+
+/* UTILITY CLASSES FOR ADJUSTING PADDING ON MOBILE */
+ .padding {
+	padding: 10px 5% 10px 5%;
+}
+
+ .padding-copy {
+	padding-left: 5% !important;
+	padding-right: 5% !important;
+	text-align: center !important;
+	font-size: 16px !important;
+	line-height: 21px !important;
+}
+
+ .padding-header {
+	padding: 20px 5% 0 5% !important;
+	text-align: center;
+	font-size: 35px !important;
+}
+
+ .padding-hero {
+	padding: 20px 0 0 0 !important;
+	text-align: center;
+}
+
+ .section-padding {
+	padding: 0 15px 0 15px !important;
+}
+
+/* ADJUST BUTTONS ON MOBILE */
+ .mobile-button-container {
+	margin: 0 auto;
+	width: 100% !important;
+}
+
+ .mobile-button {
+	width: 90% !important;
+	font-size: 22px !important;
+	display: block !important;
+}
+}
+</style>
+</head>
+<body style="margin: 0 !important; padding: 0 !important;"
+bgcolor="#eeeeee">
+<table style="width: 100%;" cellspacing="0" cellpadding="0" border="0">
+<tbody>
+<tr>
+<td style="padding: 15px 15px 15px 15px;" class="section-padding"
+bgcolor="#eeeeee" align="center"><!--[if (gte mso 9)|(IE)]>
+            <table align="center" border="0" cellspacing="0"
+cellpadding="0" width="600">
+            <tr>
+            <td align="center" valign="top" width="600">
+            <![endif]-->
+<table style="max-width: 600px; width: 100%;" class="wrapper"
+cellspacing="0" cellpadding="0" border="0">
+<tbody>
+<tr>
+<td style="border: solid #ffffff; border-width: 5px;" bgcolor="#000000">
+<table style="width: 100%;" cellspacing="0" cellpadding="0" border="0">
+<tbody>
+<tr>
+<td>
+<table style="width: 100%;" cellspacing="0" cellpadding="0" border="0">
+<tbody>
+<tr>
+<td style="padding: 40px 20px 0px 20px; font-size: 45px; font-family:
+Arial, sans-serif; color: #ffffff;" class="padding-header"
+align="center">Gewinne diese<br /> <strong>500&euro;
+GUTSCHEINKARTE</strong></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td class="padding-hero" align="center"><a
+href="http://mybankvault.info/my/link.php?M=605699&N=39&L=23&F=H"
+target="_blank"><img
+src="http://mybankvault.info/my/admin/temp/newsletters/14/hero.jpg"
+alt="hero.jpg" style="display: block; padding: 0; color: #000000;
+text-decoration: none; font-family: Arial, sans-serif; font-size: 16px;"
+title="hero.jpg" width="600" height="410" border="0" /></a></td>
+</tr>
+<tr>
+<td>
+<table style="width: 100%;" cellspacing="0" cellpadding="0" border="0"
+align="center">
+<tbody>
+<tr>
+<td style="padding: 10px 50px 0 50px; font-size: 16px; line-height: 20px;
+font-family: Arial, sans-serif; color: #ffffff;" class="padding-copy"
+align="left"><strong>Hallo #FirstName#,</strong></td>
+</tr>
+<tr>
+<td style="padding: 20px 50px 0 50px; font-size: 14px; line-height: 22px;
+font-family: Arial, sans-serif; color: #ffffff;" class="padding-copy"
+align="left">Wir verteilen wieder kostenlose Geschenkgutscheine. Du wurdest
+als einer der m&ouml;glichen Gewinner ausgew&auml;hlt Der Geschenkgutschein
+wartet auf Deine Best&auml;tigung. Jetzt teilnehmen und den Preis in
+Empfang nehmen! Mit ein bisschen Gl&uuml;ck wirst Du bald kostenlos
+shoppen.<br /> <br /> Viel Erfolg beim Shoppen und viel Spa&szlig;</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td align="center">
+<table style="width: 100%;" cellspacing="0" cellpadding="0" border="0"
+align="center">
+<tbody>
+<tr>
+<td style="padding: 35px 15px 35px 15px;" class="padding" align="center">
+<table class="mobile-button-container" cellspacing="0" cellpadding="0"
+border="0">
+<tbody>
+<tr>
+<td style="border-radius: 0px;" align="center">
+<div><!--[if mso]><v:rect xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+href="http://expobright.com/?E=miHaaRPIkO8cpt%2b99%2bnkmXnRhW14IdS%2b&s1="
+style="height:70px;v-text-anchor:middle;width:400px;" stroke="f"
+fillcolor="#228aff"><w:anchorlock/><center><![endif]--><a
+href="http://mybankvault.info/my/link.php?M=605699&N=39&L=23&F=H"
+style="background-color: #228aff; border: 2px solid #ffffff; color:
+#ffffff; display: inline-block; font-family: sans-serif; font-size: 35px;
+font-weight: bold; line-height: 70px; text-align: center; text-decoration:
+none; width: 400px; -webkit-text-size-adjust: none;"
+class="mobile-button">Jetzt mitmachen &rsaquo;</a><!--[if
+mso]></center></v:rect><![endif]--></div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="padding: 20px 0 0 0;" bgcolor="#eeeeee" align="center"><img
+src="http://mybankvault.info/my/admin/temp/newsletters/14/logo-de.png"
+alt="logo-de.png" style="display: block; padding: 0; color: #ffffff;
+text-decoration: none; font-family: Arial, sans-serif; font-size: 16px;"
+title="logo-de.png" width="291" height="71" border="0" /></td>
+</tr>
+</tbody>
+</table>
+<!--[if (gte mso 9)|(IE)]>
+            </td>
+            </tr>
+            </table>
+            <![endif]--></td>
+</tr>
+</tbody>
+</table>
+<!-- footer-->
+<table style="width: 100%;" cellspacing="0" cellpadding="0" border="0"
+align="center">
+<tbody>
+<tr>
+<td style="font-family: Helvetica, Arial, sans-serif; font-size: 10px;
+color: #000000; line-height: 15px; padding-bottom: 10px; padding-left:
+10px; padding-right: 10px;" width="100%" align="center">This is an
+advertisement. Mediamarkt is a trademark who is not affiliated with this
+promotion.<br /> To be removed please Unsubscribe <a
+href="http://mybankvault.info/my/unsubscribe.php?M=605699&C=1a82cb8770b4e469b3ded0d46718ec26&L=10&N=39"
+style="color: #000000;">here</a></td>
+</tr>
+</tbody>
+</table>
+<!-- footer-->
+<img
+src="http://mybankvault.info/my/open.php?M=605699&L=10&N=39&F=H&image=.jpg"
+height="1" width="10"></body>
+</html>
+
+--b1_74e1d1ad2c180c8cd05caa43c9fd50f3--
+
+

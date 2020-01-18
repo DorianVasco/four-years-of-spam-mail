@@ -1,0 +1,377 @@
+Return-Path: <mailer-daemon@news.up-leveled.com>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 445CFC3045
+	for <mail@dorianvasco.de>; Sun, 22 Apr 2018 09:17:30 +0200 (CEST)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 5.766
+X-Spam-Level: *****
+X-Spam-Status: Yes, score=5.766 required=5.5 tests=[DKIM_SIGNED=0.1,
+	DKIM_VALID=-0.1, FROM_EXCESS_BASE64=0.105, HTML_MESSAGE=0.001,
+	MAILING_LIST_MULTI=-1, MIME_HTML_MOSTLY=0.001, MPART_ALT_DIFF=0.724,
+	PYZOR_CHECK=1.985, RCVD_IN_DNSWL_NONE=-0.0001, RCVD_IN_IADB_DK=-0.223,
+	RCVD_IN_IADB_DOPTIN_LT50=-0.001, RCVD_IN_IADB_LISTED=-0.38,
+	RCVD_IN_IADB_RDNS=-0.167, RCVD_IN_IADB_SENDERID=-0.001,
+	RCVD_IN_IADB_SPF=-0.001, SPF_HELO_PASS=-0.001, SPF_PASS=-0.001,
+	URIBL_ABUSE_SURBL=1.948, URIBL_BLOCKED=0.001, URIBL_DBL_SPAM=2.5,
+	URIBL_RHS_DOB=0.276] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id r841yM4EeI8B for <mail@dorianvasco.de>;
+	Sun, 22 Apr 2018 09:17:28 +0200 (CEST)
+Received: from bm43k.be-mail.it (bm43k.be-mail.it [185.153.111.43])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id 984DEC0893
+	for <kontakt@dorianvasco.de>; Sun, 22 Apr 2018 09:17:28 +0200 (CEST)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/simple; d=up-leveled.com;
+	s=ketchup; t=1524381727; bh=Jqq/fM100Eb5zeHSPyT+fEW6Nxc=;
+	h=Date:From:To:Subject:MIME-Version:Content-Type:Precedence:
+	 Feedback-ID:X-Abuse:List-id:List-unsubscribe:List-Unsubscribe-Post:
+	 X-Mailer:X-IADB-IP:X-IADB-IP-REVERSE:X-IADB-URL:X-CSA-Complaints:
+	 Reply-To:Message-Id;
+	b=PNPnAk2H6dAqI4yy7jxQhaqudAhUBvcpqfkuMXsjIMK5IAVlF7dDmPX3Ok/7wwW6L
+	 CMAQszvG0KIuWAtLgeWcmRMiRovTfLdAToaD8RdOb8yTyfxFTI1t/sNPa+k3yFSk1Y
+	 K0dVK3sWH+uOSH1oA+6wMcik7pLbtavEYCbe3BcE=
+Date: Sun, 22 Apr 2018 09:22:05 +0200
+From: "=?UTF-8?B?QsO8cm8gZsO8ciBHZXNwb25zZXJ0ZSBUb3VyaXN0aWsg?=" <noreply@news.up-leveled.com>
+To: "kontakt@dorianvasco.de" <kontakt@dorianvasco.de>
+Subject: Einmaliger Code 541368 ist abholungsbereit
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="_----------=_1524355567288700"
+Precedence: bulk
+Feedback-ID: 1944:200:1:.up-leveled.com
+X-Abuse: Please report abuse AT abusemail@be-mail.it
+List-id: <200.be-mail.it>
+List-unsubscribe: <http://unsubscribe.getaleks.com/l/200/1067244/b390da7333ac4b75d289e48ade8c3ca1/1944/>, <mailto:unsubscribe@be-mail.it?subject=http://unsubscribe.getaleks.com/l/200/1067244/b390da7333ac4b75d289e48ade8c3ca1/1944/>
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+X-Mailer: beMail
+X-IADB-IP: 185.153.111.43
+X-IADB-IP-REVERSE: bm43k.be-mail.it
+X-IADB-URL: http://www.isipp.com/iadb.php
+X-CSA-Complaints: whitelist-complaints@eco.de
+Reply-To: news@up-leveled.com
+Message-Id: <147154.200.1944.1067244@news.up-leveled.com>
+
+This is a multi-part message in MIME format.
+
+--_----------=_1524355567288700
+Date: Sun, 22 Apr 2018 02:06:07 +0200
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+
+
+ Europ=C3=A4ischen Studie =C3=BCber Touristische Pr=C3=A4ferenzen
+
+
+
+
+
+
+
+--_----------=_1524355567288700
+Date: Sun, 22 Apr 2018 02:06:07 +0200
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www=
+.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+	<title></title>
+	<meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge"><meta http-equi=
+v=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" /><meta name=3D"v=
+iewport" content=3D"width=3Ddevice-width, initial-scale=3D1">
+	<link href=3D"https://fonts.googleapis.com/css?family=3DRoboto" rel=3D"sty=
+lesheet" /><meta name=3D"description" content=3D"Potrzebujesz oddechu od co=
+dziennej rzeczywisto=C5=9Bci, ale brakuje Ci pomys=C5=82=C3=B3w jak sobie z=
+ tym poradzi=C4=87?">
+</head>
+<body bgcolor=3D"#f4f4f4" style=3D"background-color:#f4f4f4;"><img src=3D"h=
+ttp://go.getaleks.com/200/1944/=
+1067244=
+/under.gif" width=3D"1" height=3D=
+"1" alt=3D"Abilita le immagini per vedere correttamente il messagio">
+
+
+<!-- MIRROR -->
+<div style=3D"width:100%;text-align:center;margin: 20px 0; ">
+<div style=3D"max-width:700px;margin:auto;padding:15px;"><a href=3D"http://=
+static.getaleks.com/mirrorlink/=
+1067244=
+/1944/200/">Siehst du nicht die E=
+mail hier klicken</a>&nbsp;</div>
+
+<div style=3D"max-width:700px;margin:auto;padding:15px;"><span style=3D"col=
+or: rgb(85, 85, 85); font-family: 'Segoe UI', Tahoma, Helvetica, sans-serif=
+; font-size: 13px; background-color: rgb(255, 255, 255);">Wenn Sie glauben,=
+ diese unerw&uuml;nschte Nachricht dass,&nbsp;<a href=3D"http://unsubscribe=
+.getaleks.com/200/=
+1067244=
+/=
+b390da7333ac4b75d289e48ade8c3ca1=
+/1944/">Spam melden</a></span></di=
+v>
+</div>
+
+<div style=3D"clear:both;"><!-- --></div>
+<!-- /MIRROR --><!--[if (gte mso 9)|(IE)]>
+	<table width=3D"600" align=3D"center" cellpadding=3D"0" cellspacing=3D"0" =
+border=3D"0" bgcolor=3D"#ffffff">
+	<tr>
+	<td>
+<![endif]-->
+<table align=3D"center" bgcolor=3D"#ffffff" border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0" style=3D"margin: 0 auto; width: 100%; max-width: 600px; b=
+ackground-color:#ffffff; border: 1px solid #ffffff;">
+	<tbody>
+	<tr>
+	<td align=3D"center" style=3D"padding: 11px 0 0 0; border-bottom: 1px soli=
+d #ffffff;"><img alt=3D"" border=3D"0" src=3D"http://static.getaleks.com/20=
+0/360/header.jpg" style=3D"width: 100%; max-width: 576px;" /></td>
+	</tr>
+	<tr>
+	<td style=3D"padding: 25px 35px 15px; font-size: 20px; font-family: 'robot=
+o',tahoma,arial; line-height: 25px; text-align: left;">Guten Tag,</td>
+	</tr>
+	<tr>
+	<td style=3D"padding: 5px 35px; font-size: 16px; font-family: 'roboto',tah=
+oma,arial; line-height: 24px; color: #000000; text-align: left;">Dank Ihrer=
+ letzten Pr&auml;senz auf touristischen Reisen-Internetplattformen, wurden =
+Sie zur Teilnahme an der <b>Europ&auml;ischen Studie &uuml;ber Touristische=
+ Pr&auml;ferenzen</b> ausgew&auml;hlt. Als Danksagung f&uuml;r die uns gewi=
+dmete Zeit haben wir f&uuml;r Sie einen <b>Voucher f&uuml;r 3 Tage &Uuml;be=
+rnachtung f&uuml;r 2 Personen</b> in einem von Ihnen ausgew&auml;hlten Hote=
+l aus unserem Katalog mit beinahe 1000 H&auml;usern.</td>
+	</tr>
+	<tr>
+	<td style=3D"padding: 15px 20px 15px;text-align: center;"><a href=3D"http:=
+//go.getaleks.com/200/1944/13938/=
+1067244=
+/"><img align=3D"center" alt=3D=
+"NEHMEN SIE AN DER STUDIE TEIL" border=3D"0" class=3D"img" src=3D"http://st=
+atic.getaleks.com/200/358/btn.jpg" style=3D"width: 100%; max-width: 300px;"=
+ /></a></td>
+	</tr>
+	<tr>
+	<td style=3D"padding: 5px 35px; font-size: 16px; font-family: 'roboto',tah=
+oma,arial; line-height: 24px; color: #000000; text-align: left;">Die Studie=
+ &uuml;ber Touristische Pr&auml;ferenzen ist eine ein paar Minute lange und=
+ anonyme Umfrage, deren Ergebnisse helfen uns, die Bedingungen auf dem Mark=
+t des Individualtourismus zu verbessern und das touristische Angebot an die=
+ Erwartungen der Touristen anzupassen. Sie k&ouml;nnen direkt dazu beitrage=
+n, die Qualit&auml;t der touristischen Dienstleistungen in Europa auf einen=
+ besseren Stand zu bringen. F&uuml;r die gewidmete Zeit bieten wir Ihnen ei=
+nen Voucher f&uuml;r <b>kostenlose &Uuml;bernachtung</b>.</td>
+	</tr>
+	<tr>
+	<td style=3D"padding: 15px 35px 15px; font-size: 16px; font-family: 'robot=
+o',tahoma,arial; line-height: 24px; color: #000000; text-align: left;"><a h=
+ref=3D"http://go.getaleks.com/200/1944/13940/=
+1067244=
+/" style=3D"color: =
+#21a7ca;">F&uuml;llen Sie den Fragebogen schon jetzt aus,</a> Ihr Voucher s=
+teht zur Abholung bereit:</td>
+	</tr>
+	<tr>
+	<td align=3D"center" style=3D"padding:10px 5px;"><!--[if (gte mso 9)|(IE)]>
+	<table width=3D"400" align=3D"center" cellpadding=3D"0" cellspacing=3D"0" =
+border=3D"0" bgcolor=3D"#fefaef">
+	<tr>
+	<td>
+	<![endif]-->
+	<table align=3D"center" bgcolor=3D"#fefaef" border=3D"0" cellpadding=3D"0"=
+ cellspacing=3D"0" style=3D"width: 100%; max-width:400px; margin: 0px auto =
+10px; align: center; padding: 0px 25px; border: 1px dotted #dba751;  backgr=
+ound-color: #fefaef;">
+	<tbody>
+	<tr>
+	<td style=3D"padding: 20px 10px 10px; font-size: 18px; font-family: 'robot=
+o',tahoma,arial; line-height: 23px; color: #000000; text-align: center; tex=
+t-transform:uppercase; border-bottom: 1px solid #000000;"><b>EINZELHEITEN D=
+ES VOUCHERS</b></td>
+	</tr>
+	<tr>
+	<td style=3D"padding: 10px 10px 10px; font-size: 16px; font-family: 'robot=
+o',tahoma,arial; line-height: 23px; color: #000000; text-align: center;">Vo=
+ucher f&uuml;r Teilnahme an der Umfrage f&uuml;r:<br />
+	Voucher-Nr.: <b>541368</b><br />
+	Anzahl der &Uuml;bernachtungstage: <b>3</b><br />
+	Anzahl der Personen: <b>2</b><br />
+	G&uuml;ltigkeitsdauer: <b>6 Monate</b></td>
+	</tr>
+	</tbody>
+	</table>
+	<!--[if (gte mso 9)|(IE)]>
+	</td>
+	</tr>
+	</table>
+	<![endif]--></td>
+	</tr>
+	<tr>
+	<td style=3D"padding: 5px 35px; font-size: 16px; font-family: 'roboto',tah=
+oma,arial; line-height: 23px; color: #ec603f; text-align: left;"><b>Um den =
+Voucher einzul&ouml;sen...</b></td>
+	</tr>
+	<tr>
+	<td align=3D"center" style=3D"padding:10px 5px 0px;"><!--[if (gte mso 9)|(=
+IE)]>
+	<table width=3D"530" align=3D"center" cellpadding=3D"0" cellspacing=3D"0" =
+border=3D"0" bgcolor=3D"#ebebeb">
+	<tr>
+	<td>
+	<![endif]-->
+	<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" s=
+tyle=3D"width: 100%; max-width:530px; margin: 0px auto 10px; align: center;=
+">
+	<tbody>
+	<tr>
+	<td style=3D"padding:5px 0 5px 2px; width:14px; vertical-align: top;"><img=
+ align=3D"center" alt=3D"" border=3D"0" class=3D"img" src=3D"http://static.=
+getaleks.com/200/356/arrow.png" style=3D"width: 100%; max-width: 14px;" /><=
+/td>
+	<td style=3D"padding:0 0 0 5px; font-size: 15px; font-family: 'roboto',tah=
+oma,arial; line-height: 23px; color: #000000; text-align: left; vertical-al=
+ign: top;">w&auml;hlen Sie bitte das f&uuml;r Sie interessante Hotel aus un=
+serem Katalog und</td>
+	</tr>
+	<tr>
+	<td style=3D"padding:5px 0 5px 2px; width:14px; vertical-align: top;"><img=
+ align=3D"center" alt=3D"" border=3D"0" class=3D"img" src=3D"http://static.=
+getaleks.com/200/356/arrow.png" style=3D"width: 100%; max-width: 14px;" /><=
+/td>
+	<td style=3D"padding:0 0 0 5px; font-size: 15px; font-family: 'roboto',tah=
+oma,arial; line-height: 23px; color: #000000; text-align: left; vertical-al=
+ign: top;">nehmen Sie die Reservierung vor, am Ankunftstag zeigen Sie den V=
+oucher an der Rezeption vor</td>
+	</tr>
+	<tr>
+	<td style=3D"padding:5px 0 0px 2px; width:14px; vertical-align: top;"><img=
+ align=3D"center" alt=3D"" border=3D"0" class=3D"img" src=3D"http://static.=
+getaleks.com/200/356/arrow.png" style=3D"width: 100%; max-width: 14px;" /><=
+/td>
+	<td style=3D"padding:0 0 0 5px; font-size: 15px; font-family: 'roboto',tah=
+oma,arial; line-height: 23px; color: #000000; text-align: left; vertical-al=
+ign: top;">nutzen Sie <b>die kostenlose &Uuml;bernachtung und freuen Sie si=
+ch &uuml;ber Ihren Urlaub!</b></td>
+	</tr>
+	</tbody>
+	</table>
+	<!--[if (gte mso 9)|(IE)]>
+	</td>
+	</tr>
+	</table>
+	<![endif]--></td>
+	</tr>
+	<tr>
+	<td style=3D"padding: 5px 35px 10px; font-size: 16px; font-family: 'roboto=
+',tahoma,arial; line-height: 24px; color: #000000; text-align: right;"><a h=
+ref=3D"http://go.getaleks.com/200/1944/13942/=
+1067244=
+/" style=3D"color: =
+#21a7ca;">Nehmen Sie an der Umfrage teil &gt;&gt;</a></td>
+	</tr>
+	<tr>
+	<td style=3D"padding: 5px 35px; font-size: 15px; font-family: 'roboto',tah=
+oma,arial; line-height: 24px; color: #000000; text-align: left;">GeoPlus un=
+tersucht seit Jahren touristische Vorlieben der Europ&auml;er, was auf die =
+reale Verbesserung der touristischen Dienstleistungen und deren Anpassung a=
+n die Erwartungen der Touristen Einfluss aus&uuml;bt. Die Befragten wurden =
+nach strengem Auswahlverfahren mit konkreten Parametern ausgew&auml;hlt. Le=
+iten Sie daher Ihre Einladung an Dritte nicht weiter.</td>
+	</tr>
+	<tr>
+	<td style=3D"padding: 5px 35px 25px; font-size: 15px; font-family: 'roboto=
+',tahoma,arial; line-height: 24px; color: #000000; text-align: right;">Wir =
+bedanken uns f&uuml;r Ihre Teilnahme,<br />
+	Ihr Geoplus-Team</td>
+	</tr>
+	</tbody>
+</table>
+<!--[if (gte mso 9)|(IE)]>
+</td>
+</tr>
+</table>
+<![endif]--><!--[if (gte mso 9)|(IE)]>
+<table width=3D"600" align=3D"center" cellpadding=3D"0" cellspacing=3D"0" b=
+order=3D"0">
+<tr>
+<td>
+<![endif]-->
+
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" st=
+yle=3D"margin: 0px auto; width: 100%; max-width: 600px;">
+	<tbody>
+	<tr>
+	<td style=3D"font-size: 11px; font-family: Arial, arial; color: #202020; p=
+adding: 0px 3px; line-height: 18px;">
+	<p align=3D"justify" style=3D"margin:0px: padding:0px: text-align: justify=
+;">F&uuml;r die Ausgabe und Zustellung des Vouchers per Post an die angegeb=
+ene Adresse wird eine Ausgabegeb&uuml;hr (29,50 &euro;) behoben. In jedem H=
+otel, das den Voucher annimmt, werden zus&auml;tzlich noch Pflichtverpflegu=
+ngss&auml;tze erhoben, die nach der Ankunft im Hotel bezahlt werden m&uuml;=
+ssen.</p>
+	</td>
+	</tr>
+	</tbody>
+</table>
+<!--[if (gte mso 9)|(IE)]>
+</td>
+</tr>
+</table>
+<![endif]--><div style=3D"clear:both;"><!-- --></div>
+
+<center>
+<div align=3D"center" style=3D"font-size:10px;line-height:16px;font-family:=
+Arial,Helvetica,sans-serif;text-align:center;color:#7c7b7b;max-width:600px;=
+">
+<table align=3D"center" cellpadding=3D"0" cellspacing=3D"0" style=3D"max-wi=
+dth:600px; border:none;">
+	<tbody>
+	<tr>
+	<td align=3D"left" colspan=3D"8" style=3D"vertical-align:top;color:#7c7b7b=
+;font-size:12px;padding: 2px;" valign=3D"top">
+	<div align=3D"center" style=3D"font-size:10px;line-height:16px;font-family=
+:Arial,Helvetica,sans-serif;text-align:center;color:#7c7b7b;max-width:600px=
+;">Sie sind mit der Adresse registriert: =
+kontakt@dorianvasco.de=
+<br />
+	Erhalten diese e-Mail, weil Sie abonniert sind die up-leveled, Sie haben z=
+ugestimmt, marketing-Materialien nach den italienischen Vorschriften gem&au=
+ml;&szlig; Gesetzesdekret 196/2003 (Datenschutzkodex) zu erhalten.<br />
+	Sie k&ouml;nnen unsere Datenschutzerkl&auml;rung hier einsehen<a href=3D"h=
+ttp://up-leveled.com/privacy-information-to-users">:http://up-leveled.com/p=
+rivacy-information-to-users</a><br />
+	Die verantwortliche Stelle ist Alexander adv doo Skopje, st.Petar Mlhov 26=
+-a Chair&nbsp;&nbsp;Skopje, Vat&nbsp;4082017520050, info@up-leveled.com<br =
+/>
+	Wenn Sie nicht mehr bitte unsere marketing-Mitteilungen erhalten m&ouml;ch=
+ten&nbsp;<span style=3D"color: rgb(85, 85, 85); font-family: 'Segoe UI', Ta=
+homa, Helvetica, sans-serif; font-size: 13px; background-color: rgb(255, 25=
+5, 255);"><a href=3D"http://unsubscribe.getaleks.com/200/=
+1067244=
+/=
+b390da7333ac4b75d289e48ade8c3ca1=
+/1944/"><span style=3D"font-size:10px;">abbestellen</span></a>&nbsp;</=
+span>und du sollst innerhalb von 24/48 Stunden abgemeldet haben.</div>
+
+	<div align=3D"center" style=3D"font-size:10px;line-height:16px;font-family=
+:Arial,Helvetica,sans-serif;text-align:center;color:#7c7b7b;max-width:600px=
+;">&nbsp;</div>
+	</td>
+	</tr>
+	</tbody>
+</table>
+</div>
+</center>
+</body>
+</html>
+
+
+--_----------=_1524355567288700--

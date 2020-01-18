@@ -1,0 +1,97 @@
+Return-Path: <meriallswordship18@aol.com>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id D0192C3BC3
+	for <mail@dorianvasco.de>; Thu, 10 Oct 2019 16:52:03 +0200 (CEST)
+Authentication-Results: v22014122474822114.stilfilm.com; dkim=pass
+	reason="2048-bit key; insecure key"
+	header.d=aol.com header.i=@aol.com header.b=UdwvQV/P;
+	dkim-adsp=pass; dkim-atps=neutral
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: 2.152
+X-Spam-Level: **
+X-Spam-Status: No, score=2.152 required=5.5 tests=[BAYES_80=2,
+	DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	FREEMAIL_ENVFROM_END_DIGIT=0.25, FREEMAIL_FROM=0.001,
+	HTML_MESSAGE=0.001, RCVD_IN_DNSWL_NONE=-0.0001, SPF_HELO_NONE=0.001,
+	SPF_PASS=-0.001] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id AurCvJSLIf1N for <mail@dorianvasco.de>;
+	Thu, 10 Oct 2019 16:52:00 +0200 (CEST)
+Received: from sonic311-42.consmr.mail.bf2.yahoo.com (sonic311-42.consmr.mail.bf2.yahoo.com [74.6.131.216])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id C4449C10BF
+	for <mail@dorianvasco.de>; Thu, 10 Oct 2019 16:51:54 +0200 (CEST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=aol.com; s=a2048; t=1570719112; bh=Gq7mtPZd5LfddL9yp1ADpzxRiyhZ/sQmt3mw7aBUaBk=; h=Date:From:To:Subject:References:From:Subject; b=UdwvQV/PVaAO/JMyjPcrjBHm2i/r1tgUljL8P6BE6Sbid6YbxNKUSpG+3cP7TaV9KP7VoT1Uh9GKBXoUD4Sc+QfbpCTt3T8eD9TAn3KqiEaAw3n1o/9MhpzIye34ddGLhOOS3GvgHbl/c+yzZtxRIQkINYD//Af69CslyzCSwB9owPzT7VI3+XmPRBI5czsAn2Pof+fjVWm8Vm5NOKNZS/Qsv+koOaBB4+NZSPkrV6hCF3GbQ86tc/p1RyA7gDJr0ecfrs9M95Q4HaIYiuSnmJTwlk+xHFTohq+FsN6pZxMPFQUnv72q2/mXtY9suugc+p+WiT6MoSlulvx/Ii6tNQ==
+X-YMail-OSG: ealNfYQVM1nxsa7oSiHe94ELp2_qtxuI22MenVEcEGOyR0tFO83eYQOu4lML7Ao
+ SBjZqxrLPTeYPdfvP_5YucM1CS19l4Mo.ZJWN3fdAwPAq91kJiUfRY1gZXeyzRbVbhj7eEalaUxO
+ ETGA0jGi02NEt337bh6XML34nVjszI1xO1hT1ZG_y0.l9968h2q_sjCWWCd3sKxAWPWPrfv9fK_9
+ Td4Dko27SzA6ZY1b4uzSKOGPwFNu.5KGkHOCK.R7Tqqfu71ezTwuv58k2pMRTCi7N0jenZP2GtfP
+ 8s6MID7H9GocgPlEEyq9A7ptayq29jJ539V9CvN6AiogQ8z4S8Hq8zhMNLaaoX9QFeXF.c92ef2Y
+ Vi6JSor1H6xdItM10f_F0_W2UKTR.GOqshBnYz_XBufzgKLvy7YDudzX6iSoRBE_z9WKhSrJMRXe
+ sb1b5JTowMFDHRCl_uliblQriQbVpe2atDLiKRXBOP3cWQP72pPeCR5yd1I33OzKZv2LiK5Fibzc
+ 8kEXHT1dqnjt6ivgwn6850sI2gsuBFa616qHiMFNUDZaAasTFGGuEetk0j4Eh8TFmTDqamCmB7HQ
+ dHTjkgg40kROPsryyvrf7MY2NIs5xKjgLH3enXzspiOQzh49KV1FI_0U7ZAOMOhSy3rSvvz91Ago
+ TW7o6KB67TEhwTuPM4qXzHY2AxTjbLVCMgIdhIONIrHnAE3auw5QWMUTH7P6j3bB1ofIcYYgXrzS
+ qb4NmjQXbXozPUnCqRIsTzE2nNItUYLG0z8ZLFDvIY8WHZr3X38XjkTFW9g_eUtGvA9ORfKmYlqs
+ 8Maig6t4V2RDs5TMOs6gXembQjVpVPiKM26mAXTa2vkUv7zXG1Y56xWwO.fg5DZxEycRbAnVwsSR
+ wQPH4FzvaSS4AcYFqna8lyZ15LPMmupKl1QNRQNfbcDVwcqZ95Ii3UDmwN7TGfMvzVMX5Yfl1_cK
+ bq8A5aP.yJ5htrjUQZGo1nbPAQLeOWSF7RraT_dBjG9Ls7tqwsP_DdkzrBKbdy1fwcSclyjYVEZp
+ 5xiNvBzw4xuSJa6psq54rhPVfgsBBsShBzpo1GK3Skx8t2qq0Dr8AvqYKUwmfEXeMq.I2.MPPuMS
+ 6d6TXmeg_0gqKub.1W7ejnl5OMbh_sqB37qozRTR2RLXa.syYLPsqdjmLE60ZTF09.OcIf_Dbw4g
+ OysDDOc_nMzWeSGPjNg1RdR1O5ztMsObgHW_uNQHKOjUNBAw9GRfGz_WWOenZXntBM.2OfzhDD1O
+ aDqZ_sTROtXDQ.khPmg--
+Received: from sonic.gate.mail.ne1.yahoo.com by sonic311.consmr.mail.bf2.yahoo.com with HTTP; Thu, 10 Oct 2019 14:51:52 +0000
+Date: Thu, 10 Oct 2019 14:49:51 +0000 (UTC)
+From: Eliana Obrien <meriallswordship18@aol.com>
+To: info@giangrandigourmet.com
+Message-ID: <716808635.4168499.1570718991545@mail.yahoo.com>
+Subject: Complaint relating to my own recent purchase
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_4168498_439926665.1570718991544"
+References: <716808635.4168499.1570718991545.ref@mail.yahoo.com>
+X-Mailer: WebService/1.1.14448 aolwebmail Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+
+------=_Part_4168498_439926665.1570718991544
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Greetings,
+
+I am actually your common client, this is simply not the first time I've made a purchase at your online store, pretty much everything has always been great up to now. 
+
+But last time, besides a small delay in delivering, it also came out that somebody had opened up the box and it was damaged.
+
+
+I've supplied the entire information relating to the purchase, such as
+ delivery location address and also shots of the package in the {papers: https://drive.google.com/file/d/1Y59g1GN2BFyLof5zZeCvlCO_S_UrRFlfJe3-2s3WV1w/view
+
+Thank you for taking a few minutes to read over my message. I'll wait around until the end of the next week just before calling my attorney at law.
+
+
+Respectfully Yours
+------=_Part_4168498_439926665.1570718991544
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+
+<div style="color:;font: 10pt Arial, Helvetica, sans-serif;">Greetings,<br>
+<br>
+I am actually your common client, this is simply not the first time I've made a purchase at your online store, pretty much everything has always been great up to now. <br>
+<br>
+But last time, besides a small delay in delivering, it also came out that somebody had opened up the box and it was damaged.<br>
+<br>
+<br>
+I've supplied the entire information relating to the purchase, such as<br>
+ delivery location address and also shots of the package in the {papers: https://drive.google.com/file/d/1Y59g1GN2BFyLof5zZeCvlCO_S_UrRFlfJe3-2s3WV1w/view<br>
+<br>
+Thank you for taking a few minutes to read over my message. I'll wait around until the end of the next week just before calling my attorney at law.<br>
+<br>
+<br>
+Respectfully Yours</div>
+
+------=_Part_4168498_439926665.1570718991544--

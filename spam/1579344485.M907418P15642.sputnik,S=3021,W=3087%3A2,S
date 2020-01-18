@@ -1,0 +1,66 @@
+Return-Path: <info@mts-intercom.ru>
+Delivered-To: mail@elementk.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 73E1CC0889
+	for <mail@elementk.de>; Tue, 13 Aug 2019 15:41:22 +0200 (CEST)
+Authentication-Results: v22014122474822114.stilfilm.com; dkim=permerror
+	reason="verification error: multiple keys found; insecure key"
+	header.d=mts-intercom.ru header.i=@mts-intercom.ru
+	header.b=Oz9Fotp8; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 5.909
+X-Spam-Level: *****
+X-Spam-Status: Yes, score=5.909 required=5.5 tests=[BAYES_60=1.5,
+	DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	HTML_MESSAGE=0.001, RAZOR2_CF_RANGE_51_100=1.886, RAZOR2_CHECK=0.922,
+	URIBL_BLACK=1.7] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 5PG8zKr8q30Q for <mail@elementk.de>;
+	Tue, 13 Aug 2019 15:41:19 +0200 (CEST)
+Received: from mts-intercom.ru (mts-intercom.ru [80.93.182.136])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id A0740C054F
+	for <mail@elementk.de>; Tue, 13 Aug 2019 15:41:19 +0200 (CEST)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=mail; d=mts-intercom.ru;
+ h=To:Subject:Message-ID:Date:From:Reply-To:MIME-Version:List-Unsubscribe:Content-Type:Content-Transfer-Encoding;
+ bh=iReJyIJWhwhxz52betLPdW9in9I=;
+ b=Oz9Fotp85khvry8cWL1hwt8iuhnvUVOfiH73OMPke3mQbjXBhUvUymhNmy/0Ct50QI60uNuGCl+A
+   gUX2HbqcB8l7nfoB4/nK+3JV1W9zHDZOHXFEiPynuyOH42tcnUDcktoz9KiLksji814VIdAmU/6u
+   fZfZK5u5H0+/D5qm/1INKzmC+iWPVFcJl3uQdoGREGp9YUt1IdQ/L4xwKBY8sa7kSF9gbl34EIYj
+   D9uXDtLYT45ReLTXxoUbkGMuRj00L68zNoVHnvgT1DIy8ezIamnwtRXqYizu/8UHdLuQuFp+kXhu
+   0rr0oo+zU+iQKl5kXq8EquYvT74X240/GIF2rw==
+To: mail@elementk.de
+Subject: Hon Ahmad Abiola Tajudeen
+Message-ID: <65ofit6504555p6702lx09292bj207m6@getcourse.ru>
+Date: Tue, 13 Aug 2019 16:41:17 +0300
+From: "Rudi Cimon" <info@mts-intercom.ru>
+Reply-To: 
+MIME-Version: 1.0
+X-Mailer-LID: 1
+List-Unsubscribe: <https://getcourse.ru/u374G176014-GcjR25q7u65z7463b2s1j1sv52497063606j/fXlH9-wyGE950.html>
+X-Mailer-RecptId: 331846
+X-Mailer-SID: 595
+X-Mailer-Sent-By: 3
+Content-Type: multipart/alternative; boundary="0bf1a59985517c1fc3c68f3115c1d0da5039"
+Content-Transfer-Encoding: quoted-printable
+
+--0bf1a59985517c1fc3c68f3115c1d0da5039
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Md Mezan http://phaspeibridas.tk/1ky3
+
+--0bf1a59985517c1fc3c68f3115c1d0da5039
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<HTML xmlns:o =3D "urn:schemas-microsoft-com:office:office"><HEAD>
+<META http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+</HEAD>
+<BODY bgColor=3D#ffffff>
+<DIV> </DIV>
+<DIV>Md Mezan http://phaspeibridas.tk/1ky3</DIV></BODY></HTML>
+
+--0bf1a59985517c1fc3c68f3115c1d0da5039--

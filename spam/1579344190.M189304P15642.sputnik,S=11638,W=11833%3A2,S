@@ -1,0 +1,195 @@
+Return-Path: <amitchauhanwebsolution@outlook.com>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id EB511C1F32
+	for <mail@dorianvasco.de>; Thu, 28 Dec 2017 13:06:01 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: 1.098
+X-Spam-Level: *
+X-Spam-Status: No, score=1.098 required=5.5 tests=[DKIM_SIGNED=0.1,
+	DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1, FREEMAIL_FROM=0.001,
+	HTML_MESSAGE=0.001, MISSING_HEADERS=1.207, RCVD_IN_DNSWL_NONE=-0.0001,
+	SPF_HELO_PASS=-0.001, SPF_PASS=-0.001, T_RP_MATCHES_RCVD=-0.01,
+	URIBL_BLOCKED=0.001] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id JkgN2e8JMYeY for <mail@dorianvasco.de>;
+	Thu, 28 Dec 2017 13:06:00 +0100 (CET)
+Received: from IND01-MA1-obe.outbound.protection.outlook.com (mail-ma1ind01olkn0152.outbound.protection.outlook.com [104.47.100.152])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id 3CF26C0270
+	for <mail@dorianvasco.de>; Thu, 28 Dec 2017 13:06:00 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=outlook.com;
+ s=selector1; h=From:Date:Subject:Message-ID:Content-Type:MIME-Version;
+ bh=Zm9cMnVVGEH6gqWc0Jb8fvwDiHXFe+Ez92aY+xuXmb4=;
+ b=cgJR9gKdyH6kPdlJuCPjeFRqBQopgBCLpzYzHhLHWXasz8uNq3la+BFIKs0kSH+eM5wr6Uh2cB1RefZFFPu9Y39J8aFohdBdTmAkK3G51tUCpflUup/RWxg8jDbfCpyM1wyh2bTX/jQVibcEXW8PkOcVnPoCYhMqDCn13aVpEjNfw8qzoTKJR46EQyUkmxiCtLXygZ6s8VO+R66muFp0IZG659pATYXIMCGB/fbQPJ+pX05y8h64dHgybecU+F8929KxFXz1xxiNLp6TtMYw7C1q+cUqyX0BB1wf4a1mS7Vn/5MbrjTmTteU1WTmZEXk9d5WSyUKu75BfMcWx605YA==
+Received: from MA1IND01FT010.eop-IND01.prod.protection.outlook.com
+ (10.152.200.60) by MA1IND01HT007.eop-IND01.prod.protection.outlook.com
+ (10.152.200.140) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id 15.20.302.6; Thu, 28
+ Dec 2017 12:05:08 +0000
+Received: from MA1PR01MB0793.INDPRD01.PROD.OUTLOOK.COM (10.152.200.59) by
+ MA1IND01FT010.mail.protection.outlook.com (10.152.200.146) with Microsoft
+ SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256_P256) id 15.20.302.6 via
+ Frontend Transport; Thu, 28 Dec 2017 12:05:08 +0000
+Received: from MA1PR01MB0793.INDPRD01.PROD.OUTLOOK.COM ([10.174.58.18]) by
+ MA1PR01MB0793.INDPRD01.PROD.OUTLOOK.COM ([10.174.58.18]) with mapi id
+ 15.20.0366.007; Thu, 28 Dec 2017 12:05:08 +0000
+From: amit chauhan <amitchauhanwebsolution@outlook.com>
+Subject: Affordable website design services
+Thread-Topic: Affordable website design services
+Thread-Index: AQHTf9PtT8E3moFifUOG1dSg7YEnww==
+Date: Thu, 28 Dec 2017 12:05:08 +0000
+Message-ID: <MA1PR01MB079335D85557E87381B2B863DC040@MA1PR01MB0793.INDPRD01.PROD.OUTLOOK.COM>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-incomingtopheadermarker: OriginalChecksum:8038A0EAFB5F01736F254B4E148889C9AEEB96DBD416D7A25AE6071FDE4B3567;UpperCasedChecksum:9D5648855EB0612F1535EAE0E82BF117577ADC8D8DF48B575FBB2CA8B6C0B1AF;SizeAsReceived:17188;Count:42
+x-tmn: [g0VpSctREQRqokupHZqLD2knLfeXkvEX]
+x-ms-publictraffictype: Email
+x-microsoft-exchange-diagnostics: 1;MA1IND01HT007;6:eW3xGi9Dg+aD9sab2nAKrV/KiCS5goLnVzLSqolylnsaFgDssvc65kgrRXOXqzIOG4ELp7+vxS3ZDOtTnkRATsS+uMIN4VfT572ahtgz+vzLEKNhLShB2hKwT0ml4P9SyOFMupozBzo8uot0XS8OpGyDFB3eQW87htIj0l48O00f3BU/l5I7qE0lDA8h1XBZIxoYPnhznEES2clcWgx8pZL2TOxkCG7TFgeI+Cv2AlT2D4DqZdg7dfCD2L+d/8Vgv+ifZ5qzGK09ZjIh6FpWXLnysRcTndwV/PGpphqzR96HjfuIv7Ew3NNwgS6kW1BP9mGJcF/2DAeh6l8SiumCitomPUKmDi9/jfe9oSvjFWg=;5:vfV7azu9gRqV3QHUFETD3Lw6degGm23CjAVDBXt7tTje39zpTikcPgM20P5QkFe5AY4yhdbvYB+lxgWATjLsMNd4Kj5p1sIYyUFe3UQZnfnCmihXSWIezmczjNbbtGyg7q37S7wu2Ze6DJ+Y4/bHuch4D4B3PsWw8JiIcLN0gwk=;24:a8cbqAkX1VsK1h5h7qAerTUfSUktP5U1kBTsjLpf59Z2+VeFZ6qfvDEm0cEMTFA2wx7jOQpYxRpxFMwLXV2QB6Q2MPVY1QrYHi+5tsrNQaM=;7:l+5O6wzx0EJl5Rw+cqX1i/K4XwU8J2eHr7jvZz8Kspq2WoWvKfwpdwgq7SKwc4ddwdqWW27GBNVMk5fVEQQoucT6hOdd8TLJVy2tyIpvj61VPOREsYJBprWIXwZLxTHHgmLXd9mib2MopFTEzKj6RarhNulpieZr6Jop6VplIAhBQxaU2fCyDa4oKyQ5o+I+uMRXXXVZJQWQGWzgt/xIZFX2lZkwsE4TlnnNpTBd7VHsDSzi7a6bInuTYD5NFk9o
+x-incomingheadercount: 42
+x-eopattributedmessage: 0
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(201702061074)(5061506573)(5061507331)(1603103135)(2017031320274)(2017031324274)(2017031323274)(201702181274)(2017031322404)(1603101448)(1601125374)(1701031045);SRVR:MA1IND01HT007;
+x-ms-exchange-slblob-mailprops: aVwBqh5jh9udIVwxVpn+D948fS+O+mTl9+R85dla5P50YNxqpuP/xTyLTh+Cd6UFKc4gTB101d/RxbmG8mDM2IqDSuRWbd2bOHrnJQtVZ1IcgQ7rsJvC8PCeA7Vko5l/O7QU0CmxipE5KEC50R7ISLnNdrtSoi2IUOzaUaCim1jlXHRbLU3Sx9RNi2iru49gzC0XVOy+tDTup7cMMqzWra+kJkRWestJLnzqed5LAf5OHBVVichRFvneWul8h+jrPRli49w+S+BIo2HWdJ54Vbt0M5SeN87MoFYzBFE8YT2Nj/L393NkNBQ5UpMWKWOgOiyoUnfd1VhGhjCQwtfOwqmB40rlQXm8qGE3diyM2Q3caZaqa7Kc2srUST7es1y74W33n1gHm2MOY1iu/Ug/GaAhgJzVyNFpOP7dDcMd0Bd5CfJfn9v2gapMIokOlYy6NN72KSOQ8ISTs3ta6LOe88UbBySTo5toocyUqU+4xPvTGGg2meGoF3R5e2XAN/BMeA/7t9ae4FhQqGbVJTeTMEzx3U04+R4BlG1Bzuzv17aSEBfit8sBR36y908GvKnaAXPYpB1SBneYTxLy3PpMpw==
+x-ms-traffictypediagnostic: MA1IND01HT007:
+x-ms-office365-filtering-correlation-id: 4df79e2f-9827-40d7-5b2d-08d54deb3d5a
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(444000031);SRVR:MA1IND01HT007;BCL:0;PCL:0;RULEID:(100000803101)(100110400095);SRVR:MA1IND01HT007;
+x-forefront-prvs: 05352A48BE
+x-forefront-antispam-report: SFV:NSPM;SFS:(7070007)(98901004);DIR:OUT;SFP:1901;SCL:1;SRVR:MA1IND01HT007;H:MA1PR01MB0793.INDPRD01.PROD.OUTLOOK.COM;FPR:;SPF:None;LANG:;
+spamdiagnosticoutput: 1:99
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/alternative;
+	boundary="_000_MA1PR01MB079335D85557E87381B2B863DC040MA1PR01MB0793INDP_"
+MIME-Version: 1.0
+X-OriginatorOrg: outlook.com
+X-MS-Exchange-CrossTenant-Network-Message-Id: 4df79e2f-9827-40d7-5b2d-08d54deb3d5a
+X-MS-Exchange-CrossTenant-originalarrivaltime: 28 Dec 2017 12:05:08.3840
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Internet
+X-MS-Exchange-CrossTenant-id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: MA1IND01HT007
+
+--_000_MA1PR01MB079335D85557E87381B2B863DC040MA1PR01MB0793INDP_
+Content-Type: text/plain; charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+Hello
+
+Hope you are doing great!!
+
+We are an ISO Certified Web Design and Development agency We have dedicated=
+ professional experts to help in the following.
+
+Currently we deal with 25+ agencies across USA UK Australia Canada and rest=
+ of European countries.
+
+Our primary focus is:-
+
+1.       Logo Design
+2.       Responsive Website Design
+3.       eCommerce Solution
+4.       Web Development with Joomla, Drupal, Wordpress, Magento, Cake, PHP=
+, Ruby on Rails, Smarty, Zend, PHP BB etc...
+5.       Web and Mobile Applications.
+
+Kindly revert back with contact details and complete requirement, if any. I=
+ would be happy to share our Work portfolio, Client testimonials and servic=
+e packages.
+I look forward your quick response=85
+
+Regards,
+Amit
+Business development consultant
+
+
+
+
+--_000_MA1PR01MB079335D85557E87381B2B863DC040MA1PR01MB0793INDP_
+Content-Type: text/html; charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DWindows-1=
+252">
+<style type=3D"text/css" style=3D"display:none;"><!-- P {margin-top:0;margi=
+n-bottom:0;} --></style>
+</head>
+<body dir=3D"ltr">
+<div id=3D"divtagdefaultwrapper" style=3D"font-size:12pt;color:#000000;font=
+-family:Calibri,Helvetica,sans-serif;" dir=3D"ltr">
+<p style=3D"margin-top:0;margin-bottom:0"></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-family:&quot;Calibri&quot;,&q=
+uot;sans-serif&quot;;color:#8C0095">Hello&nbsp;</span></b></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-family:&quot;Calibri&quot;,&q=
+uot;sans-serif&quot;;color:#8C0095">&nbsp;</span></b></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-family:&quot;Calibri&quot;,&q=
+uot;sans-serif&quot;;color:#8C0095">Hope you are doing great!!</span></b></=
+p>
+<p class=3D"MsoNormal"><b><span style=3D"font-family:&quot;Calibri&quot;,&q=
+uot;sans-serif&quot;;color:#8C0095">&nbsp;</span></b></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-family:&quot;Calibri&quot;,&q=
+uot;sans-serif&quot;;color:#8C0095">We are an ISO Certified Web Design and =
+Development agency We have dedicated professional experts to help in the fo=
+llowing.</span></b></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-family:&quot;Calibri&quot;,&q=
+uot;sans-serif&quot;;color:#8C0095">&nbsp;</span></b></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-family:&quot;Calibri&quot;,&q=
+uot;sans-serif&quot;;color:#8C0095">Currently we deal with 25&#43; agencies=
+ across USA UK Australia Canada and rest of European countries. &nbsp;</spa=
+n></b></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-family: Calibri, sans-serif;"=
+>&nbsp;</span></b></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-family:&quot;Calibri&quot;,&q=
+uot;sans-serif&quot;;color:#D24726">Our primary focus is:-</span></b></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-family: Calibri, sans-serif;"=
+>&nbsp;</span></b></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-family:&quot;Calibri&quot;,&q=
+uot;sans-serif&quot;;color:#8C0095">1. &nbsp; &nbsp; &nbsp; Logo Design</sp=
+an></b></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-family:&quot;Calibri&quot;,&q=
+uot;sans-serif&quot;;color:#8C0095">2. &nbsp; &nbsp; &nbsp; Responsive Webs=
+ite Design</span></b></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-family:&quot;Calibri&quot;,&q=
+uot;sans-serif&quot;;color:#8C0095">3. &nbsp; &nbsp; &nbsp; eCommerce Solut=
+ion</span></b></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-family:&quot;Calibri&quot;,&q=
+uot;sans-serif&quot;;color:#8C0095">4. &nbsp; &nbsp; &nbsp; Web Development=
+ with Joomla, Drupal, Wordpress, Magento, Cake, PHP, Ruby on Rails, Smarty,=
+ Zend, PHP BB etc...</span></b></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-family:&quot;Calibri&quot;,&q=
+uot;sans-serif&quot;;color:#8C0095">5. &nbsp; &nbsp; &nbsp; Web and Mobile =
+Applications.</span></b></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-family: Calibri, sans-serif;"=
+>&nbsp;</span></b></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-family:&quot;Calibri&quot;,&q=
+uot;sans-serif&quot;;color:#8C0095">Kindly revert back with contact details=
+ and complete requirement, if any. I would be happy to share our Work portf=
+olio, Client testimonials and service packages.&nbsp;</span></b></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-family:&quot;Calibri&quot;,&q=
+uot;sans-serif&quot;;color:#8C0095">I look forward your quick response=85</=
+span></b></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-family: Calibri, sans-serif;"=
+>&nbsp;</span></b></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-family:&quot;Calibri&quot;,&q=
+uot;sans-serif&quot;;color:#8C0095">Regards,</span></b></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-family:&quot;Calibri&quot;,&q=
+uot;sans-serif&quot;;color:#8C0095">Amit</span></b></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-family:&quot;Calibri&quot;,&q=
+uot;sans-serif&quot;;color:#8C0095">Business development consultant&nbsp;</=
+span></b></p>
+<p class=3D"MsoNormal"><b><span style=3D"font-family: Calibri, sans-serif;"=
+>&nbsp;</span></b></p>
+<p class=3D"MsoNormal">&nbsp;</p>
+<br>
+<p></p>
+</div>
+</body>
+</html>
+
+--_000_MA1PR01MB079335D85557E87381B2B863DC040MA1PR01MB0793INDP_--

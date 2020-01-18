@@ -1,0 +1,190 @@
+Return-Path: <ka20@ijetee.org>
+Delivered-To: mail@stilfilm.com
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 62B70D4432
+	for <mail@stilfilm.com>; Thu, 13 Apr 2017 13:52:46 +0200 (CEST)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 6.455
+X-Spam-Level: ******
+X-Spam-Status: Yes, score=6.455 required=5.5 tests=[BAYES_50=0.8,
+	DIGEST_MULTIPLE=0.293, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, HTML_MESSAGE=0.001, HTML_OBFUSCATE_05_10=0.26,
+	PYZOR_CHECK=1.392, RAZOR2_CF_RANGE_51_100=0.5,
+	RAZOR2_CF_RANGE_E8_51_100=1.886, RAZOR2_CHECK=0.922,
+	RCVD_IN_DNSWL_BLOCKED=0.001, RCVD_IN_SORBS_SPAM=0.5, SPF_PASS=-0.001,
+	URIBL_BLOCKED=0.001] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id CBb7yKXWmQfL for <mail@stilfilm.com>;
+	Thu, 13 Apr 2017 13:52:44 +0200 (CEST)
+Received: from mail-lf0-f45.google.com (mail-lf0-f45.google.com [209.85.215.45])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id CB5A4C15EA
+	for <mail@stilfilm.com>; Thu, 13 Apr 2017 13:52:44 +0200 (CEST)
+Received: by mail-lf0-f45.google.com with SMTP id s141so28323075lfe.3
+        for <mail@stilfilm.com>; Thu, 13 Apr 2017 04:52:44 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=ijetee.org; s=google;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=TCqHn4TLRFSnt3Fu3Jq4VLqJsIBu7EzEvmhRuE5XMX8=;
+        b=fpd47pJTY1WahFt2h0QYIiVgS1Hq+vGicZGZCRl1BOa8UmvEcsCU33s+MXzRTg7ej3
+         ClIolHlx2v9CnAnM4gu0Qg0WSqT7xQCDMw5yvynGLH9n0lqPDc9fkwZ+NdLvZmE7z4xR
+         F/LG0CzQ1JN+VtQpm92dpNnBlfjOaPNjSW0AE=
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=TCqHn4TLRFSnt3Fu3Jq4VLqJsIBu7EzEvmhRuE5XMX8=;
+        b=ho4MDcTfeUO/Kt9p8r8lNvVrscQ66OlWz24RsQQ8pNwB40NTZ7whFdEsRk5X3aVkJQ
+         djVSjsuVYVVZbqCYV5P4vmoXp0p18B5ixJaNpy52hLLFngXIiaBobSK9Ww9Bod0q2whN
+         CFQmECy326KUHDwZ+GpoR60EPBpR+egcDrsCAwD0pbXvg2oU1z40gqZYaw2nROERKggl
+         cth/obfCuU/rNXTZQDJuwMyR1e9sq7kzoyt1us7U62IGHTTdmBg17h3L3OW+5g7enytf
+         9gbL2Xdc6d3zyAeSpR5kwu86h7S5qkj8eLvJxWBseKb6oYMrcWyfpDI5zRTtXaNFvPbr
+         pUgQ==
+X-Gm-Message-State: AN3rC/4QQggiiE6py0En/zlPr2ReSQZBjG6i9Vk7c75HD1ymHm/er3ey
+	9eoCUFPgxpzcIsSgkcN8XuWquJ6LJ/PZ8440r1Ypq7exO4xPrdoNhIHwyjJX6JwhCi+LNWW97sf
+	n38INuwXAAw==
+X-Received: by 10.46.5.143 with SMTP id 137mr826556ljf.49.1492084364286; Thu,
+ 13 Apr 2017 04:52:44 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 10.25.21.222 with HTTP; Thu, 13 Apr 2017 04:52:43 -0700 (PDT)
+From: Raji K <ka20@ijetee.org>
+Date: Thu, 13 Apr 2017 17:22:43 +0530
+Message-ID: <CABNToVfD5eZbS6tQZzkoRpC25LP_Yj1r9ahUxKjSbcvP+wk+YQ@mail.gmail.com>
+Subject: ***SPAM*** 
+To: papers@ecds.org.in
+Content-Type: multipart/alternative; boundary=001a114a6f9a822168054d0af6c1
+
+--001a114a6f9a822168054d0af6c1
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Dear faculty/Student,
+
+SKREC-Chennai, India is conducting IEEE-based International Conference
+i.e., "International conference on Energy, Communication, Data Analytics
+and Soft Computing" in the course of 1st and 2nd August 2017. The selected
+papers will be submitted for inclusion in IEEE Xplore Digital library.
+
+
+
+The papers are welcome from following major topics, including but not
+limited to:
+
+=C3=98  Energy,
+
+=C3=98  Communication,
+
+=C3=98  Data Analytics
+
+=C3=98  Soft Computing.
+
+
+
+Final date of paper submission: *10th May 2017*.
+
+
+
+Conference information: http://gg.gg/SKREC-IEEE-Chennai
+
+--=20
+*Disclaimer :* The information in this email is confidential and may be=20
+legally privileged. This message contains confidential information and is=
+=20
+intended only for the individual named. . If you are not the intended=20
+recipient you are notified that disclosing, copying, distributing or taking=
+=20
+any action in reliance on the contents of this information is strictly=20
+prohibited.
+
+--001a114a6f9a822168054d0af6c1
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><p class=3D"MsoNormal" style=3D"text-align:justify"><span =
+style=3D"font-size:12pt;line-height:115%;font-family:&quot;times new roman&=
+quot;,serif">Dear
+faculty/Student,<span></span></span></p>
+
+<p class=3D"MsoNormal" style=3D"text-align:justify"><span style=3D"font-siz=
+e:12pt;line-height:115%;font-family:&quot;times new roman&quot;,serif">SKRE=
+C-Chennai,
+India is conducting IEEE-based International Conference i.e.,
+&quot;International conference on Energy, Communication, Data Analytics and
+Soft Computing&quot; in the course of 1<sup>st</sup> and 2<sup>nd</sup> Aug=
+ust
+2017. The selected papers will be submitted for inclusion in <span style=3D=
+"color:rgb(0,176,240)">IEEE Xplore Digital library</span>.<span></span></sp=
+an></p>
+
+<p class=3D"MsoNormal" style=3D"text-align:justify"><span style=3D"font-siz=
+e:12pt;line-height:115%;font-family:&quot;times new roman&quot;,serif"><spa=
+n>=C2=A0</span></span></p>
+
+<p class=3D"MsoNormal" style=3D"text-align:justify"><span style=3D"font-siz=
+e:12pt;line-height:115%;font-family:&quot;times new roman&quot;,serif">The
+papers are welcome from following major topics, including but not limited t=
+o: <span></span></span></p>
+
+<p class=3D"gmail-MsoListParagraphCxSpFirst" style=3D"text-align:justify"><=
+span lang=3D"EN-IN" style=3D"font-size:12pt;line-height:115%;font-family:wi=
+ngdings">=C3=98<span style=3D"font-variant-numeric:normal;font-stretch:norm=
+al;font-size:7pt;line-height:normal;font-family:&quot;times new roman&quot;=
+">=C2=A0 </span></span><span lang=3D"EN-IN" style=3D"font-size:12pt;line-he=
+ight:115%;font-family:&quot;times new roman&quot;,serif">Energy,
+<span></span></span></p>
+
+<p class=3D"gmail-MsoListParagraphCxSpMiddle" style=3D"text-align:justify">=
+<span lang=3D"EN-IN" style=3D"font-size:12pt;line-height:115%;font-family:w=
+ingdings">=C3=98<span style=3D"font-variant-numeric:normal;font-stretch:nor=
+mal;font-size:7pt;line-height:normal;font-family:&quot;times new roman&quot=
+;">=C2=A0 </span></span><span lang=3D"EN-IN" style=3D"font-size:12pt;line-h=
+eight:115%;font-family:&quot;times new roman&quot;,serif">Communication,
+<span></span></span></p>
+
+<p class=3D"gmail-MsoListParagraphCxSpMiddle" style=3D"text-align:justify">=
+<span lang=3D"EN-IN" style=3D"font-size:12pt;line-height:115%;font-family:w=
+ingdings">=C3=98<span style=3D"font-variant-numeric:normal;font-stretch:nor=
+mal;font-size:7pt;line-height:normal;font-family:&quot;times new roman&quot=
+;">=C2=A0 </span></span><span lang=3D"EN-IN" style=3D"font-size:12pt;line-h=
+eight:115%;font-family:&quot;times new roman&quot;,serif">Data
+Analytics <span></span></span></p>
+
+<p class=3D"gmail-MsoListParagraphCxSpLast" style=3D"text-align:justify"><s=
+pan lang=3D"EN-IN" style=3D"font-size:12pt;line-height:115%;font-family:win=
+gdings">=C3=98<span style=3D"font-variant-numeric:normal;font-stretch:norma=
+l;font-size:7pt;line-height:normal;font-family:&quot;times new roman&quot;"=
+>=C2=A0 </span></span><span lang=3D"EN-IN" style=3D"font-size:12pt;line-hei=
+ght:115%;font-family:&quot;times new roman&quot;,serif">Soft
+Computing.<span></span></span></p>
+
+<p class=3D"MsoNormal" style=3D"text-align:justify"><span style=3D"font-siz=
+e:12pt;line-height:115%;font-family:&quot;times new roman&quot;,serif"><spa=
+n>=C2=A0</span></span></p>
+
+<p class=3D"MsoNormal" style=3D"text-align:justify"><span style=3D"font-siz=
+e:12pt;line-height:115%;font-family:&quot;times new roman&quot;,serif">Fina=
+l
+date of paper submission: <b><span style=3D"color:red">10<sup>th</sup> May =
+2017</span></b>. <span></span></span></p>
+
+<p class=3D"MsoNormal" style=3D"text-align:justify"><span style=3D"font-siz=
+e:12pt;line-height:115%;font-family:&quot;times new roman&quot;,serif"><spa=
+n>=C2=A0</span></span></p>
+
+<p class=3D"MsoNormal" style=3D"text-align:justify"><span style=3D"font-siz=
+e:12pt;line-height:115%;font-family:&quot;times new roman&quot;,serif">Conf=
+erence
+information: <a href=3D"http://gg.gg/SKREC-IEEE-Chennai">http://gg.gg/SKREC=
+-IEEE-Chennai</a><span></span></span></p></div>
+
+<br>
+<font face=3D"Arial, Helvetica, sans-serif"><span style=3D"font-size:13px">=
+<b>Disclaimer :</b> The information in this email is confidential and may b=
+e legally privileged. This message contains confidential information and is=
+ intended only for the individual named. . If you are not the intended reci=
+pient you are notified that disclosing, copying, distributing or taking any=
+ action in reliance on the contents of this information is strictly prohibi=
+ted.</span></font>
+--001a114a6f9a822168054d0af6c1--

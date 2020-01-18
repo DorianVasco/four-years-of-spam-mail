@@ -1,0 +1,640 @@
+Return-Path: <bounce+caAF327VYAAABPKAABJ6BAAAAAAAAAAJBB5U7A@m06bounce.net>
+Delivered-To: mail@elementk.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 38611C3BF0
+	for <mail@elementk.de>; Wed, 20 Mar 2019 09:30:45 +0100 (CET)
+Authentication-Results: v22014122474822114.stilfilm.com; dkim=pass
+	reason="1024-bit key; insecure key"
+	header.d=secretdeals-online.de header.i=@secretdeals-online.de
+	header.b=kmCLw7Zh; dkim-adsp=pass; dkim-atps=neutral
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 6.355
+X-Spam-Level: ******
+X-Spam-Status: Yes, score=6.355 required=5.5 tests=[BAYES_00=-1.9,
+	DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	HTML_MESSAGE=0.001, RAZOR2_CF_RANGE_51_100=1.886, RAZOR2_CHECK=0.922,
+	RCVD_IN_BL_SPAMCOP_NET=1.347, SPF_PASS=-0.001, URIBL_BLACK=1.7,
+	URIBL_DBL_SPAM=2.5] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id pjydKAjED3XX for <mail@elementk.de>;
+	Wed, 20 Mar 2019 09:30:37 +0100 (CET)
+Received: from smtp247.sendfour.de (smtp247.sendfour.de [185.213.191.247])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 7E433C00CC
+	for <mail@elementk.de>; Wed, 20 Mar 2019 09:30:35 +0100 (CET)
+Received: from smtp247.sendfour.de (smtp247.sixpg-mail04.de [185.213.191.247])
+	by smtp247.sendfour.de (Postfix) with ESMTP id A91C1F84D
+	for <mail@elementk.de>; Wed, 20 Mar 2019 09:30:32 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=simple/simple; t=1553070632;
+	s=repetita; d=secretdeals-online.de;
+	h=Date:From:Reply-To:To:Message-ID:Subject:MIME-Version:Content-Type:List-Id:List-Unsubscribe;
+	bh=cD3CXLbWUmlbBTk1AzHDyXJfeHrTFuxUp8jrcBB/09s=;
+	b=kmCLw7ZhtmAZhd1U7wsAbLSE4s9vrT0MGDTYZGWKupGgK3sHOBZnTlDp2J+fY9Vu
+	fXNgnoKMM3ObuXEaf1Ng1aqNsTI9r2lE/1742y1oSjDx+KmnGFrJIGeuxqX2o0bVcmX
+	0ixKM4GWvmd7Umqk6PrYfrz6LvKzuSH6NV/C84ds=
+Date: Wed, 20 Mar 2019 08:01:28 +0100 (CET)
+From: B2B Network <info@secretdeals-online.de>
+Reply-To: info@b-2-b-network.de
+To: mail@elementk.de
+Message-ID: <INX.14c124b8eb050d06d6f466cb3e9.14f82.177b2bd.24163.16999e680e123.bounce@m06bounce.net>
+Subject: Amazon Business: Kostenlos registrieren
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_172244908_1904464436.1553065288692"
+X-Memberid: M06-24621015
+X-Memberid: M06-24621015
+List-Id: "0" <757.14c124b8eb050d06d6f466cb3e9.localhost>
+List-Unsubscribe: <http://asset.bu-lnk.net/d?q000vguybo6x5o00l0000lzy000000000eqq4y5q757>
+
+------=_Part_172244908_1904464436.1553065288692
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Wenn dieser Newsletter nicht richtig angezeigt wird, klicken Sie bitte hier=
+.
+( http://asset.bu-lnk.net/html_mail.jsp?params=3D24621015+mail%40elementk.d=
+e+0+000u70q000bpk000000000beef7fswbj
+ )
+Wenn Sie sich von unserem Service abmelden m=C3=B6chten, klicken Sie bitte =
+auf
+den Abmeldelink im Impressum des Newsletters.=20
+=20
+=20
+=20
+http://asset.bu-lnk.net/d?q000vgt0bo6x5o00d0000lzy000000000eqquf60757
+=20
+Sehr geehrte Damen und Herren,
+
+=20
+auf Amazon Business ( http://asset.bu-lnk.net/d?q000vgtibo6x5o00d0000lzy000=
+000000eqq7igi757 ) finden Unternehmen
+alles f=C3=BCr den t=C3=A4glichen Gesch=C3=A4ftsbedarf. Ein Konto anzulegen=
+ dauert nur
+wenige Minuten und ist kostenlos.
+=20
+=20
+=20
+Jetzt kostenlos registrieren ( http://asset.bu-lnk.net/d?q000vgt0bo6x5o00d0=
+000lzy000000000eqquf60757 )
+=20
+Funktionen exklusiv f=C3=BCr Amazon Business-Kunden:
+=20
+=20
+=20
+Zugang zu Millionen von
+gesch=C3=A4ftsrelevanten Produkten
+=20
+=20
+Kauf auf Rechnung*
+=20
+=20
+=20
+Produkte mit Nettopreisen
+und Rechnungen mit USt
+=20
+=20
+Einkaufsreporting
+und -analysen
+=20
+=20
+=C3=9Cberzeugen Sie sich selbst von den Amazon Business-Vorteilen.
+=20
+Mit besten Gr=C3=BC=C3=9Fen
+Ihr Amazon Business-Team
+=20
+=20
+=20
+*Vorbehaltlich erfolgreicher Bonit=C3=A4tspr=C3=BCfung und Kreditlimit.
+=20
+Diese Nachricht wurde Ihnen von einem Anbieter im Auftrag von Amazon
+Business zugesandt. Details zu unserer Datenschutzerkl=C3=A4rung finden Sie=
+ hier
+( http://asset.bu-lnk.net/d?q000vgtqbo6x5o00d0000lzy000000000eqqss6y757 )
+.
+=20
+=20
+Bitte antworten Sie nicht direkt auf diese E-Mail.
+=20
+Dieser Information wurde an mail@elementk.de gesendet.
+=20
+Dieser Newsletter ist ein Service der B2B Network Ltd
+Gesch=C3=A4ftsf=C3=BChrer: Patrick Robalewski
+Naxxar Road 152/7 | San Gwann 9030 | Malta
+Registergericht: Registry of Companies | Notaile Road | Attard | BKR 3000
+Malta
+Registration Number C74994
+=20
+Kontakt: contact@b2bnetwork.ltd ( mailto:contact@b2bnetwork.ltd )
+Web: www.b2bnetwork.ltd ( http://asset.bu-lnk.net/d?q000vgtybo6x5o00d0000lz=
+y000000000eqqz7gq757 )
+=20
+Telefon: +49 (0) 800 58 358 4003 (Servicezeit: Mo. - Fr. 9 - 12 Uhr)
+=20
+Wenn Sie unseren Newsletter in Zukunft nicht mehr erhalten m=C3=B6chten, kl=
+icken
+Sie bitte auf austragen http://asset.bu-lnk.net/d/d.html?q000vgu0bo6x5o00k0=
+000lzy000000000eqqv26y757.
+=20
+Hinweis: Ihr Datensatz stammt von B2B Network Ltd. Gem=C3=A4=C3=9F der gese=
+tzlichen
+Anforderungen in =C2=A7 7 Abs. 2 Nr. 3 UWG versendet B2B Network Ltd. diese=
+ E-
+Mail ausschlie=C3=9Flich mit Ihrem Einverst=C3=A4ndnis. Sie k=C3=B6nnen die=
+ses
+Einverst=C3=A4ndnis jederzeit und ohne Angabe von Gr=C3=BCnden widerrufen. =
+Bitte
+klicken Sie austragen http://asset.bu-lnk.net/d/d.html?q000vgu0bo6x5o00k000=
+0lzy000000000eqqv26y757 um sich beim
+Newsletter Service abzumelden. Die Rechtm=C3=A4=C3=9Figkeit der Werbung bis=
+ zu Ihrem
+Widerruf bleibt davon unber=C3=BChrt.
+=20
+Datenschutzhinweis: Verantwortlich ist die Firma B2B Network Ltd., Kontakt
+siehe oben. Wir verarbeiten Ihre Daten zum Zwecke der Werbung mit Ihrer
+Einwilligung (Art. 6 Abs. 1 a, f DSGVO) und speichern diese bis zum
+Widerruf und dem Ablauf von Verj=C3=A4hrungs- und Aufbewahrungsfristen. Sie
+haben Rechte auf Auskunft, Einschr=C3=A4nkung und Widerspruch gegen die
+Verarbeitung und Daten=C3=BCbertragbarkeit, sowie Beschwerde bei der
+Aufsichtsbeh=C3=B6rde.
+------=_Part_172244908_1904464436.1553065288692
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html>
+<html>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--[if !mso]><!-- -->
+<meta content="IE=edge">
+<!--<![endif]-->
+<title></title>
+<head>
+<style type="text/css" media="all">
+
+  body { 
+  margin: 0; 
+  padding: 0; 
+  height: 100% !important; 
+  text-size-adjust: none !important; 
+  -ms-text-size-adjust: none; 
+  -webkit-text-size-adjust: none; 
+  -webkit-font-smoothing: antialiased;}
+  #outlook a { padding:0; }
+  @-ms-viewport { width:device-width; }
+  .readmsgbody { width:100%; } .externalclass { width:100% !important; }
+  .externalclass, .externalclass p, .externalclass span, .externalclass font, .externalclass  td,  .externalclass div, .externalclass * { line-height: 100%; } 
+  table { 
+  border-spacing:0; 
+  border-collapse:collapse !important; 
+  }
+  img { 
+  outline: none; 
+  text-decoration: none; 
+  border: none;
+  -ms-interpolation-mode: bicubic; 
+  line-height: 100%; 
+  } 
+  a { word-wrap:break-word! important; }
+  strong { font-weight: bold; }
+    a[x-apple-data-detectors] {
+    color: inherit !important;
+    text-decoration: none !important;
+    font-size: inherit !important;
+    font-family: inherit !important;
+    font-weight: inherit !important;
+    line-height: inherit !important; 
+	}
+
+@media all and (max-width:650px) and (max-device-width:650px) {
+	
+	.fullw {
+		height:auto;
+		width:100% !important;
+		}
+	.lp-none {
+		padding-left:0px !important;
+		}
+	.mob-hide {
+		display:none !important;
+		}		
+		.no-pad {
+			padding:0px !important; 
+			}
+		.height-auto {
+			height:auto !important;
+			}	
+			.mob-logo {
+				height:auto !important;
+			width:150px !important;	
+				}
+	}		
+	
+@media screen and (min-width:650px )
+ {
+   .hold650 { width:650px !important}
+  }
+ 
+	
+</style>
+</head>
+<!---Fix li tags-------------------------->
+<!--[if gte mso 9]>
+<style>
+li {
+    text-indent: -1em; /* Normalise space between bullets and text */
+}
+</style>
+<![endif]-->
+    
+<!---DPI Scaling-------------------------->
+<!--[if gte mso 9]><xml>
+ <o:OfficeDocumentSettings>
+  <o:AllowPNG/>
+   <o:PixelsPerInch>96</o:PixelsPerInch>
+  </o:OfficeDocumentSettings>
+ </xml><![endif]--> 
+<!---End DPI Scaling----------------------->
+
+<!---Outlook Font Fallback----------------->
+<!--[if mso]>
+<style type="text/css">
+ body, table, td {font-family:Arial, Helvetica, sans-serif !important;}
+</style>
+<![endif]-->
+<!---End Outlook Font Fallback------------->
+<body style="background-color:#999999">
+<div style="display: none; font-size: 1px; color: #333333; line-height: 1px; max-height: 0px; max-width: 0px; opacity: 0; overflow: hidden;"></div>
+<!---Top Space Table------------->
+<table class="mob-hide" border="0" cellspacing="0" cellpadding="0" style="width: 100%; height: 10px;">
+<tbody>
+<tr>
+<td height="10">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<!---End Top Space Table------------->
+<table class="wrapDaddy" border="0" cellspacing="0" cellpadding="0" style="width: 100%;">
+<tbody>
+<tr>
+<td align="center"><!---Spongy Wrapper-------------> <!--[if (gte mso 9)|(IE)]>
+ <table width="650" align="center" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td style="padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;">
+<![endif]-->
+<table class="hold650" bgcolor="#FFFFFF" align="center" cellpadding="0" cellspacing="0" border="0" style="margin: 0px auto; max-width: 650px; width: 100%;">
+<tbody>
+<tr>
+<td width="650">
+	<!-- Header - Beginn --> <!--[if (gte mso 9)|(IE)]>
+<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" text-align="center" width="600">
+<tr>
+<td>
+<![endif]-->
+<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" style="width: 600px; max-width: 600.0px;" text-align="center">
+<tbody>
+<tr>
+<td height="20">&nbsp;</td>
+</tr>
+<tr>
+<td style="text-align: center; font-size: 9.0px; color: #646464; font-family: verdana , sans-serif;"><a href="http://asset.bu-lnk.net/html_mail.jsp?params=24621015+mail%40elementk.de+0+000u70q000bpk000000000beef7fswbj" style="color: #646464;">Wenn dieser Newsletter nicht richtig angezeigt wird, klicken Sie bitte hier.</a><br /> Wenn Sie sich von unserem Service abmelden m&ouml;chten, klicken Sie bitte auf den Abmeldelink im Impressum des Newsletters.</td>
+</tr>
+</tbody>
+</table>
+<!--[if (gte mso 9)|(IE)]>
+</td>
+</tr>
+</table>
+<![endif]--> <!-- Header - Ende -->
+
+<table border="0" cellspacing="0" cellpadding="0" style="width: 100%;">
+<tbody>
+<tr>
+<td width="650" valign="top">
+<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="30">&nbsp;</td>
+<td style="vertical-align: top;">
+<table align="left" border="0" cellspacing="0" cellpadding="0" style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<table border="0" cellspacing="0" cellpadding="0" style="width: 100%;">
+<tbody>
+<tr>
+<td align="left" style="padding-top: 30px; vertical-align: top; padding-right: 40px; padding-bottom: 30px;"><img class="mob-logo" src="http://tmpmail.co.uk/Amazon/200141/images/lgo_ab_triton.png" width="150" height="25" style="display: block; border: 0;" /></td>
+<td align="right" style="padding-top: 30px; vertical-align: top;"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td width="30">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellspacing="0" cellpadding="0" style="width: 100%;">
+<tbody>
+<tr>
+<td><a href="http://asset.bu-lnk.net/d?q000vgt0bo6x5o00d0000lzy000000000eqquf60757"><img class="fullw" src="http://tmpmail.co.uk/Amazon/200141/images/200141-001-Hero-Banner.jpg" width="650" height="225" style="display: block; border: 0;" /></a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="padding-bottom: 0px; padding-left: 30px; padding-right: 30px;">
+<table border="0" cellspacing="0" cellpadding="0" style="width: 100%;">
+<tbody>
+<tr>
+<td align="left" style="font-family: Arial, Helvetica, sans-serif; color: #000001; font-size: 16px; padding-top: 20px;"><span style="font-family: Arial, Helvetica, sans-serif; color: #000001; font-size: 18px;"><strong>Sehr geehrte Damen und Herren,
+</strong></span><br /> <br /> auf <a style="color: #007cb6; text-decoration: underline;" href="http://asset.bu-lnk.net/d?q000vgtibo6x5o00d0000lzy000000000eqq7igi757">Amazon Business</a> finden Unternehmen alles f&uuml;r den t&auml;glichen Gesch&auml;ftsbedarf. Ein Konto anzulegen dauert nur wenige Minuten und ist kostenlos.</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellspacing="0" cellpadding="0" style="width: 100%; height: 25px;">
+<tbody>
+<tr>
+<td height="25">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="padding-left: 30px; padding-right: 30px;">
+<table border="0" cellspacing="0" cellpadding="0" style="width: 100%;">
+<tbody>
+<tr>
+<td align="left">
+<table cellpadding="0" cellspacing="0" border="0">
+<tbody>
+<tr>
+<td align="center" style="background-color: #ffc400; border-radius: 0px;"><a href="http://asset.bu-lnk.net/d?q000vgt0bo6x5o00d0000lzy000000000eqquf60757" style="font-family: Arial, Helvetica, sans-serif; font-size: 16px; color: #000001; display: inline-block; border: 1px solid #ffc400; padding: 10px 20px; mso-padding-alt: 10px 20px; border-radius: 3px; text-decoration: none;">Jetzt kostenlos registrieren</a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellspacing="0" cellpadding="0" style="width: 100%; height: 25px;">
+<tbody>
+<tr>
+<td height="25">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellspacing="0" cellpadding="0" style="width: 100%;">
+<tbody>
+<tr>
+<td align="left" style="font-family: Arial, Helvetica, sans-serif; color: #000001; font-size: 16px; padding-top: 0px;"><strong>Funktionen exklusiv f&uuml;r Amazon Business-Kunden:</strong></td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellspacing="0" cellpadding="0" style="width: 100%;">
+<tbody>
+<tr>
+<td align="left" style="font-family: Arial, Helvetica, sans-serif; color: #000001; font-size: 14px;"><!-- JT -->
+<table border="0" cellspacing="0" cellpadding="0" style="width: 100%;">
+<tbody>
+<tr>
+<td style="text-align: center; vertical-align: top;"><!--[if (gte mso 9)|(IE)]><table border="0" cellspacing="0" cellpadding="0"><tr><td valign="top"><![endif]-->
+<div style="display: inline-block; vertical-align: top;">
+<div class="fullw" style="display: inline-block;">
+<table class="fullw" border="0" cellspacing="0" cellpadding="0" style="width: 280px;">
+<tbody>
+<tr>
+<td align="left" style="font-family: Arial, Helvetica, sans-serif; color: #000001; font-size: 14px; padding-top: 0px; padding-right: 10px; vertical-align: top;">
+<table border="0" cellspacing="0" cellpadding="0" style="width: 100%;">
+<tbody>
+<tr>
+<td align="left" style="font-family: Arial, Helvetica, sans-serif; color: #000001; font-size: 14px; padding-top: 10px;"><img src="http://tmpmail.co.uk/Amazon/200141/images/ico_laptop.jpg" width="99" height="82" style="display: block; border: 0;" /></td>
+</tr>
+<tr>
+<td align="left" style="font-family: Arial, Helvetica, sans-serif; color: #000001; font-size: 16px; padding-top: 20px;"><strong>Zugang zu Millionen von <br />gesch&auml;ftsrelevanten Produkten</strong></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if (gte mso 9)|(IE)]></td><td align="center" style="text-align:center;vertical-align:top;font-size:0; border-right:0;border-left:0"><![endif]-->
+<div class="fullw" style="display: inline-block; vertical-align: top;">
+<table class="fullw" border="0" cellspacing="0" cellpadding="0" style="width: 280px;">
+<tbody>
+<tr>
+<td align="left" style="font-family: Arial, Helvetica, sans-serif; color: #000001; font-size: 14px; padding-top: 0px; padding-right: 10px; vertical-align: top;">
+<table border="0" cellspacing="0" cellpadding="0" style="width: 100%;">
+<tbody>
+<tr>
+<td align="left" style="font-family: Arial, Helvetica, sans-serif; color: #000001; font-size: 14px; padding-top: 10px;"><img src="http://tmpmail.co.uk/Amazon/200141/images/ico_clipboard.jpg" width="64" height="82" style="display: block; border: 0;" /></td>
+</tr>
+<tr>
+<td align="left" style="font-family: Arial, Helvetica, sans-serif; color: #000001; font-size: 16px; padding-top: 20px;"><strong>Kauf auf Rechnung*</strong></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if (gte mso 9)|(IE)]></td></tr></table><![endif]--></div>
+</td>
+</tr>
+</tbody>
+</table>
+<!-- /JT --></td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellspacing="0" cellpadding="0" style="width: 100%;">
+<tbody>
+<tr>
+<td align="left" style="font-family: Arial, Helvetica, sans-serif; color: #000001; font-size: 14px;"><!-- JT -->
+<table border="0" cellspacing="0" cellpadding="0" style="width: 100%;">
+<tbody>
+<tr>
+<td style="text-align: center; vertical-align: top;"><!--[if (gte mso 9)|(IE)]><table border="0" cellspacing="0" cellpadding="0"><tr><td valign="top"><![endif]-->
+<div style="display: inline-block; vertical-align: top;">
+<div class="fullw" style="display: inline-block;">
+<table class="fullw" border="0" cellspacing="0" cellpadding="0" style="width: 280px;">
+<tbody>
+<tr>
+<td align="left" style="font-family: Arial, Helvetica, sans-serif; color: #000001; font-size: 14px; padding-top: 0px; padding-right: 10px; vertical-align: top;">
+<table border="0" cellspacing="0" cellpadding="0" style="width: 100%;">
+<tbody>
+<tr>
+<td align="left" style="font-family: Arial, Helvetica, sans-serif; color: #000001; font-size: 14px; padding-top: 10px;"><img src="http://tmpmail.co.uk/Amazon/200141/images/ico_euros.jpg" width="108" height="100" style="display: block; border: 0;" /></td>
+</tr>
+<tr>
+<td align="left" style="font-family: Arial, Helvetica, sans-serif; color: #000001; font-size: 16px; padding-top: 20px;"><strong>Produkte mit Nettopreisen <br />und Rechnungen mit USt</strong></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if (gte mso 9)|(IE)]></td><td align="center" style="text-align:center;vertical-align:top;font-size:0; border-right:0;border-left:0"><![endif]-->
+<div class="fullw" style="display: inline-block; vertical-align: top;">
+
+<table class="fullw" border="0" cellspacing="0" cellpadding="0" style="width: 280px;">
+<tbody>
+<tr>
+<td align="left" style="font-family: Arial, Helvetica, sans-serif; color: #000001; font-size: 14px; padding-top: 0px; padding-right: 10px; vertical-align: top;">
+<table border="0" cellspacing="0" cellpadding="0" style="width: 100%;">
+<tbody>
+<tr>
+<td align="left" style="font-family: Arial, Helvetica, sans-serif; color: #000001; font-size: 14px; padding-top: 10px;"><img src="http://tmpmail.co.uk/Amazon/200141/images/ico_mag_glass.jpg" width="80" height="100" style="display: block; border: 0;" /></td>
+</tr>
+<tr>
+<td align="left" style="font-family: Arial, Helvetica, sans-serif; color: #000001; font-size: 16px; padding-top: 20px;"><strong>Einkaufsreporting <br />und -analysen</strong></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if (gte mso 9)|(IE)]></td></tr></table><![endif]--></div>
+</td>
+</tr>
+</tbody>
+</table>
+<!-- /JT --></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="padding-left: 30px; padding-right: 30px;">
+<table border="0" cellspacing="0" cellpadding="0" style="width: 100%; height: 35px;">
+<tbody>
+<tr>
+<td height="35">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellspacing="0" cellpadding="0" style="width: 100%;">
+<tbody>
+<tr>
+<td align="left" style="font-family: Arial, Helvetica, sans-serif; color: #000001; font-size: 16px; padding-top: 0px;">&Uuml;berzeugen Sie sich selbst von den Amazon Business-Vorteilen.<br /> <br />Mit besten Gr&uuml;&szlig;en<br /> <strong>Ihr Amazon Business-Team</strong></td>
+</tr>
+</tbody>
+</table>
+<table border="0" cellspacing="0" cellpadding="0" style="width: 100%; height: 25px;">
+<tbody>
+<tr>
+<td height="25">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="background: #eaebec; padding-left: 30px; padding-right: 30px;">
+<table border="0" cellspacing="0" cellpadding="0" style="width: 100%;">
+<tbody>
+<tr>
+<td style="padding-top: 25px; padding-bottom: 25px; padding-left: 0px; padding-right: 0px;">
+<table border="0" cellspacing="0" cellpadding="0" style="width: 100%;">
+<tbody>
+<tr>
+<td align="left" style="font-family: Arial, Helvetica, sans-serif; color: #231f20; font-size: 12px; padding-top: 0px;">*Vorbehaltlich erfolgreicher Bonit&auml;tspr&uuml;fung und Kreditlimit.<br /> <br />Diese Nachricht wurde Ihnen von einem Anbieter im Auftrag von Amazon Business zugesandt. Details zu unserer Datenschutzerkl&auml;rung finden Sie <a style="text-decoration: underline; color: #231f20;" href="http://asset.bu-lnk.net/d?q000vgtqbo6x5o00d0000lzy000000000eqqss6y757">hier</a>.</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<!--------- BEGIN:FOOTER --------->
+<!--------------------------------> 
+<!-- Footerbereich: Start -->
+<!--[if (gte mso 9)|(IE)]>
+    <table align="center" border="0" cellpadding="0" cellspacing="0" text-align="center" width="600">
+    <tr>
+    <td>
+    <![endif]-->
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="max-width: 600.0px; padding:1px 10px 1px 10px;" text-align="center">
+  <tbody>
+    <tr>
+      <td style="text-align: center; font-size: 9.0px; color: #646464; font-family: verdana , sans-serif;"><br />
+        <br />
+        Bitte antworten Sie nicht direkt auf diese E-Mail. <br />
+        <br />
+        Dieser Information wurde an mail@elementk.de gesendet.<br />
+        <br />
+        Dieser Newsletter ist ein Service der B2B Network Ltd<br />
+        Gesch&auml;ftsf&uuml;hrer: Patrick Robalewski<br />
+        Naxxar Road 152/7 | San Gwann 9030 | Malta<br />
+        Registergericht: Registry of Companies | Notaile Road | Attard | BKR 3000 Malta<br />
+        Registration Number C74994<br />
+        <br />
+        Kontakt: <a href="mailto:contact@b2bnetwork.ltd" style="color: #646464;">contact@b2bnetwork.ltd</a> <br />
+        Web: <a href="http://asset.bu-lnk.net/d?q000vgtybo6x5o00d0000lzy000000000eqqz7gq757" style="color: #646464;">www.b2bnetwork.ltd</a> <br />
+        <br>
+Telefon: +49 (0) 800 58 358 4003 (Servicezeit: Mo. - Fr. 9 - 12 Uhr)
+<br>
+<br>
+        Wenn Sie unseren Newsletter in Zukunft nicht mehr erhalten m&ouml;chten, klicken Sie bitte auf  <a href="http://asset.bu-lnk.net/d/d.html?q000vgu0bo6x5o00k0000lzy000000000eqqv26y757">austragen</a>. <br />
+        <br />
+        <!--DSGVO:BEGIN--> 
+<b>Hinweis:</b> Ihr Datensatz stammt von B2B Network Ltd. Gem&auml;&szlig; der gesetzlichen Anforderungen in &sect; 7 Abs. 2 Nr. 3 UWG versendet B2B Network Ltd. diese E-Mail ausschlie&szlig;lich mit Ihrem Einverst&auml;ndnis. Sie k&ouml;nnen dieses Einverst&auml;ndnis jederzeit und ohne Angabe von Gr&uuml;nden widerrufen. Bitte klicken Sie  <a href="http://asset.bu-lnk.net/d/d.html?q000vguqbo6x5o00k0000lzy000000000eqqtn60757">HIER</a></a> um sich beim Newsletter Service abzumelden. Die Rechtm&auml;&szlig;igkeit der Werbung bis zu Ihrem Widerruf bleibt davon unber&uuml;hrt.<br />
+        <br />
+        <b>Datenschutzhinweis:</b> Verantwortlich ist die Firma B2B Network Ltd., Kontakt siehe oben. Wir verarbeiten Ihre Daten zum Zwecke der Werbung mit Ihrer Einwilligung (Art. 6 Abs. 1 a, f DSGVO) und speichern diese bis zum Widerruf und dem Ablauf von Verj&auml;hrungs- und Aufbewahrungsfristen. Sie haben Rechte auf Auskunft, Einschr&auml;nkung und Widerspruch gegen die Verarbeitung und Daten&uuml;bertragbarkeit, sowie Beschwerde bei der Aufsichtsbeh&ouml;rde. <!--DSGVO:END--></td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td height="20">&nbsp;</td>
+      <img width="0" height="0" src="https://www.remintrex.com/ceng/pub/logo.jpg?id=%kjmmd5%&iso=de&tpo=4910" /> </tr>
+  </tbody>
+</table>
+<!--[if (gte mso 9)|(IE)]>
+    </td>
+    </tr>
+    </table>
+    <![endif]-->
+<!-- Footerbereich: Ende -->
+<!-------------------------------->
+<!--------- END:FOOTER ----------->	</table>
+<!--[if (gte mso 9)|(IE)]>
+  </td>
+    </tr>
+      </table>
+<![endif]--> <!---End Spongy Wrapper-------------></td>
+</tr>
+</tbody>
+</table>
+<!---Bottom Space Table------------->
+<table border="0" cellspacing="0" cellpadding="0" style="width: 100%; height: 20px;">
+<tbody>
+<tr>
+<td height="20">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<!---End Bottom Space Table-------------></td>
+</tr>
+</tbody>
+</table>
+<img src="http://asset.bu-lnk.net/d/d.png?q000vguibo6x5o00h0000lzy000000000eqq6u50757" alt="" border="0" />
+</body>
+
+</html>
+------=_Part_172244908_1904464436.1553065288692--

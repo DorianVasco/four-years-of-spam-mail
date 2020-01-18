@@ -1,0 +1,240 @@
+Return-Path: <bounce@b2millions.net>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 4D49FD3244
+	for <mail@dorianvasco.de>; Sat, 27 May 2017 07:03:17 +0200 (CEST)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 7.242
+X-Spam-Level: *******
+X-Spam-Status: Yes, score=7.242 required=5.5 tests=[BAYES_50=0.8,
+	DIGEST_MULTIPLE=0.293, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, HTML_IMAGE_RATIO_06=0.001, HTML_MESSAGE=0.001,
+	PYZOR_CHECK=1.392, RAZOR2_CF_RANGE_51_100=0.5,
+	RAZOR2_CF_RANGE_E8_51_100=1.886, RAZOR2_CHECK=0.922,
+	RCVD_IN_BRBL_LASTEXT=1.449, RCVD_IN_DNSWL_NONE=-0.0001,
+	RP_MATCHES_RCVD=-0.001, SPF_PASS=-0.001, TO_IN_SUBJ=0.099,
+	URIBL_BLOCKED=0.001] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id Xpn5oV_br3Ze for <mail@dorianvasco.de>;
+	Sat, 27 May 2017 07:03:15 +0200 (CEST)
+Received: from mta3.b2millions.net (mta3.b2millions.net [46.165.250.172])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 95F90C1436
+	for <kontakt@dorianvasco.de>; Sat, 27 May 2017 07:03:15 +0200 (CEST)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=default; d=b2millions.net;
+ h=To:Subject:Message-ID:Date:From:Reply-To:MIME-Version:List-Unsubscribe:Content-Type:Content-Transfer-Encoding; i=info@b2millions.net;
+ bh=PGGehxwIela2fgmDn2V1bblTCyQ=;
+ b=JPEMxAU/7KZV42G3fmTfDVvo0rWK/JVDv1cPjfXUzRuuucfdDA1ucbiOwFrlqULqpKOQWUzzq9ZS
+   vjSzEMrNDrOlUSBxL7Zvc0h0jxkKrZAYdcbrPZdgYkmq6YH2cc3BS+ak3EShPWviLgzgS9SgbFtB
+   4Fg28nsxOcTrlcsKzgsdG+lYRVEbgvybRsM2FsboUQtvTvq+NaTAB3wL1RjQfhZOtBWxy/W2i+nb
+   8Xbj21VyG39KRUQW3jWmE9r/HJc2UNNRg37MCW62l+Ixwx71uqtVADsORuOtGvZUca/4gbmuCyFk
+   RikjcfU4RDrfejxP5jGDXQdcNXZNQuncpyq/RA==
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=default; d=b2millions.net;
+ b=Vtc9DQn3hPxOWRX/ajQsF9DWfNc9VO7mwxDcT5IOMt5yTuJUojfS/GDYv0Y1Sv+nLCsTPvhjmmrJ
+   yeMxHjSZ5KrqIZ1VvHStoOVMewvsf6cz4HuiLtqlfqCg9eVqyBBbLsunqsgMV3f5R85ERdNvn7zf
+   AnKvTqBQH49NDFcuKj9HrSjjr8TJ7+qhpR2fdLpYs8cbj5j7chyxz0JfmpnH8zo2Mozv2CnPJ0vG
+   jrRBR9MCgJwEZRe/1Lg7C9CDgTFB+JtySBnyLWUAElk9W+zmukQ16fVqxepszRC1EjQeMfygJG5h
+   PDG5AHk73D4+xwU3Ar3Rt1yrSXlOczPlOmAjXA==;
+To: kontakt@dorianvasco.de
+Subject: ***SPAM*** Milka Probierpaket fur kontakt@dorianvasco.de
+Message-ID: <47bddfb19ac4b5f433ab33b74902973c@b2millions.net>
+Date: Fri, 26 May 2017 22:42:48 -0500
+From: "Anna, Milka Probierpakets" <info@b2millions.net>
+Reply-To: info@b2millions.net
+MIME-Version: 1.0
+X-Mailer-LID: 45
+List-Unsubscribe: <http://b2millions.net/unsubscribe.php?M=3986593&C=c88b8cd80776980737e7bb578c485a6f&L=45&N=694>
+X-Mailer-RecptId: 3986593
+X-Mailer-SID: 694
+X-Mailer-Sent-By: 1
+Content-Type: multipart/alternative; charset="UTF-8"; boundary="b1_9aec04f77a0dc002892d5e399ad67416"
+Content-Transfer-Encoding: 8bit
+
+--b1_9aec04f77a0dc002892d5e399ad67416
+Content-Type: text/plain; format=flowed; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+Your email client cannot read this email.
+To view it online, please go here:
+http://b2millions.net/display.php?M=3986593&C=c88b8cd80776980737e7bb578c485a6f&S=694&L=45&N=311
+milka
+
+Hallo!
+Herzlichen Glückwunsch!
+
+Wir freuen uns Ihnen mitzuteilen, dass Sie unter den Auserwählten für die
+Endauslosung eines Milka Probierpakets sind.
+
+1. mia_f_hermann @ yahoo . ch
+2. kontakt@dorianvasco.de
+3. wilma-l @ gmail . com
+
+Klicken Sie unten, um Ihre Teilnahme zu bestätigen:
+
+Jetzt teilnehmen!
+ACHTUNG! Die Aktion endet in 3 Tagen!
+
+
+
+
+ARS Marketing (Datenbankbesitzer) , Bahnhofstraße 8, 30159 Hannover, DE
+Wenn sie uns kontaktieren möchten, benutzen sie bitte die e-mail:
+wse.promo@tutanota . com
+
+
+Klicken Sie zum Abbestellen hier
+
+To stop receiving these
+emails:http://b2millions.net/unsubscribe.php?M=3986593&C=c88b8cd80776980737e7bb578c485a6f&L=45&N=694
+
+--b1_9aec04f77a0dc002892d5e399ad67416
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<title></title>
+</head>
+<body>
+<table id="wrappertable" style="table-layout: fixed; width: 100%;"
+cellspacing="0" cellpadding="0" border="0">
+<tbody>
+<tr>
+<td align="center" valign="top">
+<table style="background: #ffffff;" cellspacing="0" cellpadding="0"
+border="0">
+<tbody>
+<tr>
+<td align="center" width="600" valign="top">
+<table style="width: 100%;" cellspacing="0" cellpadding="0" border="0"
+align="center">
+<tbody>
+<tr>
+<td style="padding: 3px 0 3px 0;" bgcolor="#ffffff" align="center"
+valign="top">
+<table style="width: 100%;" cellspacing="0" cellpadding="0" border="0"
+align="center">
+<tbody>
+<tr>
+<td style="font-family: 'Myriad Pro',
+'Arial', sans-serif; font-size: 17px; font-weight: normal; color: #221d16;
+text-align: center; line-height: 20px;"><a
+href="http://track.lgtor.com/1db0i5Milka"><img
+src="http://res.cloudinary.com/dxnomg7ta/image/upload/v1495838095/vouchers/milka.jpg"
+alt="milka" title="milka" height="272" width="400" /></a><br /> <br />
+<b>Hallo!</b><br /> Herzlichen Gl&uuml;ckwunsch!<br /> <br /> Wir freuen
+uns Ihnen mitzuteilen, dass Sie unter den Auserw&auml;hlten f&uuml;r die
+Endauslosung eines <a href="http://track.lgtor.com/1db0i5Milka"><b>Milka
+Probierpakets</b></a> sind.<br /> <br /> 1. mia_f_hermann @ yahoo . ch<br
+/> 2. <a
+href="http://track.lgtor.com/1db0i5Milka">kontakt@dorianvasco.de</a><br />
+3. wilma-l @ gmail . com<br /> <br /> <b>Klicken Sie unten, um Ihre
+Teilnahme zu best&auml;tigen: <br /> <br /> </b></td>
+</tr>
+<!-- End of Text--></tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!-- END OF --> <!-- 3d block --> <!-- 4th block -->
+<table style="width: 100%;" cellspacing="0" cellpadding="0" border="0"
+align="center">
+<tbody>
+<tr>
+<td bgcolor="#ffffff" align="center" valign="top"><!-- GK: content-->
+<table style="width: 100%;" cellspacing="0" cellpadding="0" border="0">
+<tbody>
+<tr>
+<td align="center" valign="top">
+<table cellspacing="0" cellpadding="0" border="0">
+<tbody>
+<tr>
+<td style="font-size: 0px
+!important;" align="center" width="435" valign="top">
+<table style="width: 100%;" cellspacing="0" cellpadding="0" border="0">
+<tbody>
+<tr>
+<td style="background-color: #7b66a0; border: 1px solid
+#221d16; padding: 10px;" align="center" width="169" valign="middle"><a
+href="http://track.lgtor.com/1db0i5Milka" target="_blank"
+style="font-family: 'Myriad
+Pro', 'Arial',
+sans-serif; font-size: 18px; font-weight: normal; color: #ffffff;
+text-decoration: none; mso-line-height-rule: exactly;">Jetzt
+teilnehmen!</a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!-- GK: /content--></td>
+</tr>
+</tbody>
+</table>
+<!-- END OF --> <!-- 4th block Table with backgroung picture --> <!-- 6th
+block Table with backgroung picture -->
+<table style="width: 100%;" cellspacing="0" cellpadding="0" border="0"
+align="center">
+<tbody>
+<tr>
+<td style="padding: 3px 0 3px 0;" bgcolor="#fff" align="center"
+valign="top">
+<table style="width: 100%;" cellspacing="0" cellpadding="0" border="0"
+align="center"><!-- Title -->
+<tbody>
+<tr>
+<td style="font-family: 'Myriad Pro',
+'Arial', sans-serif; font-size: 18px; font-weight: normal; color: #221d16;
+text-align: center; line-height: 25px; padding: 22px 0 22px 0;"><a
+href="http://track.lgtor.com/1db0i5Milka" target="_blank" style="color:
+#221d16; text-decoration: none;">ACHTUNG! Die Aktion endet in 3
+Tagen!</a></td>
+</tr>
+<!-- End of Title --></tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!-- END OF --> <!-- 6th block Table with backgroung picture --></td>
+</tr>
+</tbody>
+</table>
+<table style="width: 100%;" cellspacing="0" cellpadding="0" border="0">
+<tbody>
+<tr>
+<td style="padding-top: 10px; line-height: 0px;"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!-- GK: /content-->
+<div align="center"><small><small><br /> <br /> <br /> <br /><span
+style="font-family: arial,helvetica,sans-serif; color: #888888;"> ARS
+Marketing (Datenbankbesitzer) , Bahnhofstra&szlig;e 8, 30159 Hannover,
+DE</span><br /><span style="font-family: arial,helvetica,sans-serif; color:
+#888888;"> Wenn sie uns kontaktieren m&ouml;chten, benutzen sie bitte die
+e-mail: wse.promo@tutanota . com<br /></span><br /> <br /><span
+style="font-family: arial,helvetica,sans-serif; color: #888888;"> <a
+href="http://b2millions.net/unsubscribe.php?M=3986593&C=c88b8cd80776980737e7bb578c485a6f&L=45&N=694">Klicken
+Sie</a> zum Abbestellen hier</span></small></small></div>
+<img
+src="http://b2millions.net/open.php?M=3986593&L=45&N=694&F=H&image=.jpg"
+height="1" width="10"></body>
+</html>
+
+--b1_9aec04f77a0dc002892d5e399ad67416--
+
+

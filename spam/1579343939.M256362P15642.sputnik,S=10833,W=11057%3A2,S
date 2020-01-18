@@ -1,0 +1,224 @@
+Received: from localhost by v22014122474822114.stilfilm.com
+	with SpamAssassin (version 3.3.2);
+	Wed, 22 Nov 2017 21:05:12 +0100
+From: "Jane Creswell" <mail@thebitcoinsnetwork.com>
+To: kontakt@dorianvasco.de
+Subject: *****SPAM***** ***SPAM*** 1 % Exclusive Club Of Billionaires
+Date: Sun, 10 Sep 2017 06:52:30 +0000
+Message-Id: <2f35643378af3882940336b55b5ad5a8@server.thebitcoinsnetwork.com>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	v22014122474822114.stilfilm.com
+X-Spam-Flag: YES
+X-Spam-Level: *********
+X-Spam-Status: Yes, score=10.0 required=5.0 tests=DKIM_SIGNED,
+	HTML_IMAGE_ONLY_32,HTML_MESSAGE,RAZOR2_CF_RANGE_51_100,RAZOR2_CHECK,RDNS_NONE,
+	T_DKIM_INVALID,URIBL_ABUSE_SURBL,URIBL_BLOCKED,URIBL_DBL_SPAM autolearn=no
+	version=3.3.2
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----------=_5A15D878.D6E985F1"
+
+This is a multi-part message in MIME format.
+
+------------=_5A15D878.D6E985F1
+Content-Type: text/plain; charset=iso-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+
+Software zur Erkennung von "Spam" auf dem Rechner
+
+    v22014122474822114.stilfilm.com
+
+hat die eingegangene E-mail als mögliche "Spam"-Nachricht identifiziert.
+Die ursprüngliche Nachricht wurde an diesen Bericht angehängt, so dass
+Sie sie anschauen können (falls es doch eine legitime E-Mail ist) oder
+ähnliche unerwünschte Nachrichten in Zukunft markieren können.
+Bei Fragen zu diesem Vorgang wenden Sie sich bitte an
+
+    the administrator of that system
+
+Vorschau: Have you ever wondered how people are making money online
+  these days and becoming independent? Are you someone who is sick of their
+  09-05 Job and wish to be their own boss, live a lifestyle the elite 1 % do,
+   and earn thousands of dollars? Well if you are, Profits Eternity is pleased
+   to announce their free software registrations.The software is absolutely
+  free and open for only 300/positions per region. [...] 
+
+Inhaltsanalyse im Detail:   (10.0 Punkte, 5.0 benötigt)
+
+Pkte Regelname              Beschreibung
+---- ---------------------- --------------------------------------------------
+ 1.9 URIBL_ABUSE_SURBL      Enthält URL in ABUSE-Liste (www.surbl.org) -
+                            changed from JP to ABUSE bug 7279
+                            [URIs: thebitcoinsnetwork.com]
+ 2.5 URIBL_DBL_SPAM         Contains a spam URL listed in the DBL blocklist
+                            [URIs: thebitcoinsnetwork.com]
+ 0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+                            See
+                            http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                             for more information.
+                            [URIs: thebitcoinsnetwork.com]
+ 0.0 HTML_IMAGE_ONLY_32     BODY: HTML: images with 2800-3200 bytes of words
+ 0.0 HTML_MESSAGE           BODY: Nachricht enthält HTML
+ 2.4 RAZOR2_CF_RANGE_51_100 Razor2 Spam-Bewertung liegt zwischen 51 und
+                            100
+                            [cf: 100]
+ 0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+ 1.7 RAZOR2_CHECK           Gelistet im "Razor2"-System (http://razor.sf.net/)
+ 1.3 RDNS_NONE              Delivered to internal network by a host with no rDNS
+ 0.0 T_DKIM_INVALID         DKIM-Signature header exists but is not valid
+
+Die ursprüngliche Nachricht enthielt nicht ausschließlich Klartext
+(plain text) und kann eventuell eine Gefahr für einige E-Mail-Programme
+darstellen (falls sie z.B. einen Computervirus enthält).
+Möchten Sie die Nachricht dennoch ansehen, ist es wahrscheinlich
+sicherer, sie zuerst in einer Datei zu speichern und diese Datei danach
+mit einem Texteditor zu öffnen.
+
+
+------------=_5A15D878.D6E985F1
+Content-Type: message/rfc822; x-spam-type=original
+Content-Description: original message before SpamAssassin
+Content-Disposition: attachment
+Content-Transfer-Encoding: 8bit
+
+Return-Path: <bounce@thebitcoinsnetwork.com>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 2CE5ED49E6
+	for <mail@dorianvasco.de>; Sun, 10 Sep 2017 08:52:31 +0200 (CEST)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 10.768
+X-Spam-Level: **********
+X-Spam-Status: Yes, score=10.768 required=5.5 tests=[BAYES_60=1.5,
+	DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	HTML_IMAGE_ONLY_32=0.001, HTML_MESSAGE=0.001,
+	RAZOR2_CF_RANGE_51_100=0.5, RAZOR2_CF_RANGE_E8_51_100=1.886,
+	RAZOR2_CHECK=0.922, RDNS_NONE=0.793, URIBL_ABUSE_SURBL=1.25,
+	URIBL_BLOCKED=0.001, URIBL_DBL_SPAM=2.5, URIBL_RHS_DOB=1.514]
+	autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id sTfzW39_gsEA for <mail@dorianvasco.de>;
+	Sun, 10 Sep 2017 08:52:29 +0200 (CEST)
+Received: from server10.thebitcoinsnetwork.com (unknown [80.86.87.56])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id DD97ED49BF
+	for <kontakt@dorianvasco.de>; Sun, 10 Sep 2017 08:52:29 +0200 (CEST)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=thebitcoinsnetwork.com;
+ h=To:Subject:Message-ID:Date:From:Reply-To:MIME-Version:List-Unsubscribe:Content-Type:Content-Transfer-Encoding; i=@server.thebitcoinsnetwork.com;
+ bh=H9tf0xY+MPet7w+CoSyiZKBo0Ng=;
+ b=LtOCLISYyL3OkWJ4zEBLJSGwj38qUaX+Rety0gjqqD2kQNhzWNU6JVBfeJRMdB5yuN81zY/GYheS
+   fz5ayymLTQql9C4gXAGvk0sb9mx1xHVHbe10udlElMwOwz8Q1/5FP6lyCSIx+AoPLc0bOI3iC0OX
+   iNCmj24Tg+AX79r90GU=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=thebitcoinsnetwork.com;
+ b=SHwRJa0i7uRgxg52uEdVsDKXTxD8qjfgJfbypijUivmM7aIdLQGbQU1O5rQ0fetWVaX13drd0LHf
+   kFbngVtBICkaX1iv8WQa99vr+gc4Ifn8a3t8KMOPxQZGkHae/6AubDmBXQcoGA2QrcvvlP/x50L/
+   pP3QKMMjQDiAi7HG9TQ=;
+To: kontakt@dorianvasco.de
+Subject: ***SPAM*** 1 % Exclusive Club Of Billionaires
+Message-ID: <2f35643378af3882940336b55b5ad5a8@server.thebitcoinsnetwork.com>
+Date: Sun, 10 Sep 2017 06:52:30 +0000
+From: "Jane Creswell" <mail@thebitcoinsnetwork.com>
+Reply-To: admin@thebitcoinsnetwork.com
+MIME-Version: 1.0
+X-Mailer-LID: 42
+List-Unsubscribe: <http://server.thebitcoinsnetwork.com/unsubscribe.php?M=5038822&C=4ef86df671286d6ed2ecced0cc1214b2&L=42&N=34>
+X-Mailer-RecptId: 5038822
+X-Mailer-SID: 34
+X-Mailer-Sent-By: 1
+Content-Type: multipart/alternative; charset="UTF-8"; boundary="b1_f78fc1938bb14478f063851487deeae8"
+Content-Transfer-Encoding: 8bit
+
+--b1_f78fc1938bb14478f063851487deeae8
+Content-Type: text/plain; format=flowed; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+Have you ever wondered how people are making money online these days and
+becoming independent?
+
+Are you someone who is sick of their 09-05 Job and wish to be their own
+boss, live a lifestyle the elite 1 % do, and earn thousands of dollars?
+Well if you are, Profits Eternity is pleased to announce their free
+software registrations.The software is absolutely free and open for only
+300/positions per region.
+
+Jump on board with this fantastic opportunity from Profits Eternity and
+unleash your potential to earn unlimited amount, travel freely and live the
+life you ever wanted.
+
+This launch is similar to what Amazon, Ebay and Google did a few years
+back. People who invested at the start are now making thousands from the
+comfort of their homes. However once the positions are filled, you will no
+longer see this offer and might require thousands to be a part of this
+exceptional launch.
+
+VIEW OFFER -->
+http://server.thebitcoinsnetwork.com/link.php?M=5038822&N=34&L=2&F=T
+
+Profits Eternity
+The 1 % Elite Club
+
+
+--b1_f78fc1938bb14478f063851487deeae8
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+</head>
+<body>
+<h1><span style="font-family: verdana, geneva; color: #ff9900; font-size:
+large;"><span style="color: #000080;">PROFITS</span> <span style="color:
+#3366ff;">ETERNITY</span></span></h1>
+<div><span style="font-family: 'times new roman', times; color:
+#000000;"><font face="trebuchet ms, geneva" size="2"><span
+style="font-family: 'times new roman', times;">Have you ever wondered how
+people are making money online these days and becoming
+independent?&nbsp;Are you someone who is sick of their 09-05 Job and wish
+to be their own boss, live a lifestyle the elite 1 % do and earn thousands
+of dollars fromt he comfort of their homes? </span><br /><br /><span
+style="font-family: 'times new roman', times;">Well if you are, Profits
+Eternity is pleased to announce their free software registrations. The
+software is absolutely free and open for only 300/positions per
+region.</span> <br /><br /></font><span style="font-size: small;
+font-family: 'times new roman', times;">Jump on board with this fantastic
+opportunity from Profits Eternity and unleash your potential to earn
+unlimited amount, travel freely and live the life you ever
+wanted.</span></span></div>
+<div>&nbsp;</div>
+<div><span style="font-family: 'times new roman', times; font-size: small;
+color: #000000;">This launch is similar to what Amazon, Ebay and Google did
+a few years back. People who invested at the start are now making millions
+from the comfort of their homes. However once the positions are filled, you
+will no longer see this offer and might require thousands to be a part of
+this exceptional launch.</span></div>
+<div></div>
+<div>&nbsp;</div>
+<span style="font-family: verdana, geneva;"><a
+href="http://server.thebitcoinsnetwork.com/link.php?M=5038822&N=34&L=2&F=H"><font
+color="#ffffff" face="lucida sans unicode, lucida grande, sans-serif"><span
+style="background-color: #ff8b00; border-width: 1px; border-style: solid;
+border-image: initial; border-radius: 6px; display: inline-block;
+font-size: 16px; letter-spacing: 0px; line-height: 16px; padding: 12px
+18px; text-align: center; text-decoration-style: initial;
+text-decoration-color: initial;">I WANT TO SEE WHAT THIS OFFER IS
+ABOUT</span></font></a><br /> </span><br /><br /><span style="font-family:
+'trebuchet ms', geneva; color: #000000;">Profits Eternity</span><br /><span
+style="font-family: 'trebuchet ms', geneva; color: #000000;">The 1 % Elite
+Club</span><br /><span style="font-family: 'trebuchet ms', geneva;
+font-size: x-small; color: #000000;">To Unsubscribe Please<strong> <a
+href="http://server.thebitcoinsnetwork.com/unsubscribe.php?M=5038822&C=4ef86df671286d6ed2ecced0cc1214b2&L=42&N=34"><span
+style="color: #000000;">CLICK HERE</span></a></strong></span>
+<img
+src="http://server.thebitcoinsnetwork.com/open.php?M=5038822&L=42&N=34&F=H&image=.jpg"
+height="1" width="10"></body>
+</html>
+
+--b1_f78fc1938bb14478f063851487deeae8--
+
+
+
+------------=_5A15D878.D6E985F1--
+

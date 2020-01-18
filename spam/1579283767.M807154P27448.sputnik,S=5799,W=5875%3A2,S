@@ -1,0 +1,76 @@
+Return-Path: <socen.nupenom71@yahoo.com>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 9C39FD19FC
+	for <mail@dorianvasco.de>; Fri,  1 Nov 2019 13:43:31 +0100 (CET)
+Authentication-Results: v22014122474822114.stilfilm.com; dkim=pass
+	reason="2048-bit key; insecure key"
+	header.d=yahoo.com header.i=@yahoo.com header.b=izwvCFTc;
+	dkim-adsp=pass; dkim-atps=neutral
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: 3.652
+X-Spam-Level: ***
+X-Spam-Status: No, score=3.652 required=5.5 tests=[BAYES_99=3.5,
+	DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	FREEMAIL_ENVFROM_END_DIGIT=0.25, FREEMAIL_FROM=0.001,
+	HTML_MESSAGE=0.001] autolearn=no autolearn_force=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 98T2tauFrSDj for <mail@dorianvasco.de>;
+	Fri,  1 Nov 2019 13:43:27 +0100 (CET)
+Received: from sonic310-13.consmr.mail.bf2.yahoo.com (sonic310-13.consmr.mail.bf2.yahoo.com [74.6.135.123])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id A840CC3004
+	for <mail@dorianvasco.de>; Fri,  1 Nov 2019 13:43:23 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1572612202; bh=Nw2JETRIfiV9PtWg6WTtN9Se//t9NgrUQNGOFHt1N8k=; h=Date:From:To:Subject:References:From:Subject; b=izwvCFTcqRfXd5F8yyS0z/oetkI8Mdj/ctQ9SfoHNffjujVJdFiiMGcFqZCrZqpS9629UdbtCv8a0eWexpZhq7P6qs5kcM5RhKS+jCKU4DXT35EjDYFDOgKM+FiNhy+xkWS3+cegNpRRaj8Emnq0udO6MiEU6EITPEhSL8eTmJmGymh792FNBtbzomHCPLuI3daX2cTzr7FhQNuqm2rkFUPfi9+SyApa1k+riLMIT0EJmj7mUAlGlaUTDyW42KfZQ3/EPlEUS+c243gbspHtSpjvEVobfbzPCc4lgP5qt0M3KS7nSASkXpPaVp56gKl7MwOX13OKZdCVw8WwfIAe+Q==
+X-YMail-OSG: zFqpgLcVM1mdqXSAU9I1wAYyTVU87amgoseXb_vUt2y8xhUgFpRUrJ9Cp0_Z.GR
+ uPn9YD.yp_S18mYonqVQOqVla0_z5gcp0zsGjSOmKGbZpgBPLJ98tmVdPFcnE7PGgPAdxW4Inj2z
+ vASszqfm4I0OoDmJpWmQqTwPDKpOaIfeb0FGk_tk6hXhPoNBzqbeCYnSOuRrYhcPPsqQ5g0hh5HJ
+ aABIpT5Y6JId0GYAM_rZfgPwk..axd_qSR_D.ZRD7IA2pz6irOwYMF5S_sZ_rOp9owGeNsE98mPf
+ dhMfcuspB0Jzlkb5FCyLey8pLzKVdq4vR9cKjMyxPYP.R8EC93DuqmjCNDDl8mmSNy0KAI66NvNd
+ GtAkdYtl19.fCKlJC3A4BKWyCoiQAk1qrKU.8etoWFPGLDSo1DFq_ZYaIhEeOwNCoFGlIamYO1gq
+ Lxk_XvP3Y_FctMGUVuVK_aAHiFdltEemPP7ycmiCIrbEVqZUbVh3TalKEjpvWudAKK7MvzgW6ax8
+ 4GYFbh18dCakedTDXUpjIl2HC3hwo2bijkbbK5LO6ebsBk81v.ABAvP7OTiRpLyHLFR0nKSwuRb4
+ WdHWO9i6NFPptFxse1_k6u6OVWGSHlnZelL8d7bcnHLp3X7t5_Q2PdjRts3Fbh35W6Z1KKhlSwZZ
+ 4va.JtILZLXxoWKZErk1JkU3BJ_mTBDoE5ah9Cubk.yZ6P540ZD.vZZFToc4MTjxAwS3VBgaqJbP
+ CfKZzU9nNMv1e67oMPZzxU0i1SeTMfxn8VMI5oi32hwKbKDhyjBpHVVcapB0k7Vju5lqHBk4v_7p
+ YguzxGOKT6Um569BLi.2VuG_5PlMdKDFKBoGlAc6kfvwX_C7BwLRBKLW8Bvq.kPxjn32jYFY9vZg
+ wkTL938E2jVnObX9WBwazMImjt98lPW04h7eUJbcSD8mYeKtNKa9SG.VYoP.nAb9ivvJGE7jKRWK
+ tP3QVNYzQPNCtuohlTgEKqUGDXzz6JUet54bLkscUZgNyTqa1M2ZiCA96ntrgmjjNV1lCDUOvGAY
+ HGgvPWDXNxQ9RKdnbljg67hqM4AQrnTI2Hf2bc4zgrGJiwKecDNkkIjNXIBSzuBfMU1ducS5Xyd0
+ oB5rJ6owMjAMfv0FFCGmjHAlRY9SRTrmmsEqlo_jRKvnyQmkHf5uMT5WV4QEx17G2GxIw.LDrZfA
+ Frg8bEE45C84DtzhK8bYmih.Q5tsHhopqgt87nDEsZHJwuxzw1fSDESN2p2Y5BXAqbsmQd8X_7dh
+ eJaExt2eoZ41ZKcGqfM5aKJV.Q4.9m5o4b7ftsV01mAtGKDIANbPjcLJUOOrEnaw-
+Received: from sonic.gate.mail.ne1.yahoo.com by sonic310.consmr.mail.bf2.yahoo.com with HTTP; Fri, 1 Nov 2019 12:43:22 +0000
+Date: Fri, 1 Nov 2019 12:43:19 +0000 (UTC)
+From: Theodore Hatfield <socen.nupenom71@yahoo.com>
+To: "hello@scubastrapp.co.uk" <hello@scubastrapp.co.uk>
+Message-ID: <1573055654.2746866.1572612199218@mail.yahoo.com>
+Subject: Issues with received package papers
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_2746865_1916820146.1572612199218"
+References: <1573055654.2746866.1572612199218.ref@mail.yahoo.com>
+X-Mailer: WebService/1.1.14593 YMailNorrin Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+
+------=_Part_2746865_1916820146.1572612199218
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hello.
+Earlier this week I have received a banderol sent from your store. I can not gain it from local post office, due to the fact you have made misinterpretation in the recipient name field. 
+Post officers demanded you to fill out an application form to clarify details about the box. You can find required form through the link lower.
+https://docs.google.com/document/d/e/2PACX-1vSlV8sOz85n86Ne1MFBoYRw-b03-QSqe3tWitur1siFGBV4Ksiw7bc_rA27TBMT3zMAytYYWlOC3hkj/pub
+
+Then please send this blank to the stated electronic email in three days, or bundle will be sent back to you (or to the originator, I 100% do not feel certain.)
+
+Thanks a lot!
+
+------=_Part_2746865_1916820146.1572612199218
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html><head></head><body><div class="yahoo-style-wrap" style="font-family:Helvetica Neue, Helvetica, Arial, sans-serif;font-size:16px;">Hello.<br>Earlier this week I have received a banderol sent from your store. I can not gain it from local post office, due to the fact you have made misinterpretation in the recipient name field. <br>Post officers demanded you to fill out an application form to clarify details about the box. You can find required form through the link lower.<br>https://docs.google.com/document/d/e/2PACX-1vSlV8sOz85n86Ne1MFBoYRw-b03-QSqe3tWitur1siFGBV4Ksiw7bc_rA27TBMT3zMAytYYWlOC3hkj/pub<br><br>Then please send this blank to the stated electronic email in three days, or bundle will be sent back to you (or to the originator, I 100% do not feel certain.)<br><br>Thanks a lot!<br></div></body></html>
+------=_Part_2746865_1916820146.1572612199218--

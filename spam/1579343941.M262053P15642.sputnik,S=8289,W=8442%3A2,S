@@ -1,0 +1,153 @@
+Received: from localhost by v22014122474822114.stilfilm.com
+	with SpamAssassin (version 3.3.2);
+	Wed, 22 Nov 2017 21:13:17 +0100
+From: "Katie" <kattiemaasch2954@yahoo.com>
+To: mail <mail@dorianvasco.de>
+Subject: *****SPAM***** ***SPAM*** =?utf-8?q?tec2group=2Ecom?=
+Date: Fri, 27 Oct 2017 07:34:17 -0000
+Message-Id: <568700.43521.bm@smtp229.mail.bf1.yahoo.com>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	v22014122474822114.stilfilm.com
+X-Spam-Flag: YES
+X-Spam-Level: ******
+X-Spam-Status: Yes, score=6.0 required=5.0 tests=DKIM_ADSP_CUSTOM_MED,
+	DKIM_SIGNED,FREEMAIL_ENVFROM_END_DIGIT,FREEMAIL_FROM,MIME_BASE64_BLANKS,
+	NML_ADSP_CUSTOM_MED,PYZOR_CHECK,RCVD_IN_DNSWL_NONE,T_DKIM_INVALID,
+	T_RP_MATCHES_RCVD,URIBL_BLOCKED,URIBL_DBL_SPAM autolearn=no version=3.3.2
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----------=_5A15DA5D.82DD71C8"
+
+This is a multi-part message in MIME format.
+
+------------=_5A15DA5D.82DD71C8
+Content-Type: text/plain; charset=iso-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+
+Software zur Erkennung von "Spam" auf dem Rechner
+
+    v22014122474822114.stilfilm.com
+
+hat die eingegangene E-mail als mögliche "Spam"-Nachricht identifiziert.
+Die ursprüngliche Nachricht wurde an diesen Bericht angehängt, so dass
+Sie sie anschauen können (falls es doch eine legitime E-Mail ist) oder
+ähnliche unerwünschte Nachrichten in Zukunft markieren können.
+Bei Fragen zu diesem Vorgang wenden Sie sich bitte an
+
+    the administrator of that system
+
+Vorschau: Hello Hope I am not intruding or anything. I have found out
+   that you might be interested in the domain name I able to acquire: tec2group(com)
+   http://ginfrisk.com/Z3JwMnRlYmhjLnBiejp6bmV0bmVyZzoxODc2 And to be on the
+   safe side, in case I am not to contact you again, say the word; http://ginfrisk.com/_Z3JwMnRlYmhjLnBiejp6bmV0bmVyZzoxODc2
+   [...] 
+
+Inhaltsanalyse im Detail:   (6.0 Punkte, 5.0 benötigt)
+
+Pkte Regelname              Beschreibung
+---- ---------------------- --------------------------------------------------
+-0.0 RCVD_IN_DNSWL_NONE     RBL: Sender listed at http://www.dnswl.org/, no
+                            trust
+                            [74.6.132.125 listed in list.dnswl.org]
+ 2.5 URIBL_DBL_SPAM         Contains a spam URL listed in the DBL blocklist
+                            [URIs: ginfrisk.com]
+ 0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+                            See
+                            http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                             for more information.
+                            [URIs: tec2group.com]
+ 0.0 FREEMAIL_FROM          Sender email is commonly abused enduser mail provider
+                            (kattiemaasch2954[at]yahoo.com)
+ 0.0 DKIM_ADSP_CUSTOM_MED   No valid author signature, adsp_override is
+                            CUSTOM_MED
+-0.0 T_RP_MATCHES_RCVD      Envelope sender domain matches handover relay
+                            domain
+ 0.2 FREEMAIL_ENVFROM_END_DIGIT Envelope-from freemail username ends in
+                            digit (kattiemaasch2954[at]yahoo.com)
+ 0.0 MIME_BASE64_BLANKS     RAW: Überflüssige Leerzeilen bei der
+                            base64-Kodierung
+ 0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+ 2.0 PYZOR_CHECK            Gelistet im Pyzor-System (http://pyzor.sf.net/)
+ 0.0 T_DKIM_INVALID         DKIM-Signature header exists but is not valid
+ 1.2 NML_ADSP_CUSTOM_MED    ADSP custom_med hit, and not from a mailing list
+
+
+
+------------=_5A15DA5D.82DD71C8
+Content-Type: message/rfc822; x-spam-type=original
+Content-Description: original message before SpamAssassin
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+
+Return-Path: <kattiemaasch2954@yahoo.com>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 794BCD4CB6
+	for <mail@dorianvasco.de>; Fri, 27 Oct 2017 09:34:28 +0200 (CEST)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 9.144
+X-Spam-Level: *********
+X-Spam-Status: Yes, score=9.144 required=5.5 tests=[BAYES_60=1.5,
+	DIGEST_MULTIPLE=0.293, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, FREEMAIL_ENVFROM_END_DIGIT=0.25,
+	FREEMAIL_FROM=0.001, MIME_BASE64_BLANKS=0.001, PYZOR_CHECK=1.392,
+	RAZOR2_CF_RANGE_51_100=0.5, RAZOR2_CF_RANGE_E8_51_100=1.886,
+	RAZOR2_CHECK=0.922, RCVD_IN_DNSWL_NONE=-0.0001,
+	RP_MATCHES_RCVD=-0.001, SPF_PASS=-0.001, URIBL_BLOCKED=0.001,
+	URIBL_DBL_SPAM=2.5] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id LqaVHXwH7bi8 for <mail@dorianvasco.de>;
+	Fri, 27 Oct 2017 09:34:27 +0200 (CEST)
+Received: from sonic314-15.consmr.mail.bf2.yahoo.com (sonic314-15.consmr.mail.bf2.yahoo.com [74.6.132.125])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id 1BA7AC3048
+	for <mail@dorianvasco.de>; Fri, 27 Oct 2017 09:34:25 +0200 (CEST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1509089665; bh=hB7EQT6Ml2/0t3GYy4pK1GaU6EvWHWSabvbAZEntCl4=; h=Subject:From:Date:To:List-Unsubscribe:From:Subject; b=n0Qu4D8l4qqWz4lsvIlsvtYez0V1e6K+b1tq3M5jFMWUtHgHMHKayBoabQ1I7vhXhX5TygOzJi2gUxdN916FyEIUBjKsZ26dFxxd+VuSugDZUtaQgbgM6ytfPoXxLqvr1OJ7zoTl53+YUKZOZLhqa9+ESdadcVaFX7trXeJq2aYbGH6U0GJM9k07B+mC4zcWoYqXF/2HyNamK3az4NpdkRJKOZCsqvX5XubjMZUOB5VB51Mi5TkwDKdQ0CqO7XgcrPoaTYrrZVbGa0++VcxSju1PRsx0zUcniQpvX9bMaCBqxObU4A6Fci39mUA061KOC+smkwpOGqFnuZCGwLiHTQ==
+X-YMail-OSG: 8AQ7EuoVM1kGINY4XKT9Cd.kEZBDTGBgJzC0l1wO_Q3ur7M7s13_FyzqGZW35KK
+ rXxkj1NuuI3_jkJ8tHgGLctW853z0PLkpdCgXOML1oFGmDuslo1lwVI0ma9rYc1Qt5KWiwA7f2hR
+ t4xs_LjmyEfFZ2eU.tZL81WwMh.tQKH0f8KNoKQjjaZ.fCwDEmnW.hJuNjl3p8j912TBG.cX4igW
+ mFxoXqpmhzcEPAntFd82sHtV.gyi60NQhehfWf6MFu8BfG3nE.YhNIo9IHowD7x9gU9p4D.eZKFs
+ fdKASz1YtzR.Lv75HUoFfRrhJZdnbblAIYzAJmqK_Hw93hPOjceNZ1O19KmHhsRVvl3h0MhxkO3d
+ ZWYrvAoiRiLgDIatWfAaUPg2d_p0DDVmYNIp3pV.SJGTlZCa.ZeXbF1J1ARmEdwoTMKdIITMARuU
+ u4o9V5TbLaNc5axA9pcIejZGyNKSk.dUZjr3hfKDYHdzKtbjHuGVTbqYDc4aEmmJPz_3LixCi45Z
+ .85UlLcVIffXorF7XY5wvS3j1AzmRAtlSMEFidAojT.MkKKIngA--
+Received: from sonic.gate.mail.ne1.yahoo.com by sonic314.consmr.mail.bf2.yahoo.com with HTTP; Fri, 27 Oct 2017 07:34:25 +0000
+Received: from [127.0.0.1] by smtp229.mail.bf1.yahoo.com with NNFMP; 27 Oct 2017 07:34:20 -0000
+X-Yahoo-Newman-Id: 568700.43521.bm@smtp229.mail.bf1.yahoo.com
+Message-ID: <568700.43521.bm@smtp229.mail.bf1.yahoo.com>
+X-Yahoo-Newman-Property: ymail-3
+X-YMail-OSG: 8AQ7EuoVM1kGINY4XKT9Cd.kEZBDTGBgJzC0l1wO_Q3ur7M
+ 7s13_FyzqGZW35KKrXxkj1NuuI3_jkJ8tHgGLctW853z0PLkpdCgXOML1oFG
+ mDuslo1lwVI0ma9rYc1Qt5KWiwA7f2hRt4xs_LjmyEfFZ2eU.tZL81WwMh.t
+ QKH0f8KNoKQjjaZ.fCwDEmnW.hJuNjl3p8j912TBG.cX4igWmFxoXqpmhzcE
+ PAntFd82sHtV.gyi60NQhehfWf6MFu8BfG3nE.YhNIo9IHowD7x9gU9p4D.e
+ ZKFsfdKASz1YtzR.Lv75HUoFfRrhJZdnbblAIYzAJmqK_Hw93hPOjceNZ1O1
+ 9KmHhsRVvl3h0MhxkO3dZWYrvAoiRiLgDIatWfAaUPg2d_p0DDVmYNIp3pV.
+ SJGTlZCa.ZeXbF1J1ARmEdwoTMKdIITMARuUu4o9V5TbLaNc5axA9pcIejZG
+ yNKSk.dUZjr3hfKDYHdzKtbjHuGVTbqYDc4aEmmJPz_3LixCi45Z.85UlLcV
+ IffXorF7XY5wvS3j1AzmRAtlSMEFidAojT.MkKKIngA--
+X-Yahoo-SMTP: ZsoM0mqswBC1272DmT2ENuw92l5u_.F1Id.hOy8-
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+Subject: ***SPAM*** =?utf-8?q?tec2group=2Ecom?=
+From: "Katie" <kattiemaasch2954@yahoo.com>
+Date: Fri, 27 Oct 2017 07:34:17 -0000
+To: mail <mail@dorianvasco.de>
+List-Unsubscribe: http://ginfrisk.com/_Z3JwMnRlYmhjLnBiejp6bmV0bmVyZzoxODc2
+
+
+SGVsbG8KCkhvcGUgSSBhbSBub3QgaW50cnVkaW5nIG9yIGFueXRoaW5nLiBJIGhhdmUgZm91bmQg
+b3V0IHRoYXQgeW91IG1pZ2h0IGJlIGludGVyZXN0ZWQgaW4gdGhlIGRvbWFpbiBuYW1lIEkgYWJs
+ZSB0byBhY3F1aXJlOiB0ZWMyZ3JvdXAoY29tKQpodHRwOi8vZ2luZnJpc2suY29tL1ozSndNblJs
+WW1oakxuQmllanA2Ym1WMGJtVnlaem94T0RjMgoKQW5kIHRvIGJlIG9uIHRoZSBzYWZlIHNpZGUs
+IGluIGNhc2UgSSBhbSBub3QgdG8gY29udGFjdCB5b3UgYWdhaW4sIHNheSB0aGUgd29yZDsKaHR0
+cDovL2dpbmZyaXNrLmNvbS9fWjNKd01uUmxZbWhqTG5CaWVqcDZibVYwYm1WeVp6b3hPRGMyCgpJ
+biBhbnkgY2FzZSwgd2FsayBpbiBsaWdodCEKS2F0aWU=
+
+
+------------=_5A15DA5D.82DD71C8--
+

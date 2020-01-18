@@ -1,0 +1,110 @@
+Return-Path: <utsudashinooka@gmail.com>
+Delivered-To: mail@stilfilm.com
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id D81ADC2F46
+	for <mail@stilfilm.com>; Tue, 21 May 2019 17:15:03 +0200 (CEST)
+Authentication-Results: v22014122474822114.stilfilm.com; dkim=pass
+	reason="2048-bit key; insecure key"
+	header.d=gmail.com header.i=@gmail.com header.b=eNPaWbi6;
+	dkim-adsp=pass; dkim-atps=neutral
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: 1.681
+X-Spam-Level: *
+X-Spam-Status: No, score=1.681 required=5.5 tests=[BAYES_50=0.8,
+	DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	FREEMAIL_FROM=0.001, FROM_EXCESS_BASE64=0.979, HTML_MESSAGE=0.001,
+	RCVD_IN_DNSWL_NONE=-0.0001, SPF_HELO_NONE=0.001, SPF_PASS=-0.001]
+	autolearn=ham
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 8efQbB1iQc-X for <mail@stilfilm.com>;
+	Tue, 21 May 2019 17:14:59 +0200 (CEST)
+Received: from mail-it1-f196.google.com (mail-it1-f196.google.com [209.85.166.196])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id 08C35C1FD9
+	for <mail@stilfilm.com>; Tue, 21 May 2019 17:14:57 +0200 (CEST)
+Received: by mail-it1-f196.google.com with SMTP id g24so1104868iti.5
+        for <mail@stilfilm.com>; Tue, 21 May 2019 08:14:57 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=xVtl/7sGPFdNl55CvTTvOdUiO5FDif6MVncY5TNJDAM=;
+        b=eNPaWbi6TFEskhYIE9Y90axCLF4pjeLdm6cc80Kcp/YjrL/xrqIAQiR2IkSckNKu3r
+         v4ca7u9Hj4N3FAVixpxXnU396leWv/94aoOAh6FdVoMwOWfp+9aLtJqRTvAsOS4gj2P7
+         PtpXITLc1lCMg5biPPlwYJQTcDSplYf3yeP/OrkSH6k6/uSrhCUiXxEsjrWQ4+GTRlHy
+         d5bEEyakOs9JSdI6nhC0abftCoCuYWINIFhv8+IRGBxxnw1pc1jSAEJhAC+g2ZTm4YyT
+         2as4jq36otzKmr3yt3n+YQKIJ31fA6yq/uODQG0WqiFgN1y1m+u5Ammxq6BfftxwACd8
+         UpCQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=xVtl/7sGPFdNl55CvTTvOdUiO5FDif6MVncY5TNJDAM=;
+        b=PskWhVs5uminkHamtJgK8D6w2kf3cen03ZB6cUTLk19o78BV4UA5T3jtudYgc82KVn
+         DbdbyrEEWuraw16CuyFL8z9FL0gtR5JlHZpZmiPTOMXsz3G9AtkmyvkZyhlAx8n3SS2N
+         nrt/HgSMevLWqWfG+2mAcJ7oBH9PQEDblmiSV93pOv/hmHXi6i/Zhkh3aTfU8uKFwd6u
+         ehgneincMzUN8e5zHuCDOJ1/QCgXKRMAjIrBI94+zSn3rak3VcXRF6nb+ubIpC/gWgNO
+         eUCZHIdej6vGrj5D8wAv6gFlMitAmu4XlPi2O+u4TyjfMPBRy/JXsqo4w1VQVp3IWWOC
+         aHWA==
+X-Gm-Message-State: APjAAAWmWkhTyubXlCVAmOO/CDhn/I6ZOr97pqtNVfiqL3N9I1cJ2Pi5
+	ycX4ELnHuQDLIsE0Tpui2tgE+mPl6FEaE4EwVx5z2w==
+X-Google-Smtp-Source: APXvYqx7x0/dziQTepY2k6Hk8YurhMzKT2OFMOT4RNjYtJeF3xYKmTVAU2fGeHAI4ZgRbD8/2MGsayw7JGbJFjxbnYE=
+X-Received: by 2002:a05:660c:143:: with SMTP id r3mr4262049itk.84.1558451694782;
+ Tue, 21 May 2019 08:14:54 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 2002:a4f:7819:0:0:0:0:0 with HTTP; Tue, 21 May 2019 08:14:54
+ -0700 (PDT)
+From: =?UTF-8?B?5Y2v5rSl55Sw56+g5bKh?= <utsudashinooka@gmail.com>
+Date: Tue, 21 May 2019 20:44:54 +0530
+Message-ID: <CAMGe3EaE6SaA4v5m_5bOr4gk0X2fmdAjXajy+qXUOvDawv5Urw@mail.gmail.com>
+Subject: Can We Connect?
+To: mail@stilfilm.com
+Content-Type: multipart/alternative; boundary="000000000000aacbdb0589674f29"
+
+--000000000000aacbdb0589674f29
+Content-Type: text/plain; charset="UTF-8"
+
+Greetings,
+
+We are a Full Stack Development company based out of India, and we
+specialize in *Cake &  Django Development*. We just finished a long-term
+project and currently have 5 developers on idle that we can allocate to
+your project as *Dedicated Resources*.
+
+Since our developers are currently idle, we are offering FREE Trial and
+long-term engagement discounts.
+
+*Why work with our developers?*
+
+   1. No contracts, cancel anytime
+   2. FREE Trial
+   3. Exellent Communication Skills in English
+   4. Proven Track record of delivering hundreds of projects.
+
+Please reply to this email if you want to know more about our services.
+
+Thank you for your time.
+
+P. S: If you are not interested, please reply "Remove", and we will not
+bother you again.
+
+--000000000000aacbdb0589674f29
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<p>Greetings,</p><p>We are a Full Stack Development company based out of In=
+dia, and we specialize in <strong>Cake &amp; =C2=A0Django=C2=A0Development<=
+/strong>. We just finished a long-term project and currently have 5 develop=
+ers on idle that we can allocate to your project as <strong>Dedicated Resou=
+rces</strong>.</p><p>Since our developers are currently idle, we are offeri=
+ng FREE Trial and long-term engagement discounts.</p><p><strong>Why work wi=
+th our developers?</strong></p><ol><li>No contracts, cancel anytime</li><li=
+>FREE Trial</li><li>Exellent Communication Skills in English</li><li>Proven=
+ Track record of delivering hundreds of projects.</li></ol><p>Please reply =
+to this email if you want to know more about our services.</p><p><span lang=
+=3D"EN-SG" title=3D"">Thank you for your time.<br><br>P. S: If you are not =
+interested, please reply &quot;Remove&quot;, and we will not bother you aga=
+in.</span></p><p><br></p><div dir=3D"ltr"><div dir=3D"ltr"><br></div></div>
+
+--000000000000aacbdb0589674f29--

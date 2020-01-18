@@ -1,0 +1,226 @@
+Return-Path: <vijay@ijrmas.org>
+Delivered-To: mail@stilfilm.com
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 50BC3CD6EF
+	for <mail@stilfilm.com>; Tue, 10 Jan 2017 09:40:24 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 3.064
+X-Spam-Level: ***
+X-Spam-Status: Yes, score=3.064 required=2 tests=[BAYES_50=0.8,
+	DKIM_SIGNED=0.1, HTML_MESSAGE=0.001, HTML_OBFUSCATE_05_10=0.26,
+	PYZOR_CHECK=1.392, RCVD_IN_SORBS_SPAM=0.5, T_DKIM_INVALID=0.01,
+	URIBL_BLOCKED=0.001] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.yourvserver.net [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id Y__02PpBzWLn for <mail@stilfilm.com>;
+	Tue, 10 Jan 2017 09:40:22 +0100 (CET)
+Received: from mail-oi0-f54.google.com (mail-oi0-f54.google.com [209.85.218.54])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id AF5C2CD645
+	for <mail@stilfilm.com>; Tue, 10 Jan 2017 09:40:22 +0100 (CET)
+Received: by mail-oi0-f54.google.com with SMTP id w204so40743281oiw.0
+        for <mail@stilfilm.com>; Tue, 10 Jan 2017 00:40:22 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=ijrmas.org; s=google;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=hxraqaqeq/dTsfVuevJvCH2Dnx6oDQTLb5KlORNbzUg=;
+        b=GviCH14OfDAS1Ul8N5dH/mEvA94/L7Wk6/hpOoehIObUAfTNC8C0RG5Mg8qScMkH0v
+         x/IN6+AtwXRMTfmNCWCRmBBXOBMV/Wd4NzysIG2sASxMSQio5dA/Ji4MbKHkb8hEwk7i
+         TnAh+iuUayOS2CygQ0l45UqALI15BmXKRoues=
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=hxraqaqeq/dTsfVuevJvCH2Dnx6oDQTLb5KlORNbzUg=;
+        b=UzPjN4YpmaeomDEdqz+CjKc1aX6orOSSsjiCKrpEBuLP4eZ7AqFdFCfeNPun6o5jKh
+         e8h+WJYAkPl+K1SzcXgfFnK4eNFEJXEMRFV1gE9vW/NXjT2cDZjZFRUHiBG8YQJNUS4H
+         L3oFt6VfIkszyEJabPT32yNcAbJakDl4AKMl7qBZDiTlFqg0TGEGB7n281zGs1tiWqEP
+         sQyxZMPh9K93Mt7jSvtCO5pW9dd9IudDbIPeTUbGL0U1kS+TvjB50iVEB5lMZ6xeupLr
+         xIVM1PMCwrTL5L0rkFpctsf8U6KprAoZPHFlLPT9DEdlMa/PBE3ZP0E6H3z4He0eTrld
+         0bQw==
+X-Gm-Message-State: AIkVDXIfqtZRh0iXjIyQPrgi7J4bGP5Sjei0MCmfhcRi+sZqaLt9BwmIQL3UR8gYoYE9tXUrUhXZHvy5owK8IvN1kcPN6MxhdDXIIUwNPdmLm0NFTZZ1bkGdhg0sEhJ7BYorna7Ni5ePYw==
+X-Received: by 10.157.22.187 with SMTP id c56mr856241ote.136.1484037621076;
+ Tue, 10 Jan 2017 00:40:21 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.202.236.208 with HTTP; Tue, 10 Jan 2017 00:40:20 -0800 (PST)
+From: vijay v <vijay@ijrmas.org>
+Date: Tue, 10 Jan 2017 14:10:20 +0530
+Message-ID: <CABu4RPtpi0Fg6-c=UM9pXvnGHFBQAJPRQ_7eASi9aWv9YzFyRQ@mail.gmail.com>
+Subject: ***SPAM*** 
+To: contact@icprc.co.in
+Content-Type: multipart/alternative; boundary=001a113a9a4e3cf28e0545b96f83
+
+--001a113a9a4e3cf28e0545b96f83
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Respected Professors /Researchers,
+
+Greetings from committee members of =E2=80=9CCurrent Research on Classical
+Approximation (CRCA-2017)=E2=80=9D. You are cordially invited to submit you=
+r
+research paper to the conference CRCA-2017. The conference is calling
+papers from the following specializations:
+
+=C3=98  Elastic Curves and Surfaces
+
+=C3=98  Plasticity and Microstructure
+
+=C3=98  Free Discontinuities
+
+=C3=98  Geometric Partial Differential Equations
+
+=C3=98  Adaptive Mesh Refinement
+
+=C3=98  Phase-Field Models
+
+The accepted papers will be submitted to =E2=80=9C*Elsevier: =E2=80=9CJourn=
+al of
+Approximation Theory*=E2=80=9D for possible publication.
+
+The last date of paper submission: 12th Jan. 2017.
+
+For more details, please go to: http://ow.ly/YFvB307QPgn (or) contact:
+contact@icprc.co.in
+
+--=20
+
+------------------------------
+*Disclaimer: *This email and any file(s) transmitted with it are=20
+confidential and intended solely for the use of the individual or entity to=
+=20
+whom they are addressed. This message contains confidential information and=
+=20
+is intended only for the individual named. If you are not the named=20
+addressee you should not disseminate, distribute or copy this e-mail.=20
+Please notify the sender immediately by e-mail if you have received this=20
+e-mail by mistake and delete this e-mail from your system. If you are not=
+=20
+the intended recipient you are notified that disclosing, copying,=20
+distributing or taking any action in reliance on the contents of this=20
+information is strictly prohibited.
+------------------------------
+
+--001a113a9a4e3cf28e0545b96f83
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><p class=3D"MsoNormal" style=3D"text-align:justify"><span =
+style=3D"font-size:12pt;line-height:115%;font-family:&quot;times new roman&=
+quot;,serif">Respected
+Professors /Researchers, <span></span></span></p>
+
+<p class=3D"MsoNormal" style=3D"text-align:justify"><span style=3D"font-siz=
+e:12pt;line-height:115%;font-family:&quot;times new roman&quot;,serif">Gree=
+tings
+from committee members of =E2=80=9CCurrent Research on Classical Approximat=
+ion (CRCA-2017)=E2=80=9D.
+You are cordially invited to submit your research paper to the conference C=
+RCA-2017.
+The conference is calling papers from the following specializations:<span><=
+/span></span></p>
+
+<p class=3D"gmail-MsoListParagraphCxSpFirst" style=3D"text-align:justify"><=
+span style=3D"font-size:12pt;line-height:115%;font-family:wingdings">=C3=98=
+<span style=3D"font-variant-numeric:normal;font-stretch:normal;font-size:7p=
+t;line-height:normal;font-family:&quot;times new roman&quot;">=C2=A0 </span=
+></span><span style=3D"font-size:12pt;line-height:115%;font-family:&quot;ti=
+mes new roman&quot;,serif">Elastic
+Curves and Surfaces<span></span></span></p>
+
+<p class=3D"gmail-MsoListParagraphCxSpMiddle" style=3D"text-align:justify">=
+<span style=3D"font-size:12pt;line-height:115%;font-family:wingdings">=C3=
+=98<span style=3D"font-variant-numeric:normal;font-stretch:normal;font-size=
+:7pt;line-height:normal;font-family:&quot;times new roman&quot;">=C2=A0 </s=
+pan></span><span style=3D"font-size:12pt;line-height:115%;font-family:&quot=
+;times new roman&quot;,serif">Plasticity
+and Microstructure<span></span></span></p>
+
+<p class=3D"gmail-MsoListParagraphCxSpMiddle" style=3D"text-align:justify">=
+<span style=3D"font-size:12pt;line-height:115%;font-family:wingdings">=C3=
+=98<span style=3D"font-variant-numeric:normal;font-stretch:normal;font-size=
+:7pt;line-height:normal;font-family:&quot;times new roman&quot;">=C2=A0 </s=
+pan></span><span style=3D"font-size:12pt;line-height:115%;font-family:&quot=
+;times new roman&quot;,serif">Free
+Discontinuities<span></span></span></p>
+
+<p class=3D"gmail-MsoListParagraphCxSpMiddle" style=3D"text-align:justify">=
+<span style=3D"font-size:12pt;line-height:115%;font-family:wingdings">=C3=
+=98<span style=3D"font-variant-numeric:normal;font-stretch:normal;font-size=
+:7pt;line-height:normal;font-family:&quot;times new roman&quot;">=C2=A0 </s=
+pan></span><span style=3D"font-size:12pt;line-height:115%;font-family:&quot=
+;times new roman&quot;,serif">Geometric
+Partial Differential Equations<span></span></span></p>
+
+<p class=3D"gmail-MsoListParagraphCxSpMiddle" style=3D"text-align:justify">=
+<span style=3D"font-size:12pt;line-height:115%;font-family:wingdings">=C3=
+=98<span style=3D"font-variant-numeric:normal;font-stretch:normal;font-size=
+:7pt;line-height:normal;font-family:&quot;times new roman&quot;">=C2=A0 </s=
+pan></span><span style=3D"font-size:12pt;line-height:115%;font-family:&quot=
+;times new roman&quot;,serif">Adaptive
+Mesh Refinement<span></span></span></p>
+
+<p class=3D"gmail-MsoListParagraphCxSpLast" style=3D"text-align:justify"><s=
+pan style=3D"font-size:12pt;line-height:115%;font-family:wingdings">=C3=98<=
+span style=3D"font-variant-numeric:normal;font-stretch:normal;font-size:7pt=
+;line-height:normal;font-family:&quot;times new roman&quot;">=C2=A0 </span>=
+</span><span style=3D"font-size:12pt;line-height:115%;font-family:&quot;tim=
+es new roman&quot;,serif">Phase-Field
+Models<span></span></span></p>
+
+<p class=3D"MsoNormal" style=3D"text-align:justify"><span style=3D"font-siz=
+e:12pt;line-height:115%;font-family:&quot;times new roman&quot;,serif">The
+accepted papers will be submitted to =E2=80=9C<b><span style=3D"color:red">=
+Elsevier: =E2=80=9CJournal of Approximation Theory</span></b>=E2=80=9D for
+possible publication.<span></span></span></p>
+
+<p class=3D"MsoNormal" style=3D"text-align:justify"><span style=3D"font-siz=
+e:12pt;line-height:115%;font-family:&quot;times new roman&quot;,serif">The
+last date of paper submission: 12<sup>th</sup> Jan. 2017.<span></span></spa=
+n></p>
+
+<p class=3D"MsoNormal" style=3D"text-align:justify"><span style=3D"font-siz=
+e:12pt;line-height:115%;font-family:&quot;times new roman&quot;,serif">For
+more details, please go to: <a href=3D"http://ow.ly/YFvB307QPgn">http://ow.=
+ly/YFvB307QPgn</a> (or) contact: </span><a href=3D"mailto:contact@icprc.co.=
+in"><span style=3D"font-size:12pt;line-height:115%;font-family:&quot;times =
+new roman&quot;,serif">contact@icprc.co.in</span></a><span style=3D"font-si=
+ze:12pt;line-height:115%;font-family:&quot;times new roman&quot;,serif">
+=C2=A0<span></span></span></p></div>
+
+<br>
+<b style=3D"font-style:normal;font-variant:normal;letter-spacing:normal;lin=
+e-height:normal;text-align:start;text-indent:0px;text-transform:none;white-=
+space:normal;word-spacing:0px;color:rgb(0,0,0);font-family:Arial,Helvetica,=
+sans-serif;font-size:13px;background-color:rgb(255,255,255)"><span style=3D=
+"font-size:12pt;line-height:18.4px;font-family:&#39;Times New Roman&#39;,se=
+rif;color:rgb(34,34,34);background-image:initial;background-repeat:initial"=
+ lang=3D"EN-IN"></span></b><hr><b style=3D"font-style:normal;font-variant:n=
+ormal;letter-spacing:normal;line-height:normal;text-align:start;text-indent=
+:0px;text-transform:none;white-space:normal;word-spacing:0px;color:rgb(0,0,=
+0);font-family:Arial,Helvetica,sans-serif;font-size:13px;background-color:r=
+gb(255,255,255)"><span style=3D"font-size:12pt;line-height:18.4px;font-fami=
+ly:&#39;Times New Roman&#39;,serif;color:rgb(34,34,34);background-image:ini=
+tial;background-repeat:initial" lang=3D"EN-IN">Disclaimer:=C2=A0</span></b>=
+<span style=3D"color:rgb(34,34,34);font-style:normal;font-variant:normal;fo=
+nt-weight:normal;letter-spacing:normal;text-align:start;text-indent:0px;tex=
+t-transform:none;white-space:normal;word-spacing:0px;font-size:12pt;line-he=
+ight:18.4px;font-family:&#39;Times New Roman&#39;,serif;background-image:in=
+itial;background-color:rgb(255,255,255);background-repeat:initial" lang=3D"=
+EN-IN">This email and any file(s) transmitted with it are confidential and =
+intended solely for the use of the individual or entity to whom they are ad=
+dressed. This message contains confidential information and is intended onl=
+y for the individual named. If you are not the named addressee you should n=
+ot disseminate, distribute or copy this e-mail. Please notify the sender im=
+mediately by e-mail if you have received this e-mail by mistake and delete =
+this e-mail from your system. If you are not the intended recipient you are=
+ notified that disclosing, copying, distributing or taking any action in re=
+liance on the contents of this information is strictly prohibited.</span><h=
+r><span style=3D"color:rgb(34,34,34);font-style:normal;font-variant:normal;=
+font-weight:normal;letter-spacing:normal;text-align:start;text-indent:0px;t=
+ext-transform:none;white-space:normal;word-spacing:0px;font-size:12pt;line-=
+height:18.4px;font-family:&#39;Times New Roman&#39;,serif;background-image:=
+initial;background-color:rgb(255,255,255);background-repeat:initial" lang=
+=3D"EN-IN"></span>
+--001a113a9a4e3cf28e0545b96f83--

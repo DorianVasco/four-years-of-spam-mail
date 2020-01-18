@@ -1,0 +1,195 @@
+Return-Path: <asha14@icmaem.com>
+Delivered-To: mail@stilfilm.com
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 4001AC3F58
+	for <mail@stilfilm.com>; Fri, 10 Aug 2018 08:33:49 +0200 (CEST)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: 4.161
+X-Spam-Level: ****
+X-Spam-Status: No, score=4.161 required=5.5 tests=[DKIM_SIGNED=0.1,
+	DKIM_VALID=-0.1, HTML_MESSAGE=0.001, RAZOR2_CF_RANGE_51_100=2.43,
+	RAZOR2_CHECK=1.729, URIBL_BLOCKED=0.001] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id RfK6hzSHlAqD for <mail@stilfilm.com>;
+	Fri, 10 Aug 2018 08:33:45 +0200 (CEST)
+Received: from mail-yw1-f65.google.com (mail-yw1-f65.google.com [209.85.161.65])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id BD639C14CE
+	for <mail@stilfilm.com>; Fri, 10 Aug 2018 08:33:41 +0200 (CEST)
+Received: by mail-yw1-f65.google.com with SMTP id j68-v6so7819534ywg.1
+        for <mail@stilfilm.com>; Thu, 09 Aug 2018 23:34:47 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=icmaem-com.20150623.gappssmtp.com; s=20150623;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=OXTOozUQuT90gydz0a5HeUMck7XI4Il4LstujLRR4Xo=;
+        b=WLxd1bC7kpVzZ7hsKkrZdLhki+BCeSnB54u+vSn9+hjmYiQbO8cvv/tDLuW5nobLI9
+         MJ6tLEeV1hiYP0J1cax3EIe8oz6QhcTv5CNurFhUMS33Jo0bGT08xSSzWkhnYCXoLkQg
+         GTRstUGUH5gvKvlkrDP9U8PqAMGgkWj4mAsNiVX2C84z+W+QzaNHeYs1oWqJ7Tr/e1bK
+         tJwNrkVqjrC1NUM44Sn518XljTGAi8Vt8P6dM6nKNZKltAHFK/29i3f/WBhPjgiFB4gd
+         YmRPeMGVd2YryAmpk7P/PUIKnyFHvtTsu+C4wzNFPvamHlztTW4p8FPEtGPs78czMSGX
+         E7Wg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=OXTOozUQuT90gydz0a5HeUMck7XI4Il4LstujLRR4Xo=;
+        b=XJW+ylm3RiVHBkQhBBnj9uvsba9H4wxNo7FQaHCQArKYo2Ms8Yp58YMSH8pzr1sMZH
+         b+F0P/5Geeijn/ksopqWqmPfRmdKkNonFn0GS7HsGQ6m7XssketYSQqaphJ5GTNLzCwc
+         sTF3NR46bR1IB7YRJ14iSJoiSF27lwG0TjuAcVBHNGNIQiG72Xzx67akWy/zSelwG3AX
+         xr33XtVzWUFqsTKPZ9Zs+tL39CR6t40dmLM10428kVX3JLzrsvnHrSAohII1dLz7HOrq
+         hSTMp/V2gQJ2gKvbA3fhN+z1zxzSqyXX5+ZIz2GxuuiuX7l4Rzr4B9ed/htSspt9YnL7
+         oWPw==
+X-Gm-Message-State: AOUpUlHGyxRPiVJEblxA5oNxonFVcDaPNDyAjsg3uDHdFkCYNSbtFAYJ
+	ifoQNHs5LhaOF0A2WkTV+ccKFoxJQxnznMWrLAa6WA==
+X-Google-Smtp-Source: AA+uWPzxNMrtu5vhjNsd+RZIiS4QUgYqP2kKsW8iT+O1FMWDS8GtSiIkvasuyPy1IkYQg8zUEmE6s/g1IvSzk3TBQEs=
+X-Received: by 2002:a25:5c9:: with SMTP id 192-v6mr2919879ybf.282.1533882885266;
+ Thu, 09 Aug 2018 23:34:45 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 2002:a0d:d084:0:0:0:0:0 with HTTP; Thu, 9 Aug 2018 23:34:44 -0700 (PDT)
+From: Preethi T <asha14@icmaem.com>
+Date: Fri, 10 Aug 2018 12:04:44 +0530
+Message-ID: <CAFokL6RmAZfp0P7uHb_gSTr_xszNu6CF6ZOJdxx0z7ADV+KzLw@mail.gmail.com>
+Subject: 
+To: jaya@iets.org.in
+Content-Type: multipart/alternative; boundary="000000000000810be105730ef000"
+
+--000000000000810be105730ef000
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+*Respected Author (IEEE-Approved Conference),*
+
+
+
+NIE Institute of Technology Cordially welcomes you to participate in
+=E2=80=9CInternational
+conference on Innovations in Engineering, Technology and Sciences=E2=80=9D =
+(ICIETS)
+during 20th-21st September 2018 in Mysore-570018, Karnataka, India.
+
+
+
+All Accepted Papers will be submitted for Inclusion in IEEE Xplore Digital
+Library and submitted to SCOPUS for indexing.
+
+
+
+*Last Date of Paper Submission is extended to (13th August 2018).*
+
+
+
+*Conference-Details @:*  http://shorl.com/pumuhilirylu
+
+
+
+*Authors can utilize online Presentation facility.*
+
+--000000000000810be105730ef000
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt;text-align:justify;=
+line-height:14.1pt;background:white;font-size:11pt;font-family:Calibri,sans=
+-serif"><b><span style=3D"font-size:12pt;font-family:&quot;Bodoni MT&quot;,=
+serif;color:rgb(34,34,34)">Respected Author
+(IEEE-Approved Conference),</span></b><span style=3D"font-size:12pt;font-fa=
+mily:&quot;Bodoni MT&quot;,serif;color:rgb(34,34,34)"><span></span></span><=
+/p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt;text-align:justify;=
+line-height:14.1pt;background:white;font-size:11pt;font-family:Calibri,sans=
+-serif"><span style=3D"font-size:12pt;font-family:&quot;Bodoni MT&quot;,ser=
+if;color:rgb(34,34,34)">=C2=A0<span></span></span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt;text-align:justify;=
+line-height:14.1pt;background:white;font-size:11pt;font-family:Calibri,sans=
+-serif"><span style=3D"font-size:12pt;font-family:&quot;Bodoni MT&quot;,ser=
+if;color:black;background:white">NIE
+Institute of Technology=C2=A0Cordially </span><span style=3D"font-size:12pt=
+;font-family:&quot;Bodoni MT&quot;,serif;color:black">welcomes you to parti=
+cipate
+in =E2=80=9C<span style=3D"background:white">International conference on In=
+novations in
+Engineering, Technology and Sciences=E2=80=9D (ICIETS)</span> during=C2=A0<=
+span style=3D"background:white">20<sup>th</sup>-21<sup>st=C2=A0</sup>Septem=
+ber 2018</span>=C2=A0in=C2=A0<span style=3D"background:white">Mysore-570018=
+, Karnataka, India</span>.</span><span style=3D"font-size:12pt;font-family:=
+&quot;Bodoni MT&quot;,serif;color:rgb(34,34,34)"><span></span></span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt;text-align:justify;=
+line-height:14.1pt;background:white;font-size:11pt;font-family:Calibri,sans=
+-serif"><span style=3D"font-size:12pt;font-family:&quot;Bodoni MT&quot;,ser=
+if;color:rgb(34,34,34)">=C2=A0<span></span></span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 6pt;text-align:justify;line-=
+height:normal;font-size:11pt;font-family:Calibri,sans-serif"><span style=3D=
+"font-size:12pt;font-family:&quot;Bodoni MT&quot;,serif">All
+Accepted Papers will be submitted for Inclusion in IEEE Xplore Digital Libr=
+ary
+and submitted to SCOPUS for indexing.<span></span></span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 6pt;text-align:justify;line-=
+height:normal;font-size:11pt;font-family:Calibri,sans-serif"><b><span style=
+=3D"font-size:12pt;font-family:&quot;Bodoni MT&quot;,serif;color:rgb(0,32,9=
+6)"><span>=C2=A0</span></span></b></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt;text-align:justify;=
+line-height:14.1pt;background:white;font-size:11pt;font-family:Calibri,sans=
+-serif"><b><span style=3D"font-size:12pt;font-family:&quot;Bodoni MT&quot;,=
+serif">Last Date of Paper Submission is
+extended to (13<sup>th</sup> August 2018).</span></b><span style=3D"font-si=
+ze:12pt;font-family:&quot;Bodoni MT&quot;,serif"><span></span></span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt;text-align:justify;=
+line-height:14.1pt;background:white;font-size:11pt;font-family:Calibri,sans=
+-serif"><span style=3D"font-size:12pt;font-family:&quot;Bodoni MT&quot;,ser=
+if;color:rgb(34,34,34)">=C2=A0<span></span></span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt;line-height:normal;=
+font-size:11pt;font-family:Calibri,sans-serif"><b><span style=3D"font-size:=
+12pt;font-family:&quot;Bodoni MT&quot;,serif;color:rgb(34,34,34);background=
+:yellow">Conference-Details @:</span></b><b><span style=3D"font-size:12pt;f=
+ont-family:&quot;Bodoni MT&quot;,serif;color:rgb(34,34,34)">=C2=A0</span></=
+b><span style=3D"font-size:12pt;font-family:&quot;Bodoni MT&quot;,serif;col=
+or:rgb(34,34,34)"> </span><span style=3D"font-family:&quot;Segoe Print&quot=
+;"><a href=3D"http://shorl.com/pumuhilirylu"><span style=3D"color:blue">htt=
+p://shorl.com/pumuhilirylu</span></a><span></span></span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 0.0001pt;text-align:justify;=
+line-height:14.1pt;background:white;font-size:11pt;font-family:Calibri,sans=
+-serif"><span style=3D"font-size:12pt;font-family:&quot;Bodoni MT&quot;,ser=
+if;color:rgb(34,34,34)"><span>=C2=A0</span></span></p>
+
+<p class=3D"MsoNormal" style=3D"margin:0in 0in 6pt;text-align:justify;line-=
+height:normal;font-size:11pt;font-family:Calibri,sans-serif"><b><span style=
+=3D"font-size:12pt;font-family:&quot;Bodoni MT&quot;,serif;color:rgb(0,32,9=
+6)">Authors can utilize online Presentation
+facility.<span></span></span></b></p>
+
+
+
+
+
+<br></div>
+
+--000000000000810be105730ef000--

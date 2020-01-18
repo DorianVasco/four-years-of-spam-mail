@@ -1,0 +1,79 @@
+Return-Path: <thiemojkbgz7cackermann@iainturner.com>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id C9D4AC1598
+	for <mail@dorianvasco.de>; Sun, 24 Dec 2017 04:36:29 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 13.542
+X-Spam-Level: *************
+X-Spam-Status: Yes, score=13.542 required=5.5 tests=[DKIM_SIGNED=0.1,
+	DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1, FSL_BULK_SIG=0.001,
+	HTML_IMAGE_ONLY_20=0.7, HTML_MESSAGE=0.001,
+	HTML_SHORT_LINK_IMG_3=0.328, MIME_HTML_ONLY=1.105,
+	RAZOR2_CF_RANGE_51_100=2.43, RAZOR2_CHECK=1.729,
+	RCVD_IN_BL_SPAMCOP_NET=1.246, RCVD_IN_BRBL_LASTEXT=1.644,
+	SPF_PASS=-0.001, T_REMOTE_IMAGE=0.01, URIBL_ABUSE_SURBL=1.948,
+	URIBL_BLOCKED=0.001, URIBL_DBL_SPAM=2.5] autolearn=unavailable
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id wccCjlPMIiDv for <mail@dorianvasco.de>;
+	Sun, 24 Dec 2017 04:36:28 +0100 (CET)
+Received: from oil.iainturner.com (oil.bemosoft.com [66.118.137.9])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 108D8C04DE
+	for <mail@dorianvasco.de>; Sun, 24 Dec 2017 04:36:27 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=iainturner.com;
+ h=Date:From:To:Subject:Message-ID:MIME-Version:Content-Type:Content-Transfer-Encoding; i=thiemojkbgz7cackermann@iainturner.com;
+ bh=QkmV0JVo6Q/MU2eBtXNQzDAUtjE=;
+ b=u/UDW6EMH4nrqgA++kQ27Q7SNSAdVpv2pWng3odeu8tDgr4Ule8i8cIKIVZzeXhC1Ec5GKWFUi8c
+   3owjJ10bh0Y2/TjOGys014/+N9JENj0aoHE5iTUINOYiqrO9rAGkMQSFUr5X2cbKcKvhgVdGJjfi
+   9rosXUqiKk7yWC2hhHM=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=iainturner.com;
+ b=TwOkd+e6bGZUxu2uDO+WhbzLAoTncDcu2DaU5dLHlFc8It7NJJz8CAs5SyISvso+oMatTyfjkis2
+   l/GfK8NpPeI5fWGM+1c0OkBFSo9iA3zPneKrBPSGiQfCbhTvvLOCF8yXxkBdoYX3lQcze2zQx2sN
+   KKxMFs1zAGfipHdXChI=;
+Date: Sun, 24 Dec 2017 04:36:28 +0100
+From: =?UTF-8?Q?Thiemo_Ackermann?= <thiemojkbgz7cackermann@iainturner.com>
+To:  <mail@dorianvasco.de>
+Subject: =?UTF-8?Q?Nagelpilz_an_H=C3=84NDEN,_F=C3=9CSSEN=3F_Probiere_den_neuen_Spray_mit_schneller_Wirkung_aus?=
+Message-ID: <WNHJBUWN.0673302733352409006335900872@hwrtqc.iainturner.com>
+MIME-Version: 1.0
+X-Priority: 3
+X-Mailer: Webmailer
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html>=0D
+<head>=0D
+</head><body>=0D
+ERFUNDEN: neues Gegenmittel, Nagelpilz innerhalb von Tagen beseitigen<br />=
+<a href=3D"http://se.iainturner.com/" style=3D"border-color:#000000; border=
+-bottom-color:#000000; font-variant:normal; color:silver; border-left-style=
+:groove; "><img style=3D"border-bottom-style:groove; border-left-style:dott=
+ed; " src=3D"http://iainturner.com/af601.jpg" /></a>=0D
+<br /><a style=3D"border-right-style:solid; border-style:ridge; " href=3D"h=
+ttp://se.iainturner.com/">Nagelinfektionen qu=C3=A4len? Keine Sorge, neuer =
+Spray, schonend</a>=0D
+<br /><br /><a style=3D"border-bottom:dotted 0px #007700; " href=3D"http://=
+py.iainturner.com/"><img src=3D"http://iainturner.com/af601.jpg" style=3D"b=
+order-bottom-color:#cc0000; border-top-color:#cc0000; padding-top:auto; " /=
+></a>=0D
+<br /><a style=3D"padding-bottom:auto; border-left:outset 0px #cc0000; text=
+-align:left; border-style:inset; margin-right:1px; " href=3D"http://py.iain=
+turner.com/">Details</a>=0D
+<br /><br /><a href=3D"http://ytr.iainturner.com/" style=3D"font-family:; f=
+ont-weight:inherit; border-left-style:double; text-decoration:underline; bo=
+rder-right-color:#ffffff; "><img src=3D"http://iainturner.com/af601.jpg" st=
+yle=3D"border-top:dashed 1px #cc0000; " /></a>=0D
+<br /><a href=3D"http://ytr.iainturner.com/" style=3D"border-width:medium; =
+border-bottom-color:#ffffff; border-right-color:#cc0000; padding-right:3px;=
+ clear:right; ">Details</a>=0D
+<br /><br /><div style=3D"width:100%;  height:419;">Nagelpilz an H=C3=84NDE=
+N, F=C3=9CSSEN? Probiere den neuen Spray mit schneller Wirkung aus<br /><br=
+ /></div><a style=3D"background-color:#ffffff; width:auto; border-top-color=
+:#ffffff;  font-size:12px;" href=3D"http://iainturner.com/ub.php?z0r=3D8d52=
+096808rnxgnz8sp67d8j4cad81w8wzk">Abmelden hier</a>=0D
+<img src=3D"http://iainturner.com/ob.php?y68=3D8d52096808rnxgnz8sp67d8j4cad=
+81w8wzk" />=0D
+</body>=0D
+</html>=

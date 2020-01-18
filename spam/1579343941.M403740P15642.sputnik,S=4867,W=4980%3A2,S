@@ -1,0 +1,113 @@
+Received: from localhost by v22014122474822114.stilfilm.com
+	with SpamAssassin (version 3.3.2);
+	Wed, 22 Nov 2017 21:13:31 +0100
+From: "Svetlana" <Svetlanabrujn@youbroadband.in>
+To: <mail@dorianvasco.de>
+Subject: *****SPAM***** ***SPAM*** hey
+Date: Mon, 30 Oct 2017 11:18:43 +0530
+Message-Id: <20171030111843.59338.016439827.swift@mail.youbroadband.in>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	v22014122474822114.stilfilm.com
+X-Spam-Flag: YES
+X-Spam-Level: *********
+X-Spam-Status: Yes, score=9.6 required=5.0 tests=CK_HELO_DYNAMIC_SPLIT_IP,
+	HELO_DYNAMIC_IPADDR2,RCVD_IN_BRBL_LASTEXT,RCVD_IN_PSBL,RDNS_NONE,
+	URIBL_BLOCKED autolearn=no version=3.3.2
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----------=_5A15DA6B.F972B882"
+
+This is a multi-part message in MIME format.
+
+------------=_5A15DA6B.F972B882
+Content-Type: text/plain; charset=iso-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+
+Software zur Erkennung von "Spam" auf dem Rechner
+
+    v22014122474822114.stilfilm.com
+
+hat die eingegangene E-mail als mögliche "Spam"-Nachricht identifiziert.
+Die ursprüngliche Nachricht wurde an diesen Bericht angehängt, so dass
+Sie sie anschauen können (falls es doch eine legitime E-Mail ist) oder
+ähnliche unerwünschte Nachrichten in Zukunft markieren können.
+Bei Fragen zu diesem Vorgang wenden Sie sich bitte an
+
+    the administrator of that system
+
+Vorschau: You were so hot, let's talk again - drop me to the page -
+  I'll wait for my very sweet! My email nelatpr1elke@rambler.ru Svetlana :-)
+   [...] 
+
+Inhaltsanalyse im Detail:   (9.6 Punkte, 5.0 benötigt)
+
+Pkte Regelname              Beschreibung
+---- ---------------------- --------------------------------------------------
+ 2.7 RCVD_IN_PSBL           RBL: Received via a relay in PSBL
+                            [123.201.46.242 listed in psbl.surriel.com]
+ 1.6 RCVD_IN_BRBL_LASTEXT   RBL: RCVD_IN_BRBL_LASTEXT
+                            [123.201.46.242 listed in bb.barracudacentral.org]
+ 0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+                            See
+                            http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                             for more information.
+                            [URIs: rambler.ru]
+ 0.1 CK_HELO_DYNAMIC_SPLIT_IP Relay HELO'd using suspicious hostname
+                            (Split IP)
+ 1.3 RDNS_NONE              Delivered to internal network by a host with no rDNS
+ 3.9 HELO_DYNAMIC_IPADDR2   HELO-Rechnername verdächtig (IP-Adresse 2)
+
+
+
+------------=_5A15DA6B.F972B882
+Content-Type: message/rfc822; x-spam-type=original
+Content-Description: original message before SpamAssassin
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+
+Return-Path: <Svetlanabrujn@youbroadband.in>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 9F456D4B46
+	for <mail@dorianvasco.de>; Mon, 30 Oct 2017 06:48:50 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 8.292
+X-Spam-Level: ********
+X-Spam-Status: Yes, score=8.292 required=5.5 tests=[BAYES_50=0.8,
+	CK_HELO_DYNAMIC_SPLIT_IP=0.001, CK_HELO_GENERIC=0.249,
+	HELO_DYNAMIC_IPADDR2=3.607, PYZOR_CHECK=1.392,
+	RCVD_IN_BRBL_LASTEXT=1.449, RDNS_NONE=0.793, SPF_PASS=-0.001,
+	TVD_RCVD_IP=0.001, URIBL_BLOCKED=0.001] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id QIkuqscgQPFj for <mail@dorianvasco.de>;
+	Mon, 30 Oct 2017 06:48:49 +0100 (CET)
+Received: from 242-46-201-123.static.youbroadband.in (unknown [123.201.46.242])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 2CAC4D4B39
+	for <mail@dorianvasco.de>; Mon, 30 Oct 2017 06:48:48 +0100 (CET)
+To: <mail@dorianvasco.de>
+From: "Svetlana" <Svetlanabrujn@youbroadband.in>
+Reply-To: Svetlanabrujn@youbroadband.in
+Subject: ***SPAM*** hey
+Date: Mon, 30 Oct 2017 11:18:43 +0530
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+Sender: <Svetlanabrujn@youbroadband.in>
+X-Sender: <Svetlanabrujn@youbroadband.in>
+X-Report-Abuse: Please report abuse here:
+ http://www.youbroadband.in/contact/?type=abuse
+X-mid: LKLgJKierounNaTNXivZvUiqKWVtPEoQrKcTEGjBOIvsmqnfZJN
+List-Unsubscribe: <mailto:unsubscribe-101-610251b0d50824a569740d0332384cb8@mail.youbroadband.in>,
+ <http://mail.youbroadband.in/box.php?nl=7&c=101&m=4557&s=610251b0d50824a569740d0332384cb8&funcml=unsub2&luha=1>
+Message-ID: <20171030111843.59338.016439827.swift@mail.youbroadband.in>
+
+You were so hot, let's talk again - drop me to the page - I'll wait for my very sweet!
+
+My email nelatpr1elke@rambler.ru
+
+Svetlana :-)
+
+------------=_5A15DA6B.F972B882--
+

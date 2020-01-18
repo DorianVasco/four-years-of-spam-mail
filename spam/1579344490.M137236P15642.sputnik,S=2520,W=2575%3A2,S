@@ -1,0 +1,55 @@
+Return-Path: <pwrchute@almiko.eu>
+Delivered-To: mail@stilfilm.com
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 98907C055D
+	for <mail@stilfilm.com>; Sat, 20 Jul 2019 02:44:26 +0200 (CEST)
+X-Quarantine-ID: <cNbrUOQ6iENW>
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Amavis-Alert: BAD HEADER SECTION, Non-encoded 8-bit data (char E4 hex):
+	Subject: Gesch\303\244ftsvorschlag
+X-Spam-Flag: YES
+X-Spam-Score: 9.959
+X-Spam-Level: *********
+X-Spam-Status: Yes, score=9.959 required=5.5
+	tests=[AXB_XMAILER_MIMEOLE_OL_024C2=0.001, BAYES_99=3.5,
+	BAYES_999=0.2, FORGED_MUA_OUTLOOK=1.927, FROM_MISSPACED=0.001,
+	FROM_MISSP_EH_MATCH=1.244, FROM_MISSP_MSFT=0.001,
+	FROM_MISSP_USER=0.001, FROM_MISSP_XPRIO=0.001,
+	FSL_CTYPE_WIN1251=0.001, FSL_NEW_HELO_USER=0.001,
+	L_8BIT_MISMATCH=0.01, MISSING_HEADERS=1.021, MISSING_MID=0.497,
+	NSL_RCVD_FROM_USER=0.001, REPLYTO_WITHOUT_TO_CC=1.552,
+	SPF_HELO_NONE=0.001, SPF_PASS=-0.001] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id cNbrUOQ6iENW for <mail@stilfilm.com>;
+	Sat, 20 Jul 2019 02:44:17 +0200 (CEST)
+Received: from mail.almiko.eu (mail.almiko.eu [159.148.86.98])
+	(using TLSv1.2 with cipher AECDH-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id E779FC014D
+	for <mail@stilfilm.com>; Sat, 20 Jul 2019 02:44:12 +0200 (CEST)
+Received: from User (unknown [188.188.12.180])
+	by mail.almiko.eu (Postfix) with ESMTPA id 20E61235452;
+	Sat, 20 Jul 2019 00:06:21 +0300 (EEST)
+Reply-To: <Miechunwong@qq.com>
+From: "Ms.Mei Chun Wong"<pwrchute@almiko.eu>
+Subject: Geschäftsvorschlag
+Date: Sat, 20 Jul 2019 05:06:28 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <20190720004426.98907C055D@v22014122474822114.stilfilm.com>
+
+Ich bin Frau Mei Chun Wong, Exekutivdirektorin und Stellvertretende Vorsitzende der Geschäftsführung der DAH SING BANK AG; Ich habe einen lukrativen Geschäftsvorschlag für Sie, wenn Sie interessiert sind, kontaktieren Sie mich bitte per E-Mail unten.
+
+Mit freundlichen Grüßen,
+
+Frau Mei Chun Wong
+DAH SING BANK AG
+Hongkong. {Asien}
+E-Mail; Miechunwong@qq.com

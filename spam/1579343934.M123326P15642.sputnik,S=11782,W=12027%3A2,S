@@ -1,0 +1,245 @@
+Received: from localhost by v22014122474822114.stilfilm.com
+	with SpamAssassin (version 3.3.2);
+	Wed, 22 Nov 2017 20:53:43 +0100
+From: "Vision Restore" <visionrestore@nealmobird.us>
+To: <mail@dorianvasco.de>
+Subject: *****SPAM***** ***SPAM*** An Early Warning Sign Of Serious Vision Trouble ?
+Date: Mon, 5 Jun 2017 07:45:14 -0500
+Message-Id: <ew5v5ylbqhimrnyw-kks801g8wxqatfhd-254c3e94@nealmobird.us>
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	v22014122474822114.stilfilm.com
+X-Spam-Flag: YES
+X-Spam-Level: **********
+X-Spam-Status: Yes, score=10.6 required=5.0 tests=DIGEST_MULTIPLE,DKIM_SIGNED,
+	HTML_FONT_LOW_CONTRAST,HTML_MESSAGE,MIME_HTML_MOSTLY,MPART_ALT_DIFF,
+	NO_DNS_FOR_FROM,PYZOR_CHECK,RAZOR2_CF_RANGE_51_100,RAZOR2_CHECK,RDNS_NONE,
+	T_DKIM_INVALID,T_REMOTE_IMAGE,URIBL_ABUSE_SURBL,URIBL_BLOCKED autolearn=no
+	version=3.3.2
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----------=_5A15D5C7.294EB4DF"
+
+This is a multi-part message in MIME format.
+
+------------=_5A15D5C7.294EB4DF
+Content-Type: text/plain; charset=iso-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+
+Software zur Erkennung von "Spam" auf dem Rechner
+
+    v22014122474822114.stilfilm.com
+
+hat die eingegangene E-mail als mögliche "Spam"-Nachricht identifiziert.
+Die ursprüngliche Nachricht wurde an diesen Bericht angehängt, so dass
+Sie sie anschauen können (falls es doch eine legitime E-Mail ist) oder
+ähnliche unerwünschte Nachrichten in Zukunft markieren können.
+Bei Fragen zu diesem Vorgang wenden Sie sich bitte an
+
+    the administrator of that system
+
+Vorschau: This email must be viewed in HTML mode. SNC If you wear glasses,
+   contacts, or even if you think your vision can be improved, you NEED to know
+   about this... [...] 
+
+Inhaltsanalyse im Detail:   (10.6 Punkte, 5.0 benötigt)
+
+Pkte Regelname              Beschreibung
+---- ---------------------- --------------------------------------------------
+ 0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+                            See
+                            http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                             for more information.
+                            [URIs: nealmobird.us]
+ 1.9 URIBL_ABUSE_SURBL      Enthält URL in ABUSE-Liste (www.surbl.org) -
+                            changed from JP to ABUSE bug 7279
+                            [URIs: nealmobird.us]
+ 0.4 NO_DNS_FOR_FROM        DNS: Domain der Absendeadresse nicht im DNS
+                            registriert (kein MX/A Eintrag)
+ 0.0 MIME_HTML_MOSTLY       BODY: Mehrteilige MIME-Nachricht überwiegend in HTML
+ 0.0 HTML_MESSAGE           BODY: Nachricht enthält HTML
+ 0.0 HTML_FONT_LOW_CONTRAST BODY: HTML-Schriftfarbe ähnlich der
+                            Hintergrundfarbe
+ 0.7 MPART_ALT_DIFF         BODY: Nachrichtentext im Text- und HTML-Format
+                            unterscheiden sich
+ 2.4 RAZOR2_CF_RANGE_51_100 Razor2 Spam-Bewertung liegt zwischen 51 und
+                            100
+                            [cf: 100]
+ 0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+ 1.7 RAZOR2_CHECK           Gelistet im "Razor2"-System (http://razor.sf.net/)
+ 2.0 PYZOR_CHECK            Gelistet im Pyzor-System (http://pyzor.sf.net/)
+ 0.0 DIGEST_MULTIPLE        Mehrere Internettests (Razor, DCC, Pyzor, etc.)
+                            treffen zu
+ 1.3 RDNS_NONE              Delivered to internal network by a host with no rDNS
+ 0.0 T_DKIM_INVALID         DKIM-Signature header exists but is not valid
+ 0.0 T_REMOTE_IMAGE         Message contains an external image
+
+Die ursprüngliche Nachricht enthielt nicht ausschließlich Klartext
+(plain text) und kann eventuell eine Gefahr für einige E-Mail-Programme
+darstellen (falls sie z.B. einen Computervirus enthält).
+Möchten Sie die Nachricht dennoch ansehen, ist es wahrscheinlich
+sicherer, sie zuerst in einer Datei zu speichern und diese Datei danach
+mit einem Texteditor zu öffnen.
+
+
+------------=_5A15D5C7.294EB4DF
+Content-Type: message/rfc822; x-spam-type=original
+Content-Description: original message before SpamAssassin
+Content-Disposition: attachment
+Content-Transfer-Encoding: 8bit
+
+Return-Path: <3994-625753748-1152-mail=dorianvasco.de@mail.nealmobird.us>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id D5B24D3034
+	for <mail@dorianvasco.de>; Mon,  5 Jun 2017 14:47:27 +0200 (CEST)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 11.174
+X-Spam-Level: ***********
+X-Spam-Status: Yes, score=11.174 required=5.5 tests=[BAYES_99=3.5,
+	BAYES_999=0.2, DKIM_SIGNED=0.1, HTML_FONT_LOW_CONTRAST=0.001,
+	HTML_MESSAGE=0.001, MIME_HTML_MOSTLY=0.428, MPART_ALT_DIFF=0.79,
+	PYZOR_CHECK=1.392, RCVD_IN_BRBL_LASTEXT=1.449, RDNS_NONE=0.793,
+	SPF_PASS=-0.001, T_DKIM_INVALID=0.01, T_REMOTE_IMAGE=0.01,
+	URIBL_BLOCKED=0.001, URIBL_DBL_SPAM=2.5] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id yGPvUCwKSf1I for <mail@dorianvasco.de>;
+	Mon,  5 Jun 2017 14:47:22 +0200 (CEST)
+Received: from harry.nealmobird.us (unknown [199.115.231.167])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id CF82FC2C48
+	for <mail@dorianvasco.de>; Mon,  5 Jun 2017 14:47:20 +0200 (CEST)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=nealmobird.us;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=visionrestore@nealmobird.us;
+ bh=9z/nDXLNoB3rq+XKXiU1RPeyKv8=;
+ b=IhMeaxG5mJW3qDKL5J4D57pbQMdx5iu0/2EEqhI8BXb/ZzgGM0pLrt+hupqg6QAMqWdA+SinjPE9
+   ORFF0CMRU9aJ+MsCfowY1xIo72gnu6nK3yrmpQ/Lt9I8IhEEFBd6wnGHTZK36IkIOYMiblNggrbg
+   AWw7aXmVmIHSLHquXNw=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=nealmobird.us;
+ b=kZLicnuZjhvH06MP0sxBoNSIkG0k+FCH94bRwCfvd1FdBy8ul4Eac36lKIVJEazo4an4OxVs2Stt
+   V8ix/cwuLhWBCOdXWLsNDHSr5qo20p7mFf2ggbNlhqcbt+iuVGx1tqjVpXPgkIbj8M8EkG/1DJ7q
+   RXeHCtosBosxTmyi4pQ=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="3e9fc88f0de7a18a4d7b8738ec55576f"
+Date: Mon, 5 Jun 2017 07:45:14 -0500
+From: "Vision Restore" <visionrestore@nealmobird.us>
+Reply-To: "Vision Restore" <visionrestore@nealmobird.us>
+Subject: ***SPAM*** An Early Warning Sign Of Serious Vision Trouble ?
+To: <mail@dorianvasco.de>
+Message-ID: <ew5v5ylbqhimrnyw-kks801g8wxqatfhd-254c3e94@nealmobird.us>
+
+--3e9fc88f0de7a18a4d7b8738ec55576f
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+This email must be viewed in HTML mode.
+
+--3e9fc88f0de7a18a4d7b8738ec55576f
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+	<title>SNC</title>
+</head>
+<body><a href="http://nealmobird.us/1ExEpbl_0Po1Q8WY2P9XZHnXfEO2ahUaxCIufGlyjVY"><img border="0" src="http://nealmobird.us/dFp0dPdJddTyTyxWvRN-_4IETYWrZ4P1CvmVsv9sg0Q" /> </a>
+<p>&nbsp;</p>
+
+<table border="0" cellpadding="35" cellspacing="0" style="font-size: 16px;font-family: Arial,sans-serif; text-align:justify; border: solid 3px #000000;" width="600">
+	<tbody>
+		<tr>
+			<td style="height: 100px;">
+			<div align="left">
+			<div>
+			<div style="color: rgb(51, 51, 51); font-family: Arial, Verdana, sans-serif; font-size: 13.3333px; background-color: rgb(255, 255, 255);">
+			<div><span style="font-size:16px;">If you wear glasses, contacts, or even if you think your vision can be<br />
+			improved, you NEED to know about this...</span></div>
+
+			<div>&nbsp;</div>
+
+			<div>
+			<p align="left"><a href="http://nealmobird.us/AkBdrmYeV7Rzv9mIc_uEjwC5D0UaALSmFykjBLQRE2U"><img src="http://nealmobird.us/31ecdb5441b76ca3f0.jpg" /></a></p>
+			</div>
+
+			<div><span style="font-size:16px;">In the link below, you&#39;ll discover 1 Weird Trick that will drastically improve your vision</span></div>
+
+			<div>&nbsp;</div>
+
+			<div><span style="font-size:18px;">=&gt; <a href="http://nealmobird.us/AkBdrmYeV7Rzv9mIc_uEjwC5D0UaALSmFykjBLQRE2U"><strong>#1 Trick to Improve Your Vision Today</strong></a></span></div>
+			</div>
+			</div>
+
+			<div>&nbsp;</div>
+
+			<div>
+			<div style="line-height: 22.4px;"><span style="font-size:16px;">To your success!</span><br />
+			&nbsp;</div>
+			</div>
+
+			<div>&nbsp;</div>
+			</div>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><br />
+<br />
+<br />
+&nbsp;</p>
+&nbsp;
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+	<tbody>
+		<tr>
+			<td bgcolor="#ffffff" width="100%">
+			<p style="font-family:arial,helvetica,sans-serif; font-size:12px; line-height:20px; color:#5e5e5e; margin: 0px 0px 5px;">&nbsp;</p>
+
+			<p style="font-family:arial,helvetica,sans-serif; font-size:12px; line-height:20px; color:#5e5e5e; margin: 0px 0px 5px;">1 Place Ville Marie, 39th Floor | Montreal, Quebec H3b4m7, Canada</p>
+			</td>
+			<td bgcolor="#ffffff" width="2%">
+			<p style="font-family:arial,helvetica,sans-serif; font-size:9px; line-height:13px; color:#5e5e5e;">Email Marketing by <img alt="iContact - Try It Free!" border="0" height="38" src="http://nealmobird.us/f69163cb7551f81db3.gif" width="117" /></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<div style="background-color:#FFFFFF"><a href="http://nealmobird.us/irBc5PvMA_yjfOdm0VDCsvpj3wzhd2AYyN1xzaw-uFk" style="font-family: Arial, Helvetica, san-serif; font-size: 12px; line-height: 20px; color: #115880; font-weight: bold; text-decoration: none; background-color:#FFFFFF;">Unsu_bscribe</a></div>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<font color="#FCFAE4" face="arial,helvetica,sans-serif" size="-10">Other notable early missionaries are Gildas and the Irish saint Columbanus. In total, Brittany numbers more than 300 &quot;saints&quot; (only a few recognised by the Catholic Church) and, since the 19th century at least, it has been kn as one of the most devoutly Catholic regions in France, together with the neighbouring Pays de la Loire region. The proportion of students attending Catholic private schools is the highest in France. The patron saint of Brittany is Saint Anne, the Virgin&#39;s mother, but Ivo of Kermartin, a 13th-century priest, ed Saint-Yves in French and Sant-Erwan in Breton, can also be considered as a patron saint. His feast, the 19 May, is Brittany&#39;s national day. A chapel and a calvary in Locronan, Finist&egrave;re. Many distinctive tritions and customs have also been preserved in Brittany. Among them, the &quot;Pardons&quot; are one of the most tritional demonstrations of popular Catholicism.
+  These penitential ceremonies occur in some villages in Lower Brittany on the feast day of the parish&#39;s saint. The penitents a procession and they walk together to a shrine, a church or any sacred place. Some Pardons are reputed for their length, and they all finish by large meals and popular feasts. A sculpted Ankou in Ploudiry. T is a very old pilgrimage ed the Tro Breizh (tour of Brittany), w the pilgrims walk around Brittany from the grave of one of the seven founder saints to another. Historiy, the pilgrimage was me in one trip (a total distance of around 600 km) for all seven saints. ays, however, pilgrims complete the circuit over the course of several years. In 2002, the Tro Breizh included a special pilgrimage to Wales, symboliy making the reverse journey of the Welshmen Sant Paol, Sant Brieg, and Sant Samzun. </font><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+&nbsp;
+<p align="left"><a href="http://nealmobird.us/Mr6Zzn5binAQFAllR69IpZt6Ym1ONslDLb9D1EH1kAM"><img src="http://nealmobird.us/aa3ff3e7311c75462e.jpg" /></a></p>
+</body>
+</html>
+
+--3e9fc88f0de7a18a4d7b8738ec55576f--
+
+
+------------=_5A15D5C7.294EB4DF--
+

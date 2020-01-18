@@ -1,0 +1,82 @@
+Return-Path: <eleonore_luitpold@starinfranet.com>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id BC73BD279E
+	for <mail@dorianvasco.de>; Thu, 16 Feb 2017 21:24:16 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 3.098
+X-Spam-Level: ***
+X-Spam-Status: Yes, score=3.098 required=2 tests=[BAYES_50=0.8,
+	DKIM_SIGNED=0.1, HTML_MESSAGE=0.001, PYZOR_CHECK=1.392,
+	RCVD_IN_DNSWL_BLOCKED=0.001, RDNS_NONE=0.793, T_DKIM_INVALID=0.01,
+	URIBL_BLOCKED=0.001] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.yourvserver.net [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id yqPSw7e8qnla for <mail@dorianvasco.de>;
+	Thu, 16 Feb 2017 21:24:13 +0100 (CET)
+Received: from sta.starinfranet.com (unknown [162.144.200.141])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id A7E75D1EE7
+	for <kontakt@dorianvasco.de>; Thu, 16 Feb 2017 21:24:12 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed;
+	d=starinfranet.com; s=default; h=Content-Transfer-Encoding:Content-Type:
+	MIME-Version:Message-ID:From:Date:Subject:To:Sender:Reply-To:Cc:Content-ID:
+	Content-Description:Resent-Date:Resent-From:Resent-Sender:Resent-To:Resent-Cc
+	:Resent-Message-ID:In-Reply-To:References:List-Id:List-Help:List-Unsubscribe:
+	List-Subscribe:List-Post:List-Owner:List-Archive;
+	bh=SL5kh2L6+qFjekMOltGGPMsHln1z+0+grOYf7pgs/J4=; b=HSrlubqzEITfaVZW4rmCHRdFTi
+	D6muftfXcXzk8e6AYSKU6XzBeFwFca4mnhK9P64VXNaDVbnnyUvo4cAXxtAWpCWKiJf/Z4Aa8fM0x
+	BzPA0B5ajqfuvBY8Gw7wizmGjqEyrbn3jeglYjNUfy/+k0mHX7LgDMm6dd7CGeblj56c=;
+Received: from starinfr by sta.starinfranet.com with local (Exim 4.88)
+	(envelope-from <eleonore_luitpold@starinfranet.com>)
+	id 1ceSb2-0003Qi-E1
+	for kontakt@dorianvasco.de; Thu, 16 Feb 2017 14:24:08 -0600
+To: kontakt@dorianvasco.de
+Subject: ***SPAM*** Suche nach einem reichen Mann, kann seine devote Sklavin
+	sein
+Date: Thu, 16 Feb 2017 14:24:08 -0600
+From: Eleonore Luitpold <eleonore_luitpold@starinfranet.com>
+Message-ID: <c1c8f5ce9fb171a3a103343fa69a2500@www.starinfranet.com>
+X-Priority: 3
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_c1c8f5ce9fb171a3a103343fa69a2500"
+Content-Transfer-Encoding: 8bit
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - sta.starinfranet.com
+X-AntiAbuse: Original Domain - dorianvasco.de
+X-AntiAbuse: Originator/Caller UID/GID - [531 500] / [47 12]
+X-AntiAbuse: Sender Address Domain - starinfranet.com
+X-Get-Message-Sender-Via: sta.starinfranet.com: authenticated_id: starinfr/from_h
+X-Authenticated-Sender: sta.starinfranet.com: eleonore_luitpold@starinfranet.com
+X-Source: /opt/php53/bin/php-cgi
+X-Source-Args: /opt/php53/bin/php-cgi /home/starinfr/public_html/articles/utf61.php 
+X-Source-Dir: starinfranet.com:/public_html/articles
+
+--b1_c1c8f5ce9fb171a3a103343fa69a2500
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+Suche nach einem verheirateten Kerl  für One-Night-Stand.
+Ich habe schöne Freundin, und wir könnten Sex zu Dritt haben.
+[ http://proftech.com/water.php?w=136&6ovt5MQfBAXXuEYUzL5NcJ=x1k&3AJ=382&4Q=8TrG ] Hier sind unsere Fotos. Schreib mir, und ich werde dich wählen!
+
+
+--b1_c1c8f5ce9fb171a3a103343fa69a2500
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+<html>
+<body>
+Suche nach einem verheirateten Kerl  für One-Night-Stand.<br>
+Ich habe schöne Freundin, und wir könnten Sex zu Dritt haben.<br>
+<a href="http://proftech.com/water.php?w=136&6ovt5MQfBAXXuEYUzL5NcJ=x1k&3AJ=382&4Q=8TrG">Hier sind unsere Fotos. Schreib mir, und ich werde dich wählen!</a><br>
+</body>
+</html>
+
+
+
+--b1_c1c8f5ce9fb171a3a103343fa69a2500--
+

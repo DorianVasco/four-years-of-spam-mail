@@ -1,0 +1,64 @@
+Return-Path: <jportfolio.managements-mail=dorianvasco.de@epay.com>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id EE1D1D1DF6
+	for <mail@dorianvasco.de>; Sun, 10 Nov 2019 01:29:50 +0100 (CET)
+Authentication-Results: v22014122474822114.stilfilm.com; dkim=permerror
+	reason="key not found"
+	header.d=epay.com header.i=jportfolio.managements@epay.com
+	header.b=XBxOXadM; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: 3.795
+X-Spam-Level: ***
+X-Spam-Status: No, score=3.795 required=5.5 tests=[BAYES_60=1.5,
+	DKIM_INVALID=0.1, DKIM_SIGNED=0.1, FREEMAIL_FORGED_REPLYTO=2.095]
+	autolearn=no autolearn_force=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id zDOtpBP3-PzA for <mail@dorianvasco.de>;
+	Sun, 10 Nov 2019 01:29:49 +0100 (CET)
+Received: from mail.iserviceltd.com (mail.iserviceltd.com [157.245.160.152])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id AB683D191B
+	for <mail@dorianvasco.de>; Sun, 10 Nov 2019 01:29:46 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=epay.com;
+ h=Content-Type:MIME-Version:Content-Transfer-Encoding:Content-Description:Subject:To:From:Date:Reply-To:Message-ID; i=jportfolio.managements@epay.com;
+ bh=18TjuDxD2VZoK6udkStVVKxmrSQ=;
+ b=XBxOXadMStm1JUUW2QZ9gbqCW9/IHUzTlo1rsTMb3V+sd6cqokGvll1aGnIB7Tm1yNgOqJmk4jbr
+   vHLrGxiOWBOQq8ae1spAE5njkcQTCGkW7ieq23B4IZITxEWBaWKwI5rauTML0FBnjITE3vJRKG16
+   DTGRderfmO9LdnEBtXKnezTAjRNpA168zwP9y1UIiS6+Etk1SYEuThE9l0XG01N9bhLx7jbr33gP
+   OeLhLWoP0ixRqmwgruBuCReG48zqKTmKBNAIV86K9Jq10oV4XPLJl8ulHc+nRQbqBTDzi8YhlJ6b
+   CvIhazYiNjQQkRbcybxL80KAd4rJSF92sa+8xQ==
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=epay.com;
+ b=QOSPMSWHVaS4dRmgW6aqtOnokYRD48URQuHY76VP3D4TN1B16eBSvciND629BaZ6IXp4uEmh8U1A
+   koVAfAk+9/Jl+w2wwaHwplEQFgNaxfCRiCQzOmsxDqQa0NSc8PdbUnGSl2V5Ibk27XCqtPg1sq3i
+   vMofmcxntqmb8K2ClfjHavjok3JgzeU0ESPKo/KQ0qJXm8TiHfkmPfaSGp7uyYhGSTbWQS3lPNFk
+   BJBxR+XEVqvPMWxXmKq+hht4zz0f2J4B9/ChUePB1rvraEsgTQbU7TkBRMa+1i8myJp6yt+ZM/KA
+   xO+GiOXkU8yxZ2xY3s7ShU9NCUxvbYNHjxpbDA==;
+DKIM-Filter: OpenDKIM Filter v2.11.0 mail.iserviceltd.com DA9AC71422
+Content-Type: text/plain; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+Subject: RE: 9 November
+To: mail@dorianvasco.de
+From: "Portfolio Managements " <jportfolio.managements@epay.com>
+Date: Sun, 10 Nov 2019 02:29:39 +0200
+Reply-To: portfolio.managements@aol.com
+Message-ID: <0.0.0.3ED.1D5975DF1E2259E.0@mail.iserviceltd.com>
+
+Good Day ,
+
+I am outsourcing individuals with proficient abilities to manage a vast wea=
+lth for an Arab Angel Investor with beleaguered political situation. These =
+funds can be invested in tranches of 50 M or a tranche that is suitable for=
+ the portfolio manager.
+
+If you have Investment and/or Portfolio Management abilities, credible proj=
+ects in need of funding or existing businesses requiring expansion, we woul=
+d be delighted to work with you.
+
+Sincerely,
+
+John

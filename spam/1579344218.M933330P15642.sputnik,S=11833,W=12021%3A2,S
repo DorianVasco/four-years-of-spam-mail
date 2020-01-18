@@ -1,0 +1,188 @@
+Return-Path: <ajnna01@scipg.net>
+Delivered-To: mail@stilfilm.com
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 85E29D51CA
+	for <mail@stilfilm.com>; Sun, 10 Dec 2017 20:57:23 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 6.662
+X-Spam-Level: ******
+X-Spam-Status: Yes, score=6.662 required=5.5 tests=[DKIM_SIGNED=0.1,
+	DKIM_VALID=-0.1, FSL_BULK_SIG=0.001, HTML_MESSAGE=0.001,
+	RAZOR2_CF_RANGE_51_100=2.43, RAZOR2_CHECK=1.729,
+	RCVD_IN_DNSWL_NONE=-0.0001, URIBL_BLOCKED=0.001, URIBL_DBL_SPAM=2.5]
+	autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 8F1WR7g8YMXA for <mail@stilfilm.com>;
+	Sun, 10 Dec 2017 20:57:21 +0100 (CET)
+Received: from mail-qt0-f194.google.com (mail-qt0-f194.google.com [209.85.216.194])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id 796A2C385C
+	for <mail@stilfilm.com>; Sun, 10 Dec 2017 20:57:20 +0100 (CET)
+Received: by mail-qt0-f194.google.com with SMTP id u10so33278197qtg.2
+        for <mail@stilfilm.com>; Sun, 10 Dec 2017 11:57:21 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=scipg-net.20150623.gappssmtp.com; s=20150623;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=h+dzDV0aMO4nHPa8rHihNOamwQGRgGsQQtfj1s/Qumo=;
+        b=HFPqL0QyvWdGl7M6ZyT28TGkolMBsnhwUBUwo1AR4Vi56wjTDfGsWtxOcDp96puMid
+         qTKhtFFcjo0cwQyEBVbEAyuWr0J7KiQeu3p/0BNSiSs21zd7lHKRIRL6pK5QHTouNpkA
+         pjD/OlQpMq7zZmH2w5qyjwnYLYeAihmE/bUC6OwFo8QtUs/5yb51uUZzamGgcrtKK/Xw
+         qWMNK3nfDWPSCicZDITC7fKcotYDHXx/TA/qYV6gH1I8qIS2BTtob1iuZURY2uVWMfUS
+         txdELviQ6SxibksrT248EnNA/VtSqatPZ9y9AMXoHZDMCNl0sfB1s6zyvBweNvoErWT2
+         +B5w==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=h+dzDV0aMO4nHPa8rHihNOamwQGRgGsQQtfj1s/Qumo=;
+        b=Hr+G7pG6v9y72cE21C2FX7uuW3Htx1ue8RTjzaJqre0wvkN7Muel5xD07GdXBJ7/yA
+         Zr7YdwLgXUynV3lQedStXuHlIsU6tsVk6JgbqqyIW0W6AP/irIRFgfGRWn0l2WBh7ZrM
+         Y4LqeOQl5PQmH800ss0D/qaKrHUr5v81k+Q5nIsmCUP+LAro6uHIwpGDQk8rBtB6yA9f
+         Tkj3Ce1LFpRM/8OUQeDyq/HwbJ+/ftwpf1sg8aiiYxgV+0cp8Nxj/u3dkgrxFIow+xqb
+         nJkRRgOl3EgWsMtQyTdH6d72ThVR0eitnmmZR5pXiCwpddwlzQXSFCD96ofh2IK22dI4
+         mj/g==
+X-Gm-Message-State: AJaThX5+6u22jldf3E89Q5pREvt3ug46+h6y2T49Ualz/+PzGz/uFY+u
+	K7fsagEfTNDMWLASwYqyi9j39Qr32sn8Z/BO8ien6mtCFnFdaQ==
+X-Google-Smtp-Source: AGs4zMa52H1cOuxB3uKI+TdfOssnM3cBIrsA0Qn1mFSTxGdxLCd6aGoB6ulHUtTMqu+qTBpePsAYjgyTBQc2jeNnHuA=
+X-Received: by 10.129.103.6 with SMTP id b6mr26264091ywc.417.1512935839504;
+ Sun, 10 Dec 2017 11:57:19 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.13.202.138 with HTTP; Sun, 10 Dec 2017 11:57:19 -0800 (PST)
+From: "J. AJNNA" <ajnna01@scipg.net>
+Date: Mon, 11 Dec 2017 03:57:19 +0800
+Message-ID: <CALYi29cNG8nK9ec_OH+GiOUF3dsqno5_dOc+i1j9M-gBdLDToQ@mail.gmail.com>
+Subject: Publish Your Article and Be Editorial Board Members/Reviewers
+To: mail@stilfilm.com
+Content-Type: multipart/alternative; boundary="001a1147fdee482161056001d313"
+
+--001a1147fdee482161056001d313
+Content-Type: text/plain; charset="UTF-8"
+
+Science ---- Publishing ---- Group
+Dear Professor,
+In order to provide you scholars a better condition to publish papers and
+share more recent research achievements and findings, SciencePG sincerely
+invites scholars and researchers to submit new manuscripts to the journals
+or become one of our editorial board members or reviewers.
+Open Access (OA)
+Paper-reviewing
+30-50 Days Paper Publication
+Indexing Database - The majority of journals in our platform have been
+indexed by WorldCat, CrossRef, JournalSeek, Electronic Journals Library
+(EJL), Zeitschriftendatenbank (ZDB), EZB, Academickeys, ResearchBib, CNKI,
+Polish Scholarly Bibliography, Wissenschaftszentrum Berlin etc.
+List of the Featured Journals
+International Journal of Science, Technology and Society
+<http://www.ijsts.net/>
+Psychology and Behavioral Sciences <http://www.psybehav.org/>
+American Journal of Life Sciences <http://www.ajlifesciences.org/>
+International Journal of Materials Science and Applications
+<http://www.ijmsa.org/>
+International Journal of Transportation Engineering and Technology
+<http://www.ijtet.org/>
+American Journal of Clinical and Experimental Medicine
+<http://www.ajcem.net/>
+Earth Sciences <http://www.earchsciences.org/>
+American Journal of Energy Engineering <http://www.journalenergy.org/>
+Invitation to Submit Your New Manuscript
+SciencePG is an independent academic publisher with an editorial team
+comprising many of the world's leading researchers. If you have some new
+works in your specialized or interested field, welcome to submit your
+papers to the corresponding Journals or Special Issues so as to share your
+ideas with people around the world. Submission via online system:
+http://www.sciencepg.com/login
+Joining Us as an Editorial Member or a Reviewer
+For purpose of expanding the editorial board and reviewer team, we would
+like to invite you to be the editorial member or reviewer of our journals
+with great sincerity. If you are eager for more details of the Benefits and
+Responsibilities of the editorial member or reviewer, please feel free to
+visit the following link:
+http://www.sciencepg.com/info/joinasaneditorialmember
+
+--001a1147fdee482161056001d313
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><br><br><div style=3D"background:rgb(182,182,182) none rep=
+eat scroll 0% 0%;font:normal normal normal normal 13px/22px Arial;padding:8=
+0px 0px 200px 20px;width:100%;color:rgb(51,51,51)">  <div style=3D"backgrou=
+nd:rgb(255,255,255) none repeat scroll 0% 0%;width:720px"><div style=3D"bac=
+kground:rgb(0,175,242) none repeat scroll 0% 0%;height:50px;color:rgb(255,2=
+55,255);line-height:50px;padding-left:20px;font-size:15px">Science ---- Pub=
+lishing ---- Group </div><div style=3D"margin:0px auto;width:680px;padding-=
+top:20px"><div style=3D"font-size:12px;border-bottom:1px solid rgb(204,204,=
+204)"><div style=3D"padding-bottom:5px">Dear Professor,</div><div style=3D"=
+line-height:22px;padding-bottom:10px"> 			In order to provide you scholars =
+a better condition to publish papers and share more recent research achieve=
+ments and findings, SciencePG sincerely invites scholars and researchers to=
+ submit new manuscripts to the journals or become one of our editorial boar=
+d members or reviewers. 			</div></div><div style=3D"padding:15px 0px 0px">=
+<div style=3D"background:rgb(67,172,250) none repeat scroll 0% 0%;width:240=
+px;float:right"><div style=3D"padding:10px 6px;color:rgb(68,68,68);line-hei=
+ght:24px;font-size:14px;font-weight:bold"><div><div>Open Access (OA)</div><=
+/div><div><div>Paper-reviewing</div></div><div><div>30-50 Days Paper Public=
+ation</div></div><div><div style=3D"width:210px;float:left">Indexing Databa=
+se - <span style=3D"font-size:12px;font-weight:100">The majority of journal=
+s in our platform have been indexed by WorldCat, CrossRef, JournalSeek, Ele=
+ctronic Journals Library (EJL), Zeitschriftendatenbank (ZDB), EZB, Academic=
+keys, ResearchBib, CNKI, Polish Scholarly Bibliography, Wissenschaftszentru=
+m Berlin etc.</span></div></div></div></div><div style=3D"width:420px;float=
+:left"><div style=3D"color:rgb(3,111,114);line-height:22px;padding-bottom:4=
+px;font-family:&quot;Times New Roman&quot;;font-size:22px;font-weight:bold"=
+>List of the Featured Journals</div><div style=3D"line-height:28px;padding-=
+top:5px;font-size:13px"><div style=3D"border-bottom:1px dashed rgb(204,204,=
+204)"><div style=3D"float:left"><a style=3D"color:rgb(0,0,255);text-decorat=
+ion:none" href=3D"http://www.ijsts.net/" target=3D"_blank">International Jo=
+urnal of Science, Technology and Society</a></div></div><div style=3D"borde=
+r-bottom:1px dashed rgb(204,204,204)"><div style=3D"float:left"><a style=3D=
+"color:rgb(0,0,255);text-decoration:none" href=3D"http://www.psybehav.org/"=
+ target=3D"_blank">Psychology and Behavioral Sciences</a></div></div><div s=
+tyle=3D"border-bottom:1px dashed rgb(204,204,204)"><div style=3D"float:left=
+"><a style=3D"color:rgb(0,0,255);text-decoration:none" href=3D"http://www.a=
+jlifesciences.org/" target=3D"_blank">American Journal of Life Sciences</a>=
+</div></div><div style=3D"border-bottom:1px dashed rgb(204,204,204)"><div s=
+tyle=3D"float:left"><a style=3D"color:rgb(0,0,255);text-decoration:none" hr=
+ef=3D"http://www.ijmsa.org/" target=3D"_blank">International Journal of Mat=
+erials Science and Applications</a></div></div><div style=3D"border-bottom:=
+1px dashed rgb(204,204,204)"><div style=3D"float:left"><a style=3D"color:rg=
+b(0,0,255);text-decoration:none" href=3D"http://www.ijtet.org/" target=3D"_=
+blank">International Journal of Transportation Engineering and Technology</=
+a></div></div><div style=3D"border-bottom:1px dashed rgb(204,204,204)"><div=
+ style=3D"float:left"><a style=3D"color:rgb(0,0,255);text-decoration:none" =
+href=3D"http://www.ajcem.net/" target=3D"_blank">American Journal of Clinic=
+al and Experimental Medicine</a></div></div><div style=3D"border-bottom:1px=
+ dashed rgb(204,204,204)"><div style=3D"float:left"><a style=3D"color:rgb(0=
+,0,255);text-decoration:none" href=3D"http://www.earchsciences.org/" target=
+=3D"_blank">Earth Sciences</a></div></div><div style=3D"border-bottom:1px d=
+ashed rgb(204,204,204)"><div style=3D"float:left"><a style=3D"color:rgb(0,0=
+,255);text-decoration:none" href=3D"http://www.journalenergy.org/" target=
+=3D"_blank">American Journal of Energy Engineering</a></div></div></div></d=
+iv></div><div style=3D"margin:15px 0px;border-color:rgb(0,148,227);border-s=
+tyle:solid;border-width:5px"><div style=3D"padding:12px 8px"><div style=3D"=
+color:rgb(3,111,114);line-height:120%;font-family:&quot;Times New Roman&quo=
+t;;font-size:20px;font-weight:bold">Invitation to Submit Your New Manuscrip=
+t</div><div style=3D"padding:10px 0px 0px;line-height:22px;font-size:12px">=
+ 			SciencePG is an independent academic publisher with an editorial team c=
+omprising many of the world&#39;s leading researchers. If you have some new=
+ works in your specialized or interested field, welcome to submit your pape=
+rs to the corresponding Journals or Special Issues so as to share your idea=
+s with people around the world. Submission via online system: <br><a style=
+=3D"color:rgb(0,0,255);text-decoration:none;white-space:nowrap" href=3D"htt=
+p://www.sciencepg.com/login" target=3D"_blank">http://www.sciencepg.com/log=
+in</a> 			</div></div></div><div style=3D"padding:0px 0px 15px"><div style=
+=3D"color:rgb(3,111,114);font-family:&quot;Times New Roman&quot;;font-size:=
+20px;font-weight:bold">Joining Us as an Editorial Member or a Reviewer</div=
+><div style=3D"line-height:20px;padding-top:10px;font-size:12px"> 			For pu=
+rpose of expanding the editorial board and reviewer team, we would like to =
+invite you to be the editorial member or reviewer of our journals with grea=
+t sincerity. If you are eager for more details of the Benefits and Responsi=
+bilities of the editorial member or reviewer, please feel free to visit the=
+ following link: <br><a style=3D"color:rgb(0,0,255);text-decoration:none;wh=
+ite-space:nowrap" href=3D"http://www.sciencepg.com/info/joinasaneditorialme=
+mber" target=3D"_blank">http://www.sciencepg.com/info/joinasaneditorialmemb=
+er</a> 			</div></div></div><div style=3D"background:rgb(0,153,255) none re=
+peat scroll 0% 0%;width:100%;height:30px">=C2=A0</div></div></div></div>
+
+--001a1147fdee482161056001d313--

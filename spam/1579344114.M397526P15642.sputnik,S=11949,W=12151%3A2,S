@@ -1,0 +1,202 @@
+Return-Path: <Allisa.Ally@hotmail.com>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id A04FED2BA0
+	for <mail@dorianvasco.de>; Mon, 27 Feb 2017 10:38:52 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 2.994
+X-Spam-Level: **
+X-Spam-Status: Yes, score=2.994 required=2 tests=[BAYES_50=0.8,
+	DEAR_SOMETHING=1.973, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, FREEMAIL_FROM=0.001, HTML_MESSAGE=0.001,
+	MISSING_HEADERS=1.021, RCVD_IN_DNSWL_LOW=-0.7, RP_MATCHES_RCVD=-0.001,
+	SPF_PASS=-0.001] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.yourvserver.net [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id fFEAQxWbFcj6 for <mail@dorianvasco.de>;
+	Mon, 27 Feb 2017 10:38:51 +0100 (CET)
+Received: from BLU004-OMC1S23.hotmail.com (blu004-omc1s23.hotmail.com [65.55.116.34])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id 12E3AD2B9F
+	for <mail@dorianvasco.de>; Mon, 27 Feb 2017 10:38:50 +0100 (CET)
+Received: from IND01-MA1-obe.outbound.protection.outlook.com ([65.55.116.9]) by BLU004-OMC1S23.hotmail.com over TLS secured channel with Microsoft SMTPSVC(7.5.7601.23008);
+	 Mon, 27 Feb 2017 01:38:50 -0800
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=hotmail.com;
+ s=selector1; h=From:Date:Subject:Message-ID:Content-Type:MIME-Version;
+ bh=aMPsItupNSIcV736vjnvTgLNI4QZzyxH1GNhI71TYi8=;
+ b=TxHRvzfscxsolnAy+wdtFJeuwb1PzoUHvu5Nr4O1ylO1BR3bef2CwQEiUxN+zkq35jhovlszdHykhNBFEID3eEfRKn1Jm/BV6XybypMFex8bbA4aZHOemRvdQycTt8/GkjAgXKcFCV41vC/MgXrop51kJzluU0Zn0/NcCCiIPKUF6P1Vcm2Qxh3qfG+hbPt0+2tvPq9NL05OQvMLTBckahj443f882vds0eOW1ouadh3IBdmxbuStGgAIxA/oemc8KCJpraKhANtg37/TC/TORWsuWIJpHSDcIdAglYsRZovG3UhpALY6dodntLB3LcoR4IGk+fvha+ZNNUCobysKQ==
+Received: from MA1IND01FT006.eop-IND01.prod.protection.outlook.com
+ (10.152.200.57) by MA1IND01HT005.eop-IND01.prod.protection.outlook.com
+ (10.152.200.107) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id 15.1.904.16; Mon, 27
+ Feb 2017 09:37:51 +0000
+Received: from MA1PR01MB0454.INDPRD01.PROD.OUTLOOK.COM (10.152.200.55) by
+ MA1IND01FT006.mail.protection.outlook.com (10.152.200.101) with Microsoft
+ SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id 15.1.933.11 via
+ Frontend Transport; Mon, 27 Feb 2017 09:37:50 +0000
+Received: from MA1PR01MB0454.INDPRD01.PROD.OUTLOOK.COM ([10.164.121.23]) by
+ MA1PR01MB0454.INDPRD01.PROD.OUTLOOK.COM ([10.164.121.23]) with mapi id
+ 15.01.0933.019; Mon, 27 Feb 2017 09:37:48 +0000
+From: Allisa Ally <Allisa.Ally@hotmail.com>
+Subject: ***SPAM*** Improve your business website ranking!!
+Thread-Topic: Improve your business website ranking!!
+Thread-Index: AQHSkNz6wIHRU+uZ4kCtU8jaxH3dlQ==
+Date: Mon, 27 Feb 2017 09:37:48 +0000
+Message-ID: <MA1PR01MB0454F399C452899C444E90B3E3570@MA1PR01MB0454.INDPRD01.PROD.OUTLOOK.COM>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+authentication-results: gmail.com; dkim=none (message not signed)
+ header.d=none;gmail.com; dmarc=none action=none header.from=hotmail.com;
+x-incomingtopheadermarker: OriginalChecksum:76578C3CD8921943E8869CD36315FAFD78BAB54ACD9469B51BC5B31C62E1D33F;UpperCasedChecksum:CC9B25C11A0864D53167E3EDEBAF9DA97870CC878510E9F97F2F22A424EE3C46;SizeAsReceived:17517;Count:35
+x-tmn: [iZk/OqGdvvlwMlgCFYPXggHObyKCcQgt]
+x-incomingheadercount: 35
+x-eopattributedmessage: 0
+x-microsoft-exchange-diagnostics: 1;MA1IND01HT005;5:e3ovmSe69dIQRd9dldfL9M6dNICra78zP+ZZptZo3XTGmrVMzhSZB+W6Q3jwgHdtsZxh6P1KsI1/VE7S71XyC/UDzQp4LP8POkXj4wNRZJ7d05rdkivRYkxqY9nfwWI64/9U3xp9rjHsmmq6C+tdgw==;24:a32QHw4Dc+yrEbh4rGetn2sxPvUUlphWt1iZkNC5NoMOB8XesqhuZK22Glfwwo9Ijb/A+QUqA4yAc/lfX9hX3jA7Ly7PRsqXhKD391MuQOs=;7:tius/e2PteEVCDHx5wgxuOSJ4y62SHgPiUl01UyHbbMoPILb2h2NAj/dzJ7qFpXejBqEhjqzYOhiLeU/NXX41SvqS8Fvkd3KahM7XHGCVM/uEOHVuj4ZXwbzhQkALNtIPAAecZOcs12SidceWirbBlr5Uzmb87P7OJeQwXBK8Fa7hL4ksgN28k6SF2UxBlW4QrxSSLb3j06ZzfCeogVY5r71f1psQRH/8apj38Ood/J0hMsiDu3cKNX3ku8SSghETVQqQpI+QKMnZDf/mkMa67Z9OdNjgFs/AiAry82qgZLHv5neUtKIbR/p0TtZN9JO
+x-forefront-antispam-report: EFV:NLI;SFV:NSPM;SFS:(10019020)(98900012);DIR:OUT;SFP:1102;SCL:1;SRVR:MA1IND01HT005;H:MA1PR01MB0454.INDPRD01.PROD.OUTLOOK.COM;FPR:;SPF:None;LANG:en;
+x-ms-office365-filtering-correlation-id: ccec566c-49f6-4cc7-aa5a-08d45ef44aa6
+x-microsoft-antispam: UriScan:;BCL:0;PCL:0;RULEID:(22001)(201702061074)(5061506573)(5061507331)(1603103135)(1601125254)(1603101448)(1701031045);SRVR:MA1IND01HT005;
+x-exchange-antispam-report-cfa-test: BCL:0;PCL:0;RULEID:(432015087)(444000031);SRVR:MA1IND01HT005;BCL:0;PCL:0;RULEID:;SRVR:MA1IND01HT005;
+x-forefront-prvs: 02318D10FB
+spamdiagnosticoutput: 1:99
+spamdiagnosticmetadata: NSPM
+Content-Type: multipart/alternative;
+	boundary="_000_MA1PR01MB0454F399C452899C444E90B3E3570MA1PR01MB0454INDP_"
+MIME-Version: 1.0
+X-OriginatorOrg: hotmail.com
+X-MS-Exchange-CrossTenant-originalarrivaltime: 27 Feb 2017 09:37:48.2144
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Internet
+X-MS-Exchange-CrossTenant-id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: MA1IND01HT005
+X-OriginalArrivalTime: 27 Feb 2017 09:38:50.0776 (UTC) FILETIME=[4D645980:01D290DD]
+
+--_000_MA1PR01MB0454F399C452899C444E90B3E3570MA1PR01MB0454INDP_
+Content-Type: text/plain; charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+Dear Web Owner,
+Want more clients and customers?
+While studying your website I couldn=92t help noticing it lacked
+
+Any significant ranking in Google =96 for any of your keywords.
+As you already suspect, this means your site is virtually invisible
+To potential customers searching for a supplier in your field.
+We will help them find you by Putting you on the 1st page of Google. We hav=
+e some special offers this season.
+Do let me know if you are interested and I would be Happy to share our Meth=
+odologies, past work details and client Testimonials and Prices.
+Kind Regards,
+=97=97=97=97
+Allisa
+
+
+--_000_MA1PR01MB0454F399C452899C444E90B3E3570MA1PR01MB0454INDP_
+Content-Type: text/html; charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DWindows-1=
+252">
+<style type=3D"text/css" style=3D"display:none;"><!-- P {margin-top:0;margi=
+n-bottom:0;} --></style>
+</head>
+<body dir=3D"ltr">
+<div id=3D"divtagdefaultwrapper" style=3D"font-size:12pt;color:#000000;font=
+-family:Calibri,Arial,Helvetica,sans-serif;" dir=3D"ltr">
+<p></p>
+<p class=3D"MsoNormal" style=3D"margin-bottom: 0.0001pt;"><span style=3D"fo=
+nt-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;=
+=0A=
+mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333399">Dear Web=
+ Owner,<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin: 11.25pt 0in; line-height: 15pt; bac=
+kground-image: initial; background-attachment: initial; background-size: in=
+itial; background-origin: initial; background-clip: initial; background-pos=
+ition: initial; background-repeat: initial;">
+<span style=3D"font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&qu=
+ot;serif&quot;;mso-fareast-font-family:=0A=
+&quot;Times New Roman&quot;;color:#333399">Want more clients and customers?=
+<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin-bottom: 0.0001pt;"><span style=3D"fo=
+nt-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;=
+=0A=
+mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333399">While st=
+udying your website I couldn=92t help noticing it lacked<br>
+<br>
+Any significant ranking in Google =96 </span><b><span style=3D"font-size:12=
+.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-=
+font-family:=0A=
+&quot;Times New Roman&quot;;color:red;background:lime;mso-highlight:lime">f=
+or any of your keywords.<o:p></o:p></span></b></p>
+<p class=3D"MsoNormal" style=3D"margin: 11.25pt 0in; line-height: 15pt; bac=
+kground-image: initial; background-attachment: initial; background-size: in=
+itial; background-origin: initial; background-clip: initial; background-pos=
+ition: initial; background-repeat: initial;">
+<span style=3D"font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&qu=
+ot;serif&quot;;mso-fareast-font-family:=0A=
+&quot;Times New Roman&quot;;color:#333399">As you already suspect, this mea=
+ns your site is virtually invisible<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin: 11.25pt 0in; line-height: 15pt; bac=
+kground-image: initial; background-attachment: initial; background-size: in=
+itial; background-origin: initial; background-clip: initial; background-pos=
+ition: initial; background-repeat: initial;">
+<b><span style=3D"font-size:12.0pt;font-family:=0A=
+&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot=
+;Times New Roman&quot;;color:fuchsia">To potential customers searching for =
+a supplier in your field.<o:p></o:p></span></b></p>
+<p class=3D"MsoNormal" style=3D"margin: 11.25pt 0in; line-height: 15pt; bac=
+kground-image: initial; background-attachment: initial; background-size: in=
+itial; background-origin: initial; background-clip: initial; background-pos=
+ition: initial; background-repeat: initial;">
+<span style=3D"font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&qu=
+ot;serif&quot;;mso-fareast-font-family:=0A=
+&quot;Times New Roman&quot;;color:#333399">We will help them find you by Pu=
+tting you on the 1st page of Google. We have some special offers this seaso=
+n.<o:p></o:p></span></p>
+<p class=3D"MsoNormal" style=3D"margin: 11.25pt 0in; line-height: 15pt; bac=
+kground-image: initial; background-attachment: initial; background-size: in=
+itial; background-origin: initial; background-clip: initial; background-pos=
+ition: initial; background-repeat: initial;">
+<span style=3D"font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&qu=
+ot;serif&quot;;mso-fareast-font-family:=0A=
+&quot;Times New Roman&quot;;color:#333399">Do let me know if you are intere=
+sted and
+</span><b><span style=3D"font-size:12.0pt;font-family:=0A=
+&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot=
+;Times New Roman&quot;;color:fuchsia">I would be Happy to share our Methodo=
+logies, past work details and client Testimonials and Prices.<o:p></o:p></s=
+pan></b></p>
+<p class=3D"MsoNormal" style=3D"margin: 11.25pt 0in; line-height: 15pt; bac=
+kground-image: initial; background-attachment: initial; background-size: in=
+itial; background-origin: initial; background-clip: initial; background-pos=
+ition: initial; background-repeat: initial;">
+<span style=3D"font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&qu=
+ot;serif&quot;;mso-fareast-font-family:=0A=
+&quot;Times New Roman&quot;;color:#333399">Kind Regards,<o:p></o:p></span><=
+/p>
+<p class=3D"MsoNormal" style=3D"margin: 11.25pt 0in; line-height: 15pt; bac=
+kground-image: initial; background-attachment: initial; background-size: in=
+itial; background-origin: initial; background-clip: initial; background-pos=
+ition: initial; background-repeat: initial;">
+<span style=3D"font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&qu=
+ot;serif&quot;;mso-fareast-font-family:=0A=
+&quot;Times New Roman&quot;;color:#333399">=97=97=97=97<o:p></o:p></span></=
+p>
+<p class=3D"MsoNormal" style=3D"margin: 11.25pt 0in; line-height: 15pt; bac=
+kground-image: initial; background-attachment: initial; background-size: in=
+itial; background-origin: initial; background-clip: initial; background-pos=
+ition: initial; background-repeat: initial;">
+<font color=3D"#333399" face=3D"Times New Roman, serif">Allisa</font></p>
+<br>
+<p></p>
+</div>
+</body>
+</html>
+
+--_000_MA1PR01MB0454F399C452899C444E90B3E3570MA1PR01MB0454INDP_--

@@ -1,0 +1,57 @@
+Return-Path: <postmaster@menelon.ee>
+Delivered-To: mail@elementk.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 30BD2C3D29
+	for <mail@elementk.de>; Sun,  5 Aug 2018 04:28:02 +0200 (CEST)
+X-Quarantine-ID: <PxcxVb5v_VGP>
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Amavis-Alert: BAD HEADER SECTION, Non-encoded 8-bit data (char E4 hex):
+	Subject: *****SPAM***** Gesch\303\244ftsvorschlag    
+X-Spam-Flag: YES
+X-Spam-Score: 11.467
+X-Spam-Level: ***********
+X-Spam-Status: Yes, score=11.467 required=5.5
+	tests=[AXB_XMAILER_MIMEOLE_OL_024C2=0.001, FORGED_MUA_OUTLOOK=2.785,
+	FROM_MISSPACED=0.001, FROM_MISSP_EH_MATCH=0.001,
+	FROM_MISSP_MSFT=0.001, FROM_MISSP_REPLYTO=0.861,
+	FROM_MISSP_USER=0.001, FROM_MISSP_XPRIO=0.001,
+	FSL_CTYPE_WIN1251=0.001, FSL_NEW_HELO_USER=0.001,
+	MISSING_HEADERS=1.207, MSOE_MID_WRONG_CASE=3.373,
+	NSL_RCVD_FROM_USER=0.001, RCVD_IN_DNSWL_BLOCKED=0.001,
+	RCVD_IN_RP_RNBL=1.284, REPLYTO_WITHOUT_TO_CC=1.946,
+	URIBL_BLOCKED=0.001] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id PxcxVb5v_VGP for <mail@elementk.de>;
+	Sun,  5 Aug 2018 04:28:00 +0200 (CEST)
+Received: from host.menelon.ee (host.menelon.ee [188.92.162.6])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id B89F0C0291
+	for <mail@elementk.de>; Sun,  5 Aug 2018 04:27:59 +0200 (CEST)
+Received: from User ([188.188.152.113])
+	(authenticated bits=0)
+	by host.menelon.ee (8.14.3/8.14.3) with ESMTP id w752T1TN006024;
+	Sun, 5 Aug 2018 05:29:02 +0300
+Message-Id: <201808050229.w752T1TN006024@host.menelon.ee>
+Reply-To: <Miechunwong@qq.com>
+From: "Ms.Mei Chun Wong"<postmaster@menelon.ee>
+Subject: *****SPAM***** Geschäftsvorschlag    
+Date: Sun, 5 Aug 2018 10:28:34 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+
+Ich bin Frau Mei Chun Wong, Exekutivdirektorin und Stellvertretende Vorsitzende der Geschäftsführung der DAH SING BANK AG; Ich habe einen lukrativen Geschäftsvorschlag für Sie, wenn Sie interessiert sind, kontaktieren Sie mich bitte per E-Mail unten.
+
+Mit freundlichen Grüßen,
+
+Frau Mei Chun Wong
+DAH SING BANK AG
+Hongkong. {Asien}
+E-Mail; Miechunwong@qq.com

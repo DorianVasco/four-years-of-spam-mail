@@ -1,0 +1,170 @@
+Return-Path: <antjealtschul.763@clubster.oomycete.xyz>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id BEAA2C120D
+	for <mail@dorianvasco.de>; Sun, 18 Aug 2019 00:18:48 +0200 (CEST)
+Authentication-Results: v22014122474822114.stilfilm.com; dkim=pass
+	reason="1024-bit key; insecure key"
+	header.d=clubster.oomycete.xyz header.i=@clubster.oomycete.xyz
+	header.b=A98sS/8i; dkim-adsp=pass; dkim-atps=neutral
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: 3.25
+X-Spam-Level: ***
+X-Spam-Status: No, score=3.25 required=5.5 tests=[BAYES_05=-0.5,
+	DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	SPF_HELO_NONE=0.001, SPF_PASS=-0.001, TRACKER_ID=0.1,
+	URIBL_ABUSE_SURBL=1.25, URIBL_DBL_SPAM=2.5] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id q0hNyoYbLsOk for <mail@dorianvasco.de>;
+	Sun, 18 Aug 2019 00:18:43 +0200 (CEST)
+Received: from mx.clubster.oomycete.xyz (mx.clubster.oomycete.xyz [142.93.66.175])
+	(using TLSv1.2 with cipher ADH-AES256-GCM-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id 7C72BC0634
+	for <mail@dorianvasco.de>; Sun, 18 Aug 2019 00:18:42 +0200 (CEST)
+Received: from mx.clubster.oomycete.xyz (mx.clubster.oomycete.xyz [127.0.0.1])
+	by mx.clubster.oomycete.xyz (Postfix) with ESMTP id 469vjB4nZLz2204
+	for <mail@dorianvasco.de>; Sat, 17 Aug 2019 22:18:38 +0000 (UTC)
+Authentication-Results: mx.clubster.oomycete.xyz (amavisd-new);
+	dkim=pass (1024-bit key) reason="pass (just generated, assumed good)"
+	header.d=clubster.oomycete.xyz
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=
+	clubster.oomycete.xyz; h=content-transfer-encoding:content-type
+	:content-type:mime-version:message-id:x-mailer:user-agent
+	:reply-to:list-unsubscribe:subject:subject:to:from:from:date
+	:date; s=dkim; t=1566080318; x=1568672319; bh=jf0/5c31x6fLeQBv+c
+	QIEwsEfSgPYn1B97XpqyrvN4s=; b=A98sS/8i3LNxPpi+rTQfSvMs9GcafT5cg/
+	VZMaK8EP2qsWElEEJa7BqLNuFh07Y9xFoUTzh+P53Lc6cJqrHYPuAb6HDQi3N0Gv
+	npLbrst7ZQdioPqPN8mgyBia3sBFK+7+MX97bjWNdILgitJ2dNZPW0vb+ms1RvWC
+	pG3e2e8lg=
+X-Virus-Scanned: Debian amavisd-new at mx.clubster.oomycete.xyz
+Received: from mx.clubster.oomycete.xyz ([127.0.0.1])
+	by mx.clubster.oomycete.xyz (mx.clubster.oomycete.xyz [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id w4ztERX1R-TV for <mail@dorianvasco.de>;
+	Sat, 17 Aug 2019 22:18:38 +0000 (UTC)
+Received: from [127.0.0.1] (mx.clubster.oomycete.xyz [127.0.0.1])
+	by mx.clubster.oomycete.xyz (Postfix) with ESMTP id 469vhv333lz221D
+	for <mail@dorianvasco.de>; Sat, 17 Aug 2019 22:18:23 +0000 (UTC)
+Date: Sat, 17 Aug 2019 23:18:23 +0100
+From: "4LbTr4uM" <antjealtschul.763@clubster.oomycete.xyz>
+To: mail@dorianvasco.de
+Subject: =?UTF-8?Q?Ich=20wei=C3=9F,=20dass=20Sie=20ein=20P=C3=A4dophiler=20sind?= =?UTF-8?Q?=20..?=
+List-Unsubscribe: <http://clubster.oomycete.xyz/unsubscribe/Y29xR05JUnUzeUtQcUJLZmY3Q2o0K2l2L2U0andKMU9ZSk9Ic3kycXhCZytVQjgwQS8ya3IwWjQrL3h4MEo4NjgzNVdzUFVyYnNvSml5TWk4dXgxemxhcExxSy9ESEVUVTlIQ1Y2TVRzYnRnczIxR1FQOGVoS2IzZEk3ZGNTR2c=>
+Reply-To: <antjealtschul.763@clubster.oomycete.xyz>
+User-Agent: CodeIgniter
+X-Sender: antjealtschul.763@clubster.oomycete.xyz
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: <5d587d2f5cc1c@clubster.oomycete.xyz>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Ja. Ich weiß, dass Sie ein Pädophiler sind.
+Eigentlich weiß ich viel mehr über dich als du denkst.
+
+Ich bin Informatiker (Spezialist für Internetsicherheit) und Mitglied der
+Anonymous-Gruppe.
+
+Vor ein paar Monaten haben Sie eine Anwendung heruntergeladen.
+Dieser Anwendung wurde absichtlich ein spezieller Code implantiert.
+Seitdem Sie es installiert haben, verhält sich Ihr Gerät wie ein
+Remotedesktop, auf den ich jederzeit zugreifen konnte.
+
+Mit dem Programm konnte ich auf Ihren Desktop, Ihre Kamera, Ihre Dateien,
+Kennwörter und Kontaktlisten zugreifen. Ich weiß auch, wo du wohnst und wo
+du arbeitest.
+
+
+Ich habe dich eine ganze Weile beobachtet und das, was ich hier gesammelt
+habe, ist für dich überwältigend.
+Ich kenne Ihre sexuellen Vorlieben und Ihr Interesse an jungen Körpern.
+
+Ich habe 4 Videodateien gesichert, die deutlich zeigen, wie Sie jungen
+Teenagern (die mit Ihrem Internetbrowser aufgenommen wurden) masturbieren
+(von Ihrer Kamera aufgenommen wurden). Zusammengeklebt ist ein ziemlich
+überwältigender Beweis dafür, dass Sie ein Pädophiler sind.
+
+Die Zeitstempel in den Videodateien geben die genaue Uhrzeit an, zu der Sie
+Teenagern masturbiert haben:
+Mail_dorianvasco_de_1562064571.mp4 (29.1 MB)
+Mail_dorianvasco_de_1563721271.mp4 (63.5 MB)
+Mail_dorianvasco_de_1563917197.mp4 (100.4 MB)
+Mail_dorianvasco_de_1562451729.mp4 (47.6 MB)
+
+
+Ich bin nicht hier, um die Moral Ihrer sexuellen Vorlieben zu beurteilen,
+ich bin hier, um Geld zu verdienen. Weil ich weiß, dass Sie ein reicher
+Mensch sind und dass Ihnen Ihr Ruf am Herzen liegt, bin ich bereit, Ihnen
+die Chance zu geben, eine Geldstrafe zu zahlen.
+
+Sie wissen, was Bitcoin ist, oder?
+
+Sie müssen mir 5.000 Euro in Bitcoin an meine spezielle Adresse senden,
+andernfalls sende ich diese Videodateien an Ihre Familienmitglieder, Freunde
+und Ihre Arbeitskollegen.
+
+Ich weiß, dass es zeitaufwändig sein kann, Bitcoin im Wert von 5.000 Euro
+zu kaufen, also gebe ich Ihnen genau eine Woche. Suchen Sie bei Google nach
+"Wie kaufe ich Bitcoin?" Und senden Sie es mir.
+Genug ist genug. Ich habe genug gesehen ..
+
+
+Wenn Sie die Bitcoins nicht innerhalb einer Woche senden, sende ich diese
+Videoaufnahmen auch an Ihre örtliche Polizeidienststelle. Dein Leben wird
+ruiniert sein, vertrau mir. Überweisungsdetails finden Sie unten.
+
+--------------------------------------------------------
+Senden Sie genau:
+0.5537690 BTC
+
+an meine bitcoin adresse:
+
+3HtRg15i6GHdvJJaMRvDfQFmJGoTdLwa43
+
+(Kopieren und Einfügen)
+--------------------------------------------------------
+
+1 BTC ist im Moment 9.070 EUR wert, also sende genau: 0.5537690 BTC.
+Stellen Sie sicher, dass der Betrag und die Adresse korrekt kopiert wurden -
+auf diese Weise weiß ich, dass die Überweisung von Ihnen kommt.
+
+Sobald Sie Bitcoins senden, werde ich die Videos von meinem Laufwerk
+entfernen und die Software entfernen, mit der ich auf Ihr Gerät zugreifen
+kann.
+
+Wenn Sie nicht kooperieren, sende ich diese Videos an Personen, die Ihnen am
+Herzen liegen.
+Nicht ausgeschlossen, dass ich nach dem Senden an eine Person 10x mehr von
+Ihnen verlangen werde. Ich kann dich leiden lassen, vertraue mir.
+
+Denken Sie nicht einmal daran, zur Polizei zu gehen. Wenn du es versuchst,
+werde ich es sofort wissen und ich werde ihnen deine Masturbationsvideos
+schicken, pedo.
+
+
+5.000 Euro sind ein fairer Preis für mein Schweigen, finden Sie nicht?
+
+Sie haben nur eine Woche Zeit und handeln schneller.
+
+--------------------------------------------------------
+Senden Sie genau:
+0.5537690 BTC
+
+an meine bitcoin adresse:
+
+3HtRg15i6GHdvJJaMRvDfQFmJGoTdLwa43
+
+(Kopieren und Einfügen)
+--------------------------------------------------------
+
+
+Beantworten Sie diese E-Mail nicht. Es handelt sich um eine nicht
+nachvollziehbare Nachricht.
+
+Denk dran, ich beobachte dich.
+
+4LbTr4uM
+

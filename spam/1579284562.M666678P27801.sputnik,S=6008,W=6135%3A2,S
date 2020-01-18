@@ -1,0 +1,127 @@
+Return-Path: <carl-kunneth@perforated.dispaint.monster>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id A2F82C2CEE
+	for <mail@dorianvasco.de>; Mon, 23 Sep 2019 22:08:31 +0200 (CEST)
+Authentication-Results: v22014122474822114.stilfilm.com; dkim=pass
+	reason="1024-bit key; insecure key"
+	header.d=perforated.dispaint.monster header.i=@perforated.dispaint.monster
+	header.b=ndQpAkjO; dkim-adsp=pass; dkim-atps=neutral
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: -0.506
+X-Spam-Level:
+X-Spam-Status: No, score=-0.506 required=5.5 tests=[BAYES_00=-1.9,
+	DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	LOTS_OF_MONEY=0.001, PYZOR_CHECK=1.392, SPF_HELO_NONE=0.001,
+	SPF_PASS=-0.001, TRACKER_ID=0.1, URIBL_RED=0.001] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id HNK4MD81-qSS for <mail@dorianvasco.de>;
+	Mon, 23 Sep 2019 22:08:22 +0200 (CEST)
+Received: from mx.perforated.dispaint.monster (mx.perforated.dispaint.monster [157.245.94.79])
+	(using TLSv1.2 with cipher ADH-AES256-GCM-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id 67395C1317
+	for <mail@dorianvasco.de>; Mon, 23 Sep 2019 22:08:17 +0200 (CEST)
+Received: from mx.perforated.dispaint.monster (mx.perforated.dispaint.monster [127.0.0.1])
+	by mx.perforated.dispaint.monster (Postfix) with ESMTP id 46cb3f0Wm5z220R
+	for <mail@dorianvasco.de>; Mon, 23 Sep 2019 20:08:14 +0000 (UTC)
+Authentication-Results: mx.perforated.dispaint.monster (amavisd-new);
+	dkim=pass (1024-bit key) reason="pass (just generated, assumed good)"
+	header.d=perforated.dispaint.monster
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=
+	perforated.dispaint.monster; h=content-transfer-encoding
+	:content-type:content-type:mime-version:message-id:x-mailer
+	:user-agent:reply-to:list-unsubscribe:subject:subject:to:from
+	:from:date:date; s=dkim; t=1569269293; x=1571861294; bh=0zLuQdVB
+	3uQdYdWg6mRz64EB4Zrv781lFPOoBSndSKg=; b=ndQpAkjOP9LpXINjeqUCVmsY
+	Txg603d1XiGdlDC8UDmvBJrILVu72ftXmAhfhzRwppmDj4xAbqq8QEAjnBdtcRpV
+	0k/uyUtUte+SkasPavtLXWylCRoAmpfpvbhEZygl3/rCacT+OZCdtIBpufCQbPnM
+	3jKvA8gAn0TWgqMNIpg=
+X-Virus-Scanned: Debian amavisd-new at mx.perforated.dispaint.monster
+Received: from mx.perforated.dispaint.monster ([127.0.0.1])
+	by mx.perforated.dispaint.monster (mx.perforated.dispaint.monster [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id VGyHX66L2UcU for <mail@dorianvasco.de>;
+	Mon, 23 Sep 2019 20:08:13 +0000 (UTC)
+Received: from [127.0.0.1] (mx.perforated.dispaint.monster [127.0.0.1])
+	by mx.perforated.dispaint.monster (Postfix) with ESMTP id 46cb3d16gQz220g
+	for <mail@dorianvasco.de>; Mon, 23 Sep 2019 20:08:13 +0000 (UTC)
+Date: Mon, 23 Sep 2019 21:08:12 +0100
+From: "Carl Kunneth" <carl-kunneth@perforated.dispaint.monster>
+To: mail@dorianvasco.de
+Subject: =?UTF-8?Q?Ihre=20pers=C3=B6nlichen=20Daten=20sind=20gef=C3=A4hrdet!=20?= =?UTF-8?Q?=C3=84ndern=20Sie=20sofort=20Ihr=20Passwort!?=
+List-Unsubscribe: <http://perforated.dispaint.monster/unsubscribe/Y29xR05JUnUzeUtQcUJLZmY3Q2o0K2l2L2U0andKMU9ZSk9Ic3kycXhCZ28wQmNwbU9KQXVkRmZiVTFlOU5iUHozYXMxRk1iZ2ozRERxR2xaeW8xeXJYLyswZ2Zwd05vOFJXSVpRSE9mN0p1eEMvRFRCZVNFRzFTWExlQjlPckQ=>
+Reply-To: <carl-kunneth@perforated.dispaint.monster>
+User-Agent: CodeIgniter
+X-Sender: carl-kunneth@perforated.dispaint.monster
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: <5d89262d05299@perforated.dispaint.monster>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Hallo!
+
+Ich bin ein Vertreter der Chaos-Hacking-Gruppe.
+Im Zeitraum vom 24/06/2019 bis 23/09/2019 haben wir durch Hacken eines der
+DORIANVASCO.DE-Mailserver Zugriff auf Ihr Konto mail@dorianvasco.de
+erhalten.
+
+Haben Sie Ihr Passwort schon geändert?
+Gut! Aber unser Programm fängt es jedes Mal ab. Und jedes Mal, wenn ich wir
+Ihr neues Passwort!
+
+Durch den Zugriff auf Ihr E-Mail-Konto war es einfach, eine Verbindung zum
+Betriebssystem Ihres Geräts herzustellen.
+
+Momentan sind uns alle Ihre Kontakte bekannt. Wir haben auch Zugriff auf
+Ihre Messenger und Ihre Korrespondenz.
+Alle diese Informationen sind bereits auf meinem pendrive gespeichert.
+
+Wir sind uns auch Ihrer intimen Abenteuer im Internet bewusst.
+Wir wissen, dass Sie Websites für Erwachsene lieben und wir wissen über
+Ihre Sexsucht Bescheid.
+Sie haben einen sehr interessanten und einzigartigen Geschmack (verstehen
+Sie, was ich meine?).
+
+Beim Durchsuchen dieser Seiten wird die Kamera Ihres Geräts automatisch
+eingeschaltet.
+Was Sie sich ansehen, wird aufgezeichnet und auf unserem Server gespeichert.
+
+Im Moment wurden mehrere kompromittierende Videoaufnahmen gesammelt.
+Ab dem Moment, in dem Sie diesen Brief gelesen haben, erhalten alle Ihre
+Kontakte in diesem E-Mail-Posteingang und in Kurieren nach 120 Stunden diese
+Clips und Dateien zusammen mit der Korrespondenz.
+
+Wenn Sie dies nicht möchten, überweisen Sie 2.000,00 Euro auf unser
+einzigartiges Bitcoin-Wallet.
+
+
+Senden Sie genau:
+0.22547852 BTC
+
+zu unserer Bitcoin-Wallet:
+
+34DLanW7xvSByirb8qZWDN9JPnYCoUZ2Rw
+
+Die Adresse unterscheidet zwischen Groß- und Kleinschreibung - kopieren Sie
+sie.
+
+
+Sobald Ihre Übertragung bestätigt wurde, werden alle Ihre Kontakte und
+Videoaufnahmen automatisch sofort gelöscht.
+Wenn kein Geld rechtzeitig eintrifft, werden die Video- und
+Korrespondenzdateien an alle Ihre Kontakte gesendet.
+
+Du entscheidest ... Bezahle oder lebe in der Hölle mit Schande ...
+
+Wir glauben, dass diese ganze Geschichte Ihnen beibringen wird, wie man die
+Geräte richtig benutzt!
+Jeder liebt Websites für Erwachsene, aber Sie haben kein Glück.
+Für die Zukunft - kleben Sie den Aufkleber einfach auf die Kamera Ihres
+Geräts, wenn Sie Websites für Erwachsene besuchen!
+
+Pass auf dich auf!
+

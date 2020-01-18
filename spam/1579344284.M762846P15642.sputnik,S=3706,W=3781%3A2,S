@@ -1,0 +1,75 @@
+Return-Path: <tatiana.castaneda@coaspharma.com.co>
+Delivered-To: mail@elementk.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 062B0C2E2D
+	for <mail@elementk.de>; Sat, 30 Jun 2018 14:28:43 +0200 (CEST)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: 4.805
+X-Spam-Level: ****
+X-Spam-Status: No, score=4.805 required=5.5 tests=[HTML_MESSAGE=0.001,
+	RCVD_IN_BL_SPAMCOP_NET=1.246, RCVD_IN_DNSWL_BLOCKED=0.001,
+	RCVD_IN_SBL_CSS=3.558, SPF_PASS=-0.001] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id LLMUFK-WWbOa for <mail@elementk.de>;
+	Sat, 30 Jun 2018 14:28:41 +0200 (CEST)
+Received: from mailcoas.coaspharma.com.co (mailcoas.coaspharma.com.co [190.24.138.140])
+	(using TLSv1.2 with cipher AECDH-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id 43BF7C0618
+	for <mail@elementk.de>; Sat, 30 Jun 2018 14:28:37 +0200 (CEST)
+Received: from localhost (localhost [127.0.0.1])
+	by mailcoas.coaspharma.com.co (Postfix) with ESMTP id 1783D4451B77;
+	Sat, 30 Jun 2018 02:33:54 -0500 (-05)
+Received: from mailcoas.coaspharma.com.co ([127.0.0.1])
+	by localhost (mailcoas.coaspharma.com.co [127.0.0.1]) (amavisd-new, port 10032)
+	with ESMTP id wNJR3PCWRbII; Sat, 30 Jun 2018 02:33:53 -0500 (-05)
+Received: from localhost (localhost [127.0.0.1])
+	by mailcoas.coaspharma.com.co (Postfix) with ESMTP id 80F65444F833;
+	Sat, 30 Jun 2018 02:18:06 -0500 (-05)
+X-Virus-Scanned: amavisd-new at coaspharma.com.co
+Received: from mailcoas.coaspharma.com.co ([127.0.0.1])
+	by localhost (mailcoas.coaspharma.com.co [127.0.0.1]) (amavisd-new, port 10026)
+	with ESMTP id N4wddPQ3J-2Q; Sat, 30 Jun 2018 02:18:06 -0500 (-05)
+Received: from [192.168.43.154] (unknown [129.56.23.2])
+	by mailcoas.coaspharma.com.co (Postfix) with ESMTPSA id 6A6AB444E738;
+	Sat, 30 Jun 2018 02:05:17 -0500 (-05)
+Content-Type: multipart/alternative; boundary="===============0620885062=="
+MIME-Version: 1.0
+Subject: RE
+To: Recipients <tatiana.castaneda@coaspharma.com.co>
+From: "Smadar Barber-Tsadik" <tatiana.castaneda@coaspharma.com.co>
+Date: Sat, 30 Jun 2018 08:04:58 +0100
+Reply-To: smadartsadik5@gmail.com
+Message-Id: <20180630070517.6A6AB444E738@mailcoas.coaspharma.com.co>
+
+You will not see this in a MIME-aware mail reader.
+--===============0620885062==
+Content-Type: text/plain; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+Hello Dear,
+ My name is Smadar Barber-Tsadik, I'm the Chief Executive Officer (C.P.A) o=
+f the First International Bank of Israel (FIBI). I'm getting in touch with =
+you in regards to a very important and urgent matter. Kindly respond back a=
+t your earliest convinience so I can provide you the details.
+ Faithfully,
+Smadar Barber-Tsadik
+
+--===============0620885062==
+Content-Type: text/html; charset="iso-8859-1"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Description: Mail message body
+
+<HTML><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3Diso-8859-1"/></head><BODY><P>Hello Dear,</P>
+<P>My name is Smadar Barber-Tsadik, I'm the Chief Executive Officer (C.P.A)=
+ of the First International Bank of Israel (FIBI). I'm getting in touch wit=
+h you in regards to a very important and urgent matter. Kindly respond back=
+ at your earliest convinience so I can provide you the details.</P>
+<P>Faithfully,<BR>Smadar Barber-Tsadik</P></BODY></HTML>
+--===============0620885062==--

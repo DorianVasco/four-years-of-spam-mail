@@ -1,0 +1,232 @@
+Return-Path: <uk15@eeecos.org>
+Delivered-To: mail@stilfilm.com
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 7CACDD15B1
+	for <mail@stilfilm.com>; Thu, 12 Jan 2017 09:46:26 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 3.633
+X-Spam-Level: ***
+X-Spam-Status: Yes, score=3.633 required=2 tests=[BAYES_50=0.8,
+	DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	HTML_MESSAGE=0.001, HTML_OBFUSCATE_05_10=0.26, PYZOR_CHECK=1.392,
+	RCVD_IN_SORBS_SPAM=0.5, SPF_NEUTRAL=0.779, URIBL_BLOCKED=0.001]
+	autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.yourvserver.net [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id Q0iDOB-AnYKq for <mail@stilfilm.com>;
+	Thu, 12 Jan 2017 09:46:24 +0100 (CET)
+Received: from mail-vk0-f43.google.com (mail-vk0-f43.google.com [209.85.213.43])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id 5DAE6CA35A
+	for <mail@stilfilm.com>; Thu, 12 Jan 2017 09:46:24 +0100 (CET)
+Received: by mail-vk0-f43.google.com with SMTP id x75so8160075vke.2
+        for <mail@stilfilm.com>; Thu, 12 Jan 2017 00:46:24 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=eeecos.org; s=google;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=8gO0Rj5Rx73M0dpeV14/N0C8nAPnS0DKOzTcgMkMzl4=;
+        b=SYiGqhcGcI2HxkH5mja1whDpfQPOfV7qN//ERKrR+dbqW7qvepebzjqHW8/I8hs6rb
+         jWcnxC7Cnn3vNKVFW/PcxPLRGNbMX50yfOzwOQszSD6ktxCbC6uxXRsRNT8j7L8Qjppj
+         Rwn2TRiE8WNbkeDY9ltS+TRtU3arGumsQv7uw=
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=8gO0Rj5Rx73M0dpeV14/N0C8nAPnS0DKOzTcgMkMzl4=;
+        b=NZg5PRVAarFYXLX9wtk+wU1JJbxorRY7d0ZqsGVW9hF+fiN4pabJF5+HJIyiUxOYuy
+         zufX8wvbFNO3nsh+6s4pW0kiVIGPFrWzqGDFbOXo41xUD1QK2tA6hIZCAZhjZdfT0ygL
+         fe7FFsyMbgZQMLOHGsWrCueAYc6F7F2nvDGC1OZF9lLJRS5w3M6Le4DNZOM5+Aa2zH4y
+         4mwSsd1DsHG+kcP8BoLf7o5X7OMD48127H3HTQnuoO5MQLVr1aKfX9gDd+f2YI8H151g
+         com6uti3bVa8wNgcYOHGQUtiRIwW9zNze5CV4EkteuVQJ8mI3OxXbB3DM0WpHohWGZp9
+         jDeg==
+X-Gm-Message-State: AIkVDXJ6rQ2RkOoDqgM+SmOE6vma6iHkPmz788oBphHcTPerX+juQsuBnVFjNLGr14ZfMCUe4cdn7Bx8XzB7sX72+/zH08haYQ1NRN2rNuArFtPUGRUvFWw8nVQSqe6u1KtI7ZqZQrpL4A==
+X-Received: by 10.31.182.4 with SMTP id g4mr6643680vkf.138.1484210782689; Thu,
+ 12 Jan 2017 00:46:22 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.31.77.4 with HTTP; Thu, 12 Jan 2017 00:46:22 -0800 (PST)
+From: Chinna A <uk15@eeecos.org>
+Date: Thu, 12 Jan 2017 14:16:22 +0530
+Message-ID: <CAPzSD0CVNsE9DRLxQsGdMS4qrMh0Auso516eRS3j7WESSDT_zg@mail.gmail.com>
+Subject: ***SPAM*** 
+To: contact@icrtet.org.in
+Content-Type: multipart/alternative; boundary=001a1144002e797f2b0545e1c0ab
+
+--001a1144002e797f2b0545e1c0ab
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Dear Authors/Researchers,
+
+Greetings from committee members of =E2=80=9CCurrent Research on Algae Biol=
+ogy and
+Biomass (CRABB-2017)=E2=80=9D. You are cordially invited to submit your res=
+earch
+paper to the conference CRABB-2017. The conference is calling papers from
+the following specializations:
+
+=C3=98  Biomass Challenges
+
+=C3=98  Biomass Energy
+
+=C3=98  Sustainability Issues
+
+=C3=98  Biomass Resources
+
+=C3=98  Algae Harvesting
+
+=C3=98  Different Types of Algae and how to Control Them
+
+The accepted papers will be submitted to =E2=80=9C*Elsevier: Journal of =E2=
+=80=9CAlgal
+Research=E2=80=9D* for possible publication.
+
+The last date of paper submission: 13th Jan. 2017.
+
+For more details, please go to: http://ow.ly/cxkR307Vt7C      (or) contact:
+contact@icrtet.org.in
+
+--=20
+
+------------------------------
+*Disclaimer: *This email and any file(s) transmitted with it are=20
+confidential and intended solely for the use of the individual or entity to=
+=20
+whom they are addressed. This message contains confidential information and=
+=20
+is intended only for the individual named. If you are not the named=20
+addressee you should not disseminate, distribute or copy this e-mail.=20
+Please notify the sender immediately by e-mail if you have received this=20
+e-mail by mistake and delete this e-mail from your system. If you are not=
+=20
+the intended recipient you are notified that disclosing, copying,=20
+distributing or taking any action in reliance on the contents of this=20
+information is strictly prohibited.
+------------------------------
+
+--001a1144002e797f2b0545e1c0ab
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><p class=3D"MsoNormal" style=3D"text-align:justify"><span =
+style=3D"font-size:12pt;line-height:115%;font-family:&quot;times new roman&=
+quot;,serif">Dear
+Authors/Researchers, <span></span></span></p>
+
+<p class=3D"MsoNormal" style=3D"text-align:justify"><span style=3D"font-siz=
+e:12pt;line-height:115%;font-family:&quot;times new roman&quot;,serif">Gree=
+tings
+from committee members of =E2=80=9CCurrent Research on Algae Biology and Bi=
+omass (CRABB-2017)=E2=80=9D.
+You are cordially invited to submit your research paper to the conference C=
+RABB-2017.
+The conference is calling papers from the following specializations:<span><=
+/span></span></p>
+
+<p class=3D"gmail-MsoListParagraphCxSpFirst" style=3D"text-align:justify"><=
+span style=3D"font-size:12pt;line-height:115%;font-family:wingdings">=C3=98=
+<span style=3D"font-variant-numeric:normal;font-stretch:normal;font-size:7p=
+t;line-height:normal;font-family:&quot;times new roman&quot;">=C2=A0 </span=
+></span><span style=3D"font-size:12pt;line-height:115%;font-family:&quot;ti=
+mes new roman&quot;,serif">Biomass
+Challenges<span></span></span></p>
+
+<p class=3D"gmail-MsoListParagraphCxSpMiddle" style=3D"text-align:justify">=
+<span style=3D"font-size:12pt;line-height:115%;font-family:wingdings">=C3=
+=98<span style=3D"font-variant-numeric:normal;font-stretch:normal;font-size=
+:7pt;line-height:normal;font-family:&quot;times new roman&quot;">=C2=A0 </s=
+pan></span><span style=3D"font-size:12pt;line-height:115%;font-family:&quot=
+;times new roman&quot;,serif">Biomass
+Energy<span></span></span></p>
+
+<p class=3D"gmail-MsoListParagraphCxSpMiddle" style=3D"text-align:justify">=
+<span style=3D"font-size:12pt;line-height:115%;font-family:wingdings">=C3=
+=98<span style=3D"font-variant-numeric:normal;font-stretch:normal;font-size=
+:7pt;line-height:normal;font-family:&quot;times new roman&quot;">=C2=A0 </s=
+pan></span><span style=3D"font-size:12pt;line-height:115%;font-family:&quot=
+;times new roman&quot;,serif">Sustainability
+Issues<span></span></span></p>
+
+<p class=3D"gmail-MsoListParagraphCxSpMiddle" style=3D"text-align:justify">=
+<span style=3D"font-size:12pt;line-height:115%;font-family:wingdings">=C3=
+=98<span style=3D"font-variant-numeric:normal;font-stretch:normal;font-size=
+:7pt;line-height:normal;font-family:&quot;times new roman&quot;">=C2=A0 </s=
+pan></span><span style=3D"font-size:12pt;line-height:115%;font-family:&quot=
+;times new roman&quot;,serif">Biomass
+Resources<span></span></span></p>
+
+<p class=3D"gmail-MsoListParagraphCxSpMiddle" style=3D"text-align:justify">=
+<span style=3D"font-size:12pt;line-height:115%;font-family:wingdings">=C3=
+=98<span style=3D"font-variant-numeric:normal;font-stretch:normal;font-size=
+:7pt;line-height:normal;font-family:&quot;times new roman&quot;">=C2=A0 </s=
+pan></span><span style=3D"font-size:12pt;line-height:115%;font-family:&quot=
+;times new roman&quot;,serif">Algae
+Harvesting<span></span></span></p>
+
+<p class=3D"gmail-MsoListParagraphCxSpLast" style=3D"text-align:justify"><s=
+pan style=3D"font-size:12pt;line-height:115%;font-family:wingdings">=C3=98<=
+span style=3D"font-variant-numeric:normal;font-stretch:normal;font-size:7pt=
+;line-height:normal;font-family:&quot;times new roman&quot;">=C2=A0 </span>=
+</span><span style=3D"font-size:12pt;line-height:115%;font-family:&quot;tim=
+es new roman&quot;,serif">Different
+Types of Algae and how to Control Them<span></span></span></p>
+
+<p class=3D"MsoNormal" style=3D"text-align:justify"><span style=3D"font-siz=
+e:12pt;line-height:115%;font-family:&quot;times new roman&quot;,serif">The
+accepted papers will be submitted to =E2=80=9C<b><span style=3D"color:red">=
+Elsevier: Journal of =E2=80=9CAlgal Research=E2=80=9D</span></b> for possib=
+le
+publication.<span></span></span></p>
+
+<p class=3D"MsoNormal" style=3D"text-align:justify"><span style=3D"font-siz=
+e:12pt;line-height:115%;font-family:&quot;times new roman&quot;,serif">The
+last date of paper submission: 13<sup>th </sup>Jan. 2017.<span></span></spa=
+n></p>
+
+<p class=3D"MsoNormal" style=3D"text-align:justify"><span style=3D"font-siz=
+e:12pt;line-height:115%;font-family:&quot;times new roman&quot;,serif">For
+more details, please go to<a name=3D"OLE_LINK2"></a><a name=3D"OLE_LINK1">:=
+</a></span> <a href=3D"http://ow.ly/cxkR307Vt7C">http://ow.ly/cxkR307Vt7C</=
+a> =C2=A0<span style=3D"font-size:12pt;line-height:115%;font-family:&quot;t=
+imes new roman&quot;,serif">=C2=A0=C2=A0=C2=A0=C2=A0(or)
+contact: </span><a href=3D"mailto:contact@icrtet.org.in"><span style=3D"fon=
+t-size:12pt;line-height:115%;font-family:&quot;times new roman&quot;,serif"=
+>contact@icrtet.org.in</span></a><span style=3D"font-size:12pt;line-height:=
+115%;font-family:&quot;times new roman&quot;,serif">
+=C2=A0</span></p></div>
+
+<br>
+<b style=3D"font-style:normal;font-variant:normal;letter-spacing:normal;lin=
+e-height:normal;text-align:start;text-indent:0px;text-transform:none;white-=
+space:normal;word-spacing:0px;color:rgb(0,0,0);font-family:Arial,Helvetica,=
+sans-serif;font-size:13px;background-color:rgb(255,255,255)"><span style=3D=
+"font-size:12pt;line-height:18.4px;font-family:&#39;Times New Roman&#39;,se=
+rif;color:rgb(34,34,34);background-image:initial;background-repeat:initial"=
+ lang=3D"EN-IN"></span></b><hr><b style=3D"font-style:normal;font-variant:n=
+ormal;letter-spacing:normal;line-height:normal;text-align:start;text-indent=
+:0px;text-transform:none;white-space:normal;word-spacing:0px;color:rgb(0,0,=
+0);font-family:Arial,Helvetica,sans-serif;font-size:13px;background-color:r=
+gb(255,255,255)"><span style=3D"font-size:12pt;line-height:18.4px;font-fami=
+ly:&#39;Times New Roman&#39;,serif;color:rgb(34,34,34);background-image:ini=
+tial;background-repeat:initial" lang=3D"EN-IN">Disclaimer:=C2=A0</span></b>=
+<span style=3D"color:rgb(34,34,34);font-style:normal;font-variant:normal;fo=
+nt-weight:normal;letter-spacing:normal;text-align:start;text-indent:0px;tex=
+t-transform:none;white-space:normal;word-spacing:0px;font-size:12pt;line-he=
+ight:18.4px;font-family:&#39;Times New Roman&#39;,serif;background-image:in=
+itial;background-color:rgb(255,255,255);background-repeat:initial" lang=3D"=
+EN-IN">This email and any file(s) transmitted with it are confidential and =
+intended solely for the use of the individual or entity to whom they are ad=
+dressed. This message contains confidential information and is intended onl=
+y for the individual named. If you are not the named addressee you should n=
+ot disseminate, distribute or copy this e-mail. Please notify the sender im=
+mediately by e-mail if you have received this e-mail by mistake and delete =
+this e-mail from your system. If you are not the intended recipient you are=
+ notified that disclosing, copying, distributing or taking any action in re=
+liance on the contents of this information is strictly prohibited.</span><h=
+r><span style=3D"color:rgb(34,34,34);font-style:normal;font-variant:normal;=
+font-weight:normal;letter-spacing:normal;text-align:start;text-indent:0px;t=
+ext-transform:none;white-space:normal;word-spacing:0px;font-size:12pt;line-=
+height:18.4px;font-family:&#39;Times New Roman&#39;,serif;background-image:=
+initial;background-color:rgb(255,255,255);background-repeat:initial" lang=
+=3D"EN-IN"></span>
+--001a1144002e797f2b0545e1c0ab--

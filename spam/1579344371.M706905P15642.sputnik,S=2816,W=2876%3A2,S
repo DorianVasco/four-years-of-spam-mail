@@ -1,0 +1,60 @@
+Return-Path: <admin@giorgioferretti.ru>
+Delivered-To: mail@elementk.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 455C9D0F67
+	for <mail@elementk.de>; Tue, 18 Dec 2018 14:38:42 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: 2.705
+X-Spam-Level: **
+X-Spam-Status: No, score=2.705 required=5.5 tests=[DKIM_SIGNED=0.1,
+	DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1, FROM_EXCESS_BASE64=0.105,
+	HTML_MESSAGE=0.001, RCVD_IN_PSBL=2.7, SPF_HELO_PASS=-0.001,
+	SPF_PASS=-0.001, URIBL_BLOCKED=0.001] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id UV1J-35D1N-A for <mail@elementk.de>;
+	Tue, 18 Dec 2018 14:38:41 +0100 (CET)
+Received: from giorgioferretti.ru (giorgioferretti.ru [5.189.227.102])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 14CB1D0F65
+	for <mail@elementk.de>; Tue, 18 Dec 2018 14:38:39 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=key1; d=giorgioferretti.ru;
+ h=Message-ID:Reply-To:From:To:Subject:Date:MIME-Version:Content-Type; i=admin@giorgioferretti.ru;
+ bh=ROxXX4cGRrxz1LNpkjTa+pdtkcQ=;
+ b=Bji9Mt5RO7Lk1m6Ya9RP5LEvaery9dgY/vu68MeFDnP5bNDZ9YSDIWDWjUBI+nXLKTNtm6odOj5G
+   98qXlJ06wy0P8ckB5e7rgzPnl6mcPFmiPqothjcNA+jagMLBibn9y8rZ6u1f5cY019yLxWVAq6NP
+   yfw20zBVxxBRgRxYINQ=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=key1; d=giorgioferretti.ru;
+ b=Kz8DJoyZgdZ6DfVS87Mzq1Ldr3++GOL4CeQHvTem37W03BPLUW0aqRxJRXryxZWfBKOuS5gptkFF
+   6Tpw4akGsHpzjsU4i4I3VfEGZnTlU4y81TayUwXv2JC1Jyq9XRnwpHjbOePcB+UQPnwS+HiDM8fz
+   YNw4TF9wDa/MPHKi3DU=;
+Message-ID: <8ff577db26faaea284f14714e026bcb098817337@giorgioferretti.ru>
+Reply-To: =?utf-8?B?0J3QuNC90YPQu9GP?= <admin@giorgioferretti.ru>
+From: =?utf-8?B?0J3QuNC90YPQu9GP?= <admin@giorgioferretti.ru>
+To: <mail@elementk.de>
+Subject: Please note a good offer
+Date: Tue, 18 Dec 2018 16:42:12 +0300
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="ab5111b53febc4479b9ed7692df9d8f91dfc"
+X-Priority: 1
+
+--ab5111b53febc4479b9ed7692df9d8f91dfc
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+=C2=A0Hey What we have here is nice offering Just click on the link below=
+ to qualify
+
+--ab5111b53febc4479b9ed7692df9d8f91dfc
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<HTML><HEAD>
+<META http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+</HEAD>
+<BODY bgColor=3D#ffffff>
+<DIV align=3Dleft><A href=3D"http://bit.ly/2UMJO6O">&nbsp;Hey=20
+What we have here is nice offering=20
+Just click on the link below to qualify </A></DIV></BODY></HTML>
+
+--ab5111b53febc4479b9ed7692df9d8f91dfc--

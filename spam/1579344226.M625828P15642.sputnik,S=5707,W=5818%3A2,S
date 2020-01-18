@@ -1,0 +1,111 @@
+Return-Path: <bounce+89a993.e2d598-mail=dorianvasco.de@siteguardscan.com>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 623FCC0D53
+	for <mail@dorianvasco.de>; Thu,  8 Feb 2018 16:13:15 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 6.811
+X-Spam-Level: ******
+X-Spam-Status: Yes, score=6.811 required=5.5 tests=[DKIM_SIGNED=0.1,
+	DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1, HTML_IMAGE_ONLY_32=0.001,
+	HTML_MESSAGE=0.001, MIME_HTML_ONLY=1.105, RAZOR2_CF_RANGE_51_100=2.43,
+	RAZOR2_CHECK=1.729, RCVD_IN_BRBL_LASTEXT=1.644,
+	RCVD_IN_DNSWL_NONE=-0.0001, URIBL_BLOCKED=0.001] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id OgO9GNj_FkqV for <mail@dorianvasco.de>;
+	Thu,  8 Feb 2018 16:13:12 +0100 (CET)
+Received: from do158-101.mailgun.net (do158-101.mailgun.net [192.237.158.101])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 12750C07C9
+	for <mail@dorianvasco.de>; Thu,  8 Feb 2018 16:13:11 +0100 (CET)
+DKIM-Signature: a=rsa-sha256; v=1; c=relaxed/relaxed; d=siteguardscan.com; q=dns/txt;
+ s=mailo; t=1518102852; h=Content-Transfer-Encoding: Mime-Version:
+ Content-Type: Subject: From: To: Message-Id: Sender: Date:
+ List-Unsubscribe; bh=Mh66oFubgLvlxFVbvJDk8YJm8DKKJFME6Wt2Gc2DAaI=; b=YA/yMmGV0ka5XtILh3NncU55gu7v0Kd5F2V0sc916Xgg/KXC5aoqlg3YXxRqmMkmmseR4v9G
+ wZ6AhgVymtWCTwiiWnIHxSBbBiGgRAHVfqVj7xVIzLCLo2vXGdEkio6kepUDEFCV3uAPlUQp
+ u4mdM8ZTvflZK3ukjxjO6Tth0N0=
+X-Mailgun-Sid: WyI0ZDhlNiIsICJtYWlsQGRvcmlhbnZhc2NvLmRlIiwgImUyZDU5OCJd
+List-Unsubscribe: <mailto:u+mq6wkmtegu4tqjtjhuzdamjygazdaobrguytimjsfyys4rruii2dcmkcga4uirrsg4zeknrfgqyhg2lumvtxkylsmrzwgylofzrw63jgna6tqyldgyytgntggzqwmzrygjsday3dhe4tsyjtgi4wcmjsmjrwgzbgnvqws3dpov2f62lehu2daojtgaztmjtxnbxws427nfsd2ojrgm3dcmjvezzd23lbnfwcknbqmrxxe2lbnz3gc43dn4xgizjgoq6skmsbez2gk3lqnrqxizk7nfsd2nq@siteguardscan.com>
+X-Mailgun-Sending-Ip: 192.237.158.101
+Received: by luna.mailgun.net with HTTP; Thu, 08 Feb 2018 15:14:12 +0000
+Date: Thu, 08 Feb 2018 15:14:12 +0000
+Sender: lacey.parker@siteguardscan.com
+Message-Id: <20180208151412.1.F4B411B09DF272E6@siteguardscan.com>
+X-Mailgun-Variables: {"whois_id": "9136115", "template_id": "6",
+ "mailout_id": "4093036"}
+To: DorianVasco Nagel <mail@dorianvasco.de>
+From: Lacey Parker <lacey.parker@siteguardscan.com>
+Subject: Want to know the secret to customer loyalty?
+Content-Type: text/html; charset="utf-8"
+Mime-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8=
+" />
+    <title>Want to know the secret to customer loyalty?</title>
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1.0"/>
+</head>
+<style>
+    body {
+        font-family:  Arial, "Helvetica Neue", Helvetica, sans-serif;
+    }
+    p {
+        text-align:left !important;
+    }
+</style>
+<body>
+Dear Business Owner,<br><br>
+
+With the rise of Bitcoin comes a substantial increase in hacked websites. <=
+strong>This year alone, the amount of total hacked sites increased by 32 pe=
+rcent to over 85 million.</strong><br><br>
+
+With the way, the current cyber landscape is looking, we strongly recommend=
+ all website owners enhance their website security.<br><br>
+
+To identify weaknesses within your website, use this <a href=3D"http://emai=
+l.siteguardscan.com/c/eJw9j01rhDAURX-N2Y3kJTGahYsRlUJbYYpOh25KTJ414MegmZnOv=
+69uCndzL4cD16bIbKQS4lJGIaGMJhCBABZCWIpMAGRU5SWLWSEDQVfn8eemF7saPYVmHkmfRrxr=
+MWmZUAhKC6mMRi11rAAj7IQkQ9p7f10DfgxYueVfsgu23i2IhxXNbXH-edjNAS8fzgY8b6ZeNOV=
+RVCM8mrOtqs-It0VVnc4fL2aEp5nsvS6G03tT_J4vQ_bGvl7reliqnAZxQUbthvnmv51NBVWcck=
+ke_ezWfVDAJUBElnSntm92Xpye7no1c2iReByvg_a4s_IP8lJcZA" style=3D"text-decorat=
+ion: underline">free website security risk scanner</a>. It=EF=BF=BDll deter=
+mine if your website is at low, medium or high risk of being hacked, and in=
+form you if your site has already been compromised.<br><br>
+
+<strong>If your website is showing as high risk, we strongly recommend anti=
+-hacker/anti-malware protection.</strong><br><br>
+
+So, the secret to customer loyalty? A website that is protected and trustwo=
+rthy.<br><br>
+
+To build trust and loyalty with current and future customers, we offer free=
+ =EF=BF=BDSecured by SiteGuard=EF=BF=BD badges. Your leads & customers can =
+rest assured that their personal information is safe, increasing the chance=
+s of them returning to your site.<br><br>
+
+Protect your site: it=EF=BF=BDs the face of your business, after all.<br><b=
+r>
+
+Here to help!<br><br>
+
+Lacey Parker<br>
+Website Security Advisor<br><br>
+<br>
+<p style=3D"text-align:center; font-size:11px;">If you don't want to here f=
+rom SiteGuard again, please <a href=3D"http://email.siteguardscan.com/u/eJw=
+VjUEOwiAQAF9TjoRdKLIHDjbab5gVqCWxxRSq37e9TmYy0SeMPTmRPSpwCpWDHgygBDmawQAMim=
+4jXvBuO6Nqbum18xZr4FWGsojZOw4WtJ0sT5PDqEIgItZIDPgMIYqF87vs7ZGjN4q00lb85pLrC=
+egoAXqx-dM6DrFsmdcv11BkTKL5Dq-ipeXz5pbOwv4Bux41tA">click here</a><br>SiteGu=
+ard<br>Suite 4428<br>616 Corporate Way<br>Valley Cottage, NY 10989<br>USA</=
+p><img width=3D"1px" height=3D"1px" alt=3D"" src=3D"http://email.siteguards=
+can.com/o/eJwVzU0OwiAQQOHTyJLMwPC3YGO01zDIUEvSFtNSvb52-_Ilj2NRbIIXNSpADwo8G=
+iRUEuVAV0K8QrgNyqm7vRDstZfXkTbec1plbouYogugwdlMI1oHKbMrhcYSmIyHJ2ixpDq3oz8q=
+R4KgQVvxnVrdzxBQW0Qjtniq_4HbVtP6SXtukovoZXnPqZfT2h9DBjOI"></body>
+</html>

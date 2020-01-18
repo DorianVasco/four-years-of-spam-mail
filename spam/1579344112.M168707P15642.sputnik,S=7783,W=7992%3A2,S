@@ -1,0 +1,209 @@
+Return-Path: <MAILER-DAEMON>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 13480D2A0E
+	for <mail@dorianvasco.de>; Thu, 23 Feb 2017 20:13:23 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 7.849
+X-Spam-Level: *******
+X-Spam-Status: Yes, score=7.849 required=2 tests=[BAYES_99=3.5, BAYES_999=0.2,
+	HTML_MESSAGE=0.001, URIBL_BLOCKED=0.001, URI_WP_DIRINDEX=2.996,
+	URI_WP_HACKED_2=1.151] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.yourvserver.net [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 6z_T8jaULlhE for <mail@dorianvasco.de>;
+	Thu, 23 Feb 2017 20:13:20 +0100 (CET)
+Received: from ms1.ntou.edu.tw (ms1.cc.ntou.edu.tw [140.121.99.230])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id B21D8D2A08
+	for <mail@dorianvasco.de>; Thu, 23 Feb 2017 20:13:19 +0100 (CET)
+Received: by ms1.ntou.edu.tw (Postfix)
+	id 5ADEE1FA233; Fri, 24 Feb 2017 03:13:15 +0800 (CST)
+Date: Fri, 24 Feb 2017 03:13:15 +0800 (CST)
+From: MAILER-DAEMON@ntou.edu.tw (Mail Delivery System)
+Subject: ***SPAM*** Undelivered Mail Returned to Sender
+To: mail@dorianvasco.de
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="3C5D61FA22C.1487877195/ms1.ntou.edu.tw"
+Content-Transfer-Encoding: 7bit
+Message-Id: <20170223191315.5ADEE1FA233@ms1.ntou.edu.tw>
+
+This is a MIME-encapsulated message.
+
+--3C5D61FA22C.1487877195/ms1.ntou.edu.tw
+Content-Description: Notification
+Content-Type: text/plain
+
+This is the Postfix program at host ms1.ntou.edu.tw.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to <postmaster>
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+			The Postfix program
+
+<shchen@ntou.edu.tw> (expanded from <shchen@ms1.ntou.edu.tw>): permission
+    denied. Command output: maildrop: maildir over quota.
+
+--3C5D61FA22C.1487877195/ms1.ntou.edu.tw
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; ms1.ntou.edu.tw
+X-Postfix-Queue-ID: 3C5D61FA22C
+X-Postfix-Sender: rfc822; mail@dorianvasco.de
+Arrival-Date: Fri, 24 Feb 2017 03:13:12 +0800 (CST)
+
+Final-Recipient: rfc822; shchen@ntou.edu.tw
+Original-Recipient: rfc822; shchen@ms1.ntou.edu.tw
+Action: failed
+Status: 5.0.0
+Diagnostic-Code: X-Postfix; permission denied. Command output: maildrop:
+    maildir over quota.
+
+--3C5D61FA22C.1487877195/ms1.ntou.edu.tw
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+Content-Transfer-Encoding: 7bit
+
+Received: from mg2.ntou.edu.tw (unknown [192.168.1.11])
+	by ms1.ntou.edu.tw (Postfix) with ESMTP id 3C5D61FA22C
+	for <shchen@ms1.ntou.edu.tw>; Fri, 24 Feb 2017 03:13:12 +0800 (CST)
+X-Spam-Flag: NO
+X-Spam-Score: 0.054
+X-Spam-Level: 
+X-Spam-Status: No, score=0.054 tagged_above=-10 required=6.2
+	tests=[BAYES_00=-2.599, DNS_FROM_AHBL_RHSBL=0.692, HTML_MESSAGE=0.001,
+	RCVD_IN_BL_SPAMCOP_NET=1.96]
+Received: from mg2.ntou.edu.tw ([127.0.0.1])
+	by localhost (mg2.ntou.edu.tw [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id EJg+safEQZUw for <shchen@ms1.ntou.edu.tw>;
+	Fri, 24 Feb 2017 03:13:09 +0800 (CST)
+Received: from mg3.ntou.edu.tw (mg3.ntou.edu.tw [140.121.99.142])
+	by mg2.ntou.edu.tw (Postfix) with ESMTP id E4BAE2CE0AD4
+	for <shchen@mail.ntou.edu.tw>; Fri, 24 Feb 2017 02:57:30 +0800 (CST)
+Received: from mg3.ntou.edu.tw (unknown [127.0.0.1])
+	by DDEI (Postfix) with SMTP id D914626BC66
+	for <shchen@mail.ntou.edu.tw>; Fri, 24 Feb 2017 02:57:29 +0800 (CST)
+Received: from [41.79.16.142] (unknown [41.79.16.142])
+	by mg3.ntou.edu.tw (Postfix) with ESMTP id E1AB326BC97
+	for <shchen@mail.ntou.edu.tw>; Fri, 24 Feb 2017 02:57:19 +0800 (CST)
+From: <mail@dorianvasco.de>
+To: <shchen@mail.ntou.edu.tw>
+Subject: Re: CV  678
+Date: 23 Feb 2017 21:46:18 +0100
+Message-ID: <002e01d28e17$05c2bd59$cdc84dbe$@dorianvasco.de>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_002B_01D28E17.05C08D0E"
+X-Mailer: Microsoft Outlook 15.0
+Thread-Index: Act08617rt08617rt08617rt08617r==
+Content-Language: en-us
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_002B_01D28E17.05C08D0E
+Content-Type: text/plain;
+	charset="cp-850"
+Content-Transfer-Encoding: quoted-printable
+
+Dear shchen,
+
+We are looking for employees working remotely.
+
+My name is Josefa, I am the personnel manager of a large International co=
+mpany.
+Most of the work you can do from home, that is, at a distance.
+
+Salary is $2500-$5600.
+
+If you are interested in this offer, please visit 
+Our Site
+
+Best regards!
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D =0AThis message has been analyzed by Deep Discovery=
+ Email Inspector.
+
+------=_NextPart_000_002B_01D28E17.05C08D0E
+Content-Type: text/html;
+	charset="cp-850"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-mi=
+crosoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:wo=
+rd" xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D=
+"http://www.w3.org/TR/REC-html40"><head><META HTTP-EQUIV=3D"Content-Type"=
+ CONTENT=3D"text/html; charset=3Dus-ascii"><meta name=3DGenerator content=
+=3D"Microsoft Word 15 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+=09{font-family:"Cambria Math";
+=09panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+=09{font-family:Calibri;
+=09panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+=09{margin:0in;
+=09margin-bottom:.0001pt;
+=09font-size:11.0pt;
+=09font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+=09{mso-style-priority:99;
+=09color:#0563C1;
+=09text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+=09{mso-style-priority:99;
+=09color:#954F72;
+=09text-decoration:underline;}
+span.EmailStyle17
+=09{mso-style-type:personal-compose;
+=09font-family:"Calibri","sans-serif";
+=09color:windowtext;}
+.MsoChpDefault
+=09{mso-style-type:export-only;
+=09font-family:"Calibri","sans-serif";}
+@page WordSection1
+=09{size:8.5in 11.0in;
+=09margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+=09{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DEN-US link=3D"#0563=
+C1" vlink=3D"#954F72"><div class=3DWordSection1><p class=3DMsoNormal>Dear=
+ shchen,<br>
+<br>
+We are looking for employees working remotely.<br>
+<br>
+My name is Josefa, I am the personnel manager of a large International co=
+mpany.<br>
+Most of the work you can do from home, that is, at a distance.<br>
+<b>Salary is $2500-$5600.</b><br>
+<br>
+If you are interested in this offer, please visit <a href=3D"http://blog.=
+sharingmyinsights.com/storesbyllcleveland.com/wp-content/plugins/jetpack/=
+logs/"><b>Our Site</b></a><br>
+<br>
+Best regards!<br><o:p></o:p></p></div></body></html>
+<table><tr><td bgcolor=3D#ffffff><font color=3D#000000><pre>=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D =0AThis message has been analyzed by Deep Discovery Email Inspe=
+ctor.</pre></font></td></tr></table>
+
+------=_NextPart_000_002B_01D28E17.05C08D0E--
+
+
+
+--3C5D61FA22C.1487877195/ms1.ntou.edu.tw--

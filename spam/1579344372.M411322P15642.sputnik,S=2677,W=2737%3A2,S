@@ -1,0 +1,60 @@
+Return-Path: <admin@jqmobile.ru>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 33B72C0744
+	for <mail@dorianvasco.de>; Wed, 12 Dec 2018 23:09:06 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: 1.848
+X-Spam-Level: *
+X-Spam-Status: No, score=1.848 required=5.5 tests=[DKIM_SIGNED=0.1,
+	DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1, HTML_MESSAGE=0.001,
+	SPF_HELO_PASS=-0.001, SPF_PASS=-0.001, URIBL_ABUSE_SURBL=1.948,
+	URIBL_BLOCKED=0.001] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id SB7fEhZSZQSs for <mail@dorianvasco.de>;
+	Wed, 12 Dec 2018 23:09:05 +0100 (CET)
+Received: from jqmobile.ru (jqmobile.ru [5.189.228.98])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id F284BC0620
+	for <mail@dorianvasco.de>; Wed, 12 Dec 2018 23:09:04 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=key1; d=jqmobile.ru;
+ h=Message-ID:Reply-To:From:To:Subject:Date:MIME-Version:Content-Type; i=admin@jqmobile.ru;
+ bh=WRnBh99kPq+7i+/LHnux7AZ+FGA=;
+ b=QOwFEA6rrSGl/N/5e2S49TqxAux4mNj9v0rFhSeCnV6013yii5Dtw9Rcvk4mfe1r72k0sajT6A18
+   SKZwhPhYHd3HiYkGBMf1gLa0W5wRDDDYLCiJkWmg8jNLmpjVSbtln3b4g+l3lPMri2XghLCJeQLy
+   cDdSGJZkr7ilNvObeKU=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=key1; d=jqmobile.ru;
+ b=hd1Gm5mfIBbSfVaQ66eFV+OwKujhgBbORF2T1A7Z0ub+cRMeGUmQja/LpIHrl2Xf/y3fn2GwqSFe
+   AuzCw3j26crnIY+TmyuM9UfKbp6BAHb8IZqalA5XqJli7GG3Kk+VT7P4VTfZg3aHW/OzOG9uT13E
+   bu8l5sMgJropslwDIHs=;
+Message-ID: <86fb52ff0bc0348ba85791c2c91d25f9da2b46a9a6@jqmobile.ru>
+Reply-To: "Uillis Semyuel" <admin@jqmobile.ru>
+From: "Uillis Semyuel" <admin@jqmobile.ru>
+To: <mail@dorianvasco.de>
+Subject: Here is  a good offering
+Date: Thu, 13 Dec 2018 01:12:17 +0300
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="8973255710c4eb68b4b1f84662b6971e5c2b"
+X-Priority: 1
+
+--8973255710c4eb68b4b1f84662b6971e5c2b
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+=C2=A0Hy there Good news ! nice offers Are you in?
+
+--8973255710c4eb68b4b1f84662b6971e5c2b
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<HTML><HEAD>
+<META http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+</HEAD>
+<BODY bgColor=3D#ffffff>
+<DIV align=3Dleft><A=20
+href=3D"http://red.studygood.com/ETGWURJKJKUIA">&nbsp;Hy there=20
+Good news !  nice offers=20
+Are you in?  </A></DIV></BODY></HTML>
+
+--8973255710c4eb68b4b1f84662b6971e5c2b--

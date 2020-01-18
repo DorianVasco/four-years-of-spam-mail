@@ -1,0 +1,35 @@
+Return-Path: <Lidiyary@bbpfl.com>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 89050D4D8E
+	for <mail@dorianvasco.de>; Fri,  3 Nov 2017 07:42:43 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 8.389
+X-Spam-Level: ********
+X-Spam-Status: Yes, score=8.389 required=5.5 tests=[BAYES_60=1.5,
+	HELO_DYNAMIC_HEXIP=1.789, MISSING_MID=0.497, PYZOR_CHECK=1.392,
+	RCVD_IN_BRBL_LASTEXT=1.449, RDNS_DYNAMIC=0.982, SPF_NEUTRAL=0.779,
+	URIBL_BLOCKED=0.001] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id caHZaODE1zta for <mail@dorianvasco.de>;
+	Fri,  3 Nov 2017 07:42:41 +0100 (CET)
+Received: from 0x3ec6b437.aal.customer.dk.telia.net (0x3ec6b437.aal.customer.dk.telia.net [62.198.180.55])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 9551AC2E61
+	for <kontakt@dorianvasco.de>; Fri,  3 Nov 2017 07:42:41 +0100 (CET)
+MIME-Version: 1.0
+From: "Lidiya" <Lidiyary@bbpfl.com>
+To: kontakt@dorianvasco.de
+Date: Fri, 03 Nov 2017 07:42:40 +0200
+Subject: ***SPAM*** hello
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: base64
+Message-Id: <20171103064243.89050D4D8E@v22014122474822114.stilfilm.com>
+
+SGkhIFlvdSBnb3QgbWUgdmVyeSBpbnRlcmVzdGVkLiBJIHdvdWxkIHJlYWxseSBsaWtlIHRvIGtu
+b3cgeW91IGNsb3NlciENCkkgd2FudCB0byBjb21tdW5pY2F0ZSB3aXRoIHlvdSBhbmQgbGVhcm4g
+YWJvdXQgeW91ciBpbnRlcmVzdHMsIGhvYmJpZXMuDQpJIGhvcGUgZm9yIG11dHVhbCB1bmRlcnN0
+YW5kaW5nIGFuZCBwb3NzaWJsZSByZWNpcHJvY2l0eS4NCg0KQWN0dWFsbHksIEkgd291bGQgbGlr
+ZSB0byBtZWV0IGFuZCB0YWxrIHdpdGggYW4gaW50ZXJlc3RpbmcgYW5kIG5pY2UgbWFuIQ0KDQpE
+cm9wIG1lIGEgbGluZSBlbGVuZXlyOGZAcmFtYmxlci5ydQ==

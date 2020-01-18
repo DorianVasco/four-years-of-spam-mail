@@ -1,0 +1,249 @@
+Return-Path: <bounce@treeleaves.co>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 02022D1FB7
+	for <mail@dorianvasco.de>; Thu, 23 Nov 2017 07:13:51 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 6.12
+X-Spam-Level: ******
+X-Spam-Status: Yes, score=6.12 required=5.5 tests=[DIGEST_MULTIPLE=0.293,
+	DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	HTML_IMAGE_RATIO_02=0.437, HTML_MESSAGE=0.001, MPART_ALT_DIFF=0.79,
+	PYZOR_CHECK=1.392, RAZOR2_CF_RANGE_51_100=0.5,
+	RAZOR2_CF_RANGE_E8_51_100=1.886, RAZOR2_CHECK=0.922,
+	RP_MATCHES_RCVD=-0.001, SPF_PASS=-0.001, URIBL_BLOCKED=0.001]
+	autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id McujEgTq5UqA for <mail@dorianvasco.de>;
+	Thu, 23 Nov 2017 07:13:48 +0100 (CET)
+Received: from beta3.treeleaves.co (beta3.treeleaves.co [94.23.152.86])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id D0D8DC31B1
+	for <kontakt@dorianvasco.de>; Thu, 23 Nov 2017 07:13:48 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=kgrus; d=treeleaves.co;
+ h=To:Subject:Message-ID:Date:From:Reply-To:MIME-Version:List-Unsubscribe:Content-Type:Content-Transfer-Encoding;
+ bh=yePb9CIukY8mUZaDEG++vBEfxW8=;
+ b=JslHFvdo/kw1wAL3qUlOFBnvF+bl0BakmeZmO6AYcp5U+/1i5tu65Ce0WT/kiZlHR3UsBiY4tMMP
+   GeGJTJtbg1pRXwvX753chpdedXOxyFQC2LQhRHymjcLIf9PxtsBilIZPMgfR5hK6GZmQ4FYiMm+D
+   iI2NA+ctETFAklAbyyE=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=kgrus; d=treeleaves.co;
+ b=toUJOklZOs9lLW24cuomAD+lLYngm1QvgpgoBnVP1viOjXTkytK3jesatnocOKZt+RG01SNnxU/Q
+   WXjDekqNFT5N1180AKIORopC7uO428wBw6YvXu9WjkJYF0A+xjeNHti7RnZTLWg7h22KgwKkcbi8
+   pmVzQ6Z1D507KQN2sQc=;
+To: kontakt@dorianvasco.de
+Subject: ***SPAM***
+	=?UTF-8?B?U3VwZXJtYXJrdC1HdXRzY2hlaW4gZsO8ciBrb250YWt0QGRvcmlhbnZhc2NvLmRl?=
+Message-ID: <ba1f716d7be03d9414053da8f82d2d84@treeleaves.co>
+Date: Thu, 23 Nov 2017 06:27:30 +0100
+From: "Kunden Belohnungen" <mailer@treeleaves.co>
+Reply-To: mailer@treeleaves.co
+Complaint-To: abuse@treeleaves.co
+Priority: 3
+Precedence: bulk
+MIME-Version: 1.0
+X-Mailer-LID: 20
+List-Unsubscribe: <http://treeleaves.co/te/unsubscribe.php?M=2447028&C=5a8cf37b075bcb4d49ad247d45477736&L=20&N=25>
+X-Mailer-RecptId: 2447028
+X-Mailer-SID: 25
+X-Abuse-Reports-To: abuse@treeleaves.co
+X-Mailer-Sent-By: 1
+Content-Type: multipart/alternative; charset="UTF-8"; boundary="b1_d03caccf0d1739a7f5b6ca9c3b3bee6f"
+Content-Transfer-Encoding: 8bit
+
+--b1_d03caccf0d1739a7f5b6ca9c3b3bee6f
+Content-Type: text/plain; format=flowed; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+Your email client cannot read this email.
+To view it online, please go here:
+http://treeleaves.co/te/display.php?M=2447028&C=5a8cf37b075bcb4d49ad247d45477736&S=25&L=20&N=4
+
+
+To stop receiving these
+emails:http://treeleaves.co/te/unsubscribe.php?M=2447028&C=5a8cf37b075bcb4d49ad247d45477736&L=20&N=25
+
+--b1_d03caccf0d1739a7f5b6ca9c3b3bee6f
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<meta name="format-detection" content="telephone=no"/>
+<meta name="format-detection" content="date=no"/>
+<meta name="format-detection" content="address=no"/>
+<meta name="format-detection" content="email=no"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+<title>EDEKA Gutscheine</title>
+
+		<style type="text/css">
+			body	{Margin:0 auto; padding:0;}
+			img		{max-width:100%;}
+			table	{border-spacing:0!important; border:none; cellpadding:0px; }
+			td		{cellpadding:0px; border-spacing:0px;}
+			tr		{cellpadding:0px; border-spacing:0px;}
+			/* Client-specific Styles */
+			#outlook a{padding:0;} /* Force Outlook to provide a "view in browser"
+message */
+			.ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail
+to display emails at full width */
+			.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass
+font, .ExternalClass td, .ExternalClass div {line-height: 100%;} /* Force
+Hotmail to display normal line spacing */
+			body, table, td, a{-webkit-text-size-adjust:100%;
+-ms-text-size-adjust:100%;} /* Prevent WebKit and Windows mobile changing
+default text sizes */
+			table, td{mso-table-lspace:0pt; mso-table-rspace:0pt;} /* Remove spacing
+between tables in Outlook 2007 and up */
+			img{-ms-interpolation-mode:bicubic;} /* Allow smoother rendering of
+resized image in Internet Explorer */
+		</style>
+	</head>
+	<body bgcolor="#f1f1f1">
+<table id="wrappertable" style="table-layout: fixed; width: 100%;"
+cellspacing="0" cellpadding="0" border="0">
+<tbody>
+<tr>
+<td valign="top" align="center">
+<table style="padding-bottom: 0px; background-color: #ffffff;"
+cellspacing="0" cellpadding="0" border="0">
+<tbody>
+<tr>
+<td width="600" valign="top" align="center"><!-- GK: image-->
+<table style="width: 100%;" cellspacing="0" cellpadding="0" border="0">
+<tbody>
+<tr>
+<td style="padding: 0 0px;" valign="top" align="center">
+<table cellspacing="0" cellpadding="0" border="0">
+<tbody>
+<tr>
+<td style="font-size: 1px; line-height: 1px;" width="600" valign="middle"
+align="center"><a
+href="http://treeleaves.co/te/link.php?M=2447028&N=25&L=4&F=H"
+style="outline: 0;" target="_blank"><img
+src="http://treeleaves.co/te/admin/temp/newsletters/4/bg-edeka-mob.jpg"
+style="width: 100%; max-width: 100%;" alt="bg-edeka-mob.jpg"
+title="bg-edeka-mob.jpg" width="660" border="0" height="413" /></a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!-- GK: / image--> <!-- GK: content-->
+<table style="background: #ffffff none repeat scroll 0% 0%; width: 100%;"
+cellspacing="0" cellpadding="0" border="0">
+<tbody>
+<tr>
+<td valign="top" align="center">
+<table style="margin-top: 10px; padding-left: 2px; padding-right: 2px;
+line-height: 0px;" cellspacing="0" cellpadding="0" border="0">
+<tbody>
+<tr>
+<td style="font-size: 0px !important;" width="490" valign="top"
+align="right"><!--GK:  text-->
+<table style="width: 100%;" cellspacing="0" cellpadding="0" border="0">
+<tbody>
+<tr>
+<td style="font-family: Arial, Helvetica, sans-serif; font-size: 14px;
+line-height: 24px; color: #25518e; padding-left: 10px; padding-right: 10px;
+min-height: 20px; mso-line-height-rule: exactly;"
+valign="middle"><strong>Hallo <salutation>
+<lastname>,</lastname></salutation></strong><br /> Vor drei Tagen haben wir
+Ihnen mitgeteilt, das wir Ihnen einen m&ouml;glichen <b><a
+href="http://treeleaves.co/te/link.php?M=2447028&N=25&L=4&F=H">EDEKA
+Einkaufsgutschein im Wert von 500 &euro;</a></b> zusenden
+k&ouml;nnten.<b></b><br /> <br /> Bisher haben Sie den m&ouml;glichen
+Gutschein nicht angefordert. Besteht Ihrerseits kein Interesse mehr?<br />
+<a href="http://treeleaves.co/te/link.php?M=2447028&N=25&L=4&F=H"><b>Das
+Angebot gilt nur noch 3 Tage!</b></a><br /> <br /> <b>Ihre Vorteile:</b><br
+/>
+<div style="line-height: 17pt;">- in allen Filialen einl&ouml;sbar<br /> -
+sofort, einfach und unverbindlich<br /> - 100% kostenlos</div>
+<b><a href="http://treeleaves.co/te/link.php?M=2447028&N=25&L=4&F=H">Falls
+Sie also als Gutscheinempf&auml;nger ausgew&auml;hlt wurden, hier
+nachsehen</a></b><br /> <br /> Mit freundlichen Gr&uuml;&szlig;en,<br />
+Ihr Gewinner Team</td>
+</tr>
+</tbody>
+</table>
+<!--GK: / text--> <!-- GK: Button-->
+<table style="width: 100%;" cellspacing="0" cellpadding="0" border="0">
+<tbody>
+<tr>
+<td style="padding: 20px 20px 20px 10px;" valign="top" align="center">
+<table cellspacing="0" cellpadding="0" border="0">
+<tbody>
+<tr>
+<td style="padding-top: 5px; line-height: 0px;"></td>
+</tr>
+<tr>
+<td width="238" valign="top" align="center">
+<table style="width: 100%;" cellspacing="0" cellpadding="0" border="0">
+<tbody>
+<tr>
+<td style="background: #F8EC00; color: #0e4e8e; border-radius: 0px;"
+width="238" valign="middle" align="center" height="40"><a style="display:
+block; text-decoration: none; padding-left: 12px; padding-right: 12px;
+padding-top: 6px; padding-bottom: 6px; font-family: 'Arial', verdana,
+sans-serif; font-size: 16px; mso-line-height-rule: exactly; line-height:
+32px; font-weight: 400; color: #0e4e8e;"
+href="http://treeleaves.co/te/link.php?M=2447028&N=25&L=4&F=H"
+target="_blank">&raquo; zur Anmeldung</a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!-- GK: / Button--></td>
+</tr>
+</tbody>
+</table>
+<table style="width: 100%;" cellspacing="0" cellpadding="0" border="0">
+<tbody>
+<tr>
+<td style="padding-top: 10px; line-height: 0px; text-align: center;"><a
+href="http://treeleaves.co/te/unsubscribe.php?M=2447028&C=5a8cf37b075bcb4d49ad247d45477736&L=20&N=25"><span
+style="color: #3366ff; font-family: arial,helvetica,sans-serif; font-size:
+x-small;">Wenn Sie keine E-Mail von uns erhalten m&ouml;chten, k&ouml;nnen
+Sie sich hier abmelden</span><br /></a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<br /><img
+src="http://rollmeindoor.com/impression/bfab8b0e-5e05-44a5-8c95-6456e8bcf926?source=aues&amp;email=kontakt@dorianvasco.de"
+width="0px" height="0px" />
+<img
+src="http://treeleaves.co/te/open.php?M=2447028&L=20&N=25&F=H&image=.jpg"
+height="1" width="10"></body>
+</html>
+
+--b1_d03caccf0d1739a7f5b6ca9c3b3bee6f--
+
+

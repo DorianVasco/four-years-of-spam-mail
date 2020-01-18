@@ -1,0 +1,63 @@
+Return-Path: <info@kriptabot.ru>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 34C66C169D
+	for <mail@dorianvasco.de>; Thu, 22 Nov 2018 19:01:08 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: -0.099
+X-Spam-Level:
+X-Spam-Status: No, score=-0.099 required=5.5 tests=[DKIM_SIGNED=0.1,
+	DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1, HTML_MESSAGE=0.001,
+	RCVD_IN_DNSWL_BLOCKED=0.001, SPF_HELO_PASS=-0.001, SPF_PASS=-0.001,
+	URIBL_BLOCKED=0.001] autolearn=unavailable
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id gIWMs-KiUdBV for <mail@dorianvasco.de>;
+	Thu, 22 Nov 2018 19:01:06 +0100 (CET)
+Received: from kriptabot.ru (kriptabot.ru [37.228.118.238])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id CF6DCC1487
+	for <mail@dorianvasco.de>; Thu, 22 Nov 2018 19:01:06 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=key1; d=kriptabot.ru;
+ h=Message-ID:Reply-To:From:To:Subject:Date:MIME-Version:Content-Type; i=info@kriptabot.ru;
+ bh=CpX4mJk+Poau3if7IV7wOMPBNuo=;
+ b=Q7vyMMV/TV+Qjg2kSxHd6SAAbuwfc5Monp/7Pv6bDX7ObS3gi1Yn1oJy5v+Btb/QZxWmi6KKOKei
+   XDv02vo9uf1kqqJJansX3wvpJ11UIsfqVjGci91JmTG6JSibqc4IGt+Px5Tntes9LfaAtrhOx/l+
+   IVQ1oi2dEaXaQA0eWlM=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=key1; d=kriptabot.ru;
+ b=Bq214R7qJCe57sETL8mJe/UYd4AueH2dxzGqMNleGB3M1hYF3o5VMh3SoofpIRukZw26rMSWwG5F
+   dTHUVUNscTTUuRKGfk+JL4zSnUdoTSVHCcatpIs9Z88NobN4i/zb8ZIwW/z4aY0SOYNLVr8tbidH
+   xO8luDnhrXrCpTFsFI4=;
+Message-ID: <0e902a8276f56ceccf3016454e9aa29ebd4c8994f2@kriptabot.ru>
+Reply-To: "Rendell Dzherald" <bounce@kriptabot.ru>
+From: "Rendell Dzherald" <info@kriptabot.ru>
+To: <mail@dorianvasco.de>
+Subject: Please note  a good  offers
+Date: Thu, 22 Nov 2018 21:03:18 +0300
+Organization: Stivenson Frenk
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="8a1a53a8efb79d94d8dd6bc721c5efe81692b0"
+X-Priority: 1
+
+--8a1a53a8efb79d94d8dd6bc721c5efe81692b0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+=C2=A0 =C2=A0=C2=A0Good news ! =C2=A0 a fine offers Just click on the lin=
+k below to qualify
+
+--8a1a53a8efb79d94d8dd6bc721c5efe81692b0
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<HTML><HEAD>
+<META http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+</HEAD>
+<BODY bgColor=3D#ffffff>
+<DIV align=3Dleft><A=20
+href=3D"https://drive.google.com/file/d/12MHS42lqeDLXhsHvQoQkVuq50aq3iiNr=
+/preview">&nbsp; &nbsp;&nbsp;Good news ! &nbsp;=20
+a fine offers Just click on the link below to qualify=20
+</A></DIV></BODY></HTML>
+
+--8a1a53a8efb79d94d8dd6bc721c5efe81692b0--

@@ -1,0 +1,118 @@
+Return-Path: <maltevogelweide@boatings.bookmarker.top>
+Delivered-To: mail@elementk.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 5F536C3DC1
+	for <mail@elementk.de>; Thu, 22 Aug 2019 10:20:15 +0200 (CEST)
+Authentication-Results: v22014122474822114.stilfilm.com; dkim=pass
+	reason="1024-bit key; insecure key"
+	header.d=boatings.bookmarker.top header.i=@boatings.bookmarker.top
+	header.b=Ol+gI4ls; dkim-adsp=pass; dkim-atps=neutral
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: 3.75
+X-Spam-Level: ***
+X-Spam-Status: No, score=3.75 required=5.5 tests=[BAYES_50=0.8,
+	DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	SPF_HELO_NONE=0.001, SPF_PASS=-0.001, TRACKER_ID=0.1,
+	URIBL_ABUSE_SURBL=1.25, URIBL_BLACK=1.7] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 5S0Kpr7tZvb4 for <mail@elementk.de>;
+	Thu, 22 Aug 2019 10:20:11 +0200 (CEST)
+Received: from mx.boatings.bookmarker.top (mx.boatings.bookmarker.top [68.183.93.202])
+	(using TLSv1.2 with cipher ADH-AES256-GCM-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id A060DC0D1C
+	for <mail@elementk.de>; Thu, 22 Aug 2019 10:20:05 +0200 (CEST)
+Received: from mx.boatings.bookmarker.top (mx.boatings.bookmarker.top [127.0.0.1])
+	by mx.boatings.bookmarker.top (Postfix) with ESMTP id 46DcsD5FyBz25mc
+	for <mail@elementk.de>; Thu, 22 Aug 2019 08:20:00 +0000 (UTC)
+Authentication-Results: mx.boatings.bookmarker.top (amavisd-new);
+	dkim=pass (1024-bit key) reason="pass (just generated, assumed good)"
+	header.d=boatings.bookmarker.top
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=
+	boatings.bookmarker.top; h=content-transfer-encoding
+	:content-type:content-type:mime-version:message-id:x-mailer
+	:user-agent:reply-to:list-unsubscribe:subject:subject:to:from
+	:from:date:date; s=dkim; t=1566462000; x=1569054001; bh=2PlAr1Hh
+	+dHM405qjiwKFBz4OJNh2VVSa1w3DqSSsOg=; b=Ol+gI4lssltKLwuosOmbm2WA
+	3iygJ8pHG6XNoUVzuo50HA7gpNOYfTfJ3KtdwvPqr4oYCdZVKGep+BuQA9km5pG+
+	lReWLW8dKWHXq+BvgUTS/vVDsHxMxp7lMjN7omLQWi6X4D41ACheuYGNj4uUmYVJ
+	wzfsxpMK9og/w+RQ/U8=
+X-Virus-Scanned: Debian amavisd-new at mx.boatings.bookmarker.top
+Received: from mx.boatings.bookmarker.top ([127.0.0.1])
+	by mx.boatings.bookmarker.top (mx.boatings.bookmarker.top [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id t8zVk9X6wlKQ for <mail@elementk.de>;
+	Thu, 22 Aug 2019 08:20:00 +0000 (UTC)
+Received: from [127.0.0.1] (mx.boatings.bookmarker.top [127.0.0.1])
+	by mx.boatings.bookmarker.top (Postfix) with ESMTP id 46DcZS4P5nz24HS
+	for <mail@elementk.de>; Thu, 22 Aug 2019 08:07:12 +0000 (UTC)
+Date: Thu, 22 Aug 2019 09:07:12 +0100
+From: "4LbTr4uM" <maltevogelweide@boatings.bookmarker.top>
+To: mail@elementk.de
+Subject: =?UTF-8?Q?Was=20zum=20Teufel=20machst=20du,=20P=C3=A4dophiler=3F?=
+List-Unsubscribe: <http://boatings.bookmarker.top/unsubscribe/Y29xR05JUnUzeUtQcUJLZmY3Q2o0MXFvMnFpanQyRnpUcTR0SnZ2dzc1MzI5RW9HNW80ZGZ3c0lQblZDYk1WdFNWVnRLQ3RnSUIybUlqNGhMbTBRcjdBOWFPSWhSbFFXVWN1OStBaW4zZEE9>
+Reply-To: <maltevogelweide@boatings.bookmarker.top>
+User-Agent: CodeIgniter
+X-Sender: maltevogelweide@boatings.bookmarker.top
+X-Mailer: CodeIgniter
+X-Priority: 3 (Normal)
+Message-ID: <5d5e4d3070ed2@boatings.bookmarker.top>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+WACH AUF, mail@elementk.de!
+
+Glaubst du wirklich, dass es eine Art Witz war oder dass du mich ignorieren
+kannst?
+
+Ich kann sehen, was du tust, Pädo.
+
+Hör auf zu SHOPPEN und zu ficken, deine Zeit ist fast vorbei.
+Ja, ich weiß, was du gestern gemacht hast. Ich beobachte dich.
+
+Übrigens. schönes Auto du bist da .. ich frage mich, wie es mit großen
+'pädophilen' Aufklebern aussehen wird ..
+
+
+Weil du denkst, du bist schlauer und kannst mich ignorieren, poste ich die 4
+Videos, die ich mit dir aufgenommen habe und die gerade für Kinder
+masturbieren. Ich werde die von mir erworbenen Videos zusammen mit einigen
+Ihrer Daten in das Online-Forum hochladen. Ich bin sicher, sie werden es
+lieben, Sie in Aktion zu sehen, und Sie werden bald entdecken, was wir mit
+Pädophilen wie Ihnen machen.
+
+Wenn Sie diese Bitcoin-Adresse bis nächsten Mittwoch nicht mit 5,000 Euro
+finanzieren, werde ich Ihre Verwandten und jeden auf Ihren Kontaktlisten
+kontaktieren und ihnen Ihre Pädophilie-Aufzeichnungen zeigen.
+
+
+Der Bitcoin-Preis hat sich geändert, seitdem ich Sie das letzte Mal
+kontaktiert habe. Hier sind die neuen Überweisungsdetails:
+
+=====================================
+Senden Sie:
+
+0.56549723 BTC
+
+an diese Bitcoin-Adresse:
+
+3JXcBZWK44sAJsSkGNFr7ckg9Cvo4zCo8j
+
+=====================================
+
+Es gibt viele Orte, an denen Sie Bitcoin wie Bitstamp, Coinbase, Kraken usw.
+kaufen können. Registrieren Sie sich, validieren Sie Ihr Konto, kaufen Sie
+0.56549723 BTC und senden Sie es an meine Adresse -
+3JXcBZWK44sAJsSkGNFr7ckg9Cvo4zCo8j - kopieren Sie es und fügen Sie es ein.
+
+5,000 Euro = 0.56549723 BTC.
+
+Wenn du dich retten willst - handle besser schnell, denn jetzt bist du
+GEFICKT. Wir werden dich nicht alleine lassen und es gibt viele Leute in den
+Gruppen, die dein Leben wirklich schlecht machen, du verdammter Pädo.
+
+
+4LbTr4uM
+

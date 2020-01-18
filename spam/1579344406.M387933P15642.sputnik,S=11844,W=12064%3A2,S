@@ -1,0 +1,220 @@
+Return-Path: <andrea@bitbond.de>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 82505D310F
+	for <mail@dorianvasco.de>; Wed, 13 Feb 2019 15:55:52 +0100 (CET)
+Authentication-Results: v22014122474822114.stilfilm.com; dkim=pass
+	reason="1024-bit key; insecure key"
+	header.d=bitbond.de header.i=@bitbond.de header.b=MVbKLgYX;
+	dkim-adsp=pass; dkim-atps=neutral
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: 0.295
+X-Spam-Level:
+X-Spam-Status: No, score=0.295 required=5.5 tests=[DKIM_SIGNED=0.1,
+	DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1, FROM_EXCESS_BASE64=0.105,
+	HTML_FONT_FACE_BAD=0.289, HTML_MESSAGE=0.001, SPF_PASS=-0.001,
+	URIBL_BLOCKED=0.001] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id HdHS5wqed8R6 for <mail@dorianvasco.de>;
+	Wed, 13 Feb 2019 15:55:50 +0100 (CET)
+Received: from mail-qk1-f193.google.com (mail-qk1-f193.google.com [209.85.222.193])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id 4F96FD311C
+	for <mail@dorianvasco.de>; Wed, 13 Feb 2019 15:55:50 +0100 (CET)
+Received: by mail-qk1-f193.google.com with SMTP id f196so1466718qke.10
+        for <mail@dorianvasco.de>; Wed, 13 Feb 2019 06:55:50 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=bitbond.de; s=google;
+        h=date:from:to:message-id:in-reply-to:references:subject:mime-version
+         :content-transfer-encoding;
+        bh=L5k0X/SCzs6C6ZdvlYxlbgW/VGfpIHPSOmY8Nhg+2LM=;
+        b=MVbKLgYXr0vCnhU1/UgZeHQIgMOVdM/d0R0rNanJhT8+KPRzPh3atT4gLfrSOGbK7H
+         9oTRft7OI9nzSjEj1HrvNdga99zDW/htNfW8VLUamwdWBWNK+ubON5wvoZ+B2ZwFaaYy
+         WvxG4BxbgHTWDxKbapvA2SqVfFMFjPPS67RTg=
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:date:from:to:message-id:in-reply-to:references
+         :subject:mime-version:content-transfer-encoding;
+        bh=L5k0X/SCzs6C6ZdvlYxlbgW/VGfpIHPSOmY8Nhg+2LM=;
+        b=smQdK084mjaTp4ydeHovFjWL42XCSA8Gf+h0lvwImbqbpfJKUPeZnD4hjcv7VRoKL8
+         E4FujzUnWEZaMxVp3Imia+0C6SYrp4hU9YGtQvEXK4n+Y7QlG2RzqOA62XGUFIQ5vnar
+         lidbC4oWFZJoMea7PglqPMNQ9/bztAANFwz7BPP9fplhgXV25DnE02H8FNPJKdI9Vv5J
+         mKd1mRziOODZgnTvU1SkIHBvxaamaE/FzU2cF5qAfcBKUmHmQDqyYzGcARZxAPwCxRyW
+         hJG4CdtLoxl2HC1XSSP+a4F5RG/MG3zxrt3ijhSsazsKdMkNw8ZsvtB/uVNwwb7mLjD8
+         0r4Q==
+X-Gm-Message-State: AHQUAuY1oe9wdKD+M3s9aHFT4CrZXGkTxVygy34OvDm+gQKlr3qMu1N5
+	pfXGBUz66i2gm6Ca3hAVXG1GDBG6yOM=
+X-Google-Smtp-Source: AHgI3IYaji+RbQvUcYU7Zd9xJllQPuEmT/z2DvXRnHI0jqI49pmV8PVqyTjyThiTZ99hscz1YO5VGQ==
+X-Received: by 2002:a37:9d56:: with SMTP id g83mr648010qke.351.1550069748835;
+        Wed, 13 Feb 2019 06:55:48 -0800 (PST)
+Received: from bitbond.de (ec2-54-221-12-38.compute-1.amazonaws.com. [54.221.12.38])
+        by smtp.gmail.com with ESMTPSA id z41sm13023462qtz.5.2019.02.13.06.55.47
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Wed, 13 Feb 2019 06:55:47 -0800 (PST)
+Date: Wed, 13 Feb 2019 14:55:46 +0000
+From: =?UTF-8?B?QW5kcmVhIFLDvGhtYW5u?= <andrea@bitbond.de>
+To: mail@dorianvasco.de
+Message-ID: <5c642ff2d57c8_33fe5b615d804141405c@b3b352dc-4c87-491a-bf69-ccf30f7684ea.mail>
+In-Reply-To: <5c63180a57fa5_32acd4c8fd7cc795673c@58282463-253a-44cd-b3cc-a2871fa60ad9.mail>
+References: <5c63180a57fa5_32acd4c8fd7cc795673c@58282463-253a-44cd-b3cc-a2871fa60ad9.mail>
+Subject: Re: Steigern Sie Ihr Wachstum mit einer einfachen Finanzierung von
+ Bitbond!
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--==_mimepart_5c642ff2d24b9_33fe5b615d80414139b8";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+
+----==_mimepart_5c642ff2d24b9_33fe5b615d80414139b8
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Hallo liebes Dorianvasco team,
+
+
+Hatten Sie schon Gelegenheit, meine gestrige E-Mail zu lesen?
+
+
+Falls Sie sich nicht f=C3=BCr unsere Dienstleistung interessieren, antwor=
+ten Sie einfach mit "abmelden" auf diese E-Mail.
+
+
+Beste Gr=C3=BC=C3=9Fe
+
+
+Andrea R=C3=BChmann=C2=A0
+
+Finanzierungsberater
+
+
+Web:=C2=A0www.bitbond.com/de (https://t.yesware.com/tt/3d94d52c12ba29f98d=
+fa09944464caf4555d9828/3a8ddab78add2545ec32623ea307b10f/8910c00283e2518e8=
+26b24c23ad3c35d/www.bitbond.com/de/?utm_source=3Dyesware&utm_medium=3Dema=
+il&utm_term=3Dborrowers&utm_content=3Demail_link&utm_campaign=3D2019-01-1=
+8_de_bw_wordpress_8_8669)
+
+Bitbond GmbH | Strelitzer Stra=C3=9Fe 60 | 10115 Berlin
+
+HRB 146980 B, Amtsgericht Charlottenburg | USt-IdNr: DE288357799
+
+This e-mail contains confidential and/or legally protected information. I=
+f you are not the intended recipient or if you have received this e-mail =
+by error please notify the sender immediately and destroy this e-mail. An=
+y unauthorized review, copying, disclosure or distribution of the materia=
+l in this e-mail is strictly forbidden. The contents of this e-mail is le=
+gally binding only if it is confirmed by letter or fax. The sending of e-=
+mails to us does not have any period-protecting effect. Thank you for you=
+r cooperation.
+
+
+Falls Sie sich nicht f=C3=BCr unsere Dienstleistung interessieren, antwor=
+ten Sie einfach mit "abmelden" auf diese E-Mail.=
+
+----==_mimepart_5c642ff2d24b9_33fe5b615d80414139b8
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div>
+<p dir=3D"ltr" style=3D"line-height: 2.38464; margin-top: 0pt; margin-bot=
+tom: 0pt;"><span style=3D"font-size: 13px; font-family: arial, helvetica,=
+ sans-serif; font-variant-numeric: normal; font-variant-east-asian: norma=
+l; vertical-align: baseline; white-space: pre-wrap;">Hallo liebes Dorianv=
+asco team,</span></p>
+<p dir=3D"ltr" style=3D"line-height: 1.38; margin-top: 0pt; margin-bottom=
+: 0pt;"><br></p>
+<p dir=3D"ltr" style=3D"line-height: 1.38; margin-top: 0pt; margin-bottom=
+: 0pt;"><span style=3D"font-size: 13px; font-family: arial, helvetica, sa=
+ns-serif; font-variant-numeric: normal; font-variant-east-asian: normal; =
+vertical-align: baseline; white-space: pre-wrap;">Hatten Sie schon Gelege=
+nheit, meine gestrige E-Mail zu lesen?</span></p>
+<p dir=3D"ltr" style=3D"line-height: 1.38; margin-top: 0pt; margin-bottom=
+: 0pt;"><br></p>
+<p dir=3D"ltr" style=3D"line-height: 1.38; margin-top: 0pt; margin-bottom=
+: 0pt;"><span style=3D"font-size: 13px; font-family: arial, helvetica, sa=
+ns-serif; font-variant-numeric: normal; font-variant-east-asian: normal; =
+vertical-align: baseline; white-space: pre-wrap;">Falls Sie sich nicht f=C3=
+=BCr unsere Dienstleistung interessieren, antworten Sie einfach mit "abme=
+lden" auf diese E-Mail.</span></p>
+<div><br></div>
+<p dir=3D"ltr" style=3D"line-height: 1.38; margin-top: 0pt; margin-bottom=
+: 0pt;"><span>Beste Gr=C3=BC=C3=9Fe</span></p>
+<p dir=3D"ltr" style=3D"line-height: 1.38; margin-top: 0pt; margin-bottom=
+: 0pt;"><br></p>
+<p dir=3D"ltr" style=3D"line-height: 1.38; margin-top: 0pt; margin-bottom=
+: 0pt;"><span>Andrea R=C3=BChmann<span style=3D"white-space: pre-wrap;">=C2=
+=A0</span></span></p>
+<p dir=3D"ltr" style=3D"line-height: 1.38; margin-top: 0pt; margin-bottom=
+: 0pt;"><span style=3D"white-space: pre-wrap; font-family: arial, helveti=
+ca, sans-serif; font-size: 13px;">Finanzierungsberater</span></p>
+<p dir=3D"ltr" style=3D"line-height: 1.9871999999999999; margin-top: 0pt;=
+ margin-bottom: 0pt;"><br></p>
+<p dir=3D"ltr" style=3D"line-height: 1.9871999999999999; margin-top: 0pt;=
+ margin-bottom: 0pt;"><span style=3D"font-size: 10pt; font-family: Arial;=
+ font-variant-numeric: normal; font-variant-east-asian: normal; vertical-=
+align: baseline; white-space: pre-wrap;"><img style=3D"border: none; tran=
+sform: rotate(0.00rad); -webkit-transform: rotate(0.00rad);" src=3D"https=
+://lh4.googleusercontent.com/WHC6gzwG_2FyEeVCG_BufnmJHZPjrnLnflcFzVTYANSS=
+iBcCi3VtsOcrcLrduYZ-TmIB14g0s8zoj6KisMBTkUMUd3cluiZx1cJZFwxnEvUUJaUyxNBEJ=
+Wlt5P23vYAJnBgGaa_3" alt=3D"Picture result for bitbond" width=3D"128" hei=
+ght=3D"21"></span></p>
+<p dir=3D"ltr" style=3D"line-height: 1.9871999999999999; margin-top: 0pt;=
+ margin-bottom: 0pt;"><span><span style=3D"font-family: Arial; color: #22=
+2222; font-style: italic; font-variant-numeric: normal; font-variant-east=
+-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Web:</s=
+pan><a style=3D"text-decoration-line: none;" href=3D"https://t.yesware.co=
+m/tt/3d94d52c12ba29f98dfa09944464caf4555d9828/3a8ddab78add2545ec32623ea30=
+7b10f/8910c00283e2518e826b24c23ad3c35d/www.bitbond.com/de/?utm_source=3Dy=
+esware&amp;utm_medium=3Demail&amp;utm_term=3Dborrowers&amp;utm_content=3D=
+email_link&amp;utm_campaign=3D2019-01-18_de_bw_wordpress_8_8669">=C2=A0<s=
+pan style=3D"font-family: Arial; color: #0000ff; font-variant-numeric: no=
+rmal; font-variant-east-asian: normal; text-decoration-line: underline; t=
+ext-decoration-skip-ink: none; vertical-align: baseline; white-space: pre=
+-wrap;">www.bitbond.com/de</span></a></span></p>
+<p dir=3D"ltr" style=3D"line-height: 1.9871999999999999; margin-top: 0pt;=
+ margin-bottom: 0pt; background-color: #ffffff;"><span style=3D"font-size=
+: 13px; font-family: Arial; background-color: transparent; font-variant-n=
+umeric: normal; font-variant-east-asian: normal; vertical-align: baseline=
+; white-space: pre-wrap;">Bitbond GmbH | Strelitzer Stra=C3=9Fe 60 | 1011=
+5 Berlin</span></p>
+<p dir=3D"ltr" style=3D"line-height: 1.9871999999999999; margin-top: 0pt;=
+ margin-bottom: 0pt; background-color: #ffffff;"><span style=3D"font-size=
+: 13px; font-family: Arial; background-color: transparent; font-variant-n=
+umeric: normal; font-variant-east-asian: normal; vertical-align: baseline=
+; white-space: pre-wrap;">HRB 146980 B, Amtsgericht Charlottenburg | USt-=
+IdNr: DE288357799</span></p>
+<p dir=3D"ltr" style=3D"line-height: 1.9871999999999999; margin-top: 0pt;=
+ margin-bottom: 0pt;"><span style=3D"font-size: 8pt; font-family: Arial; =
+color: #444444; font-variant-numeric: normal; font-variant-east-asian: no=
+rmal; vertical-align: baseline; white-space: pre-wrap;">This e-mail conta=
+ins confidential and/or legally protected information. If you are not the=
+ intended recipient or if you have received this e-mail by error please n=
+otify the sender immediately and destroy this e-mail. Any unauthorized re=
+view, copying, disclosure or distribution of the material in this e-mail =
+is strictly forbidden. The contents of this e-mail is legally binding onl=
+y if it is confirmed by letter or fax. The sending of e-mails to us does =
+not have any period-protecting effect. Thank you for your cooperation.</s=
+pan></p>
+<div><br></div>
+<p dir=3D"ltr" style=3D"line-height: 1.38; margin-top: 0pt; margin-bottom=
+: 0pt;"><span style=3D"font-size: 10pt; font-family: Arial; font-variant-=
+numeric: normal; font-variant-east-asian: normal; vertical-align: baselin=
+e; white-space: pre-wrap;">Falls Sie sich nicht f=C3=BCr unsere Dienstlei=
+stung interessieren, antworten Sie einfach mit "abmelden" auf diese E-Mai=
+l.</span></p>
+</div>
+<div><span style=3D"font-size: 10pt; font-family: Arial; font-variant-num=
+eric: normal; font-variant-east-asian: normal; vertical-align: baseline; =
+white-space: pre-wrap;"><br></span></div><img src=3D"https://t.yesware.co=
+m/t/3d94d52c12ba29f98dfa09944464caf4555d9828/3a8ddab78add2545ec32623ea307=
+b10f/spacer.gif" style=3D"border:0; width:0; height:0; overflow:hidden;" =
+width=3D"0" height=3D"0" /><font face=3D"yw-3d94d52c12ba29f98dfa09944464c=
+af4555d9828-3a8ddab78add2545ec32623ea307b10f--topls" style=3D"display: no=
+ne;"></font>=
+
+----==_mimepart_5c642ff2d24b9_33fe5b615d80414139b8--

@@ -1,0 +1,144 @@
+Return-Path: <MAILER-DAEMON>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id C771FD316C
+	for <mail@dorianvasco.de>; Thu,  9 Mar 2017 08:34:13 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 7.7
+X-Spam-Level: *******
+X-Spam-Status: Yes, score=7.7 required=5.5 tests=[BAYES_50=0.8,
+	HTML_MESSAGE=0.001, RAZOR2_CF_RANGE_51_100=0.5,
+	RAZOR2_CF_RANGE_E8_51_100=1.886, RAZOR2_CHECK=0.922,
+	RCVD_IN_BRBL_LASTEXT=1.449, RCVD_IN_SBL=0.141, URIBL_BLOCKED=0.001,
+	URIBL_DBL_ABUSE_SPAM=2] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.yourvserver.net [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id DoKoBY4Jxh9u for <mail@dorianvasco.de>;
+	Thu,  9 Mar 2017 08:34:12 +0100 (CET)
+Received: from smtp.lepida.it (smtp.lepida.it [195.62.186.207])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 85975D2FB8
+	for <kontakt@dorianvasco.de>; Thu,  9 Mar 2017 08:34:12 +0100 (CET)
+Received: by smtp.lepida.it (Postfix)
+	id 76D1E575FA00C; Thu,  9 Mar 2017 08:49:51 +0100 (CET)
+Date: Thu,  9 Mar 2017 08:49:51 +0100 (CET)
+From: MAILER-DAEMON@smtp.lepida.it (Mail Delivery System)
+Subject: ***SPAM*** Undelivered Mail Returned to Sender
+To: kontakt@dorianvasco.de
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="D41F25755C181.1489045791/smtp.lepida.it"
+Message-Id: <20170309074952.76D1E575FA00C@smtp.lepida.it>
+
+This is a MIME-encapsulated message.
+
+--D41F25755C181.1489045791/smtp.lepida.it
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host smtp.lepida.it.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<ggagnondd@comune.re.it>: host 193.43.187.233[193.43.187.233] said: 550 5.1.1
+    Recipient address rejected: User unknown (in reply to RCPT TO command)
+
+--D41F25755C181.1489045791/smtp.lepida.it
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; smtp.lepida.it
+X-Postfix-Queue-ID: D41F25755C181
+X-Postfix-Sender: rfc822; kontakt@dorianvasco.de
+Arrival-Date: Thu,  9 Mar 2017 08:30:20 +0100 (CET)
+
+Final-Recipient: rfc822; ggagnondd@comune.re.it
+Original-Recipient: rfc822;ggagnondd@comune.re.it
+Action: failed
+Status: 5.1.1
+Remote-MTA: dns; 193.43.187.233
+Diagnostic-Code: smtp; 550 5.1.1 Recipient address rejected: User unknown
+
+--D41F25755C181.1489045791/smtp.lepida.it
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+
+Return-Path: <kontakt@dorianvasco.de>
+Received: from 187-60-133-7.navinet.com.br (187-60-133-7.navinet.com.br [187.60.133.7])
+	by smtp.lepida.it (Postfix) with ESMTP id D41F25755C181
+	for <ggagnondd@comune.re.it>; Thu,  9 Mar 2017 08:30:20 +0100 (CET)
+Message-ID: <001401d2988a$03c6b30c$18f02ea7@qxsfooce>
+From: <kontakt@dorianvasco.de>
+To: <ggagnondd@comune.re.it>
+Subject: 
+Date: 8 Mar 2017 23:45:12 -0400
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0011_01D2988A.03C1F12B"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.2725
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.2725
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0011_01D2988A.03C1F12B
+Content-Type: text/plain;
+	charset="cp-850"
+Content-Transfer-Encoding: quoted-printable
+
+Caro ggagnondd,
+
+Io sono HR manager di una grande compagnia internazionale.
+La nostra azienda &#232; alla ricerca di collaboratori intraprendenti.
+
+Il stipendio possibile da 2500 a 5000 euro al mese.
+
+Se Le interessa nostra offerta - si prega di visitare il=20
+Nostro Sito
+
+Con i migliori saluti,
+HR Manager
+Ufficio Internazionale
+------=_NextPart_000_0011_01D2988A.03C1F12B
+Content-Type: text/html;
+	charset="cp-850"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META http-equiv=3DContent-Type content=3D"text/html; charset=3Dcp-850">
+<META content=3D"MSHTML 6.00.2600.2725" name=3DGENERATOR>
+<STYLE></STYLE>
+</HEAD>
+<BODY bgColor=3D#ffffff>
+Caro ggagnondd,<br>
+<br>
+Io sono HR manager di una grande compagnia internazionale.<br>
+La nostra azienda &#232; alla ricerca di collaboratori =
+intraprendenti.<br>
+<b>Il stipendio possibile da 2500 a 5000 euro al mese.</b><br>
+<br>
+
+Se Le interessa nostra offerta - si prega di visitare il <a =
+href=3D"http://www.streamfusionacademy.com/wp-content/uploads/37da3b3b3b.=
+html"><b>Nostro Sito</b></a><br>
+
+<br>
+Con i migliori saluti,<br>
+HR Manager<br>
+Ufficio Internazionale<br></BODY></HTML>
+------=_NextPart_000_0011_01D2988A.03C1F12B--
+
+
+
+--D41F25755C181.1489045791/smtp.lepida.it--

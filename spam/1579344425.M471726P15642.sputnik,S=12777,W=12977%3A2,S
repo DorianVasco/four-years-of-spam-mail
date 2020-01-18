@@ -1,0 +1,200 @@
+Return-Path: <14385-526-625753748-4954-mail=dorianvasco.de@mail.hansabaub.us>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id B4944D32DE
+	for <mail@dorianvasco.de>; Fri,  5 Apr 2019 21:01:34 +0200 (CEST)
+Authentication-Results: v22014122474822114.stilfilm.com; dkim=fail
+	reason="verification failed; insecure key"
+	header.d=hansabaub.us header.i=exback@hansabaub.us
+	header.b=A9IrF6um; dkim-adsp=unknown (insecure policy);
+	dkim-atps=neutral
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 7.172
+X-Spam-Level: *******
+X-Spam-Status: Yes, score=7.172 required=5.5 tests=[BAYES_99=3.5,
+	BAYES_999=0.2, DKIM_INVALID=0.1, DKIM_SIGNED=0.1, HTML_MESSAGE=0.001,
+	LOTS_OF_MONEY=0.001, MIME_HTML_MOSTLY=0.428, MPART_ALT_DIFF=0.79,
+	RDNS_NONE=0.793, SPF_PASS=-0.001, T_REMOTE_IMAGE=0.01,
+	URIBL_ABUSE_SURBL=1.25] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id hOIMZPSf47RM for <mail@dorianvasco.de>;
+	Fri,  5 Apr 2019 21:01:27 +0200 (CEST)
+Received: from burke.hansabaub.us (unknown [162.244.11.133])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 51C3ED32D1
+	for <mail@dorianvasco.de>; Fri,  5 Apr 2019 21:01:24 +0200 (CEST)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=hansabaub.us;
+ h=Mime-Version:Content-Type:Date:From:Reply-To:Subject:To:Message-ID; i=exback@hansabaub.us;
+ bh=j6wxr6XDY+Vn/ZLBnBHAiP4VbFc=;
+ b=A9IrF6um6oUmz+1J528Z9GbzBEEbqO0FSsGE1Lxg+/jmWSnulCzG5rmF+ncb5mXIR6fClQNsXdnw
+   fTVPg5Hc8vC84qh7Xs8WlCYCuUE5512JsZ0GVEB13J+2azI6W/EWNJFF15HmILW/oIPfCO12rwsY
+   q3tNt24hwMIPTV5ufwM=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=k1; d=hansabaub.us;
+ b=HdmeWZDEeCtqtN0PgmCmDlOhKOyNoIRYiQj8es+goTzd3UcxI31mSHituDPN11Lh1Jp+eY+VQ3ZQ
+   Fi7esnwwLj4TvAqjYlfShVLxwGdLGx9BmkDmtzztQMseTGEhszkjJNdSwda/B+XBKpCxW9yvRvMU
+   YtDsfmkbCQ17AZhwx1g=;
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="617a127086af12d269e15725d740acc4"
+Date: Fri, 5 Apr 2019 14:00:43 -0500
+From: "Louis Thomas" <exback@hansabaub.us>
+Reply-To: "Louis Thomas" <exback@hansabaub.us>
+Subject: "Use this sneaky 'reverse psychology' trick on your ex"
+To: <mail@dorianvasco.de>
+Message-ID: <8jaf29j79caxljdm-ed3dk5hkzc7vjy97-254c3e94@hansabaub.us>
+
+--617a127086af12d269e15725d740acc4
+Content-Type: text/plain;
+Content-Transfer-Encoding: 8bit
+
+This email must be viewed in HTML mode.
+
+--617a127086af12d269e15725d740acc4
+Content-Type: text/html;
+Content-Transfer-Encoding: 8bit
+
+<html lang="en">
+<head>
+	<title></title>
+	<style type="text/css">glyphicon-lamp:before{content:"\e223"}.glyphicon-duplicate:before{content:"\e224"}.glyphicon-piggy-bank:before{content:"\e225"}.glyphicon-scissors:before{content:"\e226"}.glyphicon-bitcoin:before{content:"\e227"}.glyphicon-btc:before{content:"\e227"}.glyphicon-xbt:before{content:"\e227"}.glyphicon-yen:before{content:"\00a5"}.glyphicon-jpy:before{content:"\00a5"}.glyphicon-ruble:before{content:"\20bd"}.glyphicon-rub:before{content:"\20bd"}.glyphicon-scale:before{content:"\e230"}.glyphicon-ice-lolly:before{content:"\e231"}.glyphicon-ice-lolly-tasted:before{content:"\e232"}.glyphicon-education:before{content:"\e233"}.glyphicon-option-horizontal:before{content:"\e234"}.glyphicon-option-vertical:before{content:"\e235"}.glyphicon-menu-hamburger:before{content:"\e236"}.glyphicon-modal-window:before{content:"\e237"}.glyphicon-oil:before{content:"\e238"}.glyphicon-grain:before{content:"\e239"}.glyphicon-sunglasses:before{content:"\e240"}.glyphicon-text-size:before{cont
+ ent:"\e241"}.glyphicon-text-color:before{content:"\e242"}.glyphicon-text-background:before{content:"\e243"}.glyphicon-object-align-top:before{content:"\e244"}.glyphicon-object-align-bottom:before{content:"\e245"}.glyphicon-object-align-horizontal:before{content:"\e246"}.glyphicon-object-align-left:before{content:"\e247"}.glyphicon-object-align-vertical:before{content:"\e248"}.glyphicon-object-align-right:before{content:"\e249"}.glyphicon-triangle-right:before{content:"\e250"}.glyphicon-triangle-left:before{content:"\e251"}..text-left{text-align:left}.text-right{text-align:right}.text-center{text-align:center}.text-justify{text-align:justify}.text-nowrap{white-space:nowrap}.
+	</style>
+</head>
+<body><a href="http://hansabaub.us/smEQd536BsDk24GI9UFGSwhQPNOTE2mZ6Do9vHvzwd7Ugh8"><img border="0" src="http://hansabaub.us/G9dbWnX-V0bWhYF8OuZ0jEL5EI4Zmqp7tL7uSBokBh3O5azl" /> </a>
+<table border="0" cellpadding="0" cellspacing="0" style="padding:0;margin:0 auto;" width="100%">
+	<tbody>
+		<tr>
+			<td align="center" style="padding:0;margin:0 auto;" valign="top">
+			<table align="center" border="0" cellpadding="0" cellspacing="0" style="padding:0;margin:0 auto; " width="600">
+			</table>
+
+			<table cellpadding="0" cellspacing="0" style="border: 8px solid #848484; " width="635">
+				<tbody>
+					<tr>
+						<td>
+						<table align="center" border="0" cellpadding="0" cellspacing="0" style="border: 0px solid #F4C88C;" width="100%">
+							<tbody>
+								<tr>
+									<td style="padding:20px; font-size:16px; line-height:20px;">
+									<div style="font-family: 'Book Antiqua',Palatino,'Palatino Linotype','Palatino LT STD',Georgia,serif;font-size:16px; line-height:130%;display:inline;border-collapse:collapse;">
+									<p style="font-family: 'Book Antiqua',Palatino,'Palatino Linotype','Palatino LT STD',Georgia,serif; color:#090909;font-size:16px; line-height:100%;display:inline;border-collapse:separate;">Have you ever let that &quot;special someone&quot; go...and regretted it ever since?<br />
+									<br />
+									If you&#39;re interested in rekindling that chemistry with &quot;The One That Got Away&quot;...<br />
+									<br />
+									And if you want to force him or her to feel that DESIRE and ATTRACTION for you again...<br />
+									<br />
+									Then you have to watch this short video presentation by my friend, Brad Browning.<br />
+									<br />
+									<a href="http://hansabaub.us/78PE_bjIPdvgZUXFT662CPYe5WfZn9zu8nGXhyGZ39L-h9iv"><strong>Discover it here:</strong> </a><br />
+									<br />
+									You might think you&#39;ve heard it all before, but this video is actually pretty ground breaking...<br />
+									<br />
+									Brad reveals 3 critical facts that you must know if you want to have your ex on their knees begging you for a second chance...<br />
+									<br />
+									(I can almost guarantee you&#39;ve never even considered any of these 3 facts!)<br />
+									<br />
+									<a href="http://hansabaub.us/78PE_bjIPdvgZUXFT662CPYe5WfZn9zu8nGXhyGZ39L-h9iv"><strong>Learn how to make your ex obsess over you again:</strong> </a></p>
+
+									<p align="left"><a href="http://hansabaub.us/78PE_bjIPdvgZUXFT662CPYe5WfZn9zu8nGXhyGZ39L-h9iv"><img src="http://hansabaub.us/e90a90e2dfc34fc3c0.jpg" /> </a></p>
+
+									<p style="font-family: 'Book Antiqua',Palatino,'Palatino Linotype','Palatino LT STD',Georgia,serif;color:#090909;font-size:16px; line-height:130%;display:inline;border-collapse:separate;">It also doesn&#39;t matter how long it&#39;s been since you two broke up, or how far away you live from each other.<br />
+									<br />
+									If you do EXACTLY what this video teaches you, don&#39;t be surprised if your ex begins fantasizing about you... and bugging you to pick up your phone!<br />
+									<br />
+									So if you&#39;ve tried everything you can think of and you finally want the answer, <a href="http://hansabaub.us/78PE_bjIPdvgZUXFT662CPYe5WfZn9zu8nGXhyGZ39L-h9iv"><strong> then click here to learn more:</strong> </a><br />
+									<br />
+									Enjoy!!<br />
+									Louis Thomas<br />
+									<br />
+									PS. If you want your ex to think getting back together was their idea, pay special attention to the sneaky &#39;reverse psychology&#39; tactic that Brad talks about early . <a href="http://hansabaub.us/78PE_bjIPdvgZUXFT662CPYe5WfZn9zu8nGXhyGZ39L-h9iv"><strong>in the video</strong> </a>Here&#39;s the</p>
+									</div>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="padding:0;margin:0 auto; border:solid 0px #FFFFFF;" width="600">
+	<tbody>
+		<tr>
+			<td align="center" style="padding:0px 5px; font-family:Cambria, 'Hoefler Text', 'Liberation Serif', Times, 'Times New Roman', serif; text-align:center; margin:0 auto; font-size:12px;" valign="top" width="600">
+			<p align="center"><br />
+			<br />
+			<br />
+			<br />
+			<br />
+			&nbsp;</p>
+
+			<div align="center" style="padding-top:55px; font-size:16px; font-family:Tahoma, Geneva, sans-serif; width:; text-align:center;"><a href="http://hansabaub.us/OVRztxZhNPDeXYd17Zbt6C1zK4wALwxb651FULTreEuMPkVZ"><img alt="Unlist Here" src="http://hansabaub.us/0221ca8336dd8b8292.jpg" /> </a><br />
+			<br />
+			<br />
+			<br />
+			<br />
+			<br />
+			&nbsp;</div>
+
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+&nbsp;
+<table align="center" class="dm">
+	<tbody>
+		<tr>
+			<td colspan="2" style="background-color:#ffffff">
+			<p><span style="color:#fff; font-family:constantia,lucida bright,dejavu serif,georgia,serif; ">In October 1883, construction of the Oregon and California Railroad was begun through the center of the Rogue Valley, bypassing Jacksonville, the county seat. The railroad company also constructed a train depot halfway between Central Point and Phoenix, and platted 82 city blocks around it. The townsite was named Medford in December. In 1884, residents celebrated the town&#39;s first Independence Day by firing 38 cannon blasts&mdash;one for each U.S. state&mdash;from Roxy Ann Peak&#39;s summit. Medford grew quickly, and was incorporated on February 24, 1885. </span></p>
+
+			<p><span style="color:#fff; font-family:constantia,lucida bright,dejavu serif,georgia,serif; ">Beginning in the early 1900s, the mountain&#39;s foothills were predominantly used for pear orchards and lignite mining. Mining ceased at the onset of World War I, and many of the orchards were abandoned during the Great Depression, but some still remain. Prescott Park Black plaque with gold letters commemorating George J. Prescott Memorial plaque in Prescott Park </span></p>
+
+			<p><span style="color:#fff; font-family:constantia,lucida bright,dejavu serif,georgia,serif; ">In 1929, the Lions Club purchased two sizable portions of land on the peak, and deeded 200 acres (80.9 ha) to Medford for recreational use the following year. In 1931, the city acquired another 1,500 acres (607.0 ha) via the Recreation and Public Purposes Act, and 40 acres (16 ha) more in 1933. The park was dedicated in 1937 to George J. Prescott, a Lions Club leader and Medford police officer who was killed on duty on March 16, 1933. </span></p>
+
+			<p>&nbsp;</p>
+
+			<p><span style="color:#fff; font-family:constantia,lucida bright,dejavu serif,georgia,serif; ">Starting in 1933, the Civilian Conservation Corps (CCC) made the first improvements to Prescott Park, including constructing 18 miles (29 km) of trails and a 16-foot-wide (4.9 m) access road (Roxy Ann Road), creating several picnic areas and overlooks, and digging drainage ditches. The CCC stopped work in 1942, soon after the beginning of World War II. Park maintenance ceased due to municipal budget problems, and gasoline rationing caused the number of visitors to drop markedly. By 1956, the CCC&#39;s improvements had suffered $110,000 in damage. The trend of disrepair continued for several decades. </span></p>
+
+			<p><span style="color:#fff; font-family:constantia,lucida bright,dejavu serif,georgia,serif; ">During the late 1990s, the park experienced a surge in vandalism, littering, and wildfires caused by off-roading, and Roxy Ann Road became nearly impassable because of lack of maintenance. Medford police officers had to devote much of their time to patrolling the mountain, made difficult by the park&#39;s remote location. To alleviate these problems, the city regraded Roxy Ann Road in 1998, and installed two gates near the park entrance two years later. By 2006, vandalism had decreased by 70 percent. </span></p>
+			<br />
+			<br />
+			<br />
+			&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+&nbsp;
+<p align="center"><a href="http://hansabaub.us/-3PgMM6h3IiZ-F70azQC1EK4OxHp_OdJd6CCoH_a0i53lNU"><img src="http://hansabaub.us/163f73241aca18576a.jpg" /></a></p>
+</body>
+</html>
+
+--617a127086af12d269e15725d740acc4--
+

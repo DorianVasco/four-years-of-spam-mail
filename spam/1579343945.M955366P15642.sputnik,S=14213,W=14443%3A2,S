@@ -1,0 +1,230 @@
+Return-Path: <editorialboard@ijsdr.net>
+Delivered-To: mail@stilfilm.com
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 14BA7D51BC
+	for <mail@stilfilm.com>; Wed, 29 Nov 2017 06:33:25 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: YES
+X-Spam-Score: 6.672
+X-Spam-Level: ******
+X-Spam-Status: Yes, score=6.672 required=5.5 tests=[DKIM_SIGNED=0.1,
+	DKIM_VALID=-0.1, HTML_IMAGE_RATIO_08=0.001, HTML_MESSAGE=0.001,
+	RAZOR2_CF_RANGE_51_100=2.43, RAZOR2_CHECK=1.729,
+	RCVD_IN_DNSWL_NONE=-0.0001, T_REMOTE_IMAGE=0.01, URIBL_BLOCKED=0.001,
+	URIBL_DBL_SPAM=2.5] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id m-hKZRDCadKC for <mail@stilfilm.com>;
+	Wed, 29 Nov 2017 06:33:22 +0100 (CET)
+Received: from mail-it0-f67.google.com (mail-it0-f67.google.com [209.85.214.67])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id 3D353C33C9
+	for <mail@stilfilm.com>; Wed, 29 Nov 2017 06:33:22 +0100 (CET)
+Received: by mail-it0-f67.google.com with SMTP id b5so2618069itc.3
+        for <mail@stilfilm.com>; Tue, 28 Nov 2017 21:33:22 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=ijsdr-net.20150623.gappssmtp.com; s=20150623;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=vzZVVLGRlaHTlFwgDwNiHkt22GLVJC1rK7P3h6K0nes=;
+        b=EdV1KMulJ9dzOqwDXevssAdWTQuXMPyMRcuaeqFJ8VzWQ2IT0Nt/YR4BTfJVjtuKYB
+         rm/sy6quf4m/dftGY+HRaNL0BDnyDs5vo7VS3qfNbd1bIVIvkagbtJbxitktEv7wMOfL
+         +aWEl22mjFW+UckO57+1Gkftz1biTx/m1Rg7b8pQR4UVHiy3iGNu6F4leu6RlBk/HDiP
+         DDE1rtl4/AyYOSYnsHRnOhdo/K0RKctxpQ4WZSLXibETJvlW1MV5DFVqjGkH23Dy84nq
+         Sr40V8pdCwglZyFRt5RKdyjA54YgKFMNdGLN09mc/ef15eVmfVyliSmZRH65+9u4E9J9
+         rHXQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=vzZVVLGRlaHTlFwgDwNiHkt22GLVJC1rK7P3h6K0nes=;
+        b=QQQ7eudmYkzodVpS5QLThY/qLk7YIGHic9EbPNm8Q1oUYroiWpFLeXEDiukGVk9iTM
+         Q2tqPAl8/qBGO2Sz/S8QZ1LHX51derus4DvD50WGlJPZ15DBN1ozWFTY5hknM7JwIgz0
+         1M5lgFsEAdaxUtqVCuqfW9lQenxQXEUOynPWjdsEkENBzoG4nUw3yVdLg+CKh8C7mYLe
+         r+yhGEw23stt0gp6nbfBWl/Mn2UfrjP2vx06Rna+xBGCyhUyiv/giNaZ4l82GrIJlpfQ
+         J486Cb4kPlxhomt9RF5pslDyGwu8xLwvt4oVCbNB3Odxdt7W4nNLj/RE/54eH4fZFvSH
+         iUmA==
+X-Gm-Message-State: AJaThX4ylcAv2Ia/4b991GTEX3b6o680WmoI/uRM8hS7NQq1SHO8IWOE
+	7LYQVM5saOandPfXdjo6acujt1HBTNYfO04Wixfwk02GYrs=
+X-Google-Smtp-Source: AGs4zMajJvl2zAW9zAH5b95/RRUoAFAgMGCw90KLn3CsGoCNLihBGMK24cpkfjF90xb0JTCjV8vyADLxBQ7k6uqPZ3E=
+X-Received: by 10.36.189.205 with SMTP id x196mr5793194ite.152.1511933601193;
+ Tue, 28 Nov 2017 21:33:21 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.79.145.2 with HTTP; Tue, 28 Nov 2017 21:33:20 -0800 (PST)
+From: "IJSDR J." <editorialboard@ijsdr.net>
+Date: Wed, 29 Nov 2017 13:33:20 +0800
+Message-ID: <CAHR75qGSxrufrNyocVW_5E0ZZ85P7c0hHG5kx791Ew5Ok=EJvw@mail.gmail.com>
+Subject: Invitation of paper submission and editorial board members/reviewers
+To: mail@stilfilm.com
+Content-Type: multipart/alternative; boundary="94eb2c19dd02392c85055f1879d2"
+
+--94eb2c19dd02392c85055f1879d2
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Science | Publishing | Group
+Dear Professor/Author,,
+In order to provide you scholars a better condition to publish papers and
+share more recent research achievements and findings, we sincerely invite
+scholars and researchers to submit papers to the journals or join in the
+editorial board or reviewer team.
+Invitation to Submit Your Papers
+SciencePG is an independent academic publisher with an editorial team
+comprising many of the world's leading researchers. If you have burst out
+some new ideas in your interested field, welcome to submit your papers to
+the corresponding Journals or Special Issues so as to share your ideas with
+people around the world. Submission via online system:
+http://www.sciencepg.com/login
+Some Suggested Featured Journals
+<http://www.ajmse.org/>
+American Journal of Management Science and Engineering
+<http://www.ajmse.org/>
+<http://www.hssjournal.org/>
+Humanities and Social Sciences <http://www.hssjournal.org/>
+<http://www.journalbioscience.org/>
+American Journal of Bioscience and Bioengineering
+<http://www.journalbioscience.org/>
+<http://www.eeejournal.org/>
+Journal of Electrical and Electronic Engineering
+<http://www.eeejournal.org/>
+<http://www.ijtet.org/>
+International Journal of Transportation Engineering and Technology
+<http://www.ijtet.org/>
+<http://www.ijmsa.org/>
+International Journal of Materials Science and Applications
+<http://www.ijmsa.org/>
+<http://www.ajcem.net/>
+American Journal of Clinical and Experimental Medicine
+<http://www.ajcem.net/>
+<http://www.ijema.org/>
+International Journal of Environmental Monitoring and Analysis
+<http://www.ijema.org/>
+<http://www.journalenergy.org/>
+American Journal of Energy Engineering <http://www.journalenergy.org/>
+Features of Journals
+1. Open Access makes knowledge available to all, without the barrier of
+affordability and without restrictions on using it to develop related areas
+of research;
+2. Paper Publication in 60 Days;
+3. Indexing Database;
+4. Papers submitted to the journals is peer-reviewed, which means reviewer
+anonymity allows for impartial decisions =E2=80=93 the reviewers will not b=
+e
+influenced by the authors;
+Join the Editorial Board
+In order to expand the editorial board and reviewer group, we would like to
+invite you to be our editorial member or reviewer of our journals with
+great sincerity. For more details about the Benefits and Responsibilities
+of the editorial member or reviewer, please feel free to visit the
+following link:
+http://www.sciencepg.com/info/joinasaneditorialmember
+
+--94eb2c19dd02392c85055f1879d2
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><br><br><div style=3D"background:rgb(182,182,182) none rep=
+eat scroll 0% 0%;font:13px/22px Arial;padding:80px 0px 200px 20px;width:100=
+%;color:rgb(51,51,51)">   <div style=3D"background:rgb(255,255,255) none re=
+peat scroll 0% 0%;width:740px"><div style=3D"background:rgb(29,71,141) none=
+ repeat scroll 0% 0%;height:45px;color:rgb(255,255,255);line-height:45px;pa=
+dding-left:20px;font-size:15px;border-bottom:10px solid rgb(221,221,221)">S=
+cience | Publishing | Group </div><div style=3D"margin:0px auto;width:700px=
+;padding-top:15px"><div style=3D"font-size:12px"><div style=3D"padding-bott=
+om:5px">Dear Professor/Author,,</div><div style=3D"line-height:22px;padding=
+-bottom:10px"> 			In order to provide you scholars a better condition to pu=
+blish papers and share more recent research achievements and findings, we s=
+incerely invite scholars and researchers to submit papers to the journals o=
+r join in the editorial board or reviewer team. 			</div></div></div><div s=
+tyle=3D"padding:5px 20px 10px;border-bottom:10px solid rgb(221,221,221)"><d=
+iv style=3D"color:rgb(29,71,141);line-height:24px;padding-bottom:4px;font-s=
+ize:24px;font-weight:bold;border-bottom:2px solid rgb(29,71,141)">Invitatio=
+n to Submit Your Papers</div><div style=3D"line-height:22px;padding-top:8px=
+;font-size:12px"> 			SciencePG is an independent academic publisher with an=
+ editorial team comprising many of the world&#39;s leading researchers. If =
+you have burst out some new ideas in your interested field, welcome to subm=
+it your papers to the corresponding Journals or Special Issues so as to sha=
+re your ideas with people around the world. Submission via online system: <=
+br><a style=3D"color:rgb(0,0,255);text-decoration:none;white-space:nowrap" =
+href=3D"http://www.sciencepg.com/login" target=3D"_blank">http://www.scienc=
+epg.com/login</a> 			</div></div><div style=3D"padding:15px 20px;border-bot=
+tom:10px solid rgb(221,221,221)"><div style=3D"width:480px;float:left"><div=
+ style=3D"color:rgb(29,71,141);line-height:24px;font-size:24px;font-weight:=
+bold">Some Suggested Featured Journals</div><div style=3D"line-height:20px;=
+padding-top:10px"><div style=3D"margin-bottom:5px"><div style=3D"width:150p=
+x;margin-right:15px;float:left"><div class=3D"gmail-bg_top"><a href=3D"http=
+://www.ajmse.org/" target=3D"_blank"><img src=3D"http://img.ajmse.org/cover=
+/101.gif" width=3D"150" height=3D"200"></a></div><div class=3D"gmail-bg_bot=
+tom"><a style=3D"color:rgb(51,51,51);font-weight:bold" href=3D"http://www.a=
+jmse.org/" target=3D"_blank">American Journal of Management Science and Eng=
+ineering</a></div></div><div style=3D"width:150px;margin-right:15px;float:l=
+eft"><div class=3D"gmail-bg_top"><a href=3D"http://www.hssjournal.org/" tar=
+get=3D"_blank"><img src=3D"http://img.hssjournal.org/cover/208.gif" width=
+=3D"150" height=3D"200"></a></div><div class=3D"gmail-bg_bottom"><a style=
+=3D"color:rgb(51,51,51);font-weight:bold" href=3D"http://www.hssjournal.org=
+/" target=3D"_blank">Humanities and Social Sciences</a></div></div><div sty=
+le=3D"width:150px;float:left"><div class=3D"gmail-bg_top"><a href=3D"http:/=
+/www.journalbioscience.org/" target=3D"_blank"><img src=3D"http://img.journ=
+albioscience.org/cover/217.gif" width=3D"150" height=3D"200"></a></div><div=
+ class=3D"gmail-bg_bottom"><a style=3D"color:rgb(51,51,51);font-weight:bold=
+" href=3D"http://www.journalbioscience.org/" target=3D"_blank">American Jou=
+rnal of Bioscience and Bioengineering</a></div></div></div><div style=3D"ma=
+rgin-bottom:5px"><div style=3D"width:150px;margin-right:15px;float:left"><d=
+iv class=3D"gmail-bg_top"><a href=3D"http://www.eeejournal.org/" target=3D"=
+_blank"><img src=3D"http://img.eeejournal.org/cover/239.gif" width=3D"150" =
+height=3D"200"></a></div><div class=3D"gmail-bg_bottom"><a style=3D"color:r=
+gb(51,51,51);font-weight:bold" href=3D"http://www.eeejournal.org/" target=
+=3D"_blank">Journal of Electrical and Electronic Engineering</a></div></div=
+><div style=3D"width:150px;margin-right:15px;float:left"><div class=3D"gmai=
+l-bg_top"><a href=3D"http://www.ijtet.org/" target=3D"_blank"><img src=3D"h=
+ttp://img.ijtet.org/cover/514.gif" width=3D"150" height=3D"200"></a></div><=
+div class=3D"gmail-bg_bottom"><a style=3D"color:rgb(51,51,51);font-weight:b=
+old" href=3D"http://www.ijtet.org/" target=3D"_blank">International Journal=
+ of Transportation Engineering and Technology</a></div></div><div style=3D"=
+width:150px;float:left"><div class=3D"gmail-bg_top"><a href=3D"http://www.i=
+jmsa.org/" target=3D"_blank"><img src=3D"http://img.ijmsa.org/cover/123.gif=
+" width=3D"150" height=3D"200"></a></div><div class=3D"gmail-bg_bottom"><a =
+style=3D"color:rgb(51,51,51);font-weight:bold" href=3D"http://www.ijmsa.org=
+/" target=3D"_blank">International Journal of Materials Science and Applica=
+tions</a></div></div></div><div style=3D"margin-bottom:10px"><div style=3D"=
+width:150px;margin-right:15px;float:left"><div class=3D"gmail-bg_top"><a hr=
+ef=3D"http://www.ajcem.net/" target=3D"_blank"><img src=3D"http://img.ajcem=
+.net/cover/254.gif" width=3D"150" height=3D"200"></a></div><div class=3D"gm=
+ail-bg_bottom"><a style=3D"color:rgb(51,51,51);font-weight:bold" href=3D"ht=
+tp://www.ajcem.net/" target=3D"_blank">American Journal of Clinical and Exp=
+erimental Medicine</a></div></div><div style=3D"width:150px;margin-right:15=
+px;float:left"><div class=3D"gmail-bg_top"><a href=3D"http://www.ijema.org/=
+" target=3D"_blank"><img src=3D"http://img.ijema.org/cover/162.gif" width=
+=3D"150" height=3D"200"></a></div><div class=3D"gmail-bg_bottom"><a style=
+=3D"color:rgb(51,51,51);font-weight:bold" href=3D"http://www.ijema.org/" ta=
+rget=3D"_blank">International Journal of Environmental Monitoring and Analy=
+sis</a></div></div><div style=3D"width:150px;float:left"><div class=3D"gmai=
+l-bg_top"><a href=3D"http://www.journalenergy.org/" target=3D"_blank"><img =
+src=3D"http://img.journalenergy.org/cover/168.gif" width=3D"150" height=3D"=
+200"></a></div><div class=3D"gmail-bg_bottom"><a style=3D"color:rgb(51,51,5=
+1);font-weight:bold" href=3D"http://www.journalenergy.org/" target=3D"_blan=
+k">American Journal of Energy Engineering</a></div></div></div></div></div>=
+<div style=3D"background:rgb(221,238,255) none repeat scroll 0% 0%;width:20=
+0px;margin-top:34px;float:right"><div style=3D"padding:5px;line-height:24px=
+"><div style=3D"color:rgb(0,84,168);padding-bottom:8px;font-family:&quot;Ti=
+mes New Roman&quot;;font-size:18px;font-weight:bold">Features of Journals</=
+div><div>1. Open Access makes knowledge available to all, without the barri=
+er of affordability and without restrictions on using it to develop related=
+ areas of research;</div><div>2. Paper Publication in 60 Days;</div><div>3.=
+ Indexing Database;</div><div>4. Papers submitted to the journals is peer-r=
+eviewed, which means reviewer anonymity allows for impartial decisions =E2=
+=80=93 the reviewers will not be influenced by the authors;</div></div></di=
+v></div><div style=3D"padding:15px 20px;border-bottom:10px solid rgb(221,22=
+1,221)"><div style=3D"color:rgb(29,70,140);line-height:24px;padding-bottom:=
+4px;font-size:24px;font-weight:bold;margin-bottom:8px;border-bottom:2px sol=
+id rgb(29,70,140)">Join the Editorial Board</div><div style=3D"line-height:=
+20px;font-size:12px"> 		In order to expand the editorial board and reviewer=
+ group, we would like to invite you to be our editorial member or reviewer =
+of our journals with great sincerity. For more details about the Benefits a=
+nd Responsibilities of the editorial member or reviewer, please feel free t=
+o visit the following link: <br><a style=3D"color:rgb(0,0,255);text-decorat=
+ion:none;white-space:nowrap" href=3D"http://www.sciencepg.com/info/joinasan=
+editorialmember" target=3D"_blank">http://www.sciencepg.com/info/joinasaned=
+itorialmember</a> 		</div></div><div style=3D"background:rgb(0,90,181) none=
+ repeat scroll 0% 0%;width:100%;height:20px">=C2=A0</div></div></div></div>
+
+--94eb2c19dd02392c85055f1879d2--

@@ -1,0 +1,784 @@
+Return-Path: <return-a444-63170-63171-589bf19f=199990483=8@pixel-promarketing.de>
+Delivered-To: mail@dorianvasco.de
+Received: from localhost (localhost [127.0.0.1])
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTP id 43A97C6E09
+	for <mail@dorianvasco.de>; Mon, 14 Oct 2019 02:05:31 +0200 (CEST)
+Authentication-Results: v22014122474822114.stilfilm.com; dkim=pass
+	reason="1024-bit key; insecure key"
+	header.d=pixel-promarketing.de header.i=@pixel-promarketing.de
+	header.b=bPfJXYaV; dkim-adsp=pass; dkim-atps=neutral
+X-Virus-Scanned: Debian amavisd-new at v22014122474822114.yourvserver.net
+X-Spam-Flag: NO
+X-Spam-Score: 5.304
+X-Spam-Level: *****
+X-Spam-Status: No, score=5.304 required=5.5 tests=[BAYES_99=3.5,
+	BAYES_999=0.2, DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	FROM_EXCESS_BASE64=0.001, HTML_IMAGE_RATIO_06=0.001,
+	HTML_MESSAGE=0.001, SPF_HELO_NONE=0.001, URIBL_BLACK=1.7] autolearn=no
+Received: from v22014122474822114.stilfilm.com ([127.0.0.1])
+	by localhost (v22014122474822114.stilfilm.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id D3p1NYB-jAS6 for <mail@dorianvasco.de>;
+	Mon, 14 Oct 2019 02:05:28 +0200 (CEST)
+Received: from smtp7-125.newsletter-pixelpro.de (smtp7-125.newsletter-pixelpro.de [193.70.52.211])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(No client certificate requested)
+	by v22014122474822114.stilfilm.com (Postfix) with ESMTPS id 7992FC4421
+	for <kontakt@dorianvasco.de>; Mon, 14 Oct 2019 02:05:24 +0200 (CEST)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; d=pixel-promarketing.de; s=ppm;
+ t=1571011520; bh=9qtF/agmCq8y/jg9z1YNwIi8fRU=;
+ h=Subject:From:To:Reply-To:Date:List-Unsubscribe:X-CampaignID:
+  Message-ID:X-Mailer-Info:MIME-Version:Content-Type;
+ b=bPfJXYaVO6Rg9TMA3XVmFveIrpYKfjY41XX7oTiV9M7qz95EdbzxBHGovcbfX5Xwg
+  W5pfBEz6MPUc6XcWjLvhGFGYVeye+8QaNA0Zq7aNL5lo+ZShBBObQlpzGHWq2fj1Ak
+  MZzghE8Yn8Aq/tmT61HIcpBD0isfy6Iyh34w+oZw=
+Subject: Sind das Ihre alten Schulfreunde?
+From: "=?UTF-8?B?U3RheUZyaWVuZHMgcHLDpHNlbnRpZXJ0IHZvbiBQaXhlbCBQcm9NYXJrZXRp?=
+ =?UTF-8?B?bmc=?=" <mail@pixel-promarketing.de>
+To: kontakt@dorianvasco.de
+Reply-To: noreply@pixel-promarketing.de
+Date: 14 Oct 2019 00:05:20 -0000
+List-Unsubscribe: <http://pixel-promarketing.de/ga/unsubscribe/2-199990483-444-23405-63171-e04939885d24e4c-37d6337d71?confirmed=1>,
+ <mailto:return-a444-63170-63171-589bf19f=199990483=8u@pixel-promarketing.de>
+X-CampaignID: s4:63170-358f2ea598518bca
+Message-ID: <mid-97c057898ec6eb906607e155bd2f10d2-33@pixel-promarketing.de>
+X-Mailer-Info: 8.QY0QDN.YzMxcDM.wav5GdhtGdAR2bylWYuZXYzN2buQWZ.xkTO5kDM0gzM.YzMxcTM
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="==83d6f0c63d3ae55389c10a94bc273344"
+
+This is a multi-part message in MIME format.
+
+--==83d6f0c63d3ae55389c10a94bc273344
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Sollte Ihr Newsletter nicht korrekt dargestellt werden,
+klicken Sie bitte hier. ( http://pixel-promarketing.de/ga/webviews/4-199990=
+483-444-23405-25842-63171-35ca2b99b7 )
+
+Wie alt sind Sie? ( http://pixel-promarketing.de/ga/click/2-199990483-444-2=
+3405-63171-1909430-654c8d258f-37d6337d71 )
+
+30 ( http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-1909=
+431-3c280a76c4-37d6337d71 )
+
+31 ( http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-1909=
+432-95411f9202-37d6337d71 )
+
+32 ( http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-1909=
+433-a67f128100-37d6337d71 )
+
+33 ( http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-1909=
+434-298f60e52f-37d6337d71 )
+
+34 ( http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-1909=
+435-38d800327b-37d6337d71 )
+
+35 ( http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-1909=
+436-e0c1fe8b7b-37d6337d71 )
+
+36 ( http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-1909=
+437-318da475b9-37d6337d71 )
+
+37 ( http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-1909=
+438-aa96781522-37d6337d71 )
+
+38 ( http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-1909=
+439-f643404f37-37d6337d71 )
+
+39 ( http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-1909=
+440-3ddff58708-37d6337d71 )
+
+40 ( http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-1909=
+441-eed7fcbbd8-37d6337d71 )
+
+41 ( http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-1909=
+442-5fe08545f6-37d6337d71 )
+
+42 ( http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-1909=
+443-bd9e5448c9-37d6337d71 )
+
+43 ( http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-1909=
+444-d8f5c84857-37d6337d71 )
+
+44 ( http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-1909=
+445-2f8fab7f09-37d6337d71 )
+
+45 ( http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-1909=
+446-0f35a5c6fe-37d6337d71 )
+
+46 ( http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-1909=
+447-0809cb5137-37d6337d71 )
+
+47 ( http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-1909=
+448-edefd13614-37d6337d71 )
+
+48 ( http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-1909=
+449-6bda662d49-37d6337d71 )
+
+49 ( http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-1909=
+450-2e8e1fb488-37d6337d71 )
+
+50 ( http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-1909=
+451-97674878d3-37d6337d71 )
+
+51 ( http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-1909=
+452-2e0cf32f18-37d6337d71 )
+
+52 ( http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-1909=
+453-73f58a7838-37d6337d71 )
+
+53 ( http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-1909=
+454-20befbf263-37d6337d71 )
+
+54 ( http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-1909=
+455-4d3f4b4d20-37d6337d71 )
+
+55 ( http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-1909=
+456-bf33688322-37d6337d71 )
+
+56 ( http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-1909=
+457-182d0ec672-37d6337d71 )
+
+57 ( http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-1909=
+458-088fcaa42b-37d6337d71 )
+
+58 ( http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-1909=
+459-aa14c0ce1d-37d6337d71 )
+
+59 ( http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-1909=
+460-380f2f9c20-37d6337d71 )
+
+60 ( http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-1909=
+461-4746a1c9a6-37d6337d71 )
+
+61 ( http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-1909=
+462-4ab51db71a-37d6337d71 )
+
+62 ( http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-1909=
+463-1933a26ce3-37d6337d71 )
+
+63 ( http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-1909=
+464-35972c3e9c-37d6337d71 )
+
+64 ( http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-1909=
+465-fd7a79d639-37d6337d71 )
+
+65 ( http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-1909=
+466-05ff0137be-37d6337d71 )
+
+66 ( http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-1909=
+467-67c5c161b0-37d6337d71 )
+
+67 ( http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-1909=
+468-60e432ab42-37d6337d71 )
+
+68 ( http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-1909=
+469-35d13e3398-37d6337d71 )
+
+69 ( http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-1909=
+470-af3ba44a07-37d6337d71 )
+
+70 ( http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-1909=
+471-e22c81a4fc-37d6337d71 )
+
+71 ( http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-1909=
+472-b1942ff7ad-37d6337d71 )
+
+72 ( http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-1909=
+473-2a2ac38d4c-37d6337d71 )
+
+73 ( http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-1909=
+474-776510808e-37d6337d71 )
+
+74 ( http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-1909=
+475-c6a1d643e7-37d6337d71 )
+
+75 ( http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-1909=
+476-e61e195ea1-37d6337d71 )
+
+76 ( http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-1909=
+477-85b0ce45dd-37d6337d71 )
+
+77 ( http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-1909=
+478-237fc6e113-37d6337d71 )
+
+78 ( http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-1909=
+479-68fa17520f-37d6337d71 )
+
+79 ( http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-1909=
+480-07475dd150-37d6337d71 )
+
+80 ( http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-1909=
+481-ba5b5d260a-37d6337d71 )
+
+81 ( http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-1909=
+482-0b965701bd-37d6337d71 )
+
+82 ( http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-1909=
+483-1b79d91dc6-37d6337d71 )
+
+83 ( http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-1909=
+484-049dff5a47-37d6337d71 )
+
+84 ( http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-1909=
+485-15de827298-37d6337d71 )
+
+85 ( http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-1909=
+486-2166fdb22c-37d6337d71 )
+
+86 ( http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-1909=
+487-7ad72f3bbd-37d6337d71 )
+
+87 ( http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-1909=
+488-580f8e5be3-37d6337d71 )
+
+88 ( http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-1909=
+489-5412a5494f-37d6337d71 )
+
+89 ( http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-1909=
+490-d1b8ed8b7b-37d6337d71 )
+
+StayFriends=C2=AE ( http://pixel-promarketing.de/ga/click/2-199990483-444-2=
+3405-63171-1909491-62d71e89fa-37d6337d71 )
+
+Alte Schulfreunde ( http://pixel-promarketing.de/ga/click/2-199990483-444-2=
+3405-63171-1909492-a57ea859df-37d6337d71 )
+
+Das Angebot ist eine kommerzielle Anzeige dieses Werbekunden,
+der allein f=C3=BCr den Inhalt verantwortlich ist.
+
+Verantwortlich f=C3=BCr den Versand der E-Mail ist:
+Ein Service von Pixel ProMarketing S.L. | Str Azor n5
+Mijas-Costa | E-29651 M=C3=A1laga
+
+Ihre Daten sind lediglich bei dem Versender gespeichert. Der
+Werbekunde hat daher keinen Einfluss auf dem Empf=C3=A4ngerkreis der
+E-Mail.
+Sofern Sie k=C3=BCnftig keinen Newsletter mehr erhalten m=C3=B6chten,
+wenden Sie sich bitte direkt an den Versender oder klicken auf
+folgenden Link: Abmelden ( http://pixel-promarketing.de/ga/unsubscribe/2-19=
+9990483-444-23405-63171-e04939885d24e4c-37d6337d71 )
+
+Haben Sie Verst=C3=A4ndnis, dass die Abmeldung bis zu 48 Stunden
+dauern kann. Direkte Antworten an die Absenderadresse k=C3=B6nnen
+nicht beantwortet werden.
+
+support(at)pixelpromarketing.com ( support@pixelpromarketing.com
+)
+Ihre Daten sind lediglich bei dem Versender gespeichert. Der
+Werbekunde hat daher keinen Einfluss auf den Empf=C3=A4ngerkreis der
+E-Mail.=
+
+--==83d6f0c63d3ae55389c10a94bc273344
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+<title>Newsletter</title>
+
+<style>
+      ## TWEAKS
+      ##/* outlook.com line-height fix. http://www.emailonacid.com/blog/det=
+ails/C13/line_height_and_outlook.com */
+      .ExternalClass {
+          width:100%;
+      }
+      .ExternalClass,
+      .ExternalClass p,
+      .ExternalClass span,
+      .ExternalClass font,
+      .ExternalClass td,
+      .ExternalClass div {
+          line-height: 100%;
+      }
+      ##/* Yahoo Fix, sonst werdern einige Links bei Yahoo komisch formatie=
+rt. K=C3=B6nnte aber sein, dass es nicht mehr aktuell ist.*/
+      span.yshortcuts {
+          color:#000;
+          background-color:none;
+          border:none;
+      }
+      span.yshortcuts:hover,
+      span.yshortcuts:active,
+      span.yshortcuts:focus {
+          color:#000;
+          background-color:none;
+          border:none;
+      }
+</style>
+</head>
+
+<body>
+ <center>
+<span style=3D"font-size: 10px; line-height: 12px; color: #000000; font-fam=
+ily: 'Century Gothic', Tahoma, sans-serif;">Sollte Ihr Newsletter nicht kor=
+rekt dargestellt werden,<br /><a style=3D"color: #000000; text-decoration: =
+underline; font-weight: bold;" href=3D"http://pixel-promarketing.de/ga/webv=
+iews/4-199990483-444-23405-25842-63171-35ca2b99b7" target=3D"_blank">klicke=
+n Sie bitte hier.</a></span>
+</center>=20
+
+<div align=3D"center" style=3D"width:100%; height:1000px; overflow:hidden;">
+
+  <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"500" hei=
+ght=3D"1000" style=3D"font-family:Arial, Helvetica, sans-serif; border:3px =
+solid #dddddd;">
+      <tr>
+          <td style=3D"padding-top:20px; padding-right:30px; padding-bottom=
+:20px; padding-left: 30px; font-size:30px ; font-weight:bold;" align=3D"cen=
+ter" valign=3D"top"><a style=3D"border-style: none; text-decoration:none; c=
+olor:#000000;" href=3D"http://pixel-promarketing.de/ga/click/2-199990483-44=
+4-23405-63171-1909430-654c8d258f-37d6337d71" target=3D"_blank">Wie alt sind=
+ Sie?</a></td>
+      </tr>
+      <tr>
+        <td style=3D"padding-right:30px; padding-bottom:30px; padding-left:=
+30px;" align=3D"center" valign=3D"top">
+          <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=3D"=
+center" style=3D"font-size:22px; line-height:41px; padding-right:0px;" widt=
+h=3D"100%" height=3D"">
+            <!-- //////////////// ROW 30 /////////////////-->
+            <tr bgcolor=3D"#e8eef5">
+              <td style=3D"color:#0077b3;" valign=3D"middle" align=3D"cente=
+r" width=3D"10%"><a style=3D"font-weight:bold; border-style: none; text-dec=
+oration:none; color:#000000;" href=3D"http://pixel-promarketing.de/ga/click=
+/2-199990483-444-23405-63171-1909431-3c280a76c4-37d6337d71" target=3D"_blan=
+k">30</a></td>
+
+              <td style=3D"" valign=3D"middle" align=3D"center" width=3D"10=
+%"><a style=3D"border-style: none; text-decoration:none; color:#000000;" hr=
+ef=3D"http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-190=
+9432-95411f9202-37d6337d71" target=3D"_blank">31</a></td>
+
+              <td style=3D"" valign=3D"middle" align=3D"center" width=3D"10=
+%"><a style=3D"border-style: none; text-decoration:none; color:#000000;" hr=
+ef=3D"http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-190=
+9433-a67f128100-37d6337d71" target=3D"_blank">32</a></td>
+
+              <td style=3D"" valign=3D"middle" align=3D"center" width=3D"10=
+%"><a style=3D"border-style: none; text-decoration:none; color:#000000;" hr=
+ef=3D"http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-190=
+9434-298f60e52f-37d6337d71" target=3D"_blank">33</a></td>
+
+              <td style=3D"" valign=3D"middle" align=3D"center" width=3D"10=
+%"><a style=3D"border-style: none; text-decoration:none; color:#000000;" hr=
+ef=3D"http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-190=
+9435-38d800327b-37d6337d71" target=3D"_blank">34</a></td>
+
+              <td style=3D"" valign=3D"middle" align=3D"center" width=3D"10=
+%"><a style=3D"border-style: none; text-decoration:none; color:#000000;" hr=
+ef=3D"http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-190=
+9436-e0c1fe8b7b-37d6337d71" target=3D"_blank">35</a></td>
+
+              <td style=3D"" valign=3D"middle" align=3D"center" width=3D"10=
+%"><a style=3D"border-style: none; text-decoration:none; color:#000000;" hr=
+ef=3D"http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-190=
+9437-318da475b9-37d6337d71" target=3D"_blank">36</a></td>
+
+              <td style=3D"" valign=3D"middle" align=3D"center" width=3D"10=
+%"><a style=3D"border-style: none; text-decoration:none; color:#000000;" hr=
+ef=3D"http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-190=
+9438-aa96781522-37d6337d71" target=3D"_blank">37</a></td>
+
+              <td style=3D"" valign=3D"middle" align=3D"center" width=3D"10=
+%"><a style=3D"border-style: none; text-decoration:none; color:#000000;" hr=
+ef=3D"http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-190=
+9439-f643404f37-37d6337d71" target=3D"_blank">38</a></td>
+
+              <td style=3D"" valign=3D"middle" align=3D"center" width=3D"10=
+%"><a style=3D"border-style: none; text-decoration:none; color:#000000;" hr=
+ef=3D"http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-190=
+9440-3ddff58708-37d6337d71" target=3D"_blank">39</a></td>
+            </tr>
+            <!-- /////////////////////////////////////////-->
+            <tr>
+                <td colspan=3D"10" width=3D"10" style=3D"font-size: 10px; l=
+ine-height: 10px; mso-line-height-rule: exactly; -webkit-text-size-adjust: =
+none;">&nbsp;</td>
+            </tr>
+            <!-- //////////////// ROW 40 /////////////////-->
+            <tr bgcolor=3D"#f3f6fa">
+              <td style=3D"color:#0077b3;" valign=3D"middle" align=3D"cente=
+r" width=3D"10%"><a style=3D"font-weight:bold; border-style: none; text-dec=
+oration:none; color:#000000;" href=3D"http://pixel-promarketing.de/ga/click=
+/2-199990483-444-23405-63171-1909441-eed7fcbbd8-37d6337d71" target=3D"_blan=
+k">40</a></td>
+
+              <td style=3D"" valign=3D"middle" align=3D"center" width=3D"10=
+%"><a style=3D"border-style: none; text-decoration:none; color:#000000;" hr=
+ef=3D"http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-190=
+9442-5fe08545f6-37d6337d71" target=3D"_blank">41</a></td>
+
+              <td style=3D"" valign=3D"middle" align=3D"center" width=3D"10=
+%"><a style=3D"border-style: none; text-decoration:none; color:#000000;" hr=
+ef=3D"http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-190=
+9443-bd9e5448c9-37d6337d71" target=3D"_blank">42</a></td>
+
+              <td style=3D"" valign=3D"middle" align=3D"center" width=3D"10=
+%"><a style=3D"tborder-style: none; text-decoration:none; color:#000000;" h=
+ref=3D"http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-19=
+09444-d8f5c84857-37d6337d71" target=3D"_blank">43</a></td>
+
+              <td style=3D"" valign=3D"middle" align=3D"center" width=3D"10=
+%"><a style=3D"border-style: none; text-decoration:none; color:#000000;" hr=
+ef=3D"http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-190=
+9445-2f8fab7f09-37d6337d71" target=3D"_blank">44</a></td>
+
+              <td style=3D"" valign=3D"middle" align=3D"center" width=3D"10=
+%"><a style=3D"border-style: none; text-decoration:none; color:#000000;" hr=
+ef=3D"http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-190=
+9446-0f35a5c6fe-37d6337d71" target=3D"_blank">45</a></td>
+
+              <td style=3D"" valign=3D"middle" align=3D"center" width=3D"10=
+%"><a style=3D"border-style: none; text-decoration:none; color:#000000;" hr=
+ef=3D"http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-190=
+9447-0809cb5137-37d6337d71" target=3D"_blank">46</a></td>
+
+              <td style=3D"" valign=3D"middle" align=3D"center" width=3D"10=
+%"><a style=3D"border-style:none; text-decoration:none; color:#000000;" hre=
+f=3D"http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-1909=
+448-edefd13614-37d6337d71" target=3D"_blank">47</a></td>
+
+              <td style=3D"" valign=3D"middle" align=3D"center" width=3D"10=
+%"><a style=3D"border-style:none; text-decoration:none; color:#000000;" hre=
+f=3D"http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-1909=
+449-6bda662d49-37d6337d71" target=3D"_blank">48</a></td>
+
+              <td style=3D"" valign=3D"middle" align=3D"center" width=3D"10=
+%"><a style=3D"border-style:none; text-decoration:none; color:#000000;" hre=
+f=3D"http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-1909=
+450-2e8e1fb488-37d6337d71" target=3D"_blank">49</a></td>
+            </tr>
+            <!-- /////////////////////////////////////////-->
+            <tr>
+                <td colspan=3D"10" width=3D"10" style=3D"font-size: 10px; l=
+ine-height: 10px; mso-line-height-rule: exactly; -webkit-text-size-adjust: =
+none;">&nbsp;</td>
+            </tr>
+            <!-- //////////////// ROW 50 /////////////////-->
+            <tr bgcolor=3D"#e8eef5">
+              <td style=3D"color:#0077b3;" valign=3D"middle" align=3D"cente=
+r" width=3D"10%"><a style=3D"font-weight:bold; border-style:none; text-deco=
+ration:none; color:#000000;" href=3D"http://pixel-promarketing.de/ga/click/=
+2-199990483-444-23405-63171-1909451-97674878d3-37d6337d71" target=3D"_blank=
+">50</a></td>
+
+              <td style=3D"" valign=3D"middle" align=3D"center" width=3D"10=
+%"><a style=3D"border-style:none; text-decoration:none; color:#000000;" hre=
+f=3D"http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-1909=
+452-2e0cf32f18-37d6337d71" target=3D"_blank">51</a></td>
+
+              <td style=3D"" valign=3D"middle" align=3D"center" width=3D"10=
+%"><a style=3D"border-style:none; text-decoration:none; color:#000000;"href=
+=3D"https://www.stayfriends.de/sfvc/inboundlinks/ADB1Z?ABBZ=3D17287&AFBZ=3D=
+ee67a88d542c749508c721f30ac8cbe903158d0c_&ref=3D52" target=3D"_blank">52</a=
+></td>
+
+              <td style=3D"" valign=3D"middle" align=3D"center" width=3D"10=
+%"><a style=3D"border-style:none; text-decoration:none; color:#000000;" hre=
+f=3D"http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-1909=
+454-20befbf263-37d6337d71" target=3D"_blank">53</a></td>
+
+              <td style=3D"" valign=3D"middle" align=3D"center" width=3D"10=
+%"><a style=3D"border-style:none; text-decoration:none; color:#000000;" hre=
+f=3D"http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-1909=
+455-4d3f4b4d20-37d6337d71" target=3D"_blank">54</a></td>
+
+              <td style=3D"" valign=3D"middle" align=3D"center" width=3D"10=
+%"><a style=3D"border-style:none; text-decoration:none; color:#000000;" hre=
+f=3D"http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-1909=
+456-bf33688322-37d6337d71" target=3D"_blank">55</a></td>
+
+              <td style=3D"" valign=3D"middle" align=3D"center" width=3D"10=
+%"><a style=3D"border-style:none; text-decoration:none; color:#000000;" hre=
+f=3D"http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-1909=
+457-182d0ec672-37d6337d71" target=3D"_blank">56</a></td>
+
+              <td style=3D"" valign=3D"middle" align=3D"center" width=3D"10=
+%"><a style=3D"border-style:none; text-decoration:none; color:#000000;" hre=
+f=3D"http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-1909=
+458-088fcaa42b-37d6337d71" target=3D"_blank">57</a></td>
+
+              <td style=3D"" valign=3D"middle" align=3D"center" width=3D"10=
+%"><a style=3D"border-style:none; text-decoration:none; color:#000000;" hre=
+f=3D"http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-1909=
+459-aa14c0ce1d-37d6337d71" target=3D"_blank">58</a></td>
+
+              <td style=3D"" valign=3D"middle" align=3D"center" width=3D"10=
+%"><a style=3D"border-style:none; text-decoration:none; color:#000000;"href=
+=3D"https://www.stayfriends.de/sfvc/inboundlinks/ADB1Z?ABBZ=3D17287&AFBZ=3D=
+ee67a88d542c749508c721f30ac8cbe903158d0c_&ref=3D59" target=3D"_blank">59</a=
+></td>
+            </tr>
+            <!-- /////////////////////////////////////////-->
+            <tr>
+                <td colspan=3D"10" width=3D"10" style=3D"font-size: 10px; l=
+ine-height: 10px; mso-line-height-rule: exactly; -webkit-text-size-adjust: =
+none;">&nbsp;</td>
+            </tr>
+            <!-- //////////////// ROW 60 /////////////////-->
+            <tr bgcolor=3D"#f3f6fa">
+              <td style=3D"color:#0077b3;" valign=3D"middle" align=3D"cente=
+r" width=3D"10%"><a style=3D"font-weight:bold; border-style:none; text-deco=
+ration:none; color:#000000;" href=3D"http://pixel-promarketing.de/ga/click/=
+2-199990483-444-23405-63171-1909461-4746a1c9a6-37d6337d71" target=3D"_blank=
+">60</a></td>
+
+              <td style=3D"" valign=3D"middle" align=3D"center" width=3D"10=
+%"><a style=3D"border-style:none; text-decoration:none; color:#000000;" hre=
+f=3D"http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-1909=
+462-4ab51db71a-37d6337d71" target=3D"_blank">61</a></td>
+
+              <td style=3D"" valign=3D"middle" align=3D"center" width=3D"10=
+%"><a style=3D"border-style:none; text-decoration:none; color:#000000;" hre=
+f=3D"http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-1909=
+463-1933a26ce3-37d6337d71" target=3D"_blank">62</a></td>=20
+
+              <td style=3D"" valign=3D"middle" align=3D"center" width=3D"10=
+%"><a style=3D"border-style:none; text-decoration:none; color:#000000;"href=
+=3D"https://www.stayfriends.de/sfvc/inboundlinks/ADB1Z?ABBZ=3D17287&AFBZ=3D=
+ee67a88d542c749508c721f30ac8cbe903158d0c_&ref=3D63" target=3D"_blank">63</a=
+></td>
+
+              <td style=3D"" valign=3D"middle" align=3D"center" width=3D"10=
+%"><a style=3D"border-style:none; text-decoration:none; color:#000000;" hre=
+f=3D"http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-1909=
+465-fd7a79d639-37d6337d71" target=3D"_blank">64</a></td>
+
+              <td style=3D"" valign=3D"middle" align=3D"center" width=3D"10=
+%"><a style=3D"border-style:none; text-decoration:none; color:#000000;" hre=
+f=3D"http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-1909=
+466-05ff0137be-37d6337d71" target=3D"_blank">65</a></td>
+
+              <td style=3D"" valign=3D"middle" align=3D"center" width=3D"10=
+%"><a style=3D"border-style:none; text-decoration:none; color:#000000;" hre=
+f=3D"http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-1909=
+467-67c5c161b0-37d6337d71" target=3D"_blank">66</a></td>
+
+              <td style=3D"" valign=3D"middle" align=3D"center" width=3D"10=
+%"><a style=3D"border-style:none; text-decoration:none; color:#000000;" hre=
+f=3D"http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-1909=
+468-60e432ab42-37d6337d71" target=3D"_blank">67</a></td>
+
+              <td style=3D"" valign=3D"middle" align=3D"center" width=3D"10=
+%"><a style=3D"border-style:none; text-decoration:none; color:#000000;" hre=
+f=3D"http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-1909=
+469-35d13e3398-37d6337d71" target=3D"_blank">68</a></td>
+
+              <td style=3D"" valign=3D"middle" align=3D"center" width=3D"10=
+%"><a style=3D"border-style:none; text-decoration:none; color:#000000;" hre=
+f=3D"http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-1909=
+470-af3ba44a07-37d6337d71" target=3D"_blank">69</a></td>
+            </tr>
+            <!-- /////////////////////////////////////////-->
+            <tr>
+                <td colspan=3D"10" width=3D"10" style=3D"font-size: 10px; l=
+ine-height: 10px; mso-line-height-rule: exactly; -webkit-text-size-adjust: =
+none;">&nbsp;</td>
+            </tr>
+            <!-- //////////////// ROW 70 /////////////////-->
+            <tr bgcolor=3D"#e8eef5">
+              <td style=3D"color:#0077b3;" valign=3D"middle" align=3D"cente=
+r" width=3D"10%"><a style=3D"font-weight:bold; border-style:none; text-deco=
+ration:none; color:#000000;" href=3D"http://pixel-promarketing.de/ga/click/=
+2-199990483-444-23405-63171-1909471-e22c81a4fc-37d6337d71" target=3D"_blank=
+">70</a></td>
+
+              <td style=3D"" valign=3D"middle" align=3D"center" width=3D"10=
+%"><a style=3D"border-style:none; text-decoration:none; color:#000000;" hre=
+f=3D"http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-1909=
+472-b1942ff7ad-37d6337d71" target=3D"_blank">71</a></td>
+
+              <td style=3D"" valign=3D"middle" align=3D"center" width=3D"10=
+%"><a style=3D"border-style:none; text-decoration:none; color:#000000;" hre=
+f=3D"http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-1909=
+473-2a2ac38d4c-37d6337d71" target=3D"_blank">72</a></td>
+
+              <td style=3D"" valign=3D"middle" align=3D"center" width=3D"10=
+%"><a style=3D"border-style:none; text-decoration:none; color:#000000;" hre=
+f=3D"http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-1909=
+474-776510808e-37d6337d71" target=3D"_blank">73</a></td>
+
+              <td style=3D"" valign=3D"middle" align=3D"center" width=3D"10=
+%"><a style=3D"border-style:none; text-decoration:none; color:#000000;" hre=
+f=3D"http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-1909=
+475-c6a1d643e7-37d6337d71" target=3D"_blank">74</a></td>
+
+              <td style=3D"" valign=3D"middle" align=3D"center" width=3D"10=
+%"><a style=3D"border-style:none; text-decoration:none; color:#000000;"href=
+=3D"https://www.stayfriends.de/sfvc/inboundlinks/ADB1Z?ABBZ=3D17287&AFBZ=3D=
+ee67a88d542c749508c721f30ac8cbe903158d0c_&ref=3D75" target=3D"_blank">75</a=
+></td>
+
+              <td style=3D"" valign=3D"middle" align=3D"center" width=3D"10=
+%"><a style=3D"border-style:none; text-decoration:none; color:#000000;" hre=
+f=3D"http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-1909=
+477-85b0ce45dd-37d6337d71" target=3D"_blank">76</a></td>
+
+              <td style=3D"" valign=3D"middle" align=3D"center" width=3D"10=
+%"><a style=3D"border-style:none; text-decoration:none; color:#000000;"href=
+=3D"https://www.stayfriends.de/sfvc/inboundlinks/ADB1Z?ABBZ=3D17287&AFBZ=3D=
+ee67a88d542c749508c721f30ac8cbe903158d0c_&ref=3D77" target=3D"_blank">77</a=
+></td>
+
+              <td style=3D"" valign=3D"middle" align=3D"center" width=3D"10=
+%"><a style=3D"border-style:none; text-decoration:none; color:#000000;" hre=
+f=3D"http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-1909=
+479-68fa17520f-37d6337d71" target=3D"_blank">78</a></td>
+
+              <td style=3D"" valign=3D"middle" align=3D"center" width=3D"10=
+%"><a style=3D"border-style:none; text-decoration:none; color:#000000;" hre=
+f=3D"http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-1909=
+480-07475dd150-37d6337d71" target=3D"_blank">79</a></td>
+            </tr>
+            <!-- /////////////////////////////////////////-->
+            <tr>
+                <td colspan=3D"10" width=3D"10" style=3D"font-size: 10px; l=
+ine-height: 10px; mso-line-height-rule: exactly; -webkit-text-size-adjust: =
+none;">&nbsp;</td>
+            </tr>
+            <!-- //////////////// ROW 80 /////////////////-->
+            <tr bgcolor=3D"#f3f6fa">
+              <td style=3D"color:#0077b3;" valign=3D"middle" align=3D"cente=
+r" width=3D"10%"><a style=3D"font-weight:bold; border-style:none; text-deco=
+ration:none; color:#000000;" href=3D"http://pixel-promarketing.de/ga/click/=
+2-199990483-444-23405-63171-1909481-ba5b5d260a-37d6337d71" target=3D"_blank=
+">80</a></td>
+
+              <td style=3D"" valign=3D"middle" align=3D"center" width=3D"10=
+%"><a style=3D"border-style:none; text-decoration:none; color:#000000;" hre=
+f=3D"http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-1909=
+482-0b965701bd-37d6337d71" target=3D"_blank">81</a></td>
+
+              <td style=3D"" valign=3D"middle" align=3D"center" width=3D"10=
+%"><a style=3D"border-style:none; text-decoration:none; color:#000000;" hre=
+f=3D"http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-1909=
+483-1b79d91dc6-37d6337d71" target=3D"_blank">82</a></td>
+
+              <td style=3D"" valign=3D"middle" align=3D"center" width=3D"10=
+%"><a style=3D"border-style:none; text-decoration:none; color:#000000;" hre=
+f=3D"http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-1909=
+484-049dff5a47-37d6337d71" target=3D"_blank">83</a></td>
+
+              <td style=3D"" valign=3D"middle" align=3D"center" width=3D"10=
+%"><a style=3D"border-style:none; text-decoration:none; color:#000000;" hre=
+f=3D"http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-1909=
+485-15de827298-37d6337d71" target=3D"_blank">84</a></td>
+
+              <td style=3D"" valign=3D"middle" align=3D"center" width=3D"10=
+%"><a style=3D"border-style:none; text-decoration:none; color:#000000;" hre=
+f=3D"http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-1909=
+486-2166fdb22c-37d6337d71" target=3D"_blank">85</a></td>
+
+              <td style=3D"" valign=3D"middle" align=3D"center" width=3D"10=
+%"><a style=3D"border-style:none; text-decoration:none; color:#000000;" hre=
+f=3D"http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-1909=
+487-7ad72f3bbd-37d6337d71" target=3D"_blank">86</a></td>
+
+              <td style=3D"" valign=3D"middle" align=3D"center" width=3D"10=
+%"><a style=3D"border-style:none; text-decoration:none; color:#000000;" hre=
+f=3D"http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-1909=
+488-580f8e5be3-37d6337d71" target=3D"_blank">87</a></td>
+
+              <td style=3D"" valign=3D"middle" align=3D"center" width=3D"10=
+%"><a style=3D"border-style:none; text-decoration:none; color:#000000;" hre=
+f=3D"http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-1909=
+489-5412a5494f-37d6337d71" target=3D"_blank">88</a></td>
+
+              <td style=3D"" valign=3D"middle" align=3D"center" width=3D"10=
+%"><a style=3D"border-style:none; text-decoration:none; color:#000000;" hre=
+f=3D"http://pixel-promarketing.de/ga/click/2-199990483-444-23405-63171-1909=
+490-d1b8ed8b7b-37d6337d71" target=3D"_blank">89</a></td>
+            </tr>
+            <!-- /////////////////////////////////////////-->
+          </table>
+        </td>
+      </tr>
+
+      <tr>
+        <td style=3D"padding-right:30px; padding-bottom:30px; padding-left:=
+30px;" height=3D"100%">=20=20=20=20=20=20=20=09
+      	<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100=
+%">
+        	<tr>
+            	<td width=3D"100%" align=3D"left" valign=3D"top"><a style=3D"b=
+order-style: none; text-decoration:none; color:#000000;" href=3D"http://pix=
+el-promarketing.de/ga/click/2-199990483-444-23405-63171-1909493-1bad29a94e-=
+37d6337d71" target=3D"_blank"><img src=3D"https://creative.stayfriends.de/D=
+E/500x1000_autumn-gingerbread_918_a/434x480_autumn-gingerbread_918_a.gif" w=
+idth=3D"434" height=3D"480" border=3D"0" alt=3D"" title=3D""></a>
+              </td>
+          </tr>
+        </table>
+        </td>
+      </tr>
+
+      <tr>
+        <td style=3D"padding-right:30px; padding-bottom:30px; padding-left:=
+30px;">
+          <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"=
+100%">
+            <tr>
+              <td width=3D"50%"><a style=3D"border-style: none; text-decora=
+tion:none; color:#000000;" href=3D"http://pixel-promarketing.de/ga/click/2-=
+199990483-444-23405-63171-1909491-62d71e89fa-37d6337d71" target=3D"_blank">=
+<img src=3D"https://creative.stayfriends.de/DE/500x1000_autumn-gingerbread_=
+918_a/logo.gif" width=3D"137" height=3D"23" border=3D"0" alt=3D"StayFriends=
+&reg;" title=3D"StayFriends&reg;"></a>
+              </td>
+
+              <td><a style=3D"border-style: none; text-decoration:none; col=
+or:#000000;" href=3D"http://pixel-promarketing.de/ga/click/2-199990483-444-=
+23405-63171-1909492-a57ea859df-37d6337d71" target=3D"_blank"><img src=3D"ht=
+tps://creative.stayfriends.de/DE/500x600_howold-text-classphoto-fries_DE_02=
+42_d/Button_Alte_Schulfreunde.gif" width=3D"278" height=3D"37" border=3D"0"=
+ alt=3D"Alte Schulfreunde" title=3D"Alte Schulfreunde"></a>
+              </td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+<img src=3D"https://acl.stayfriends.de/acv/A3105536/acv?adrhID=3D14952" wid=
+th=3D"1" height=3D"1" border=3D"0" />
+</div>
+<p align=3D"center">
+
+  <span style=3D"color: #808080; font-size: 12px;">Das Angebot ist eine kom=
+merzielle Anzeige dieses Werbekunden, der allein f&#252;r den Inhalt verant=
+wortlich ist.<br /></span><br /><span style=3D"color: #808080;font-size: 12=
+px;"> Verantwortlich f&#252;r den Versand der E-Mail ist:<br /> <span style=
+=3D"color: #808080;font-size: 12px;"> Ein Service von Pixel ProMarketing S.=
+L. &#160;&#160;|&#160;&#160; Str Azor n5 Mijas-Costa &#160;&#160;|&#160;&#1=
+60; E-29651 M&#225;laga</span><br /><br /> <span style=3D"color: #808080;fo=
+nt-size: 12px;"> Ihre Daten sind lediglich bei dem Versender gespeichert. D=
+er Werbekunde hat daher keinen Einfluss auf dem Empf&#228;ngerkreis der E-M=
+ail. </span><br /> Sofern Sie k&#252;nftig keinen Newsletter mehr erhalten =
+m&#246;chten, wenden Sie sich bitte direkt an den Versender oder klicken au=
+f folgenden Link: <a style=3D"font-weight: normal; text-decoration: underli=
+ne; color: #808080;" href=3D"http://pixel-promarketing.de/ga/unsubscribe/2-=
+199990483-444-23405-63171-e04939885d24e4c-37d6337d71"> Abmelden</a> <br /> =
+</span><span style=3D"color: #808080;font-size: 12px;"><br />Haben Sie Vers=
+t&#228;ndnis, dass die Abmeldung bis zu 48 Stunden dauern kann. Direkte Ant=
+worten an die Absenderadresse k&#246;nnen nicht beantwortet werden. </span>=
+</p>
+<center><span style=3D"color: #808080;"><span style=3D"color: #808080; font=
+-size: 12px;"> <a style=3D"font-weight: normal; text-decoration: underline;=
+ color: #808080; text-align: center;" href=3D"mailto:support@pixelpromarket=
+ing.com">support(at)pixelpromarketing.com</a></span></span>
+<p><span style=3D"color: #808080;font-size: 12px;">Ihre Daten sind lediglic=
+h bei dem Versender gespeichert. Der Werbekunde hat daher keinen Einfluss a=
+uf den Empf&#228;ngerkreis der E-Mail.</span>
+=20=20
+</p>
+
+
+<img src=3D"http://pixel-promarketing.de/ga/open/2-199990483-444-23405-6317=
+1-37d6337d71" height=3D"2" width=3D"3" alt=3D""></body>
+</html>=
+
+--==83d6f0c63d3ae55389c10a94bc273344--
